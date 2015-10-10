@@ -1,0 +1,87 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 1F48B26801D; Tue, 15 Jul 2014 16:06:25 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: =?ISO-8859-1?Q?C=E9cile?= Souty <souty@u707.jussieu.fr>
+Message-ID: <sympa.1405412513.9990.293@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue, 15 Jul 2014 16:06:25 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Poste bioinformaticien / biostatisticien =?ISO-8859-1?Q?=E0?= valence informatique
+
+Institut Pierre Louis d'Epidémiologie et de Santé Publique, UMRS 1136
+Equipe 1 : Surveillance et Modélisation des maladies transmissibles
+Réseau Sentinelles
+
+
+Recrutement d'un bioinformaticien ou biostatisticien à valence informatique
+
+
+Fiche de poste disponible en ligne : http://www.sentiweb.fr/document/Poste_IngeBioInfoStats_20140711
+ 
+
+Le réseau Sentinelles est une plateforme de recherche en médecine générale coordonnée par L'Institut Pierre-Louis d'épidémiologie et de santé publique (UMR S 1136, Inserm / UPMC). Le réseau, composé de médecins généralistes, participe, en collaboration avec l'Institut de Veille Sanitaire, à la surveillance des maladies communautaires comme la grippe, les gastro-entérites ou la varicelle. Il développe également l'étude GrippeNet.fr dédiée à la surveillance des épidémies de grippe en population générale.
+L'équipe développe des outils pour le recueil de données, le traitement et l'analyse et la publication des données épidémiologiques : http://www.sentiweb.fr, https://www.grippenet.fr, http://periodic.sentiweb.fr.
+
+
+Bioinformaticien ou biostatisticien à valence informatique (H/F)
+
+
+Localisation : UMR S 1136, Faculté de Médecine St Antoine, 27 rue Chaligny, 75012 PARIS
+Equipe : Equipe 1 / Réseau Sentinelles (~ 16 personnes)
+Type de poste : Temps plein, CDD de 3 mois, renouvelable pour une durée de 3 ans 
+Rémunération : 1650-2200 euros  net/mois selon diplôme et expérience (grille UPMC)
+Date de prise de fonction : 1er octobre 2014
+
+Description: 
+
+Le bioinformaticien/biostatisticien fera partie du pôle Système d'Information et Biostatistiques de l'équipe pluridisciplinaire du réseau Sentinelles. Ses missions principales seront de participer au développement des applications web et des outils d'analyse et de visualisation des données collectées par les systèmes de surveillance de l'équipe (Sentiweb, GrippeNet.fr). Il participera également aux projets de recherche en bioinformatique et biostatistique de l'équipe.
+
+
+Activités principales : 
+- Développement des applications informatiques de l'équipe Sentinelles (php5/MySQL, python/pgSQL)
+- Contribution à l'analyse de données de surveillance épidémiologique et à leur interprétation
+- Participation à des projets de recherche en épidémiologie (analyses statistiques d'études ponctuelles, développement de nouvelles méthodes, évaluation d'approches innovantes, ...)
+
+Activités complémentaires:
+- Contribuer à la gestion des serveurs web et bases de données.
+- Valorisation des résultats (publication scientifique, posters,...)
+
+Profil recherché :
+Diplôme : Bac + 5, Master en bioinformatique ou biostatistique, école d'ingénieur ou équivalent. 
+
+Compétences nécessaires
+Informatiques :
+- Développement php5 et technologies web (html5, CSS/JS/jQuery)
+- Connaissance des bases de données (MySQL++/pgSQL)
+Statistiques :
+- Connaissance du logiciel R
+- Connaissances en statistiques
+- Descriptives
+- Régression logistiques/linéaires
+Générales :
+- Aptitude à travailler en équipe pluridisciplinaire
+- Rigueur et méthode
+- Intérêt pour la recherche et/ou l'épidémiologie
+- Curiosité scientifique
+- Esprit d'initiative	
+
+Compétences utiles / bienvenues (formations internes possibles)
+Informatiques :
+- Utilisation d'un gestionnaire de version (svn, git)
+- Connaissance du framework Symfony2
+- Autres langages (python, java, C)
+- Administration des serveurs linux 
+Statistiques / Analyse de données :
+- Méthodes en épidémiologie (design d'étude, sondages,...)
+- Visualisation de données 
+
+Modalités de candidature : Envoyez CV & lettre de motivation à recrutement@sentiweb.fr
+http://www.sentiweb.fr/document/Poste_IngeBioInfoStats_20140711
+http://www.sentiweb.fr/?page=recrutement

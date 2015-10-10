@@ -1,0 +1,112 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id F1EC526801D; Thu,  8 May 2014 16:03:36 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: Alessandra Carbone <alessandra.carbone@lip6.fr>
+Message-ID: <sympa.1399557578.17166.45@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Thu,  8 May 2014 16:03:36 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] proposition de =?ISO-8859-1?Q?th=E8se?= - UPMC
+
+Bonjour,
+
+Nous cherchons un très bon étudiant ayant une formation en informatique ou mathématique-informatique avec des bonnes bases de biologie. L'étudiant(e) intéressé(e) à cette thèse devra contacter
+
+Alessandra.Carbone@lip6.fr
+
+et lui envoyer un cv et lettre de motivation.
+
+Très cordialement,
+
+Alessandra Carbone
+
+-----------------
+
+
+Développement d'un modèle mathématique pionnier d'interactions entre la cellule souche hématopoïétique (CSH) et son microenvironnement.
+
+Introduction
+
+Les CSHs et les cellules stromales constituent un « couple cellulaire » jouant rôle crucial dans l'acquisition du potentiel souche au cours du développement et son maintien chez l'adulte. L'identité moléculaire de la CSH ainsi que la nature de ses interactions avec la cellule stromale restent pour l'instant mal connues. Cette connaissance est néanmoins essentielle si l'on souhaite manipuler les CSHs ex vivo ou en créer de novo à partir de cellules souches pluripotentes ou par reprogrammation de cellules somatiques. Jusqu'à présent, l'identification de régulateurs intrinsèques ou extrinsèques des CSHs a majoritairement été réalisée au travers d'approches utilisant des gènes candidats. Cette vision est cependant réductrice voire inexacte car il est aujourd'hui bien établi que la robustesse du maintien des fonctions cellulaires repose sur l'activité intégrée de réseaux interconnectés de gènes et non sur l'activité d'un petit nombre de ceux-ci. De plus, le niveau de régulation transcriptomique ne représente quune partie du contrôle homéostatique cellulaire. Pour obtenir une vision plus proche de la réalité permettant de nouvelles approches thérapeutiques en cas de perturbations responsables de maladies, il faut intégrer a minima le niveau des ARN régulateurs aussi bien les microARN que les longs ARN non-codants. De plus les SNPs (Single Nucleotide Polymorphism) à proximité (en cis) de certains gènes peuvent être utilisés comme facteurs d'orientation des réseaux génétiques. Il est clair que la connaissance approfondie de la mise en place et du maintien de fonctions cellulaires données doit passer par une compréhension des différents niveaux de contrôle moléculaire et leur intégration. L'étape ultime de cette intégration est de révéler des structures fondamentales (par exemple clusters de microARNs ou usines à transcription) orchestrant les fonctions cellulaires à l'échelle d'une cellule unique ou de cellules organisées en un ensemble fonctionnel (l'exemple typique nous paraissant être la CSH associée à la cellule stromale). Si l'étude de réseaux transcriptomiques de cellules eucaryotes est aujourd'hui possible, l'intégration des différents niveaux de régulation reste un défi pour la biologie du fait des quantités extrêmement importantes de données à traiter ainsi que de l'absence d'algorithmes adaptés. Ceci est évidemment multiplié si l'on s'adresse à deux types cellulaires différents ayant des interactions l'un avec l'autre (complémentarité fonctionnelle). 
+
+Sujet, organisation de la thèse et attendus de la formation.
+
+Le sujet de thèse que nous proposons consiste, au travers d'un système modèle que l'équipe T. Jaffredo connaît bien, composé de deux cellules distinctes portant des fonctions définies, la CSH et la cellule stromale, et pour lequel nous possédons un nombre conséquent de données génomiques que nous allons encore augmenter, de créer une nouvelle dimension d'analyse, d'intégration et de représentation des réseaux géniques, de leurs interactions et de leurs régulateurs qui sera applicable de manière générale à l'identification de la carte moléculaire de types cellulaires uniques et d'au moins deux types cellulaires en interaction. Cette étude, à l'interface entre la biologie des cellules souches et la biologie computationnelle, intègrera des données transcriptomiques et génomiques multi-échelle (ARNm, microARN, ARN longs non-codants, SNPs) qui ont été ou sont en train d'être générées par l'équipe de T. Jaffredo, à une chaine d'analyse statistique pour la reconstruction d'un réseau de régulation multi-échelle et l'inférence des relations de causalité entre ses composantes. Les différents aspects algorithmiques et d'analyse statistique seront développés par l'équipe d'A. Carbone.
+
+Le stage doctoral comprendra, pour l'étudiant, la possibilité de préparer des échantillons biologiques. En fait, l'équipe de T. Jaffredo a déjà produit et produira plusieurs jeux de données NGS et transcriptomiques pour les CSHs et les cellules stromales, ainsi que le séquençage du matériel génétique (mRNA, miRNA, long ncRNA, sequences protéiques) échangé par les deux cellules au travers de la production d'exosomes. Plusieurs conditions expérimentales de contrôle et de perturbation du système seront testées et utilisées pour l'analyse des données produites au cours de la thèse. 
+
+Le traitement de données biologiques et le développement d'une approche algorithmique nouvelle d'analyse causale de ces données multi-échelles représenteront le coeur du travail de cette thèse. L'étudiant(e) devra avoir une formation approfondie des outils algorithmiques et mathématiques utilisés en bioinformatique et biostatistiques et une expérience de base en biologie (connaissances en biologie moléculaire et, possiblement, préparation d'échantillons d'ADN et d'ARN pour les analyses à haut-débit). Il (elle) sera accueilli(e) en partie dans les locaux de l'équipe de T. Jaffredo (à l'UPMC), et en partie dans les locaux de l'équipe de A. Carbone (aux Cordeliers) pour la durée de son doctorat. Le(a) doctorant(e) sera en relation permanente avec les deux équipes qui collaboreront à la mise en oeuvre des algorithmes pour l'analyse des données produites. Il s'agira de l'élaboration d'algorithmes d'analyse des réseaux de gènes qui incluent les données NGS (mRNAs, miRNAs, long ncRNAs, SNPs, facteurs de transcription et autres). Cette intégration multiple d'information à l'échelle de la cellule  sera réalisée en considérant  différents contextes biologiques (populations des CSH et des cellules stromales avant et après contact, cellules stromales normales ou modifiées par gain ou perte de fonction de micro-ARNs). Les réseaux produits seront orientées. Les liens directs et indirects de causalité entre les différentes composantes d'un réseau seront inférés à partir des données expérimentales grâce à une approche algorithmique nouvelle qui mélangera les algorithmes d'inférence bayesienne aux algorithmes basés sur des contraintes structurales, en acquérant les avantages des deux approches classiques. Nous planifions de construire le réseau qui gouverne le comportement des CSH, le réseau qui gouverne le comportement des cellules et le réseau qui inclut le partage d'information (échange de matériel génétique) entre les deux type de cellules. Ces réseaux globaux (qui pourront éventuellement fusionner en un réseau unique) incluront l'identification des différents niveaux de contrôle de l'interaction des deux cellules et les fonctions moléculaires associées à chacune des deux cellules jouant un rôle dans ce contrôle.
+
+La visualisation des données expérimentales (de nature statique ou dynamique), des réseaux causaux déduits des corrélations entre gènes, et des réseaux de voies métaboliques ou de signalisation reposant sur les données de la littérature, aidera à leur analyse et à leur compréhension. Une réflexion du(de la) doctorant(e) devra être réalisée dans ce but, avec implémentation d'outils adaptés. 
+	
+L'algorithme de clustering utilisé pour la construction des réseaux de gènes non dirigés sera aussi revisité et éventuellement amélioré. Deux approches complémentaires basées soit sur la fouille de données (Ingenuity, Genomatix) ou sur la corrélation entre l'expression des gènes (WGCNA) seront entre autres envisagées pour la construction des réseaux moléculaires.
+	
+L'analyse de la dynamique du réseau global pourra enfin être abordée par des expériences de perturbation d'expression génique (perte ou gain de fonctions de microARNs dans les cellules stromales) et de cultures de cellules stromales exposées ou non aux CSHs. Des expériences pilotes réalisées dans l équipe de T. Jaffredo suggèrent en effet que le transcriptome des cellules stromales est modifié après un contact de 4 jours en présence de progéniteurs hématopoïétiques. Ces expériences permettront la description in silico des réseaux plus réalistes et possiblement d'identifier des cibles moléculaires d'intérêt thérapeutique (amplification in vitro des CSH, recherche de drogues pour le traitement des hémopathies malignes...).
+
+La formation doctorale devrait aboutir à l'acquisition de savoirs sur l'analyse de données moléculaires complexes, la construction de réseaux géniques au sein d'une cellule eucaryote et la modélisation d'interactions moléculaires entre deux entités cellulaires complémentaires. Le développement d'une approche nouvelle d'analyse causale de données biologiques multi-échelles constituera le coeur de la thèse.
+ 
+Compétences de chacune des équipes justifiant la proposition.
+
+L'équipe T. Jaffredo possède un savoir faire dans la genèse et le traitement de transcriptomes, mRNA ou miR, dans la reconstitution de réseaux et des modules géniques ainsi que dans l'extraction de sous ensemble de gènes associés à des fonctions biologiques complexes. Nous avons réalisé la preuve de concept en utilisant un panel de lignées stromales soutenant de façon différentielle les cellules souches/progéniteurs hématopoïétiques. Grâce à des méta-analyses transcriptomiques globales réalisées en collaboration avec la plateforme de génomique de l'Institut Cochin, nous avons identifié 481 ARNm et 17 microARN organisés en un réseau impliqué dans la signalisation paracrine. En outre l'inclusion, après normalisation, de 18 échantillons externes de cellules stromales a démontré que ce sous-ensemble d'ARNm était prédictif du support hématopoïétique. Cet ensemble contient la plupart des régulateurs connus des CSHs, mais aussi un nombre conséquent de nouveaux, comme Tgfbi, Pax9 et Ccdc80, qui ont été validés par des études fonctionnelles sur des embryons de poisson zèbre. Ce travail fait l'objet d'un manuscrit actuellement en révision à Cell Stem Cell.
+
+A. Carbone's team has previously done work on: 1. miRNA and small ncRNA identification in several organisms; 2. structural cluster of miRNA identification and their functional analysis in H.sapiens; 3. statistical analysis of NGS data; 4. graph theory.  These areas are important for the project computational aims.
+
+
+Présentation des équipes
+
+Equipe Thierry Jaffredo.
+
+Migration et différenciation des cellules souches hématopoïétiques. 
+CNRS UMR7622
+IBPS Laboratoire de Biologie du Développement, UPMC, INSERM U1156
+9, Quai St Bernard, Bat C 6eme étage.
+75252 Paris Cedex 05 France
+Phone (1) 44 27 59 61
+Fax (1) 44 27 34 97
+http://bio-dev.snv.jussieu.fr/
+
+L'équipe, qui comprend une dizaine de personnes, travaille sur le développement des cellules souches hématopoïétiques (CSHs) cellules multipotentes et autorenouvelables responsables de la production de l'ensemble des lignages sanguins et leurs interactions avec les cellules stromales. Ces cellules, d'origine mésenchymateuse, constituent un microenvironnement (ou niche) dans lequel résident et sont régulées les CSHs. Notre équipe développe d'une part des projets en embryologie en utilisant différents modèles de vertébrés, dans lesquels elle s'intéresse d'une part aux mécanismes de formation de l'aorte, premier site embryonnaire capable de produire des CSHs, et d'autre part à l'identification moléculaire et fonctionnelle des différentes générations de CSHs et leurs cellules de soutien (dites stromales) au travers d'approches fonctionnelles, transcriptomiques et génomiques à haut débit.
+L'étudiant(e) sera sous la responsabilité de T. Jaffredo (HDR) mais sera plus particulièrement encadré(e) par le Dr. Charles Durand (MCU UPMC) et le Dr. Pierre Charbord (DR Inserm émérite) tous deux spécialistes du soutien hématopoïétique et de l'analyse des données à haut débit. L'équipe dispose de plusieurs financements dont une ANR internationale avec le groupe du Pr. David Traver, San Diego, Californie, USA.    
+
+Publications récentes Equipe T. Jaffredo
+
+Oberlin E, Fleury M, Clay D, Petit-Cocault L, Candelier JJ, Mennesson B, Jaffredo T and Souyri M. 2010. VE-cadherin expression allows identification of a new class of hematopoietic stem cells within human embryonic liver. Blood. 116: 4444-4455.
+Smelty P, Marchal C, Renard R, Sinzelle L, Pollet N, Dunon D, Jaffredo T, Sire J-Y and Fellah J, S. 2010. Identification of the pre-T cell receptor alpha-chain in non-mammalian vertebrates challenges the structure-function of the molecule. Proc. Natl. Acad. Sci. USA. 107: 19991-19996.
+Roques, M., Durand, C., Gautier, R., Canto, P. Y., Petit-Cocault, L., Yvernogeau, L., Dunon, D., Souyri, M., Jaffredo, T. 2012. Endoglin expression level discriminates long-term hematopoietic from short-term clonogenic progenitor cells in the aorta. Haematologica. 97, 975-9. 
+Richard, C., Drevon, C., Canto, P-Y., Villain, G., Bollérot, K., Lempereur, A., Teillet, M-A., Vincent, C., Rosselló Castillo, C., Torres, M., Piwarzyk, E., Speck, N. A., Souyri M. and Jaffredo, T. 2013. Endothelio-mesenchymal interaction controls runx1 expression and modulates the notch pathway to initiate aortic hematopoiesis. Dev. Cell. 24:600-611.
+
+
+Equipe Alessandra Carbone.
+
+Génomique Analytique. 
+CNRS UMR7238
+Laboratoire de Biologie Computationnelle et Quantitative
+15, rue de l'Ecole de Medecine 
+75006 Paris Cedex 06 France
+Phone (1) 44 27 73 45
+Fax (1) 44 27 73 36
+http://www.lcqb.upmc.fr/
+
+Our group (made of 10 members) works on various problems connected with the functioning and evolution of biological systems. We use mathematical tools, coming from statistics and combinatorics, algorithmic tools and molecular physics tools to study basic principles of cellular functioning starting from genomic data. We run several projects in parallel, all aiming at understanding the basic principles of evolution and co-evolution of molecular structures in the cell. Our main research themes are:
+- Domain annotation and metagenomics -
+- Transcriptomics and sequence analysis - 
+- Protein evolution and interactions - 
+- Protein conformational dynamics.
+The student will encounter a suitable environment to the development of the data analysis and the novel causality inference methods required by the project. He will be co-advised by A.Carbone and H.Richard (MdC en Informatique, UPMC).
+
+Publications récentes Equipe A. Carbone
+
+A. Lopes, S. Sacquin-Mora, V. Dimitrova, E. Laine, Y. Ponty, A. Carbone. Protein-protein interactions in a crowded environment: an analysis via cross-docking simulations and evolutionary information. PLoS Computational Biology. doi: 10.1371/journal.pcbi.1003369 (2013).
+
+A.Mathelier, A.Carbone Large scale chromosomal mapping of human microRNA structural clusters Nucleic Acids Research. doi: 10.1093/nar/gkt112. (2013).
+
+L.Dib, A.Carbone CLAG: an unsupervised non hierarchical clustering algorithm handling biological data BMC Bioinformatics 13 194 (2012).
+
+A.Mathelier, A.Carbone MIReNA: finding microRNAs with high accuracy and no learning at genome scale and from deep sequencing data Bioinformatics 26(18) 2226-2234 (2010).

@@ -1,0 +1,125 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <cecile.monat@ird.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id DEC7726801D
+	for <bioinfo@sfbi.fr>; Tue, 14 Oct 2014 08:54:22 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArMBAKLHPFRVH9QwnGdsb2JhbABbg2FYgj5IgjDGYIdRgTIBEQEBAQEBCAsJCRQuhBUXDwErCwEIAh4cAiYCEg8+E4hClA2NEo87lT+BLI5zQ4JhgVQFhkGLOANaMYM0g12DM4FqhXyPcgEKAQEBgiRqgkoBAQE
+X-IPAS-Result: ArMBAKLHPFRVH9QwnGdsb2JhbABbg2FYgj5IgjDGYIdRgTIBEQEBAQEBCAsJCRQuhBUXDwErCwEIAh4cAiYCEg8+E4hClA2NEo87lT+BLI5zQ4JhgVQFhkGLOANaMYM0g12DM4FqhXyPcgEKAQEBgiRqgkoBAQE
+X-IronPort-AV: E=Sophos;i="5.04,715,1406584800"; 
+   d="scan'208";a="66159718"
+Received: from mxout.security-mail.net (HELO fx304.security-mail.net) ([85.31.212.48])
+  by b-mx1.relay.syrhano.net with ESMTP; 14 Oct 2014 08:54:22 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by fx304.security-mail.net (MTA) with SMTP id 8A214CB4A3A
+	for <bioinfo@sfbi.fr>; Tue, 14 Oct 2014 08:54:21 +0200 (CEST)
+Received: from fx304 (localhost [127.0.0.1])
+	by fx304.security-mail.net (MTA) with ESMTP id 87331CB4A2C
+	for <bioinfo@sfbi.fr>; Tue, 14 Oct 2014 08:54:21 +0200 (CEST)
+X-Virus-Scanned: E-securemail
+x-secugrey: score=-10
+x-secugrey: filter=out_default,id=20141014085421-89990-00003,score=-20
+Received: from cg97.security-mail.net (cg97.security-mail.net [172.16.240.97])
+	by fx304.security-mail.net (MTA) with SMTP id 20E12CB4A41
+	for <bioinfo@sfbi.fr>; Tue, 14 Oct 2014 08:54:21 +0200 (CEST)
+Received: from [91.203.34.14] (account cecile.monat@ird.fr)
+  by ird.fr (CommuniGate Pro XIMSS 6.0.9)
+  with HTTPU id 439102423 for bioinfo@sfbi.fr; Tue, 14 Oct 2014 08:54:20 +0200
+X-Mailer: CommuniGate Pronto! 6.0.9
+MIME-Version: 1.0
+From: "Cecile MONAT" <cecile.monat@ird.fr>
+To: <bioinfo@sfbi.fr>
+Date: Tue, 14 Oct 2014 08:54:20 +0200
+Message-ID: <ximss-439102429@mails.optimails.com>
+Content-Type: text/plain;charset="utf-8";
+ format="flowed"
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by Security-Mail
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre de stage Master 1
+
+Bonjour,
+
+voici une offre de stage pour un master 1
+
+Offre de stage
+
+LIEU DE TRAVAIL:
+
+Institut de Recherche pour le Développement
+911 Avenue Agropolis
+34934 Montpellier
+
+CONTEXTE SCIENTIFIQUE:
+
+	Les projets de recherche de l’UMR DIADE (DIversité Adaptation et 
+DEveloppement des plantes http://www.diade-research.fr/ ) visent à 
+comprendre la nature et le rôle des mécanismes de diversification 
+structurale et fonctionnelle du génome des plantes tropicales, de la 
+diversité et structures de leurs populations au cours des processus de 
+spéciation, d’adaptation aux variations naturelles du milieu ou aux 
+modifications d’origine anthropique.
+	L'équipe GDR (Génome et Développement du Riz) étudie les mécanismes de la 
+divergence et de la variabilité des génomes de quelques espèces du genre 
+Oryza, et de leur impact sur la plasticité de caractères biologiques lié à 
+la fécondation, au développement et à la résistance aux stress. Nous menons 
+ces études selon plusieurs niveaux d’intégration : à l’intérieur de 
+l’espèce, selon l’appartenance à une sous-espèce, selon le type biologique, 
+analyses comparatives entre espèces domestiquées ou sauvages. C'est dans ce 
+dernier cadre que s'incrit la thématique de ce stage.
+	La comparaison des espèces de riz Africain cultivé O.glaberrima et de son 
+ancêtre sauvage O.barthii nécessite d'avoir au moins une référence de 
+chacune de ces deux espèces http://oryza.mpl.ird.fr/?q=home.
+
+DUREE DU STAGE:
+entre 2 et 4 mois
+
+PROFIL SOUHAITE:
+Connaissances en Perl, Serveur Linux, utilisation des lignes de commandes
+Bon sens relationnel
+Rigueur dans le travail et la gestion des données
+
+SUJET DU STAGE:
+
+Création de nouvelles séquences de références sur de nouvelles accessions (3 
+O.barthii, espèce sauvage ;  1 O.glaberrima, espèce cultivée). Utilisation 
+de logiciel d'assemblage sur un cluster de calcul. Comparaison des 
+assemblages entre eux et avec d'autres assemblages références. Utilisation 
+d'outils de comparaison. Statistiques basiques.
+
+MISSIONS DU STAGIAIRE:
+
+Réaliser les assemblages des individus sauvages (3) et cultivé (1).
+Comparaison des assemblages grâce à des outils logiciels :
+- Comparaison des trois assemblages sauvages entre eux.
+- Comparaison de l'assemblage cultivé avec deux autres références déjà 
+existantes au laboratoire.
+- Comparaison des assemblages sauvages et cultivés.
+Statistiques basiques sur la qualité des assemblages obtenus
+
+
+
+
+REMUNERATION :
+Le montant de la gratification due au stagiaire est fixé à 436.05 euros par 
+mois (35h hebdomaires)
+
+CONTACT:
+Pour plus de renseignements ou pour soumettre votre candidature (CV + lettre 
+de motivation)
+
+Cécile Monat – Doctorante
+cecile.monat@ird.fr 		
+04 67 41 62 40
+
+François Sabot – Chercheur
+francois.sabot@ird.fr
+04 67 41 64 18
+
+
+Cordialement,
+
+Cécile Monat
+ 

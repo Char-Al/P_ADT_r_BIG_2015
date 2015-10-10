@@ -1,0 +1,115 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Marie-France.Sagot@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id C7A8C26801D
+	for <bioinfo@sfbi.fr>; Thu,  2 Oct 2014 08:12:24 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmYCAMvrLFTAhqRTf2dsb2JhbABfg2FZykMKiFwWAREBAQsLCggUGhKEFhF1L4EdiCoNiWCNEaVUjGmDToItD0QkgR0FlimHCoFlilwEiyiBa2qCSgEBAQ
+X-IPAS-Result: AmYCAMvrLFTAhqRTf2dsb2JhbABfg2FZykMKiFwWAREBAQsLCggUGhKEFhF1L4EdiCoNiWCNEaVUjGmDToItD0QkgR0FlimHCoFlilwEiyiBa2qCSgEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,637,1406584800"; 
+   d="scan'208";a="73972052"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by a-mx1.relay.syrhano.net with ESMTP; 02 Oct 2014 08:12:24 +0200
+X-IronPort-AV: E=Sophos;i="5.04,637,1406584800"; 
+   d="scan'208";a="98948013"
+Received: from umr5558-borealis-port.univ-lyon1.fr ([134.214.32.122])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/AES128-SHA; 02 Oct 2014 08:12:23 +0200
+From: Marie-France Sagot <Marie-France.Sagot@inria.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <E9CEE0BF-F944-4CF9-AECA-DA855124B731@inria.fr>
+Date: Thu, 2 Oct 2014 08:12:23 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+X-Mailer: Apple Mail (2.1878.6)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] COLLOQUE EMOTIONS 2014 : APPEL A RESUMES POUR POSTERS
+
+    COLLOQUE EMOTIONS 2014 : APPEL A RESUMES POUR POSTERS avant le 31 octob=
+re 2014
+=20
+Le premier colloque scientifique international EMOTIONS -  =AB Ecological a=
+nd Molecular mOdeling of infecTIONS =BB sur la mod=E9lisation des maladies =
+infectieuses, organis=E9 par le Laboratoire d=92Excellence ECOFECT =96 dyna=
+miques =E9co-=E9volutives des maladies infectieuses aura lieu les 10 et 11 =
+d=E9cembre 2014 =E0 Lyon. Il s=92adresse =E0 une large communaut=E9 de cher=
+cheurs et =E9tudiants en biologie, bio-informatique et mod=E9lisation math=
+=E9matique du monde entier.
+=20
+Un appel =E0 r=E9sum=E9s de posters est lanc=E9 jusqu=92au 31 octobre 2014.
+=20
+L=92objectif principal d=92EMOTIONS 2014 est d=92explorer les dimensions =
+=E9pid=E9miologique, =E9cologique, mol=E9culaire et =E9volutive des infecti=
+ons (humaines et animales) avec un accent particulier sur les mod=E8les mat=
+h=E9matiques et les m=E9thodes informatiques qui peuvent =EAtre des instrum=
+ents importants dans de telles =E9tudes.
+Dans le cadre de cet appel =E0 r=E9sum=E9s de posters, les travaux pr=E9sen=
+tant un caract=E8re interdisciplinaire marqu=E9 en lien avec les th=E9matiq=
+ues du colloque seront favoris=E9s.
+=20
+Instructions :
+La cr=E9ation d'un compte sciencesconf.org est n=E9cessaire pour l'inscript=
+ion et la soumission en ligne de votre r=E9sum=E9 d'ici le 31 octobre 2014.
+Pour votre inscription rendez-vous sur : http://emotions2014.sciencesconf.o=
+rg/registration/index
+Pour la soumission de votre poster rendez-vous sur : http://emotions2014.sc=
+iencesconf.org/submission/submit
+- Les r=E9sum=E9s des posters ne seront accept=E9s qu=92en anglais.
+- Les r=E9sum=E9s des posters ne devront pas d=E9passer 300 mots.
+- Merci d=92indiquer si votre poster a d=E9j=E0 =E9t=E9 pr=E9sent=E9 =E0 d=
+=92autres occasions.
+Proc=E9dure de s=E9lection :
+La date limite de soumission est le 31 octobre 2014.
+Les r=E9sum=E9s de posters seront examin=E9s par le Comit=E9 Scientifique d=
+=92EMOTIONS.
+Les premiers auteurs seront inform=E9s d=E9but novembre.
+=20
+Nous nous r=E9jouissons de vous accueillir =E0 EMOTIONS 2014 !
+Les inscriptions sont gratuites mais obligatoires.
+=20
+Pour en savoir plus : http://emotions2014.sciencesconf.org/
+
+=97
+EMOTIONS 2014 COLLOQUIUM: CALL FOR POSTERS PRESENTATIONS, DEADLINE OCTOBER =
+31st 2014
+=20
+The first international scientific colloquium EMOTIONS 2014 - =94Ecological=
+ and Molecular mOdeling of infecTIONS=94, organized by the laboratory of Ex=
+cellence ECOFECT =96 eco-evolutionary dynamics of infectious diseases will =
+take place on December 10th and 11th, 2014 in Lyon. It is open to a wide co=
+mmunity of students and researchers from biology and mathematical/computer =
+science from all over the world.
+A call for posters presentations is open until October 31st, 2014.
+=20
+The main objective of EMOTIONS 2014 is to explore the epidemiological, ecol=
+ogical, molecular and evolutionary dimensions of infections (human, wildlif=
+e) with a special focus on the mathematical models and computational method=
+s that may be important instruments for such investigations.
+=20
+Under this call for posters presentations, works presenting results with an=
+ interdisciplinary approach dealing with the themes of colloquium will be c=
+hosen.
+=20
+Instructions:
+To register and to submit an abstract online, you will have to create a sci=
+encesconf.org account by filling the on-line registration and submission fo=
+rms by October 31st, 2014.
+Registration at: http://emotions2014.sciencesconf.org/registration/index
+Submission of poster abstract at: http://emotions2014.sciencesconf.org/subm=
+ission/submit
+- Abstracts must be written in English.
+- Abstracts must not exceed 300 words.
+- Please, indicate if your poster has already been presented somewhere else.
+Selection procedure :
+Deadline for submission is October 31st, 2014.
+Abstracts will be reviewed by the scientific committee of EMOTIONS.
+Primary authors will be notified in the beginning of November.
+=20
+We are looking forward to welcoming you in Lyon for EMOTIONS 2014!
+Registrations are free but compulsory.
+For more information http://emotions2014.sciencesconf.org/?lang=3Den
+
+=20
+=20=

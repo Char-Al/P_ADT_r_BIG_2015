@@ -1,0 +1,93 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.barbe@insa-toulouse.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id DD13E26801D
+	for <bioinfo@sfbi.fr>; Tue,  4 Feb 2014 12:10:53 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlsBAH3K8FLDUwkjnGdsb2JhbABZwzwWDgEBAQEBCBQJPII4LDwEPRYYAwIBAgFYBgIBAYgFnWOwb48ShCIEnnKPB4FpJA
+X-IronPort-AV: E=Sophos;i="4.95,779,1384297200"; 
+   d="scan'208";a="53422725"
+Received: from frontsmtp1.insa-toulouse.fr ([195.83.9.35])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Feb 2014 12:10:41 +0100
+Received: from i-mel.insa-toulouse.fr ([195.83.9.6])
+	by frontsmtp1.insa-toulouse.fr with esmtp (Exim 4.69)
+	(envelope-from <sophie.barbe@insa-toulouse.fr>)
+	id 1WAdtp-0007my-BO
+	for bioinfo@sfbi.fr; Tue, 04 Feb 2014 12:10:41 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by i-mel.insa-toulouse.fr (Postfix) with ESMTP id DAF7BA695C
+	for <bioinfo@sfbi.fr>; Tue,  4 Feb 2014 12:10:40 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at i-mel.insa-toulouse.fr
+Received: from i-mel.insa-toulouse.fr ([127.0.0.1])
+	by localhost (i-mel.insa-toulouse.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Cb8Q4ubg4-2y for <bioinfo@sfbi.fr>;
+	Tue,  4 Feb 2014 12:10:40 +0100 (CET)
+Received: from [10.2.12.99] (gba-03145.insa-toulouse.fr [10.2.12.99])
+	(Authenticated sender: sbarbe@insa-toulouse.fr)
+	by i-mel.insa-toulouse.fr (Postfix) with ESMTPSA id C521CA3816
+	for <bioinfo@sfbi.fr>; Tue,  4 Feb 2014 12:10:40 +0100 (CET)
+Message-ID: <52F0CAB0.2030302@insa-toulouse.fr>
+Date: Tue, 04 Feb 2014 12:10:40 +0100
+From: Sophie Barbe <sophie.barbe@insa-toulouse.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Stage Master Biologie Computationnelle
+
+Proposition STAGE : Biologie Computationnelle
+
+Un stage de Master est propos=E9 dans l=92=E9quipe de Catalyse et Ing=E9nie=
+rie=20
+Mol=E9culaire Enzymatiques du Laboratoire d'Ing=E9nierie des Syst=E8mes=20
+Biologiques et des Proc=E9d=E9s (UMR - CNRS 5504 - INRA 792) de l=92INSA de=
+=20
+Toulouse.
+
+Sujet : "D=E9veloppement et validation d=92outils computationnels de design=
+=20
+des interactions enzyme-substrat "
+
+Le projet de stage s=92inscrit dans la poursuite des travaux actuels de=20
+l=92=E9quipe et porte sur le d=E9veloppement et la validation de m=E9thodol=
+ogies=20
+computationnelles pour le design d=92enzymes. Les nouveaux algorithmes=20
+propos=E9s visent =E0 prendre en compte la flexibilit=E9, =E0 la fois du=20
+substrat et de l=92enzyme, afin de proposer in fine des techniques de=20
+criblage virtuel d=92enzymes, encore peu d=E9velopp=E9es par rapport =E0 ce=
+lles=20
+d=E9di=E9es au drug design. Ces approches computationnelles viseront =E0=20
+reprogrammer la fonction catalytique des enzymes, afin d=92acc=E9l=E9rer la=
+=20
+construction de catalyseurs enzymatiques r=E9pondant =E0 des besoins=20
+biotechnologiques sp=E9cifiques, tels qu=92une efficacit=E9 ou s=E9lectivit=
+=E9=20
+accrues, une nouvelle sp=E9cificit=E9 de substrat, =85. Le stage inclura un=
+=20
+travail d'am=E9lioration des m=E9thodologies computationnelles d=E9velopp=
+=E9es=20
+dans l=92=E9quipe ainsi qu=92un travail d'application sur des syst=E8mes=20
+enzymatiques mod=E8les.
+
+Conditions :
+R=E9mun=E9ration: application de la convention pour la r=E9mun=E9ration des=
+=20
+stagiaires
+Prolongement en th=E8se envisageable
+
+Laboratoire d=92accueil
+Laboratoire d'Ing=E9nierie des Syst=E8mes Biologiques et des Proc=E9d=E9s (=
+LISBP)
+UMR - CNRS 5504 - INRA 792
+Institut National des Sciences Appliqu=E9es
+135 Avenue de Rangueil
+F-31077 Toulouse Cedex 04 France
+
+Responsable du stage
+Sophie Barbe
+T=E9l : 05 61 55 99 63
+E-mail : sophie.barbe@insa-toulouse.fr

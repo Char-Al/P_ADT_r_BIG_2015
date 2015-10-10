@@ -1,0 +1,160 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+
+Return-Path: <sympa@sfbi.fr>
+
+X-Original-To: bioinfo@sfbi.fr
+
+Delivered-To: bioinfo@localhost
+
+Received: by asso.crihan.fr (Postfix, from userid 203)
+
+	id F095126801D; Mon, 19 May 2014 09:50:59 +0200 (CEST)
+
+To: bioinfo@sfbi.fr
+
+From: Yann Ponty <yann.ponty@lix.polytechnique.fr>
+
+Message-ID: <sympa.1400485728.7315.161@sfbi.fr>
+
+In-Reply-To: 
+
+MIME-Version: 1.0
+
+Content-Type: text/plain; charset=ISO-8859-1
+
+Content-Transfer-Encoding: 8bit
+
+Date: Mon, 19 May 2014 09:50:59 +0200 (CEST)
+
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+
+Subject: [bioinfo] [ECCB'14] Second CFP - Computational Methods for Structural RNAs - CMSR'14
+
+
+
+**** Computational Methods for Structural RNAs - CMSR'14 ****
+
+An official ECCB'14 workshop
+
+September 7th, 2014, Strasbourg
+
+http://www.eccb14.org/program/workshops/structural-rnas
+
+
+
+Scope: Ribonucleic acids (RNAs) play key roles in various aspects of the gene transcription and regulation processes, and are the focus of an ever-increasing interest in all areas of molecular biology. Deciphering the function of a non-protein coding RNA requires an intimate knowledge of its structure, motivating the development of structure-centric analyses.
+
+This workshop aims to gather researchers and students, developing or using computational methods for predicting RNA structures or analyzing their contribution to biological processes. It will provide a forum for the dissemination of state-of-the-art methods and tools using discrete representations of folding landscapes in the context of big data. It will contribute to establish best-practices towards a better support for large-scale data within structure-centric algorithms. Relevant topics include but are not limited to:
+
+   * RNA folding prediction: Ab initio & comparative approaches, integrative methods incorporating probing and enzymatic data
+
+   * RNA/RNA, RNA/Protein interactions
+
+   * Structural clustering/indexation methods
+
+   * Mutational analyses
+
+   * Extended folding landscapes: Tertiary modules and non-canonical interactions, Pseudoknots
+
+   * RNA Kinetics
+
+   * Structure-centric alignment and modeling
+
+   * RNA Design
+
+   * Algorithmic foundations: Dynamic Programming frameworks, generic optimizations, complexity results
+
+   * Mathematical models and tools for RNA structure analysis
+
+   
+
+Key dates:
+
+    Paper submission opens: April 24st, 2014
+
+    Paper Submission deadline: June 1st, 2014
+
+    Paper Acceptance Notification: June 23rd, 2014
+
+    Final version of accepted papers: July 7th, 2014
+
+
+
+The meeting will feature keynotes from Jan Gorodkin (University of Copenhagen, Danemark) and Mihaela Zavolan (University of Basel, Switzerland).
+
+
+
+Proceedings of the workshop will be published in a special issue of Lecture Notes in Bioinformatics (LNBI). A selection of regular papers will be invited, but not required, to submit an edited version of the manuscript to the Journal of Computational Biology with high priority publishing. Authors of accepted papers (regular papers and highlights) will be given the opportunity to present their work at the workshop.
+
+
+
+Submission guidelines: Contributions should be uploaded on the conference EasyChair instalment at:
+
+  https://www.easychair.org/conferences/?conf=cmsr14
+
+
+
+We invite two types of contributions.
+
+  * Regular papers: Full papers (12pp) describing previously unpublished research.
+
+	Submissions should describe the work up to sufficient details, but should not exceed 12 page (including references) using standard LNCS template available at: http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0.
+
+	The scientific content of papers will be evaluated by three independent reviewers and judged on novelty, relevance to the field, clarity and technical soundness.
+
+	Papers rejected from the main ECCB conference can be resubmitted to the satellite workshop. These re-submissions will be evaluated through additional independent reviews. Authors must include with their submission the reviews received at ECCB together with a response addressing the concerns raised by the reviewers.
+
+  * Highlights: Recently published (or in press) outstanding contributions (2pp).
+
+	Abstract of highlight papers should describe the context and challenge of the problem and summarize the contribution of the work. Submission should not exceed 2 pages using standard LNBI stylesheets. One figure can be included in the abstract. The authors must include a link to the online publication of the work and indicate the identity of the presenter.
+
+
+
+The submission system will be open starting April 24th, 2014 and will close on June 1st, 2014 at 11:59pm (midnight) Greenwich Mean Time (GMT). Authors will be notified of acceptance or rejection by email on or before June 23rd, 2013. We request that an author of each accepted paper provides LaTeX files or an MS Word file in the special format for Lecture Notes in Bioinformatics by July 7th, 2014. Additionally, an author of each accepted paper is expected to attend the workshop and present the paper.
+
+
+
+Steering Committee:
+
+    Ivo Hofacker, University of Vienna, Austria
+
+    Peter Stadler, University Leipzig, Germany
+
+    Eric Westhof, University of Strasbourg, France
+
+
+
+Program Committee:
+
+    Rolf Backofen, University of Freiburg, Germany
+
+    Sarah Burge, EMBL-EBI, United Kingdom
+
+    Cédric Chauve, Simon Fraser University, Canada
+
+    Alain Denise, University of Paris-Sud, France
+
+    Christoph Flamm, University of Vienna, Austria
+
+    Christine Gaspin, University of Toulouse, France
+
+    Christian Hoener Zu Siederdissen, University of Vienna, Austria
+
+    Fabrice Jossinet, University of Strasbourg, France (co-chair)
+
+    Vincent Moulton, University of East Englia, United Kingdom
+
+    Dmitri Pervouchine, Centre for Genomic Regulation, Spain
+
+    Yann Ponty, École Polytechnique, France (co-chair)
+
+    Jin Qin, University of Leipzig, Germany
+
+    Stefan Seemann, University of Copenhagen, Denmark
+
+    Jérôme Waldispühl, McGill University, Canada (co-chair)
+
+    Sebastian Will, University of Leipzig, Germany
+
+    Michal Ziv-Ukelson, Ben Gurion University of the Negev, Israel
+

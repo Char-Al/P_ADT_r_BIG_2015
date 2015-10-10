@@ -1,0 +1,74 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Guy.Perriere@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C1BA926801D
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 09:27:56 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlkCAFIM6lKG1rySnGdsb2JhbABZg0SODLBuFg4BAQEBAQgLCQkUKII4aIFNiA4Nm1+wCI8cghkPZoEUBJlakiyBbw
+X-IronPort-AV: E=Sophos;i="4.95,748,1384297200"; 
+   d="scan'208";a="53170988"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by b-mx1.relay.syrhano.net with ESMTP; 30 Jan 2014 09:27:56 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 1677DE00F9
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 09:27:56 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a+-ZTjxLv+IS for <bioinfo@sfbi.fr>;
+	Thu, 30 Jan 2014 09:27:51 +0100 (CET)
+Received: from kantkino.univ-lyon1.fr (kantkino.univ-lyon1.fr [134.214.34.97])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 5AF0DE00EB
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 09:27:51 +0100 (CET)
+From: =?iso-8859-1?Q?Guy_Perri=E8re?= <Guy.Perriere@univ-lyon1.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 30 Jan 2014 09:27:51 +0100
+Message-Id: <CA05EA91-80D5-43B2-8856-6319473DA7E2@univ-lyon1.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1085)
+X-Mailer: Apple Mail (2.1085)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Proposition de stage M2 au LBBE =?ISO-8859-1?Q?=E0?= Lyon
+
+Un stage de M2 Recherche en bioinformatique est propos=E9 au Laboratoire de=
+ Biom=E9trie et Biologie Evolutive (UMR CNRS 5558), dans l'=E9quipe Bioinfo=
+rmatique et G=E9nomique Evolutive (http://lbbe.univ-lyon1.fr/-Equipe-Bioinf=
+ormatique-et-.html). Ce stage sera sous la responsabilit=E9 de Guy Perri=E8=
+re, avec une co-encadrement par Patricia Doublet, du Centre international d=
+e recherche en Infectiologie (INSERM U1111, UMR CNRS 5308). Il se situerait=
+ dans le cadre du projet Legcoxinet, financ=E9 par le Labex Ecofect.
+
+Le sujet propos=E9 consiste en une analyse ayant pour but d'identifier les =
+effecteurs du syst=E8me T4SS (Type 4 Secretion System) chez plusieurs souch=
+es de L=E9gionella pneumophila (Lp) et Coxiella burnetti (Cb) ainsi que leu=
+rs homologues dans plusieurs esp=E8ces bact=E9riennes apparent=E9es (alpha-=
+prot=E9obact=E9ries de type Rickettsiales). Lp est l'agent responsable de l=
+a l=E9gionellose, une pathologie bien connue qui atteint environ 1500 perso=
+nnes chaque ann=E9e en France, avec un taux de mortalit=E9 d'environ 10%. D=
+e son c=F4t=E9, Cb est l'agent d'une zoonose =E9mergente, la fi=E8vre Q, tr=
+ansmise par voie a=E9rienne aux humains. Ces deux bact=E9ries d=E9tournent =
+un m=E9canisme cellulaire, l'autophagie, via l'excretion d'effecteurs par l=
+'interm=E9diaire du SST4. Ceci leur permet d'=E9chapper au syst=E8me immuni=
+taire de leur h=F4te et de g=E9n=E9rer au sein de la cellule une vacuole r=
+=E9plicative.=20
+
+La m=E9thodologie propos=E9e pour l'identification des effecteurs homologue=
+s partirait d'une recherche de similarit=E9 classique, suivie de la constru=
+ction d'une collection de s=E9quences fond=E9e sur le mod=E8le de la banque=
+ HOGENOME, d=E9velopp=E9e dans notre groupe. Une fois les familles de g=E8n=
+es homologues =E9tablies, il sera ensuite n=E9cessaire d'identifier les ort=
+hologues, ceci au moyen d'une approche phylog=E9n=E9tique. La construction =
+des arbres phylog=E9n=E9tique en question permettant par ailleurs de retrac=
+er les histoires =E9volutives de ces familles (transferts horizontaux, pert=
+es s=E9lectives) et donc de l'acquisition de la pathog=E9nicit=E9 chez Lp e=
+t Cb.
+
+R=E9mun=E9ration : indemnit=E9 standard de 400 =80/mois
+
+Dur=E9e : trois =E0 six mois
+
+Contact : Guy Perri=E8re (http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html)
+e-mail et t=E9l=E9phone disponibles sur la page web=

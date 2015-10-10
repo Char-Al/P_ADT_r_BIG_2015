@@ -1,0 +1,158 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <alexis.dereeper@ird.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id DA62D26801D
+	for <bioinfo@sfbi.fr>; Fri, 14 Nov 2014 10:58:13 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ap4BANDQZVRVH9QwnGdsb2JhbABbg2NZzQGHUoE4AQEBAQERAQEBAQEICwkJFC6EFSYBBToCBD0WGAMCAQIBWAYCAQGIQapupjmQfIR4BZNXAYNKiRuGEpA+DIIqbIJLAQEB
+X-IPAS-Result: Ap4BANDQZVRVH9QwnGdsb2JhbABbg2NZzQGHUoE4AQEBAQERAQEBAQEICwkJFC6EFSYBBToCBD0WGAMCAQIBWAYCAQGIQapupjmQfIR4BZNXAYNKiRuGEpA+DIIqbIJLAQEB
+X-IronPort-AV: E=Sophos;i="5.07,384,1413237600"; 
+   d="scan'208";a="68152989"
+Received: from mxout.security-mail.net (HELO fx304.security-mail.net) ([85.31.212.48])
+  by b-mx1.relay.syrhano.net with ESMTP; 14 Nov 2014 10:58:13 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by fx304.security-mail.net (MTA) with SMTP id 7C69FCB50BE
+	for <bioinfo@sfbi.fr>; Fri, 14 Nov 2014 10:58:12 +0100 (CET)
+Received: from fx304 (localhost [127.0.0.1])
+	by fx304.security-mail.net (MTA) with ESMTP id 79A97CB50AE
+	for <bioinfo@sfbi.fr>; Fri, 14 Nov 2014 10:58:12 +0100 (CET)
+X-Virus-Scanned: E-securemail
+x-secugrey: score=-10
+x-secugrey: filter=out_default,id=20141114105811-29509-00007,score=-20
+Received: from cg97.security-mail.net (cg97.security-mail.net [172.16.240.97])
+	by fx304.security-mail.net (MTA) with SMTP id BFA7ACB50D9
+	for <bioinfo@sfbi.fr>; Fri, 14 Nov 2014 10:58:11 +0100 (CET)
+Received: from [195.221.174.116] (account alexis.dereeper@ird.fr [195.221.174.116] verified)
+  by irdmail.fr (CommuniGate Pro SMTP 6.0.9)
+  with ESMTPSA id 449761399 for bioinfo@sfbi.fr; Fri, 14 Nov 2014 10:58:10 +0100
+Message-ID: <5465D232.6050809@ird.fr>
+Date: Fri, 14 Nov 2014 10:58:10 +0100
+From: dereeper <alexis.dereeper@ird.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by Security-Mail
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Stage M2 bioinfo (IRD Montpellier)
+
+SUJET : Stratégies bioinformatiques pour la découverte et la gestion de 
+nouvelles cibles de virulence des effecteurs de type TAL de la bactérie 
+phytopathogène Xanthomonas
+
+
+CONTEXTE SCIENTIFIQUE
+Les effecteurs de type TAL (pour « Transcription Activator-Like ») 
+agissent dans certaines espèces comme des déterminants majeurs du 
+pouvoir pathogène des phytobactéries du genre Xanthomonas. Les TALs 
+miment l’activité de facteurs de transcription de la plante, se fixant 
+aux régions promotrices de certains gènes de la plante hôte. Les TALs se 
+fixent de manière spécifique aux promoteurs hôtes grâce à la présence de 
+motifs répétés de 34 acides aminés qui contiennent deux résidus 
+hypervariables appelés RVDs (« Repeat-Variable Diresidues »). Les RVDs 
+s’associent de manière sélective à un type de nucléotides (A, T, G ou 
+C), ce qui varie en fonction de la nature des acides aminés constituant 
+les RVDs (Boch et al., 2009; Moscou and Bogdanove, 2009). 
+Potentiellement, chaque souche de Xanthomonas possède une combinaison 
+unique de protéines TALs, présentant chacune des séquences de RVDs 
+distinctes et théoriquement capables de se fixer aux promoteurs d’un set 
+de gènes spécifiques. Des études menées dans notre laboratoire ont 
+conduit au design de nouveaux algorithmes permettant la prédiction de 
+cibles de TALs dans le génome de plantes, ce qui a permis 
+l’identification de plusieurs cibles potentielles chez le Riz. Ces 
+cibles nouvellement identifiées ont révélé l’existence de réseaux « 
+protéine TAL/gène cible », qui eux-mêmes semblent converger lorsque l’on 
+compare différents TALs provenant de différentes souches de la bactérie 
+Xanthomonas oryzae qui est pathogène sur le riz (Perez-Quintero et al. 
+2013).
+Notre projet est maintenant d’exploiter plus en avant ces résultats en 
+intégrant de nouvelles données d’expression de type RNA-seq, de 
+nouvelles séquences de TALs provenant de souches de Xanthomonas encore 
+inexplorées, ainsi que de nouveaux outils dédiés à l’identification de 
+signes de sélection ou de convergence dans les interactions « TAL-gène 
+cible ».
+
+
+REFERENCES
+Boch J, Scholze H, Schornack S, Landgraf A, Hahn S, Kay S, Lahaye T, 
+Nickstadt A, Bonas U (2009). Science 326: 1509-1512.
+Moscou MJ, Bogdanove AJ (2009). Science 326: 1501.
+Pérez-Quintero, A.L., Rodriguez-R LM, Dereeper A, López C, Koebnik R, 
+Szurek B, Cunnac S. (2013). PLoS One 8:e68464.
+
+
+OBJECTIFS ET MISSIONS BIOINFORMATIQUES
+L’objectif principal de ce stage est de développer une base de données 
+relationnelle (type MySQL ou autre) associée à une interface graphique 
+pour permettre l’intégration de différents types de données issues des 
+analyses de détection de nouvelles cibles de protéines TAL. Le stagiaire 
+aidera également à développer et exécuter des scripts pour enrichir et 
+interroger la base de données.
+
+
+DEROULEMENT DU STAGE
+Les différentes activités bioinformatiques à entreprendre seront les 
+suivantes :
+- Explorer les génomes et leurs annotations.
+- Identifier des orthologues parmi différents génomes de Riz.
+- Prédire les sites de fixation des TALs dans différents génomes de plantes.
+- Analyser les polymorphismes SNPs dans les promoteurs d’un groupe 
+d’orthologues de gènes cibles.
+- Procéder au mapping de données RNASeq sur un génome et identifier des 
+gènes différentiellement exprimés.
+
+
+FORMATION / COMPÉTENCES
+- Niveau Master 2 bioinformatique
+- Bioinformatique: analyse de séquences, bioanalyse, annotations de 
+séquences.
+La connaissance d’outils bioinformatiques pour le séquençage haut débit 
+(NGS) serait un plus.
+- Informatique : bonne connaissance du langage Perl, R.
+Bases de données relationnelles (MySQL)
+Maîtrise de l’environnement Linux.
+- Un bon niveau d’anglais est également demandé
+
+DURÉE
+6 mois
+
+ENCADREMENT
+Le stage se déroulera au sein de l’UMR IPME (Interaction 
+Plante-Microorganismes et Environnement), sur le site de l’IRD de 
+Montpellier, sous la responsabilité d’Alvaro Perez-Quintero, doctorant 
+en biologie moléculaire et Boris Szurek, chercheur dans l’équipe «GTIPP» 
+(Génomique et Transcriptomique dans Interactions Plantes-Procaryotes), 
+et d'Alexis Dereeper, bioinformaticien de l’Unité.
+Le stagiaire sera accueilli sur le plateau bioinformatique de l'IRD 
+(http://bioinfo.mpl.ird.fr/) et travaillera en lien avec la plate-forme 
+SouthGreen (http://southgreen.cirad.fr/).
+
+
+CONTACTS
+Alvaro PEREZ-QUINTERO <perez-quintero.alvaro-wis@ird.fr> 07 77 60 39 84
+Boris SZUREK <boris.szurek@ird.fr> 04 67 41 62 12
+Alexis DEREEPER <alexis.dereeper@ird.fr> 04 67 41 62 28 ou 04 67 61 57 21
+
+
+ACCUEIL
+Indemnités de stage : 437 € / mois
+
+-- 
+Alexis DEREEPER
+
+UMR RPB (IRD-UM2-CIRAD) Résistance des Plantes aux Bioagresseurs
+IRD - Institut de Recherche pour le Développement
+Bureau 351
+911, avenue Agropolis
+BP 64501
+34394 MONTPELLIER CEDEX 5
+FRANCE
+
+Alexis.Dereeper@ird.fr
+tel IRD   : + 33 (0)4 67 41 61 88
+tel CIRAD : + 33 (0)4 67 61 57 21
+
+ 

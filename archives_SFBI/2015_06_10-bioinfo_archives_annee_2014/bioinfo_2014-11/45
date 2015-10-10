@@ -1,0 +1,117 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <vincent.daubin@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2773B26801D
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 10:09:29 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoMBAI8La1SG1rySnGdsb2JhbABbg2NZgj5Iv2iJJQKIYxYBAQEBAREBAQEBAQgLCQkULoQVF28cAiYCiTOcWo0nj0uXMoEtgXmKEoYNDzISJIEeBYZGkGaJGosVi0eCKTwwgksBAQE
+X-IPAS-Result: AoMBAI8La1SG1rySnGdsb2JhbABbg2NZgj5Iv2iJJQKIYxYBAQEBAREBAQEBAQgLCQkULoQVF28cAiYCiTOcWo0nj0uXMoEtgXmKEoYNDzISJIEeBYZGkGaJGosVi0eCKTwwgksBAQE
+X-IronPort-AV: E=Sophos;i="5.07,408,1413237600"; 
+   d="scan'208";a="77054493"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by a-mx1.relay.syrhano.net with ESMTP; 18 Nov 2014 10:09:29 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 5D999E00E9
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 10:09:28 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3CYNMnOmD7LR for <bioinfo@sfbi.fr>;
+	Tue, 18 Nov 2014 10:09:24 +0100 (CET)
+Received: from wu-pers-00363.univ-lyon1.fr (wu-pers-00363.univ-lyon1.fr [10.42.193.107])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 4971FE00F1
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 10:09:24 +0100 (CET)
+From: Vincent Daubin <vincent.daubin@univ-lyon1.fr>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <A2606F60-9DAC-4B2D-87DD-32EC1F8CC1F4@univ-lyon1.fr>
+Date: Tue, 18 Nov 2014 10:09:24 +0100
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 8.0 \(1990.1\))
+X-Mailer: Apple Mail (2.1990.1)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Soutenance de =?UTF-8?Q?Th=C3=A8se?= de =?UTF-8?Q?B=C3=A9r=C3=A9nice?= Batut - 21 Novembre 2014, 14h - INSA de Lyon
+
+ Bonjour,
+
+J'ai le plaisir de vous inviter =C3=A0 ma soutenance de th=C3=A8se de docto=
+rat intitul=C3=A9e :
+"=C3=89tude de l'=C3=A9volution r=C3=A9ductive des g=C3=A9nomes bact=C3=A9r=
+iens par exp=C3=A9riences d'=C3=A9volution in silico et analyses bioinforma=
+tiques".
+La soutenance aura lieu le vendredi 21 Novembre 2014, =C3=A0 14h en salle R=
+en=C3=A9 Char =C3=A0 l'INSA de Lyon et le pot qui suivra sera =C3=A0 l'Ante=
+nne INRIA de la Doua (B=C3=A2timent CEI2 d'INSAVALOR)
+
+Le jury sera compos=C3=A9 de=20
+Guillaume Achaz, Ma=C3=AEtre de conf=C3=A9rence, UMPC Paris (rapporteur)
+Guillaume Beslon, Professeur, INSA de Lyon (directeur de th=C3=A8se)
+Michael Blum, Charg=C3=A9 de recherche, CNRS (rapporteur)
+Vincent Daubin, Directeur de recherche, CNRS (membre invit=C3=A9)
+Carole Knibbe, Ma=C3=AEtre de conf=C3=A9rence, UCB Lyon (directrice de th=
+=C3=A8se)
+Gabriel Marais, Directeur de recherche, CNRS (directeur de th=C3=A8se)
+Fr=C3=A9d=C3=A9ric Partensky, Directeur de recherche, CNRS (examinateur)
+Olivier Tenaillon, Directeur de recherche, INSERM (examinateur)
+
+R=C3=A9sum=C3=A9 :=20
+
+Selon une vision populaire, l'=C3=A9volution serait un processus de "progr=
+=C3=A8s" qui s'accompagnerait d'un accroissement de la complexit=C3=A9 mol=
+=C3=A9culaire des =C3=AAtres vivants. Cependant, les programmes de s=C3=A9q=
+uen=C3=A7age des g=C3=A9nomes ont r=C3=A9v=C3=A9l=C3=A9 l'existence d'esp=
+=C3=A8ces dont les lign=C3=A9es ont, au contraire, subi une r=C3=A9duction =
+massive de leur g=C3=A9nome. Ainsi, chez les cyanobact=C3=A9ries Prochloroc=
+occus et Pelagibacteur ubique, certaines lign=C3=A9es ont subi une r=C3=A9d=
+uction de 30% de leur g=C3=A9nome. Une telle =C3=A9volution "=C3=A0 rebours=
+", dite =C3=A9volution r=C3=A9ductive, avait d=C3=A9j=C3=A0 =C3=A9t=C3=A9 o=
+bserv=C3=A9e pour des bact=C3=A9ries endosymbiotiques, pour lesquelles la s=
+=C3=A9lection naturelle n'est pas assez efficace pour =C3=A9liminer les mut=
+ations d=C3=A9l=C3=A9t=C3=A8res comme les pertes de g=C3=A8nes. Cela vient =
+notamment du fait que ces bact=C3=A9ries endosymbiotiques subissent, =C3=A0=
+ chaque reproduction de leur h=C3=B4te, une r=C3=A9duction drastique de leu=
+r taille de population. Cette explication semble peu plausible pour des cya=
+nobact=C3=A9ries marines comme Prochlorococcus et Pelagibacter, qui ont un =
+mode de vie libre et qui font partie des bact=C3=A9ries les plus abondantes=
+ des oc=C3=A9ans. D'autres hypoth=C3=A8ses ont ainsi =C3=A9t=C3=A9 propos=
+=C3=A9es pour expliquer cette =C3=A9volution r=C3=A9ductive mais aucune ne =
+semble capable d'expliquer toutes les caract=C3=A9ristiques g=C3=A9nomiques=
+ observ=C3=A9es.
+Dans cette th=C3=A8se, je me suis int=C3=A9ress=C3=A9 au cas de l'=C3=A9vol=
+ution r=C3=A9ductive chez Prochlorococcus, pour laquelle de nombreuses s=C3=
+=A9quences et donn=C3=A9es sont disponibles. Deux approches sont utilis=C3=
+=A9es pour cette =C3=A9tude : une approche th=C3=A9orique de simulation o=
+=C3=B9 je teste diff=C3=A9rents sc=C3=A9narios =C3=A9volutifs pouvant condu=
+ire =C3=A0 une =C3=A9volution r=C3=A9ductive et une analyse de diff=C3=A9re=
+ntes caract=C3=A9ristiques g=C3=A9nomiques de Prochlorococcus dans un cadre=
+ phylog=C3=A9n=C3=A9tique. La combinaison de ces deux approches permet fina=
+lement de proposer une histoire =C3=A9volutive plausible pour expliquer l'=
+=C3=A9volution r=C3=A9ductive de Prochlorococcus.
+
+
+Cordialement,
+
+--=20
+B=C3=A9r=C3=A9nice Batut
+---------------------------------------------------------------------------=
+--------
+PhD Student in Computational Biology and Bioinformatics
+---------------------------------------------------------------------------=
+--------
+Beagle Team (LIRIS)
+Antenne INRIA de la Doua
+B=C3=A2timent CEI-1
+66, bd Niels Bohr
+69603 Villeurbanne Cedex
+---------------------------------------------------------------------------=
+-------
+BGE Team (LBBE)
+UMR CNRS 5558 - LBBE
+UCB Lyon 1 - B=C3=A2t. Gr=C3=A9gor Mendel
+43, bd du 11 Novembre
+69622 Villeurbanne Cedex
+---------------------------------------------------------------------------=
+-------
+http://bebatut.fr=

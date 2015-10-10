@@ -1,0 +1,209 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Thomas.BURGER@cea.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 56C9B26801D
+	for <bioinfo@sfbi.fr>; Thu,  3 Jul 2014 14:03:46 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkYBAJVFtVOEp8COnGdsb2JhbABagml2WsYdAYEIFg8BAQEBAQgLCQkUKIQFBQxcBQUZASpDEyYBBBMIiDoBDJ1HpGaGNheONTwLg1qBFgWEaAKFKoYajAeJfIwJgjA
+X-IronPort-AV: E=Sophos;i="5.01,595,1400018400"; 
+   d="scan'208";a="69614058"
+Received: from cirse-out.extra.cea.fr ([132.167.192.142])
+  by a-mx1.relay.syrhano.net with ESMTP; 03 Jul 2014 14:03:45 +0200
+Received: from pisaure.intra.cea.fr (pisaure.intra.cea.fr [132.166.88.21])
+	by cirse.extra.cea.fr (8.14.2/8.14.2/CEAnet-Internet-out-2.3) with ESMTP id s63C3j6P006389
+	for <bioinfo@sfbi.fr>; Thu, 3 Jul 2014 14:03:45 +0200
+Received: from pisaure.intra.cea.fr (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id F1CE720200D
+	for <bioinfo@sfbi.fr>; Thu,  3 Jul 2014 14:05:53 +0200 (CEST)
+Received: from muguet2.intra.cea.fr (muguet2.intra.cea.fr [132.166.192.7])
+	by pisaure.intra.cea.fr (Postfix) with ESMTP id E81BA201FD0
+	for <bioinfo@sfbi.fr>; Thu,  3 Jul 2014 14:05:53 +0200 (CEST)
+Received: from EXCAH-B1.intra.cea.fr (excah-b1.intra.cea.fr [132.166.88.86])
+	by muguet2.intra.cea.fr (8.13.8/8.13.8/CEAnet-Intranet-out-1.2) with ESMTP id s63C3i2B014363
+	for <bioinfo@sfbi.fr>; Thu, 3 Jul 2014 14:03:44 +0200
+Received: from EXDAG0-B3.intra.cea.fr ([fe80::d0da:1b48:7560:ee73]) by
+ EXCAH-B1.intra.cea.fr ([fe80::b4bb:7f38:ea87:b760%11]) with mapi id
+ 14.03.0174.001; Thu, 3 Jul 2014 14:03:44 +0200
+From: BURGER Thomas 232477 <Thomas.BURGER@cea.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Prospectom 2014
+Thread-Index: Ac+WttHNeGWaGXP8TXyMDzwROWs/2g==
+Date: Thu, 3 Jul 2014 12:03:43 +0000
+Message-ID: <74CD13E3727CB2418EF46F56D5BCEDCC1B27C800@EXDAG0-B3.intra.cea.fr>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [132.166.88.106]
+x-tm-as-product-ver: SMEX-10.2.0.1135-7.500.1017-20752.007
+x-tm-as-result: No--34.040800-0.000000-31
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Prospectom 2014
+
+Invitation =E0 participation pour l'Atelier PROSPECTOM
+19, 20 et 21 Novembre 2014 - Grenoble
+********************************************************
+
+Etude visuelle et interactive des prot=E9omes par apprentissage statistique=
+ et int=E9gration
+des bases de donn=E9es et de connaissances spectrom=E9triques et =AB omique=
+s =BB.
+
+********************************************************
+
+http://prospectom.liglab.fr/atelier-2014
+
+
+Suite au succ=E8s de l'atelier Prospectom 2012, nous  proposons une seconde=
+ =E9dition de cet atelier destin=E9e =E0 la prot=E9omique computationnelle.
+
+Contexte et objectifs
+*********************
+
+L'analyse du prot=E9ome, ou prot=E9omique, vise =E0 s=E9quencer, identifier=
+ et quantifier de mani=E8re syst=E9matique l'ensemble des prot=E9ines expri=
+m=E9es dans un syst=E8me biologique (organite, cellule, tissu, etc.), afin =
+d'appr=E9hender son fonctionnement global. Pour se faire, il est n=E9cessai=
+re d'avoir recours aux d=E9veloppements les plus r=E9cents de la biologie d=
+es syst=E8mes, de la spectrom=E9trie, mais aussi de la bio-informatique, de=
+ l'apprentissage automatique et de la visualisation de donn=E9es.=20
+En d=E9pit des progr=E8s consid=E9rables accomplis au cours de la derni=E8r=
+e d=E9cennie en chromatographie et en spectrom=E9trie de masse, permettant =
+ la mise en place de m=E9thodes d'analyse =AB =E0 haut d=E9bit =BB (High Th=
+roughput Analysis), la cartographie compl=E8te des prot=E9omes doit faire a=
+ctuellement face =E0 des verrous scientifiques et technologiques majeurs, r=
+elevant de l'informatique, et des statistiques. En effet, la complexit=E9 d=
+es donn=E9es d'origine prot=E9omique est telle, que leur gestion automatis=
+=E9e soul=E8ve de nouvelles questions fondamentales en apprentissage automa=
+tique (l'absence de v=E9rit=E9 terrain rend difficile l'usage de benchmarks=
+, les m=E9thodes incr=E9mentales ou semi-supervis=E9es doivent =EAtre favor=
+is=E9es), en fouille de donn=E9es ou en analyse visuelle (quel mod=E8le ou =
+repr=E9sentation privil=E9gier ?), en traitement du signal (comment g=E9rer=
+ les fortes non-lin=E9arit=E9s ?), en =E9tude des r=E9seaux sociaux (prise =
+en compte de la multiplicit=E9 des relations dans les complexes prot=E9ique=
+s), en ing=E9nierie des connaissance (interop=E9rabilit=E9 entre les points=
+ de vue g=E9nomique, prot=E9omique, m=E9tabolomique, etc.). Dans ce context=
+e, la prot=E9omique est =E0 m=EAme de proposer une partie des d=E9fis qui d=
+emain am=E8neront l'=E9tat de l'art de ces champs =E0 =E9voluer.
+Cet atelier, qui se d=E9roule dans le cadre de l'appel MASTODONS =AB Grande=
+s masses de donn=E9es scientifiques =BB de la Mission Interdisciplinaire de=
+ CNRS, a pour objectif  de favoriser la structuration d'une communaut=E9 sc=
+ientifique fran=E7aise autour des enjeux de la prot=E9omique computationnel=
+le.
+
+Programme de l'atelier
+**********************
+
+Le mercredi 19 novembre apr=E8s-midi sera consacr=E9  =E0 deux tutoriels (3=
+h avec une pause m=E9diane). Les participants pourront s'inscrire en foncti=
+on des places disponibles :
+* Laurent Gatto (Cambridge Center for Proteomics, Cambridge)
+An introduction to R/BioConductor for computational proteomics
+* Caroline Truntzer (Clinical Proteomic Platform, Dijon)
+Introduction aux biostatistiques pour la d=E9couverte de biomarqueurs=20
+Les jeudi 20 et vendredi 21 novembre seront consacr=E9s =E0 :
+* Des conf=E9rences sur diff=E9rents th=E8mes connexes =E0 la prot=E9omique=
+ computationnelle (liste des conf=E9renciers invit=E9s ci-dessous)
+* Des sessions th=E9matiques dans lesquelles les participants pourront pr=
+=E9senter leurs travaux via des communications orales ou des posters
+* Un groupe de travail sur la visualisation de donn=E9es en prot=E9omique
+
+Conf=E9renciers invit=E9s
+*********************
+
+* Analyse prot=E9omique :
+Yohann COUTE ( INSERMnserm, EDyP, Grenoble) : D=E9fis de la prot=E9omique q=
+uantitative label-free
+* Mesure en spectrom=E9trie :
+Mar-Andr=E9 DELSUC (CNRS, IGBMC, Strasbourg) : titre =E0 venir
+* Big data :
+Sihem AMER-YAHIA (CNRS, LIG, Grenoble) : Big User Health Data Management=20
+*  Apprentissage automatique :
+Jean-Philippe VERT (Institut Curie, Ecole des Mines, Paris) : Machine Learn=
+ing for personalized medicine
+* Visual analytics :=20
+David AUBER (LaBRI, Bordeaux) : Visualisation interactive de donn=E9es avec=
+ Tulip. Application aux r=E9seaux biologiques
+
+Participation et appels =E0 contribution
+**************************************
+
+La participation =E0 l'atelier PROSPECTOM est gratuite sous r=E9serve d 'in=
+scription (avant le 20 octobre). L'inscription permet d'assister aux 2 tuto=
+riels, aux 5 s=E9minaires invit=E9s, ainsi qu'aux sessions th=E9matiques et=
+ au groupe de travail sur la visualisation.
+Par ailleurs, afin de faciliter les =E9changes et la mise en place de proje=
+ts collaboratifs, les contributions sont encourag=E9es. Ces contributions p=
+ourront =EAtre soit un r=E9sum=E9 d'une page ou d'un article court de 2 =E0=
+ 4 pages (donnant lieu =E0 pr=E9sentation orale) soit =E0 un poster. La dat=
+e de soumission est fix=E9e au 10 octobre 2014. Voici une liste (non exhaus=
+tive) des th=E8mes de l'atelier :
+* Caract=E9risation du signal spectral
+* Nature des spectres non assign=E9s par les outils d'identification
+* M=E9thodes de d=E9multiplexages de spectre pour la DIA (Data Independant =
+Acquisition)
+* Comparaison/reproductibilit=E9/ fiabilit=E9 des outils d'identification e=
+t de quantification
+* Am=E9lioration des m=E9thodes Target/Decoy
+* Estimation du FDR pour les prot=E9ines (Identification et quantification =
+diff=E9rentielle)
+* Combinaisons d'outils d'identification
+* M=E9trique, similarit=E9 et distances entre spectres (th=E9oriques ou exp=
+=E9rimentaux)=20
+* Normalisation/imputation de donn=E9es
+* Tests statistiques pour la prot=E9omique
+* Extraction de structures saillantes dans les grands graphes
+* R=E9seaux multi-capacit=E9s / multi-valu=E9es
+* Simplification de grands graphes, recherche de communaut=E9s
+* Interop=E9rabilit=E9 des bases de donn=E9es =AB omics =BB
+* Ontologies, standardisations, vocabulaires contr=F4l=E9s
+* Caract=E9risation des jeux de donn=E9s "omics"
+* Taxonomies de t=E2ches
+* Applications de techniques d'analyse visuelle aux probl=E8mes "omics"
+* Description d'outils de visualisation
+* Outils d'exploration de grands r=E9seaux
+* Etc.
+
+Dates importantes
+*****************
+
+* Soumission des contributions : avant le vendredi 10 octobre 2014
+* Inscriptions : avant le lundi 20 octobre 2014
+* PROSPECTOM 2014 : 19 novembre (tutoriels), 20 novembre et 21 novembre 201=
+4 (=E0 Grenoble)
+
+Organisateurs et contacts
+*************************
+
+* Thomas Burger (CNRS, EDyP) : thomas.burger@cea.fr=20
+* Gilles Bisson (CNRS, LIG/AMA) : gilles.bisson@imag.fr=20
+* Christophe Bruley (CEA, EDyP) : christophe.bruley@cea.fr=20
+* Renaud Blanch (Universit=E9 Grenoble-Alpes, LIG/IIHM) : renaud.blanch@ima=
+g.fr
+* Sylvain Bouveret	(Universit=E9 Grenoble-Alpes, LIG/STEAMER) : sylvain.bou=
+veret@imag.fr
+* Yves Vandenbrouck (CEA, EDyP) : yves.vandenbrouck@cea.fr=20
+Laboratoires porteurs : Le Laboratoire d'Informatique de Grenoble (LIG, UMR=
+ 5217) et le laboratoire d'Etude de la Dynamique des Prot=E9omes (iRTSV - C=
+EA de Grenoble, FR 3425)
+http://prospectom.liglab.fr/atelier-2014
+
+--=20
+Thomas Burger - CNRS Researcher, PhD
+https://sites.google.com/site/thomasburgerswebpage/
+iRTSV-BGE (Univ. Grenoble Alpes - CNRS - CEA - INSERM)
+
+CEA de Grenoble - B=E2t. 42b      | Tel.  : +33 4 38 78 22 72
+17 avenue des Martyrs           | Sec.  : +33 4 38 78 39 97
+38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51=20=20=20
+
+Exploring the Dynamics of Proteomes=A0: http://edyp.fr/
+
+

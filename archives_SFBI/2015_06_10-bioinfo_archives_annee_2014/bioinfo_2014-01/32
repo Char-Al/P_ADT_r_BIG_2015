@@ -1,0 +1,149 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sarah_bonnin@hotmail.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id B634D26801D
+	for <bioinfo@sfbi.fr>; Fri, 10 Jan 2014 18:09:45 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjQDAEwo0FKdNwJflWdsb2JhbABZg0Orb44vgQgWDgEBAQEHDQkJEiqCJgEFgQlRVwYTFQeHUwEUqHiUNwGFeBeOJhEBDkmDJIETBJIjklGIZYFqBxc
+X-IronPort-AV: E=Sophos;i="4.95,639,1384297200"; 
+   d="scan'208";a="60048279"
+Received: from dub0-omc4-s20.dub0.hotmail.com ([157.55.2.95])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Jan 2014 18:09:44 +0100
+Received: from DUB116-W39 ([157.55.2.72]) by dub0-omc4-s20.dub0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Fri, 10 Jan 2014 09:09:43 -0800
+X-TMN: [MUyy8VUYSzEijhOuC9tiCwj1VOXJiYsn]
+X-Originating-Email: [sarah_bonnin@hotmail.fr]
+Message-ID: <DUB116-W39B872D24D20DBCCD888F686B30@phx.gbl>
+From: Sarah Bonnin <sarah_bonnin@hotmail.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Date: Fri, 10 Jan 2014 17:09:43 +0000
+Importance: Normal
+In-Reply-To: <DUB116-W608AA0F3BE72766F7D97FF86B30@phx.gbl>
+References:
+ <446afa1524d4e90b5f74702d6a075853@opale.sic.montp.cnrs.fr>,<DUB116-W6078B1FCADDF6409116B6F86B30@phx.gbl>,<DUB116-W608AA0F3BE72766F7D97FF86B30@phx.gbl>
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-OriginalArrivalTime: 10 Jan 2014 17:09:43.0373 (UTC) FILETIME=[C16D0FD0:01CF0E26]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Bioinformatician at CRG Genomics core facility - Barcelona
+
+CRG Bioinformatician=20
+CRG Programme: Core Facility=20
+CRG Group: Genomics Unit
+Ref. CF =96 GEN - 301213
+
+=A0
+The Institute=20
+
+The Centre for Genomic Regulation (CRG) is an innovative
+centre for basic research created in December 2000 by initiative of the for=
+mer
+Department of Universities, Research and Information Society(DURSI) of the
+Catalan Government. The CRG is legally constituted as a non-profit foundati=
+on
+and has the participation from the Catalan Government through the Economy a=
+nd
+Knowledge Department(DECO) and the Health Department (DS), as well asfrom t=
+he
+Pompeu Fabra University (UPF), and the Spanish Ministry of Economy and
+Competitiveness (MINECO).=20
+
+The mission of the CRG is to promote excellent basic
+research in biomedicine, cutting-edge technology development and high quali=
+ty
+training of the next generation of scientists. The CRG has a highly
+international culture and the working language is English.
+
+For more information visit our website=20
+http://www.crg.eu
+
+
+Post Description=20
+
+We are currently looking for a bioinformatician familiar
+with the computing infrastructure used for Illumina HiSeq sequencing and
+sequencing data quality control. The Genomics Unit
+(http://www.crg.es/genomics_unit) provides service to clients from within t=
+he
+CRG/PRBB, as well as to external users. The Unit has established workflows =
+for
+many different types of high-throughput sequencing projects, including geno=
+mic sequencing,
+mRNA-Seq, and ChIP-Seq, and is equipped with two Illumina HiSeq sequencing
+instruments. Additional instrument purchases are foreseen as new technologi=
+es
+become available.
+
+
+Main responsibilities=20
+
+Specific tasks of the position in the context of
+sequencing data production bioinformatics will include:=20
+Quality control of sequencing runs using established
+pipelines; development and implementation of new workflows for data quality
+control and data interpretation; LIMS (laboratory information managment
+system)-based run management; Illumina software upgrades and maintenance of
+data archive; making sequencing data and run reports available to users of =
+the
+Unit.=20
+Aside from that, the candidate will analyse data from technology
+implementation projects and experimental sequencing runs.=20
+
+
+Candidate requirements=20
+
+Experience:
+Experience in handling and analysing Illumina data and
+Proficiency with a scripting language such as Perl experienced in using R f=
+or
+data analysis.=20
+Experience with managing databases and LIMS systems is
+essential.=20
+Knowledge in molecular biology and/or molecular genetics
+is desirable. The post requires a client-oriented attitude, as well as an
+interest for scientific questions that can be addressed using novel high-th=
+roughput
+sequencing technologies.
+
+Degree:
+Master=92s degree or Ph.D. in computer sciences,
+bioinformatics, biostatistics or related discipline.=20
+
+Language:
+Fluent in English.
+
+Personality:=20
+=95 Highly motivated candidate with interactive personality
+who shows independent work performance.=20
+=95 Analytical skills and critical thinking
+
+
+Conditions
+=95 Estimated annual gross salary:=20
+A competitive salary will be provided, which will be well
+matched relative to the cost of living in Barcelona, and adjusted according=
+ to
+experience.
+=95 Starting date: February, 2014
+
+
+Application procedure=20
+
+All applications must be addressed to Dr. Heinz
+Himmelbauer; and include a CV with a cover motivation letter and contacts of
+2-3 references indicating offer reference (Ref. CF =96 GEN - 301213) in the
+subject line. Please submit your application to the following email address:
+rrhh@crg.es
+
+=A0
+Deadline
+
+15th of March 2014 (note that applications will be
+continually monitored)
+
+Centre de Regulaci=F3 Gen=F2mica (CRG)=20
+Doctor Aiguader 88, 08003 Barcelona (Spain)=20=09=09=20=09=20=20=20=09=09=
+=20=20=

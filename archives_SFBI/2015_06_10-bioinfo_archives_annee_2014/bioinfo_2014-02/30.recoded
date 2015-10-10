@@ -1,0 +1,379 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+
+Return-Path: <speroni@cs.unibo.it>
+
+X-Original-To: bioinfo@sfbi.fr
+
+Delivered-To: bioinfo@localhost
+
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+
+	by asso.crihan.fr (Postfix) with ESMTP id 541EC26801D
+
+	for <bioinfo@sfbi.fr>; Mon, 10 Feb 2014 15:18:39 +0100 (CET)
+
+X-IronPort-Anti-Spam-Filtered: true
+
+X-IronPort-Anti-Spam-Result: AgUGAC3f+FKCiAFm/2dsb2JhbAA/EAqDDDirf5NGcW4WdIInBgEBGh0uAwECORESNwFcBgKHaQ02mRmPY6AIjRYKgRiDYIE7BJRCgRWEBpBvg2k
+
+X-IronPort-AV: E=Sophos;i="4.95,818,1384297200"; 
+
+   d="scan'208";a="61720041"
+
+Received: from leb.cs.unibo.it ([130.136.1.102])
+
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Feb 2014 15:18:38 +0100
+
+Received: from ssl.cs.unibo.it (ssl.cs.unibo.it [127.0.0.1]) (Authenticated sender: hidden)
+
+	by leb.cs.unibo.it (Postfix) with ESMTPSA id 2C79952EB4 
+
+	for <bioinfo@sfbi.fr>; Mon, 10 Feb 2014 15:18:37 +0100 (CET)
+
+Content-Type: text/plain; charset="us-ascii"
+
+MIME-Version: 1.0
+
+Content-Transfer-Encoding: 7bit
+
+From: speroni@cs.unibo.it
+
+To: bioinfo@sfbi.fr
+
+Message-Id: <20140210141839.541EC26801D@asso.crihan.fr>
+
+Date: Mon, 10 Feb 2014 15:18:39 +0100 (CET)
+
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+
+Subject: [bioinfo] ESWC 2014 Second Call for Challenge: Semantic Publishing
+
+
+
+
+
+** apologies for cross-posting **
+
+
+
+==== Second Call for Challenge: Semantic Publishing ===
+Challenge Website: http://challenges.2014.eswc-conferences.org/SemPub
+
+Call Web page: http://2014.eswc-conferences.org/important-dates/call-SemPub
+
+
+
+** NEWS: 
+
+**     an open in-use task has been added!
+
+
+
+11th Extended Semantic Web Conference (ESWC) 2014
+
+Dates: May 25 - 29, 2014
+
+Venue: Anissaras, Crete, Greece
+
+Hashtag: #eswc2014
+
+Feed: @eswc_conf
+
+Site: http://2014.eswc-conferences.org
+
+General Chair: Valentina Presutti (STLab, ISTC-CNR, IT)
+
+Challenge Coordinator: Milan Stankovic (Sepage & Universite Paris-Sorbonne, FR)
+
+Challenge Chairs:
+
+- Angelo Di Iorio (Department of Computer Science and Engineering, University of Bologna, IT)
+
+- Christoph Lange (Enterprise Information Systems, University of Bonn / Fraunhofer IAIS, DE)
+
+
+
+
+
+MOTIVATION AND OBJECTIVES
+
+
+
+Scholarly publishing is increasingly enabling a new wave of applications that better support researchers in disseminating, exploiting and evaluating their results. The potential of publishing scientific papers enriched with semantic information is huge and raises interesting and challenging issues. Semantic Web technologies play a central role in this context, as they can help publishers to make scientific results available in an open format the whole research community can benefit from.
+
+
+
+The Semantic Publishing Challenge 2014 is intended to be the first in a series of events at ESWC for producing and exploiting semantic publishing data. The main focus this year is on extracting information and using this information to assess the quality of scientific productions.
+
+Linked open datasets about scientific production exist - e.g. DBLP - but they usually cover basic bibliographic information, which is not sufficient to assess quality. Quality-related information are often hidden and not yet available as LOD. 
+
+
+
+There is also a growing interest in alternative forms of publishing scientific data as (semantic) datasets that can be more easily shared, linked to each other, and reasoned on. Alternative metrics for scientific impact are also gaining relevance.
+
+
+
+We are seeking the most innovative and impacting applications in this emerging contexts. 
+
+
+
+
+
+TARGET AUDIENCE
+
+
+
+The Challenge is open to everyone from industry and academia.
+
+
+
+
+
+TASKS
+
+
+
+The Challenge includes three tasks. Participants can participate in as many tasks as they like.
+
+
+
+
+
+= Extraction Tasks 
+
+
+We ask challengers to automatically annotate a set of multi-format and multi-source input documents and to produce a Linked Open Dataset that fully describes these documents, their context, and relevant parts of their content. The evaluation will consist of evaluating a set of queries against the produced dataset to assess its correctness and completeness. The input dataset will be split in two parts: a training/testing part and an evaluation part, which will disclosed a few days before the submission deadline. Participants will be asked to run their tool on the evaluation dataset and to produce the final Linked Open Dataset.
+
+
+
+
+
+== Task 1: Extraction and assessment of workshop proceedings information =
+
+
+Participants are required to extract information from a set of HTML tables of contents, partly including microformat and RDFa annotations but not necessarily being valid HTML, of selected computer science workshop proceedings published with the CEUR-WS.org open access service. The extracted information is expected to answer queries about the quality of these workshops, for instance by measuring their growth, longevity, connection with other events, distribution of papers and authors.
+
+
+
+
+
+== Task 2: Extraction and characterization of citations =
+
+
+Participants are required to extract information about the citations in scientific journals and their relevance. Input documents are in XML JATS and TaxPub, an official extension of JATS customized for taxonomic treatments, and selected from the PubMedCentral Open Access Subset and the Pensoft Biodiversity Data Journal and ZooKeys archive. The extracted information is expected to be used for assessing the value of citations, for instance by considering their position in the paper, their co-location with other citations or their purpose.
+
+
+
+
+
+== In-use Task 3: Semantic technologies in improving scientific production =
+
+
+Participants are asked to submit demos that showcase the potential of Semantic Web technology for enhancing and assessing the quality of scientific production. 
+
+
+
+The task has a completely open structure and is, in particular, independent from tasks 1 and 2: participants are free to decide which tool to show and which dataset to use.
+
+
+
+The evaluation will be different from other tasks and will consist of two phases: after a first round of review, a number of submissions will be invited to demo their work at ESWC. The final decision will be taken at the Conference by a jury formed of PC members present at the event and other invited experts.
+
+
+
+Further details are available at: http://challenges.2014.eswc-conferences.org/index.php/SemPub/Task3
+
+
+
+
+
+EVALUATION
+
+
+
+= Extraction Tasks 1 and 2 
+
+
+Participants will be requested to submit the LOD that their tool produces from the evaluation dataset, as well as a paper that describes their approach. They will also be given a set of queries in natural language form and will be asked to translate those queries into a SPARQL form that works on their LOD.
+
+
+
+The results of the queries on the produced LOD will be compared with the expected output, and precision and recall will be measured to identify the best performing approach. Separately, the most original approach will be assigned by the Program Committee.
+
+
+
+
+
+= In-use Task 3 
+
+
+Participants are required to submit a paper description as for tasks 1 and 2 and a demo version of the tool (open source appreciated but not mandatory).
+
+
+
+The evaluation will consist of two phases: after a first round of review, a number of submissions will be invited to demo their work at ESWC. The final decision will be taken at the Conference by a jury formed of PC members present at the event and other invited experts. The winner will be selected according to its potential impact, originality, breakthrough, the quality of the demo, and the appropriateness for ESWC.
+
+
+
+Further details about the evaluation are provided on the challenge wiki.
+
+
+
+
+
+FEEDBACK AND DISCUSSION
+
+
+
+A discussion group is open for participants to ask questions and to receive updates about the challenge (see link at bottom). Participants are invited to subscribe to this group as soon as possible and to communicate their intention to participate. They are also invited to use this channel to discuss problems in the input dataset and to suggest changes.
+
+
+
+
+
+JUDGING AND PRIZES
+
+
+
+The Program Committee and the chairs will select a number of submissions conforming to the challenge requirements that will be invited to present their work. Submissions accepted for presentation will receive constructive reviews from the Program Committee, they will be included in the Springer LNCS post-proceedings of ESWC, and they will also have a presentation slot in a poster session dedicated to the challenge. 
+
+
+
+In addition, the winners will present their work in a special slot of the main program of ESWC and will be invited to submit a revised and extended paper to a dedicated Semantic Web Journal special issue.
+
+
+
+Five winners will be selected. For each of Tasks 1 and 2 we will select:
+
+* best performing tool, given to the paper which will get the highest score in the evaluation
+
+* most original approach, selected by the Challenge Committee with the reviewing process
+
+
+
+The winner of Task 3 will be selected by the jury according to its potential impact, originality, breakthrough, the quality of the demo, and the appropriateness for ESWC.
+
+
+
+Winners will be selected only for tasks with at least 3 participants. In any case all submissions will be reviewed and, if accepted, published in ESWC post-proceedings.
+
+
+
+An amount of 700 Euro has already been secured for the final prize. We are currently working on securing further funding.
+
+
+
+ 
+
+HOW TO PARTICIPATE
+
+
+
+Participants are required to submit:
+
+* Abstract: no more than 200 words.
+
+* Description: It should explain the details of the automated annotation system, including why the system is innovative, how it uses Semantic Web technology, what features or functions the system provides, what design choices were made and what lessons were learned. The description should also summarize how participants have addressed the evaluation tasks. An outlook towards how the data could be consumed is appreciated but not strictly required. Papers must be submitted in PDF format, following the style of the Springer's Lecture Notes in Computer Science (LNCS) series (http://www.springer.com/computer/lncs/lncs+authors), and not exceeding 5 pages in length.
+
+
+
+Submissions for task 1 and task 2 also have to include:
+
+* The Linked Open Dataset produced by the tool on the evaluation dataset (as a file or as a URL, in Turtle or RDF/XML). 
+
+* A set of SPARQL queries that work on that LOD and correspond to the natural language queries provided as input
+
+* Participants will also be asked to submit their tool (source and/or binaries, or a link these can be downloaded from, or a web service URL) for verification purposes.
+
+
+
+Submissions for the in-use task 3 have to include:
+
+* a demo version of the tool. The demo must be made available along with the paper submission but participants are allowed to refine it until the presentation at ESWC-14. 
+
+
+
+All papers submissions should be provided via EasyChair:
+
+
+
+https://www.easychair.org/conferences/?conf=eswc2014-challenges
+
+
+
+
+
+MAILING LIST
+
+
+
+We invite the potential participants to subscribe to our mailing list in order to be kept up to date with the latest news related to the challenge. 
+
+
+
+https://lists.sti2.org/mailman/listinfo/eswc2014-sempub-challenge
+
+
+
+
+
+IMPORTANT DATES
+
+
+
+* December 3, 2013: Publication of the full description of the extraction tasks 1 and 2, rules and queries; publication of the training/testing dataset 
+
+* January 31, 2014, 23:59 CET: Deadline for making remarks to the task 1 and 2 training/testing datasets
+
+* February 5, 2014: Publication of the final task 1 and 2 training/testing datasets
+
+* March 7, 2014, 23:59 CET: Abstract submission
+
+* March 11, 2014: Publication of the task 1 and 2 evaluation dataset
+
+* March 14, 2014, 23:59 CET: Submission due
+
+* April 9, 2014, 23:59 CET: Notification of acceptance
+
+* May 27-29, 2014: Demo at ESWC-14, and winner selection
+
+
+
+
+
+PROGRAM COMMITTEE
+
+
+
+Soren Auer (University of Bonn / Fraunhofer IAIS, DE) (supervisor)
+
+Chris Bizer (University of Mannheim, DE)
+
+Sarven Capadisli (University of Leipzig, DE)
+
+Alexander Constantin (University of Manchester, UK)
+
+Jeremy Debattista (University of Bonn / Fraunhofer IAIS, DE)
+
+Alexander Garcia Castro (Florida State University, US)
+
+Leyla Jael Garcia Castro (Bundeswehr University of Munich, DE)
+
+Paul Groth (VU University of Amsterdam, Netherlands)
+
+Rinke Hoekstra (VU University of Amsterdam, Netherlands)
+
+Aidan Hogan (DCC, Universidad de Chile)
+
+Evangelos Milios (Dalhousie University, CA)
+
+Lyubomir Penev (Pensoft Publishers, BG)
+
+Robert Stevens (University of Manchester, UK)
+
+Jun Zhao (Lancaster University, UK)
+
+
+
+We are inviting further members.
+

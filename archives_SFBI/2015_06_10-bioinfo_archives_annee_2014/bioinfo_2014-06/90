@@ -1,0 +1,131 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <hrc@ens.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 01DC326801D
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 10:12:16 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsQBAGLVq1OBx2AonGdsb2JhbABag1+qfQaSGYhJFg8BAQEBAQgLCQkUKIQWXweKGg2WQJEQnAOFZItZD0QkgRYFsgs
+X-IronPort-AV: E=Sophos;i="5.01,551,1400018400"; 
+   d="scan'208";a="69178368"
+Received: from nef2.ens.fr ([129.199.96.40])
+  by a-mx1.relay.syrhano.net with ESMTP; 26 Jun 2014 10:12:16 +0200
+Received: from biologie.ens.fr (milda.ens.fr [129.199.18.219])
+          by nef2.ens.fr (8.13.6/1.01.28121999) with ESMTP id s5Q8CF72092337
+          for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 10:12:15 +0200 (CEST)
+X-Envelope-To: <bioinfo@sfbi.fr>
+Received: from localhost (av3.biologie.ens.fr [129.199.21.124])
+	by biologie.ens.fr (Postfix) with ESMTP id 4E6FEA6C
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 10:12:15 +0200 (CEST)
+X-Virus-Scanned: spam & virus filtering at av3.ens.fr
+X-Spam-Flag: NO
+X-Spam-Score: -10.91
+X-Spam-Level: 
+X-Spam-Status: No, score=-10.91 tagged_above=-9999 required=5
+	tests=[ALL_TRUSTED=-1, AUTHD_RELAY=-8, BAYES_00=-1.9,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from biologie.ens.fr ([IPv6:::ffff:129.199.18.219])
+	by localhost (av3.biologie.ens.fr [::ffff:129.199.21.124]) (amavisd-new, port 10024)
+	with ESMTP id 5NCe6izYGGli for <bioinfo@sfbi.fr>;
+	Thu, 26 Jun 2014 10:12:14 +0200 (CEST)
+Received: from ldogmac12.ens.fr (ldogmac12.ens.fr [129.199.20.74])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	(Authenticated sender: hrc)
+	by biologie.ens.fr (Postfix) with ESMTPSA id 92D5E890
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 10:12:14 +0200 (CEST)
+From: Hugues Roest Crollius <hrc@ens.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <8E8EBE96-9587-4509-9E51-9AEC06FB6BAC@ens.fr>
+Date: Thu, 26 Jun 2014 10:12:17 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.4.3 (nef2.ens.fr [129.199.96.32]); Thu, 26 Jun 2014 10:12:15 +0200 (CEST)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Concours CNRS =?WINDOWS-1252?Q?Ing=E9nieur?= d'Etude Bioinfo (ENS Paris) 
+
+Un concours externe est ouvert au CNRS pour le recrutement d=92un Ing=E9nie=
+ur d=92Etude BAP A en Bioinformatique sur la Plateforme de L=92Institut de =
+Biologie de l=92ENS (IBENS).=20
+
+Pour candidater: (attention, inscription au concours en ligne jusqu=92au 27=
+ juin)
+
+http://www.dgdr.cnrs.fr/drhita/concoursita/
+
+D=E9tail du poste =E0 pourvoir:=20
+
+
+Concours N=B0 26
+
+D=E9l=E9gation organisatrice : Ile-de-France Ouest et Nord (DR 05) (MEUDON)
+
+=20
+Nbre de postes :	1
+Emploi-type :	ing=E9nieur en traitement de donn=E9es biologiques
+
+Affectation :	Institut de biologie de l'Ecole Normale Sup=E9rieure, PARIS
+
+Mission :=09=20
+L'ing=E9nieur aura pour mission la mise en oeuvre des diff=E9rents outils i=
+nformatiques et bioinformatiques n=E9cessaires au stockage, au traitement, =
+=E0 l'analyse et =E0 la visualisation des donn=E9es de g=E9nomique.
+Il/elle aura =E9galement pour mission d'assurer au sein de la plateforme de=
+ bioinformatique et en concertation avec les plateformes de g=E9nomique et =
+le service informatique, la mise en oeuvre d'applications bioinformatiques =
+directement utilisables par les biologistes et la formation de ceux-ci.
+=20
+Activit=E9s :=09=20
+- Mettre en place les proc=E9dures de recueil et de contr=F4le des donn=E9e=
+s issues du s=E9quen=E7age =E0 tr=E8s haut d=E9bit (ChIP-Seq, BS-seq, RNA-s=
+eq, etc')
+- R=E9aliser le traitement des donn=E9es visant notamment =E0 l'identificat=
+ion des =E9tats chromatiniens et des sites de fixation de prot=E9ines parti=
+culi=E8res le long d'un g=E9nome ainsi que la caract=E9risation de diff=E9r=
+entes classes d'ARN (ARN messagers ; ARN non-codants : miRNA, siRNA, lncRNA=
+s ; etc.)
+- Organiser la mise en forme, le stockage des donn=E9es
+- Assurer, en collaboration avec le service informatique, la maintenance de=
+s bases de donn=E9es cr=E9=E9es=20
+- Assurer la veille scientifique et technique
+- Diffuser et valoriser des r=E9sultats sous forme de rapports techniques o=
+u d'=E9tude =E0 usage des communaut=E9s professionnelles et scientifiques
+- D=E9velopper des m=E9thodes d'analyse bioinformatique et statistique
+- Participer =E0 la formation des biologistes aux outils bioinformatiques
+=20
+Comp=E9tences :=09=20
+- Formation en bioinformatique
+- Connaissances solides en informatique (ma=EEtrise d'un ou plusieurs langa=
+ges de programmation, bases de donn=E9es) et en bioinformatique (comparaiso=
+n de s=E9quences, analyses NGS, programmation R, etc.)
+- Expertise en statistiques et connaissances g=E9n=E9rales en biologie requ=
+ises
+- Exp=E9rience n=E9cessaire dans l'analyse de donn=E9es issues des technolo=
+gies =E0 tr=E8s haut d=E9bit (RNA-seq, ChIP-seq, ...)=20
+- Ma=EEtrise de l'anglais scientifique et technique
+- Exp=E9rience interdisciplinaire appr=E9ci=E9e (biologie, bioinformatique,=
+ informatique, statistique, mod=E9lisation, etc.).
+- Etre autonome et assurer la veille technologique sur les domaines de sa c=
+omp=E9tence.
+- Former les utilisateurs et les stagiaires sur les outils bioinformatiques=
+ d=E9velopp=E9s.
+- Une exp=E9rience dans un des domaines suivants sera consid=E9r=E9e comme =
+un atout mais n'est pas indispensable: 1) g=E9nomique des plantes et plus p=
+r=E9cis=E9ment le mod=E8le Arabidopsis thaliana. 2) CLIPSeq, 3) analyse en =
+g=E9nomique fonctionnelle
+- ANGLAIS : Compr=E9hension =E9crite et orale : niveau 2 Expression =E9crit=
+e et orale : niveau 1
+=20
+
+Contexte :=09=20
+Le ou la titulaire du poste sera affect=E9 =E0 l'Institut de Biologie de l=
+=92Ecole Normale Sup=E9rieure (IBENS) et sera rattach=E9 =E0 la plateforme =
+de biologie computationnelle et bio-informatique sous la direction du respo=
+nsable de la plateforme. Ce service est compos=E9 de 4 personnes.
+Il/elle sera en relation =E9troite avec les groupes de biologie avec lesque=
+ls il/elle interagira sur des projets d=E9finis en objectif et en temps en =
+collaboration avec les chefs d'=E9quipe impliqu=E9s.
+

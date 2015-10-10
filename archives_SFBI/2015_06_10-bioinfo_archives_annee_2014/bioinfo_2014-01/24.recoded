@@ -1,0 +1,191 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+
+Return-Path: <speroni@cs.unibo.it>
+
+X-Original-To: bioinfo@sfbi.fr
+
+Delivered-To: bioinfo@localhost
+
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+
+	by asso.crihan.fr (Postfix) with ESMTP id 79A9526801D
+
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 12:50:38 +0100 (CET)
+
+X-IronPort-Anti-Spam-Filtered: true
+
+X-IronPort-Anti-Spam-Result: AoABAALpy1KCiAFmnGdsb2JhbABZg0OoUAGSCmwWDgEBAQEBCBQJPIJJHS4MMxoJiQQNmwipN48sgnOBOgSZR5ROgS4k
+
+X-IronPort-AV: E=Sophos;i="4.95,618,1384297200"; 
+
+   d="scan'208";a="51934544"
+
+Received: from leb.cs.unibo.it ([130.136.1.102])
+
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Jan 2014 12:50:38 +0100
+
+Received: from ssl.cs.unibo.it (ssl.cs.unibo.it [127.0.0.1]) (Authenticated sender: hidden)
+
+	by leb.cs.unibo.it (Postfix) with ESMTPSA id 1DFB052E93 
+
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 12:50:37 +0100 (CET)
+
+Content-Type: text/plain; charset="us-ascii"
+
+MIME-Version: 1.0
+
+Content-Transfer-Encoding: 7bit
+
+From: speroni@cs.unibo.it
+
+To: bioinfo@sfbi.fr
+
+Message-Id: <20140107115038.79A9526801D@asso.crihan.fr>
+
+Date: Tue,  7 Jan 2014 12:50:38 +0100 (CET)
+
+X-Validation-by: alexandra.louis@ens.fr
+
+Subject: [bioinfo] ESWC 2014 Final Call for PhD Symposium
+
+
+
+
+
+** apologies for cross-posting **
+
+
+
+==== Final Call for PhD Symposium ===
+http://2014.eswc-conferences.org/important-dates/phd-symposium
+
+
+
+** Deadline: 
+
+**     Monday 13th January 2014 - 23:59 Hawaii Time
+
+
+
+
+
+11th Extended Semantic Web Conference (ESWC) 2014
+
+Dates: May 25 - 29, 2014
+
+Venue: Anissaras, Crete, Greece
+
+Hashtag: #eswc2014
+
+Feed: @eswc_conf
+
+Site: http://2014.eswc-conferences.org
+
+General Chair: Valentina Presutti (STLab, ISTC-CNR, IT)
+
+PhD Symposium Chairs:
+
+- Steffen Staab (Institute for Web Science and Technologies - WeST, University of Koblenz-Landau, DE)
+
+- Mathieu d'Aquin (Knowledge Media Institute, The Open University, UK)
+
+
+
+The ESWC 2014 PhD Symposium is a chance for PhD students working in all areas of Semantic Web research to present their work, meet with peers and experienced researchers, obtain feedback and learn from each other's experiences. It aims at helping future researchers in building up the skills and confidence required to conduct and promote their research, as well as providing them with an opportunity to attend one of the most important research conferences on the Semantic Web.
+
+ 
+
+The ESWC PhD Symposium will give to students the opportunity to:
+
+1. Learn from a mentor: Established researchers and PhD student advisors will provide direct feedback. Each selected student will be assigned a member of the programme committee with whom they will interact on the revision of the paper and the preparation of the presentation.
+
+2. Learn about research in general: Doing good research goes beyond writing a good paper; it includes perspectives on research as an endeavour and a career. Besides the presentations, coffee breaks and the PhD Symposium lunch will be used to exchange ideas and ask questions about all aspects of conducting a PhD and a research career in general.
+
+3. Learn by constructive criticism: Thinking and writing about strengths and weaknesses of other research contributions shapes your own research capabilities.  As a participant to the PhD symposium, you will be expected to also review submissions from others, allowing you to juxtapose and learn from convergence and divergence of opinions.
+
+4. Learn by presenting: Accepted contributions will be presented in the PhD symposium. All accepted contributions will also appear at the general poster session of ESWC. Students' posters will be presented alongside posters and demonstrations of the main conference.
+
+ 
+
+Submissions will be considered from two different categories depending on the advancement into the PhD:
+
+- Early Stage PhD: For students who may have identified the main research problem they want to address, the relevant literature, and are building their research methodology, but might not yet have obtained significant results, or only preliminary ones.
+
+- Late Stage PhD: For students who have already defined their approach (even if incompletely) and obtained significant results (e.g., that might already have been published).
+
+These categories do not affect the chances of being selected. They will however be taken into account by reviewers in their feedback, and in the length and format of the presentation. The organisers might decide to move a submission from one category to the other, if they think it is justified.
+
+
+
+
+
+*Submission Information*
+
+
+
+PhD students in all areas of Semantic Web research are invited to submit papers having 5 to 10 pages describing their PhD research, in the PDF format following the LNCS template (http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) Submissions should be sent using the PhD Symposium submission system (https://www.easychair.org/conferences/?conf=eswc2014ps), through which participants will be also asked to decide on the category of their submission and to write a paragraph regarding their motivation for participating in the ESWC PhD Symposium.
+
+ 
+
+Submissions should follow the following template of sections:
+
+ 
+
+1. Introduction/Motivation
+
+Give a general introduction to the domain/area/topic and indication of its importance/impact in Semantic Web research or other domains.
+
+
+
+2. State of the Art
+
+Describe existing work in the area, work focusing on the same/similar problems or that might be useful to realising your PhD.  
+
+
+
+3. Problem Statement and Contributions
+
+Based on motivation and state of the art, formulate the problem you intend to solve, and how you intend to contribute to Semantic Web research. This section should include a clear formulation of one (or very few) research hypothesis (what you will validate through your methodology, approach and evaluation) and the research questions that need to be answered. Late Stage PhD submissions should focus on contributions to such a hypothesis.
+
+
+
+4. Research Methodology and Approach
+
+Describe the research methodology you will apply in your research, including the different steps from the formulation of your research questions to answering them. Also describe the approach you are taking (or you intend to take for Early Stage PhD submissions) to instantiate the research methodology, hence contributing to solve the problem described in Section 3 and confirm or reject your hypothesis. Discuss how this approach is innovative and novel, and how it is (might be) implemented.
+
+
+
+5. Preliminary or Intermediate Results
+
+In a full conference paper, the approach would be fully described (in section 4) and fully evaluated (in section 6). Being at an intermediate stage, you should report here about the results achieved up to now in applying your approach that might not yet be sufficient for a full evaluation. .  
+
+
+
+6. Evaluation Plan
+
+Describe your evaluation plan, which is the way you intend to validate your hypothesis, your results, and the value of your approach. For Early Stage PhD submissions, this might be only partially defined, and details might be ommited. For Late Stage PhD submissions, you might have partial evaluation results.
+
+
+
+7.Conclusion  
+
+Describe how your results will or might impact research or the world at large.
+
+
+
+
+
+*Important dates*
+
+ 
+
+Submission deadline: 13th January 2014
+
+Notification: 10th February 2014
+
+Revised version of submission to mentor: 24th February 2014
+
+Final version: 10th March 2014
+
+Draft presentation to mentor: 12th May 2014
+

@@ -1,0 +1,70 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id B3C5D26801D; Tue,  8 Jul 2014 12:07:16 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: philippe.hupe@curie.fr
+Message-ID: <sympa.1404814017.14564.531@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue,  8 Jul 2014 12:07:16 +0200 (CEST)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Poste de =?ISO-8859-1?Q?d=E9veloppeur?= d'applications informatiques Big Data =?ISO-8859-1?Q?=E0?= l'Institut Curie
+
+Poste de développeur d'applications informatiques Big Data à l'Institut Curie
+(contrat COD d'une durée minimale de 18 mois et maximale de 36 mois)
+Un poste de développeur d'applications informatiques Big Data est ouvert à l'Institut Curie
+(http://www.curie.fr) à Paris. Le développeur travaillera au sein de la plate-forme de
+bioinformatique de l'unité U900 « Cancer et génome : bioinformatique, biostatistiques et
+épidémiologie d'un système complexe » (unité mixte INSERM, Mines ParisTech, Institut Curie), et
+en étroite collaboration avec nos collaborateurs biologistes et cliniciens de l'Institut Curie.
+
+
+Contexte:
+Riche d'une forte culture interdisciplinaire, l'Institut Curie est l'un des plus importants centres
+européens de recherche contre le cancer. Il comporte également un hôpital spécialisé dans le
+traitement des cancers et par conséquent, l'expertise de l'Institut Curie s'étend de la recherche
+fondamentale au soin du patient. Il est situé dans le centre de Paris dans un riche environnement
+culturel et scientifique. L'unité U900 compte près de 80 chercheurs et étudiants (mathématiciens,
+statisticiens, informaticiens, biologistes, physiciens, médecins et bioanalystes) en bioinformatique,
+biostatistiques et biologie des systèmes.
+
+
+Missions:
+L'Institut Curie utilise de multiples approches moléculaires à haut-débit (biopuces, séquençage à
+haut-débit, phénotypage, protéomique, etc.) qui génèrent des flux d'information sans précédent et
+ouvrent de nouvelles voies de recherche contre le cancer ; l'augmentation massive du volume,
+mais aussi la complexité, l'hétérogénéité et les multiples niveaux de lecture de ces données sont
+cependant autant d'obstacles à leur interprétation et à leur utilisation rationnelle par les acteurs de
+l'Institut Curie : cliniciens, pathologistes, biologistes, biostatisticiens et bioinformaticiens.
+Afin de rendre cette connaissance intelligible et utile à l'ensemble des acteurs, l'Institut Curie a
+choisi de développer une solution adaptée, orientée utilisateur, d'intégration et de croisement des
+données à haut-débit. Le candidat devra concevoir et implémenter des solutions informatiques
+nécessaires à l'intégration de ces données hétérogènes. Il devra par ailleurs interagir avec les
+utilisateurs afin d'appréhender au mieux les spécificités de leurs activités et de s'assurer que les
+solutions développées répondent à leurs besoins. Plus précisément, le candidat devra:
+      -     participer au recueil des besoins auprès des utilisateurs
+      -     définir l'architecture des applications à développer et rédiger les spécifications techniques
+      -     réaliser les développements informatiques
+      -     assurer la maintenance opérationnelle et évolutive des applications
+      -     participer à la veille technologique
+ 
+
+Profil:
+De formation Bac +5 (diplôme d'ingénieur ou master) en Informatique, le candidat devra
+impérativement démontrer une bonne connaissance du développement logiciel, en particulier dans
+le domaine des IHM, avec les langages Java (et de l'environnement web associé JSP/JSF) et
+Javascript (AngularJS, D3.js). Une bonne connaissance de la modélisation (UML), et des bases de
+données (mySQL) est également requise. Des connaissance en services web (SOAP) ainsi que
+des compétences sur les technologies liées à l'exploitation des Big Data telles que le bases de
+données noSQL, Apache Lucene (Elasticsearch) seront appréciées. Le candidat devra avoir une
+excellente capacité à travailler en équipe et à communiquer en anglais et en français, et faire
+preuve d'autonomie dans son travail.
+
+Candidature:
+Pour postuler à ce poste, merci de nous faire parvenir une lettre de motivation, un CV, ainsi que
+trois référents à l'adresse bcsb72@curie.fr.

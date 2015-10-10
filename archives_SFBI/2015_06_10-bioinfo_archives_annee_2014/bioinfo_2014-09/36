@@ -1,0 +1,213 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mathieu.giraud@lifl.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 1498F26801D
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 11:15:02 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArQBAEq4ElTBMeETnGdsb2JhbABFGhaDSle4bI9wDIhcFhABAQEBAQgLCQkUKoQIDl0BZXIJiEIECTaYMaVFjmALEQGDDw9EJIEdBZJOhwaDL48BiFWBSGoBE3uBQAEBAQ
+X-IPAS-Result: ArQBAEq4ElTBMeETnGdsb2JhbABFGhaDSle4bI9wDIhcFhABAQEBAQgLCQkUKoQIDl0BZXIJiEIECTaYMaVFjmALEQGDDw9EJIEdBZJOhwaDL48BiFWBSGoBE3uBQAEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,511,1406584800"; 
+   d="scan'208";a="72757000"
+Received: from smtp01.univ-lille1.fr ([193.49.225.19])
+  by a-mx1.relay.syrhano.net with ESMTP; 12 Sep 2014 11:15:01 +0200
+Received: from smtps1.univ-lille1.fr (smtps1.univ-lille1.fr [193.49.225.52])
+	by smtp01.univ-lille1.fr (8.14.3/8.14.3) with ESMTP id s8C9Ewi3013877
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 11:14:58 +0200
+Received: from bouquet.lifl.fr (bouquet.lifl.fr [134.206.11.127])
+	(authenticated bits=0)
+	by smtps1.univ-lille1.fr (8.14.3/8.14.3/Debian-5) with ESMTP id s8C9Exbu028662
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 11:14:59 +0200
+From: Mathieu Giraud <mathieu.giraud@lifl.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <2743F164-F7D8-4EAD-BA82-CE94A623D6CF@lifl.fr>
+Date: Fri, 12 Sep 2014 11:14:58 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+X-Mailer: Apple Mail (2.1878.6)
+X-USTL-MailScanner-Information: Please contact the ISP for more information
+X-USTL-MailScanner-ID: s8C9Ewi3013877
+X-USTL-MailScanner: Found to be clean
+X-USTL-MailScanner-From: mathieu.giraud@lifl.fr
+X-Spam-Status: No
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi] (Correction) Post-doc / CDD =?WINDOWS-1252?Q?ing=E9nieur?=, analyse bio-informatique des anomalies de recombinaison V(D)J
+
+(Correction: le poste est bien =E0 Paris)
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Type de poste : Post-doc / CDD ing=E9nieur
+Dur=E9e du poste : 1 an, =E9ventuellement renouvelable
+Ville : Paris
+Nom du contact :  Elizabeth Macintyre
+Email du contact : elizabeth.macintyre@nck.aphp.fr
+Laboratoire : =E9quipe 10 (Lymphopo=EF=E8se normale et pathologique), lnsti=
+tut Necker Enfants Malades, Paris
+Fiche d=E9taill=E9e : http://www.lifl.fr/~giraud/post-doc-bioinfo-NCK-LIFL-=
+140912.pdf
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+=3D=3D=3D Analyse bio-informatique des anomalies de recombinaison V(D)J =3D=
+=3D=3D
+
+Nous proposons un poste de chercheur post-doctorant ou ing=E9nieur en bio-i=
+nformatique au sein de l=92=E9quipe 10 (Lymphopo=EF=E8se normale et patholo=
+gique) de l=92institut Necker Enfants Malades (INEM) INSERM U1151 et CNRS U=
+MR8253, co-dirig=E9e par les Prs Elizabeth MACINTYRE et Vahid ASNAFI, en co=
+llaboration avec l'=E9quipe de Dr. Ludovic DERRIANO =E0 l=92Institut Pasteu=
+r, Paris, et l'=E9quipe Bonsai du Laboratoire d'Informatique Fondamentale d=
+e Lille (LIFL) et de l'INRIA Lille.
+
+Ce poste sera localis=E9 au laboratoire d=92oncoh=E9matologie, 2=E8me =E9ta=
+ge b=E2timent Pasteur =E0 l=92h=F4pital Necker-Enfants Malades, 149 rue de =
+s=E8vres 75015 Paris, en attendant l=92ouverture du b=E2timent de recherche=
+ =E0 la Facult=E9 de M=E9decine en 2016/17.
+
+Il s=92agit d=92un CDD d=92un an, =E9ventuellement renouvelable. Le poste e=
+st disponible imm=E9diatement.
+
+=3D=3D Missions =3D=3D
+
+La mission principale de ce poste est de d=E9velopper l=92analyse bio-infor=
+matique des anomalies oncog=E9n=E9tiques et immunog=E9n=E9tiques des leuc=
+=E9mies et lymphomes lymphoblastiques, notamment mais pas exclusivement par=
+ techniques de s=E9quen=E7age deuxi=E8me g=E9n=E9ration.
+
+=3D=3D Activit=E9s =3D=3D
+
+- Analyse bio-informatique des donn=E9es de s=E9quen=E7age g=E9n=E9r=E9es =
+=E0 partir de l=92ADN ou l=92ARN. Traitement des donn=E9es du s=E9quen=E7ag=
+e en oncog=E9n=E9tique et immunog=E9n=E9tique, g=E9n=E9r=E9es par capture o=
+u re-s=E9quen=E7age des amplicons
+- Contribution au logiciel Vidjil d'analyse haut-d=E9bit de recombinaisons =
+immunologiques V(D)J et extension pour les recombinaisons anormales
+- Participation =E0 la mise au point des pipelines d=92identification des a=
+nomalies des remaniements immunog=E9n=E9tiques (des g=E8nes codants pour le=
+s r=E9cepteurs =E0 l=92antig=E8ne des immunoglobulines =96Ig- et r=E9cepteu=
+rs T =E0 l=92antig=E8ne -TCR) qui pourraient r=E9v=E9ler des anomalies de l=
+a r=E9paration de l=92ADN et/ou de la r=E9gulation de la recombinase.
+
+=3D=3D Comp=E9tences =3D=3D
+
+- En priorit=E9, esprit d=92=E9quipe et capacit=E9 =E0 travailler en groupe.
+- Comp=E9tences bio-informatiques obligatoires : algorithmes de comparaison=
+s de s=E9quences. d=E9veloppement algorithmique en C++, visualisation inter=
+active en HTML/javascript, d=E9veloppement collaboratif sous git
+- Connaissances souhaitables en biologie mol=E9culaire et plus sp=E9cifique=
+ment, la PCR quantitative, PCR g=E9nomique, s=E9quen=E7age Sanger et NGS
+- Connaissances souhaitables du d=E9veloppement lympho=EFde normale et path=
+ologique, de l=92oncog=E9n=E9tique lympho=EFde, de l=92immunog=E9n=E9tique =
+et ou de la r=E9paration de l=92ADN
+- Une bonne ma=EEtrise de l=92anglais.
+
+=3D=3D Contexte =3D=3D
+
+Nos th=E9matiques et perspectives de recherche sont centr=E9es sur l'analys=
+e des h=E9mopathies T immatures humaines, les LAL-T. Il s'agit de prolif=E9=
+rations malignes de pr=E9curseurs thymiques bloqu=E9s =E0 un stade donn=E9 =
+de leur diff=E9renciation par un processus oncog=E9nique sous-jacent. Leur =
+oncogen=E8se est multig=E9nique et se caract=E9rise par une fr=E9quence =E9=
+lev=E9e (70%) de mutations des g=E8nes NOTCH1 et FBXW7 aboutissant =E0 une =
+activation constitutive de la voie Notch1 et la d=E9r=E9gulation de g=E8nes=
+ =E0 homeodomaines =AB orphelins =BB TLX1 et TLX3. L'objectif principal de =
+nos travaux est de mieux caract=E9riser la forte corr=E9lation des diff=E9r=
+entes voies d'oncogen=E8se =E0 des stades d'arr=EAt de maturation thymique.=
+ L'oncogen=E8se et le d=E9veloppement lympho=EFde T physiologique, notammen=
+t les m=E9canismes de r=E9gulation des recombinaisons somatiques =E0 l'orig=
+ine de la mise en place d'un r=E9cepteur T =E0 l'antig=E8ne (TCR), se trouv=
+ent =E9troitement li=E9s, ce qui implique la participation de signaux de pr=
+olif=E9ration/apoptose physiologiques dans l'=E9mergence du processus oncog=
+=E9nique. Ainsi nos travaux incitent =E0 croire que le stade d'arr=EAt de m=
+aturation de ces lymphoblastes est conditionn=E9 par le type d'oncog=E8ne d=
+=E9r=E9gul=E9.
+
+Notre activit=E9 de recherche implique =E9galement une forte implication da=
+ns les protocoles th=E9rapeutiques et groupes coop=E9rateurs (groupes GRAAL=
+L et SFCE) des h=E9mopathies lympho=EFdes p=E9diatriques et adultes, et dan=
+s des projets europ=E9ens (=ABEuroflow=BB STREP06 et =ABBlueprint=BB 7PCRDT=
+), =E0 l=92interface de la recherche fondamentale et la recherche translati=
+onnelle. Le pronostic des LAL-T reste sombre, avec une survie =E0 5 ans est=
+im=E9e seulement =E0 60%. Nous souhaitons identifier des biomarqueurs g=E9n=
+=E9tiques susceptibles d'=EAtre utilis=E9s dans un but de stratification th=
+=E9rapeutique et avons r=E9cemment identifi=E9e le r=F4le pronostique de l'=
+activation constitutive des Voies NOTCH1, PTEN et RAS dans ces h=E9mopathie=
+s (Asnafi et al. Blood 2009 - Callens et al. JCO 2012 - Trinquant et al. JC=
+O 2013). L'analyse du r=F4le jou=E9 par ces anomalies, notamment au niveau =
+des cellules initiatrices de la leuc=E9mie, repr=E9sente une th=E9matique i=
+mportante de notre groupe. Nous sommes =E9galement impliqu=E9s dans le suiv=
+i des LAL (T et B) et la d=E9tection de la Maladie R=E9siduelle ou MRD (pou=
+r Minimal Residual Disease), dans un r=E9seau national de 6 laboratoires et=
+ dans le cadre d=92une action concert=E9 Europ=E9enne d=92immunog=E9n=E9tiq=
+ue des h=E9mopathies malignes =96 Euro-NGS.
+
+Le s=E9quen=E7age des g=E8nes codants pour les Ig et les TCR est utilis=E9 =
+pour la d=E9tection clone sp=E9cifique de la MRD. Le transfert du s=E9quen=
+=E7age par technique Sanger vers le NGS augmente la capacit=E9 d=92exploita=
+tion des donn=E9es g=E9n=E9r=E9es et sa processivit=E9. Succinctement, la d=
+iversit=E9 des r=E9cepteurs =E0 l=92antig=E8ne Ig/TCR est g=E9n=E9r=E9 par =
+le recombinaison des segments V, D et J, initi=E9 par la =AB recombinase =
+=BB et plus sp=E9cifiquement la nucl=E9ase RAG1/2 qui reconna=EEt des s=E9q=
+uences =AB RSS =BB aux extr=E9mit=E9s des segments VDJ et coup l=92ADN en d=
+ouble brin. L=92ADN est ensuite modifi=E9 aux extr=E9mit=E9s par l=92enzyme=
+ terminal deoxynucleotidyl transferase et religatur=E9, gr=E2ce =E0 plusieu=
+rs enzymes de =AB DNA repair =BB. Diverses anomalies de ces prot=E9ines peu=
+vent aboutir =E0 des jonctions VDJ aberrantes et =E0 un r=E9pertoire lympho=
+=EFde anormal, d=E9tectable par NGS. Les anomalies de r=E9paration d=92ADN =
+peuvent induire une instabilit=E9 g=E9nomique, des lymphop=E9nies et d=E9fi=
+cits immunitaires, et/ou une transformation oncog=E9nique. La d=E9tection d=
+es jonctions VDJ anormales par NGS TCR DNA-Seq peut signaler la pr=E9sence =
+d=92une instabilit=E9 g=E9nomique sous-jacente =E0 certains leuc=E9mies et =
+permettra l=92identification des patients avec anomalies des g=E8nes qui r=
+=E9gulent l=92int=E9grit=E9 de l=92ADN.
+
+Le travail bio-informatique sera effectu=E9 en collaboration avec l'=E9quip=
+e Bonsai du Laboratoire d'Informatique Fondamentale de Lille (LIFL) et de l=
+'INRIA, Lille. Les logiciels d'analyse de r=E9pertoires lympho=EFdes (logic=
+iels Rep-Seq) recherchent par comparaison de s=E9quences des recombinaisons=
+ form=E9es de g=E8nes V et de g=E8nes J et ne traitent pas correctement les=
+ recombinaisons anormales. Nous avons commenc=E9 =E0 faire =E9voluer le log=
+iciel Vidjil (Giraud, Salson et al., BMC Genomics 2014) pour l'=E9tude de c=
+es recombinaisons. Le bio-informaticien recrut=E9 concevra de nouvelles m=
+=E9thodes algorithmiques et de visualisation pour pouvoir =E0 la fois ident=
+ifier les recombinaisons incompl=E8tes ou anormales connues et tenter de d=
+=E9couvrir automatiquement des recombinaisons non r=E9pertori=E9es. L'objec=
+tif final sera de contribuer =E0 un pipeline d'analyse de donn=E9es de s=E9=
+quen=E7age pour identifier des recombinaisons qui pourraient r=E9v=E9ler de=
+s anomalies de la r=E9paration de l=92ADN ou de la r=E9gulation de la recom=
+binase.
+
+Nous avons =E9galement =E9tabli une collaboration avec l=92=E9quipe de Dr. =
+Ludovic DERRIANO =E0 l=92Institut Pasteur, Paris, qui combine notre exp=E9r=
+ience d=92immunog=E9n=E9tique et oncog=E9n=E9tique des leuc=E9mies et lymph=
+omes lymphoblastiques T avec son exp=E9rience de r=E9paration d=92ADN. Le b=
+io-informaticien recrut=E9 s=92impliquera dans ce programme et b=E9n=E9fici=
+era de l=92environnement de g=E9n=E9tique et d'informatique du Campus Necke=
+r-Enfants Malades (INEM et IMAGINE), celui de l=92Institut Pasteur, Paris e=
+t celui du LIFL.
+
+Pour la composition de l=92=E9quipe, merci de suivre :
+http://www.institut-necker-enfants-malades.fr/index.php?menu=3Dteam_view&fa=
+culty_id=3D10
+
+Pour la liste de publications de l=92=E9quipe, merci de suivre :
+http://www.institut-necker-enfants-malades.fr/index.php?menu=3Dteam_view&fa=
+culty_id=3D10
+
+Merci de transmettre un CV et lettre de motivation =E0 elizabeth.macintyre@=
+nck.aphp.fr si int=E9ress=E9.
+
+--=20
+Mathieu Giraud - http://www.lifl.fr/~giraud
+CNRS, LIFL, Universit=E9 Lille 1, Inria Lille, France
+
+
+
+
+

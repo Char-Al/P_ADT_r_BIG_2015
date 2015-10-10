@@ -1,0 +1,68 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 3F57226801D; Fri,  7 Feb 2014 18:09:06 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: Valentina Boeva <valentina.boeva@gmail.com>
+Message-ID: <sympa.1391792829.2451.134@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri,  7 Feb 2014 18:09:06 +0100 (CET)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Stage M1/M2, Institut Curie, Paris
+
+Development and integration of computational methods into the Galaxy analysis framework
+
+Type de poste: 
+Stage M1/M2
+Durée du poste: 
+6 mois
+Date de début: 
+15/03/2014 or later
+Laboratoire: 
+Bioinformatics, Biostatistics, Epidemiology and computational Systems Biology of Cancer 
+Adresse: 
+U900, Institut Curie  -  INSERM  -  Mines ParisTech
+Laboratoire de Bioinformatics
+26 rue d'Ulm
+75005 Paris
+Nom du contact: 
+Boeva Valentina
+Email du contact: 
+Boeva.Valentina@curie.fr
+Date de validité: 
+01/05/2014
+ 
+Description du poste: 
+ 
+Contexte :
+Located in the center of Paris, our laboratory hosts 4 groups working on the cutting edge of bioinformatics and computational biology of cancer: Bioinformatics and computational systems biology of cancer, Clinical biostatistics, Epidemiology of cancer, and Statistical machine learning and modelling of biological systems. One of the main axes of the lab is to create computational methods for analysis of biomedical data, including data for personalized medicine, in particular, high throughput sequencing data. The methods we have developed allow detecting mutations in individual genomes, deciphering regulation of cellular processes and obtaining information about epigenetic profile of the genome. 
+ 
+Among the methods we have developed, we count ncPROseq for analysis of non-coding RNA, Control-FREEC for detection of copy number alterations, SVDetect for detection of structural rearrangements in the genome, HMCan for detection of histone modifications, MICSA for detection of transcription factor binding sites in the genome. These methods are highly used by bioinformaticians all around the world to perform the analyses of high throughput sequencing data.
+ 
+We would like that the methods we develop serve both the community of bioinformaticians and biologists. To facilitate the use of our computational methods by biologists we have a common practice to integrate our tools into the Galaxy work environment. Galaxy is an open source, web-based platform for data intensive biomedical research. It can be used by scientists independent of their physical location. The fact that we make our tools easily accessible to biologists via Galaxy significantly multiplies their use. It thus contributes to the progress of biomedical research.
+ 
+Scientists in our laboratory work in a close collaboration with biologists from other units of Institut Curie. Our collaborators use the local instance of Galaxy to run analysis pipelines we developed. Integration of new tools into the local instance of Galaxy would accelerate the advancement of research projects in our institute and thus make a difference in the fight against cancer.
+The objective of the internship is to implement in Galaxy the computational methods developed in the lab and create Galaxy interfaces for public tools necessary for the functioning of the institutional pipelines of biomedical data analysis.
+ 
+Description du stage :
+- Development and implementation of scripts and pipelines for analysis of biomedical data 
+- Tool integration into the Galaxy environment (in collaboration with researchers from biology units)
+- Tool documentation
+ 
+ 
+Profil recherché :
+- Knowledge of Unix/Mac OS, command line, shell
+- Programming languages Perl and/or Python
+- Fluent English
+ 
+Environnement de travail :
+The intern student will work in a Linux environment. He/she will collaborate with bioinformaticians and biologists from Institut Curie. The work will be coordinated by a research scientist. 
+ 
+Rémunération : oui.
+ 
+Dossier de candidature : CV et lettre de motivation

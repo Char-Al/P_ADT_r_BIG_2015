@@ -1,0 +1,201 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+
+Return-Path: <speroni@cs.unibo.it>
+
+X-Original-To: bioinfo@sfbi.fr
+
+Delivered-To: bioinfo@localhost
+
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+
+	by asso.crihan.fr (Postfix) with ESMTP id 56E0C26801D
+
+	for <bioinfo@sfbi.fr>; Thu, 22 May 2014 08:36:02 +0200 (CEST)
+
+X-IronPort-Anti-Spam-Filtered: true
+
+X-IronPort-Anti-Spam-Result: An0CAF6afVOCiAFml2dsb2JhbABZg1utHwGXcWgWDgEBAQEBCBYHPIJJHS4FAzcjiUENoWbALoYYgT0Emy2VXQ
+
+X-IronPort-AV: E=Sophos;i="4.98,885,1392159600"; 
+
+   d="scan'208";a="58931334"
+
+Received: from leb.cs.unibo.it ([130.136.1.102])
+
+  by b-mx1.relay.syrhano.net with ESMTP; 22 May 2014 08:35:46 +0200
+
+Received: from ssl.cs.unibo.it (ssl.cs.unibo.it [127.0.0.1]) (Authenticated sender: hidden)
+
+	by leb.cs.unibo.it (Postfix) with ESMTPSA id AB80E52E8D 
+
+	for <bioinfo@sfbi.fr>; Thu, 22 May 2014 08:35:45 +0200 (CEST)
+
+Content-Type: text/plain; charset="us-ascii"
+
+MIME-Version: 1.0
+
+Content-Transfer-Encoding: 7bit
+
+From: speroni@cs.unibo.it
+
+To: bioinfo@sfbi.fr
+
+Message-Id: <20140522063602.56E0C26801D@asso.crihan.fr>
+
+Date: Thu, 22 May 2014 08:36:02 +0200 (CEST)
+
+X-Validation-by: jean-christophe.aude@cea.fr
+
+Subject: [bioinfo] ESWC 2014 Call for Participation
+
+
+
+
+
+** apologies for cross-posting **
+
+
+
+==== Call for Participation ===
+http://2014.eswc-conferences.org
+
+
+
+CFP: 11th Extended Semantic Web Conference (ESWC) 2014
+
+Dates: May 25 - 29, 2014
+
+Venue: Anissaras, Crete, Greece
+
+Hashtag: #eswc2014
+
+Feed: @eswc_conf
+
+Site: http://2014.eswc-conferences.org    
+
+General Chair: Valentina Presutti (STLab, ISTC-CNR, IT)
+
+
+
+ESWC 2014 is the major Europe-based conference on Semantic Technologies and the Semantic Web. It is the ideal venue for discussing the latest scientific results and technology innovations and is equally relevant to researchers, academics, developers and practitioners in the field of Semantic Technologies. This year's edition has four keywords: visionary, advancing, pioneering, and trendy.
+
+
+
+We hope to see you at ESWC 2014 in Crete!
+
+
+
+=== Program ==
+
+
+The conference program is available at http://2014.eswc-conferences.org/program-overview
+
+
+
+== Keynote Speakers =
+
+
+ESWC 2014 will have three inspiring keynote presentations:
+
+
+
+- Steffen Staab (Universitat Koblenz-Landau, DE)
+
+- Luciano Floridi (Oxford Internet Institute, University of Oxford, UK)
+
+- Lise Getoor (University of California, US)
+
+
+
+Details at http://2014.eswc-conferences.org/program/keynote-speakers
+
+
+
+== Accepted Papers (Research and In-Use) =
+
+
+http://2014.eswc-conferences.org/program/accepted-papers
+
+
+
+== PhD Symposium =
+
+
+http://2014.eswc-conferences.org/program/phd-symposium
+
+
+
+== Workshops and Tutorials =
+
+
+The main conference program will be complemented by 14 workshops and 8 tutorials:
+
+
+
+http://2014.eswc-conferences.org/workshops-tutorials
+
+
+
+== Demonstration and poster presentations =
+
+
+http://2014.eswc-conferences.org/program/posters-demos
+
+
+
+== Semantic web Evaluation Challenge Track =
+
+
+http://2014.eswc-conferences.org/program/semwebeval
+
+
+
+== LinkedUP Challenge =
+
+
+The LinkedUp Challenge targets researchers and practitioners from both the eLearning area as well as the semantic technologies field. Participants present their Web application, app, analysis toolkit, documented API or any other tool that connects, exploits or analyses open or linked data and that addresses real educational needs. The LinkedUp Challenge has a dedicated event during the workshop/tutorial days of ESWC 2014, as well as a dedicated slot during the main session.
+
+
+
+== AI Mashup Challenge =
+
+
+The AI mashup challenge accepts and awards mashups that use AI technology, including but not restricted to machine learning and data mining, machine vision, natural language processing, reasoning, ontologies in the context of the semantic web. Such services may run on any medium, including web browsers, handheld devices, mobile phones (IOS, Android), etc.
+
+This challenge has a special dedicated session at ESWC 2014.
+
+
+
+== EU Project Networking sessions =
+
+
+A session dedicated to EU projects: a minute-madness presentation slot followed by a networking session.
+
+http://2014.eswc-conferences.org/program/eu-projects
+
+ 
+
+=== Registration ==
+
+
+http://2014.eswc-conferences.org/registration
+
+
+
+=== Organizers ==
+
+
+General Chair: 
+
+* Valentina Presutti (STLab, ISTC-CNR, IT) 
+
+PC Chairs: 
+
+* Claudia d'Amato (Department of Computer Science, University of Bari, IT)
+
+* Fabien Gandon (Wimmics, Inria, University Nice Sophia Antipolis, FR)
+
+
+
+ESWC 2014 is brought to you by STI International 
+

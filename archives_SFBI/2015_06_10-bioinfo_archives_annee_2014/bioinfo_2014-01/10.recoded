@@ -1,0 +1,251 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+
+Return-Path: <jonquet@lirmm.fr>
+
+X-Original-To: bioinfo@sfbi.fr
+
+Delivered-To: bioinfo@localhost
+
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+
+	by asso.crihan.fr (Postfix) with ESMTP id E234626801D
+
+	for <bioinfo@sfbi.fr>; Mon,  6 Jan 2014 17:31:54 +0100 (CET)
+
+X-IronPort-Anti-Spam-Filtered: true
+
+X-IronPort-Anti-Spam-Result: ArQBAJ3ZylLBMWgenGdsb2JhbABYFoMtuycWDgEBAQEBCBQJPIImAQEEAQIFAgI9KxIDAgk/BxkIBx4RAgQTCwWHYAMVCb5mDYRXjHyCMIIZgggEiQuMPGSBbIxaA4hm
+
+X-IronPort-AV: E=Sophos;i="4.95,613,1384297200"; 
+
+   d="scan'208";a="59766212"
+
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+
+  by a-mx1.relay.syrhano.net with ESMTP; 06 Jan 2014 17:31:54 +0100
+
+Received: from pcjonquet2 (pai34-1-87-88-241-115.dsl.sta.abo.bbox.fr [87.88.241.115])
+
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 44FD9A5103
+
+	for <bioinfo@sfbi.fr>; Mon,  6 Jan 2014 17:31:53 +0100 (CET)
+
+From: "Clement Jonquet" <jonquet@lirmm.fr>
+
+To: <bioinfo@sfbi.fr>
+
+References: <014c01cef66e$36f67500$a4e35f00$@lirmm.fr> 
+
+In-Reply-To: 
+
+Date: Mon, 6 Jan 2014 17:31:46 +0100
+
+Message-ID: <0cc901cf0afc$cb806760$62813620$@lirmm.fr>
+
+MIME-Version: 1.0
+
+Content-Type: text/plain;
+
+	charset="iso-8859-1"
+
+Content-Transfer-Encoding: quoted-printable
+
+X-Mailer: Microsoft Outlook 15.0
+
+Thread-Index: AQIsDSgAm5Hoc0e/hT+IYTeGRpYEhZm91L2ggAAKckA
+Content-Language: fr
+
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+
+Subject: [bioinfo] RE: Sujets stage de Master 2 (Montpellier) - projet SIFR
+
+
+
+Bonjour à tous,
+
+
+
+2 stages sont encore disponibles dans le cadre du projet SIFR au
+
+LIRMM/CIRAD :
+
+- Construction d'une application web pour la navigation et la recherche
+
+d'information au sein d'un graphe de connaissances communautaires (Phil
+ippe,
+
+Clement)
+
+http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2-Lemoisson_ViewpointsUI
+
+.html
+
+
+
+- Expérimentation du calcul hétérogène dans l'approche Viewpoints (
+Fabien,
+
+Guillaume)
+
+http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2_ViewpointsGPU.html
+
+
+
+Pour ceux qui cherchent des projets étudiants (niveau ~M1), stage court de
+
+développement, nous proposons aussi :
+
+- Formalisation et extraction de points de vue de à partir de multiples
+
+ressources du Web (Clement, Philippe)
+
+www.lirmm.fr/sifr/positions/2014_TER_M1_Jonquet_viewpoints.html
+
+N'hésitez pas à me contacter pour de plus ample information.
+
+CJ
+
+
+
+De : Clement Jonquet [mailto:jonquet@lirmm.fr]
+
+Envoyé : mercredi 11 décembre 2013 13:23
+
+=C0 : web.semantique@lists-sop.inria.fr; info-ic@listes.irisa.fr;
+
+liste-egc@polytech.univ-nantes.fr; bioinfo@sfbi.fr
+
+Objet : Sujets stage de Master 2 (Montpellier) - projet SIFR
+
+
+
+Bonjour,
+
+
+
+Le LIRMM (Montpellier) propose 4 stages de M2 dans le contexte du projet
+
+SIFR (indexation sémantique de données biomédicales à l'aide d'
+ontologie).
+
+Commencement début mars.
+
+
+
+N'hésitez pas à me/nous contacter si vous êtes intéressé :
+
+
+
+- Conception d'un prototype d'annotateur sémantique biomédical fran
+cophone
+
+(Clement)
+
+http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2-Jonquet_FrenchAnnotato
+
+r.html
+
+
+
+- Construction d'une application web pour la navigation et la recherche
+
+d'information au sein d'un graphe de connaissances communautaires (Phil
+ippe,
+
+Clement)
+
+http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2-Lemoisson_ViewpointsUI
+
+.html
+
+
+
+- Acquisition de vocabulaire patient (Sandra)
+
+http://www.lirmm.fr/~teisseir/StagesMasterR/SujetM2VocaPatientMedecin2013.pd
+
+f
+
+
+
+- Expérimentation du calcul hétérogène dans l'approche Viewpoints (
+Fabien,
+
+Guillaume)
+
+http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2_ViewpointsGPU.html
+
+
+
+N'hésitez pas à me contacter pour de plus ample information.
+
+CJ
+
+
+
+----------------------------------------------------------------------------
+
+----------------------------------------
+
+Dr. Clement JONQUET  -  PhD in Informatics  -  Assistant Professor
+
+PI of the SIFR project: Semantic Indexing of French Biomedical Data
+
+Resources (ANR, UM2, CNRS)
+
+
+
+jonquet@lirmm.fr
+
+http://www.lirmm.fr/~jonquet
+
+
+
+                University of Montpellier 
+                         Te
+l:
+
+                       +33/4 67
+ 14 97 43
+
+               
+
+LIRMM                       
+                         
+               
+
+Fax:                        +33
+/4 67  41 85 00          
+
+                161 rue Ada
+
+                         
+                         
+   Skype:                 
+
+clementpro
+
+                34095 Montpellier Cdx 5  
+                         
+  
+
+Twitter:               @jonquet_lirmm
+
+               
+
+France                       
+                         
+                
+
+Google:               jonquet.lirmm@gmail.com
+
+----------------------------------------------------------------------------
+
+----------------------------------------
+
+
+
+
+
+
+

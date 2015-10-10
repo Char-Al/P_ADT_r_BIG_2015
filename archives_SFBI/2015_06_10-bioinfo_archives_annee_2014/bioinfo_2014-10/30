@@ -1,0 +1,83 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <thomas.simonson@polytechnique.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 9B43726801D
+	for <bioinfo@sfbi.fr>; Fri, 10 Oct 2014 17:42:00 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AswBAGH9N1SBaB4PnGdsb2JhbABgg2FYAYI9SL5HiVaHTYEHFgERAQEBAQEICwkJFCyEFhcVPAQBDgscAgUWCwILAwIBAgEJMR4BBQIBAYg6DY9EnE2VBgEBCAIgBIEojjYRAVAdgmGBVAWGLYxTgzuIeoV8kiRqgQ+BOwEBAQ
+X-IPAS-Result: AswBAGH9N1SBaB4PnGdsb2JhbABgg2FYAYI9SL5HiVaHTYEHFgERAQEBAQEICwkJFCyEFhcVPAQBDgscAgUWCwILAwIBAgEJMR4BBQIBAYg6DY9EnE2VBgEBCAIgBIEojjYRAVAdgmGBVAWGLYxTgzuIeoV8kiRqgQ+BOwEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,693,1406584800"; 
+   d="scan'208";a="74555831"
+Received: from mx-b.polytechnique.fr ([129.104.30.15])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Oct 2014 17:41:54 +0200
+Received: from zimbra.polytechnique.fr (zimbra.polytechnique.fr [129.104.69.30])
+	by mx-b.polytechnique.fr (tbp 5.3.2/2.0.7) with ESMTP id s9AFfrtp019201;
+	Fri, 10 Oct 2014 17:41:53 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra.polytechnique.fr (Postfix) with ESMTP id 3301B7200D5;
+	Fri, 10 Oct 2014 17:41:53 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at zimbra.polytechnique.fr
+Received: from zimbra.polytechnique.fr ([127.0.0.1])
+	by localhost (zimbra.polytechnique.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 4yb-YXhsvgvp; Fri, 10 Oct 2014 17:41:49 +0200 (CEST)
+Received: from [129.104.8.175] (zephyr.polytechnique.fr [129.104.8.175])
+	by zimbra.polytechnique.fr (Postfix) with ESMTP id 0B3E6720089;
+	Fri, 10 Oct 2014 17:41:49 +0200 (CEST)
+Message-ID: <5437FE3D.5010100@polytechnique.fr>
+Date: Fri, 10 Oct 2014 17:41:49 +0200
+From: Thomas Simonson <thomas.simonson@polytechnique.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Cc: Thomas Simonson <thomas.simonson@polytechnique.fr>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Stage M2 de dessein computationnel de =?UTF-8?Q?prot=C3=A9ines?=
+
+
+Un stage M2 est propos=C3=A9 dans notre =C3=A9quipe de bioinformatique
+structurale =C3=A0 l'Ecole Polytechnique:
+
+Dessein computationnel des interactions prot=C3=A9ine-ligand
+----------------------------------------------------------
+
+On s'int=C3=A9ressera =C3=A0 l'ing=C3=A9nierie (in silico) de l'asparaginyl=
+-ARNt
+synth=C3=A9tase, avec le but d'obtenir une activit=C3=A9 envers des acides
+amin=C3=A9s non-naturels, et =C3=A9ventuellement d'introduire ces acides
+amin=C3=A9s dans le code g=C3=A9n=C3=A9tique. On utilisera une m=C3=A9thode=
+ g=C3=A9n=C3=A9rale
+de =C2=ABdessein computationnel de prot=C3=A9ines=C2=BB. La m=C3=A9thode et=
+ le logiciel
+ont =C3=A9t=C3=A9 d=C3=A9velopp=C3=A9es dans l'=C3=A9quipe et ont permis tr=
+=C3=A8s r=C3=A9cemment
+de modifier la stereospecificit=C3=A9 d'une autre synth=C3=A9tase. Plus
+g=C3=A9n=C3=A9ralement, ces m=C3=A9thodes ont de nombreuses applications fo=
+ndamentales
+et technologiques. Le stage incluera un travail d'am=C3=A9lioration
+des outils et un travail d'application; les pr=C3=A9dictions seront
+test=C3=A9es par les coll=C3=A8gues exp=C3=A9rimentalistes du laboratoire.
+
+Financement de th=C3=A8se envisageable (=C3=A0 travers l'Ecole Doctorale de
+Polytechnique, largement ouverte aux =C3=A9tudiants ext=C3=A9rieurs).
+
+Voir aussi biology.polytechnique.fr/biocomputing et les articles:
+
+Simonson et al, J Comp Chem, 2013; Polydorides et al, Proteins 2010;
+Schmidt am Busch et al, Plos One 2010, Protein 2009
+
+
+Bien cordialement,
+
+--=20
+Thomas Simonson -- Department of Biology
+Laboratoire de Biochimie (UMR 7654 du CNRS)
+Ecole Polytechnique; 91128 Palaiseau; France
+phone: +33/1 69 33 48 60  (fax: -- 49 09)
+email: Thomas.Simonson@polytechnique.fr
+http://biology.polytechnique.fr/biocomputing
+
+
