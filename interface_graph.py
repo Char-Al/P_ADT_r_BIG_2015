@@ -1,3 +1,4 @@
+#On importe TKinter (disponible par défault)
 import Tkinter
 
 class simpleapp_tk(Tkinter.Tk):
