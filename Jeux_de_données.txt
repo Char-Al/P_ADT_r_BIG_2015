@@ -1,0 +1,78 @@
+﻿# Etiquetage des mails
+
+# 1 jeu de données tests : 
+
+10 mails français :
+bioinfo_2014-01/2.recoded
+bioinfo_2014-01/7.recoded
+bioinfo_2014-01/21.recoded
+bioinfo_2014-01/28.recoded
+bioinfo_2014-01/31.recoded
+bioinfo_2014-01/40.recoded
+bioinfo_2014-01/45.recoded
+bioinfo_2014-01/86.recoded
+bioinfo_2014-01/88.recoded
+bioinfo_2014-01/90.recoded
+
+10 mails anglais :
+bioinfo_2014-01/11.recoded
+bioinfo_2014-01/12.recoded
+bioinfo_2014-01/17.recoded
+bioinfo_2014-01/19.recoded
+bioinfo_2014-01/23.recoded
+bioinfo_2014-01/24.recoded
+bioinfo_2014-01/30.recoded
+bioinfo_2014-01/32.recoded
+bioinfo_2014-01/43.recoded
+bioinfo_2014-01/49.recoded
+
+10 mails anglais + français :
+bioinfo_2014-01/3.recoded
+bioinfo_2014-01/5.recoded
+bioinfo_2014-01/27.recoded
+bioinfo_2014-01/37.recoded
+bioinfo_2014-01/41.recoded
+bioinfo_2014-01/57.recoded
+bioinfo_2014-01/58.recoded
+bioinfo_2014-01/67.recoded
+bioinfo_2014-01/93.recoded
+bioinfo_2014-01/78.recoded
+
+
+# 2 jeux de données tests : 
+
+10 mails français :
+bioinfo_2014-02/7.recoded
+bioinfo_2014-02/8.recoded
+bioinfo_2014-02/9.recoded
+bioinfo_2014-02/10.recoded
+bioinfo_2014-02/11.recoded
+bioinfo_2014-02/12.recoded
+bioinfo_2014-02/16.recoded
+bioinfo_2014-02/19.recoded
+bioinfo_2014-02/27.recoded
+bioinfo_2014-02/33.recoded
+
+10 mails anglais :
+bioinfo_2014-02/1.recoded
+bioinfo_2014-02/2.recoded
+bioinfo_2014-02/5.recoded
+bioinfo_2014-02/6.recoded
+bioinfo_2014-02/14.recoded
+bioinfo_2014-02/15.recoded
+bioinfo_2014-02/18.recoded
+bioinfo_2014-02/23.recoded
+bioinfo_2014-02/24.recoded
+bioinfo_2014-02/26.recoded
+
+10 mails français + anglais :
+bioinfo_2014-02/4.recoded
+bioinfo_2014-02/17.recoded
+bioinfo_2014-02/22.recoded
+bioinfo_2014-02/25.recoded
+bioinfo_2014-02/28.recoded
+bioinfo_2014-02/32.recoded
+bioinfo_2014-02/42.recoded
+bioinfo_2014-02/62.recoded
+bioinfo_2014-02/76.recoded
+bioinfo_2014-02/77.recoded
