@@ -29,10 +29,10 @@ class simpleapp_tk(Tkinter.Tk):
 
 
 def OnButtonClick(self):
-	print " Tu as appuyé sur le boutton ! "
+	print " Tu as appuye sur le boutton ! "
 
 def OnPressEnter(self, event):
-	print " Tu as appuyé sur Entrer ! "
+	print " Tu as appuye sur Entrer ! "
 
 if __name__ == "__main__":
     app = simpleapp_tk(None)
@@ -42,6 +42,6 @@ if __name__ == "__main__":
 
 
 
-    #tu es arrivé a l'étape 15
+    #tu es arrive a l'etape 15
     #lecture interface graphique en python
     #lecture sur comment bien commenter son code
