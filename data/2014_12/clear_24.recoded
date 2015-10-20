@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2148426801D
+	for <bioinfo@sfbi.fr>; Fri,  5 Dec 2014 18:34:41 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApYBAKDrgVSKZqI0nGdsb2JhbABZg1hYAYMEih0BuS+HRwEBAQEBEQEBAQEBCAsJCRQuhCwQBREzDiQCJgISLBAkiDsNsD+PQoFthiyJA4VzgSiORREBbYJZgUcFgSWtPgEBAQcBAQEBXYFAboEMgTcBAQE
+X-IPAS-Result: ApYBAKDrgVSKZqI0nGdsb2JhbABZg1hYAYMEih0BuS+HRwEBAQEBEQEBAQEBCAsJCRQuhCwQBREzDiQCJgISLBAkiDsNsD+PQoFthiyJA4VzgSiORREBbYJZgUcFgSWtPgEBAQcBAQEBXYFAboEMgTcBAQE
+X-IronPort-AV: E=Sophos;i="5.07,523,1413237600"; 
+   d="scan'208";a="78265963"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 05 Dec 2014 18:34:40 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sB5HYejj022006
+	for <bioinfo@sfbi.fr>; Fri, 5 Dec 2014 18:34:40 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 0D0B3296BB5
+	for <bioinfo@sfbi.fr>; Fri,  5 Dec 2014 18:34:40 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XwwoP-000GJz-93
+	for bioinfo@sfbi.fr; Fri, 05 Dec 2014 18:37:01 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XwwoP-000GJz-93@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Fri, 05 Dec 2014 18:37:01 +0100
+X-Miltered: at beta with ID 5481ECB0.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5481ECB0.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5481ECB0.000 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.258 -> S=0.349
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?D=C3=A9velopper?= des web se  rvices en bio-informatique structurale
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Développer des web services en bio-informatique  
+structurale
+Type de poste : CDD Ingénieur
+Durée du poste : 18 mois
+Ville : Lyon
+Nom du contact : Raphaël Terreux
+Email du contact : raphael.terreux@ibcp.fr
+Laboratoire : BMSSI, UMR 5086, “Plateforme Prabi+ ”
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/d%C3%A9velopper-des-web-services-en-bio-informatique-structurale

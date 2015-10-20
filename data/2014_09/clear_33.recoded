@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 6BAFD26801D
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 10:32:27 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Am4BABpdEVSKZqI0nGdsb2JhbABgg2BXAYJ7xTqIahABAQEBAQYNCQkUKoQtEAURMw4kAh8HAhIsECSIQg2aYY80gXSNLoZJgSyNPxEBbYJjgVMFgS6zIoFIaoEPgUABAQE
+X-IPAS-Result: Am4BABpdEVSKZqI0nGdsb2JhbABgg2BXAYJ7xTqIahABAQEBAQYNCQkUKoQtEAURMw4kAh8HAhIsECSIQg2aYY80gXSNLoZJgSyNPxEBbYJjgVMFgS6zIoFIaoEPgUABAQE
+X-IronPort-AV: E=Sophos;i="5.04,504,1406584800"; 
+   d="scan'208";a="72683537"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 11 Sep 2014 10:32:27 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s8B8WQSw028789
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 10:32:26 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 7BDD4296B97
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 10:32:26 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XRzpY-000DIz-H8
+	for bioinfo@sfbi.fr; Thu, 11 Sep 2014 10:34:16 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XRzpY-000DIz-H8@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 11 Sep 2014 10:34:16 +0200
+X-Miltered: at alpha with ID 54115E1A.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54115E1A.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54115E1A.001 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.273 -> S=0.367
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][=?UTF-8?Q?Th=C3=A8se?=] Re-classification des maladies   auto-immunes par analyse bio-informatique de d  =?UTF-8?Q?onn=C3=A9es?= de =?UTF-8?Q?cytom=C3=A9trie?= en flux
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Re-classification des maladies auto-immunes par analyse  
+bio-informatique de données de cytométrie en flux
+Type de poste : Thèse
+Durée du poste : 3 ans
+Ville : Brest
+Nom du contact : Pers Jacques-Olivier
+Email du contact : pers@univ-brest.fr
+Laboratoire : EA2216, INSERM ESPRI, ERI29
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/re-classification-des-maladies-auto-immunes-par-analyse-bio-informatique-de-donn%C3%A9es-de-cytom

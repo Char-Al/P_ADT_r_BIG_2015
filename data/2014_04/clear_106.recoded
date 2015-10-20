@@ -1,0 +1,82 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pierre.peterlongo@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id D1BDC26801D
+	for <bioinfo@sfbi.fr>; Wed, 30 Apr 2014 11:33:41 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuoBAOXCYFPAhqRTf2dsb2JhbABZg1XGOBYOAQELCwoIFCiCOCYBBTMNPRMDGAMCAQIBWAYCAQGIPQ2WfLMcjgABAWyEIwSWIYMCgTyLWIkJgWkHFwY
+X-IronPort-AV: E=Sophos;i="4.97,957,1389740400"; 
+   d="scan'208";a="66061279"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by a-mx1.relay.syrhano.net with ESMTP; 30 Apr 2014 11:33:41 +0200
+X-IronPort-AV: E=Sophos;i="4.97,957,1389740400"; 
+   d="scan'208";a="71221416"
+Received: from cruxy.irisa.fr ([131.254.12.2])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 30 Apr 2014 11:33:40 +0200
+Message-ID: <5360C376.2080802@inria.fr>
+Date: Wed, 30 Apr 2014 11:33:42 +0200
+From: Pierre Peterlongo <pierre.peterlongo@inria.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre de poste bioinfo =?WINDOWS-1252?Q?Ing=E9nieur?= - Inria Rennes
+Bonjour à toutes et à tous.
+Dans le cadre du projet Colib'read (http://colibread.inria.fr/), 
+l'équipe Irisa/Inria Genscale (http://team.inria.fr/genscale) recrute 
+un(e) ingénieur(e) de développement pour une durée de 18 mois.
+Poste à pourvoir dès que possible.
+Profil du poste
+- Assurer le développement d'outils issus du projet de recherche 
+Colib'read: détection de variants, assemblage précis de données de 
+séquençage. Ce développement pourra consister au déploiement de méthodes 
+déjà prototypées, au codage de nouvelles méthodes ou à l'amélioration 
+(via la parallélisation par exemple) d'outils existants.
+- Avoir un regard critique sur les résultats des outils. Le/la 
+candidat(e) recruté aura pour mission de mettre en place des méthodes de 
+simulation et de test permettant de comparer et de valider les approches 
+proposées.
+- Le poste, basé sur un profil d'ingénierie, comprend une forte 
+coloration "recherche". La personne recrutée devra donc avoir un goût 
+pour ces aspects plus prospectifs.
+*Environnement de travail*
+- Le poste sera basé à Rennes au sein de l'équipe GenScale. Les 
+interactions seront fréquentes avec les autres équipes du projet 
+Colib'read. Le/la candidate aura accès à des moyens de calculs 
+conséquents et pourra s'appuyer sur les données et l'expertise de nos 
+collaborateurs biologistes.
+Formation et compétences requises
+- Master informatique et algorithmique ou master bioinfo.
+- Forte motivation et connaissances dans le domaine de la biologie 
+moléculaire, en particulier des techniques NGS.
+- Forte motivation pour les aspects recherche (prises de risques, 
+publications, ...)
+- Algorithmique avancées (techniques d'indexation, algorithmique du 
+texte, ...)
+- Codage en C/C++, environnement Linux
+- Idéalement:
+* Expérience en analyse de données de génomique et NGS
+* Travail collaboratif (GIT, SVN)
+* Connaissance des outils d'analyse statistique.
+* Maîtrise de l'anglais
+*
+**Limite de soumission des dossiers* : Vendredi 30 Mai 2014
+*Audition des candidats* : Mardi 10 Juin 2014
+*Prise de fonction* : Dès que possible, au plus tard le 1er Octobre 2014
+*Rémunération* : Niveau ingénieur Inria, en fonction de l'expérience et 
+à partir de 2530 euros  brut mensuel
+*Envoyer le dossier de candidature* (lettre de motivation et CV) à : 
+pierre.peterlongo@inria.fr - indiquer "inge_colibread_2014" dans le 
+titre du mail SVP.
+-- 
+Document sans titre
+*Pierre Peterlongo - INRIA* - Research Associate / Chargé de recherche
+http://people.rennes.inria.fr/Pierre.Peterlongo/
+Campus de Beaulieu- Rennes
+35042 Rennes Cedex, France
+Tel : +33 (0)2 99 84 74 59
+Fax : +33 (0)2 99 84 71 71

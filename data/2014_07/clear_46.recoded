@@ -1,0 +1,45 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 395F626801D
+	for <bioinfo@sfbi.fr>; Tue, 15 Jul 2014 11:55:05 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApwDABz5xFOKZqI0nGdsb2JhbABZg2BYgnW+bYdDAYEeDwEBAQEBCAsJCRQohAQBBSMPAQURQCUCBSECAg8COwsTBgIBAYg+DbEjmAgXgSyNPREBVxaCYYFMBZsWhxKQVmqBCw
+X-IronPort-AV: E=Sophos;i="5.01,664,1400018400"; 
+   d="scan'208";a="70187145"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 15 Jul 2014 11:55:05 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s6F9t4OF017709
+	for <bioinfo@sfbi.fr>; Tue, 15 Jul 2014 11:55:04 +0200 (CEST)
+Message-ID: <53C4FA78.60000@jouy.inra.fr>
+Date: Tue, 15 Jul 2014 11:55:04 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1X6xRA-0001sj-0D@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1X6xRA-0001sj-0D@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1X6xRA-0001sj-0D@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53C4FA78.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53C4FA78.000/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53C4FA78.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.116 -> S=0.116
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] Bioinformaticien
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformaticien
+Type de poste : CDD Ingénieur
+Durée du poste : 12
+Ville : Québec
+Nom du contact : Arnaud Droit
+Email du contact : arnaud.droit@crchuq.ulaval.ca
+Laboratoire : Centre de recherche du CHU de Québec
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/bioinformaticien-7

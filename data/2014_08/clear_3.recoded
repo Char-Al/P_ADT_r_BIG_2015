@@ -1,0 +1,73 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <y.wurm@qmul.ac.uk>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id E54EA26801D
+	for <bioinfo@sfbi.fr>; Mon,  4 Aug 2014 09:45:14 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhECAKI531OKJQYGhmdsb2JhbABYA4NfVwSCdMkiBodQGn4WEAEBAQoJCwcWKYQKEhERVwEiAiYCBDAVEgQTIogfAQSeQIJKARmBBAKKSQEBdpBGhikXgSyBNYwXOQsogicPMhIkgRwFhgmVfYFUjGaJcmyBRg
+X-IronPort-AV: E=Sophos;i="5.01,796,1400018400"; 
+   d="scan'208";a="62618021"
+Received: from mail2.qmul.ac.uk ([138.37.6.6])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Aug 2014 09:45:14 +0200
+Received: from mail-am1lrp0019.outbound.protection.outlook.com ([213.199.154.19] helo=emea01-am1-obe.outbound.protection.outlook.com)
+	by mail2.qmul.ac.uk with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.71)
+	(envelope-from <y.wurm@qmul.ac.uk>)
+	id 1XECxE-0003rO-Df
+	for bioinfo@sfbi.fr; Mon, 04 Aug 2014 08:45:12 +0100
+Received: from DB4PR07MB252.eurprd07.prod.outlook.com (10.242.231.153) by
+ DB4PR07MB251.eurprd07.prod.outlook.com (10.242.231.151) with Microsoft SMTP
+ Server (TLS) id 15.0.995.14; Mon, 4 Aug 2014 07:45:11 +0000
+Received: from DB4PR07MB252.eurprd07.prod.outlook.com ([10.242.231.153]) by
+ DB4PR07MB252.eurprd07.prod.outlook.com ([10.242.231.153]) with mapi id
+ 15.00.0995.014; Mon, 4 Aug 2014 07:45:11 +0000
+From: Yannick Wurm <y.wurm@qmul.ac.uk>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: ULondon.Pollinator.PopGenomTranscriptomics
+Thread-Index: AQHPr7gEpJB+KpMuLUOohTRrbH09RQ=
+Date: Mon, 4 Aug 2014 07:45:10 +0000
+Message-ID: <C050C8AF-8B4A-4AB4-A69F-CD64A3F9B3D3@qmul.ac.uk>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [101.128.99.248]
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:
+x-forefront-prvs: 0293D40691
+x-forefront-antispam-report: SFV:NSPM;SFS:(6009001)(189002)(199002)(20776003)(105586002)(83322001)(106116001)(76482001)(4396001)(95666004)(46102001)(16601075003)(83072002)(79102001)(15202345003)(82746002)(110136001)(77982001)(106356001)(54356999)(86362001)(92726001)(229853001)(107886001)(36756003)(74662001)(87936001)(74502001)(83716003)(99396002)(31966008)(101416001)(81342001)(64706001)(33656002)(81542001)(19580405001)(19580395003)(92566001)(2351001)(21056001)(74482001)(85852003)(2656002)(85306004)(15975445006)(107046002)(50986999)(66066001)(80022001)(104396001)(16193025007);DIR:OUT;SFP:;SCL:1;SRVR:DB4PR07MB251;H:DB4PR07MB252.eurprd07.prod.outlook.com;FPR:;MLV:sfv;PTR:InfoNoRecords;MX:1;LANG:en;
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <F575E34D6D9E3342A3DBFFEAB27AE611@eurprd07.prod.outlook.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-OriginatorOrg: qmul.ac.uk
+X-QM-Office365: True
+X-QM-Body-MD5: 4bfa28f78502d01c50d33e40d7f317d5 (of first 20000 bytes)
+X-Sender-Host-Address: 213.199.154.19
+X-SpamAssassin-Score: -0.6
+X-SpamAssassin-SpamBar: /
+X-SpamAssassin-Report: The QM spam filters have analysed this message to determine if it is
+ spam. We require at least 5.0 points to mark a message as spam.
+ This message scored -0.6 points.
+ Summary of the scoring: 
+ * -0.7 RCVD_IN_DNSWL_LOW RBL: Sender listed at http://www.dnswl.org/, low
+ *      trust
+ *      [213.199.154.19 listed in list.dnswl.org]
+ *  0.1 AWL AWL: From: address is in the auto white-list
+X-QM-Scan-Virus: ClamAV says the message is clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Job: ULondon.Pollinator.PopGenomTranscriptomics
+Qm9uam91ciDDoCB0b3VzLA0KDQp3ZSBhcmUgcmVjcnVpdGluZyBhbiBldm9s
+dXRpb25hcnktbWluZGVkIHBlcnNvbiB3aXRoIHN0cm9uZyBiaW9pbmZvcm1h
+dGljcyBza2lsbHMgZm9yIGEgMyB5ZWFyIHBvc3Rkb2MgcG9zaXRpb24gYW5h
+bHlzaW5nICBsYXJnZSBwb2xsaW5hdG9yIGdlbm9taWNzIGFuZCB0cmFuc2Ny
+aXB0b21pY3MgZGF0YXNldHMuDQoNCkZ1bGwgYWQgaXMgaGVyZTogDQogICBo
+dHRwOi8vam9icy5xbXVsLmFjLnVrLzQ5OTcNCg0KQXBwbHkgYnkgQXVndXN0
+IDE3dGguIA0KDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCllhbm5pY2sgV3VybSAtIGh0dHA6
+Ly95YW5uaWNrLnBvdWxldC5vcmcNCnkud3VybUBxbXVsLmFjLnVrIOKLhSBz
+a3lwZTp5YW5uaWNrd3VybSDii4UgKzQ0IDIwNyA4ODIgMzA0OQ0KNS4wM0Eg
+Rm9nZyDii4UgU2Nob29sIG9mIEJpb2xvZ2ljYWwgJiBDaGVtaWNhbCBTY2ll
+bmNlcyDii4UgUXVlZW4gTWFyeSwgVW5pdmVyc2l0eSBvZiBMb25kb24g4ouF
+IE1pbGUgRW5kIFJvYWQg4ouFIEUxIDROUyBMb25kb24g4ouFIFVL

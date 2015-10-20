@@ -1,0 +1,51 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <dominique.zeliszewski@issb.genopole.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id CBC6B26801D
+	for <bioinfo@sfbi.fr>; Fri, 23 May 2014 11:17:25 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnABAPEQf1PBM0ELl2dsb2JhbABaFoNDrgeYIQ4BAQEBAQgWBzyDGYFdiEUJonK0WBeOb4MVgRUEmXKWYTsw
+X-IronPort-AV: E=Sophos;i="4.98,892,1392159600"; 
+   d="scan'208";a="67299092"
+Received: from mail.issb.genopole.fr (HELO postman.issb.genopole.fr) ([193.51.65.11])
+  by a-mx1.relay.syrhano.net with ESMTP; 23 May 2014 11:17:25 +0200
+Received: from mac-issb.issb.lab (mac-issb.issb.lab [192.168.110.180])
+	by postman.issb.genopole.fr (Postfix) with ESMTPSA id 091851F9A
+	for <bioinfo@sfbi.fr>; Fri, 23 May 2014 11:16:50 +0200 (CEST)
+From: Dominique Zeliszewski <dominique.zeliszewski@issb.genopole.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 23 May 2014 11:17:29 +0200
+Message-Id: <2F13B81F-F980-442C-AC68-91F55F19239F@issb.genopole.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1283)
+X-Mailer: Apple Mail (2.1283)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Postdoctoral position in Bio-CAD for Synthetic Biology
+Postdoctoral position in Bio-CAD for Synthetic Biology
+The institute of Systems and Synthetic Biology (iSSB) has an immediate open
+ing to develop Computer-Aided Design tools for Synthetic Biology applicatio
+ns. The institute is part of Genopole, a consortium of leading research aca
+demic and private laboratories in genomics, post-genomics and related scien
+ces. The job location is in Evry, 35 km south of Paris, 30 min by suburban 
+train.
+Job Description: The position awardee (1 year renewable) will join iSSB's
+ Bio-RetroSynth team and will be responsible for developing software based 
+on in-house chemical fingerprints and kernel methods to design novel metabo
+lic pathways.  More information on the work the research team is currently 
+pursuing can be found in Nucleic Acids Res 2014, PMID: 24792156 and ACS Syn
+th. Biol. 2013, PMID: 24131345, as well as at http://www.issb.genopole.fr/~
+faulon.
+Qualifications: The successful candidate will have a recent Ph.D. in biolog
+y, chemistry or computer science. Essential qualifications include backgrou
+nd knowledge in machine learning applied to bioinformatics and/or cheminfor
+matics and excellent programming skills in languages such as C++, Java, Per
+l, Python, PHP, as well as scientific software (R or Matlab). Experience wi
+th software project development, strong collaborative skills and ability to
+ work and communicate in a team environment are also desirable.
+We offer a competitive compensation package, which will be commensurate upo
+n qualifications and experience. Applicants should send their CV, a cover l
+etter, and three names of references to Prof. Jean-Loup Faulon to the follo
+wing contact e-mail address: brs-job@issb.genopole.fr

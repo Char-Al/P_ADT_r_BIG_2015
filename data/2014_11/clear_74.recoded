@@ -1,0 +1,72 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <jonquet@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 18D6126801D
+	for <bioinfo@sfbi.fr>; Tue, 25 Nov 2014 15:06:08 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Am4DAGaMdFTBMWgemWdsb2JhbABbFoNCV8kihksEAh5yFgEBAQEBEQEBAQEBCAsLBxQuhAMCBAgCKlIFCUgXCDYCBBMLBYgbAxYEqk+RPI4vDYZkjkOCHTiENwWFLgKBHYUahnyEZYUgghSQHwOJMYFGRjALAYI+AQEB
+X-IPAS-Result: Am4DAGaMdFTBMWgemWdsb2JhbABbFoNCV8kihksEAh5yFgEBAQEBEQEBAQEBCAsLBxQuhAMCBAgCKlIFCUgXCDYCBBMLBYgbAxYEqk+RPI4vDYZkjkOCHTiENwWFLgKBHYUahnyEZYUgghSQHwOJMYFGRjALAYI+AQEB
+X-IronPort-AV: E=Sophos;i="5.07,455,1413237600"; 
+   d="scan'208";a="77633800"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by a-mx1.relay.syrhano.net with ESMTP; 25 Nov 2014 15:06:07 +0100
+Received: from pcjonquet2 (unknown [172.30.2.145])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 012AAA4F8F
+	for <bioinfo@sfbi.fr>; Tue, 25 Nov 2014 15:06:06 +0100 (CET)
+From: "Clement Jonquet" <jonquet@lirmm.fr>
+To: <bioinfo@sfbi.fr>
+References: 
+In-Reply-To: 
+Date: Tue, 25 Nov 2014 15:06:06 +0100
+Message-ID: <0baa01d008b8$f4f2c560$ded85020$@lirmm.fr>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQLLWXF1/224G5BZqrqc6+m5ZT1HZ5p6vu7A
+Content-Language: fr
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] RE: Open engineer position available in Montpellier - Web developer - Semantic Web - BioPortal
+Rm9sa3MsDQooc29ycnkgZm9yIG11bHRpcGxlIHJlY2VwdGlvbnMpDQoNClRo
+ZSBTSUZSIHByb2plY3QgKGh0dHA6Ly93d3cubGlybW0uZnIvc2lmci8pIGlu
+dmVzdGlnYXRlcyB0aGUgc2NpZW50aWZpYyBhbmQNCnRlY2huaWNhbCBjaGFs
+bGVuZ2VzIGluIGJ1aWxkaW5nIG9udG9sb2d5LWJhc2VkIHNlcnZpY2VzIHRv
+IGxldmVyYWdlDQpiaW9tZWRpY2FsIG9udG9sb2dpZXMgYW5kIHRlcm1pbm9s
+b2dpZXMgaW4gaW5kZXhpbmcsIG1pbmluZyBhbmQgcmV0cmlldmFsIG9mDQoo
+RnJlbmNoKSBiaW9tZWRpY2FsIGRhdGEuIA0KDQpXZSBhcmUgc2Vla2luZyBh
+biBleHBlcmllbmNlZCBXZWIgZGV2ZWxvcGVyIHRvIHRha2UgaGFuZHMgb24g
+dGhlIGRpZmZlcmVudA0KcHJvdG90eXBlcyBkZXZlbG9wZWQgd2l0aGluIHRo
+ZSBwcm9qZWN0IGFuZCB0byBzZXR1cCBhbmQgc3VwcG9ydCB0aGUNCnByb2pl
+Y3SScyBwbGF0Zm9ybSBvZiBzZXJ2aWNlcy4gT25lIG1haW4gYXNwZWN0IHdp
+bGwgYmUgdGhlIG1haW50ZW5hbmNlIGFuZA0KaW50ZWdyYXRpb24gb2YgbmV3
+IHNlcnZpY2VzIGluc2lkZSBvdXIgbG9jYWwgaW5zdGFuY2Ugb2YgQmlvUG9y
+dGFsLg0KDQpNb3JlIGRldGFpbGVkIGhlcmU6IGh0dHA6Ly9iaXQubHkvMXJB
+bzRFViANCg0KUmVnYXJkcywNCg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLQ0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0NCkRyLiBDbGVtZW50IEpPTlFVRVSgIC2gIFBoRCBpbiBJ
+bmZvcm1hdGljc6AgLaAgQXNzaXN0YW50IFByb2Zlc3NvciBQSSBvZiB0aGUN
+ClNJRlIgcHJvamVjdDogU2VtYW50aWMgSW5kZXhpbmcgb2YgRnJlbmNoIEJp
+b21lZGljYWwgRGF0YSBSZXNvdXJjZXMgKEFOUiwNClVNMiwgQ05SUywgSUJD
+KSBPcmdhbml6ZXIgb2YgV2ViIFNjaWVuY2UgTW9udHBlbGxpZXIgTWVldHVw
+DQoNCmpvbnF1ZXRAbGlybW0uZnINCmh0dHA6Ly93d3cubGlybW0uZnIvfmpv
+bnF1ZXQgDQoNCqCgoKCgoKCgoKCgoKCgoCBVbml2ZXJzaXR5IG9mIE1vbnRw
+ZWxsaWVyoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoCBUZWw6DQqgoKCgoKCg
+oKCgoKCgoKCgoKCgoKArMzMvNCA2NyAxNCA5NyA0Mw0KoKCgoKCgoKCgoKCg
+oKCgDQpMSVJNTaCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg
+oKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoEZheDqgoKCgoKCgDQqgoKCgoCCg
+oKCgoKCgoCszMy80IDY3oCA0MSA4NSAwMA0KoKCgoKCgoKCgoKCgoKCgIDE2
+MSBydWUgQWRhDQqgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg
+oKCgoKCgoKCgoKCgoKCgoFNreXBlOqCgoKCgoKCgoA0KoKCgoKCgoGNsZW1l
+bnRwcm8NCqCgoKCgoKCgoKCgoKCgoCAzNDA5NSBNb250cGVsbGllciBDZHgN
+CjWgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgVHdpdHRlcjqgoKCgoKCg
+IKCgoKCgoCBAam9ucXVldF9saXJtbQ0KoKCgoKCgoKCgoKCgoKCgDQpGcmFu
+Y2WgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg
+oKCgoKCgoKCgoKCgoKCgoKBHb29nbGU6DQqgoKCgoKCgoKCgoKCgIGpvbnF1
+ZXQubGlybW1AZ21haWwuY29tDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0NCg0KDQoNCg=

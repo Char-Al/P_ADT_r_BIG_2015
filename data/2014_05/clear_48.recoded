@@ -1,0 +1,47 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3DB8B26801D
+	for <bioinfo@sfbi.fr>; Tue, 20 May 2014 01:16:01 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Al0FANCPelOKZqI0nGdsb2JhbABZg1eDQYoZtwEDAgGBLg4BAQEBAQgLCQkUKIImAQUjDwEFES8RJQIFFgsCAgkDAgECAToLEwYCAQGIPQQJrWOkZReBKoxDEQFXFoJfgUsEmVqWU4F1
+X-IronPort-AV: E=Sophos;i="4.98,870,1392159600"; 
+   d="scan'208";a="58780196"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 20 May 2014 01:16:01 +0200
+Received: from MacBook-Air-de-sophie-2.local (fac34-5-82-239-136-21.fbx.proxad.net [82.239.136.21])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s4JNFxiT021592
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Tue, 20 May 2014 01:16:00 +0200 (CEST)
+Message-ID: <537A90AF.2040205@jouy.inra.fr>
+Date: Tue, 20 May 2014 01:15:59 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1WmWn6-0006N3-D3@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1WmWn6-0006N3-D3@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1WmWn6-0006N3-D3@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 537A90AF.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 537A90AF.000/82.239.136.21/fac34-5-82-239-136-21.fbx.proxad.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 537A90AF.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=## B=0.094 -> S=0.138
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][=?UTF-8?Q?Th=C3=A8se?=] =?UTF-8?Q?Th=C3=A8se?= en Systems Biology / =?UTF-8?Q?Math=C3=A9matiques?= =?UTF-8?Q?appliqu=C3=A9es?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Thèse en Systems Biology / Mathématiques appliquées
+Type de poste : Thèse
+Durée du poste : 36 mois
+Ville : Compiègne
+Nom du contact : Mottelet Stéphane
+Email du contact : stephane.mottelet@utc.fr
+Laboratoire : Laboratoire de Mathématiques Appliquées de Compiègne EA2222
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/th%C3%A8se-en-systems-biology-math%C3%A9matiques-appliqu%C3%A9es

@@ -1,0 +1,105 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <loic.pauleve@lri.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 02DC626801D
+	for <bioinfo@sfbi.fr>; Tue, 29 Jul 2014 16:45:42 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApUBAAKz11OBr9RAnGdsb2JhbAA/GoNgV4J4yHiGA4JXFhABAQEBAQgLCQkUKYQnBoELAgUhAhEBNxaIVQ02l3ePKJdUF4EsinGGL4FRBYRziWSTexiETII2DIltagE
+X-IronPort-AV: E=Sophos;i="5.01,757,1400018400"; 
+   d="scan'208";a="70806787"
+Received: from mx1.u-psud.fr ([129.175.212.64])
+  by a-mx1.relay.syrhano.net with ESMTP; 29 Jul 2014 16:45:42 +0200
+Received: from mx1.u-psud.fr (localhost [127.0.0.1])
+	by localhost (MTA) with SMTP id C767530214F
+	for <bioinfo@sfbi.fr>; Tue, 29 Jul 2014 16:45:41 +0200 (CEST)
+Received: from ext.lri.fr (ext.lri.fr [129.175.15.4])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mx1.u-psud.fr (MTA) with ESMTPS id A4F3A301EE0
+	for <bioinfo@sfbi.fr>; Tue, 29 Jul 2014 16:45:40 +0200 (CEST)
+Received: from [129.175.15.4] (ext.lri.fr [129.175.15.4])
+	by ext.lri.fr (Postfix) with ESMTP id C69E640A02
+	for <bioinfo@sfbi.fr>; Tue, 29 Jul 2014 16:45:40 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at lri.fr
+Received: from [129.175.15.4] (ext.lri.fr [129.175.15.4])
+	by localhost (ext.lri.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id w2NK8DS5UrjL for <bioinfo@sfbi.fr>;
+	Tue, 29 Jul 2014 16:45:40 +0200 (CEST)
+Received: from [129.175.15.4] (ext.lri.fr [129.175.15.4])
+	by ext.lri.fr (Postfix) with ESMTP id A94E14006F
+	for <bioinfo@sfbi.fr>; Tue, 29 Jul 2014 16:45:40 +0200 (CEST)
+Received: from [129.175.15.4] (ext.lri.fr [129.175.15.4])
+	by smtp-ng.lri.fr (Postfix) with ESMTP id A47F060298
+	for <bioinfo@sfbi.fr>; Tue, 29 Jul 2014 16:45:40 +0200 (CEST)
+From: Loïc_Paulevé <loic.pauleve@lri.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Date: Tue, 29 Jul 2014 16:43:21 +0200
+Message-ID: <2830816.TOjxzndv29@andermatt>
+Organization: CNRS/LRI
+User-Agent: KMail/4.13.3 (Linux/3.15.7-gentoo; KDE/4.13.3; x86_64; ; )
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] SASB, Munich, September 10, 2014 - Call for Participation
+                    Call for Participation
+------------------------------------------------------------------
+                         SASB 2014
+5th International Workshop on Static Analysis and Systems Biology
+------------------------------------------------------------------
+10 September 2014,
+Munich, Germany
+Satellite Workshop of SAS 2014
+http://www.lri.fr/sasb2014/
+SASB aims at promoting discussions and collaborations between biologists
+(modelers), computer scientists and applied-mathematicians interested in
+designing or using methods to reduce the complexity of modeling, simulating
+ or
+analyzing biological systems.
+Static analysis refers to a wide range of techniques for characterizing and
+identifying important features from a model without its exhaustive executio
+n.
+Static analysis is used for helping the design of models, the test of models
+against experimental data, and the prediction of behaviors.
+Static analysis can involve, for instance, modeling paradigms, such as
+rule-based modeling, that ease the characterization of the behaviors of a
+model; abstractions that prevent a full exploration of the potential concre
+te
+behaviors; algebraic representations and transformations that ease the
+computation of various properties; model reductions, that decrease the
+dimension of a model while preserving important behaviors; characterization
+ of
+dynamical properties with respect to the topology of the model; etc.
+The program of SASB 2014 consists of 2 invited talks
+- Gheorghe Craciun (University of Wisconsin-Madison, USA)
+- Fabian Theis (Institute of Computational Biology, Helmholtz Zentrum M=C3
+=BCnchen)
+and 6 contributed talks.
+A preliminary program is available at http://www.lri.fr/sasb2014/#program
+Registration: http://cs.uni-muenster.de/sev/sas14/registration.php
+PUBLICATION
+-----------
+The proceedings of the workshop will be published electronically via ENTCS.
+ORGANIZERS
+----------
+* Program Co-Chairs:
+  Heinz Koeppl              Technische Universit=C3=A4t Darmstadt, Germany
+  Loic Paulevé              CNRS/LRI, Université Paris-Sud, France
+* Program Committee:
+  Claudine Chaouyia         IGC, Portugal
+  Gheorghe Craciun          University of Wisconsin-Madison, USA
+  Damien Eveillard          Université de Nantes, France
+  Jérome Feret              Ecole Normale Superieure & Inria, France
+  Johnatan Hayman           University of Cambridge, UK
+  Ina Koch                  Goethe University, Germany
+  Reinhard Laubenbacher     University of Connecticut Health Center, USA
+  Wolfgang Marwan           Otto-von-Guericke Universit=C3=A4t Magdeburg, G
+ermany
+  Andrew Phillips           Microsoft Research Cambridge, UK
+  Adrien Richard            CNRS/I3S, France
+  Julio Saez-Rodriguez      EMBL-EBI, UK
+  David Safranek            Masaryk University, Czech Republic
+  Thomas Sauter             University of Luxembourg
+  Andrei Zinovyev           Institut Curie, France--

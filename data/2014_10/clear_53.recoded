@@ -1,0 +1,101 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <rivals@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 1208026801D
+	for <bioinfo@sfbi.fr>; Fri, 17 Oct 2014 09:57:36 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsIBAOfKQFTBMWgenGdsb2JhbABbFoNLWIMGySmIZBYBEQEBAQEBCAsJCRQuhCYGDwEFER0SNgIFFgsCCwMCAQIBTAwGAgEBiD+2G5UhgSyLX4JqBINSgVQFnVmHaIdhiGGBa2oBAYEEgUUBAQE
+X-IPAS-Result: AsIBAOfKQFTBMWgenGdsb2JhbABbFoNLWIMGySmIZBYBEQEBAQEBCAsJCRQuhCYGDwEFER0SNgIFFgsCCwMCAQIBTAwGAgEBiD+2G5UhgSyLX4JqBINSgVQFnVmHaIdhiGGBa2oBAYEEgUUBAQE
+X-IronPort-AV: E=Sophos;i="5.04,737,1406584800"; 
+   d="scan'208";a="74990546"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by a-mx1.relay.syrhano.net with ESMTP; 17 Oct 2014 09:57:37 +0200
+Received: from [193.49.107.60] (pc-rivals.lirmm.fr [193.49.107.60])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id C9251A4F43;
+	Fri, 17 Oct 2014 09:57:35 +0200 (CEST)
+Message-ID: <5440CBEF.7080807@lirmm.fr>
+Date: Fri, 17 Oct 2014 09:57:35 +0200
+From: Rivals Eric <rivals@lirmm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: gdr-im@gdr-im.fr, bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CALL FOR PAPERS de CPM 2015
+De la part de F. Cicalese
+============= First Call for Paper - CPM 2015 =========
+FIRST CALL FOR PAPERS
+CPM 2015
+26th Annual Symposium on Combinatorial Pattern Matching
+June 28 - July 1, 2015, Ischia Island, Italy
+http://www.cpm2015.di.unisa.it
+Submission deadline:   ** February 2, 2015 **
+Notification:                     ** March 31, 2015   **
+******************************************************************
+SCOPE:   Papers in all areas related to combinatorial pattern
+matching and its applications are sought,  including,   but not
+limited to:  bioinformatics and computational  biology,  coding
+and data compression,  combinatorics on words,  information
+retrieval,  data  mining, natural language processing,  pattern
+discovery, string  algorithms, string  processing in databases,
+and text searching.
+Both papers reporting on  original research unpublished else-
+where and surveys of important results are welcome.
+The  proceedings  will  be published  in the  Springer-Verlag
+series Lecture Notes in Computer Science.
+IMPORTANT DATES:
+Submission:     February 2, 2015
+Notification:      March 31, 2015
+Final version:   April 15, 2015
+Symposium:     June 28- July 1, 2015
+PROGRAM COMMITTEE:
+	• Francine Blanchet-Sadri (University of North Carolina, USA)
+	• Timothy Chan (University of Waterloo, Canada)
+	• Ferdinando Cicalese (University of Salerno, Italy, co-chair)
+	• Raphaël Clifford (University of Bristol, UK)
+	• Paolo Ferragina (University of Pisa, Italy)
+	• Travis Gagie (University of Helsinki, Finland)
+	• Leszek Gąsieniec (University of Liverpool, UK)
+	• Raffaele Giancarlo (University of Palermo, Italy)
+	• Inge Li Gørtz (Technical University of Denmark, Denmark)
+	• Roberto Grossi (University of Pisa, Italy)
+	• John Iacono (New York University, USA)
+	• Gregory Kucherov (Université Paris-Est Marne-la-Vallée, France)
+	• Eduardo Sany Laber (PUC-Rio, Brazil)
+	• Gad Landau (University of Haifa, Israel)
+	• Jesper Larsson (Malmö University, Sweden)
+	• Noa Lewenstein (Netanya College, Israel)
+	• Stefano Lonardi (University of California, Riverside, USA)
+	• Veli Mäkinen (University of Helsinki, Finland)
+	• Ian Munro (University of Waterloo, Canada)
+	• Gonzalo Navarro (University of Chile, Chile)
+	• Ely Porat (Bar-Ilan University, Israel, co-chair)
+	• Simon Puglisi (University of Helsinki, Finland)
+	• Kunihiko Sadakane (The University of Tokyo, Japan)
+	• Marie-France Sagot (INRIA Grenoble Rhône-Alpes, Lyon, France)
+	• Tatiana Starikovskaya (Higher School of Economics, Russia)
+	• Jens Stoye (Bielefeld University, Germany)
+	• Oren Weimann (University of Haifa, Israel)
+ORGANIZING COMMITTEE
+	• Ferdinando Cicalese (University of Salerno, Italy)
+	• Travis Gagie (University of Helsinki, Finland)
+	• Luisa Gargano (University of Salerno, Italy)
+	• Zsuzsanna Lipták (University of Verona, Italy)
+	• Ugo Vaccaro (University of Salerno, Italy)
+STEERING COMMITTEE
+	• Alberto Apostolico (Georgia Institute of Technology, USA)
+	• Maxime Crochemore (King's College London, UK)
+	• Zvi Galil (Georgia Institute of Technology, USA)
+Further details are available at the symposium web site:
+http://www.cpm2015.di.unisa.it
+-- 
+Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
+CNRS Research Director & Head of GDR Bioinformatique Moléculaire
+LIRMM - UMR 5506 & Univ Montpellier 2 (CC 05016)
+860 rue de St Priest - 34095 Montpellier cedex 5 FRANCE
+Tel. (33 or 0 from France) 4 67 41 86 64
+Fax. (33 or 0 from France) 4 67 41 85 00
+http://www.gdr-bim.cnrs.fr

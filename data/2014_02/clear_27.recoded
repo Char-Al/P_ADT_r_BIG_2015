@@ -1,0 +1,89 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <yoann.anselmetti@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id D15F126801D
+	for <bioinfo@sfbi.fr>; Sun,  9 Feb 2014 16:46:09 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgkDAFSi91JKfVKvlGdsb2JhbABZg0SrUpVMFg4BAQEBBwsLCRIqgjgmAQUIARsMEAIDEg0ZFhgDAgECAQwFEQEFAS8IAQGHbAEDEQQBmH+DCoxegw6TLgoZJw1kh3MBBQyOGnSEIgSOV4lUhkiJbEGCazCBP4Fo
+X-IronPort-AV: E=Sophos;i="4.95,812,1384297200"; 
+   d="scan'208";a="53690560"
+Received: from mail-we0-f175.google.com ([74.125.82.175])
+  by b-mx1.relay.syrhano.net with ESMTP; 09 Feb 2014 16:45:58 +0100
+Received: by mail-we0-f175.google.com with SMTP id q59so3598970wes.34
+        for <bioinfo@sfbi.fr>; Sun, 09 Feb 2014 07:45:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:reply-to:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=6b6VDTPLlQ6PFlNkHR8nebdPURVEymSTljdeEmzJd6g=;
+        b=ylXa/QW9LsrdAjbc2WCTvNrLpomDuRTtICFsdXWhqez5y46oP2SC3CNhRj8qJOCUVm
+         2ASds8WlzvlZ0xRDlGbilH5H1B9G9nkBSyiABYuxV30B8/80Y0kNxoQrxnlmooLKZrDg
+         6313SlfnTBMBOXP5c1b+6OItzlMxEtdflS0JPHbydJy7tz8LBetGkVZT5rGS4csuUWUw
+         PFStixe2eW4CqE3Hj/Zuq7fLfV4aOb/ZwTxkVsxp2YZWT9WG9ru4M11lSA3wj+y5Nrqx
+         zCxb5TPOuKBftUhXGMPzOezZiOxClKOt0V+yNMeD92SBXWnZgMoyboscEWRq/thGvz0X
+         Ha3g==
+X-Received: by 10.180.108.199 with SMTP id hm7mr7168475wib.1.1391960757287;
+        Sun, 09 Feb 2014 07:45:57 -0800 (PST)
+Received: from [192.168.1.14] (AMontpellier-651-1-366-154.w81-251.abo.wanadoo.fr. [81.251.77.154])
+        by mx.google.com with ESMTPSA id h13sm27520456wjr.22.2014.02.09.07.45.53
+        for <bioinfo@sfbi.fr>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 09 Feb 2014 07:45:55 -0800 (PST)
+Message-ID: <52F7A2AD.5080209@listes.univ-montp2.fr>
+Date: Sun, 09 Feb 2014 16:45:49 +0100
+From: MOD2014 <yoann.anselmetti@gmail.com>
+Reply-To: MOD2014 <omicsdays2014@listes.univ-montp2.fr>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Montpellier Omics Days 2014 (=?WINDOWS-1252?Q?2=E8me?= =?WINDOWS-1252?Q?=E9dition?=), =?WINDOWS-1252?Q?Conf=E9rences?=/workshop sur les sciences en =?WINDOWS-1252?Q?=AB?= Omiques =?WINDOWS-1252?Q?=BB?=
+#####################################################
+Montpellier Omics Days 2014 (2ème édition)
+Conférences/workshop sur les sciences en « Omiques »
+#####################################################
+***********************************************************************
+Date : 17-18 février 2014
+Lieu : Campus de la faculté des sciences de l'université Montpellier 2
+***********************************************************************
+Vous êtes invités à assister à la deuxième édition des Montpellier Omics 
+Days 2014 qui aura lieu le lundi 17 et le mardi 18 février 2014 à 
+l'université Montpellier 2.
+Cet événement s'inscrit dans le cadre de la spécialité « 
+Bioinformatique, Connaissances, Données » du Master STIC pour la Santé 
+et est organisé autour des sciences en « Omiques ». Il réunira de 
+nombreux chercheurs biologistes, bioinformaticiens et informaticiens de 
+toute la région de Languedoc Roussillon.
+« Montpellier Omics Days 2014 » est une manifestation scientifique 
+organisée par les étudiants en deuxième année de la spécialité « 
+Bioinformatique, Connaissances, Données » du master STIC pour la Santé 
+des Universités de Montpellier I & II dans le cadre de l'Unité 
+d'Enseignement « Omique ».
+Elle a pour but d'identifier clairement l'état de l'art de la recherche 
+dans le domaine des techniques de traitements des données issues 
+notamment des technologies de séquençage à haut-débit et de mettre en 
+contact les différentes parties concernées : les chercheurs/ingénieurs 
+en biologie et en bioinformatique.
+L'intérêt général de l'organisation de MOD2014 est la volonté d'engager 
+une communication constructive entre ces acteurs, motivée par l'actuelle 
+inexistence de procédures standardisées pour le traitement des données « 
+Omiques ».
+Organisés dans l'une des plus grandes Université de France, les « 
+Montpellier Omics Days 2014 » se déclinent en deux parties :
+- Conférences (lundi 17 février): sessions de présentations 
+scientifiques des derniers travaux scientifiques des acteurs de la 
+recherche académique et industrielle dans le domaine « Omique » 
+(génomique, épigénomique, métagénomique, transcriptomique, protéomique) 
+(inscription gratuite mais obligatoire).
+- Workshop pour des biologistes (le mardi 18 février) : souhaitant 
+s'initier à l'utilisation de l'environnement linux ainsi que quelques 
+exemples d'analyse de données biologiques (places limitées (30 places) - 
+inscription gratuite mais obligatoire).
+Pour plus d'informations et pour vous inscrire gratuitement, RDV sur le 
+site http://www.lirmm.fr/BCD/MOD2014/
+Cordialement,
+Comité d'organisation MOD2014

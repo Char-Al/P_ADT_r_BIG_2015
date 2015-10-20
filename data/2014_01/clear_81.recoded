@@ -1,0 +1,103 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <richard@i3s.unice.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id BB84726801D
+	for <bioinfo@sfbi.fr>; Mon, 27 Jan 2014 08:50:41 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvwDACgP5lKGO4IBgGdsb2JhbABZg0RWvFOBHw4BAQsUBy4QgkkVATURFYFNh3TIKxeONViEPwSUP4UahH6KGYUDO4Es
+X-IronPort-AV: E=Sophos;i="4.95,728,1384297200"; 
+   d="scan'208";a="60920222"
+Received: from socrate.i3s.unice.fr (HELO smtp.i3s.unice.fr) ([134.59.130.1])
+  by a-mx1.relay.syrhano.net with ESMTP; 27 Jan 2014 08:50:41 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.i3s.unice.fr (Postfix) with ESMTP id 8EB6D4F6343;
+	Mon, 27 Jan 2014 08:50:40 +0100 (CET)
+X-Virus-Scanned: amavisd-new at i3s.unice.fr
+Received: from smtp.i3s.unice.fr ([127.0.0.1])
+	by localhost (smtp.i3s.unice.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3Y_equJeYJ-C; Mon, 27 Jan 2014 08:50:40 +0100 (CET)
+Received: from webmail.i3s.unice.fr (localhost [127.0.0.1])
+	by smtp.i3s.unice.fr (Postfix) with ESMTP id 714AB4F633F;
+	Mon, 27 Jan 2014 08:50:40 +0100 (CET)
+Received: from 134.59.129.162
+        (SquirrelMail authenticated user richard)
+        by webmail.i3s.unice.fr with HTTP;
+        Mon, 27 Jan 2014 08:50:40 +0100
+Message-ID: <581973f3dc45a063b1482d756fc1c25b.squirrel@webmail.i3s.unice.fr>
+Date: Mon, 27 Jan 2014 08:50:40 +0100
+From: richard@i3s.unice.fr
+To: bioinfo@sfbi.fr
+Cc: richard@unice.fr
+User-Agent: SquirrelMail/1.4.22
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CALL FOR PAPERS ACA 2014
+CALL FOR PAPERS ACA 2014
+ACA 2014
+Third International Workshop on Asynchronous Cellular Automata and
+Asynchronous Discrete Models
+at 11th International Conference on Cellular Automata for Research
+and Industry (ACRI 2014)
+Krakow, Poland, September 22-25, 2014
+ORGANIZER
+AGH University of Science and Technology in Krakow
+AIMS and SCOPE
+Cellular Automata are a well-known formal tool for modeling complex
+systems; they are found in many scientific fields and industrial
+applications. Synchronous updating is one of the main features of Cellular
+Automata. Indeed, in the most common Cellular Automata framework, all
+cells are updated simultaneously at each discrete time step.
+Recent trends consider the modeling of asynchronous systems based on local
+interactions. The aim of this workshop is to bring together researchers
+dealing with the theme of the asyncrony inside Cellular Automata and other
+Discrete Models such as discrete Multi-Agents Systems, Boolean Networks,
+and so on,in order to foster their interaction and to provide a forum for
+presenting new ideas and works in progress on the subject.
+Topics include, but are not limited to the following aspects of
+Asynchronous Cellular Automata and Asynchronous Discrete Models (such as
+Multi-Agents Systems, Boolean Networks and so on):
+- dynamics
+- complexity issues
+- computational issues
+- emergent properties
+- models of parallelism and distributed systems
+- models of phenomena from biology, chemistry, physics, engineering and
+other fields
+Contributions of both theoretical and applicative interest are welcome.
+PROGRAM COMMITTEE
+Alberto Dennunzio (Universita' degli Studi di Milano - Bicocca, Italy)
+co-chair
+Nazim Fatès (Inria Nancy, France)
+Enrico Formenti (Nice Sophia Antipolis University, France) co-chair
+Eric Goles (Universidad  Adolfo Ibáñez, Chile)
+Jia Lee (Chongqing University, China)
+Ferdinand Peper (National Institute of Information and Communications
+-Technology, Japan)
+Adrien Richard (CNRS and Nice Sophia Antipolis University, France)
+Hiroshi Umeo (University of Osaka Electro-Communication - Japan)
+Thomas Worsch (University of Karlsruhe, Germany) co-chair
+*SUBMISSIONS AND PUBLICATION*
+Authors are invited to submit papers according to two contribution
+categories -- full and short papers -- meant  to provide a differentiation
+of the papers in terms of their length, depth and/or maturity. Papers must
+comply with the Springer-Verlag format and the maximum length of 5 and 10
+pages for short and full contributions, respectively.
+Details on the electronic submission procedure will be provided through
+the website
+http://acri2014.agh.edu.pl
+Accepted papers will be published by Springer-Verlag in the Lecture Notes
+in Computer Science (LNCS) series.
+*SPECIAL ISSUE*
+Selected papers will be considered for publication in a Special issue of
+an international journal (such as NaCo). They will contain refereed
+extended/improved versions of selected papers presented at ACA workshop.
+IMPORTANT DATES:
+Paper submission: April 15, 2014
+Notification of paper acceptance or rejection: May 14, 2014
+Final version of the paper for the proceedings: June 8, 2014

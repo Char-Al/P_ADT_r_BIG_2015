@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 8079926801D
+	for <bioinfo@sfbi.fr>; Mon,  1 Sep 2014 09:31:44 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: An0BAEggBFSKZqI0nGdsb2JhbABZg2BXgjRIxQOIdxABAQEBAQgLCQkUKYQWFxAFER4VDggcAiYCEiwQJIhCDYgTjQ6PL4F0jTOFTIEsjT8RAW2CY4FTBYEtsmiBSGqBD4FAAQEB
+X-IronPort-AV: E=Sophos;i="5.04,440,1406584800"; 
+   d="scan'208";a="72061113"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 01 Sep 2014 09:31:44 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s817Vh2I004868
+	for <bioinfo@sfbi.fr>; Mon, 1 Sep 2014 09:31:43 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 6F200296B97
+	for <bioinfo@sfbi.fr>; Mon,  1 Sep 2014 09:31:43 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XOM7F-0003AK-JF
+	for bioinfo@sfbi.fr; Mon, 01 Sep 2014 09:33:29 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XOM7F-0003AK-JF@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Mon, 01 Sep 2014 09:33:29 +0200
+X-Miltered: at alpha with ID 540420DF.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 540420DF.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 540420DF.000 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.303 -> S=0.402
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][IR] =?UTF-8?Q?Ing=C3=A9nieur?= R&D en =?UTF-8?Q?mod=C3=A9lisation?= bi  ophysique de la croissance =?UTF-8?Q?v=C3=A9g=C3=A9tale?= 
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur R&D en modélisation biophysique de la  
+croissance végétale
+Type de poste : IR
+Durée du poste :
+Ville : Bruyères le Chatel
+Nom du contact : Marion Carrier
+Email du contact : contact@cybeletech.com
+Laboratoire : CybeleTech SAS
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/ing%C3%A9nieur-rd-en-mod%C3%A9lisation-biophysique-de-la-croissance-v%C3%A9g%C3%A9tale

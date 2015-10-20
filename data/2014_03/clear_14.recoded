@@ -1,0 +1,68 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <igcf@cin.ufpe.br>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5DAEC26801D
+	for <bioinfo@sfbi.fr>; Wed,  5 Mar 2014 09:46:04 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlADACbjFlPRVYC0lWdsb2JhbABag0FXwQUEgRAIFg4BAQEBBw0JCRIqgiYBBW0cARU7IhIBBQESChmHeaEGrGEXjm6EIgSYPJA9GCmEWzs
+X-IronPort-AV: E=Sophos;i="4.97,591,1389740400"; 
+   d="scan'208";a="54882489"
+Received: from mail-ve0-f180.google.com ([209.85.128.180])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Mar 2014 09:46:03 +0100
+Received: by mail-ve0-f180.google.com with SMTP id jz11so708329veb.39
+        for <bioinfo@sfbi.fr>; Wed, 05 Mar 2014 00:46:02 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:sender:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=TFtUQsGcy6RsGMsluS6PUK31EI+n5GlXblxiOGa/LBQ=;
+        b=F85BIIGItLJnk3AHSsalubh6Jg51Zk63IX4kFejwf4ilgYGPjpWPc8MwphSZbyDI5O
+         8PlCeWrBrtZoMEe7Ptm+nldlxbJQnK9Ta10tYuP4k0nPp4jfq2dO1gxeOJ25brJFsrck
+         FR47ISiZYegj1gXThtlyjT6nkXNmrPVaNd8wSAWzZNZz+1RUWxcr/DU4Q7hi1IATb2kk
+         KeLOnl2DzBvsIKNjXjLg3R5A61ewiQl37296nKDNM1c0R+SM4EgXwo8tBg3lu5ZHK3v1
+         LgtMwH4o8WNfUbfYdTa/L8tDZlTQU30MRSw4HaaikR8tHLaz9lPdJUhMolw/CjsTvDfV
+         K+vg=
+X-Gm-Message-State: ALoCoQnndQpDZBeA3wTMJKW0QzZPK7APx1oB7sdcnVIszjw6nbxhtIv5EYMdFaN/7SmehCF77Oxm
+MIME-Version: 1.0
+X-Received: by 10.52.142.10 with SMTP id rs10mr2993961vdb.3.1394009160814;
+ Wed, 05 Mar 2014 00:46:00 -0800 (PST)
+Sender: igcf@cin.ufpe.br
+Received: by 10.58.235.199 with HTTP; Wed, 5 Mar 2014 00:46:00 -0800 (PST)
+In-Reply-To: <CANNHkKGivSOfMyzT-Wbz2RoybZnGZ5GUFFq5zH5n0JT8QvwP4Q@mail.gmail.com>
+References: <CANNHkKGivSOfMyzT-Wbz2RoybZnGZ5GUFFq5zH5n0JT8QvwP4Q@mail.gmail.com>
+Date: Wed, 5 Mar 2014 09:46:00 +0100
+X-Google-Sender-Auth: G9dTlwq6p4KgR7NwrKq_ZH5Y6aI
+Message-ID: <CANNHkKGbT1PsJasotft9quuUEk3ov0DUB7zU0z=n99vaR27owg@mail.gmail.com>
+From: Ivan Gesteira Costa Filho <ivan.costa@rwth-aachen.de>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Fwd: PhD and Postdoc Position in Computational Biology
+Dear Colleagues,
+My lab has an opening for a Ph.D. candidate or Postdoctoral fellow.
+Please send to interested candidates.
+best regards,
+Ivan G. Costa
+The Computational Biology Group of Interdisciplinary Center for
+Clinical Research (IZKF) Aachen, RWTH Aachen University Hospital,
+Aachen, invites applicants for PhD candidate or postdoctoral position
+in computational biology in one of the following topics:
+1) Statistical machine learning methods for the analysis of medical
+epigenomics data.
+2) Sequence analysis algorithms for detection of RNA-DNA interactions.
+Applicants should hold a M.Sc . or PhD in Computer Science or related
+areas. Experience in the analysis of biological sequences, gene
+expression and gene regulation is desirable. The candidate should have
+solid programming skills (C, Python and/or R) and acquaintance with
+Linux. Experience with high performance computing is a plus. The
+working language of the group is English.
+The position is based on the German TV-L 13 salary scale, including
+all German social benefits (health insurance and pension scheme). The
+expected starting date is September 2014. Interested candidates should
+send a CV, statement of research interests and the names of three
+references to jobs@costalab.org.
+www.costalab.org
+IZKF Computational Biology Research Group
+RWTH University Hospital Aachen

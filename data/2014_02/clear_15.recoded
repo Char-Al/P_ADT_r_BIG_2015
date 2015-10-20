@@ -1,0 +1,94 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <epbapteste@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 77018268021
+	for <bioinfo@sfbi.fr>; Wed,  5 Feb 2014 14:02:08 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoYCAAI28lJKfVKrlGdsb2JhbABZg0TAKRYOAQEBAQcLCwkSKoJeAQUIARsNAQ4CAxIQFhYYAwIBAgEREQEFAS8GAgEBh2wBAxEFnlGDCoxegwmTcAoZJw1kiDsBBQyTKASYK4ZIiWxBhFo
+X-IronPort-AV: E=Sophos;i="4.95,786,1384297200"; 
+   d="scan'208";a="53491494"
+Received: from mail-we0-f171.google.com ([74.125.82.171])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Feb 2014 14:01:51 +0100
+Received: by mail-we0-f171.google.com with SMTP id u56so267909wes.16
+        for <bioinfo@sfbi.fr>; Wed, 05 Feb 2014 05:01:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=NGTJVne3G4Q8eObOQjxQVxnBjswbadsF+3ZRCMivqOs=;
+        b=rE9O+2ic7SCp3xsKVqzC6+a6DHi4y2ZUa+atP6BibrbLfHBDcTs3EML8gjec83RW54
+         XSehuABredZwsrrt2D+HgiodvF1Uu/Mh4aLqNCPHCue4JlTmNoDC3aS9RrLBldf3Y6Ef
+         viE85XwamfeG+aXrcrh5gzxMS4UhrxUTsRitxxWLnZP/75SOmyKj3TpNWVIn8cRLAXFk
+         Gf+6Yg/N4p8iBvXpJqMxNgKZEgg+Ql91X10e4/cFyAYGl1YIR3lwCt02jpPyrD7Yav0P
+         zKOoCxgpX00uLYKvTeiIl27Q+nyJ6sjHSijvGwZTmS3iITcJbDb5jcZhH0oD9nCOrCWi
+         HpAQ==
+X-Received: by 10.180.101.166 with SMTP id fh6mr2485142wib.2.1391605310741;
+        Wed, 05 Feb 2014 05:01:50 -0800 (PST)
+Received: from [134.157.183.103] (7138-35.snv.jussieu.fr. [134.157.183.103])
+        by mx.google.com with ESMTPSA id t6sm45528071wix.4.2014.02.05.05.01.49
+        for <bioinfo@sfbi.fr>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 05 Feb 2014 05:01:49 -0800 (PST)
+Message-ID: <52F2364B.7010901@gmail.com>
+Date: Wed, 05 Feb 2014 14:02:03 +0100
+From: Eric Bapteste <epbapteste@gmail.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] =?WINDOWS-1252?Q?Th=E8se?=. UPMC. Evolutionary Bioinformatics
+Hello,
+Please find below the description of an open PhD position on 'the search 
+for mosaic genes and genomes in large similarity networks'.
+Gene and genome evolution undergo complex processes. In addition to 
+gradual mutations within a single gene family or within a particular 
+genome, genes and genomes component parts can also originate from 
+distinct source lineages due to non-tree like evolutionary processes. 
+Such gene and genome remodeling produces adaptations through changes 
+involving genetic material from outside a given gene family and/ or a 
+given genome. Therefore, studying this reticulate evolution requires the 
+development of original methods to study not only the origin of a given 
+adaptation but eventually the multiple origins of a given adaptation. It 
+remains an important empirical question to determine the extent, and the 
+functional/ evolutionary import of genes and genomes mosaicism.
+A wealth of molecular data from metagenomic, single cell metagenomic, 
+and microbial genomes projects is now available to address this 
+fundamental issue, and to broaden the scope of the evolutionary research 
+program to investigate evolving objects with multiple origins. Sequence 
+similarity networks offer a promising complementary niche to 
+phylogenetic methods, to further exploit the complexity of these data. 
+These graphs allow for mathematical analyses of genetic diversity and 
+similarities over dozens of millions of sequences, providing a powerful 
+framework to address the evolution of composite genes and genomes.
+To further develop these tools, our lab is now looking for a PhD student 
+in bio-informatics, who will be funded for three years by an ERC grant 
+(for a salary of 35,000 euros/year; approximately 1753 euros/ month 
+after taxes). The candidate will take advantage of graph properties and 
+algorithms from the graph theory, inspired from the study of social, 
+regulatory, and interaction networks to develop approaches that:
+- considerably expand our existing networks by gathering sequences from 
+publically available genomic and metagenomic projects;
+- systematize the detection of patterns suggestive of composite 
+sequences and genomes.
+The candidate will then investigate the biological properties 
+(functional, taxonomical and environmental distributions) of the 
+candidate composite sequences to infer what functions, genomes and 
+environments are more affected by gene remodeling, with a particular 
+focus on the evolution of photosynthetic eukaryotes.
+He/ she will work within a consortium of friendly bioinformaticians 
+(Philippe Lopez), evolutionary biologists (Eric Bapteste), and graph 
+theorists (Michel Habib, Laurent Viennot), and be hosted in the 
+University Pierre and Marie Curie in the center of Paris, France. The 
+current team description and publications can be found at: 
+http://www.evol-net.fr/
+The candidate should have a good background in bio-informatics, and/or a 
+strong interest for evolutionary biology. The position will start as 
+soon as possible, ideally as early as June 2014. Applicants are 
+requested to send a detailed resume, a motivation letter, a pdf copy of 
+their master's thesis, and the names of two scientific referees to :
+eric.bapteste@snv.jussieu.fr
+The applications will be closed May 15, 2014.

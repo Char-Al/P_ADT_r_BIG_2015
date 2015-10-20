@@ -1,0 +1,43 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pierre.larmande@ird.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 66AC426801D
+	for <bioinfo@sfbi.fr>; Mon, 17 Feb 2014 10:23:58 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApsBAMTUAVNVH9RFnGdsb2JhbABZkHG0CA4BAQEBAQgLCQkUKIRXDIgcmn2wcpIsgRQEkxCLY48K
+X-IronPort-AV: E=Sophos;i="4.95,859,1384297200"; 
+   d="scan'208";a="62084172"
+Received: from smtpout.security-mail.net (HELO fx801.security-mail.net) ([85.31.212.69])
+  by a-mx1.relay.syrhano.net with ESMTP; 17 Feb 2014 10:23:58 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by fx801.security-mail.net (MTA) with SMTP id 244E1B7A533
+	for <bioinfo@sfbi.fr>; Mon, 17 Feb 2014 10:23:57 +0100 (CET)
+Received: from fx801 (localhost [127.0.0.1])
+	by fx801.security-mail.net (MTA) with ESMTP id 094EFB7A509
+	for <bioinfo@sfbi.fr>; Mon, 17 Feb 2014 10:23:57 +0100 (CET)
+X-Virus-Scanned: E-securemail
+x-secugrey: score=-10
+x-secugrey: filter=out_default,id=20140217102356-89921-00002,score=-20
+Received: from cg97.security-mail.net (cg97.security-mail.net [172.16.240.97])
+	by fx801.security-mail.net (MTA) with SMTP id 6FBF4B7A4FD
+	for <bioinfo@sfbi.fr>; Mon, 17 Feb 2014 10:23:56 +0100 (CET)
+Received: from [91.203.34.14] (account pierre.larmande@ird.fr HELO [10.21.136.174])
+  by mails.optimails.com (CommuniGate Pro SMTP 5.4.10)
+  with ESMTPSA id 396591885 for bioinfo@sfbi.fr; Mon, 17 Feb 2014 10:23:54 +0100
+From: Pierre Larmande <pierre.larmande@ird.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <E5B318DF-F39D-422C-9288-38B206D3C6DE@ird.fr>
+Date: Mon, 17 Feb 2014 10:23:55 +0100
+To: Bioinfo <bioinfo@sfbi.fr>
+Mime-Version: 1.0 (Mac OS X Mail 7.0 (1822))
+X-Mailer: Apple Mail (2.1822)
+X-Virus-Scanned: by Security-Mail
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] comite utilisateur
+Bonjour,
+pensez vous que nous devons informer le centre et la DSI (ex;Fabrice) du co
+mité utilisateur pour qu'il viennent s'il le souhaite ?
+Pierre

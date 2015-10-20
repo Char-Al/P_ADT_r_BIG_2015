@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 1DC4B26801D
+	for <bioinfo@sfbi.fr>; Tue, 25 Nov 2014 11:59:08 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnABANJfdFSKZqI0nGdsb2JhbABbg1hXgwWKHwG8AYd6AQEBAQERAQEBAQEICwkJFC6ELBAFESsIDiQCJgISLBAkiEANqkaPSYFvhlWIH4Y0gS2OaxEBbYJigVUFgS+2LAEBAQcBAQEBgiZ2gQ+BOwEBAQ
+X-IPAS-Result: AnABANJfdFSKZqI0nGdsb2JhbABbg1hXgwWKHwG8AYd6AQEBAQERAQEBAQEICwkJFC6ELBAFESsIDiQCJgISLBAkiEANqkaPSYFvhlWIH4Y0gS2OaxEBbYJigVUFgS+2LAEBAQcBAQEBgiZ2gQ+BOwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,455,1413237600"; 
+   d="scan'208";a="68921962"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 25 Nov 2014 11:59:07 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sAPAx6wb006458
+	for <bioinfo@sfbi.fr>; Tue, 25 Nov 2014 11:59:06 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 94A4A296B94
+	for <bioinfo@sfbi.fr>; Tue, 25 Nov 2014 11:59:06 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XtDs4-0009mH-5N
+	for bioinfo@sfbi.fr; Tue, 25 Nov 2014 12:01:24 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XtDs4-0009mH-5N@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 25 Nov 2014 12:01:24 +0100
+X-Miltered: at beta with ID 547460FA.003 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 547460FA.003/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 547460FA.003 on beta.jouy.inra.fr : j-chkmail score : XXX : R=. U=. O=# B=0.330 -> S=0.431
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] Programmation =?UTF-8?Q?parall=C3=A8le?= pour l  a =?UTF-8?Q?s=C3=A9lection?= =?UTF-8?Q?g=C3=A9nomique?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Programmation parallèle pour la sélection génomique
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Chappes
+Nom du contact : Vitaliy Feoktistov
+Email du contact : vitaliy.feoktistov@limagrain.com
+Laboratoire : Centre de Recherche Limagrain Europe
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/programmation-parall%C3%A8le-pour-la-s%C3%A9lection-g%C3%A9nomique

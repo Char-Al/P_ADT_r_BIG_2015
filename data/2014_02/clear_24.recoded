@@ -1,0 +1,188 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <cambria@nus.edu.sg>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 4C70126801D
+	for <bioinfo@sfbi.fr>; Fri,  7 Feb 2014 10:43:37 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjQFADmq9FKJhA4Zm2dsb2JhbABYgmvBUQ4BAQEBAQYLCwkUJwGCHQ8dSwMCAhwBgQAmAQoBIAIDhV2CDwGceagZiCqOGoNoJoEUBIlHhHidTIF7
+X-IronPort-AV: E=Sophos;i="4.95,799,1384297200"; 
+   d="scan'208";a="53603024"
+Received: from exch-out.nus.edu.sg (HELO imsva07.stf.nus.edu.sg) ([137.132.14.25])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Feb 2014 10:43:35 +0100
+Received: from imsva07.stf.nus.edu.sg (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 9F2213380DB;
+	Fri,  7 Feb 2014 17:42:14 +0800 (SGT)
+Received: from EDG04.stf.nus.edu.sg (unknown [137.132.14.245])
+	by imsva07.stf.nus.edu.sg (Postfix) with ESMTP id 7BAB23380D6;
+	Fri,  7 Feb 2014 17:42:14 +0800 (SGT)
+Received: from MBX05.stf.nus.edu.sg ([fe80::2152:97bd:98c9:da78]) by
+ EDG04.stf.nus.edu.sg ([2002:8984:ef5::8984:ef5]) with mapi; Fri, 7 Feb 2014
+ 17:43:32 +0800
+From: Erik Cambria <cambria@nus.edu.sg>
+Date: Fri, 7 Feb 2014 17:43:30 +0800
+Thread-Topic: [Call for Participations] WWW'14 Tutorial on Concept-Level
+ Sentiment Analysis
+Thread-Index: Ac8j6Q+CieuGKRFVSR6YsjwbK/AJZg=
+Message-ID: <6BBCDA75-D5AB-4402-BC54-3E4965361F62@nus.edu.sg>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+To: undisclosed-recipients: ;
+X-TM-AS-MML: No
+X-TM-AS-Product-Ver: IMSVA-8.2.0.1679-7.5.0.1017-20486.006
+X-TM-AS-Result: No--23.135-7.0-31-10
+X-imss-scan-details: No--23.135-7.0-31-10
+X-TMASE-Version: IMSVA-8.2.0.1679-7.5.1017-20486.006
+X-TMASE-Result: 10--23.134500-5.000000
+X-TMASE-MatchedRID: NA0ZKeRbk4UpwQ840f00Nt1U2EctT/3BeZOvRTGfMg5CvapcIkxJX/pD
+	rXxzbb703HILHPjV3vD1+/BhK1jmC/+8jJSdT/tRjjV7kERROpq5HsA8a/n6iAU+mzg3ZNTpBde
+	bOqawiLtrX6wzM0QF9DdSsNu0EQjHAjLNhdM78jXg/k0lTrIcM/3Jg7VghKhfcMhXXGO/wfWNUX
+	4LcPUPN1eilmPI7oJlSLXCFu7DhOI6Mmtv6qWl34nwkiBv9XvjLVayL7k7oly2AZ59hFA163QAd
+	+S6Aq7UjyDz1S8eUbbZyI+mpZNs+IRgWKjt0spVJmnjYgC1iHwvqqowCIBO0X3O3F/Nshx59IYi
+	0F/7Pp9OSdjPsgTdCR6NKsVgZHknRM5sAPGkKLEDAguYkWSEtAW/eUHwJTrIS+NSoCWWBDLtOBY
+	S8HQz/PWAXs8IQX1un07szsEiE+l+b3Z15rFrkye61/rKNHWzhpeQ3fwUo12GuzokAQvW7imkZg
+	wpl7M32uSNI2dd4TRXQgZ66V4sqXGX60TSv45juklyMShnRxukm7y+UMyeiBJLmlADJjGKFTmqw
+	D90nsJsDyEyrcezmGZix6Fs5tn0goaTYNJJLb0YimZuKBGzdjP8yQ93Qa+ooS0guoV6SZdeu73m
+	FK6GNPjAVx53EudQ6lQ6W7VWfxD5Lm9Ci67ABLFtwoLutuXVXRQUFxxOjhfKL2UhW5OvGyu9L3L
+	U0gAHFdX7UGTqqi9yuPKny68sVZE8Rz8q1MV0t/aDgxhEagX8OkSa7MC2+0EmfdoMhDa4ynJpnC
+	iFJAptw+n+iKWyyEMaawejfyqdKN9IU/nNm6WJIG0pP8yLBvm6pM03/mKCrHEFvjQmpqKc2GHtJ
+	qZuiiq2rl3dzGQ1A/3R8k/14e0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Call for Participations] WWW'14 Tutorial on Concept-Level
+ Sentiment Analysis
+Apologies for cross-posting,
+Participants are invited to the WWW'14 tutorial on Concept-Level Sentimen
+t Analysis, which will be held within the World Wide Web conference this Ap
+ril in Seoul, Korea. The tutorial aims to provide its participants means to
+ efficiently design models, techniques, tools, and services for concept-lev
+el sentiment analysis and their commercial realizations. The tutorial draws
+ on insights resulting from the recent IEEE Intelligent Systems special iss
+ues on Concept-Level Opinion and Sentiment Analysis and the IEEE CIM specia
+l issue on Computational Intelligence for Natural Language Processing. The 
+tutorial includes a hands-on session to illustrate how to build a concept-l
+evel opinion-mining engine step-by-step, from semantic parsing to concept-l
+evel reasoning.
+BACKGROUND AND MOTIVATIONS
+As the Web rapidly evolves, Web users are evolving with it. In an era of so
+cial connectedness, people are becoming increasingly enthusiastic about int
+eracting, sharing, and collaborating through social networks, online commun
+ities, blogs, Wikis, and other online collaborative media. In recent years,
+ this collective intelligence has spread to many different areas, with part
+icular focus on fields related to everyday life such as commerce, tourism, 
+education, and health, causing the size of the Social Web to expand exponen
+tially.
+The distillation of knowledge from such a large amount of unstructured info
+rmation, however, is an extremely difficult task, as the contents of today
+'s Web are perfectly suitable for human consumption, but remain hardly ac
+cessible to machines. The opportunity to capture the opinions of the genera
+l public about social events, political movements, company strategies, mark
+eting campaigns, and product preferences has raised growing interest both w
+ithin the scientific community, leading to many exciting open challenges, a
+s well as in the business world, due to the remarkable benefits to be had f
+rom marketing and financial market prediction.
+Mining opinions and sentiments from natural language, however, is an extrem
+ely difficult task as it involves a deep understanding of most of the expli
+cit and implicit, regular and irregular, syntactical and semantic rules pro
+per of a language. Existing approaches mainly rely on parts of text in whic
+h opinions and sentiments are explicitly expressed such as polarity terms, 
+affect words and their co-occurrence frequencies. However, opinions and sen
+timents are often conveyed implicitly through latent semantics, which make 
+purely syntactical approaches ineffective.
+Concept-level sentiment analysis focuses on a semantic analysis of text thr
+ough the use of web ontologies or semantic networks, which allow the aggreg
+ation of conceptual and affective information associated with natural langu
+age opinions. By relying on external knowledge, such approaches step away f
+rom blind use of keywords and word co-occurrence count, but rather rely on 
+the implicit features associated with natural language concepts. Unlike pur
+ely syntactical techniques, concept-based approaches are able to detect als
+o sentiments that are expressed in a subtle manner, e.g., through the analy
+sis of concepts that do not explicitly convey any emotion, but which are im
+plicitly linked to other concepts that do so. The bag-of-concepts model can
+ represent semantics associated with natural language much better than bags
+-of-words. In the bag-of-words model, in fact, a concept such as cloud comp
+uting would be split into two separate words, disrupting the semantics of t
+he input sentence (in which, for example, the word cloud could wrongly acti
+vate concepts related to weather).
+The analysis at concept-level allows for the inference of semantic and affe
+ctive information associated with natural language text and, hence, enables
+ comparative fine-grained feature-based sentiment analysis. Rather than gat
+hering isolated opinions about a whole item (e.g., iPhone5), users are gene
+rally more interested in comparing different products according to specific
+ features (e.g., iPhone5's vs Galaxy S3's touchscreen), or even sub-fea
+tures (e.g., fragility of iPhone5's vs Galaxy S3's touchscreen). In thi
+s context, the construction of comprehensive common and common-sense knowle
+dge bases is key for feature-spotting and polarity detection, respectively.
+ Common-sense, in particular, is necessary to properly deconstruct natural 
+language text into sentiments   for example, to appraise the concept smal
+l room as negative for a hotel review and small queue as positive for a pos
+t office, or the concept go read the book as positive for a book review but
+ negative for a movie review.
+TUTORIAL PROGRAM
+=95 Introduction (5 mins)
+=95 New Avenues in Sentiment Analysis Research
+	- From Heuristics to Discourse Structure (5 mins)
+	- From Coarse to Fine-Grained Analysis (5 mins)
+	- From Keywords to Concepts (10 mins)
+=95 Concept-Level Models
+	- Knowledge acquisition models (10 mins)
+	- Emotion categorization models (10 mins)
+	- Vector space models (10 mins)
+=95 Concept-Level Techniques
+	- Analogical reasoning (10 mins)
+	- Parallel analogy (10 mins)
+	- Spreading activation (10 mins)
+=95 Concept-Level Tools
+	- Sentiment resources (15 mins)
+	- Common knowledge repositories (15 mins)
+	- Aspect mining and polarity detection (10 mins)
+=95 Building a Concept-Level Opinion-Mining Engine
+	- Semantic parsing (15 mins)
+	- Sentic API (15 mins)
+	- Application Samples (20 mins)
+=95 Conclusion (5 mins)
+IMPACT AND RELEVANCE
+The World Wide Web Conference is a global event bringing together key resea
+rchers, innovators, decision-makers, technologists, and business experts tr
+ying to make meaning out of Web data. Within this research and business are
+a, opinion mining and sentiment analysis have become increasingly important
+ subtasks in recent years. However, there are still many challenges, includ
+ing social information understanding and integration, that need to be addre
+ssed. For these reasons, a tutorial on concept-level sentiment analysis is 
+strongly relevant to WWW'14.
+TARGET AUDIENCE AND PREREQUISITES
+The target audience includes researchers and professionals in the fields of
+ sentiment analysis, Web data mining, and related areas. The tutorial also 
+aims to attract researchers from industry community as it covers research e
+fforts for the development of applications in fields such as commerce, tour
+ism, education, and health. The audience is expected to have basic computer
+ science skills, but psychologists and sociologists are also very welcome. 
+The tutorial not only covers state-of-the-art approaches to concept-level s
+entiment analysis, but also provides information about techniques and tools
+ to be used for practical opinion mining.
+ABOUT THE TUTOR
+Erik Cambria received his BEng and MEng with honors in Electronic Engineeri
+ng from the University of Genova, in 2005 and 2008 respectively. In 2011, h
+e has been awarded a PhD in Computing Science and Mathematics, following th
+e completion of an industrial Cooperative Awards in Science and Engineering
+ (CASE) research project, funded by the UK Engineering and Physical Science
+s Research Council (EPSRC), which was born from the collaboration between t
+he University of Stirling and the MIT Media Laboratory.
+Today, Erik is the lead investigator of a MINDEF-funded project on Commonse
+nse Knowledge Representation & Reasoning at the National University of Sing
+apore (Temasek Laboratories) and an associate researcher at the MIT Media L
+aboratory (Synthetic Intelligence Project). His interests include AI, Seman
+tic Web, KR, NLP, opinion mining and sentiment analysis, affective and cogn
+itive modeling, intention awareness, HCI, and e-health. Erik is also chair 
+of several international conferences, e.g., Extreme Learning Machines (ELM)
+, and workshop series, e.g., ICDM SENTIRE. He is on the editorial board of 
+Springer Cognitive Computation and he is a guest editor of many other leadi
+ng AI journals. Erik is also a fellow of the Brain Sciences Foundation, the
+ Chinese Academy of Sciences, National Taiwan University, Microsoft Researc
+h Asia, and HP Labs India.

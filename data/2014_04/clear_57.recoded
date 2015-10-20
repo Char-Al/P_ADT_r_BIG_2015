@@ -1,0 +1,98 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <lrondi@snv.jussieu.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 3D7C826801D
+	for <bioinfo@sfbi.fr>; Wed, 16 Apr 2014 16:17:02 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Au4BAKeQTlOGnQCBnGdsb2JhbABZhBjAJIMRgSAWDgEBAQEBCAsJCRQogiYBAQQMJgE/FQIFBkYbPCqHa8gkFwSOZYQ4BKlXg0qBQQ
+X-IronPort-AV: E=Sophos;i="4.97,872,1389740400"; 
+   d="scan'208";a="65363603"
+Received: from shiva.jussieu.fr ([134.157.0.129])
+  by a-mx1.relay.syrhano.net with ESMTP; 16 Apr 2014 16:16:51 +0200
+Received: from mailhost.snv.jussieu.fr (leina.snv.jussieu.fr [134.157.190.10])
+          by shiva.jussieu.fr (8.14.4/jtpda-5.4) with ESMTP id s3GEEqd6034475
+          for <bioinfo@sfbi.fr>; Wed, 16 Apr 2014 16:16:20 +0200 (CEST)
+X-Ids:168
+Received: from webmail.snv.jussieu.fr (localhost [127.0.0.1])
+	by mailhost.snv.jussieu.fr (Postfix) with ESMTP id 4D5FA1BB13C52
+	for <bioinfo@sfbi.fr>; Wed, 16 Apr 2014 16:21:59 +0200 (CEST)
+Received: from 194.57.254.157
+        (SquirrelMail authenticated user lrondi)
+        by webmail.snv.jussieu.fr with HTTP;
+        Wed, 16 Apr 2014 16:21:59 +0200 (CEST)
+Message-ID: <4ef48af195576ef361409751f444ed73.squirrel@webmail.snv.jussieu.fr>
+In-Reply-To: <534E7260.3030103@univ-rouen.fr>
+References: <F99C317A-CA82-4E32-8072-194472185470@igr.fr>
+    <534E7260.3030103@univ-rouen.fr>
+Date: Wed, 16 Apr 2014 16:21:59 +0200 (CEST)
+From: lrondi@snv.jussieu.fr
+To: bioinfo@sfbi.fr
+User-Agent: SquirrelMail/1.4.17
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: Re: [bioinfo] Offre de poste :Bio-informaticien/Informaticien(e) 
+     Calcul scientifique NOEMI CNRS
+Intitulé du poste : Ingénieur en Informatique, Statistique et Calcul
+Scientifique  -  Développement et Déploiement d'Applications. NOEMI CNRS
+Missions:
+L'ingénieur en Informatique, Statistiques et Calcul Scientifique sera
+chargé de l'analyse et du traitement de données. Ces données seront de
+plusieurs types: électrophysiologiques, comportementales... Il s'agira de
+développer ou mettre en place des programmes spécifiques d'analyses, de la
+base de données aux traitements de données. Il sera par ailleurs chargé
+d'adapter, en interaction étroite avec les chercheurs, des logiciels
+d'analyses ou de traitement du signal existant aux besoins spécifiques des
+équipes de l'UMR.
+Contraintes particulières: Pas de contraintes particulières
+Activités:
+Compétences:
+- Adaptation et mise en oeuvre de méthodes d'analyses mathématiques:
+statistique, traitement de signal, traitement d'image.
+- Compétences en informatique industrielle de base serait un plus.
+- Maitrise des bases de données relationnelles. Langage (Matlab, R
+,Labview...).
+Aptitudes
+- Savoir travailler en équipe
+- Avoir un sens réel de la vie en laboratoire, et de l'organisation
+Diplôme(s) souhaité(s): Niveau bac +5 (M2, école d'ingénieur....)
+Expérience professionnelle souhaitée:
+Avoir déjà une expérience de laboratoire, et des publications scientifiques
+Justification de la demande:
+Nous avons développé au sein de l'UMR un laboratoire dédié à l'analyse de
+modèles murins de pathologie en associant électrophysiologie chez des
+animaux anesthésié et vigiles, génétique et comportement. Pour le
+développement de cette nouvelle thématique, nous avons acquis des systèmes
+complets d'enregistrement d'activité comportementale et d'activité
+électrophysiologique sur animal vigile. Les protocoles utilisés nous
+permettent de récolter un ensemble de données hétérogènes (vidéo,
+comportement, électrophysiologie cellule unique, tétrodes...). La mise en
+place dune chaine de traitement allant de l'acquisition des données à
+leur intégration dans une base de données et dans des programmes d'analyse
+est maintenant nécessaire et requiert le recrutement d'un ingénieur.
+Plusieurs équipes de l'UMR utiliseront ces approches et sont intéressé par
+le développement de base de données et/ou d'analyse de signaux
+électrophysiologiques multi-unitaires. Le travail de cet ingénieur sera
+mutualisé. A plus long terme l'ingénieur pourra participer au
+développement d'environnement d'analyse plus spécifique ; suivie vidéo
+d'animaux sur de longues périodes, participer à l'implantation d'appareil
+de mesure sur les souris.
+Le poste est de niveau IE ou IR. Il est ouvert à la mobilité pour le
+laboratoire Neuroscience Paris Seine en BAP E; la personne doit être en
+poste au CNRS. Cette personne sera également amenée à travailler dans le
+cadre de projets industriels et de recherche clinique avec des
+applications possibles au niveau des diagnostiques cliniques.
+-- 
+Laure Rondi-Reig, PhD, CNRS Research Director
+Cerebellum, Navigation and Memory (CeZaMe) Team Director
+Sorbonne Universites, UPMC Univ Paris 06
+Institut de Biologie Paris Seine (IBPS)
+Neuroscience Paris Seine, UMR8246 CNRS/U1130 Inserm/ UMCR18 UPMC
+9 quai Saint Bernard
+F-75005, Paris, France
+Phone:   +33-1 44 27 20 44

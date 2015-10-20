@@ -1,0 +1,128 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <guy.lionel@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 6736126808A
+	for <bioinfo@sfbi.fr>; Sun, 13 Apr 2014 12:35:07 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtkCAOlnSlPRVdm1Ymdsb2JhbABagwY7xR0WAxYLCwkVJ4JsATkDCgMFOQcmGQEFAQIzCRCHTwMRBAEImGmDD49tlyUnDYZjEQEFBAiOCoQDgRQEjl+KApBUQYFngTmBQYFn
+X-IronPort-AV: E=Sophos;i="4.97,851,1389740400"; 
+   d="scan'208";a="65160493"
+Received: from mail-lb0-f181.google.com ([209.85.217.181])
+  by a-mx1.relay.syrhano.net with ESMTP; 13 Apr 2014 12:35:04 +0200
+Received: by mail-lb0-f181.google.com with SMTP id c11so4729166lbj.26
+        for <bioinfo@sfbi.fr>; Sun, 13 Apr 2014 03:35:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=sender:from:content-type:content-transfer-encoding:subject
+         :message-id:date:to:mime-version;
+        bhèZj8yCecO5B/TNjpwkaQseFIi4QxM5nLMhVsMIOpsQ=;
+        b=USF3sm6QiA7XiTsC9vLCK8ZoUcwT0tR75rsePAP/VY6YSmrf6ARTkidOaJzd/eB325
+         V4Yu9+j7LInV1Obalhy2R2lupFbOS8jcXUcblI59BlKvJOBMCFUxpxME9ST0Rr5XVyhR
+         JOG5pI/ZXpvgtQTrJVNGxxK9iaeTQU1HPH7+Up1krBqf1eDIgURx1PahuG8FTK3xeTU+
+         IkHDlVaVukUJeCoAsdPrwokYhJO23skJFlb51veKSmmOQnOiMJXHo+WZORVxS/Tkmncy
+         i1SzyHr65CpxXE+kNvKCsd7LzV0sYOi1bRn2z2hZD0QHzBk7PB1A3IxMeQ6YjzRg5QE8
+         8wgw=
+X-Received: by 10.112.85.6 with SMTP id d6mr23341482lbz.8.1397385303363;
+        Sun, 13 Apr 2014 03:35:03 -0700 (PDT)
+Received: from liobookair.lan (c83-249-219-139.bredband.comhem.se. [83.249.219.139])
+        by mx.google.com with ESMTPSA id d9sm12566675laa.17.2014.04.13.03.35.01
+        for <bioinfo@sfbi.fr>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 13 Apr 2014 03:35:02 -0700 (PDT)
+Sender: Lionel Guy <guy.lionel@gmail.com>
+From: Lionel Guy <lionel.guy@unil.ch>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <255ABAAF-6CFC-4F7A-9FD5-8B2BADAD6C6C@unil.ch>
+Date: Sun, 13 Apr 2014 12:35:01 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Bioinformatics specialist/Scientific programmer - Uppsala University - microbial genomics and evolution
+Chères et chers collègues,
+Un poste avec CDI de Bioinformaticien ou Programmeur Scientifique est ouver
+t au Département de Biologie Cellulaire et Moléculaire, Université d'
+Uppsala, Suède, dans le laboratoire de Thijs Ettema. Plus d'infos ici:  h
+ttp://www.uu.se/en/jobs/jobs-detail-page/?positionId=3D36221
+We are looking for:
+A Bioinformatics specialist or Scientific programmer that will work at the 
+lab of Thijs Ettema at the Department for Cell- and Molecular biology, Upps
+ala University. The position is permanent with a 6-month probationary perio
+d beginning June 1st or by appointment.
+The Ettema-lab: cutting edge research in microbial and evolutionary genomics
+Prof. Ettema's lab is applying emerging genomics technologies to analyze 
+microorganisms that defy cultivation under laboratory conditions. These org
+anisms are predicted to comprise up to 99% of all microbes on our planet. B
+y combining such cultivation-independent methods, such as single cell genom
+ics and metagenomics, with next-generation sequencing-based analyses, the E
+ttema lab aims to study uncultured microorganisms (=91microbial dark matter
+') at the genomic level. Such studies will paint a detailed picture of th
+e overall diversity and origin of life on our planet, and will eventually a
+lso reveal important clues about how complex life emerged. For more informa
+tion, please see: http://www.ettemalab.org/
+The Ettema-lab is located at the Biomedical Center (BMC) and will enter bra
+nd-new office spaces and a fully equipped genomics lab during the autumn of
+ 2014. Moreover, the lab is well connected to several technology platforms 
+of the SciLifeLab, including platform-based services for next-generation-se
+quencing, computational support and bioinformatics. We are also actively en
+gaged in a new SciLifeLab platform for single cell genomics (http://www.sci
+lifelab.se/facilities/single-cell/). The research activities in the Ettema-
+lab are supported by a number of prestigious grants, such as the European R
+esearch Council, the Foundation for Strategic Research and the Swedish Rese
+arch Council.
+Job assignment:
+We are now looking for an experienced bioinformatician that will provide co
+mputational support to ongoing research projects within the Ettema lab. The
+ successful candidate will have the following tasks:
+	=95 In collaboration with the researchers of the lab, design and perform b
+ioinformatics analysis in molecular evolution, phylogenomics, sequence anal
+ysis and metagenomics, among others.
+	=95 Set up and maintain pipelines for the assembly, annotation and analysi
+s of large-scale genome and metagenome sequencing datasets; set up and main
+tain databases for comparative and evolutionary studies of uncultivated mic
+roorganisms.
+	=95 System administration of the existing local computational infrastructu
+re (server, workstations) and accounts (about 5% of the time).
+Potentially, the successful candidate might be asked to develop novel bioin
+formatics applications.
+Qualifications:
+Requirements:
+	=95 A PhD or similar research experience in bioinformatics and genomics (w
+ithin academia or industry).
+	=95 Extensive experience with the analysis of next-generation sequencing d
+atasets.
+	=95 Demonstrated experience working in a Linux environment and fluency in 
+at least one programming or scripting language (bash, Perl, python, R, etc.
+).
+	=95 Fluent oral and written communication in English.
+Personal qualities:
+	=95 Strong sense of organization
+	=95 Ability to work in cooperation with academic researchers
+	=95 Excellent communication skills
+	=95 Pedagogic skills to teach researchers with limited bioinformatics expe
+rience
+	=95 Ability to work independently
+Merits:
+	=95 Postdoctoral studies in a related field.
+	=95 Experience of development and applications of bioinformatics and/or bi
+ostatistics methodologies or pipelines for design and analysis of large-sca
+le sequencing datasets (e.g. Galaxy)
+	=95 Experience of system administration
+The positions are permanent with a 6-months trial period. The positions wil
+l be placed in the Ettema lab at the Department for Cell and Molecular Biol
+ogy, Uppsala University. For further details about the position, please con
+tact Thijs Ettema: thijs.ettema@icm.uu.se, +46 18 471 45 21. For more infor
+mation about the activities in the Ettema-lab, please see http://www.ettema
+lab.org/
+Application: Please send your application marked with ref.nr UFV-PA 2014/10
+62 as soon as possible, but no later than 2014-04-30.
+--
+Lionel Guy
+Molecular Evolution, Uppsala University, Uppsala, Sweden
+postal address: Box 596, SE-751 24 Uppsala; visiting address: BMC B7:213e, 
+Husargatan 3, SE-752 37 Uppsala
+phone: +46 18 471 6129, mobile +46 73 976 0618
+lionel.guy@icm.uu.se

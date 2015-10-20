@@ -1,0 +1,98 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gustavo.sacomoto@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id EB13726801D
+	for <bioinfo@sfbi.fr>; Wed, 26 Feb 2014 23:08:16 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoACAMtkDlPAhqRof2dsb2JhbABQCoQYqm0BlyIIFg4BAQsLCggUKIMUAjddEgEFASOIC50CrGwXjWcRhRoElEuDa5A7GCmEWg
+X-IronPort-AV: E=Sophos;i="4.97,550,1389740400"; 
+   d="scan'208";a="54602058"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by b-mx1.relay.syrhano.net with ESMTP; 26 Feb 2014 23:08:15 +0100
+X-IronPort-AV: E=Sophos;i="4.97,550,1389740400"; 
+   d="scan'208";a="50649986"
+Received: from mail-vc0-f179.google.com ([209.85.220.179])
+  by mail3-relais-sop.national.inria.fr with ESMTP/TLS/RC4-SHA; 26 Feb 2014 23:08:14 +0100
+Received: by mail-vc0-f179.google.com with SMTP id lh14so1615826vcb.24
+        for <bioinfo@sfbi.fr>; Wed, 26 Feb 2014 14:08:13 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=mime-version:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=U24IzBRD0DGwgXYfUrfeQmH+4gFtRc4fDUBbOJ2nrvo=;
+        b=MwEkviLF1qEyusBV/9Xjo0zApwO0N7Zvk8AN/EBwZQCJ5BB9Bj4DK7OsId1e5fgLNC
+         Lak8jb6LNSxAQ5vIog6PF+tR4DX+io1ElxElUE/j6CjywIh9kkEsBQPSZMKKMATn8zbW
+         /uAVZpZsPcFspMJWfXk67l2qSEsJg016jd03TunTYh5NI3JfAMSmgrSBqj5Ce01dUQMn
+         yCFeLtq4UM2qYTkXaAQve6nNrNk+CTY1wLYpN+fIrXlXClxcvGYl/V1hpreeok8NTMLI
+         H9oR5b8MUBtOQFMmhQ6nFZ2wgzXZGKFBshImAcTT5k5uBVBQf7aClBwtiGUsTvT36uVW
+         sYHg=
+X-Received: by 10.221.27.133 with SMTP id rq5mr7815949vcb.9.1393452493533;
+ Wed, 26 Feb 2014 14:08:13 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.58.136.33 with HTTP; Wed, 26 Feb 2014 14:07:43 -0800 (PST)
+From: "Gustavo Akio T. Sacomoto" <gustavo.sacomoto@inria.fr>
+Date: Wed, 26 Feb 2014 23:07:43 +0100
+Message-ID: <CAMmry+i64xsaiP7Db59OAkPv5A=cNHzY6WMZxr7QntqmioaDCg@mail.gmail.com>
+To: doua.lbbe@listes.univ-lyon1.fr, bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Soutenance de Thèse: Gustavo Sacomoto
+Bonjour,
+J'ai le plaisir de vous inviter à ma soutenance de thèse intitulée :
+"Efficient algorithms for de novo assembly of alternative splicing
+events from RNA-seq data"
+La soutenance aura lieu le jeudi 6 mars à 14h30 dans l'Amphithéâtre
+Ampère (bâtiment Lippman, la Doua, Villeurbanne), devant un jury
+composé de :
+Céline BROCHIER-ARMANET, Professeur Univ. Lyon 1 - France (Examinateur)
+Michael BRUDNO, Professeur Univ. de Toronto - Canada (Rapporteur)
+Pierluigi CRESCENZI, Professeur Univ. de Florence - Italie (Co-Directeur)
+Rodéric GUIGO, Chercheur CRG, Barcelone - Espagne (Rapporteur)
+Vincent LACROIX, Ma=EEtre de Conférences Univ. Lyon 1 - France (Co-Direct
+eur)
+Thierry LECROQ, Professeur Univ. de Rouen - France (Examinateur)
+Marie-France SAGOT, Directrice de Recherche INRIA - France (Directrice de t
+hèse)
+Peter WIDMAYER, Professeur ETH Z=FCrich - Suisse (Rapporteur)
+Cordialment,
+Gustavo Sacomoto
+----------Abstract:
+In this thesis, we address the problem of identifying and quantifying
+variants (alternative splicing and genomic polymorphism) in RNA-seq
+data when no reference genome is available, without assembling the
+full transcripts. Based on the fundamental idea that each variant
+corresponds to a recognizable pattern, a bubble, in a de Bruijn graph
+constructed from the RNA-seq reads, we propose a general model for all
+variants in such graphs. We then introduce an exact method, called
+KisSplice, to extract alternative splicing events. Finally, we show
+that it enables to identify more correct events than general purpose
+transcriptome assemblers (Grabherr et al. (2011)).
+In order to deal with ever-increasing volumes of NGS data, we put an
+extra effort to make our method as scalable as possible. The main time
+bottleneck in the KisSplice is the bubble enumeration step. Thus, in
+order to improve the running time of KisSplice, we propose a new
+algorithm to enumerate bubbles. We show both theoretically and
+experimentally that our algorithm is several orders of magnitude
+faster than the heuristics based on cycle enumeration. The main memory
+bottleneck in KisSplice is the construction and representation of the
+de Bruijn graph. Thus, in order to reduce the memory consumption of
+KisSplice, we propose a new compact way to build and represent a de
+Bruijn graph improving over the state of the art (Chikhi and Rizk
+(2012)). We show both theoretically and experimentally that our
+approach uses 30% to 40% less memory than such state of the art, with
+an insignificant impact on the construction time.
+Additionally, we show that the same techniques used to list bubbles
+can be applied in two classical enumeration problems: cycle listing
+and the K-shortest paths problem. In the first case, we give the first
+optimal algorithm to list cycles in undirected graphs, improving over
+Johnson's algorithm, the long-standing state of the art. This is the
+first improvement to this problem in almost 40 years. We also give the
+first optimal algorithm to list st-paths in undirected graphs. In the
+second case, we consider a different parameterization of the classical
+K-shortest simple (loopless) paths problem: instead of bounding the
+number of st-paths, we bound the weight of the st-paths. We present
+new algorithms with the same time complexities but using
+exponentially less memory than previous approaches.

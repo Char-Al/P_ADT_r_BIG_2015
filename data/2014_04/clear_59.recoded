@@ -1,0 +1,47 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id E379326801D
+	for <bioinfo@sfbi.fr>; Thu, 17 Apr 2014 08:28:16 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AskCAI1zT1OKZqI0nGdsb2JhbABZg0GDa8AjAwKBNw4BAQEBAQgLCQkUKIImAQUjDwEFEUAlAgUhAgIPAkYTBgIBAYd4BAmnEqMXF4EpjFcRAVcWglmBSQSYapV/gXA
+X-IronPort-AV: E=Sophos;i="4.97,877,1389740400"; 
+   d="scan'208";a="65396592"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 17 Apr 2014 08:28:16 +0200
+Received: from MacBook-Air-de-sophie-2.local (bur91-3-82-239-212-158.fbx.proxad.net [82.239.212.158])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s3H6SFW8016349
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Thu, 17 Apr 2014 08:28:15 +0200 (CEST)
+Message-ID: <534F748C.80104@jouy.inra.fr>
+Date: Thu, 17 Apr 2014 08:28:28 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1WZMER-000DEv-DC@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1WZMER-000DEv-DC@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1WZMER-000DEv-DC@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 534F747F.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 534F747F.000/82.239.212.158/bur91-3-82-239-212-158.fbx.proxad.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 534F747F.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=# B=0.048 -> S=0.048
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] bioinformatics officer
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : bioinformatics officer
+Type de poste : Post-doc / IR
+Durée du poste : 1 year
+Ville : Brisbane
+Nom du contact : Pau Leo
+Email du contact : p.leo@uq.edu.au
+Laboratoire : the University of Queensland Diamantina Institute
+Voir la description complète du poste sur 
+http://www.sfbi.fr/content/bioinformatics-officer

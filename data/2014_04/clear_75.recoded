@@ -1,0 +1,133 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <rouveirol@lipn.univ-paris13.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 81FCF26801D
+	for <bioinfo@sfbi.fr>; Fri, 18 Apr 2014 11:39:13 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aq4BAEzyUFPC/qQHl2dsb2JhbABag0HFYxYOAQEBAQEIFgc8gl4BBTAFBQYsERYYAwIBAgFYBgIBARCHbAmZdLJHF4xlhjwEmG6BN4UKj0E
+X-IronPort-AV: E=Sophos;i="4.97,883,1389740400"; 
+   d="scan'208";a="57298253"
+Received: from upn.univ-paris13.fr ([194.254.164.7])
+  by b-mx1.relay.syrhano.net with ESMTP; 18 Apr 2014 11:38:58 +0200
+Received: from smtp.univ-paris13.fr (smtp.univ-paris13.fr [192.168.0.72])
+	by upn.univ-paris13.fr (Mail Server) with ESMTP id 2972B28813F
+	for <bioinfo@sfbi.fr>; Fri, 18 Apr 2014 11:38:58 +0200 (CEST)
+Received: from air-de-celine.home (ASte-Genev-Bois-152-1-54-254.w82-121.abo.wanadoo.fr [82.121.152.254])
+	(using TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	(Authenticated user : hidden)
+	by smtp.univ-paris13.fr (Postfix) with ESMTPSA id D94423EA0C3
+	for <bioinfo@sfbi.fr>; Fri, 18 Apr 2014 11:38:57 +0200 (CEST)
+Message-ID: <5350F2B1.7000302@lipn.univ-paris13.fr>
+Date: Fri, 18 Apr 2014 11:38:57 +0200
+From: =?windows-1252?Q?C=E9line_Rouveirol?= <rouveirol@lipn.univ-paris13.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CFP:  2nd Workshop on Dynamic Networks and Knowledge Discovery (DyNaK,
+ 2014)
+-  With our apologies in case of multiple reception 
+===============================================================================
+CFP:  2nd Workshop on Dynamic Networks and Knowledge Discovery (DyNaK 2014)
+co-located with ECML PKDD 2014, September 15-19, 2014, Nancy, France
+http://lipn.univ-paris13.fr/dynak2/
+Submission deadline: 20 June 2014
+Submission site: https://www.easychair.org/conferences/?conf=dynak2
+===============================================================================
+Aim and Scope
+Modeling and analyzing networks is a major emerging topic in different 
+research areas, such as computational biology, social science, document 
+retrieval, etc. Nowadays, the scientific communities have access to huge 
+volumes of network-structured data, such as social networks, 
+gene/protein /metabolic networks, sensor networks, peer-to-peer 
+networks. Most often, these data are not only static, but they are 
+collected at different time points. This dynamic view of the system 
+allows the time component to play a key role in the comprehension of the 
+evolutionary behavior of the network.
+Handling such data is a major challenge for current research in machine
+learning and data mining, and it has led to the development of recent
+innovative techniques that consider complex/multi-level networks, 
+time-evolving graphs, heterogeneous information (nodes and links), and 
+requires scalable algorithms that are able to manage huge and complex 
+networks.
+DyNaK workshop is motivated by the interest of providing a meeting point 
+for scientists with different backgrounds that are interested in the 
+study of large complex networks and the dynamic aspects of such 
+networks. It aims at attracting contributions from both aspects of 
+networks analysis: large real network analysis and modeling, and 
+knowledge discovery within those networks.
+Topics of interest
+Authors are invited to submit previously unpublished papers on their 
+theortical research and/or applications in any topic related to one or 
+more of the workshop topics. A non exhaustive list of topics is given 
+hereafter.
+Methods:
+    * Network inference from raw data
+    * Graphical models
+    * Graph mining algorithms
+    * Graph kernel algorithms
+    * Relational learning algorithms
+    * Matrix/Tensor methods
+    * Information retrieval algorithms
+    * Bayesian met hod
+    * Evolutionary clustering
+    * Mining heterogenous networks
+    * Multiplex network analysis & mining
+    * Bisociative information discovery
+    * Clustering/Co-clustering/Biclustering
+    * Pattern mining with constraints
+    * Community detection
+    * Social & biological networks analogy
+Applications:
+    * Recommender systems
+    * System biology: regulatory gene networks, protein-protein 
+interaction, miRNA networks, metabolic networks
+    * Social networks: folksonomies, digital libraries, information 
+networks, social media, collaborative networks
+    * Sensor networks, peer-to-peer networks, Web, agent networks, body 
+sensor networks
+Key Dates
+    * Paper Submission due: June 20, 2014
+    * Notification of Acceptance: July 11, 2014
+    * Camera Ready Papers due: July 25, 2014
+Organization
+    * Rushed Kanawati, University of Paris Nord, France
+      rushed.kanawati@lipn.univ-paris13.fr
+    * Ruggero G. Pensa, University of Torino, Italy
+      pensa@di.unito.it
+    * Céline Rouveirol, University of Paris Nord, France
+      celine.rouveirol@lipn.univ-paris13.fr
+Program Committee
+(under construction)
+    * Luca Aiello, Yahoo! Research, Barcelona, Spain
+    * Michele Berlingerio, IBM Research, Dublin, Irela nd
+    * Guillaume Beslon, INSA-Lyon, France
+    * Diego Di Bernardo, TIGEM, Italy
+    * Francesca Cordero, University of Torino, Italy
+    * Mohamed Elati, University of Evry, France
+    * Dino Ienco, IRSTEA Montpellier, France
+    * Stefan Kramer, Johannes Gutenberg University Mainz, Germany
+    * Sara C. Madeira, INESC-ID/IST, Portugal
+    * Rosa Meo, University of Torino, Italy
+    * Tsuyoshi Murata, Tokyo Institute of Technology, Japan
+    * Mirco Nanni, ISTI-CNR, Italy
+    * Fabio Pinelli, IBM Research, Dublin, Ireland
+    * Lorenza Saitta, University of Piemonte Orientale, Italy
+    * Rossano Schifanella, University of Torino, Italy
+    * Hanghang Tong, City College CUNY, NY, USA
+    ...
+Paper Submission
+We welcome original contributions, either theoretical or empirical, 
+describing  ongoing projects or completed work (even partially 
+published). The instructions for authors and the LaTeX packages can be 
+found at
+http://www.springer.de/comp/lncs/authors.html.
+Paper length should not exceed 12 pages.
+Following the first edition of DyNak workshop, a special issue of the
+International journal of Intelligent Data Analysis has been published. 
+We expect to do the same for this second edition.

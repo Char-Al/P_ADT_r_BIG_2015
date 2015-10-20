@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 82F2326801D
+	for <bioinfo@sfbi.fr>; Mon,  1 Sep 2014 09:31:08 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AiMCAEggBFSKZqI0nGdsb2JhbABZg2BXAYJ7xQGIeRABAQEBAQgLCQkUKYQtEAURMw4kAiYCEiwQJIhCDZUhjy+BdI0zhUyBLI0/EQFtgmOBUwWBLadIiyCBSGqBD4FAAQEB
+X-IronPort-AV: E=Sophos;i="5.04,440,1406584800"; 
+   d="scan'208";a="72061083"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 01 Sep 2014 09:31:08 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s817V77Q004798
+	for <bioinfo@sfbi.fr>; Mon, 1 Sep 2014 09:31:07 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 39A61296B97
+	for <bioinfo@sfbi.fr>; Mon,  1 Sep 2014 09:31:07 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XOM6f-0003AE-BT
+	for bioinfo@sfbi.fr; Mon, 01 Sep 2014 09:32:53 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XOM6f-0003AE-BT@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Mon, 01 Sep 2014 09:32:53 +0200
+X-Miltered: at alpha with ID 540420BB.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 540420BB.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 540420BB.001 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.258 -> S=0.349
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?Ing=C3=A9nieur?= d'=?UTF-8?Q?=C3=A9tudes?= p  our la maintenance des banques PRODOM/HOGENOM
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur d'études pour la maintenance des banques  
+PRODOM/HOGENOM
+Type de poste : CDD Ingénieur
+Durée du poste : 18 mois
+Ville : Lyon
+Nom du contact : Guy Perrière
+Email du contact : guy.perriere@univ-lyon1.fr
+Laboratoire : Biométrie et Biologie Evolutive
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9tudes-pour-la-maintenance-des-banques-prodomhogenom

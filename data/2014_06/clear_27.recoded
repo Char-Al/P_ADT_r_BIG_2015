@@ -1,0 +1,48 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 330B626801D
+	for <bioinfo@sfbi.fr>; Sat,  7 Jun 2014 18:54:16 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkkCAIhCk1OKZqI0nGdsb2JhbABZg1+DRcEdAwIBgRkPAQEBAQEICwkJFCiEBAEFIw8BBREvESUCBRYEBwICCQMCAQIBOgsTBgIBAYg+BAmuO555F4EqjGARAVcWgl+BTASaIZVBgUKBdA
+X-IronPort-AV: E=Sophos;i="4.98,995,1392159600"; 
+   d="scan'208";a="59804113"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Jun 2014 18:54:15 +0200
+Received: from MacBook-Air-de-sophie-2.local (bur91-3-82-239-212-158.fbx.proxad.net [82.239.212.158])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s57GsE4M029722
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Sat, 7 Jun 2014 18:54:14 +0200 (CEST)
+Message-ID: <539343B9.3080801@jouy.inra.fr>
+Date: Sat, 07 Jun 2014 18:54:17 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1WtJrz-00073G-Rk@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1WtJrz-00073G-Rk@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1WtJrz-00073G-Rk@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 539343B6.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 539343B6.000/82.239.212.158/bur91-3-82-239-212-158.fbx.proxad.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 539343B6.000 on alpha.jouy.inra.fr : j-chkmail score : X : R=. U=. O=## B=0.136 -> S=0.195
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][=?UTF-8?Q?Th=C3=A8se?=] Exploitation =?UTF-8?Q?simultan=C3=A9e?= de =?UTF-8?Q?donn=C3=A9es?= de =?UTF-8?Q?s=C3=A9quen=C3=A7age?= d'ADN tumoral =?UTF-8?Q?d=E2=80=99un?= grand nombre de patients
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Exploitation simultanée de données de séquençage
+d'ADN tumoral d’un grand nombre de patients
+Type de poste : Thèse
+Durée du poste : 36 mois
+Ville : Bordeaux
+Nom du contact : Raluca Uricaru
+Email du contact : ruricaru@labri.fr
+Laboratoire : LaBRI (Laboratoire Bordelais de Recherche en Informatique)
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/exploitation-simultan%C3%A9e-de-donn%C3%A9es-de-s%C3%A9quen%C3%A7age-dadn-tumoral-d%E2%80%99un-grand-nombre-de-patients

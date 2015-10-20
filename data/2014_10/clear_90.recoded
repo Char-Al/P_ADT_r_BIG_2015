@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id A4E8526801E
+	for <bioinfo@sfbi.fr>; Fri, 24 Oct 2014 22:18:45 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApoBAImzSlSKZqI0nGdsb2JhbABcg2JYAYI9SMoviGkBEQEBAQEBCAsJCRQuhBUXEAURKwgOCBwCJgISLBAkiEENmReNHY9CgXSNDoYzgSyOShEBbYJhgVQFgTC0IAEBAQEGAQEBAQFegUZqAYEOgTwBAQE
+X-IPAS-Result: ApoBAImzSlSKZqI0nGdsb2JhbABcg2JYAYI9SMoviGkBEQEBAQEBCAsJCRQuhBUXEAURKwgOCBwCJgISLBAkiEENmReNHY9CgXSNDoYzgSyOShEBbYJhgVQFgTC0IAEBAQEGAQEBAQFegUZqAYEOgTwBAQE
+X-IronPort-AV: E=Sophos;i="5.04,782,1406584800"; 
+   d="scan'208";a="66894439"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 24 Oct 2014 22:18:45 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s9OKIiMC006541
+	for <bioinfo@sfbi.fr>; Fri, 24 Oct 2014 22:18:44 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 5D7E7296B98
+	for <bioinfo@sfbi.fr>; Fri, 24 Oct 2014 22:18:44 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XhlLu-000DwX-55
+	for bioinfo@sfbi.fr; Fri, 24 Oct 2014 22:20:50 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XhlLu-000DwX-55@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Fri, 24 Oct 2014 22:20:50 +0200
+X-Miltered: at beta with ID 544AB424.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 544AB424.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 544AB424.001 on beta.jouy.inra.fr : j-chkmail score : XXX : R=. U=. O=# B=0.332 -> S=0.434
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] Bioinformatique et analyse de d  =?UTF-8?Q?onn=C3=A9es?= de =?UTF-8?Q?s=C3=A9quen=C3=A7age?= nouvelle-=?UTF-8?Q?g=C3=A9n=C3=A9ration?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformatique et analyse de données de séquençage  
+nouvelle-génération
+Type de poste : Stage
+Durée du poste :
+Ville : Toulouse
+Nom du contact : Raphael Mourad
+Email du contact : raphael.mourad@ibcg.biotoul.fr
+Laboratoire : Laboratoire de Biologie Moléculaire Eucaryote (LBME)
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/bioinformatique-et-analyse-de-donn%C3%A9es-de-s%C3%A9quen%C3%A7age-nouvelle-g%C3%A9n%C3%A9ration

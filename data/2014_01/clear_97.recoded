@@ -1,0 +1,68 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Guy.Perriere@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C1BA926801D
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 09:27:56 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlkCAFIM6lKG1rySnGdsb2JhbABZg0SODLBuFg4BAQEBAQgLCQkUKII4aIFNiA4Nm1+wCI8cghkPZoEUBJlakiyBbw
+X-IronPort-AV: E=Sophos;i="4.95,748,1384297200"; 
+   d="scan'208";a="53170988"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by b-mx1.relay.syrhano.net with ESMTP; 30 Jan 2014 09:27:56 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 1677DE00F9
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 09:27:56 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a+-ZTjxLv+IS for <bioinfo@sfbi.fr>;
+	Thu, 30 Jan 2014 09:27:51 +0100 (CET)
+Received: from kantkino.univ-lyon1.fr (kantkino.univ-lyon1.fr [134.214.34.97])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 5AF0DE00EB
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 09:27:51 +0100 (CET)
+From: Guy_Perrière <Guy.Perriere@univ-lyon1.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 30 Jan 2014 09:27:51 +0100
+Message-Id: <CA05EA91-80D5-43B2-8856-6319473DA7E2@univ-lyon1.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1085)
+X-Mailer: Apple Mail (2.1085)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Proposition de stage M2 au LBBE à Lyon
+Un stage de M2 Recherche en bioinformatique est proposé au Laboratoire de
+ Biométrie et Biologie Evolutive (UMR CNRS 5558), dans l'équipe Bioinfo
+rmatique et Génomique Evolutive (http://lbbe.univ-lyon1.fr/-Equipe-Bioinf
+ormatique-et-.html). Ce stage sera sous la responsabilité de Guy Perriè
+re, avec une co-encadrement par Patricia Doublet, du Centre international d
+e recherche en Infectiologie (INSERM U1111, UMR CNRS 5308). Il se situerait
+ dans le cadre du projet Legcoxinet, financé par le Labex Ecofect.
+Le sujet proposé consiste en une analyse ayant pour but d'identifier les 
+effecteurs du système T4SS (Type 4 Secretion System) chez plusieurs souch
+es de Légionella pneumophila (Lp) et Coxiella burnetti (Cb) ainsi que leu
+rs homologues dans plusieurs espèces bactériennes apparentées (alpha-
+protéobactéries de type Rickettsiales). Lp est l'agent responsable de l
+a légionellose, une pathologie bien connue qui atteint environ 1500 perso
+nnes chaque année en France, avec un taux de mortalité d'environ 10%. D
+e son côté, Cb est l'agent d'une zoonose émergente, la fièvre Q, tr
+ansmise par voie aérienne aux humains. Ces deux bactéries détournent 
+un mécanisme cellulaire, l'autophagie, via l'excretion d'effecteurs par l
+'intermédiaire du SST4. Ceci leur permet d'échapper au système immuni
+taire de leur hôte et de générer au sein de la cellule une vacuole r
+éplicative.
+La méthodologie proposée pour l'identification des effecteurs homologue
+s partirait d'une recherche de similarité classique, suivie de la constru
+ction d'une collection de séquences fondée sur le modèle de la banque
+ HOGENOME, développée dans notre groupe. Une fois les familles de gèn
+es homologues établies, il sera ensuite nécessaire d'identifier les ort
+hologues, ceci au moyen d'une approche phylogénétique. La construction 
+des arbres phylogénétique en question permettant par ailleurs de retrac
+er les histoires évolutives de ces familles (transferts horizontaux, pert
+es sélectives) et donc de l'acquisition de la pathogénicité chez Lp e
+t Cb.
+Rémunération : indemnité standard de 400 =80/mois
+Durée : trois à six mois
+Contact : Guy Perrière (http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html)
+e-mail et téléphone disponibles sur la page web

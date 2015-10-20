@@ -1,0 +1,96 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Laetitia.Marisa@ligue-cancer.net>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id BC4A026801D
+	for <bioinfo@sfbi.fr>; Tue, 17 Jun 2014 14:43:18 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApUDAOU2oFNcZ1+jnGdsb2JhbABagml2WhGCEknARBqBCQ8BAQEBAQgUCTyECgwXER84AQYPDQIfBwIEMBUFDQSIVgORKY0BjyOeNheBKootgjILEAIBNIMZgUwEsBmBQoIw
+X-IronPort-AV: E=Sophos;i="5.01,493,1400018400"; 
+   d="scan'208";a="68653184"
+Received: from smtp.ligue-cancer.net (HELO ligue-cancer.net) ([92.103.95.163])
+  by a-mx1.relay.syrhano.net with ESMTP; 17 Jun 2014 14:43:18 +0200
+Received: from Internal Mail-Server by pineapp (envelope-from
+	Laetitia.Marisa@ligue-cancer.net) with SMTP; 17 Jun 2014 14:35:06 +0200
+Received: from SV0045.ligue-cancer.net ([fe80::3cd4:7bf9:b1f8:7c9f]) by
+	SV0046.ligue-cancer.net ([::1]) with mapi id 14.03.0181.006; Tue, 17 Jun
+	2014 14:35:06 +0200
+From: Laetitia Marisa <Laetitia.Marisa@ligue-cancer.net>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: =?utf-8?B?UkFQUEVMOiBTw6ltaW5haXJlIENJVCAtIENhbmNlcnMgZHUgU2VpbiA6IEFw?
+	=?utf-8?B?cGxpY2F0aW9ucyBDbGluaXF1ZXMgZGUgbGEgR8Opbm9taXF1ZSwgbGUgbWFy?
+	=?utf-8?B?ZGkgMjQganVpbiDDoCAxMWg=?
+Thread-Index: AQHPiiiRK1A5wQxbK0ellGENRRO+oQ=
+Date: Tue, 17 Jun 2014 12:35:06 +0000
+Message-ID: <CFC6030D.60AB0%laetitia.marisa@ligue-cancer.net>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+user-agent: Microsoft-MacOutlook/14.4.2.140509
+x-originating-ip: [172.16.2.191]
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <984B4A6D125C7642BC3AAF833B90F608@ligue-cancer.net>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] RAPPEL: Séminaire CIT - Cancers du Sein : Applications Cliniques de la Génomique, le mardi 24 juin à 11h
+TGUgcHJvZ3JhbW1lIENhcnRlcyBkJ0lkZW50aXTDqSBkZXMgVHVtZXVycyAo
+aHR0cDovL2NpdC5saWd1ZS1jYW5jZXIubmV0DQo8aHR0cDovL2NpdC5saWd1
+ZS1jYW5jZXIubmV0Lz4pLCBwaWxvdMOpIHBhciBsYSBMaWd1ZSBOYXRpb25h
+bGUgY29udHJlIGxlDQpDYW5jZXIsIG9yZ2FuaXNlIHVuZSBzw6lyaWUgZGUg
+c8OpbWluYWlyZXMgZGUgZ8Opbm9taXF1ZSB2aXNhbnQgw6AgZmF2b3Jpc2Vy
+DQpsZXMgw6ljaGFuZ2VzIGVudHJlIGNsaW5pY2llbnMsIGNoZXJjaGV1cnMg
+ZXQgYmlvaW5mb3JtYXRpY2llbnMuDQoNCkxlIGNpbnF1acOobWUgc8OpbWlu
+YWlyZSBhdXJhIGxpZXUgbWFyZGkgMjQganVpbiwgw6AgMTFoLCBhdSBzacOo
+Z2UgZGUgbGENCkxpZ3VlIE5hdGlvbmFsZSBjb250cmUgbGUgQ2FuY2VyICgx
+NCBydWUgQ29ydmlzYXJ0LCBQYXJpcyAxMykuIElsIHBvcnRlcmENCnN1ciBs
+ZXMgY2FuY2VycyBkdSBzZWluIGV0IGR1cmVyYSBlbnZpcm9uIDFoMzAsIGF2
+ZWMgMyBwcsOpc2VudGF0aW9uczoNCg0KLSBVdGlsaXNhdGlvbiBkZSBsYSBn
+w6lub21pcXVlIGRhbnMgbGEgcHJpc2UgZW4gY2hhcmdlIGRlcyBjYW5jZXJz
+IGR1IHNlaW4NCm3DqXRhc3RhdGlxdWVzLg0KcGFyIGxlIFByIEZhYnJpY2Ug
+QW5kcsOpLCBPbmNvbG9ndWUgZXQgZGlyZWN0ZXVyIGRlIHJlY2hlcmNoZSDD
+oCBs4oCZSW5zdGl0dXQNCkd1c3RhdmUgUm91c3N5DQoNCi0gUXVlbGxlcyB2
+YWxldXJzIHByb25vc3RpcXVlIGV0IHByw6lkaWN0aXZlIGTCuXVQQS9QQUkt
+MSwgT25jb3R5cGUgRFjCgSwNCk1hbW1hUHJpbnTCriBkYW5zIGxhIHByaXNl
+IGVuIGNoYXJnZSBkdSBjYW5jZXIgZHUgc2VpbiA/IFVuIHJhcHBvcnQNCklO
+Q2EtU0ZTUE0gMjAxNC4NCnBhciBsZSBEciBFbGlzYWJldGggTHVwb3JzaSwg
+T25jb2xvZ3VlIG3DqWRpY2FsLCAgQmlvc3RhdGlzdGljaWVuLA0KR8OpbsOp
+dGljaWVuIMOgIGwnSW5zdGl0dXQgZGUgQ2FuY8Opcm9sb2dpZSBkZSBMb3Jy
+YWluZSBBbGV4aXMgVmF1dHJpbg0KDQotIFBsYWNlIGRlcyBzaWduYXR1cmVz
+IGfDqW5vbWlxdWVzIGRlIGRldXhpw6htZSBnw6luw6lyYXRpb24gZGFucyBs
+ZSBjYW5jZXIgZHUNCnNlaW4gYXUgc3RhZGUgcHLDqWNvY2UuDQpwYXIgbGUg
+RHIgUGF1bCBDb3R0dSwgQ2hlZiBkZSBTZXJ2aWNlIGTDqWzDqWd1w6kgSMO0
+cGl0YWwgZGUgam91ciDDoCBs4oCZSW5zdGl0dXQNCkN1cmllDQoNCg0KUsOp
+ZsOpcmVuY2VzIDoNCi0gIEFuZHLDqSBldCBhbC4gQ29tcGFyYXRpdmUgZ2Vu
+b21pYyBoeWJyaWRpc2F0aW9uIGFycmF5IGFuZCBETkEgc2VxdWVuY2luZw0K
+dG8gZGlyZWN0IHRyZWF0bWVudCBvZiBtZXRhc3RhdGljIGJyZWFzdCBjYW5j
+ZXI6IGEgbXVsdGljZW50cmUsDQpwcm9zcGVjdGl2ZSB0cmlhbCAoU0FGSVIw
+MS9VTklDQU5DRVIpLiBUaGUgTGFuY2V0LCAyMDE0Lg0KLSBFIEx1cG9yc2kq
+IMK3IEpQIEJlbGxvY3EqICBldCBhbC4gdVBBL1BBSS0xLCBPbmNvdHlwZSBE
+WMKBLCBNYW1tYVByaW50wq4NClZhbGV1cnMgcHJvbm9zdGlxdWUgZXQgcHLD
+qWRpY3RpdmUgcG91ciB1bmUgdXRpbGl0w6kgY2xpbmlxdWUgZGFucyBsYSBw
+cmlzZQ0KZW4gY2hhcmdlIGR1IGNhbmNlciBkdSBzZWluLiBSYXBwb3J0IElu
+Y2EsIDIwMTQuDQotIE5pZWxzZW4gZXQgYWwuIEEgY29tcGFyaXNvbiBvZiBQ
+QU01MCBpbnRyaW5zaWMgc3ViIHR5cGluZyB3aXRoDQppbW11bm9oaXN0b2No
+ZW1pc3RyeSBhbmQgY2xpbmljYWwgcHJvZ25vc3RpYyBmYWN0b3JzIGluIHRh
+bW94aWZlbi10cmVhdGVkDQplc3Ryb2dlbiByZWNlcHRvci1wb3NpdGl2ZSBi
+cmVhc3QgY2FuY2VyLiBDbGluIENhbiBSZXMsIDIwMTAuDQotIFByYXQgZXQg
+YWwuIENvbmNvcmRhbmNlIGFtb25nIGdlbmUgZXhwcmVzc2lvbi1iYXNlZCBw
+cmVkaWN0b3JzIGZvcg0KRVItcG9zaXRpdmUgYnJlYXN0IGNhbmNlciB0cmVh
+dGVkIHdpdGggYWRqdXZhbnQgdGFtb3hpZmVuLiBBbm4gT25jb2wsIDIwMTIu
+DQoNCg0KTm91cyBlc3DDqXJvbnMgdm91cyB5IHZvaXIgbm9tYnJldXghDQoN
+Cg0KDQotLQ0KTGFldGl0aWEgTUFSSVNBDQpQcm9ncmFtbWUgQ2FydGVzIGQn
+SWRlbnRpdMOpIGRlcyBUdW1ldXJzIChDSVQpDQpMaWd1ZSBOYXRpb25hbGUg
+Q29udHJlIGxlIENhbmNlcg0KaHR0cDovL2NpdC5saWd1ZS1jYW5jZXIubmV0
+IDxodHRwOi8vY2l0LmxpZ3VlLWNhbmNlci5uZXQvPg0KVGVsIDogKzMzIDEg
+NTMgNTUgMjUgMTMNCkZheCA6ICszMyAxIDUzIDU1IDI1IDM0DQoNCg0KDQog
+CiAKKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqClRo
+aXMgZm9vdG5vdGUgY29uZmlybXMgdGhhdCB0aGlzIGVtYWlsIG1lc3NhZ2Ug
+aGFzIGJlZW4gc2Nhbm5lZCBieQpQaW5lQXBwIE1haWwtU2VDdXJlIGZvciB0
+aGUgcHJlc2VuY2Ugb2YgbWFsaWNpb3VzIGNvZGUsIHZhbmRhbHMgJiBjb21w
+dXRlciB2aXJ1c2VzLgoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioKDQo

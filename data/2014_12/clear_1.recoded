@@ -1,0 +1,102 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gtpb-bounces@igc.gulbenkian.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 577FE26801D
+	for <bioinfo@sfbi.fr>; Mon,  1 Dec 2014 09:10:05 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AiYGAHchfFTBiV4FnGdsb2JhbABbg1dNCwGKHqkDBpMfCod4AQEBAQERAQEBAQEIFAlChAQGAQFDCh4OAwECBgIrHQgDAQsYATUBEgUXiCgJ0icBCyCGN4gohFcPRIFBBYpeinSCPYFFgnKBa4VokWwmSQGCRgEBAQ
+X-IPAS-Result: AiYGAHchfFTBiV4FnGdsb2JhbABbg1dNCwGKHqkDBpMfCod4AQEBAQERAQEBAQEIFAlChAQGAQFDCh4OAwECBgIrHQgDAQsYATUBEgUXiCgJ0icBCyCGN4gohFcPRIFBBYpeinSCPYFFgnKBa4VokWwmSQGCRgEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,492,1413237600"; 
+   d="scan'208";a="69297142"
+Received: from igcns.igc.gulbenkian.pt (HELO mx01.igc.gulbenkian.pt) ([193.137.94.5])
+  by b-mx1.relay.syrhano.net with ESMTP; 01 Dec 2014 09:10:05 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id B311A7440F;
+	Mon,  1 Dec 2014 08:10:01 +0000 (WET)
+X-Virus-Scanned: Debian amavisd-new at igcns
+Received: from mx01.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id iUSPfilpg76u; Mon,  1 Dec 2014 08:10:01 +0000 (WET)
+Received: from [127.0.1.1] (mx00.igc.gulbenkian.pt [192.168.50.10])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id 8783A743FE;
+	Mon,  1 Dec 2014 08:10:01 +0000 (WET)
+X-Original-To: gtpb@igc.gulbenkian.pt
+Delivered-To: gtpb@igc.gulbenkian.pt
+Received: from localhost (localhost [127.0.0.1])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 26FCC2B6152;
+	Mon,  1 Dec 2014 08:02:42 +0000 (WET)
+Received: from mx00.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id pIsqUvV-3JqM; Mon,  1 Dec 2014 08:02:37 +0000 (WET)
+Received: from webmail.igc.gulbenkian.pt (webmail.igc.gulbenkian.pt
+	[192.168.50.6])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 011902B6151;
+	Mon,  1 Dec 2014 08:02:36 +0000 (WET)
+Received: from localhost (localhost [127.0.0.1])
+	by webmail.igc.gulbenkian.pt (Postfix) with ESMTPA id A72D35FA23;
+	Mon,  1 Dec 2014 08:02:36 +0000 (WET)
+Received: from 116.43.249.5.rev.vodafone.pt (116.43.249.5.rev.vodafone.pt
+	[5.249.43.116]) by webmail.igc.gulbenkian.pt (Horde Framework) with
+	HTTP; Mon, 01 Dec 2014 08:02:36 +0000
+Message-ID: <20141201080236.11881vs5kfrhgyos@webmail.igc.gulbenkian.pt>
+Date: Mon, 01 Dec 2014 08:02:36 +0000
+From: Pedro Fernandes <pfern@igc.gulbenkian.pt>
+To: research <research@igc.gulbenkian.pt>,
+	gtpb <gtpb@igc.gulbenkian.pt>
+MIME-Version: 1.0
+Content-Disposition: inline
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.6)
+X-Mailman-Approved-At: Mon, 01 Dec 2014 08:07:59 +0000
+X-BeenThere: gtpb@igc.gulbenkian.pt
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: The Gulbenkian Training Programme in Bioinformatics
+	<gtpb.igc.gulbenkian.pt>
+List-Unsubscribe: <https://lists.igc.gulbenkian.pt/mailman/options/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=unsubscribe>
+List-Archive: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb>
+List-Post: <mailto:gtpb@igc.gulbenkian.pt>
+List-Help: <mailto:gtpb-request@igc.gulbenkian.pt?subject=help>
+List-Subscribe: <https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=subscribe>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="iso-8859-1"; Format="flowed"; DelSp="Yes"
+Sender: gtpb-bounces@igc.gulbenkian.pt
+Errors-To: gtpb-bounces@igc.gulbenkian.pt
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Gtpb] GTPB Training course announcement IB14S - Reminder
+                       REMINDER
+Dear all
+The Applications for the Introductory Bioinformatics course, second
+edition in 2014, IB14S are open
+   IMPORTANT DATES for this Course
+    Deadline for applications: December 4th 2014           <=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D
+    Latest notification of acceptance: December 5th 2014
+    Course date: December 9th - December 12th 2014
+Details are available here:
+http://gtpb.igc.gulbenkian.pt/bicourses/IB14S/
+this will be a 4 day long introduction that provides basic skills in
+biological sequence handling and analysis. The last day will be
+focusing on the analysis of Next Generation Sequencing data at a basic
+level.
+This is one of our most popular courses.
+Applications are approved and accepted in order of arrival and we only
+have 20 seats.
+Best wishes
+Pedro Fernandes
+GTPB Coordinator
+--
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb

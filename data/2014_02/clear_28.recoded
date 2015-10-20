@@ -1,0 +1,72 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <acalteau@genoscope.cns.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 764A426801D
+	for <bioinfo@sfbi.fr>; Mon, 10 Feb 2014 12:10:54 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqsBAJKy+FLDU96El2dsb2JhbABZg0SDDkq9ShYOAQEBAQEIFgc8gjgXDwEFVQULEQImAl8bFIdtCYwpjGqPFaBREwSBKY1xglmBSQSPRp40
+X-IronPort-AV: E=Sophos;i="4.95,817,1384297200"; 
+   d="scan'208";a="61706955"
+Received: from vulcano.genoscope.cns.fr ([195.83.222.132])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Feb 2014 12:10:53 +0100
+Received: from arenal.genoscope.cns.fr (arenal.genoscope.cns.fr [195.83.222.218])
+	(authenticated bits=0)
+	by vulcano.genoscope.cns.fr (8.13.1/8.13.1/mr-4.2) with ESMTP id s1ABAroY011076
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Mon, 10 Feb 2014 12:10:53 +0100
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Mon, 10 Feb 2014 12:10:53 +0100
+From: acalteau <acalteau@genoscope.cns.fr>
+To: <bioinfo@sfbi.fr>
+Reply-To: <mage@genoscope.cns.fr>
+Mail-Reply-To: <mage@genoscope.cns.fr>
+Message-ID: <2cd18f1ac1b17daaa9899b77ce369a67@genoscope.cns.fr>
+X-Sender: acalteau@genoscope.cns.fr
+User-Agent: Roundcube Webmail/0.8.2
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Formations =?UTF-8?Q?th=C3=A9matiques?= de la plate-forme MicroScope - avril 2014
+Bonjour,
+La plate-forme MicroScope propose 2 formations thématiques dédiées à 
+l'exploration du métabolisme bactérien et à la l'analyse des données de 
+transcriptomique. Les prochaines sessions de formation auront lieu en 
+Avril 2014 à l'Université d'Evry-Val d'Essonne.
+- « Bacterial metabolic networks prediction, comparison and annotation 
+»
+Du lundi 7 Avril au mercredi 9 Avril 2014 - date limite d'inscription 
+28 février
+Les principaux objectifs de cette formation sont :
+identifier et comprendre les besoins des principales ressources 
+métaboliques
+apprendre à interpréter les résultats des outils de prédiction de 
+réseaux métaboliques et à chercher des gènes candidats pour des gaps de 
+réaction
+effectuer des analyses comparatives de métabolisme
+utiliser de manière autonome, les outils de microscope pour analyser et 
+curer les données métaboliques de génomes d'intérêt.
+- « RNA-Seq Analyses using the MicroScope Platform »
+Jeudi 10 Avril et vendredi 11 Avril 2014 (matin) - date limite 
+d'inscription 28 février
+Les principaux objectifs de cette formation sont :
+acquérir des connaissances de base sur les technologies de séquençage à 
+haut débit (HTS)
+concevoir des plans d'expérience pertinents pour des analyses 
+transcriptomiques
+connaître et comprendre les principales étapes d'analyses RNAseq
+utiliser de manière autonome l'outil TAMARA de la PF MicroScope
+appliquer les méthodes présentées à l'analyse d'un génome d'intérêt
+Pour plus d'information et pour s'inscrire : 
+https://www.genoscope.cns.fr/agc/microscope/training
+Nos collaborateurs de l'Université d'Evry-Val d'Essonne en charge de 
+l'organisation de la formation prendront ensuite contact avec vous afin 
+de vous transmettre le devis, ainsi que la convention de formation.
+Ces formations s'adressent aussi bien aux personnes ayant déjà un 
+projet d'annotation sur cette plate-forme et souhaitant approfondir son 
+utilisation, qu'à celles souhaitant s'initier à la génomique 
+microbienne.
+Cordialement,
+L'équipe LABGeM

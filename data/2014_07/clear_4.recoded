@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Guy.Perriere@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id A80A426801D
+	for <bioinfo@sfbi.fr>; Wed,  2 Jul 2014 18:12:12 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjgBAOgutFOG1rySnGdsb2JhbABag1/GdoEIFg8BAQEBAQgLCQkUKIR+BYFRiEINxk0XjQSBTQEBTx2DF4EWBbI8aoEL
+X-IronPort-AV: E=Sophos;i="5.01,589,1400018400"; 
+   d="scan'208";a="61180567"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by b-mx1.relay.syrhano.net with ESMTP; 02 Jul 2014 18:12:11 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 76D3EE00C4;
+	Wed,  2 Jul 2014 18:12:11 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 20NSl98wsjYI; Wed,  2 Jul 2014 18:12:07 +0200 (CEST)
+Received: from umr5558-c02mc85dfd57.univ-lyon1.fr (umr5558-c02mc85dfd57.univ-lyon1.fr [134.214.32.83])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 4AA79E0032;
+	Wed,  2 Jul 2014 18:12:07 +0200 (CEST)
+From: =?windows-1252?Q?Guy_Perrière?= <Guy.Perriere@univ-lyon1.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 2 Jul 2014 18:12:07 +0200
+Message-Id: <2F9A7960-69B0-4FAD-A531-EE688DF6587F@univ-lyon1.fr>
+Cc: Fc-3Bio Prost <jf.prost@fc3bio.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Formations d'automne au PRABI
+Bonjour à tous,
+Le PRABI (Pôle Rhône-Alpes de Bioinformatique) en partenariat avec Fc3B
+io, animera deux formations dédiées à la bibliothèque ADE-4 pour R :
+ - Les 24 et 25 novembre : initiation et méthodes de bases
+   http://www.fc3bio.fr/Formation-ade4-Initiation-methodes-de-base_a37.html
+ - Du 8 au 10 décembre : perfectionnement et méthodes avancées
+   http://www.fc3bio.fr/Formation-ade4-Perfectionnement-Methodes-avancees_a
+38.html
+ATTENTION : la formation à l'analyse de données NGS, initialement pr
+évue fin septembre, est repoussée au 26-28 novembre.
+Toutes ces formations auront lieu dans les locaux du PRABI, sur le campus d
+e la Doua de l'Université Claude Bernard - Lyon 1.
+Pour ces trois stages, les inscriptions se font soit directement à l'adre
+sse http://www.fc3bio.fr/forms/Inscription_f2.html soit par mail à l'adre
+sse contact@fc3bio.fr.
+Nous restons à votre disposition pour tout renseignement complémentaire.
+--
+Guy Perrière
+Directeur du Pôle Rhône-Alpes de Bioinformatique
+http://www.prabi.fr

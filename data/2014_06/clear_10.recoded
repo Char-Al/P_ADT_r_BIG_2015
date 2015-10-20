@@ -1,0 +1,40 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <helene.dauchel@univ-rouen.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id F359B26801D
+	for <bioinfo@sfbi.fr>; Tue,  3 Jun 2014 23:00:17 +0200 (CEST)
+X-IronPort-AV: E=Sophos;i="4.98,968,1392159600"; 
+   d="scan'208";a="59585884"
+Received: from smtp-out-2.univ-rouen.fr (HELO mailhoc.univ-rouen.fr) ([193.52.152.97])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Jun 2014 23:00:08 +0200
+Received: from [192.168.0.11] (mov76-1-78-236-188-12.fbx.proxad.net [78.236.188.12])
+	(using TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mailhoc.univ-rouen.fr (Postfix) with ESMTPSA id 5FC66476
+	for <bioinfo@sfbi.fr>; Tue,  3 Jun 2014 23:00:07 +0200 (CEST)
+Message-ID: <538E3756.8020600@univ-rouen.fr>
+Date: Tue, 03 Jun 2014 23:00:06 +0200
+From: Hélène_DAUCHEL <helene.dauchel@univ-rouen.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: liste bioinfo <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Master Bioinformatique de Rouen - candidatures
+Les candidatures au Master 1 de BioInforMatique de l'université de Rouen 
+- Normandie Université sont ouvertes jusqu'au 30 juin 2014.
+Ce master est ouvert aux étudiants titulaires d'une licence de biologie, 
+d'informatique ou de mathématiques.
+Il accueille aussi des salariés en reprise d'études, en reconversion ou 
+demandeurs d'emploi.
+La formation s'organise en trois ans dont deux années en alternance et 
+apprentissage en master 2.
+Il forme des futurs doctorants et des ingénieurs bioinformaticiens, 
+biostatisticiens, destinés à travailler à l'interface des sciences du 
+vivant, de l'informatique et des mathématiques/statistiques.
+Les dossiers de candidatures et toutes les informations utiles sont 
+disponibles sur le site masterbioinfo.formations.univ-rouen.fr
+Contact : master.bioinfo@univ-rouen.fr

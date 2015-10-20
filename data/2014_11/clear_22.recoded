@@ -1,0 +1,143 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <florian.sikora@dauphine.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id DE99826801D
+	for <bioinfo@sfbi.fr>; Mon, 10 Nov 2014 14:55:14 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkwBAEnDYFTBMahYnGdsb2JhbABbg2KDX78viUGHUwKBJhYBAQEBAREBAQEBAQgUCUKEAwEFHQYPAQUwBQsRJQIFFgsCAgkDAgECAUUTCAEBFQKIKgm5NoFuk2YBAQEHAQEBAR6BLYwagnZfgneBVAWGOo0Fg0WCR4YOPYMSgneQdiaBRYFxgUUBAQE
+X-IPAS-Result: AkwBAEnDYFTBMahYnGdsb2JhbABbg2KDX78viUGHUwKBJhYBAQEBAREBAQEBAQgUCUKEAwEFHQYPAQUwBQsRJQIFFgsCAgkDAgECAUUTCAEBFQKIKgm5NoFuk2YBAQEHAQEBAR6BLYwagnZfgneBVAWGOo0Fg0WCR4YOPYMSgneQdiaBRYFxgUUBAQE
+X-IronPort-AV: E=Sophos;i="5.07,353,1413237600"; 
+   d="scan'208";a="67894397"
+Received: from mta1.dauphine.fr ([193.49.168.88])
+  by b-mx1.relay.syrhano.net with ESMTP; 10 Nov 2014 14:55:13 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mta1.dauphine.fr (Postfix) with ESMTP id 56FC4128039
+	for <bioinfo@sfbi.fr>; Mon, 10 Nov 2014 14:55:13 +0100 (CET)
+X-Virus-Scanned: amavisd-new at dauphine.fr
+Received: from mta1.dauphine.fr ([127.0.0.1])
+	by localhost (mta1.dauphine.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nlqKiwvCjs8h for <bioinfo@sfbi.fr>;
+	Mon, 10 Nov 2014 14:55:13 +0100 (CET)
+Received: from [10.1.3.106] (unknown [193.48.71.237])
+	by mta1.dauphine.fr (Postfix) with ESMTP id 385E6128025
+	for <bioinfo@sfbi.fr>; Mon, 10 Nov 2014 14:55:12 +0100 (CET)
+Message-ID: <5460C3C0.3010407@dauphine.fr>
+Date: Mon, 10 Nov 2014 14:55:12 +0100
+From: Florian Sikora <florian.sikora@dauphine.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <CAJMEsUD-Lmo=OtLw4MCVwha63HheGnCn2zXNW_BxLHN2gbu8jQ@mail.gmail.com>
+In-Reply-To: <CAJMEsUD-Lmo=OtLw4MCVwha63HheGnCn2zXNW_BxLHN2gbu8jQ@mail.gmail.com>
+X-Forwarded-Message-Id: <CAJMEsUD-Lmo=OtLw4MCVwha63HheGnCn2zXNW_BxLHN2gbu8jQ@mail.gmail.com>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CFP 8th Workshop on  Biomedical and Bioinformatics Challenges for
+ Computer,Science (BBC 2015)
+8th Workshop on  Biomedical and Bioinformatics Challenges for Computer
+Science (BBC 2015)
+http://bbc2015.wordpress.com/
+Reykjavík, Iceland, 1-3 June, 2015
+held in conjunction with
+International Conference on Computational Science (ICCS 2015)
+http://www.iccs-meeting.org/iccs2015/
+CALL FOR PAPERS
+---------------------------------------------------------------
+IMPORTANT DATES
+Papers submission: December 15, 2014
+Notification of acceptance: January 23, 2015
+Camera-ready papers: March 2, 2015
+AIMS & SCOPE
+Emerging technologies in genomics, transcriptomics, metagenomics and
+other life science areas are generating an increasing amount of
+complex data and information.
+In order to tackle the growing complexity associated with emerging and
+future life science challenges, bioinformatics and computational
+biology researchers and developers
+need to explore, develop and apply novel computational concepts,
+methods, tools and systems. Many of these new approaches are likely to
+involve advanced and large-scale
+computing techniques, computational approaches, technologies and
+infrastructures such as:
+* High-performance architectures and systems (e.g., multicore, GPU);
+* Distributed computing (e.g. grid, cloud, peer-to-peer, Web services,
+e-infrastructures);
+* Computational simulation (mechanistic, stochastic, multi-model);
+* Algorithms (theoretical and experimental aspects);
+* Applied bioinformatics (analysis pipelines, tools, applications);
+* Artificial and computational intelligence (machine learning, agents,
+evolutionary techniques, bio-inspired methods).
+The aim of this workshop is to bring together computer and life
+scientists to discuss emerging and future directions in these areas.
+The workshop is seeking original research contributions presenting
+innovative bioinformatics and computational biology concepts and
+solutions in the areas outline above.
+The topics of interest include but are not limited to the following:
+Computer Science
+* Dedicated hardware & architectures
+* High performance & distributed computing
+* Parallelisation techniques
+* Grid/cloud computing
+* Service-orientation
+* Volunteer computing
+* Peer-to-peer computing
+* (Distributed) workflows
+* E-infrastructures
+* Algorithms
+Bioinformatics
+* Biological sequence & structure analysis
+* Genomics, transcriptomics, metagenomics, metabolomics, etc.
+* Analysis of biological networks
+* Biomedical image analysis
+* Neuroimaging
+* Data visualization
+* Data mining & knowledge discovery
+Computational Biology
+* Simulation of biological systems/processes
+* Multi-model approaches
+* Systems biology
+* Knowledge-based techniques
+* Knowledge management
+* Artificial / computational intelligence techniques
+* Executable theories and models
+* Analysis tools
+PAPER SUBMISSION AND PUBLICATION
+The manuscripts of up to 10 pages (using the Procedia format), written
+in English and formatted according to the EasyChair templates, should
+be submitted electronically.
+Papers must be based on unpublished original work and must be
+submitted to ICCS only. Submission implies the willingness of at least
+one of the authors to register and present the paper.
+Copyright forms are only needed after the paper has been accepted for
+publication in the proceedings.
+Manuscripts must be submitted electronically through the Easychair
+submission system choosing the workshop titled:
+8th Workshop on Biomedical and Bioinformatics Challenges for Computer
+Science (BBC 2015).
+All accepted papers will be printed in the conference proceedings
+published by Elsevier Science in the open-access Procedia Computer
+Science and indexed by Scopus,
+ScienceDirect, Thomson Reuters Conference Proceedings Citation (former
+ISI Proceedings) -an integrated index within Web of Science. The
+papers will contain linked references,
+XML versions and citable DOI numbers.
+ICCS is an ERA 2010 A-ranked conference series.
+JOURNAL SPECIAL ISSUE
+After the workshop, selected papers may be invited for a special issue
+of the Journal of Computational Science. Selected papers (extended and
+revised version)
+accepted on the 1st edition of this workshop have been published on a
+special section of Future Generation Computer Systems, Elsevier.
+WORKSHOP CO-ORGANIZERS
+Stefano Beretta, CNR - Istituto di Tecnologie Biomediche (ITB), Italy
+Mauro Castelli, ISEGI - Universidade Nova de Lisboa,  Portugal
+Mario Cannataro, University Magna Græcia of Catanzaro, Italy (Chair)
+Riccardo Dondi,  University of Bergamo, Italy
+Werner Dubitzky, University of Ulster, United Kingdom
+Joakim Sundnes, Simula Research Laboratory, Norway
+Rodrigo Weber dos Santos, Federal University of Juiz de Fora, Brazil
+MORE INFORMATION:
+For further information, please check Website: http://bbc2015.wordpress.com/

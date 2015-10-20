@@ -1,0 +1,67 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mikael.salson@lifl.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2640126801D
+	for <bioinfo@sfbi.fr>; Thu, 10 Apr 2014 16:47:41 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ao8BAB+uRlPBMeETnGdsb2JhbABaFoMrxh4WDgEBAQEBCAsJCRQogioOJgFFPRYYAwIBAgFYCAEBh3gECZseshePCYQiBJVignyGU48h
+X-IronPort-AV: E=Sophos;i="4.97,834,1389740400"; 
+   d="scan'208";a="56860634"
+Received: from smtp01.univ-lille1.fr ([193.49.225.19])
+  by b-mx1.relay.syrhano.net with ESMTP; 10 Apr 2014 16:47:40 +0200
+Received: from smtps2.univ-lille1.fr (smtps2.univ-lille1.fr [193.49.225.53])
+	by smtp01.univ-lille1.fr (8.14.3/8.14.3) with ESMTP id s3AElcwF005847
+	for <bioinfo@sfbi.fr>; Thu, 10 Apr 2014 16:47:38 +0200
+Received: from [134.206.18.25] (bavaro.lifl.fr [134.206.18.25])
+	(authenticated bits=0)
+	by smtps2.univ-lille1.fr (8.14.3/8.14.3/Debian-5) with ESMTP id s3AElb82004807
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO)
+	for <bioinfo@sfbi.fr>; Thu, 10 Apr 2014 16:47:37 +0200
+Message-ID: <5346AF0A.4000809@lifl.fr>
+Date: Thu, 10 Apr 2014 16:47:38 +0200
+From: =?windows-1252?Q?Mika=EBl_Salson?= <mikael.salson@lifl.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: 8bit
+X-USTL-MailScanner-Information: Please contact the ISP for more information
+X-USTL-MailScanner-ID: s3AElcwF005847
+X-USTL-MailScanner: Found to be clean
+X-USTL-MailScanner-From: mikael.salson@lifl.fr
+X-Spam-Status: No
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] =?WINDOWS-1252?Q?Th=E8se?= sur l'indexation de =?WINDOWS-1252?Q?s=E9quences?= de lymphocytes =?WINDOWS-1252?Q?=E0?= Lille
+Bonjour,
+L'équipe Bonsai (LIFL, Inria) à Lille dispose d'un financement pour une
+thèse en algorithmique du texte appliquée au suivi de la leucémie.
+Titre : Indexation de réarrangements lymphoïdes VDJ pour le suivi de la
+leucémie
+Date limite : 30 avril 2014
+Sujet :
+Le but de cette thèse est d'étudier finement la population clonale
+complète d'un patient atteint de leucémie, en se positionnant  au-delà
+du suivi d'un clone connu lors du diagnostic. On souhaite pouvoir
+observer l'ensemble des réarrangements V(D)J, leur évolution et leur
+abondance relative. Les algorithmes développés dans l'équipe de
+bioinformatique Bonsai au sein du logiciel Vidjil suivent déjà
+plusieurs clones au cours du temps, mais ne permettent pour l'instant
+pas de reconstituer « l'histoire évolutive » d'un ensemble de clones.
+L'objectif de la thèse est donc d'enrichir Vidjil de nouveaux
+développements algorithmiques (conception d'une structure d'indexation
+adaptée) afin d'améliorer l'information fournie aux cliniciens ou
+biologistes.
+Sujet détaillé : http://www.lifl.fr/~salson/these-vdj.pdf
+*Candidature*
+Nous cherchons une personne ayant de bonnes connaissances en
+algorithmique du texte avec un goût pour la biologie. Pour toute
+candidature veuillez envoyer :
+ -  un CV ;
+ -  une lettre de motivation ;
+ -  les notes (et classements) de cette année et des deux années précédentes ;
+ -  trois adresses électroniques de personnes pouvant donner un avis sur
+votre candidature.
+Cordialement,
+Mikaël Salson.

@@ -1,0 +1,96 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Isabelle.CHUINE@cefe.cnrs.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 090A426801D
+	for <bioinfo@sfbi.fr>; Wed, 20 Aug 2014 15:08:05 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjACAK2c9FPBMYQUnGdsb2JhbABZgmp2VwGCe8lTh1cBGXcWEAEBAQEBCBQJPYQKIxEVCjQEAQYcAiYCBBkEExUFDAEEEwiIOwMJkB2NDo8vlVMXBIEojBCBXwsLgxs2gR0FkSiHb4MtmGlqgk8BAQE
+X-IronPort-AV: E=Sophos;i="5.01,902,1400018400"; 
+   d="scan'208";a="71581875"
+Received: from mx.montp.cnrs.fr ([193.49.132.20])
+  by a-mx1.relay.syrhano.net with ESMTP; 20 Aug 2014 15:08:04 +0200
+Received: from zzmail.cefe.cnrs.fr (zzmail.cefe.cnrs.fr [193.49.134.5])
+	by mx.montp.cnrs.fr  with ESMTP id s7KD81bG002663-s7KD81bI002663
+	(version=TLSv1.0 cipher=AES128-SHA bits=128 verify=CAFAIL)
+	for <bioinfo@sfbi.fr>; Wed, 20 Aug 2014 15:08:01 +0200
+Received: from ZZMAIL.newcefe.newage.fr ([fe80::8560:2ee0:ace7:231d]) by
+ ZZMAIL.newcefe.newage.fr ([fe80::8560:2ee0:ace7:231d%13]) with mapi; Wed, 20
+ Aug 2014 15:06:34 +0200
+From: Isabelle CHUINE <Isabelle.CHUINE@cefe.cnrs.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Date: Wed, 20 Aug 2014 15:08:00 +0200
+Thread-Topic: =?utf-8?B?b2ZmcmUgQ0REIGTDqXZlbG9wcGV1ciBpbmZvcm1hdGlxdWUgMTIgbW9pcyBh?
+ =?utf-8?B?dSBDRUZFIE1vbnRwZWxsaWVy?
+Thread-Index: Ac+8d8TsSY4l733mSZmQmagxWcmhEw=
+Message-ID: <907C21402B23E243AB0EAF862B70A42404CDD727725A@ZZMAIL.newcefe.newage.fr>
+Accept-Language: fr-FR
+Content-Language: fr-FR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: fr-FR
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-FEAS-SPF: PASS / PASS ( ip="193.49.134.5", helo="zzmail.cefe.cnrs.fr", mailFrom="isabelle.chuine@cefe.cnrs.fr" ) ( headerFrom="isabelle.chuine@cefe.cnrs.fr" )
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] offre CDD développeur informatique 12 mois au CEFE Montpellier
+UFJPUE9TSVRJT04gROKAmVVOIENERCBERVZFTE9QUEVVUiAoTklWRUFVIERV
+VCkgDQoNClNhbGFpcmUgQnJ1dCANCjE3ODbigqwvbW9pcyDDqXF1aXZhbGVu
+dCB0ZW1wcyBwbGVpbg0KDQpEdXLDqWUgDQoxIGFuIMOgIHBhcnRpciBkZSBz
+ZXB0ZW1icmUgMjAxNC4NCg0KTGlldSBkZSB0cmF2YWlsDQpDZW50cmUgZOKA
+mUVjb2xvZ2llIEZvbmN0aW9ubmVsbGUgZXQgRXZvbHV0aXZlLCBDYW1wdXMg
+Q05SUywgMTkxOSByb3V0ZSBkZSBNZW5kZSwgTW9udHBlbGxpZXIuDQoNClJl
+c3BvbnNhYmxlIC0gQ29udGFjdA0KSXNhYmVsbGUgQ2h1aW5lIDA0IDY3IDYx
+IDMyIDc5IGlzYWJlbGxlLmNodWluZUBjZWZlLmNucnMuZnINCg0KRGVzY3Jp
+cHRpb24gZGVzIG1pc3Npb25zDQpMYSBwZXJzb25uZSBzZXJhIGNoYXJnw6ll
+IGRlIHLDqWFsaXNlciB1bmUgbm91dmVsbGUgdmVyc2lvbiBk4oCZdW5lIGFw
+cGxpY2F0aW9uIGNvbsOndWUgcGFyIGxlcyBjaGVyY2hldXJzLCBlbiBjb2xs
+YWJvcmF0aW9uIGF2ZWMgY2V1eC1jaS4gQ2V0dGUgYXBwbGljYXRpb24gKFBI
+RU5PRklUKSBjb3JyZXNwb25kIMOgIHVuIG1vZMOobGUgZOKAmWFpcmUgZGUg
+csOpcGFydGl0aW9uIGTigJllc3DDqGNlcyBk4oCZYXJicmVzIHV0aWxpc8Op
+IHBvdXIgcsOpYWxpc2VyIGRlcyBwcm9qZWN0aW9ucyBk4oCZYWlyZSBkZSBy
+w6lwYXJ0aXRpb24gZOKAmWFyYnJlcyBlbiBmb25jdGlvbiBkZXMgY29uZGl0
+aW9ucyBjbGltYXRpcXVlcy4gRWxsZSBlc3QgcHJvZ3JhbW3DqWUgc291cyBE
+ZWxwaGkgKFBhc2NhbCBPYmpldCkgZXQgbGEgbm91dmVsbGUgdmVyc2lvbiBk
+ZXZyYSByZXN0ZXIgZGFucyBjZSBsYW5nYWdlLiBMZXMgZMOpdmVsb3BwZW1l
+bnRzIGVudmlzYWfDqXMgY29ycmVzcG9uZGVudCBlc3NlbnRpZWxsZW1lbnQg
+w6AgdW5lIHJlc3RydWN0dXJhdGlvbiBwcm9mb25kZSBkZSBs4oCZYXBwbGlj
+YXRpb24gcG91ciBwb3V2b2lyIHBhc3NlciBk4oCZdW4gbW9kw6hsZSBxdWkg
+bmUgY29uc2lkw6hyZSBxdeKAmXVuZSBzZXVsZSBlc3DDqGNlIMOgIHVuIG1v
+ZMOobGUgcXVpIGNvbnNpZMOocmUgcGx1c2lldXJzIGVzcMOoY2VzIGVuIGNv
+bXDDqXRpdGlvbiBlbnRyZSBlbGxlcywgw6AgbOKAmWludMOpZ3JhdGlvbiBk
+ZSBub3V2ZWxsZXMgcHJvY8OpZHVyZXMgaXNzdWVzIGRlIGRldXggYXBwbGlj
+YXRpb25zIChQTVAgZXQgU0lFUlJBKSBjb27Dp3VlcyBwYXIgbGVzIGNoZXJj
+aGV1cnMgZGUgbOKAmcOpcXVpcGUgZXQgw6ljcml0ZXMgZW4gRGVscGhpLiAN
+Cg0KQ29tcMOpdGVuY2VzDQpCb25uZXMgY29ubmFpc3NhbmNlcyBlbiBhbGdv
+cml0aG1pcXVlLiBDb25uYWlzc2FuY2UgZGUgbGFuZ2FnZSBkZSBwcm9ncmFt
+bWF0aW9uIHR5cGUgRGVscGhpLCBDKyssIEphdmEuIENvbm5haXNzYW5jZXMg
+ZGUgYmFzZXMgZW4gc3RhdGlzdGlxdWVzIHNvdWhhaXRhYmxlcy4gVW5lIGJv
+bm5lIG1hw650cmlzZSBkZSBs4oCZYW5nbGFpcyDDqWNyaXQgYWluc2kgcXVl
+IGRlcyBjb25uYWlzc2FuY2VzIGVuIMOpY29sb2dpZSBzZXJvbnQgYXBwcsOp
+Y2nDqWVzLg0KDQpFbnZpcm9ubmVtZW50IGV0IGNvbnRleHRlIGRlIHRyYXZh
+aWwNCkxlIHRyYXZhaWwgc+KAmWVmZmVjdHVlcmEgYXUgQ0VGRSAoY2FtcHVz
+IENOUlMpIHNvdXMgbGEgZGlyZWN0aW9uIGTigJlJc2FiZWxsZSBDaHVpbmUs
+IGNoZXJjaGV1ciBhdSBDRUZFLiBMYSBwZXJzb25uZSBkZXZyYSBpbnRlcmFn
+aXIgYXZlYyBsZXMgcG9zdC1kb2N0b3JhbnRzLCBkb2N0b3JhbnRzIGV0IMOp
+dHVkaWFudHMgZW4gbWFzdGVyIGRlIGzigJnDqXF1aXBlLCBldCBzZXJhIGFt
+ZW7DqWUgw6AgaW50ZXJhZ2lyIGF2ZWMgbGEgcGxhdGVmb3JtZSBTeXN0w6ht
+ZXMgZOKAmUluZm9ybWF0aW9uIGVuIEVjb2xvZ2llIGR1IENFRkUuIEzigJnD
+qXF1aXBlIGRpc3Bvc2UgZOKAmXVuIHBldGl0IHNlcnZldXIgZGUgY2FsY3Vs
+IChzb3VzIFdpbmRvd3MpIGV0IGxlIENFRkUgZGlzcG9zZSBk4oCZdW4gY2x1
+c3RlciAow6lnYWxlbWVudCBzb3VzIFdpbmRvd3MpLg0KDQpFbnZveWVyIENW
+LCBsZXR0cmUgZGUgbW90aXZhdGlvbiDDoCBpc2FiZWxsZS5jaHVpbmVAY2Vm
+ZS5jbnJzLmZyDQoNCg0KKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioNCklzYWJlbGxlIENodWluZQ0KQ2VudHJlIGQnRWNvbG9n
+aWUgRm9uY3Rpb25uZWxsZSBldCBFdm9sdXRpdmUNCjE5MTkgcm91dGUgZGUg
+TWVuZGUNCjM0MjkzIE1vbnRwZWxsaWVyIGNlZGV4IDA1DQpGcmFuY2UNClBo
+b25lIDA0IDY3IDYxIDMyIDc5DQpGYXggMDQgNjcgNjEgMzMgMzYNCg0KUGhl
+bm9sb2d5IE1vZGVsbGluZyBQbGF0ZWZvcm06DQp3d3cuY2VmZS5jbnJzLmZy
+L2Jpb2RpdmVyc2l0ZS1mbHV4LWV0LWNoYW5nZW1lbnRzLWdsb2JhdXgvcG1w
+IA0Kd3d3LmNlZmUuY25ycy5mci9iaW9kaXZlcnNpdGUtZmx1eC1ldC1jaGFu
+Z2VtZW50cy1nbG9iYXV4L2NodWluZSANCg0KT2JzZXJ2YXRvaXJlIERlcyBT
+YWlzb25zOg0Kd3d3LmdkcjI5NjguY25ycy5mciAgDQp3d3cub2JzLXNhaXNv
+bnMuZnIgDQoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqDQoN
+Cg=

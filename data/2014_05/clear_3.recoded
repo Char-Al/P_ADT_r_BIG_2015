@@ -1,0 +1,76 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <hugues.richard@upmc.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id D440626801D
+	for <bioinfo@sfbi.fr>; Mon,  5 May 2014 09:27:17 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlYCAFY8Z1OGnQCQnGdsb2JhbABZg1XFEASBLg4BAQEBAQgLCQkUKII4gj4ViCwECZcqs0aOb4MUgRUEmTSGXwWGNokQ
+X-IronPort-AV: E=Sophos;i="4.97,986,1389740400"; 
+   d="scan'208";a="58008629"
+Received: from shiva144.upmc.fr (HELO shiva.upmc.fr) ([134.157.0.144])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 May 2014 09:27:17 +0200
+Received: from courriel.upmc.fr (courriel5.reseau.jussieu.fr [134.157.0.196])
+          by shiva.upmc.fr (8.14.4/jtpda-5.5pre1) with ESMTP id s457QgE4017887
+          for <bioinfo@sfbi.fr>; Mon, 5 May 2014 09:26:42 +0200 (CEST)
+X-Ids:144
+X-CIds:courriel5
+Received: from [192.168.2.101] (p54BEB7FC.dip0.t-ipconnect.de [84.190.183.252]) (authentified, mech=PLAIN)
+          by courriel.upmc.fr (8.14.5/jtpda-5.5pre1) with ESMTP id s457QToJ093794 (version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NO)
+          for <bioinfo@sfbi.fr>; Mon, 5 May 2014 09:26:32 +0200 (CEST) (envelope-from hugues.richard@upmc.fr)
+From: Hugues Richard <hugues.richard@upmc.fr>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 5 May 2014 09:26:29 +0200
+Message-Id: <08DF231B-08BF-4218-B8E8-DA63FE564A6B@upmc.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1085)
+X-Mailer: Apple Mail (2.1085)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] M1/M2 Bioinformatique et Modélisation à l'UPMC
+Les inscriptions pour la spécialité Bioinformatique et Modélisation d
+u Master d'Informatique de l'Université Pierre et Marie Curie sont ouvert
+es pour la rentrée 2014.
+Cette spécialité permet à des étudiants de formation informatique o
+u mathématique d'acquérir des compétences dans les domaines de la bio
+informatique et de la modélisation des systèmes biologiques et de parti
+ciper aux mutations . Il s'agit d'une formation d'informatique au sein du m
+aster de l'UPMC, mais le parcours est intégré avec le Master en Biologi
+e Moléculaire et Cellulaire (ouvert au étudiants avec une licence en bi
+ologie).
+Présentation :
+-------------------
+Les enjeux actuels de la biologie et de la médecine engendrent des besoin
+s nouveaux à l'interface avec l'informatique et les mathématiques : ana
+lyse de données complexes, outils de modélisation approfondis. Ceci n
+écessite de former des jeunes scientifiques ayant une vaste culture pluri
+disciplinaire. La spécialisation "BioInformatique et Modélisation" (BIM
+) répond à cette demande en pleine croissance au niveau national et int
+ernational.
+Elle est construite à l'interface des deux mentions Informatique et Biolo
+gie Moléculaire et cellulaire (BMC) avec la participation de la mention M
+athématiques et Applications.
+Plus d'informations sur le site de la spécialité : http://www.lcqb.upmc
+.fr/BIM/
+Informations pratiques :
+--------------------------------
+Les admissions sont possible en première et deuxième année de master,
+ et s'addresse principalement aux étudiants ayant suivi une formation en 
+informatique et/ou en mathématiques appliquée.  D'autre parcours peuven
+t être examinés au cas par cas (Etudiant en Physique chimie, écoles d
+'ingénieurs...), si l'étudiant peut montrer un intérêt pour les sci
+ences du vivant.
+Les étudiants en passe d'obtenir une licence de biologie doivent s'addres
+ser au Master en Biologie Moléculaire et Cellulaire, spécialité Bioin
+formatique et Modélisation.
+Dates d'inscription :
+_ M1   5 mai au 27 juin 2014
+_ M2   5 mai au 11 juillet 2014
+Vous pouvez contacter les responsables de la spécialité alessandra.carb
+one@upmc.fr et martin.weigt@upmc.fr.
+Les étudiants en biologie doivent contacter stephane.le_crom@upmc.fr.
+Les candidats doivent suivre la procédure d'inscription de l'Université
+ Pierre et Marie Curie :
+http://www.upmc.fr/fr/formations/inscriptions_scolarite/candidature_et_insc
+ription_annee_2014_2015/inscription_master.html

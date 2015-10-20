@@ -1,0 +1,56 @@
+Return-Path: <Laurent.Mouchard@univ-rouen.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 54D5E26801D
+	for <bioinfo@sfbi.fr>; Sun,  7 Dec 2014 18:32:51 +0100 (CET)
+X-IronPort-AV: E=Sophos;i="5.07,533,1413237600"; 
+   d="scan'208";a="78305920"
+Received: from smtp-out-4.univ-rouen.fr (HELO mailhoc.univ-rouen.fr) ([193.52.152.99])
+  by a-mx1.relay.syrhano.net with ESMTP; 07 Dec 2014 18:32:51 +0100
+Received: from [192.168.0.15] (lns-bzn-26-82-254-78-25.adsl.proxad.net [82.254.78.25])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mailhoc.univ-rouen.fr (Postfix) with ESMTPSA id 50FD325B
+	for <bioinfo@sfbi.fr>; Sun,  7 Dec 2014 18:32:50 +0100 (CET)
+Message-ID: <54848F42.5080403@univ-rouen.fr>
+Date: Sun, 07 Dec 2014 18:32:50 +0100
+From: Laurent Mouchard <Laurent.Mouchard@univ-rouen.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+Subject: [bioinfo] Postdoctoral Position in String Algorithms for DNA Sequencing
+-------- Message transféré --------
+Sujet : 	POSTDOCTORAL POSITION IN STRING ALGORITHMS FOR DNA SEQUENCING
+Date : 	Sun, 07 Dec 2014 15:26:05 +0100
+POSTDOCTORAL POSITION IN STRING ALGORITHMS FOR DNA SEQUENCING
+------------------------------------------------------------------------------------------------------------
+Dear Colleague,
+I am looking for a postdoc to work on algorithms and software for a
+next-next-gen assembler for long read sequencers.The required attributes
+are:
+·Training and expertise in the area of combinatorial algorithms (e.g.
+CPM, WABI, RECOMB)
+·Great coding skills in C and an interest in “algorithm engineering”
+A desirable additional factor would be direct experience with DNA
+sequence assembly algorithms.
+Mygroup is at the Max-Planck Institute for Molecular Biology and
+Genetics in Dresden, Germany.It is primarily an interdisciplinary
+algorithms/software team with a smaller subgroup that builds novel
+microscopes.See Myers Lab Homepage<http://myerslab.mpi-cbg.de>.
+I have two PacBio long read sequencers with which we have already
+produced a significant amount of long read data (600Gbp), and our goal
+is to build a near-perfect/de novo/  assembler for a variety of targets
+including a 32Gbp genome.To view some of our recent work in this
+specific area one can take a look at the Dazzler Blog
+<http://www.dazzlerblog.wordpress.com>and our recent WABI 2014 Paper
+<http://myerslab.mpi-cbg.de/wp-content/uploads/2014/09/WABI.2014.pdf>
+The position is available immediately.The prospective candidate should
+send a CV and the name and e-mail contacts for 3 references to
+myers@mpi-cbg.de  <mailto:myers@mpi-cbg.de>.
+Sincerely,
+Gene Myers
+Director, Tschira Chair for Systems Biology
+MPI for Molecular Cell Biology and Genetics

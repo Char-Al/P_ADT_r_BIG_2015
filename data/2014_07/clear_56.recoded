@@ -1,0 +1,45 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C27E726801D
+	for <bioinfo@sfbi.fr>; Thu, 17 Jul 2014 16:14:09 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AooBAIbZx1OKZqI0nGdsb2JhbABZg2BXAYJ3wFyHQgGBGw8BAQEBAQgLCQkUKYQEAQUjDwEFES8RJQIFFgsCAgkDAgECAToLEwYCAQGIPg2vEJcjF4EsjT0RAVcWgmKBTgWbH4cUkF5qAYEL
+X-IronPort-AV: E=Sophos;i="5.01,678,1400018400"; 
+   d="scan'208";a="61902199"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 17 Jul 2014 16:14:09 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s6HEE8Qe028468
+	for <bioinfo@sfbi.fr>; Thu, 17 Jul 2014 16:14:08 +0200 (CEST)
+Message-ID: <53C7DA30.5080009@jouy.inra.fr>
+Date: Thu, 17 Jul 2014 16:14:08 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1X7mSV-0007ap-Oe@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1X7mSV-0007ap-Oe@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1X7mSV-0007ap-Oe@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53C7DA30.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53C7DA30.000/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53C7DA30.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.096 -> S=0.096
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?Ing=C3=A9nieur?= =?UTF-8?Q?D=C3=A9veloppeur?= Worflows
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur Développeur Worflows
+Type de poste : CDD Ingénieur
+Durée du poste : 12
+Ville : Paris
+Nom du contact : UNG
+Email du contact : visotheary.riviere-ung@snv.jussieu.fr
+Laboratoire : ISYEB
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9veloppeur-worflows

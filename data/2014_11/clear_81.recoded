@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 038F926801D
+	for <bioinfo@sfbi.fr>; Thu, 27 Nov 2014 10:26:40 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsgBALftdlSKZqI0nGdsb2JhbABbg1dZjSQBukOHawEBAQEBEQEBAQEBCAsJCRQuhCwQBREzDiQCHwcCEiw0iEANrCiPSYFvhjuIAYY3gS6OaxEBbYJigVUFgS+2NwEBCAEBAQFggUZugQ+BOwEBAQ
+X-IPAS-Result: AsgBALftdlSKZqI0nGdsb2JhbABbg1dZjSQBukOHawEBAQEBEQEBAQEBCAsJCRQuhCwQBREzDiQCHwcCEiw0iEANrCiPSYFvhjuIAYY3gS6OaxEBbYJigVUFgS+2NwEBCAEBAQFggUZugQ+BOwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,468,1413237600"; 
+   d="scan'208";a="69073874"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 27 Nov 2014 10:26:39 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sAR9QdJB028025
+	for <bioinfo@sfbi.fr>; Thu, 27 Nov 2014 10:26:39 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 09C14296BB5
+	for <bioinfo@sfbi.fr>; Thu, 27 Nov 2014 10:26:39 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XtvNh-0006iv-8B
+	for bioinfo@sfbi.fr; Thu, 27 Nov 2014 10:28:57 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XtvNh-0006iv-8B@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 27 Nov 2014 10:28:57 +0100
+X-Miltered: at beta with ID 5476EE4F.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5476EE4F.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5476EE4F.001 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.102 -> S=0.102
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Methods for Identifying Alternative Splicing (and Genetic Variants associated) from NGS data
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Methods for Identifying Alternative Splicing (and  
+Genetic Variants associated) from NGS data
+Type de poste : Post-doc / IR
+Durée du poste : 18 months
+Ville : Paris and/or Lyon, France
+Nom du contact : Stéphane Robin
+Email du contact : robin@agroparistech.fr
+Laboratoire : UMR 518 AgroParisTech-INRA / LBBE (Lyon)
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/methods-identifying-alternative-splicing-and-genetic-variants-associated-ngs-data

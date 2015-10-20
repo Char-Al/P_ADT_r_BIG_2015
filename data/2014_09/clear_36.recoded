@@ -1,0 +1,184 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mathieu.giraud@lifl.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 1498F26801D
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 11:15:02 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArQBAEq4ElTBMeETnGdsb2JhbABFGhaDSle4bI9wDIhcFhABAQEBAQgLCQkUKoQIDl0BZXIJiEIECTaYMaVFjmALEQGDDw9EJIEdBZJOhwaDL48BiFWBSGoBE3uBQAEBAQ
+X-IPAS-Result: ArQBAEq4ElTBMeETnGdsb2JhbABFGhaDSle4bI9wDIhcFhABAQEBAQgLCQkUKoQIDl0BZXIJiEIECTaYMaVFjmALEQGDDw9EJIEdBZJOhwaDL48BiFWBSGoBE3uBQAEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,511,1406584800"; 
+   d="scan'208";a="72757000"
+Received: from smtp01.univ-lille1.fr ([193.49.225.19])
+  by a-mx1.relay.syrhano.net with ESMTP; 12 Sep 2014 11:15:01 +0200
+Received: from smtps1.univ-lille1.fr (smtps1.univ-lille1.fr [193.49.225.52])
+	by smtp01.univ-lille1.fr (8.14.3/8.14.3) with ESMTP id s8C9Ewi3013877
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 11:14:58 +0200
+Received: from bouquet.lifl.fr (bouquet.lifl.fr [134.206.11.127])
+	(authenticated bits=0)
+	by smtps1.univ-lille1.fr (8.14.3/8.14.3/Debian-5) with ESMTP id s8C9Exbu028662
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 11:14:59 +0200
+From: Mathieu Giraud <mathieu.giraud@lifl.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <2743F164-F7D8-4EAD-BA82-CE94A623D6CF@lifl.fr>
+Date: Fri, 12 Sep 2014 11:14:58 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+X-Mailer: Apple Mail (2.1878.6)
+X-USTL-MailScanner-Information: Please contact the ISP for more information
+X-USTL-MailScanner-ID: s8C9Ewi3013877
+X-USTL-MailScanner: Found to be clean
+X-USTL-MailScanner-From: mathieu.giraud@lifl.fr
+X-Spam-Status: No
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi] (Correction) Post-doc / CDD =?WINDOWS-1252?Q?ingénieur?=, analyse bio-informatique des anomalies de recombinaison V(D)J
+(Correction: le poste est bien à Paris)
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Type de poste : Post-doc / CDD ingénieur
+Durée du poste : 1 an, éventuellement renouvelable
+Ville : Paris
+Nom du contact :  Elizabeth Macintyre
+Email du contact : elizabeth.macintyre@nck.aphp.fr
+Laboratoire : équipe 10 (Lymphopoïèse normale et pathologique), lnsti
+tut Necker Enfants Malades, Paris
+Fiche détaillée : http://www.lifl.fr/~giraud/post-doc-bioinfo-NCK-LIFL-
+140912.pdf
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D Analyse bio-informatique des anomalies de recombinaison V(D)J =3D
+=3D=3D
+Nous proposons un poste de chercheur post-doctorant ou ingénieur en bio-i
+nformatique au sein de l'équipe 10 (Lymphopoïèse normale et patholo
+gique) de l'institut Necker Enfants Malades (INEM) INSERM U1151 et CNRS U
+MR8253, co-dirigée par les Prs Elizabeth MACINTYRE et Vahid ASNAFI, en co
+llaboration avec l'équipe de Dr. Ludovic DERRIANO à l'Institut Pasteu
+r, Paris, et l'équipe Bonsai du Laboratoire d'Informatique Fondamentale d
+e Lille (LIFL) et de l'INRIA Lille.
+Ce poste sera localisé au laboratoire d'oncohématologie, 2ème éta
+ge bâtiment Pasteur à l'hôpital Necker-Enfants Malades, 149 rue de 
+sèvres 75015 Paris, en attendant l'ouverture du bâtiment de recherche
+ à la Faculté de Médecine en 2016/17.
+Il s'agit d'un CDD d'un an, éventuellement renouvelable. Le poste e
+st disponible immédiatement.
+=3D=3D Missions =3D=3D
+La mission principale de ce poste est de développer l'analyse bio-infor
+matique des anomalies oncogénétiques et immunogénétiques des leuc
+émies et lymphomes lymphoblastiques, notamment mais pas exclusivement par
+ techniques de séquen=E7age deuxième génération.
+=3D=3D Activités =3D=3D
+- Analyse bio-informatique des données de séquen=E7age générées 
+à partir de l'ADN ou l'ARN. Traitement des données du séquen=E7ag
+e en oncogénétique et immunogénétique, générées par capture o
+u re-séquen=E7age des amplicons
+- Contribution au logiciel Vidjil d'analyse haut-débit de recombinaisons 
+immunologiques V(D)J et extension pour les recombinaisons anormales
+- Participation à la mise au point des pipelines d'identification des a
+nomalies des remaniements immunogénétiques (des gènes codants pour le
+s récepteurs à l'antigène des immunoglobulines  Ig- et récepteu
+rs T à l'antigène -TCR) qui pourraient révéler des anomalies de l
+a réparation de l'ADN et/ou de la régulation de la recombinase.
+=3D=3D Compétences =3D=3D
+- En priorité, esprit d'équipe et capacité à travailler en groupe.
+- Compétences bio-informatiques obligatoires : algorithmes de comparaison
+s de séquences. développement algorithmique en C++, visualisation inter
+active en HTML/javascript, développement collaboratif sous git
+- Connaissances souhaitables en biologie moléculaire et plus spécifique
+ment, la PCR quantitative, PCR génomique, séquen=E7age Sanger et NGS
+- Connaissances souhaitables du développement lymphoïde normale et path
+ologique, de l'oncogénétique lymphoïde, de l'immunogénétique 
+et ou de la réparation de l'ADN
+- Une bonne ma=EEtrise de l'anglais.
+=3D=3D Contexte =3D=3D
+Nos thématiques et perspectives de recherche sont centrées sur l'analys
+e des hémopathies T immatures humaines, les LAL-T. Il s'agit de prolifé
+rations malignes de précurseurs thymiques bloqués à un stade donné 
+de leur différenciation par un processus oncogénique sous-jacent. Leur 
+oncogenèse est multigénique et se caractérise par une fréquence é
+levée (70%) de mutations des gènes NOTCH1 et FBXW7 aboutissant à une 
+activation constitutive de la voie Notch1 et la dérégulation de gènes
+ à homeodomaines " orphelins " TLX1 et TLX3. L'objectif principal de 
+nos travaux est de mieux caractériser la forte corrélation des différ
+entes voies d'oncogenèse à des stades d'arrêt de maturation thymique.
+ L'oncogenèse et le développement lymphoïde T physiologique, notammen
+t les mécanismes de régulation des recombinaisons somatiques à l'orig
+ine de la mise en place d'un récepteur T à l'antigène (TCR), se trouv
+ent étroitement liés, ce qui implique la participation de signaux de pr
+olifération/apoptose physiologiques dans l'émergence du processus oncog
+énique. Ainsi nos travaux incitent à croire que le stade d'arrêt de m
+aturation de ces lymphoblastes est conditionné par le type d'oncogène d
+érégulé.
+Notre activité de recherche implique également une forte implication da
+ns les protocoles thérapeutiques et groupes coopérateurs (groupes GRAAL
+L et SFCE) des hémopathies lymphoïdes pédiatriques et adultes, et dan
+s des projets européens ("Euroflow" STREP06 et "Blueprint" 7PCRDT
+), à l'interface de la recherche fondamentale et la recherche translati
+onnelle. Le pronostic des LAL-T reste sombre, avec une survie à 5 ans est
+imée seulement à 60%. Nous souhaitons identifier des biomarqueurs gén
+étiques susceptibles d'être utilisés dans un but de stratification th
+érapeutique et avons récemment identifiée le rôle pronostique de l'
+activation constitutive des Voies NOTCH1, PTEN et RAS dans ces hémopathie
+s (Asnafi et al. Blood 2009 - Callens et al. JCO 2012 - Trinquant et al. JC
+O 2013). L'analyse du rôle joué par ces anomalies, notamment au niveau 
+des cellules initiatrices de la leucémie, représente une thématique i
+mportante de notre groupe. Nous sommes également impliqués dans le suiv
+i des LAL (T et B) et la détection de la Maladie Résiduelle ou MRD (pou
+r Minimal Residual Disease), dans un réseau national de 6 laboratoires et
+ dans le cadre d'une action concerté Européenne d'immunogénétiq
+ue des hémopathies malignes   Euro-NGS.
+Le séquen=E7age des gènes codants pour les Ig et les TCR est utilisé 
+pour la détection clone spécifique de la MRD. Le transfert du séquen
+=E7age par technique Sanger vers le NGS augmente la capacité d'exploita
+tion des données générées et sa processivité. Succinctement, la d
+iversité des récepteurs à l'antigène Ig/TCR est généré par 
+le recombinaison des segments V, D et J, initié par la " recombinase 
+" et plus spécifiquement la nucléase RAG1/2 qui reconna=EEt des séq
+uences " RSS " aux extrémités des segments VDJ et coup l'ADN en d
+ouble brin. L'ADN est ensuite modifié aux extrémités par l'enzyme
+ terminal deoxynucleotidyl transferase et religaturé, grâce à plusieu
+rs enzymes de " DNA repair ". Diverses anomalies de ces protéines peu
+vent aboutir à des jonctions VDJ aberrantes et à un répertoire lympho
+ïde anormal, détectable par NGS. Les anomalies de réparation d'ADN 
+peuvent induire une instabilité génomique, des lymphopénies et défi
+cits immunitaires, et/ou une transformation oncogénique. La détection d
+es jonctions VDJ anormales par NGS TCR DNA-Seq peut signaler la présence 
+d'une instabilité génomique sous-jacente à certains leucémies et 
+permettra l'identification des patients avec anomalies des gènes qui r
+égulent l'intégrité de l'ADN.
+Le travail bio-informatique sera effectué en collaboration avec l'équip
+e Bonsai du Laboratoire d'Informatique Fondamentale de Lille (LIFL) et de l
+'INRIA, Lille. Les logiciels d'analyse de répertoires lymphoïdes (logic
+iels Rep-Seq) recherchent par comparaison de séquences des recombinaisons
+ formées de gènes V et de gènes J et ne traitent pas correctement les
+ recombinaisons anormales. Nous avons commencé à faire évoluer le log
+iciel Vidjil (Giraud, Salson et al., BMC Genomics 2014) pour l'étude de c
+es recombinaisons. Le bio-informaticien recruté concevra de nouvelles m
+éthodes algorithmiques et de visualisation pour pouvoir à la fois ident
+ifier les recombinaisons incomplètes ou anormales connues et tenter de d
+écouvrir automatiquement des recombinaisons non répertoriées. L'objec
+tif final sera de contribuer à un pipeline d'analyse de données de sé
+quen=E7age pour identifier des recombinaisons qui pourraient révéler de
+s anomalies de la réparation de l'ADN ou de la régulation de la recom
+binase.
+Nous avons également établi une collaboration avec l'équipe de Dr. 
+Ludovic DERRIANO à l'Institut Pasteur, Paris, qui combine notre expér
+ience d'immunogénétique et oncogénétique des leucémies et lymph
+omes lymphoblastiques T avec son expérience de réparation d'ADN. Le b
+io-informaticien recruté s'impliquera dans ce programme et bénéfici
+era de l'environnement de génétique et d'informatique du Campus Necke
+r-Enfants Malades (INEM et IMAGINE), celui de l'Institut Pasteur, Paris e
+t celui du LIFL.
+Pour la composition de l'équipe, merci de suivre :
+http://www.institut-necker-enfants-malades.fr/index.php?menu=3Dteam_view&fa
+culty_id=3D10
+Pour la liste de publications de l'équipe, merci de suivre :
+http://www.institut-necker-enfants-malades.fr/index.php?menu=3Dteam_view&fa
+culty_id=3D10
+Merci de transmettre un CV et lettre de motivation à elizabeth.macintyre@
+nck.aphp.fr si intéressé.
+--
+Mathieu Giraud - http://www.lifl.fr/~giraud
+CNRS, LIFL, Université Lille 1, Inria Lille, France

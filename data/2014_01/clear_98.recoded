@@ -1,0 +1,70 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <dunand@lrsv.ups-tlse.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 6F8C326801D
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 10:10:39 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgMCAMgV6lLD3DsRnGdsb2JhbABZg0S+ehYOAQEBAQEICwkJFCiCOCYBBTAQDy4WGAMCAQIBCU8IAQGIBQmbWLAHBI8YhCIEhS2Se4EyhRaFc4kS
+X-IronPort-AV: E=Sophos;i="4.95,748,1384297200"; 
+   d="scan'208";a="61125657"
+Received: from smtp2.cict.fr ([195.220.59.17])
+  by a-mx1.relay.syrhano.net with ESMTP; 30 Jan 2014 10:10:39 +0100
+Received: from smtp2.cict.fr (localhost.localdomain [127.0.0.1])
+	by smtp2.cict.fr (8.14.5/8.14.4) with ESMTP id s0U9AcaS023078
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 10:10:38 +0100
+Received: from polext1.lrsv.ups-tlse.fr (polext1.scsv.ups-tlse.fr [194.199.55.4])
+	by smtp2.cict.fr (8.14.5/8.14.5) with ESMTP id s0U9AckY023075
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 10:10:38 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by polext1.lrsv.ups-tlse.fr (Postfix) with ESMTP id 7117017F44
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 10:10:38 +0100 (CET)
+X-Virus-Scanned: clamav-milter 0.97.3 at smtp2.cict.fr
+Received: from polext1.lrsv.ups-tlse.fr ([127.0.0.1])
+	by localhost (mail.lrsv.ups-tlse.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yN1oaqVbJ4m6 for <bioinfo@sfbi.fr>;
+	Thu, 30 Jan 2014 10:10:33 +0100 (CET)
+Received: from [194.199.55.117] (umr117.scsv.ups-tlse.fr [194.199.55.117])
+	by polext1.lrsv.ups-tlse.fr (Postfix) with ESMTPSA id 7567617EA7
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 10:10:33 +0100 (CET)
+Message-ID: <52EA1708.6050500@lrsv.ups-tlse.fr>
+Date: Thu, 30 Jan 2014 10:10:32 +0100
+From: Christophe Dunand <dunand@lrsv.ups-tlse.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Poste MCF Bioinfo/Biostat
+Cher(e)s membres de la liste BioInfo,
+Un poste de Maitre de Conférence est ouvert à l'université de Toulouse, 
+en Bioinformatique/Biostatistique ouvert sur plusieurs laboratoire. 
+Le(La) MdC recruté(e) pourra rejoindre l'équipe Expression et Evolution 
+des Peroxydases au sein du LRSV (Laboratoire de Recherche en Sciences 
+Végétales, Université Paul Sabatier Toulouse 3/ CNRS).  Le profil 
+officiel n'est pas encore disponible sur Galaxy mais devrait l'être très 
+prochainement.
+Le(La) MdC recruté(e) pourrait rejoindre notre jeune et dynamique équipe 
+et bénéficierait de toutes les structures humaines et techniques pour 
+effectuer un travail de qualité.  Au niveau de l'enseignement, les 
+enseignant-chercheurs de l'équipe sont largement impliqués dans 
+l'enseignement du futur(e) MdC, ce qui permettrait sa parfaite intégration.
+Les détails concernant les profils d'enseignement et de recherche au 
+LRSV sont visibles sur le site du laboratoire 
+(http://www.lrsv.ups-tlse.fr/?Poste-de-Maitre-de-conferences).
+Espérant vous rencontrer prochainement,
+Bien cordialement.
+C.Dunand
+-- 
+Christophe Dunand, Pr
+University Paul Sabatier (Toulouse III), UMR5546- CNRS
+Plant Science Research Laboratory (LRSV)
+24, Chemin de Borde-Rouge, BP 42617, Auzeville
+31326 Castanet-Tolosan, France
+Phone +33 (0)5 34 32 38 58
+Fax   +33 (0)5 34 32 38 02
+http://www.lrsv.ups-tlse.fr/
+http://peroxibase.toulouse.inra.fr/

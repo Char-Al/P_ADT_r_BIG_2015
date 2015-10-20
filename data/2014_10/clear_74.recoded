@@ -1,0 +1,69 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <ovidiu.radulescu@univ-montp2.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 5E54326801D
+	for <bioinfo@sfbi.fr>; Wed, 22 Oct 2014 13:37:56 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuIBALOWR1SiJmXhnGdsb2JhbABcg2JYgwa/aol7iFoWAREBAQEBAQgLCQkULoQmBg8BBTAfJwIFFgsCCwMCAQIBCU8GAgEBiDwNoT6PPZUZBIEojROBNgoHAYNOgVQFhi2MXoM/iEQ8hX+HZIJZhUiCM2oBgQUJF4ElAQEB
+X-IPAS-Result: AuIBALOWR1SiJmXhnGdsb2JhbABcg2JYgwa/aol7iFoWAREBAQEBAQgLCQkULoQmBg8BBTAfJwIFFgsCCwMCAQIBCU8GAgEBiDwNoT6PPZUZBIEojROBNgoHAYNOgVQFhi2MXoM/iEQ8hX+HZIJZhUiCM2oBgQUJF4ElAQEB
+X-IronPort-AV: E=Sophos;i="5.04,768,1406584800"; 
+   d="scan'208";a="75324711"
+Received: from mailhub-out3.univ-montp2.fr ([162.38.101.225])
+  by a-mx1.relay.syrhano.net with ESMTP; 22 Oct 2014 13:37:55 +0200
+Received: from [162.38.196.182] ([162.38.196.182])
+	by mailhub-out3.univ-montp2.fr (8.14.3/8.14.3) with ESMTP id s9MBbsV0023825
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO)
+	for <bioinfo@sfbi.fr>; Wed, 22 Oct 2014 13:37:54 +0200
+Message-ID: <5447970F.4040104@univ-montp2.fr>
+Date: Wed, 22 Oct 2014 13:37:51 +0200
+From: Ovidiu Radulescu <ovidiu.radulescu@univ-montp2.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: clamav-milter 0.98.4 at mailhub-out3.univ-montp2.fr
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] call for papers special issue of Theoretical Computer Science
+Call for Papers
+>From Computer Science to Biology and Back
+We invite submissions of papers on the theory and practice of formal methods in biology for publication in a special issue of the Journal of Theoretical Computer Science (TCS),  Section C (Theory of Natural Computing).
+We especially welcome extended versions of papers presented at the CS2Bio 2014 Workshop in Berlin, affiliated with DisCoTec 2014 (http://combio.abo.fi/cs2bio14/); it is expected that such submissions incorporate the changes suggested in the reviews of your original conference submission; moreover, such submissions are expected to have additional material (proofs omitted in the conference proceedings version, new results, etc.) that did not appear in the conference paper.
+We also invite submissions of papers not presented at CS2Bio 2014, provided they fall within the scope of the call.
+Scope
+This special issue is devoted to original research papers on the theory and applications of formal methods in biology. Of special interest are contributions on the computational modelling of a specific biological phenomenon, and on developments in modelling, simulation, testing or verification approaches in computer science that lead to novel and promising applications in biology and biomedicine. While the main focus is on computational processes in living cells, we also encourage submissions concerning the modeling and analysis of processes and systems in synthetic biology.
+Topics of Interest
+In particular, the topics of interest include but are not limited to:
+	•	Modeling, analysis and simulation tools for biology
+	•	Quantitative and qualitative modeling frameworks
+	•	Spatial languages and calculi
+	•	Model checking, abstract interpretation, type systems
+	•	Prediction of biological behavior from incomplete information
+	•	Complex networks and biomolecular dynamics
+	•	Emergence of properties in complex biological and medical systems
+	•	Tools for parallel, distributed, and multi-resolution simulation methods
+Submission Format and Guideline
+Papers should have no more than 20 pages and should be formatted according to Elsevier's elsarticle.cls document style used for articles in the journal of Theoretical Computer Science. A detailed submission guideline is available as “Guide to Authors” at:
+http://www.journals.elsevier.com/theoretical-computer-science  
+All manuscripts and any supplementary material should be submitted through Elsevier Editorial System (EES). The authors must select as “SI:CS2Bio” when they reach the “Article Type” step in the submission process. The EES submission website is located at:
+http://ees.elsevier.com/tcs/default.asp  
+All papers will be peer-reviewed by three independent reviewers. Requests for additional information should be addressed to the guest editors.
+Important dates
+Submission deadline: 31.1.2015
+Acceptance deadline: 31.5.2015
+Guest editors
+Emanuela Merelli, University of Camerino, Italy,emanuela.merelli@unicam.it.
+Ion Petre, Åbo Akademi University, Finland,ipetre@abo.fi
+-- 
+Prof. Ovidiu Radulescu
+Université de Montpellier 2
+-------------------------------------------------------------------
+DIMNP - UMR 5235 CNRS/UM1/UM2   Phone: +33-(0)4-6714-9221
+Pl. E. Bataillon - Bat. 24      Fax:   +33-(0)4-6714-4286
+Université Montpellier 2        email: ovidiu.radulescu@univ-montp2.fr
+CP 107
+34095 Montpellier Cedex 5
+FRANCE

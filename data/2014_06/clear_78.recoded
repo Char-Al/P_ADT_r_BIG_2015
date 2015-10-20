@@ -1,0 +1,136 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 6A5A526801D
+	for <bioinfo@sfbi.fr>; Mon, 23 Jun 2014 17:40:43 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqkBAGdJqFOKZqI0nGdsb2JhbAA/GoNfxX4PAQEBAQEICwkJFCiEFiYBBTAQPRYYAwIBAgFYBgIBARGILQQJNph+rS2OGhACAYUZBIRjjmeBMIVSlydqEg
+X-IronPort-AV: E=Sophos;i="5.01,530,1400018400"; 
+   d="scan'208";a="60635069"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 23 Jun 2014 17:40:42 +0200
+Received: from MacBook-Air-de-sophie-2.local (bur91-3-82-239-212-158.fbx.proxad.net [82.239.212.158])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s5NFef0U006707
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Mon, 23 Jun 2014 17:40:41 +0200 (CEST)
+Message-ID: <53A84A7B.5030100@jouy.inra.fr>
+Date: Mon, 23 Jun 2014 17:40:43 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53A84A79.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53A84A79.000/82.239.212.158/bur91-3-82-239-212-158.fbx.proxad.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53A84A79.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=# B=0.015 -> S=0.015
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Sciences en Marche
+De la part de Patrick Lemaire :
+Cher(e)s collègues,
+Veuillez trouver ci-dessous le texte de lancement d'une opération 
+d'envergure pour la défense de l'Enseignement Supérieur et la Recherche. 
+Cette opération nous permettra d'aller au devant du grand public pour le 
+convaincre de la place fondamentale de l'ESR dans l'avenir de la nation 
+et de porter trois demandes consensuelles dans la communauté: 1) mettre 
+en oeuvre un plan pluriannuel ambitieux pour l'emploi statutaire à tous 
+les niveaux de l'ESR, 2) renforcer les crédits de base des laboratoires 
+et des universités, 3) Reconnaitre le doctorat dans les conventions 
+collectives. Faciliter l'emploi des docteurs, et la diffusion de la 
+culture scientifique, dans les entreprises et la haute fonction publique.
+nous espérons que vous nous rejoindrez dans cette grande aventure, en 
+constituant des comités locaux d'organisation, en roulant et marchant 
+dans le mesure de vos capacités, et mobilisant la communauté et le public.
+Patrick
+=========================
+Texte de l'appel:
+Sciences en Marche
+Une société d'une complexité sans précédent mais des sciences délaissées.
+L'enseignement supérieur et la recherche (ESR) sont dans une crise 
+profonde. Pourtant notre société, de plus en plus complexe, n'a jamais 
+tant eu besoin de nos capacités de compréhension, d'analyse, de conseil 
+et d'innovation. Alors que la crise économique actuelle devrait conduire 
+à un soutien renforcé à l'ESR, les responsables politiques s'en servent 
+pour justifier le déclin qu'ils nous imposent, résultat de leur 
+inculture scientifique et de leur incapacité à appréhender des enjeux 
+complexes. Dans les labos, les départements, la situation devient 
+intenable. Beaucoup de chercheurs n'ont plus les moyens de travailler 
+efficacement. La généralisation des CDDs à court terme, alliée à la 
+faiblesse des débouchés industriels dans de nombreuses disciplines, 
+détourne les jeunes des formations et des métiers de la recherche. Or il 
+faut de nombreuses années pour former à l'esprit et à la méthode 
+scientifiques. La situation actuelle est lourde de conséquences à long 
+terme, que ce soit sur nos métiers, sur la production de connaissances, 
+sur l'activité économique du pays dans un contexte international très 
+compétitif et plus largement, sur la culture démocratique qu'entretient 
+l'esprit critique développé par la recherche.
+Trois mesures sont nécessaires pour inverser la tendance : 1) mettre en 
+oeuvre un plan pluriannuel ambitieux pour l'emploi statutaire à tous les 
+niveaux de l'ESR, 2) renforcer les crédits de base des laboratoires et 
+des universités, 3) Reconnaitre le doctorat dans les conventions 
+collectives. Faciliter l'emploi des docteurs, et la diffusion de la 
+culture scientifique, dans les entreprises et la haute fonction publique.
+Ces mesures font consensus dans la communauté scientifique. Une profonde 
+redéfinition du contour, des missions et des conditions d'attribution de 
+l'inefficace Crédit Impôt Recherche (CIR), permettrait de les financer 
+(une petite fraction du CIR = des milliers d'emplois dans l'ESR). Cette 
+réforme doit se faire en concertation avec les entreprises innovantes.
+Il est temps pour nous, acteurs de la recherche, de nous mobiliser et 
+d'obtenir les moyens de remplir pleinement notre mission ! Pour nous 
+faire entendre du gouvernement, nous devons convaincre le public que 
+l'ESR joue un rôle important à la fois dans l'activité économique et 
+dans la réflexion politique de notre pays. Il doit être soutenu. Cette 
+action pédagogique, à destination du grand public,  doit s'inscrire dans 
+la durée. Il faut donner à nos concitoyens le temps de comprendre 
+pourquoi nous réagissons. La mobilisation doit rassembler 
+universitaires, chercheurs du public et du privé, et entreprises innovantes.
+Les chemins de Paris, à vélo et à pied
+Nous proposons l'organisation d'une grande marche convergeant sur Paris 
+à l'occasion de la fête de la science, du 27 septembre au 19 octobre 
+2014. Elle impliquera chaque laboratoire et université, chacun 
+participant à la mesure de ses possibilités.
+Concrètement, le trajet se fera principalement en vélo sur des chemins 
+convergents en flux, les dernières étapes à pied pour faciliter la 
+participation du public et une entrée remarquée dans Paris. Chaque étape 
+aura lieu, dans la mesure du possible, dans une ville universitaire et 
+sera associée à des points presse, des conférences grand public, des 
+animations scientifiques permettant d'expliquer notre travail et notre 
+rôle dans la société. Les animations de la fête de la science assureront 
+la présence du public, dont la mobilisation pourra être  renforcée au 
+travers des réseaux sociaux.
+Enfin, il est important que le public se sente aussi acteur du 
+mouvement, en venant sur le passage des relayeurs, mais aussi en 
+participant à l'organisation logistique du mouvement, par solidarité. 
+Cela peut par exemple inclure l'hébergement et le convoyage de 
+relayeurs/euses, le port de badge ou vêtements à notre logo, etc...
+Comment participer?
+Plusieurs niveaux de participation sont possibles. Nous serons nombreux 
+à rouler ou marcher, un jour, une semaine ou plus. Chacun peut aussi 
+participer à l'organisation de l'évènement, par exemple en constituant 
+des comités locaux d'organisation dans chaque étape. Pour présenter une 
+argumentation solide lors des débats, il faudra aussi collecter et 
+analyser les chiffres de l'état et de la contribution de l'ESR à 
+l'activité économique en France. Et peut-être aussi réaliser de courtes 
+vidéos pour illustrer la contribution à la société de toutes les 
+sciences fondamentales, appliquées et industrielles, et pour montrer la 
+réalité des métiers de la recherche. Laissons éclater notre imagination, 
+suggérons des actions, et tous ensemble nous aurons des ailes!
+Vous pouvez vous inscrire et vous informer sur le web 
+(www.sciencesenmarche.org), nous suivre sur Twitter (@SciencesEnMarche) 
+et Facebook (www.facebook.com/SciencesEnMarche). Vous pouvez aussi nous 
+contacter directement par mail: contact@sciencesenmarche.org
+Comité d'organisation de Sciences en Marche à Montpellier (liste des 
+membres sur le site web).
+Patrick Lemaire
+CRBM
+1919 Route de Mende
+F-34293 MONTPELLIER Cédex 5
+France
+http://www.crbm.cnrs.fr/index.php/en/patrick-lemaire-uk
+email: patrick.lemaire@crbm.cnrs.fr

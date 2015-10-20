@@ -1,0 +1,97 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Claire.Hoede@toulouse.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 420FF26801D
+	for <bioinfo@sfbi.fr>; Fri,  5 Sep 2014 10:28:39 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArUBAARzCVSTY2tznGdsb2JhbAA/GoNgVwHIVIdMAYEfEAEBAQEBCAsJCRQphAQBBQwmAQUbIQQRLBYPCQMCAQIBRRMGAgEBGIgmDTa9To5rEQFXhEwFlW6IWYVekASBSGoBgQ6BQAEBAQ
+X-IPAS-Result: ArUBAARzCVSTY2tznGdsb2JhbAA/GoNgVwHIVIdMAYEfEAEBAQEBCAsJCRQphAQBBQwmAQUbIQQRLBYPCQMCAQIBRRMGAgEBGIgmDTa9To5rEQFXhEwFlW6IWYVekASBSGoBgQ6BQAEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,471,1406584800"; 
+   d="scan'208";a="63837136"
+Received: from mx.toulouse.inra.fr (HELO yang.toulouse.inra.fr) ([147.99.107.115])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Sep 2014 10:28:38 +0200
+Received: from [147.99.96.169] (pavots.toulouse.inra.fr [147.99.96.169])
+	(authenticated bits=0)
+	by yang.toulouse.inra.fr (/8.14.4) with ESMTP id s858SbsC009114
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <bioinfo@sfbi.fr>; Fri, 5 Sep 2014 10:28:38 +0200 (CEST)
+Message-ID: <54097435.9050101@toulouse.inra.fr>
+Date: Fri, 05 Sep 2014 10:28:37 +0200
+From: Claire Hoede <Claire.Hoede@toulouse.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <5409737C.7010408@toulouse.inra.fr>
+In-Reply-To: <5409737C.7010408@toulouse.inra.fr>
+X-Forwarded-Message-Id: <5409737C.7010408@toulouse.inra.fr>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at yang with ID 54097435.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54097435.000/147.99.96.169/pavots.toulouse.inra.fr/[147.99.96.169]/<Claire.Hoede@toulouse.inra.fr>
+X-j-chkmail-Score: MSGID : 54097435.000 on yang.toulouse.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.015 -> S=0.015
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at yang
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Prochains cycles d'apprentissage =?WINDOWS-1252?Q?organis=E9s?= par la plateforme Bioinfo Genotoul et l'=?WINDOWS-1252?Q?=E9quipe?= Sigenae.
+Chers collègues,
+(Désolée pour les éventuels doublons.)
+La plateforme bioinfo Genotoul organise en collaboration avec l'équipe 
+Sigenae plusieurs cycles d'apprentissage cet automne.
+Du 3 au 6 novembre 2014 : *Galaxy training days* : 4 jours indivisibles 
+de formation aux traitements de données des séquenceurs haut débit sous 
+environnement Galaxy.
+Après une initiation à l'environnement Galaxy, cette formation vous 
+permettra d'effectuer un alignement de séquences, la recherche de 
+polymorphisme et l'analyse de données RNA-Seq sous environnement Galaxy. 
+Ce cycle ne nécessite aucune connaissance préalable en ligne de commande.
+Du 1er au 3 décembre : *RNA-Seq de novo assembly* : 2 jours et demi 
+indivisibles consacrés à l'assemblage de novo des données de 
+transcriptome de novo obtenues grâce aux nouvelles technologies de 
+séquençage.
+Vous apprendrez comment vérifier la qualité des données et pré-traiter 
+les lectures en conséquences, comment fonctionne un assembleur et 
+comment l'utiliser sur ce type de données. Enfin, ce stage vous donnera 
+des clefs pour appréhender la qualité d'un assemblage et choisir le 
+meilleur.
+Du 8 au 10 décembre : *Phylogénie et évolution de séquences* : 3 
+journées divisibles constituées de 4 modules indépendants.
+Module 1 (8 déc.) : Initiation à l'alignement de séquences et à la 
+phylogénie. Aucun pré-requis n'est nécessaire. Public visé : biologistes 
+et bioinformaticiens souhaitant s'initier à l'analyse phylogénétique.
+Module 2 (9 déc.) : Présentation est mise en oeuvre de différentes 
+méthodes de construction d'arbres phylogénétiques. Public visé : 
+biologistes avertis en ligne de commandes et bioinformaticiens 
+souhaitant découvrir l'analyse phylogénétique. Pré-requis : Savoir 
+générer et interpréter un alignement de séquences.
+Module 3 (10 déc. au matin) : Présentation et mise en oeuvre de méthodes 
+de phylogénomique. Public visé : biologistes avertis en ligne de 
+commandes et bioinformaticiens souhaitant découvrir l'analyse 
+phylogénétique. Pré-requis : Savoir générer et interpréter un alignement 
+de séquences, connaître les principaux modèles évolutifs et les méthodes 
+de constructions d'arbres phylogénétiques.
+Module 4 (10 déc. après-midi) : Présentation et mise en oeuvre de 
+méthodes de détection de pression de sélection. Public visé : 
+biologistes avertis en ligne de commandes et bioinformaticiens 
+souhaitant découvrir l'analyse phylogénétique. Pré-requis : Savoir 
+générer et interpréter un alignement de séquences, connaître les 
+principaux modèles évolutifs et les méthodes de constructions d'arbres 
+phylogénétiques.
+Ces formations sont organisées sur le site de l'INRA de Toulouse Auzeville.
+Toutes les informations sont sur notre site web : 
+http://bioinfo.genotoul.fr/index.php?id=10
+Les tarifs sont disponibles ici : 
+http://bioinfo.genotoul.fr/index.php?id=115
+Cordialement,
+Claire Hoede
+-- 
+Claire Hoede
+INRA, MIAT & PF GenoToul Bioinfo
+24 Chemin de Borde Rouge - Auzeville
+CS 52 627
+31326 Castanet Tolosan cedex
+Tel : 33 (0) 5 61 28 53 05
+email :Claire.Hoede@toulouse.inra.fr
+web :http://bioinfo.genotoul.fr  

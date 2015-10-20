@@ -1,0 +1,79 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <franck.giacomoni@clermont.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id D99C526801D
+	for <bioinfo@sfbi.fr>; Mon,  7 Apr 2014 10:41:53 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Am8CAG9kQlOTY5/ymWdsb2JhbABZAYNAiX28FBYOAQEBAQEICwsHFCiCXgEFQD0WCBADAgECATQkBgIBAYd1DZoIsS0Xjhp0hCIEnyyPIIFo
+X-IronPort-AV: E=Sophos;i="4.97,808,1389740400"; 
+   d="scan'208";a="56634021"
+Received: from hyperion.clermont.inra.fr ([147.99.159.242])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Apr 2014 10:41:27 +0200
+Received: from [147.99.132.198] ([147.99.132.198])
+	(authenticated bits=0)
+	by hyperion.clermont.inra.fr (/8.14.4) with ESMTP id s378fPAC002712
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Mon, 7 Apr 2014 10:41:25 +0200 (CEST)
+Message-ID: <534264B5.3040800@clermont.inra.fr>
+Date: Mon, 07 Apr 2014 10:41:25 +0200
+From: fgiacomoni inra <franck.giacomoni@clermont.inra.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at hyperion with ID 534264B5.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 534264B5.000/147.99.132.198/[147.99.132.198]/[147.99.132.198]/<franck.giacomoni@clermont.inra.fr>
+X-j-chkmail-Score: MSGID : 534264B5.000 on hyperion.clermont.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.059 -> S=0.072
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at hyperion
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Atelier Galaxy4Metabolomics - 8 JS RFMF - Lyon 19 mai 2014
+Dans le cadre des 8ème journées scientifiques du réseau Français de 
+Métabolomique et de Fluxomique, l'Infrastructure Nationale de 
+Métabolomique (MetaboHUB) et l'Institut Français de Bioinformatique 
+(IFB) propose un atelier le 19 mai à 10h intitulé :
+"Initiation au traitement et à l'analyse des données métabolomiques sur 
+la plateforme scientifique web Galaxy IFB-MetaboHUB."
+L'atelier s'adresse en priorité aux expérimentateurs souhaitant analyser 
+leurs données ; les modules de traitement actuellement implémentés 
+concernent uniquement les données LC-MS mais les modules d'analyses 
+statistiques peuvent également s'étendre aux données de RMN. La 
+participation à cet atelier nécessite des connaissances de base sur les 
+étapes du traitement et de l'analyse des données métabolomiques.
+L'atelier souhaite proposer aux participants une expérience de premier 
+niveau de la plateforme web Galaxy, apporter des connaissances sur les 
+fonctionnalités de gestion de workflows et sur l'enchainement des étapes 
+de traitement et d'analyse (depuis la donnée brute jusqu'à l'annotation) 
+sur la plateforme Galaxy IFB-MetaboHUB.
+- Lieu et date de l'atelier  : Lyon, lundi 19 mai 2014 - 10h . Salle 
+informatique sur le site des 8 JS RFMF Campus INSA, Villeurbanne.
+- Durée de l'atelier : 3 h.
+- Inscription : https://colloque.inra.fr/8_js_rfmf_lyon_2014/Inscription
+- Nombre de places : limité à 34 participants.
+Merci d'avance pour votre participation,
+Les organisateurs,
+M. Landi, C. Duperier, M. Petera, F. Giacomoni (PF INRA PFEM)
+E. Thévenot (CEA, LIST)
+D. Jacob (PF INRA METABOLOME)
+M. Tremblay-Franco, JF. Martin (PF INRA AXIOM)
+G. Le Corguillé, M. Monsoor, S. Goulitquer,  C. Caron (PF CNRS ABIMS)
+-- 
+franck
+INRA <http://www.inra.fr>
+*Franck GIACOMONI*
+*Human Nutrition Unit - 'Metabolism Exploration Platform'*
+*Biological computing & Metabolomics*
+franck.giacomoni@clermont.inra.fr 
+<mailto:franck.giacomoni@clermont.inra.fr>
+Tel. : +33 1 (0)4 73 62 47 72
+*Centre de recherche de Clermont-Theix-Lyon*
+63122 Saint Genès-Champanelle
+France
+Site web INRA <http://www.inra.fr>
+Site web de la PFEM 
+<www.clermont.inra.fr/plateforme_exploration_metabolisme>
+Site web acces PFEM-LIMS <http://pfem-lims.clermont.inra.fr/session/new>

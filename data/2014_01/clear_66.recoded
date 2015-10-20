@@ -1,0 +1,62 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <catherine.matias@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 449D826801D
+	for <bioinfo@sfbi.fr>; Thu, 23 Jan 2014 10:38:31 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmYBABni4FLRVdsrm2dsb2JhbABBGhaDLlaCfrl8CBYOAQEBAQEGCwsJFCiCTx0BMwYDDQUQDwImAiQSAQUBiCYDEQ02mT+DCIwJg1ySNScNhWcBBQyBHY1wglmBSQSYIoEyjnkYKYFlgnU7
+X-IronPort-AV: E=Sophos;i="4.95,705,1384297200"; 
+   d="scan'208";a="52811585"
+Received: from mail-oa0-f43.google.com ([209.85.219.43])
+  by b-mx1.relay.syrhano.net with ESMTP; 23 Jan 2014 10:38:30 +0100
+Received: by mail-oa0-f43.google.com with SMTP id h16so1852550oag.30
+        for <bioinfo@sfbi.fr>; Thu, 23 Jan 2014 01:38:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=Bdm2hJt5ptz9JrXWtpsXBJEuFGbbwiz8G/a4JyZb9XQ=;
+        b=uey3M1I2t/+/A+rLyMpPpJ3lADITNh6tE34cMgxB+6enOnUoGBIdXQNrF2vfjEm3qF
+         koVglG/5wsZOWyZZ393d1OrL1WtgZ90HKZOuE7f3DFR1twK2Xgx3O88qEijNmP3fjisY
+         LWhyDu6kQAQ9QWLkjrtpbEgRItGx+7ddecFvTRWHhqquETI/LKhnxB9eqLy7sNsQxmvW
+         quNQrZMJLCozP9ECSO1321gyFfkqX/lucjjcWtjka/HPAebZbJr6x6j1MPvythUBKP/B
+         q2wTJ0Ht/Fl2+Yv/K2VwZeuuLYZKfFSPIlNv7kE8GJ4iW8zhvcd02GwiSOH8Zkbc0ZQp
+         IQGg=
+MIME-Version: 1.0
+X-Received: by 10.182.243.161 with SMTP id wz1mr5880722obc.10.1390469909329;
+ Thu, 23 Jan 2014 01:38:29 -0800 (PST)
+Sender: catherine.matias@gmail.com
+Received: by 10.76.180.103 with HTTP; Thu, 23 Jan 2014 01:38:28 -0800 (PST)
+Date: Thu, 23 Jan 2014 10:38:28 +0100
+X-Google-Sender-Auth: OXZyeV_n1-GyH4y2H9HuEPXEh1M
+Message-ID: <CAHPspHZdjxER9K65U40_SXTcCt83V=n0TTaw-oYmE6TULXLShw@mail.gmail.com>
+From: Catherine Matias <catherine.matias@genopole.cnrs.fr>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Formations Statistiques avec R
+Bonjour,
+Le laboratoire Statistique et Génome et CNRS Formation Entreprises
+organisent conjointement deux formations à la Statistique avec R :
+Bases statistiques et tests d'hypothèses avec R
+http://cnrsformation.cnrs.fr/stage.php?stage=3D14221&axe=3D46,62
+du lundi 07/04/2014 au mercredi 09/04/2014, à Gif-sur-Yvette (rég
+ion parisienne)
+Outils de statistique non paramétrique avec R
+http://cnrsformation.cnrs.fr/stage.php?stage=3D14220&axe=3D46,62
+du lundi 23/06/2014 au mercredi 25/06/2014, à Gif-sur-Yvette (rég
+ion parisienne)
+Ces stages s'adressent aux chercheurs, ingénieurs et techniciens des
+entreprises et des services publics, confrontés à l'analyse
+statistique de données, en particulier dans les domaines de la
+biologie et la médecine.
+Toutes les informations sont disponibles sur le site
+http://cnrsformation.cnrs.fr/
+dans la rubrique "Bioinformatique".
+Merci de diffuser largement ce message autour de vous.
+--
+Catherine Matias
+http://stat.genopole.cnrs.fr/~cmatias

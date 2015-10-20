@@ -1,0 +1,25 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 206E126801D; Sat, 14 Jun 2014 17:45:00 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: Alessandra Carbone <alessandra.carbone@lip6.fr>
+Message-ID: <sympa.1402760429.23087.23@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Sat, 14 Jun 2014 17:45:00 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] postdoc position at Laboratory of Computational and Quantitative Biology - Paris
+We are interested in finding an excellent postdoc with interests in protein functional annotation, machine learning and computer grids. The position is open for 3.5 years at UPMC, in the heart of paris.
+Research topic: Protein function annotation, multiple probabilistic models, domain architecture, machine learning, combinatorial optimization, computer grid. 	
+Title: A novel integrative platform for large scale protein annotation that exploits a multitude of diversified probabilistic models in several protein signature databases.							
+Abstract: Precise genome annotations are a gold mine for biologists that use them to identify proteins involved in biological processes. Databases of protein domains and functional sites are vital resources to provide functional analysis for these new proteins. Most of databases describe known domains with probabilistic models representing consensus among all domain sequences, while only a few ones associate to each protein domain family different probabilistic models, built from a sample of diversified homologous sequences. In the attempt of unifying the annotation process and providing a more accurate tool, integrative approaches combine different types of protein signatures from multiple databases into a single searchable resource. However, the increasing number of proteins with no annotation, present in highly divergent genomes, and the large number of erroneous annotations produced by current tools ask for the development of innovative solutions.
+      We propose a novel integrated approach for large scale protein annotation that will exploit an unprecedented amount of genomic data as well as sophisticated machine learning techniques and combinatorial optimization approaches taking advantages of High Performance Computing (HPC) environments. The idea is to uncover as much as possible the evolutionary processes of protein sequences that took place throughout the whole tree of life and that affected the evolution of a protein family. We have already demonstrated in a previous work that the problem of functional annotation is inherent to the ability of uncovering such paths. Now, we shall extend this approach to large scale genome annotation by considering 11 different protein databases, constituted by about 10^9 protein sequences, and by producing a large pool of diversified probabilistic models coding for about 107 evolutionary protein pathways. Such models will be used to search for specific domains in genomes to be annotated. Our previous methodology needs to be fundamentally improved to deal with this large amount of biological data. In this project, we shall work on the algorithms to reduce the space of models and the search complexity, and we shall implement some important algorithmic changes towards the realization of a powerful integrated annotation tool.
+Where: This project is run on the Laboratoire de Biologie Computationnelle et Quantitative UMR7238 CNRS-UPMC  -  Analytical Genomics team, headed by A.Carbone. It is co-advised with Pierre-Henri Wuillemin, Laboratoire d'Informatique de Paris 6  -  Equipe DECISION. 
+Information about the lab can be found at: http://www.lcqb.upmc.fr/
+Period: The postdoc will be payed under a contract of Ingénieur de Recherche lasting 3.5 years and it is available from september 1st, 2014.
+Contact: Alessandra Carbone at alessandra.carbone@lip6.fr

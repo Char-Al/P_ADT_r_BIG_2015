@@ -1,0 +1,29 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 5610D26801D; Wed,  2 Apr 2014 11:54:41 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: samuelapn@gmail.com
+Message-ID: <sympa.1396432444.405.701@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Wed,  2 Apr 2014 11:54:41 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Proposition sujet these
+Ph.D. thesis proposal
+PREDICTING 3D RNA and RNA/PROTEIN STRUCTURES AND DYNAMICS FROM SEQUENCES AND LIMITED EXPERIMENTAL DATA 
+Hosting lab: Laboratoire de Biochimie Théorique, UPR9080 CNRS, Paris, France
+Thesis directors : Derreumaux Philippe, Pasquali Samuela
+Contacts: samuela.pasquali@ibpc.fr, +33 [0]1 58 41 51 69
+Project description
+Predicting the 3D structures and dynamics of RNA, and RNA/Protein assemblies is a real challenge by experimental and computational means. We propose to develop a multi-scale computer program, integrating sparse experimental data when available, to deliver accurate high-resolution structures of these systems. 
+In recent years we have developed a simplified, coarse-grained model (Hire-RNA) to address the question of RNA and DNA folding. Similarly, we have a coarse-grained model for proteins. The goal of this thesis is first to couple both force fields with accurate treatment of ions essential for the thermodynamics of RNA. Then the aim is to develop a multi-scale program based on advanced conformational sampling tools such as simulated tempering and interactive molecular dynamics simulations to predict the 3D structures and dynamics of single and multiple RNA molecules, and RNA/Protein complexes either solely from the sequences or using low resolution and sparse experimental data, such as 1D and 2D NMR, SAXS, Cryo-EM, SHAPE, etc..
+Profile description
+We are looking for a candidate with a Matster degree in biophysics, physical chemistry or bioinformatics, with good programming skills (C, C++, Fortran, Python) and with a solid theoretical background on molecular modelling.
+Supported by the hosting laboratory, the candidate will apply for funding to the French Government graduate studies grant at the graduate school : "Médicament, Toxicologie, Chimie, Imageries" for which he/she will have to give an oral presentation on the project on May 27th or 28th, in Paris.
+Deadine
+Please send a complete CV, 2 letters of recommendation as well as a list of the courses followed in 2013-2014 with grades and possibly ranking to samuela.pasquali@ibpc.fr before april 30th.

@@ -1,0 +1,102 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Marie-France.Sagot@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C40E826801D
+	for <bioinfo@sfbi.fr>; Wed, 16 Jul 2014 12:40:16 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsoFAGJVxlPAhqRTf2dsb2JhbABZg2BYwiAKhzwEgRQWDwEBCwsKCBQohCdMAQeBbogtDaMqkk+UUxeMHIVsD0QkgRYFmxyBTIoHilaBRA
+X-IronPort-AV: E=Sophos;i="5.01,671,1400018400"; 
+   d="scan'208";a="61835698"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by b-mx1.relay.syrhano.net with ESMTP; 16 Jul 2014 12:40:16 +0200
+X-IronPort-AV: E=Sophos;i="5.01,671,1400018400"; 
+   d="scan'208";a="85403316"
+Received: from umr5558-borealis-port.univ-lyon1.fr ([134.214.32.122])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/AES128-SHA; 16 Jul 2014 12:40:15 +0200
+From: Marie-France Sagot <Marie-France.Sagot@inria.fr>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <BA70AB3E-5665-49B2-AC6C-6485ED2EADAA@inria.fr>
+Date: Wed, 16 Jul 2014 12:40:15 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Registration now open for School ADDICTION, 16-21 November 2014, Lisbon (Portugal)
+***************************************************************************
+*****
+                       !!!REGISTRATION IS NOW OPEN!!!
+                                         ADDICTION
+                                  International School on
+ADdressing DIfficult problems in a Computationally Tractable fashION
+                                with a special interest in
+                                 computational biology
+                   Lisbon (Portugal), 16-21 November 2014
+            http://team.inria.fr/bamboo/en/events/school-addiction/
+***************************************************************************
+*****
+                             CALL FOR PARTICIPATION
+***************************************************************************
+*****
+GENERAL INFORMATION ABOUT ADDICTION
+*******************************************************
+ADDICTION is the second international event organised by the Inria
+AMICI International Partnership (http://team.inria.fr/bamboo/amici/).
+Its focus is on:
+- smart data structures;
+- algorithm engineering and experimental algorithms;
+- probabilistic algorithms;
+- (M)ILP approaches simple and enumerative.
+On the application side there will be a special interest in computational
+biology. The School is addressed to young researchers at the PhD
+student or postdoc level, but may, depending on space, greet other
+interested participants. The scope of ADDICTION is international.
+COURSES AND LECTURERS
+***********************************
+The school features the following four lecturers:
+* Friedrich Eisenbrandt (EPFL, Switzerland)
+* Giuseppe Italiano (University of Rome "Tor Vergata", Italy)
+* Kurt Melhorn (Max-Planck-Institute f=FCr Informatik at
+Saarbr=FCcken, Germany)
+* Eli Upfal (Brown University, USA)
+LOCATION
+*************
+ADDICTION will be held at the Olissippo Marquês de S=E1 hotel,
+in Lisbon, Portugal. The hotel is a 2-minutes walk away from the
+Calouste Gulbenkian Museum and its beautiful park. It is located
+just between two of the main Metro lines of Lisbon.
+Situated on the west coast of the country, where the Tagus river
+meets the Atlantic Ocean, Lisbon is the western-most capital in
+mainland Europe. It is known as the white city, thanks to its unique
+luminosity. The light, the atmosphere and the climate offer
+marvelous walks all over the city. Lisbon is extremely lively,
+with a wealth of cultural events happening every day, and a vibrant
+nightlife. A huge selection of restaurants is available, featuring
+Portuguese and international cuisine.
+Lisbon can be easily reached by daily direct flights from major
+international cities.
+ORGANISATION
+********************
+Scientific directors:
+* Pierluigi Crescenzi (University of Florence, Italy)
+* Alberto Marchetti-Spaccamela (University of Rome I, Italy)
+* Marie-France Sagot (Inria and University of Lyon 1, France)
+* Leen Stougie (Free University Amsterdam and CWI, Netherlands)
+Organisation:
+* Florence Bouheddi and Marie-France Sagot (Inria), with the
+ help of Susana Vinga (IDMEC-IST, Lisbon)
+REGISTER EARLY TO SAVE!
+***********************************
+Prospective participants should register by September 20, 2014.
+The form is available on the school web site:
+http://team.inria.fr/bamboo/en/events/school-addiction/.
+The early registration fee is 250 euros for PhD students and 300
+euros for postdocs or other researchers. These fees cover access
+to the school, mid-day meals, coffee breaks and gala dinner.
+Accommodation can be provided by the hotel at a preferential rate
+until a date that will be indicated on the school website.
+After September 20, 2014, depending on space, registration will
+remain possible but the fees will be at the higher rate of 300 euros
+for PhD students and 350 euros for postdocs or other researchers.

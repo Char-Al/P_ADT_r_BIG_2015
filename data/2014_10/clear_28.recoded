@@ -1,0 +1,89 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <olivier.collin@irisa.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 011B526801D
+	for <bioinfo@sfbi.fr>; Fri, 10 Oct 2014 14:46:30 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Al0CAFvUN1TAhqRTf2dsb2JhbABgg2FZwXqJVohXFgERAQEJDQoIFCyEFiYBBUAwDRYYAwIBAgE3ASAIAQGIOg2eHKRvjQaCZ3SENQWGLYxTgzuHEIFqimqLBEeBazuBNoFDAQEB
+X-IPAS-Result: Al0CAFvUN1TAhqRTf2dsb2JhbABgg2FZwXqJVohXFgERAQEJDQoIFCyEFiYBBUAwDRYYAwIBAgE3ASAIAQGIOg2eHKRvjQaCZ3SENQWGLYxTgzuHEIFqimqLBEeBazuBNoFDAQEB
+X-IronPort-AV: E=Sophos;i="5.04,692,1406584800"; 
+   d="scan'208";a="74541882"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Oct 2014 14:46:30 +0200
+From: Olivier Collin <olivier.collin@irisa.fr>
+X-IronPort-AV: E=Sophos;i="5.04,692,1406584800"; 
+   d="scan'208";a="100443453"
+Received: from 89-93-158-201.hfc.dyn.abo.bbox.fr (HELO [192.168.1.5]) ([89.93.158.201])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 10 Oct 2014 14:46:29 +0200
+Message-ID: <5437D524.8020102@irisa.fr>
+Date: Fri, 10 Oct 2014 14:46:28 +0200
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Tutoriel Cloud computing pour la Biologie : 6 novembre 2014 - Rennes
+Cloud computing pour la Biologie - Institut Français de Bioinformatique
+Date: 6 novembre 2014, 9h30-17h30
+L'Institut Français de Bioinformatique et la plate-forme GenOuest 
+organisent une formation d'initiation à lutilisation du cloud computing 
+pour l'analyse de données biologiques avec les outils usuels de 
+bioinformatique.
+Cette formation abordera les concepts et principes généraux du cloud, 
+ainsi que la description des outils, des usages et de son intérêt pour 
+la Bioinformatique. Une partie pratique sera effectuée par les 
+participants sur les clouds concernés par la session (IFB-core ou 
+Genocloud).
+L'inscription est gratuite mais obligatoire en remplissant le formulaire 
+à l'adresse suivante : http://registration.genouest.org/?ee=23
+Le nombre de place est limité à 30. Si le nombre de participants venait 
+à dépasser ce nombre, n'hésitez pas à nous écrire pour que nous 
+puissions planifier une autre session.
+Ce tutoriel est soutenu par l'Institut Français de Bioinformatique - IFB.
+Cordialement,
+Christophe Blanchet et Olivier Collin
+Programme :
+## Date: 6 novembre 2014, 9h30-17h30
+Lieu: IRISA/INRIA - Campus de Beaulieu - Campus universitaire de 
+Beaulieu - 263 Avenue du Général Leclerc - 35000 Rennes
+Salle Markov
+## Formateurs
+Christophe BLANCHET (IFB-core)
+Olivier COLLIN (GenOuest)
+Charles LOOMIS (LAL)
+Cyril MONJEAUD (GenOuest)
+Olivier SALLOU (GenOuest)
+## Programme
+(chaque session comprendra une partie théorique et une mise en 
+application sur les clouds académiques en production à IFB-core, GenOuest )
+Pré-requis généraux : Venir avec un ordinateur avec un navigateur web 
+récent.
+9h00: Accueil
+9h30: Cloud computing: principes généraux et exemple de StratusLab (C. 
+Loomis)
+Pré-requis : pour ceux qui le souhaiteront, il sera possible de 
+pratiquer StratusLab à l'aide du client en commande ligne. Pour cela il 
+faudra que vous ayez sur votre ordinateur le client StratusLab et les 
+composants nécessaires [détails installation du client StratusLab], et 
+un navigateur web récent. Une machine Linux ou Mac est préférée, mais 
+une machine Windows est acceptable.
+11h00: pause café
+11h30: Cloud pour la biologie: exemples des clouds IFB-core (C. Blanchet, C.
+Gauthey) et GenOuest (O. Sallou, C. Monjeaud).
+13h00: repas
+14h00: Exemples d'applications de cloud en NGS (Galaxy), protéomique et
+analyse intensive de séquences avec Hadoop MapReduce
+Pré-requis : installer le client X2Go [détails]
+15h30: pause café
+16h00: Perspectives et cas d'usage de la salle (Tous)
+17h30: fin du tutoriel
+-- 
+--------------------------------------------------------
+Olivier Collin - Plate-forme GenOuest
+IRISA-INRIA, Campus de Beaulieu
+35042 Rennes cedex, France
+Tél:   +33 (0) 2 99 84 72 78
+Fax:   +33 (0) 2 99 84 71 71

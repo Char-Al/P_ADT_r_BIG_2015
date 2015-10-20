@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 8CA4226801D
+	for <bioinfo@sfbi.fr>; Tue, 21 Oct 2014 12:00:16 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArwBAMQjRlSKZqI0nGdsb2JhbABcg2FYAYMFyRiIcAERAQEBAQEICwkJFC6ELBAFESsIDiQCJgISLBAkiD8Nnx6PO4F0jH+GKYEsjkMRAW2CYYFUBYEwtBMBAQgBAQEBX4FFaoEPgTwBAQE
+X-IPAS-Result: ArwBAMQjRlSKZqI0nGdsb2JhbABcg2FYAYMFyRiIcAERAQEBAQEICwkJFC6ELBAFESsIDiQCJgISLBAkiD8Nnx6PO4F0jH+GKYEsjkMRAW2CYYFUBYEwtBMBAQgBAQEBX4FFaoEPgTwBAQE
+X-IronPort-AV: E=Sophos;i="5.04,761,1406584800"; 
+   d="scan'208";a="75240607"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Oct 2014 12:00:15 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s9LA0FsO003873
+	for <bioinfo@sfbi.fr>; Tue, 21 Oct 2014 12:00:15 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 732DC296B9F
+	for <bioinfo@sfbi.fr>; Tue, 21 Oct 2014 12:00:15 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XgWGi-0009DB-2H
+	for bioinfo@sfbi.fr; Tue, 21 Oct 2014 12:02:20 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XgWGi-0009DB-2H@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 21 Oct 2014 12:02:20 +0200
+X-Miltered: at beta with ID 54462EAF.00B by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54462EAF.00B/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54462EAF.00B on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.298 -> S=0.395
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] =?UTF-8?Q?D=C3=A9veloppement?= de =?UTF-8?Q?m=C3=A9thode?= in s  ilico pour la =?UTF-8?Q?pr=C3=A9diction?= des piARNs
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Développement de méthode in silico pour la prédiction  
+des piARNs
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Evry
+Nom du contact : Fariza TAHI
+Email du contact : tahi@ibisc.univ-evry.fr
+Laboratoire : IBISC
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/d%C3%A9veloppement-de-m%C3%A9thode-silico-pour-la-pr%C3%A9diction-des-piarns

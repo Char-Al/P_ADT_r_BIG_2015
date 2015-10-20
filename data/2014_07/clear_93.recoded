@@ -1,0 +1,67 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=282929c96=virginie.bernard@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 9AC2E26801D
+	for <bioinfo@sfbi.fr>; Thu, 31 Jul 2014 17:14:39 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvQCABxc2lPBMc0knGdsb2JhbABag2BXAQOCdMg4iFIWEAEBAQEBCAsJCRQphC0PAQ0BAQcvAjQCBRYLAgsDAgECAUsNBgICiD4ECaVad4UCAQWSYAaBLI0+EQFtgmOBUQGbaIcekQBqgQw5
+X-IronPort-AV: E=Sophos;i="5.01,772,1400018400"; 
+   d="scan'208";a="70905713"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 31 Jul 2014 17:14:38 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1406819678; x=1438355678;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=/7bHkGaf98D/T5zUNJr7fH5QysXCyzWRgGKXJUpeYUc=;
+  b=O6AQAToZXD/kEwttmDgR6Tj0BAbxKBd26QbP9+HyFZvHRW6ajesixhd1
+   +pX3wuy3IXyWQn2X1h5UZfzHU5ny7Q==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlYJAApd2lOBrzsk/2dsb2JhbABZgw4BUVcBA4J0yCkPiFMWd4QtDwENAQEHLwI0AgUWCwILAwIBAgFLDQYCAog+DaYCd4UCAQWSYAaBLI0+EQFtgmOBUQGbaIcejTWDSzsvgQw5
+X-IPAS-Result: AlYJAApd2lOBrzsk/2dsb2JhbABZgw4BUVcBA4J0yCkPiFMWd4QtDwENAQEHLwI0AgUWCwILAwIBAgFLDQYCAog+DaYCd4UCAQWSYAaBLI0+EQFtgmOBUQGbaIcejTWDSzsvgQw5
+X-IronPort-AV: E=Sophos;i="5.01,772,1400018400"; 
+   d="scan'208";a="28925886"
+Received: from cip02-in.curie.u-psud.fr ([129.175.59.36])
+  by cip01-in.curie.fr with ESMTP; 31 Jul 2014 17:14:37 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1406819677; x=1438355677;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=/7bHkGaf98D/T5zUNJr7fH5QysXCyzWRgGKXJUpeYUc=;
+  b=e7zyGHhJbjqa86HJVOZ/jefiBnmULbry7fanXmkaaRai6NYeCCh1KMq1
+   FJcJ2v0UwROifHxx87zx40qJfuMKNA==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AogIAApd2lMKAgBG/2dsb2JhbABZg2BXAQOCdMgpD4hpd4QtDwEWLzYCBRYLAgsDAgECAUsNBgICiEumeZdugSyNPhEBbYJjgVEFm2SHHpEAaoEMOQ
+X-IPAS-Result: AogIAApd2lMKAgBG/2dsb2JhbABZg2BXAQOCdMgpD4hpd4QtDwEWLzYCBRYLAgsDAgECAUsNBgICiEumeZdugSyNPhEBbYJjgVEFm2SHHpEAaoEMOQ
+X-IronPort-AV: E=Sophos;i="5.01,772,1400018400"; 
+   d="scan'208";a="5000066"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip02-in.curie.u-psud.fr with ESMTP; 31 Jul 2014 17:14:37 +0200
+Received: from [10.200.10.123] (10.200.10.123) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.3.174.1; Thu, 31 Jul 2014 17:14:37
+ +0200
+Message-ID: <53DA5D5C.9060409@curie.fr>
+Date: Thu, 31 Jul 2014 17:14:36 +0200
+From: Virginie Bernard <vbernard@curie.fr>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.24) Gecko/20111120 Icedove/3.1.16
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.123]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Bioinformatician
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformatician
+Type de poste : Post-doc / IR
+Durée du poste : 36 mois
+Ville : Heidelberg
+Nom du contact : Eileen Furlong
+Email du contact : furlong@embl.de
+Laboratoire : EMBL - Furlong Lab
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/bioinformatician-6

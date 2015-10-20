@@ -1,0 +1,85 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <jpellet@eisbm.org>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C5E7526801D
+	for <bioinfo@sfbi.fr>; Thu,  8 May 2014 16:16:59 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AosBAKWRa1PZRrfGnGdsb2JhbABZg1VYjWG5ExYOAQEBAQEGDQkJFCiDF4okCZwOs3UXjWWBCoMUgRUEhUmTb4E8hSmPTmuBQg
+X-IronPort-AV: E=Sophos;i="4.97,1010,1389740400"; 
+   d="scan'208";a="58218262"
+Received: from relay6-d.mail.gandi.net ([217.70.183.198])
+  by b-mx1.relay.syrhano.net with ESMTP; 08 May 2014 16:16:58 +0200
+Received: from mfilter8-d.gandi.net (mfilter8-d.gandi.net [217.70.178.137])
+	by relay6-d.mail.gandi.net (Postfix) with ESMTP id 5D364FB8B3
+	for <bioinfo@sfbi.fr>; Thu,  8 May 2014 16:16:58 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mfilter8-d.gandi.net
+Received: from relay6-d.mail.gandi.net ([217.70.183.198])
+	by mfilter8-d.gandi.net (mfilter8-d.gandi.net [10.0.15.180]) (amavisd-new, port 10024)
+	with ESMTP id uwOT-qKVcdOU for <bioinfo@sfbi.fr>;
+	Thu,  8 May 2014 16:16:56 +0200 (CEST)
+X-Originating-IP: 82.225.233.7
+Received: from [192.168.0.15] (vai69-2-82-225-233-7.fbx.proxad.net [82.225.233.7])
+	(Authenticated sender: jpellet@eisbm.org)
+	by relay6-d.mail.gandi.net (Postfix) with ESMTPSA id 5F996FB8A1
+	for <bioinfo@sfbi.fr>; Thu,  8 May 2014 16:16:56 +0200 (CEST)
+From: Johann Pellet <jpellet@eisbm.org>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <916C9C91-FD54-44D9-BF83-E97D30024A19@eisbm.org>
+Date: Thu, 8 May 2014 16:16:53 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] EISBM symposium 2014 - Lyon, 25
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+EISBM Symposium on Systems Medicine: Pioneers of Health and Wellness
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Dates:    25 June 2014
+Location: Lyon, France
+Website:  http://symposium.eisbm.org/
+---------------------------------------------------------------------------
+--------
+REGISTRATION
+Register online via http://symposium.eisbm.org/register.html
+The registration is free but mandatory.
+PROGRAM
+Session 1 - The Road from Systems Biology to Systems Medicine with the foll
+owing speakers:
+Charles AUFFRAY, Ines THIELE, Vincent LOTTEAU
+Session 2   Revolutionizing Healthcare and Wellness through P4 Medicine w
+ith the following speakers:
+Leroy HOOD, Jesper TEGNER
+Session 3   Systems Medicine of Respiratory Diseases with the following s
+peakers:
+Fan CHUNG, Antoine MAGNAN, Ab OSTERHAUS
+Theme 4   Systems Medicine for Personalized Healthcare and Healthy Aging 
+with the following speakers:
+Martine LAVILLE, Olaf DAMMANN, Manlio VINCIGUERRA
+---------------------------------------------------------------------------
+--------
+ABOUT
+Come to  Lyon to listen to the Pioneers of Health and Wellness and how they
+ are triggering the advent of Participatory, Personalized, Predictive and P
+reventive (P4) Medicine. The 2014 EISBM Symposium will be a unique opportun
+ity to discuss the formation of an International Network of Systems Medicin
+e Centres and of an International Society of Systems Biomedicine.
+This is the third annual EISBM Symposium, following those organized in June
+ 2012 on Knowledge Management for Translational Research and in June 2013 o
+n the Philosophical and Engineering Foundations of Systems Biology. They ga
+thered leading international experts and representatives of EU-FP7-funded c
+onsortia to review the state-of-the-art and the road map to foster the revo
+lutionary transition from systems biology to systems medicine.
+This year the EISBM Symposium will highlight initial implementations of sys
+tems approaches in respiratory medicine and personalized healthcare and dis
+cuss the prospects for implementation of systems medicine in Horizon 2020. 
+ The initial results of the plans presented last year to perform extensive 
+individual monitoring of lifestyle and environment exposures, biological an
+d clinical features integrated with deep genomics assessments will be repor
+ted.

@@ -1,0 +1,61 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sergei.grudinin@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C6FAE26801D
+	for <bioinfo@sfbi.fr>; Fri, 11 Apr 2014 10:46:48 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: At8BABqrR1PAhqRTf2dsb2JhbABZg0G9YoZkgWwWDgEBCwsKCBQohHaHfAQJmh+xdxeMb4IaghgPZ4EUBJhglDSBQQ
+X-IronPort-AV: E=Sophos;i="4.97,840,1389740400"; 
+   d="scan'208";a="56901729"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by b-mx1.relay.syrhano.net with ESMTP; 11 Apr 2014 10:46:48 +0200
+X-IronPort-AV: E=Sophos;i="4.97,840,1389740400"; 
+   d="scan'208";a="67655303"
+Received: from nano-d-sgrudinin.inrialpes.fr ([194.199.25.152])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/AES128-SHA; 11 Apr 2014 10:46:47 +0200
+From: Sergei Grudinin <sergei.grudinin@inria.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <881E03B4-A305-410E-9471-243A79B79F05@inria.fr>
+Date: Fri, 11 Apr 2014 10:46:46 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] PhD position at INRIA Grenoble =?WINDOWS-1252?Q? ?= DEVELOPMENT OF NOVEL ALGORITHMS FOR STRUCTURE-BASED DRUG DESIGN
+PhD position at INRIA Grenoble - Rhône-Alpes, France
+DEVELOPMENT OF NOVEL ALGORITHMS FOR STRUCTURE-BASED DRUG DESIGN
+In the context of the INRIA 2014 recruitment campaign, a PhD position in th
+e field of computational drug design is proposed at INRIA Grenoble, France.
+The overall subject of the PhD is to extend the state-of-the art methods fo
+r accurate modelling of protein drug interactions. The PhD project will b
+e conducted in the NANO-D team, which is funded through national, regional,
+ and a European ERC Starting Grant (http://nano-d.inrialpes.fr). Algorithms
+ developed during the project will be distributed with the SAMSON software 
+platform created in the team.
+The project consists in several tasks :
+* development of a reliable potential function for flexible drugs
+* development of new algorithms to explore the conformational space of flex
+ible drugs
+* applying motion-planning methods to enhance efficiency of global search a
+lgorithms for protein drug docking
+Candidates should posses
+* Strong computer science background
+* Strong knowledge of applied math and physics
+* Strong oral, written and interpersonal communication skills (working lang
+uage: English   knowing French is a plus)
+* Good knowledge of C++
+* Ability to work independently and with a team
+Application deadline is 04/05/2014. Applications must be submitted via the 
+official INRIA online system, see http://www.inria.fr/institut/recrutement-
+metiers/offres/theses/campagne-2014 for the procedure as well as for eligib
+ility, salary, and other information.
+Detailed project description can be found at
+https://www.inria.fr/en/institute/recruitment/offers/phd/campaign-2014/(vie
+w)/details.html?nPostingTargetID=3D14430
+and
+http://nano-d.inrialpes.fr/openings/
+For more information, please contact Sergei Grudinin, sergei.grudinin@inria
+.fr.

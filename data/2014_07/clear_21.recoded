@@ -1,0 +1,97 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <vincent.ranwez@supagro.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5834426801D
+	for <bioinfo@sfbi.fr>; Mon,  7 Jul 2014 11:04:22 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ag4BAJphulOTYwAel2dsb2JhbABag2C/TYc/gREWDwEBAQEBCBYHPIQWgj6IQg2gYqhnF45LMYJjD0QkgRYFhGkCgjCrLIFt
+X-IronPort-AV: E=Sophos;i="5.01,616,1400018400"; 
+   d="scan'208";a="61383971"
+Received: from fagus.supagro.inra.fr ([147.99.0.30])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Jul 2014 11:04:22 +0200
+Received: from davem-173.supagro.inra.fr (davem-173.supagro.inra.fr [147.99.16.174])
+	(authenticated bits=0)
+	by fagus.supagro.inra.fr (8.14.3/8.14.3/Debian-5+lenny1) with ESMTP id s6794Ki6031737
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Mon, 7 Jul 2014 11:04:20 +0200
+From: Vincent Ranwez <vincent.ranwez@supagro.inra.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <5D217A88-5CAD-4C4C-964A-DDA7866C7B9C@supagro.inra.fr>
+Date: Mon, 7 Jul 2014 11:04:25 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.1 \(1827\))
+X-Mailer: Apple Mail (2.1827)
+X-Miltered: at fagus with ID 53BA6294.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53BA6294.000/147.99.16.174/davem-173.supagro.inra.fr/davem-173.supagro.inra.fr/<vincent.ranwez@supagro.inra.fr>
+X-j-chkmail-Score: MSGID : 53BA6294.000 on fagus.supagro.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97.3 at fagus
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] 2 formations bioinfo (Galaxy et Linux) =?WINDOWS-1252?Q?à?= Montpellier 
+Bonjour,
+Deux formations en bio-informatique auront lieu à Montpellier en Févrie
+r 2015.
+###########################################################
+Formation 1 : Analyse bioinformatique de séquences sous Galaxy (9-13 Fé
+vrier 2015)
+Responsables pédagogiques : J.F. Dufayard et V. Ranwez
+###########################################################
+Galaxy est un outil puissant qui permet de créer facilement des " pipel
+ines " d'analyses à l'aide d'une représentation visuelle de ces
+ pipelines. Les objectifs pédagogiques de cette  formation sont :
+i) ma=EEtriser les fonctionnalités de la plateforme bioinformatique Galaxy
+ii) savoir encha=EEner de fa=E7on pertinente un ensemble de traitements bio
+informatiques pour analyser des données de séquences.
+Au-delà des aspects techniques, l'accent sera mis sur le choix des outi
+ls pertinents et de leurs paramétrages pour répondre au mieux à un be
+soin d'analyse. Cette formation s'appuie donc sur un large panel d'in
+tervenants spécialistes des thématiques abordées (e.g. analyse de don
+nées NGS, annotation de séquences, prédiction de structure 3D)
+###########################################################
+Formation 2 : Automatiser des analyses génomiques grâce aux commandes L
+inux et à l'écriture de scripts (16-20 Février 2015)
+Responsable pédagogique : V. Ranwez
+###########################################################
+Le système d'exploitation Linux est disponible sur de nombreux ordinate
+urs, il offre un ensemble de commandes textuelles très puissantes qu'il
+ est possible d'enchainer (sous forme de " script ") pour réaliser 
+automatiquement des tâches complexes et/ou répétitives. Les objectifs
+ pédagogiques de cette formation sont :
+i) conna=EEtre les commandes essentielles du système Linux,
+ii) savoir les utiliser pour traiter des données génomiques,
+iii) être capable d'utiliser un cluster de calculs pour effectuer ces t
+raitements.
+iv) savoir écrire des scripts " simples " en " bash " (le langage
+ de base de Linux)
+La formation vise une autonomie des stagiaires via une mise en situation lo
+rs de TP (qui constituent l'essentiel de la formation) portant sur des do
+nnées/problèmes réels (e.g. manipulation de fichiers fasta, assemblag
+e et mapping de données NGS). L'accent est mis sur les aspects techniqu
+es et la maitrise de Linux via un fort taux d'encadrement (2 ou 3 encadra
+nts, selon les TP, pour 12 stagiaires max).
+###########################################################
+Compléments d'informations et inscriptions
+###########################################################
+Pour plus d'information sur ces deux formations vous pouvez consulter le 
+site de la formation continue de Montpellier SupAgro (http://www.supagro.in
+ra.fr, rubrique catalogue des formations).
+Ces deux formations offrent un nombre de places limité, l'expérience 
+montre qu'il est préférable de s'inscrire au plus tôt car nous so
+mmes chaque année contraints de refuser des inscriptions afin de pouvoir 
+garantir une pédagogie personnalisée à chaque inscrit.
+Pour les inscriptions ou toutes informations sur les tarifs et aspects admi
+nistratifs vous pouvez contacter Y. Olivier du service formation continue d
+e Montpellier SupAgro (olivier@supagro.inra.fr, 04.99.61.23.56). Pour plus 
+d'information sur le contenu des formations vous pouvez contacter :
+J.F. Dufayard, jean-francois.dufayard@cirad.fr pour la formation Galaxy
+et V. Ranwez, ranwez@supagro.inra.fr (04 99 61 28 75) pour la formation Lin
+ux
+Cordialement,
+Vincent Ranwez
+Professor at Montpellier SupAgro (bat 21, campus de la Gaillarde)
+web site: https://sites.google.com/site/ranwez/
+tel : +33 (0)4 99 61 28 75

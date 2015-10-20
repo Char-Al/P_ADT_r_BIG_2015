@@ -1,0 +1,46 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gagneur@genzentrum.lmu.de>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 8E5CB26801D
+	for <bioinfo@sfbi.fr>; Sat,  7 Jun 2014 11:54:36 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvsJAAXhklONVC4KmWdsb2JhbABZg19WjXqdCJkKBIEGFg8BAQEBAQgLCwcUKIRyiigJnmSuUoVdhXGDOIMVgRYEoQ6QEWo
+X-IronPort-AV: E=Sophos;i="4.98,994,1392159600"; 
+   d="scan'208";a="59795162"
+Received: from pluto.lmb.uni-muenchen.de ([141.84.46.10])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Jun 2014 11:54:36 +0200
+Received: from c022.lmu.vpn.lrz.de (c022.lmu.vpn.lrz.de [141.84.14.22])
+	by pluto.lmb.uni-muenchen.de (Postfix) with ESMTP id 5EAA05118041
+	for <bioinfo@sfbi.fr>; Sat,  7 Jun 2014 11:54:34 +0200 (CEST)
+From: Julien Gagneur <gagneur@genzentrum.lmu.de>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <4A6E49B9-6E29-4142-A255-9FA1151A50CE@genzentrum.lmu.de>
+Date: Sat, 7 Jun 2014 11:56:33 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Computational Models in Biology and Medicine, September 18th/19th, Cologne
+Dear colleagues,
+we are glad to announce the 2014 GMDS/IBS workshop on
+Computational Models in Biology and Medicine
+The workshop will take place in Cologne, on September 18th/19th.  The GMDS/
+IBS workshop has established itself as an international forum for researche
+rs from bioinformatics, biostatistics and systems biology, who share a comm
+on interest in the statistical analysis and modeling of biological systems 
+and their applications in medical research. The conference is free of charg
+e, and participants are encouraged to contribute posters or talks to one of
+ the topics:
+- Cancer Genomics
+- Transcription Regulation
+- Dynamic Modeling
+- High Throughput Sequencing
+You will find further information on our conference website (http://www.tre
+schgroup.de/GMDS2014cologne.html).
+Looking forward to seeing you in Cologne!
+The organising committee
+Achim Tresch, Andreas Beyer, Holger Fr=F6hlich, Ingmar Glauche, Julien Gagn
+eur, Nicole Radde, Simon Anders, Tim Beissbarth

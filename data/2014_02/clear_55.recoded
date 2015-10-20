@@ -1,0 +1,84 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <alain.denise@u-psud.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 89EDA26801D
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 18:28:21 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnkBAD3pBFOBr9RAnGdsb2JhbABZFoMowFCBGRYOAQEBAQEICwkJFCiCOCYBBTAQPRYIEAMCAQIBNCQGAgEBiAEEnRqPY6Ehjj5DhCIEmWKFFYYaiHE
+X-IronPort-AV: E=Sophos;i="4.97,506,1389740400"; 
+   d="scan'208";a="62250704"
+Received: from mx1.u-psud.fr ([129.175.212.64])
+  by a-mx1.relay.syrhano.net with ESMTP; 19 Feb 2014 18:28:19 +0100
+Received: from mx1.u-psud.fr (localhost [127.0.0.1])
+	by localhost (MTA) with SMTP id 171FB30241F
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 18:28:19 +0100 (CET)
+Received: from ext.lri.fr (ext.lri.fr [129.175.15.4])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mx1.u-psud.fr (MTA) with ESMTPS id E98413021C6
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 18:28:18 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by ext.lri.fr (Postfix) with ESMTP id DDAB040BB3
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 18:28:18 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at lri.fr
+Received: from ext.lri.fr ([127.0.0.1])
+	by localhost (ext.lri.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id t9UjwaZAG9cC for <bioinfo@sfbi.fr>;
+	Wed, 19 Feb 2014 18:28:18 +0100 (CET)
+Received: from [127.0.0.1] (bur91-1-82-230-69-63.fbx.proxad.net [82.230.69.63])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by ext.lri.fr (Postfix) with ESMTPSA id A5B0240B9B
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 18:28:18 +0100 (CET)
+Message-ID: <5304E9BB.4070509@u-psud.fr>
+Date: Wed, 19 Feb 2014 18:28:27 +0100
+From: Alain Denise <alain.denise@u-psud.fr>
+Organization: =?windows-1252?Q?Universit=E9_Paris-Sud?=
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Antivirus: avast! (VPS 140218-1, 18/02/2014), Outbound message
+X-Antivirus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] poste MCF (CNU 27) en bioinformatique =?WINDOWS-1252?Q?=E0?= Paris Sud - Orsay
+Un poste de maître de conférences (CNU 27) en bioinformatique à 
+l'université Paris-Sud va être ouvert pour la rentrée 2014 (référence 
+Galaxie 4206). La recherche s'effectuera au sein de l'équipe Bioinfo du 
+LRI (http://bioinfo.lri.fr/).
+Le but de l'équipe Bioinfo est de concevoir et développer de nouvelles 
+méthodes informatiques pour résoudre des problèmes issus de la grande 
+masse de données biologiques disponibles. A cet égard, l'équipe est 
+impliquée dans d'étroites collaborations avec des équipes de biologistes.
+Son programme scientifique est structuré en deux thèmes :
+- Bioinformatique structurale
+- Biologie des Systèmes (comprenant l'intégration des données).
+Dans ce contexte, le Maître de Conférences aura la capacité de conduire 
+des recherches dans au moins l'un des domaines suivants: fouille de 
+données, algorithmique, combinatoire, et les appliquera en biologie des 
+systèmes et/ou en biologie structurale. Une expérience du travail 
+interdisciplinaire avec des collaborateurs biologistes sera un plus.
+En ce qui concerne l'enseignement, la personne recrutée pourra 
+intervenir dans toutes les filières relevant du département informatique 
+(Faculté des Sciences), certaines étant des formations par 
+apprentissage, ainsi que dans le cursus ingénieur à Polytech. Elle 
+contribuera en particulier aux enseignements de bioinformatique en 
+option du L3 Informatique et dans le Master de Bioinformatique et 
+Biostatistiques (M1 et M2).
+Il est à noter qu'à la Faculté des Sciences de l'université Paris-Sud, 
+un maître de conférences nouvellement recruté effectue un service de 
+150h EQ-TD/an pendant deux ans.
+Les auditions des candidats retenus à l'issue de la présélection auront 
+lieu le mardi 20 mai 2014.
+Personnes à contacter pour l'équipe Bioinfo :
+Alain Denise (Alain.Denise@lri.fr) et
+Christine Froidevaux (Christine.Froidevaux@lri.fr)
+-- 
+mailto:Alain.Denise@u-psud.fr                 http://www.lri.fr/~denise
+  Lab 1: LRI Orsay   |   Lab 2: IGM Orsay   |   Lab 3: INRIA team AMIB
+       tel: +33 (0)1.69.15.63.69      fax: +33 (0)1.69.15.65.86
+  Address: LRI, bât.650, Univ. Paris-Sud XI, 91405 Orsay cedex, France
+      Département d'Informatique : https://dep-info.u-psud.fr/

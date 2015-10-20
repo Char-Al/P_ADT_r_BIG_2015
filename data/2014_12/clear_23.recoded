@@ -1,0 +1,109 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <christine.sinoquet@univ-nantes.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id E5BDD26801D
+	for <bioinfo@sfbi.fr>; Fri,  5 Dec 2014 22:53:26 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvsAAM0oglTBNGdvnGdsb2JhbABPCoNYWII9SLoDiUmHQAEBAQEBEQEBAQEBCBQJQoQVFw8BBR0jGhwCBRYLAgsDAgECAToRDQgBAYg7CaJyjSSPQpcKgSiOSwsBAYNFgUcFhVgVjVeHcYUKD4QJineBQCVJAYELgTcBAQE
+X-IPAS-Result: AvsAAM0oglTBNGdvnGdsb2JhbABPCoNYWII9SLoDiUmHQAEBAQEBEQEBAQEBCBQJQoQVFw8BBR0jGhwCBRYLAgsDAgECAToRDQgBAYg7CaJyjSSPQpcKgSiOSwsBAYNFgUcFhVgVjVeHcYUKD4QJineBQCVJAYELgTcBAQE
+X-IronPort-AV: E=Sophos;i="5.07,525,1413237600"; 
+   d="scan'208";a="78271130"
+Received: from smtptls2-lmb.cpub.univ-nantes.fr (HELO smtp-tls.univ-nantes.fr) ([193.52.103.111])
+  by a-mx1.relay.syrhano.net with ESMTP; 05 Dec 2014 22:53:26 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by smtp-tls.univ-nantes.fr (Postfix) with ESMTP id B464F401774
+	for <bioinfo@sfbi.fr>; Fri,  5 Dec 2014 22:53:25 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at smtptls1-lmb.cpub.univ-nantes.fr
+Received: from smtp-tls.univ-nantes.fr ([127.0.0.1])
+	by localhost (smtptls2-lmb.cpub.univ-nantes.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id mqWwkoQcTTYf for <bioinfo@sfbi.fr>;
+	Fri,  5 Dec 2014 22:53:25 +0100 (CET)
+Received: from [172.16.9.102] (ipcop.lina.sciences.univ-nantes.fr [193.52.105.131])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by smtp-tls.univ-nantes.fr (Postfix) with ESMTPSA id 945F440176C
+	for <bioinfo@sfbi.fr>; Fri,  5 Dec 2014 22:53:25 +0100 (CET)
+Message-ID: <54822957.7000002@univ-nantes.fr>
+Date: Fri, 05 Dec 2014 22:53:27 +0100
+From: Christine Sinoquet <christine.sinoquet@univ-nantes.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: "sfbi >> bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] annonce de =?UTF-8?Q?s=C3=A9minaire?= sur la =?UTF-8?Q?M=C3=A9decine?= =?UTF-8?Q?Personnalis=C3=A9e?=, =?UTF-8?Q?=C3=A0?= Nantes, le 15 =?UTF-8?Q?d=C3=A9cembre?= 2014
+Bonjour,
+Dans le cadre du cycle de séminaires du Quartier de la Création "Vivre 
+ou Vivre mieux", le LINA et le Quartier de la Création co-organisent à 
+Nantes le 15 Décembre 2014 un séminaire sur la Médecine
+personnalisée, en partenariat avec le Département 
+Hospitalo-Universitaire 2020 (DHU2020), l'Institut du Thorax et la 
+société Biofortis.
+PROGRAMME DE LA JOURNÉE
+     9h15 - 9h20 - Introduction
+     C. Sinoquet, LINA/UMR CNRS 6241
+     9h20 - 10h - Les Pionniers de la Santé et du Bien-être en France, 
+pourquoi et comment ?
+     C. Pison, Chef de la Clinique Universitaire de Pneumologie, CHU 
+Grenoble
+     10h - 10h30 - Un exemple de structuration de la recherche : le 
+projet DHU2020 et la médecine 4P
+     A. Magnan , coordinateur DHU2020 médecine personnalisée des 
+maladies chroniques
+     10h30 - 11h - Enjeux éthiques et sociétaux autour de la médecine 
+personnalisée
+     A.C. Hardy et H. Lecompte, Sociologues
+     Pause : La médecine 4P : DHU2020, au coeur du Quartier de la Création
+     Lokotoro, Association d'artistes plasticiens
+     11h30 - 12h30 : Harnessing genotype-environment interactions to 
+identify causal molecular mediators between genotype and phenotype
+     O. Stegle, Research Group Leader at EMBL-EBI (European Molecular 
+Biology Laboratory / European Bioinformatics Institute), Cambridge, England
+     12h30 - 14h30 : Temps libre
+     14h30 - 15h30 : Systems biology: from correlation to causation for 
+personalized medicine
+     R. Eils, Director BIOQUANT, Research Group Leader at Heidelberg 
+University, Germany
+     15h30 - 16h00 : Towards personalized medicine : illustration of a 
+research synergy around genome-wide association studies
+     C. Sinoquet, LINA/UMR CNRS 6241, coordinatrice du projet ANR SAMOGWAS
+     Pause : 4P + 1P ( « Paroles ») Lokotoro, Association d'artistes 
+plasticiens
+     16h30 - 17h00 : Drugs, structural bioinformatics and personalized 
+medicine.
+     B. Offmann, Unité Fonctionnalité et Ingénierie des protéines, Nantes
+     17h00 - 17h30 : Intérêt d'utiliser les connaissances sur le 
+microbiote intestinal pour la médecine personnalisée.
+     F. Le Vacon, Société BIOFORTIS, Nantes
+     17h30 - 18h30 : Table ronde
+     Animateurs : Christine Sinoquet, Françoise Le Vacon, Antoine Magnan
+INSCRIPTIONS
+http://www.eventbrite.fr/e/billets-seminaire-vivre-ou-vivre-mieux-13875075725?ref=ebtnebregn
+Les inscriptions sont gratuites mais obligatoires.
+SITE DE LA JOURNEE
+Maison des avocats, Mail du Front Populaire, 44202 Nantes (voir carte 
+sur site Web ci-dessus)
+ORGANISATEURS
+C. Sinoquet / LINA et Quartier de la Création, en partenariat avec 
+l'Institut du Thorax (A. Magnan) et le société BIOFORTIS (F. Le Vacon)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Bien cordialement,
+Christine Sinoquet
+Christine Sinoquet
+MC HdR http://www.lina.univ-nantes.fr/Christine-Sinoquet-2030
+LINA - Laboratoire d'Informatique de Nantes-Atlantique /
+U.M.R. CNRS 6241
+http://www.lina.univ-nantes.fr/
+Fédération AtlanSTIC FR CNRS 2819
+http://www.atlanstic.net
+Equipe DUKe (Date User Knowledge)
+http://duke.univ-nantes.fr/
+Département Informatique, Co-Responsable Master Bioinformatique
+http://www.masterbioinfo-nantes.fr/
+Université de Nantes
+2 rue de la Houssinière, BP 92208, 44322 Nantes Cedex, France
+TEL (33) 02 51 12 58 05
+FAX (33) 02 51 12 58 12

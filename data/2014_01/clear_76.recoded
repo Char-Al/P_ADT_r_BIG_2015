@@ -1,0 +1,73 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <claire.nedellec@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id B70EE26801D
+	for <bioinfo@sfbi.fr>; Fri, 24 Jan 2014 16:25:47 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApEBABCF4lKKZqI0nGdsb2JhbABag0S9DIEhDgEBAQEBCAsJCRQogkkVAQUwEAEuDhYYAwIBAgFZCAEVh2wNyCkXjwwdhCIEmCeBMpJbgT8
+X-IronPort-AV: E=Sophos;i="4.95,713,1384297200"; 
+   d="scan'208";a="52899711"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 24 Jan 2014 16:25:47 +0100
+Received: from Macintosh-9.local (mig140 [138.102.22.140])
+	(authenticated bits=0)
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s0OFPki8011046
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Fri, 24 Jan 2014 16:25:46 +0100 (CET)
+Message-ID: <52E285F9.9070300@jouy.inra.fr>
+Date: Fri, 24 Jan 2014 16:25:45 +0100
+From: Claire Nedellec <claire.nedellec@jouy.inra.fr>
+User-Agent: Thunderbird 2.0.0.23 (Macintosh/20090812)
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Cc: Claire Nedellec <claire.nedellec@jouy.inra.fr>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at beta with ID 52E285FA.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52E285FA.000/138.102.22.140/mig140/Macintosh-9.local/<claire.nedellec@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 52E285FA.000 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.014 -> S=0.014
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] 2nd CFP  - Deadline extension - Special issue of BMC Bioinformatics
+ on BioNLP Shared Task 2013 
+Bonjour,
+pourrez-vous diffuser l'annonce ci-dessous ? Merci beaucoup,
+Claire Nédellec
+Editeur invité du numéro spécial
+------
+===================================================================
+             2nd CALL FOR PAPERS and DEADLINE EXTENSION
+Special issue of BMC Bioinformatics on BioNLP Shared Task 2013
+===================================================================
+http://2013.bionlp-st.org/bmc-bioinformatics-special-issue
+IMPORTANT DATES
+Feb 3 Manuscript submission due (draft version)
+Feb 10 Manuscript submission (final version)
+Mar 15 Acceptance notification of first-round review
+To prepare the review process, we ask all those planning to submit a 
+manuscript to submit an early version of the paper (draft version),
+including title and abstract, prior to the primary manuscript submission 
+that will only be used to coordinate reviews.
+SUBMISSION
+The paper format should follow the BMC Bioinformatics guidelines: 
+http://www.biomedcentral.com/bmcbioinformatics/ifora/
+Paper should be submitted via Easychair: 
+https://www.easychair.org/conferences/submission_new.cgi?a=5801489
+We invite two kinds of submissions:
+- Extended versions of BioNLP-ST 2013 workshop papers. Each extended 
+submission must include a substantial amount of previously unpublished 
+content. In this type of submission, the workshop paper should be cited 
+and the extended contribution has to be clearly stated.
+- Papers on new contributions to the BioNLP-ST 2013 tasks.
+SPECIAL ISSUE EDITORS
+Claire Nédellec, National Institute for Agricultural Research (INRA)
+Jin-Dong Kim, Database Center for Life Science (DBCLS)
+Sampo Pyysalo, University of Turku
+Sophia Ananiadou, National Centre for Text Mining, (NaCTem)
+Pierre Zweigenbaum, National Center for Scientific Research (CNRS)
+Read more: http://2013.bionlp-st.org/bmc-bioinformatics-special-issue
+--------------------------------

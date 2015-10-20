@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2C85926801D
+	for <bioinfo@sfbi.fr>; Wed,  9 Jul 2014 14:30:41 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AucAAB41vVOKZqI0nGdsb2JhbAA/GoNgv3WIaQ8BAQEBAQgLCQkUKIQWJgEFQD0WGAMCAQIBWAYCAQEXiCcNNp5/qTiOYBEBbYQtBZp2hw+QQmoSeQ
+X-IronPort-AV: E=Sophos;i="5.01,631,1400018400"; 
+   d="scan'208";a="61525685"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 09 Jul 2014 14:30:40 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s69CUdUa029273
+	for <bioinfo@sfbi.fr>; Wed, 9 Jul 2014 14:30:39 +0200 (CEST)
+Message-ID: <53BD35EF.6070101@jouy.inra.fr>
+Date: Wed, 09 Jul 2014 14:30:39 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53BD35EF.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53BD35EF.001/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53BD35EF.001 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.054 -> S=0.054
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Sciences en Marche en BD
+De la part de Patrick Lemaire
+---------------------------------
+Bonjour,
+Une BD signée Aurélien Miralles a été réalisée pour présenter Sciences 
+En Marche, la grande marche pour la défense des sciences et de 
+l'enseignement supérieur qui se déroulera du 27 septembre au 19 octobre. 
+Une très belle initiative pour expliquer en images et avec humour la 
+situation catastrophique de la recherche et de l'enseignement supérieur 
+français et pour proposer des solutions.
+Si vous n'aimez ni les Sciences ni la BD, ne partagez surtout pas ce 
+lien avec vos contacts dans le monde académique et dans le grand 
+public!!! http://sciencesenmarche.org/fr/sciencesenmarche-en-bd/
+Pour en savoir plus sur Sciences en Marche et nous rejoindre, visitez le 
+site SciencesEnMarche.org et abonnez vous à notre liste de diffusion.
+Patrick Lemaire pour le collectif Sciences en Marche
+Patrick Lemaire
+CRBM
+1919 Route de Mende
+F-34293 MONTPELLIER Cédex 5
+France
+http://www.crbm.cnrs.fr/index.php/en/patrick-lemaire-uk
+email: patrick.lemaire@crbm.cnrs.fr

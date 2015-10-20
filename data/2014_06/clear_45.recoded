@@ -1,0 +1,85 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 1D3A926801D; Thu, 12 Jun 2014 18:34:36 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: lisa.perchenet@modisfrance.fr
+Message-ID: <sympa.1402590842.20356.432@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Thu, 12 Jun 2014 18:34:36 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] OPPORTUNITE DE CARRIERE - ONTOLOGY - MODIS
+MODIS société internationale réalise un CA de 2,4 milliard d'euros en 2012.
+Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, 
+France, Belgique, Pays-Bas, Pologne) lui permet d'assurer une couverture 
+géographique mondiale.
+En France, MODIS fait partie des 30 premières Sociétés de Service en 
+Ingénierie Numérique. Elle s'appuie sur un réseau de 7 agences. Ses 1600 
+collaborateurs apportent des solutions à ses clients issus de la 
+Banque/Finance, l'Assurance, la Distribution, les Télécoms, l'Industrie, le 
+Services & l'Energie. Ils interviennent en conseil, ingénierie applicative, 
+support et management des infrastructures.
+We are looking for a partner to work with in order to significantly expand 
+the existing ontology and maintain it on the long run. The partner will be in 
+charge of extending and maintaining the ontological model by designing new 
+concepts and consequently providing set of classes and relations type to be 
+imported in this model. To perform those extensions, the consultant will 
+interact with different scientific experts in various scientific domains such 
+as: Pharmacology, Toxicology, DMPK, molecular and cellular biology, 
+bio-informatics, omics and translational. The consultant will also train and 
+coach an internal resource who will be in charge of: collecting data to be 
+able to start modeling exercise and maintaining the ontology on a everyday 
+basis by mainly creating and maintaining instances in our ontology hosted on 
+the solution Ontobroker from Semafora.
+Main tasks to fulfill are the following:
+Phase 1 (initialisation):
+- Review our existing Ontology
+The company has on-going initiative to capture all assay parameters currently 
+in used in order to have them defined in the ontology. You will review 
+on-going work and advise the company on the methodology to use to ensure this 
+work can be used as a basis to extend the Ontology.
+- Assess costs and timelines to deliver extension of ontological model that 
+will support all assay parameters identified by the on-going initiative.
+- Make recommendations on skills and/or training required for the company 
+resource that will be in charge of the everyday maintenance of the ontology.
+Phase 2   (Initial extension):
+Based on work described in phase 1:
+- Produced extended model supporting all identified assay parameters  
+- Create in Ontobroker all new classes and relation type supporting model 
+extension
+- Train the company resources to extended model
+Phase 3   (Recurring work):
+Update and maintain ontological model on the long run and on a regular basis:
+- Produced model extension depending on the company needs and though 
+interactions with domain expert (scientist, clinicians, etc...) 
+- Create in Ontobroker all new classes and relation type supporting model 
+extensions
+Support internal resource in charge of every day maintenance
+Planning:
+Requested deliverables for Phase 1:     
+- Guidelines document describing which information to gather and how
+- An implementation plan for phase 2 including estimated costs and timelines 
+Requested deliverables for Phase 2 & 3: 
+- Ontology concepts and associated classes implemented in our Ontobroker 
+Ontology.
+Technical competences:
+The project requires a mastery of OntoBroker. 
+Functional competences:
+-       Biology InVivo, InVitro, Drug Safety (Toxicity), Pharmacokinetics and 
+drug Metabolism (PK, ADME...), bioMarkers, Bio-informatics, omics and 
+translational
+-       Ontology concepts and pragmatical deployement
+-       Knowledge of pharmaceutical industries
+-       English
+Project based in Les Ulis (91)
+You have experience in R&D IT for pharmaceutical industry. You have good 
+knowledge of the research process around the activities of Biology In Vivo, 
+In Vitro such as: Pharmacology, Toxicology, DMPK, molecular and cellular 
+biology but also in Bioinformatics, omics and translational.
+You have evolved to Ontology definitions work and have already led 1 Ontology 
+modeling and deployment project. 

@@ -1,0 +1,137 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mikafontaine@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 97A8A26801D
+	for <bioinfo@sfbi.fr>; Tue, 15 Apr 2014 17:38:39 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ar4BAO9RTVPRVdWvlGdsb2JhbABYFoMrxSIWDgEBAQEHCwsJEiqCZgYBCBMPBgkDEhBaBBEBBQFJBYdOAQMRBQiaEIMPjF+DDpdPChknDWSFfxEBBQyMLoE8JIN0gRQEjilbiV6BNoUehiWDXUGEe4FO
+X-IronPort-AV: E=Sophos;i="4.97,864,1389740400"; 
+   d="scan'208";a="57121147"
+Received: from mail-ig0-f175.google.com ([209.85.213.175])
+  by b-mx1.relay.syrhano.net with ESMTP; 15 Apr 2014 17:38:38 +0200
+Received: by mail-ig0-f175.google.com with SMTP id ur14so4549509igb.8
+        for <bioinfo@sfbi.fr>; Tue, 15 Apr 2014 08:38:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-type:content-transfer-encoding:subject:message-id:date
+         :to:mime-version;
+        bh=JoXcE0YthQ0xnU/tEuYwoniFhiJ4/37PNjJgkp4fRm4=;
+        b=dvt/lAEXd8zChBmOb6JgKA/ow6CV7clz1HQA6LSld60hWOVu3TJR2ePqEqBnVgDe98
+         1xEjjI6YhpvlYLGE0+0tKOVE59hsdpOLf0utLHBCFHOnH8BTa667lmmsoIwN30RGA34f
+         gdmHIrmADkh4SrW0MfKwBQK2eL0U+k32Ii3VpEJERSioR3L56SGl2kX1gJIvZO0L5Jot
+         aMNlm/rXlf/z4+A6U5evQReyYq0XiyXQ9E+9AyRryBnE9RGsUZ+fhHdB7okUrRRF3+5v
+         FLVBEjS0JU2EJ9opwlZhnjR7dtYBzw3xNRPVgbJFBXJI/XVCs/i+PCdOxhJNQ3k7b8iF
+         noOw=
+X-Received: by 10.42.106.15 with SMTP id x15mr2245028ico.67.1397576317263;
+        Tue, 15 Apr 2014 08:38:37 -0700 (PDT)
+Received: from [10.0.0.10] (c-50-129-48-43.hsd1.in.comcast.net. [50.129.48.43])
+        by mx.google.com with ESMTPSA id pi3sm38584202igb.5.2014.04.15.08.38.35
+        for <bioinfo@sfbi.fr>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 15 Apr 2014 08:38:36 -0700 (PDT)
+From: Michael GMAIL <mikafontaine@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <E9F100E0-C4B9-45C2-A7B2-77E25BC0D3D9@gmail.com>
+Date: Tue, 15 Apr 2014 11:38:34 -0400
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoc: UNotreDame Malaria Mosquito Population Genomics
+POSTDOC: Population Genomics of Malaria Mosquitoes
+A Postdoctoral position (1 year with possible extensions up to 5 years) is 
+available immediately in the evolutionary genomics group of Nora Besansky (
+www3.nd.edu/~nbesansk/).
+We are seeking highly qualified and enthusiastic applicants with a quantita
+tive background in theoretical/statistical population genetics and evolutio
+nary biology, experience in genomic data analysis, and at least some knowle
+dge of primary short read analysis.
+Our ongoing research centers on the evolutionary, ecological and population
+ genomics of Anopheles mosquitoes that transmit malaria. In particular, we 
+study those species responsible for the majority of malaria cases and death
+s on the African continent, An. gambiae and An. funestus. These two Afrotro
+pical species each belong to cryptic species complexes bearing their names,
+ and both nominal taxa display considerable genetic heterogeneity and popul
+ation structure suggesting further genetic subdivision and potential specia
+tion. We study their population genomics at different spatial scales, from 
+local to regional and continental.  We are particularly interested in how s
+patially varying selection (e.g., along environmental gradients of aridity:
+ Cheng et al 2012, Genetics 190:1417), ongoing ecological speciation (e.g.,
+ Cassone et al 2014, Mol Ecol 10.1111/mec.12733; Guelbeogo et al 2014, Mala
+r J 13:65), and genetic introgression (e.g., Besansky et al. 2003, PNAS 100
+:10818) impact
+patterns of genomic and transcriptomic variation. Specific projects ongoing
+ in the laboratory include the functional genomics of chromosomal inversion
+s--which we are approaching through systems genetics and genome-wide associ
+ation studies, the genetic basis of saltwater tolerance in the An. gambiae 
+complex, Y chromosome structure and evolution in the An. gambiae complex, a
+nd the ecological genomics of incipient species of An. gambiae and An. fune
+stus.  The availability of annotated reference genome assemblies for both s
+pecies (Neafsey et al 2013, G3 3:1191), and their relatively small genome s
+ize (~250 Mb) allows us to use whole genome sequencing of pools or barcoded
+ individual mosquitoes from natural populations to approach these questions
+.  Our work on these large data sets is facilitated by extensive collaborat
+ion with computer scientists both on and off campus (S. Emrich, ND; A. Phil
+lippy & S. Koren, Battelle National Biodefense Institute), and with a stati
+stical genetic
+ist (M. Hahn, Indiana University, Bloomington). In addition to the NIH-fund
+ed projects based in the Besansky lab, we are actively engaged in large int
+ernational consortia, one of which is modeled on the Human HapMap project a
+nd has sequenced over 1000 individual An. gambiae genomes sampled across Af
+rica (MalariaGen; www.malariagen.net/projects/vector). Furthermore, opportu
+nities for collaboration and exchange are available with partners in Europe
+ and Africa [F. Simard, C. Costantini: IRD, Montpellier; D. Ayala: IRD/Gabo
+n; M.C. Fontaine: Univ. of Groningen, Netherlands (beginning Fall 2014)]. T
+he successful candidate will help develop and lead a project in at least on
+e of the areas of ongoing research in the laboratory, and would be expected
+ to contribute collaboratively to others.
+REQUIREMENTS: (1) A PhD in genetics/genomics, evolutionary biology, bioinfo
+rmatics, or a related discipline; (2) a strong background in statistics and
+ population genetics; (3) proficiency in the Linux/Unix computing environme
+nt and familiarity with R and at least one other programming language (e.g.
+ Python or Perl); (4) experience with the analysis of high throughput biolo
+gical data sets; and (5) good communication skills and proficiency in Engli
+sh, both speaking and writing.
+PREFERENCES: If the Ph.D. was conferred in the biological sciences, we are 
+looking for subsequent qualification and/or experience in bioinformatics; i
+f the Ph.D. was conferred in statistics, computer science, or mathematics, 
+we are looking for subsequent qualification and/or experience in the biolog
+ical sciences.  In addition to meeting all the requirements, the ideal cand
+idate will be a highly motivated individual with demonstrated expertise in 
+population genomics or human genetics and evolutionary biology, strong stat
+istical skills, experience with next generation sequence and analysis of wh
+ole genome sequence data, a good understanding of molecular biology, and an
+ excellent record of scientific publication. Fluency in French is a plus.
+HOW TO APPLY: Applicants should submit a single PDF file (to nbesansk [at] 
+nd.edu) containing (1) a cover letter briefly summarizing past research acc
+omplishments and future goals; (2) a CV; (3) two recent publications; and (
+4) the names and contact information for three references. Screening of app
+licants will begin immediately and continue until the position is filled. T
+he starting date is flexible and can be as early as April 2014.
+ADDITIONAL INFORMATION: The University of Notre Dame is located on the nort
+hern limits of South Bend, Indiana [90 miles (150 km) east of Chicago]. The
+ Department of Biological Sciences is the center for research and teaching 
+in the life sciences at the University. Housed mainly in the Galvin Life Sc
+iences Building, the department is home to some 60 research and/or teaching
+ faculty, 120 graduate students, and 40 postdoctoral fellows. This vibrant 
+research and teaching community continues to expand its faculty, both withi
+n the Department and with new associated faculty in the nearby Indiana Univ
+ersity School of Medicine ? South Bend, and in other departments in the Col
+lege of Science and the College of Engineering. New Centers and Institutes 
+enhance our intellectual mission, and include the Eck Institute for Global 
+Health, Center for Rare and Neglected Diseases, Environmental Change Initia
+tive, Center for Aquatic Conservation, Center for Zebrafish Research, the H
+arper Cancer Re
+search Institute, Keck Center for Transgene Research, and Center for the St
+udy of Biocomplexity. Available resources include the Freimann Animal Facil
+ity and state of the art core facilities: Genomics, Proteomics, and Integra
+ted Imaging. The Center for Research Computing operates a High Performance 
+Computing (HPC) facility providing parallel supercomputers, clusters, grid 
+networks and storage (~18,000 cores and 500TB storage) in systems of variou
+s architectures and interconnects, and access and interface to the TeraGrid
+ and Open Science Grid.
+The University of Notre Dame is an Equal Opportunity / Affirmative Action E
+mployer.

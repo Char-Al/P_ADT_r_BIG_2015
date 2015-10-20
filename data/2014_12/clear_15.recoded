@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3971426801D
+	for <bioinfo@sfbi.fr>; Wed,  3 Dec 2014 15:22:11 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtICAGgBf1SKZqI0nGdsb2JhbABag1hYAYMEih0BuSGFBoJDAQEBAQERAQEBAQEICwkJFC6ELBAFESsIDiQCHwcCEiwQJIg+Da9dj0OBbYYwiH2FcYErjlkRAW2CW4FRBYEsrwoBCgEBAWCBRG6BDIE5AQEB
+X-IPAS-Result: AtICAGgBf1SKZqI0nGdsb2JhbABag1hYAYMEih0BuSGFBoJDAQEBAQERAQEBAQEICwkJFC6ELBAFESsIDiQCHwcCEiwQJIg+Da9dj0OBbYYwiH2FcYErjlkRAW2CW4FRBYEsrwoBCgEBAWCBRG6BDIE5AQEB
+X-IronPort-AV: E=Sophos;i="5.07,508,1413237600"; 
+   d="scan'208";a="69438078"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Dec 2014 15:22:10 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sB3EM9E7022815
+	for <bioinfo@sfbi.fr>; Wed, 3 Dec 2014 15:22:09 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 96702296C03
+	for <bioinfo@sfbi.fr>; Wed,  3 Dec 2014 15:22:09 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XwAr0-000AQs-2h
+	for bioinfo@sfbi.fr; Wed, 03 Dec 2014 15:24:30 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XwAr0-000AQs-2h@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Wed, 03 Dec 2014 15:24:30 +0100
+X-Miltered: at beta with ID 547F1C91.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 547F1C91.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 547F1C91.000 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.227 -> S=0.311
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Stage] M2 =?UTF-8?Q?bioinformatique=C2=A0?=: Mise en p  lace d'un pipeline d'analyse de CNV sur des don  =?UTF-8?Q?n=C3=A9es?= de =?UTF-8?Q?s=C3=A9quen=C3=A7age?= =?UTF-8?Q?=C3=A0?= haut-=?UTF-8?Q?d=C3=A9bit?= de =?UTF-8?Q?g=C3=A9nome?=  s. 
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : M2 bioinformatique : Mise en place d'un pipeline  
+d'analyse de CNV sur des données de séquençage à haut-débit de génomes.
+Type de poste : Stage
+Durée du poste : 3 à 6 mois
+Ville : Dijon
+Nom du contact : Yannis Duffourd
+Email du contact : yannis.duffourd@u-bourgogne.fr
+Laboratoire : Equipe de recherche GAD
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m2-bioinformatique%C2%A0-mise-en-place-dun-pipeline-danalyse-de-cnv-sur-des-donn%C3%A9es-de-s%C3%A9quen%C3%A7age

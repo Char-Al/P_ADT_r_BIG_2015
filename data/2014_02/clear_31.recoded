@@ -1,0 +1,72 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Vincent.Lefort@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id CBDDB26801D
+	for <bioinfo@sfbi.fr>; Mon, 10 Feb 2014 16:20:53 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuIBAC/t+FLBMWgenGdsb2JhbABZFoMuwSUWDgEBAQEBCAsJCRQogjgmAQUwECMaFhgDAgECAQ1LCAEBFYdwmWmvbRePGoQiBI5jiUiGSIYZhy+BPw
+X-IronPort-AV: E=Sophos;i="4.95,818,1384297200"; 
+   d="scan'208";a="53742091"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by b-mx1.relay.syrhano.net with ESMTP; 10 Feb 2014 16:20:50 +0100
+Received: from [193.49.107.208] (ordilefort.lirmm.fr [193.49.107.208])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id C57F1A4FF9
+	for <bioinfo@sfbi.fr>; Mon, 10 Feb 2014 16:20:49 +0100 (CET)
+Message-ID: <52F8EE51.4060300@lirmm.fr>
+Date: Mon, 10 Feb 2014 16:20:49 +0100
+From: LEFORT Vincent <Vincent.Lefort@lirmm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Mathematical and Computational Evolutionary Biology, 15-19 June 2014,
+ Montpellier
+*MCEB - Mathematical and Computational Evolutionary Biology, *
+15-19 June 2014 - South of France
+/Webpage:/ http://www.lirmm.fr/mceb2014/
+Pre-registration deadline: February 28
+/Scope:/ Mathematical and computational tools and concepts form an
+essential basis for modern evolutionary studies. The goal of the MCEB
+conference (at its 6th edition) is to bring together scientists with
+diverse backgrounds to present recent advances and discuss open problems 
+  in the field of mathematical and computational evolutionary biology.
+This year a special focus will be given to the applications to 
+biodiversity in all its aspects: from its conservation to its ecology
+and evolution; from the diversity within a genome, to that between
+individuals within a species and that between species in an ecosystem.
+General concepts, models, methods and algorithms will also be presented
+and discussed, just as during the previous conference editions.
+/Where and when:/ Hameau de l'Etoile (http://www.hameaudeletoile.com/)
+in the Montpellier region, South of France, 15-19 June 2014.
+/Cost:/ Conference fees including accommodation (4 nights), meals,
+coffee breaks, buses, etc., will be between 350 - 500 EUR, and will vary 
+depending on the room  type. PhD students and postdocs will benefit of 
+the cheapest rooms.
+/Keynote speakers:/
+Richard Durbin (Wellcome Trust Sanger Institute, UK): Population genomics
+Daniel Huson (University of Tubingen, DE): Environmental metagenomics
+Nicolas Lartillot (Université de Montréal, CA): Comparative genomics and 
+ecology
+Arne Mooers (Simon Fraser University, CA): Considering the Tree of Life
+in Conservation
+Hélène Morlon (Centre de Mathématiques Appliquées, FR): Dynamics of
+biodiversity
+Rasmus Nielsen (University of Berkeley, US): Theory and methods
+developments in Population Genetics
+Adam Siepel (Cornell University, US): Genome-wide inference of ancestral 
+recombination graphs
+Mike Steel (University of Canterbury, NZ): What can we reconstruct from
+the past?
+For more information, visit the website at: http://www.lirmm.fr/mceb2014/
+Please forward this announcement
+-- 
+Vincent Lefort
+CNRS - LIRMM
+95 rue de la Galera
+34095 - Montpellier Cedex 5 - FRANCE
+Tel: +33 4 67 14 97 62
+http://www.lirmm.fr/~lefort/

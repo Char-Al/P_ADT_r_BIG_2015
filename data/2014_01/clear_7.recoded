@@ -1,0 +1,110 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sylvain.marthey@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3DB9B26801D
+	for <bioinfo@sfbi.fr>; Mon,  6 Jan 2014 17:38:19 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApIBAH/bylKKZqI0nGdsb2JhbABYg0O7PQ4BAQEBAQgUCTyCOCYBBTMHBi4PFgQUAwIBAgE3IQYCAQEXh2maVKkAk00EjzuIXIZFhBWJKoE/
+X-IronPort-AV: E=Sophos;i="4.95,613,1384297200"; 
+   d="scan'208";a="51887213"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 06 Jan 2014 17:38:18 +0100
+Received: from [138.102.28.35] (pcgis1 [138.102.28.35])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s06GcHuK025330
+	for <bioinfo@sfbi.fr>; Mon, 6 Jan 2014 17:38:17 +0100 (CET)
+Message-ID: <52CADBF4.2070007@jouy.inra.fr>
+Date: Mon, 06 Jan 2014 17:38:12 +0100
+From: Marthey <sylvain.marthey@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at beta with ID 52CADBF9.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52CADBF9.001/138.102.28.35/pcgis1/[138.102.28.35]/<sylvain.marthey@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 52CADBF9.001 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.033 -> S=0.033
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CDD 2 ans - Conception du =?WINDOWS-1252?Q?Syst=E8me?= d'Information pour le projet Investissement d'Avenir CRB-Anim (http://www.crb-anim.fr/)
+Responsable du système d'information du projet CRB-Anim 
+(http://www.crb-anim.fr/)
+Contexte :
+L'objectif du projet Investissement d'Avenir CRB-Anim est d'intégrer et 
+de renforcer les centres de ressources biologiques (CRB) conservant du 
+matériel reproductif et du matériel génomique pour les espèces d'animaux 
+domestiques élevées en France, mammifères, oiseaux, poissons, 
+coquillages et abeilles.
+L'infrastructure CRB-Anim associe des organismes publics de recherche 
+(INRA, CNRS) des établissements d'enseignement supérieur (Université de 
+Tours, Université de Rennes I, AgroParisTech, Ecoles Nationales 
+Vétérinaires) une fondation de coopération scientifique (FRB) et deux 
+structures privées : LABOGENA et ANTAGENE, qui hébergent des collections 
+génomiques pour les éleveurs. Cette infrastructure nationale compte 6 
+noeuds localisés près de Paris, Rennes, Tours et Lyon, qui conservent 
+environ 530.000 échantillons biologiques (semence, embryons, cellules, 
+tissus, ADN, ARN). Ces noeuds sont liés à des partenaires de recherche de 
+l'IFREMER et de l'INSERM, aux organisations professionnelles de 
+l'élevage, aux centres d'insémination animale et aux Ecoles Nationales 
+Vétérinaires.
+Missions :
+Concevoir le Système d'Information du projet CRB ANIM.
+En concertation avec les différents partenaires, la personne recrutée 
+assurera :
+- la rédaction du cahier des charges fonctionnel et technique du portail 
+web.
+- le recrutement et l'encadrement de l'ingénieur en charge du 
+développement du déploiement de l'application.
+- l'élaboration d'un profil commun de description des échantillons 
+biologiques animaux, en veillant à réutiliser les standards existants 
+(thésaurus, ontologies, etc...)
+- la conception et la mise en place d'une procédure d'échange de données 
+entre les systèmes d'information des différents partenaires du projet et 
+le nouveau SI central.
+Activités :
+Piloter le projet de la conception à la réalisation et la mise en oeuvre 
+du Système d'Information du projet CRB ANIM.
+Assurer la conception de la solution au moyen d'expertises approfondies
+Analyser les besoins et constituer le cahier des charges fonctionnel du 
+projet en interaction avec les différents partenaires du projet.
+Assurer la veille technologique en relation avec le domaine 
+d'application et les experts du domaine.
+Définir l'architecture matérielle et logicielle en prenant en compte 
+l'environnement existant.
+Compétences :
+Conduire le déploiement d'une application.
+Maîtriser au moins une méthode de spécification et de conception.
+Expertise des technologies Web.
+Connaissance des bases de données relationnelles, des langages de 
+requêtes associés et des procédures d'échanges des données (Web Services).
+Bonne approche des problématiques d'interopérabilité et d'intégration de 
+données.
+Double compétence en biologie et informatique.
+Goût pour les approches orientées qualité.
+Une première expérience en gestion de projet serait un plus.
+Capacités personnelles :
+Doctorat, Ingénieur, Master avec expérience.
+Excellentes qualités relationnelles, d'écoute et de communication que ce 
+soit avec des biologistes et/ou des informaticiens.
+Autonomie, esprit d'initiative, sens de l'organisation et de la 
+communication.
+Capacité à coordonner des actions impliquant plusieurs interlocuteurs.
+Connaissances générales dans le domaine des sciences de la vie.
+Maitrise de l'anglais écrit et oral.
+Contrat
+Durée : Contrat initial de 18/24 mois en fonction du niveau de 
+recrutement + possibilité de prolongation
+Rémunération : Le salaire est établi en fonction du niveau d'étude et 
+d'expérience selon la grille des ingénieurs INRA (Master: IE. Ingénieur, 
+Docteur : IR)
+Prise de fonction : début 2014
+Lieu de travail : Jouy-en-Josas (78350). Des déplacements réguliers en 
+province sont à prévoir.
+Le dossier de candidature, comprenant un CV, une lettre de motivation et 
+deux références est à adresser par e-mail avant le 31/01/2014 aux 2 
+contacts :
+Sylvain Marthey (sylvain.marthey@jouy.inra.fr)
+Pierre de Renty (Pierre.DeRenty@paris.inra.fr)

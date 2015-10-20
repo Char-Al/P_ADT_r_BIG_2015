@@ -1,0 +1,186 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Thomas.BURGER@cea.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 56C9B26801D
+	for <bioinfo@sfbi.fr>; Thu,  3 Jul 2014 14:03:46 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkYBAJVFtVOEp8COnGdsb2JhbABagml2WsYdAYEIFg8BAQEBAQgLCQkUKIQFBQxcBQUZASpDEyYBBBMIiDoBDJ1HpGaGNheONTwLg1qBFgWEaAKFKoYajAeJfIwJgjA
+X-IronPort-AV: E=Sophos;i="5.01,595,1400018400"; 
+   d="scan'208";a="69614058"
+Received: from cirse-out.extra.cea.fr ([132.167.192.142])
+  by a-mx1.relay.syrhano.net with ESMTP; 03 Jul 2014 14:03:45 +0200
+Received: from pisaure.intra.cea.fr (pisaure.intra.cea.fr [132.166.88.21])
+	by cirse.extra.cea.fr (8.14.2/8.14.2/CEAnet-Internet-out-2.3) with ESMTP id s63C3j6P006389
+	for <bioinfo@sfbi.fr>; Thu, 3 Jul 2014 14:03:45 +0200
+Received: from pisaure.intra.cea.fr (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id F1CE720200D
+	for <bioinfo@sfbi.fr>; Thu,  3 Jul 2014 14:05:53 +0200 (CEST)
+Received: from muguet2.intra.cea.fr (muguet2.intra.cea.fr [132.166.192.7])
+	by pisaure.intra.cea.fr (Postfix) with ESMTP id E81BA201FD0
+	for <bioinfo@sfbi.fr>; Thu,  3 Jul 2014 14:05:53 +0200 (CEST)
+Received: from EXCAH-B1.intra.cea.fr (excah-b1.intra.cea.fr [132.166.88.86])
+	by muguet2.intra.cea.fr (8.13.8/8.13.8/CEAnet-Intranet-out-1.2) with ESMTP id s63C3i2B014363
+	for <bioinfo@sfbi.fr>; Thu, 3 Jul 2014 14:03:44 +0200
+Received: from EXDAG0-B3.intra.cea.fr ([fe80::d0da:1b48:7560:ee73]) by
+ EXCAH-B1.intra.cea.fr ([fe80::b4bb:7f38:ea87:b760%11]) with mapi id
+ 14.03.0174.001; Thu, 3 Jul 2014 14:03:44 +0200
+From: BURGER Thomas 232477 <Thomas.BURGER@cea.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Prospectom 2014
+Thread-Index: Ac+WttHNeGWaGXP8TXyMDzwROWs/2g=
+Date: Thu, 3 Jul 2014 12:03:43 +0000
+Message-ID: <74CD13E3727CB2418EF46F56D5BCEDCC1B27C800@EXDAG0-B3.intra.cea.fr>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [132.166.88.106]
+x-tm-as-product-ver: SMEX-10.2.0.1135-7.500.1017-20752.007
+x-tm-as-result: No--34.040800-0.000000-31
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Prospectom 2014
+Invitation à participation pour l'Atelier PROSPECTOM
+19, 20 et 21 Novembre 2014 - Grenoble
+********************************************************
+Etude visuelle et interactive des protéomes par apprentissage statistique
+ et intégration
+des bases de données et de connaissances spectrométriques et " omique
+s ".
+********************************************************
+http://prospectom.liglab.fr/atelier-2014
+Suite au succès de l'atelier Prospectom 2012, nous  proposons une seconde
+ édition de cet atelier destinée à la protéomique computationnelle.
+Contexte et objectifs
+*********************
+L'analyse du protéome, ou protéomique, vise à séquencer, identifier
+ et quantifier de manière systématique l'ensemble des protéines expri
+mées dans un système biologique (organite, cellule, tissu, etc.), afin 
+d'appréhender son fonctionnement global. Pour se faire, il est nécessai
+re d'avoir recours aux développements les plus récents de la biologie d
+es systèmes, de la spectrométrie, mais aussi de la bio-informatique, de
+ l'apprentissage automatique et de la visualisation de données.
+En dépit des progrès considérables accomplis au cours de la dernièr
+e décennie en chromatographie et en spectrométrie de masse, permettant 
+ la mise en place de méthodes d'analyse " à haut débit " (High Th
+roughput Analysis), la cartographie complète des protéomes doit faire a
+ctuellement face à des verrous scientifiques et technologiques majeurs, r
+elevant de l'informatique, et des statistiques. En effet, la complexité d
+es données d'origine protéomique est telle, que leur gestion automatis
+ée soulève de nouvelles questions fondamentales en apprentissage automa
+tique (l'absence de vérité terrain rend difficile l'usage de benchmarks
+, les méthodes incrémentales ou semi-supervisées doivent être favor
+isées), en fouille de données ou en analyse visuelle (quel modèle ou 
+représentation privilégier ?), en traitement du signal (comment gérer
+ les fortes non-linéarités ?), en étude des réseaux sociaux (prise 
+en compte de la multiplicité des relations dans les complexes protéique
+s), en ingénierie des connaissance (interopérabilité entre les points
+ de vue génomique, protéomique, métabolomique, etc.). Dans ce context
+e, la protéomique est à même de proposer une partie des défis qui d
+emain amèneront l'état de l'art de ces champs à évoluer.
+Cet atelier, qui se déroule dans le cadre de l'appel MASTODONS " Grande
+s masses de données scientifiques " de la Mission Interdisciplinaire de
+ CNRS, a pour objectif  de favoriser la structuration d'une communauté sc
+ientifique fran=E7aise autour des enjeux de la protéomique computationnel
+le.
+Programme de l'atelier
+**********************
+Le mercredi 19 novembre après-midi sera consacré  à deux tutoriels (3
+h avec une pause médiane). Les participants pourront s'inscrire en foncti
+on des places disponibles :
+* Laurent Gatto (Cambridge Center for Proteomics, Cambridge)
+An introduction to R/BioConductor for computational proteomics
+* Caroline Truntzer (Clinical Proteomic Platform, Dijon)
+Introduction aux biostatistiques pour la découverte de biomarqueurs
+Les jeudi 20 et vendredi 21 novembre seront consacrés à :
+* Des conférences sur différents thèmes connexes à la protéomique
+ computationnelle (liste des conférenciers invités ci-dessous)
+* Des sessions thématiques dans lesquelles les participants pourront pr
+ésenter leurs travaux via des communications orales ou des posters
+* Un groupe de travail sur la visualisation de données en protéomique
+Conférenciers invités
+*********************
+* Analyse protéomique :
+Yohann COUTE ( INSERMnserm, EDyP, Grenoble) : Défis de la protéomique q
+uantitative label-free
+* Mesure en spectrométrie :
+Mar-André DELSUC (CNRS, IGBMC, Strasbourg) : titre à venir
+* Big data :
+Sihem AMER-YAHIA (CNRS, LIG, Grenoble) : Big User Health Data Management
+*  Apprentissage automatique :
+Jean-Philippe VERT (Institut Curie, Ecole des Mines, Paris) : Machine Learn
+ing for personalized medicine
+* Visual analytics :
+David AUBER (LaBRI, Bordeaux) : Visualisation interactive de données avec
+ Tulip. Application aux réseaux biologiques
+Participation et appels à contribution
+**************************************
+La participation à l'atelier PROSPECTOM est gratuite sous réserve d 'in
+scription (avant le 20 octobre). L'inscription permet d'assister aux 2 tuto
+riels, aux 5 séminaires invités, ainsi qu'aux sessions thématiques et
+ au groupe de travail sur la visualisation.
+Par ailleurs, afin de faciliter les échanges et la mise en place de proje
+ts collaboratifs, les contributions sont encouragées. Ces contributions p
+ourront être soit un résumé d'une page ou d'un article court de 2 à
+ 4 pages (donnant lieu à présentation orale) soit à un poster. La dat
+e de soumission est fixée au 10 octobre 2014. Voici une liste (non exhaus
+tive) des thèmes de l'atelier :
+* Caractérisation du signal spectral
+* Nature des spectres non assignés par les outils d'identification
+* Méthodes de démultiplexages de spectre pour la DIA (Data Independant 
+Acquisition)
+* Comparaison/reproductibilité/ fiabilité des outils d'identification e
+t de quantification
+* Amélioration des méthodes Target/Decoy
+* Estimation du FDR pour les protéines (Identification et quantification 
+différentielle)
+* Combinaisons d'outils d'identification
+* Métrique, similarité et distances entre spectres (théoriques ou exp
+érimentaux)
+* Normalisation/imputation de données
+* Tests statistiques pour la protéomique
+* Extraction de structures saillantes dans les grands graphes
+* Réseaux multi-capacités / multi-valuées
+* Simplification de grands graphes, recherche de communautés
+* Interopérabilité des bases de données " omics "
+* Ontologies, standardisations, vocabulaires contrôlés
+* Caractérisation des jeux de donnés "omics"
+* Taxonomies de tâches
+* Applications de techniques d'analyse visuelle aux problèmes "omics"
+* Description d'outils de visualisation
+* Outils d'exploration de grands réseaux
+* Etc.
+Dates importantes
+*****************
+* Soumission des contributions : avant le vendredi 10 octobre 2014
+* Inscriptions : avant le lundi 20 octobre 2014
+* PROSPECTOM 2014 : 19 novembre (tutoriels), 20 novembre et 21 novembre 201
+4 (à Grenoble)
+Organisateurs et contacts
+*************************
+* Thomas Burger (CNRS, EDyP) : thomas.burger@cea.fr
+* Gilles Bisson (CNRS, LIG/AMA) : gilles.bisson@imag.fr
+* Christophe Bruley (CEA, EDyP) : christophe.bruley@cea.fr
+* Renaud Blanch (Université Grenoble-Alpes, LIG/IIHM) : renaud.blanch@ima
+g.fr
+* Sylvain Bouveret	(Université Grenoble-Alpes, LIG/STEAMER) : sylvain.bou
+veret@imag.fr
+* Yves Vandenbrouck (CEA, EDyP) : yves.vandenbrouck@cea.fr
+Laboratoires porteurs : Le Laboratoire d'Informatique de Grenoble (LIG, UMR
+ 5217) et le laboratoire d'Etude de la Dynamique des Protéomes (iRTSV - C
+EA de Grenoble, FR 3425)
+http://prospectom.liglab.fr/atelier-2014
+--
+Thomas Burger - CNRS Researcher, PhD
+https://sites.google.com/site/thomasburgerswebpage/
+iRTSV-BGE (Univ. Grenoble Alpes - CNRS - CEA - INSERM)
+CEA de Grenoble - Bât. 42b      | Tel.  : +33 4 38 78 22 72
+17 avenue des Martyrs           | Sec.  : +33 4 38 78 39 97
+38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51
+Exploring the Dynamics of Proteomes : http://edyp.fr/

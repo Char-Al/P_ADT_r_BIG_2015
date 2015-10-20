@@ -1,0 +1,49 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www-data@sfbi.mti.univ-paris-diderot.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3264626801D
+	for <bioinfo@sfbi.fr>; Thu, 20 Feb 2014 11:15:05 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AiQTADjVBVPC/j2KnGdsb2JhbABZgz6DWYlis1lZFg4BAQEBAQgLCQkUKIJPEAURMw4TEQIFIQIRPSSICQmdfI8VoT0XgSmMWREBbYJZgUkEnwqOeIFw
+X-IronPort-AV: E=Sophos;i="4.97,512,1389740400"; 
+   d="scan'208";a="54279504"
+Received: from korolev.univ-paris7.fr ([194.254.61.138])
+  by b-mx1.relay.syrhano.net with ESMTP; 20 Feb 2014 11:15:04 +0100
+Received: from duc.rpbs.univ-paris-diderot.fr (duc.mti.univ-paris-diderot.fr [81.194.29.54])
+	by korolev.univ-paris7.fr (8.14.4/8.14.4/relay1/46573) with ESMTP id s1KAF4wt014856
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Thu, 20 Feb 2014 11:15:04 +0100
+Received: from sfbi.mti.univ-paris-diderot.fr (sfbi.mti.univ-paris-diderot.fr [81.194.29.2])
+          by duc.rpbs.univ-paris-diderot.fr (8.13.7/jtpda-5.4) with SMTP id s1KAF2d6031855
+          for <bioinfo@sfbi.fr>; Thu, 20 Feb 2014 11:15:02 +0100
+Message-Id: <201402201015.s1KAF2d6031855@duc.rpbs.univ-paris-diderot.fr>
+Received: by sfbi.mti.univ-paris-diderot.fr (sSMTP sendmail emulation); Thu, 20 Feb 2014 11:12:15 +0100
+From: "www-data" <www-data@sfbi.mti.univ-paris-diderot.fr>
+Date: Thu, 20 Feb 2014 11:12:15 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 0:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (korolev.univ-paris7.fr [194.254.61.138]); Thu, 20 Feb 2014 11:15:04 +0100 (CET)
+X-Miltered: at korolev with ID 5305D5A8.002 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5305D5A8.002 from duc.mti.univ-paris-diderot.fr/duc.mti.univ-paris-diderot.fr/null/duc.rpbs.univ-paris-diderot.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Score: MSGID : 5305D5A8.002 on korolev.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][=?UTF-8?Q?Th=C3=A8se?=] PhD Scholarship in Computation  al Biology
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : PhD Scholarship in Computational Biology
+Type de poste : Thèse
+Durée du poste : 3 ans
+Ville : Palmerston North, New Zeland
+Nom du contact : Murray Cox
+Email du contact : m.p.cox@massey.ac.nz
+Laboratoire : Institutre of Fundamental Sciences, Massey University
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/phd-scholarship-computational-biology

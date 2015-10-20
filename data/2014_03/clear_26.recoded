@@ -1,0 +1,94 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <jpellet@eisbm.org>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 7346526801D
+	for <bioinfo@sfbi.fr>; Wed, 12 Mar 2014 10:14:15 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApMBAH8kIFPZRrfGnGdsb2JhbABag0FXuiGDO4UOFg4BAQEBAQYNCQkUKIMBFAEDBAGBWId9CaFQsB+NehEBgwUPZ4EUBItfjGaBMpQpgXE5
+X-IronPort-AV: E=Sophos;i="4.97,636,1389740400"; 
+   d="scan'208";a="63288092"
+Received: from relay6-d.mail.gandi.net ([217.70.183.198])
+  by a-mx1.relay.syrhano.net with ESMTP; 12 Mar 2014 10:14:14 +0100
+Received: from mfilter28-d.gandi.net (mfilter28-d.gandi.net [217.70.178.159])
+	by relay6-d.mail.gandi.net (Postfix) with ESMTP id 842E5FB8D5
+	for <bioinfo@sfbi.fr>; Wed, 12 Mar 2014 10:14:14 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mfilter28-d.gandi.net
+Received: from relay6-d.mail.gandi.net ([217.70.183.198])
+	by mfilter28-d.gandi.net (mfilter28-d.gandi.net [10.0.15.180]) (amavisd-new, port 10024)
+	with ESMTP id 5DYIo5jZHTIS for <bioinfo@sfbi.fr>;
+	Wed, 12 Mar 2014 10:14:05 +0100 (CET)
+X-Originating-IP: 195.220.110.152
+Received: from eisbm-pellet.univ-lyon1.fr (eisbm-pellet.univ-lyon1.fr [195.220.110.152])
+	(Authenticated sender: jpellet@eisbm.org)
+	by relay6-d.mail.gandi.net (Postfix) with ESMTPSA id 54FF9FB8A1
+	for <bioinfo@sfbi.fr>; Wed, 12 Mar 2014 10:14:05 +0100 (CET)
+From: Johann Pellet <jpellet@eisbm.org>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <71BBDCFE-B6B8-4E43-B620-B8973A79287E@eisbm.org>
+Date: Wed, 12 Mar 2014 10:14:06 +0100
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.1 \(1827\))
+X-Mailer: Apple Mail (2.1827)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Researcher Position in Bioinformatics for Translational Research 
+Researcher Position in Bioinformatics for Translational Research at CNRS-EI
+SBM, Lyon, in relation to the IMI-eTRIKS Consortium.
+**
+KEYWORDS: Computational Systems Biology, Pathways and Networks, Data Integr
+ation and Modelling, Machine Learning
+A Researcher position is available as part of the eTRIKS (European Translat
+ional Research Information and Knowledge Management Services) project, fund
+ed by the Innovative Medicines Initiative (IMI) of the European Commission 
+7th Framework Programme and the European Federation of Pharmaceutical Indus
+tries and Associations: http://www.imi.europa.eu/
+**
+SCIENTIFIC PROJECT: The eTRIKS Consortium is dedicated to delivering Europe
+an Translational Information and Knowledge Management Services initially fo
+r all IMI projects, then for other European translational research projects
+.
+These projects encompass translational bioinformatics, clinical research in
+formatics, health/clinical informatics and the development of new analytica
+l tools. They use tranSMART as part of the software knowledge management pl
+atform: http://www.etriks.org; http://www.transmartproject.org
+**
+JOB CONTEXT: High throughput experimental methods are generating large amou
+nts of heterogenous data associated with patient populations. This data inc
+ludes multiple =91omics data such as transcriptomics, proteomics, metabolom
+ics and genome structural variations. The integration of these data with cl
+inical data relating to disease progression and outcome has the potential t
+o impact on strategies for personalised medicine.
+**
+JOB DESCRIPTION: The successful applicant will work on data analytics and w
+ill evaluate existing, and develop new approaches for the integration of cl
+inical data with multiple types of high dimensional =91omics data. The appr
+oaches for integration will be used for biomarker discovery and the identif
+ciation of new disease subtypes in a large portfolio of IMI and non-IMI pro
+jects. She/he will contribute to enhancement of the underlying tranSMART sy
+stem with required analytical functions and workflows for the analysis and 
+integration of clinical and =91omics data.
+The selected candidate will be based in Lyon-Gerland within the CNRS-EISBM 
+team led by Charles Auffray, hosted by Claude Bernard University on the Cha
+rles Mérieux campus: http://www.eisbm.org; http://workshop.eisbm.eu
+**
+REQUIRED EXPERIENCE/SKILLS: Candidates should have a PhD degree in computer
+ science, mathematics, physics, bioinformatics or engineering. Good program
+ming skills in either Python, Matlab, C/C++, R or similar are essential, as
+ is a strong mathematical background. Experience of analysis of biological 
+networks and machine learning is desirable. The position requires good comm
+unication skills in English and involves working in collaboration with eTRI
+KS partners on translational medicine projects across Europe.
+**
+CONTRACT DURATION: Available immediately for two years with possible one-ye
+ar extension.
+**
+SALARY: Depending on qualifications and experience, based on CNRS salary gr
+id.
+**
+APPLICATION: Send CV, cover letter and names of two references to Charles A
+uffray
+Email: jobs@eisbm.org
+More information:
+http://job.eisbm.org/researcher-position-in-bioinformatics/

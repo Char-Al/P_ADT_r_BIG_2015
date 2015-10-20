@@ -1,0 +1,51 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www-data@sfbi.mti.univ-paris-diderot.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3956F26801D
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 13:13:37 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmwBAM3uy1LC/j2KnGdsb2JhbABZg0ODU7cbWhYOAQEBAQEICwkJFCiCTxAFESsIDhMRAgUhAhE9JIgICZsLjxGaIheBKYx5EQFtglmBSASeb40sgT+BcA
+X-IronPort-AV: E=Sophos;i="4.95,618,1384297200"; 
+   d="scan'208";a="51935977"
+Received: from korolev.univ-paris7.fr ([194.254.61.138])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Jan 2014 13:13:36 +0100
+Received: from duc.rpbs.univ-paris-diderot.fr (duc.mti.univ-paris-diderot.fr [81.194.29.54])
+	by korolev.univ-paris7.fr (8.14.4/8.14.4/relay1/46573) with ESMTP id s07CDa22007739
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Tue, 7 Jan 2014 13:13:36 +0100
+Received: from sfbi.mti.univ-paris-diderot.fr (sfbi.mti.univ-paris-diderot.fr [81.194.29.2])
+          by duc.rpbs.univ-paris-diderot.fr (8.13.7/jtpda-5.4) with SMTP id s07CDZmb032242
+          for <bioinfo@sfbi.fr>; Tue, 7 Jan 2014 13:13:35 +0100
+Message-Id: <201401071213.s07CDZmb032242@duc.rpbs.univ-paris-diderot.fr>
+Received: by sfbi.mti.univ-paris-diderot.fr (sSMTP sendmail emulation); Tue, 07 Jan 2014 13:18:25 +0100
+From: "www-data" <www-data@sfbi.mti.univ-paris-diderot.fr>
+Date: Tue, 07 Jan 2014 13:18:25 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 0:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (korolev.univ-paris7.fr [194.254.61.138]); Tue, 07 Jan 2014 13:13:36 +0100 (CET)
+X-Miltered: at korolev with ID 52CBEF70.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52CBEF70.000 from duc.mti.univ-paris-diderot.fr/duc.mti.univ-paris-diderot.fr/null/duc.rpbs.univ-paris-diderot.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Score: MSGID : 52CBEF70.000 on korolev.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] Stage de recherche M2, structur  e d'indexation pour le suivi de la =?UTF-8?Q?leuc=C3=A9mie?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Stage de recherche M2, structure d'indexation pour le  
+suivi de la leucémie
+Type de poste : Stage
+Durée du poste : 4 à 6 mois
+Ville : Lille
+Nom du contact : Mathieu Giraud
+Email du contact : mathieu.giraud@lifl.fr
+Laboratoire : équipe Bonsai, Laboratoire d'Informatique Fondamentale de  
+Lille (LIFL, Univ. Lille 1, CNRS) et Inria Lille
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/stage-de-recherche-m2-structure-dindexation-pour-le-suivi-de-la-leuc%C3%A9mie

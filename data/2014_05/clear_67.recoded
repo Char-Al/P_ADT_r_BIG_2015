@@ -1,0 +1,50 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <laurent.brehelin@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 6D2CA26801D
+	for <bioinfo@sfbi.fr>; Fri, 23 May 2014 15:41:23 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqABAEdPf1PBMWgenGdsb2JhbABasXaYCxYOAQEBAQEICwkJFCiCOIEpDCgBBFyIRaMutFMXjWV+DIQqBJBPiSOVH4FC
+X-IronPort-AV: E=Sophos;i="4.98,893,1392159600"; 
+   d="scan'208";a="67317487"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by a-mx1.relay.syrhano.net with ESMTP; 23 May 2014 15:41:22 +0200
+Received: from tabarnak (tabarnak.lirmm.fr [193.49.107.51])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id B0BB1A5043
+	for <bioinfo@sfbi.fr>; Fri, 23 May 2014 15:41:21 +0200 (CEST)
+From: brehelin <laurent.brehelin@lirmm.fr>
+To: bioinfo@sfbi.fr
+Date: Fri, 23 May 2014 15:41:21 +0200
+Message-ID: <8761kwehoe.fsf@lirmm.fr>
+User-Agent: Gnus/5.13 (Gnus v5.13) Emacs/23.3 (gnu/linux)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoc position (Montpellier): Discovering RNA motifs bound by RNA-binding proteins
+Metazoan genomes  encode hundreds of RNA-binding  proteins (RBPs), which
+form dynamic interactions with  coding and non-coding RNAs in functional
+units  called  ribonucleoproteins  (RNPs).  The  formation  of  RNPs  is
+governed by specific molecular  determinants, in particular specific RNA
+motifs  and  structures.  Deciphering   these  mechanisms  is  of  prime
+importance because strong evidences show  that RBPs are involved in many
+human diseases  ranging from neurological disorders to  AIDS and cancers
+(Lukong et al., Trends Genet, 2008).
+Motif  discovery  is one  of  the most  ancient  fields  of research  in
+bioinformatics,  and  numerous approaches  for  this  problem have  been
+proposed in the context of DNA (for example our method in Lajoie et al.,
+Genome  Bio. 2012).  However,  because  they do  not  take into  account
+several fundamental aspects  of RNA it is still  very difficult to infer
+RBP  preferences  with  these  approaches.  We  are  seeking  a  postdoc
+candidate  to develop  a new  computational approach  dedicated  to this
+specific problem.
+The successful candidate will  have strong programming skill (preferably
+C++)  and good  knowledge in  one or  several of  the  following topics:
+probabilistic models and statistic, motif discovery, RNA structure, gene
+expression data
+Lab: LIRMM/IBC, Montpellier
+If you are interested, please contact Laurent Bréhélin (brehelin@lirmm.
+fr)
+and Charles Lecellier (charles.lecellier@igmm.cnrs.fr) before June 15 2014.

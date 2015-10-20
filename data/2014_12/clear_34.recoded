@@ -1,0 +1,114 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <jpellet@eisbm.org>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id CE76926801D
+	for <bioinfo@sfbi.fr>; Tue,  9 Dec 2014 09:35:34 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AocBABGzhlTZRrfDh2dsb2JhbABZg1hYBIMBww4Chz8WAQEBAQERAQEBCA0JBxYuhCwmDBYJOgImAnIJiDOveY9ClygBAQEegSaRTg4wESGBFQWFOJFqkzuCHiVJgQMkHn4BAQE
+X-IPAS-Result: AocBABGzhlTZRrfDh2dsb2JhbABZg1hYBIMBww4Chz8WAQEBAQERAQEBCA0JBxYuhCwmDBYJOgImAnIJiDOveY9ClygBAQEegSaRTg4wESGBFQWFOJFqkzuCHiVJgQMkHn4BAQE
+X-IronPort-AV: E=Sophos;i="5.07,543,1413237600"; 
+   d="scan'208";a="78372196"
+Received: from relay3-d.mail.gandi.net ([217.70.183.195])
+  by a-mx1.relay.syrhano.net with ESMTP; 09 Dec 2014 09:35:35 +0100
+Received: from mfilter18-d.gandi.net (mfilter18-d.gandi.net [217.70.178.146])
+	by relay3-d.mail.gandi.net (Postfix) with ESMTP id D7E80A80E4
+	for <bioinfo@sfbi.fr>; Tue,  9 Dec 2014 09:35:33 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mfilter18-d.gandi.net
+Received: from relay3-d.mail.gandi.net ([217.70.183.195])
+	by mfilter18-d.gandi.net (mfilter18-d.gandi.net [10.0.15.180]) (amavisd-new, port 10024)
+	with ESMTP id qmLQZXrQ7mi6 for <bioinfo@sfbi.fr>;
+	Tue,  9 Dec 2014 09:35:32 +0100 (CET)
+X-Originating-IP: 195.220.110.152
+Received: from eisbm-pellet.univ-lyon1.fr (eisbm-pellet.univ-lyon1.fr [195.220.110.152])
+	(Authenticated sender: jpellet@eisbm.org)
+	by relay3-d.mail.gandi.net (Postfix) with ESMTPSA id 37B95A80AC
+	for <bioinfo@sfbi.fr>; Tue,  9 Dec 2014 09:35:31 +0100 (CET)
+From: Johann Pellet <jpellet@eisbm.org>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <059C6E26-38F0-4378-BECC-51AB3090321F@eisbm.org>
+Date: Tue, 9 Dec 2014 09:35:33 +0100
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 8.1 \(1993\))
+X-Mailer: Apple Mail (2.1993)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Stage] Proposition de 2 stages Master II - Java Programming
+Bonjour,
+Vous trouverez ci-dessous 2 sujets de stage proposés dans le cadre du 
+projet eTRIKS (European Translational Research Information and Knowledge Ma
+nagement Services : http://www.etriks.org/) à l'EISBM.
+Internship 1:
+6-month Java Programming Internship: France & Luxembourg
+Employer: CNRS
+Website: http://www.eisbm.org/
+Location: CNRS-EISBM, Lyon, France & LCSB, Luxembourg
+Expires: 15/12/2014
+Internship allowance: â=82=AC 436.00 per month
+Qualifications: Undergraduate - Bachelor's degree
+Employment type: Temporary
+Job hours: Full-time
+Duration: 6 months
+Starting date: Beginning of 2015
+Key words: Programming, Java, graphical languages, network representation, 
+Systems Biology
+An internship position is available as part of the eTRIKS (European Transla
+tional Research Information and Knowledge Management Services) project, fun
+ded by the Innovative Medicines Initiative (IMI) of the European Commission
+ 7th Framework Programme and the European Federation of Pharmaceutical Indu
+stries and Associations.
+The selected candidate will be based in Lyon-Gerland within the CNRS-EISBM 
+team led by Charles Auffray, hosted by Claude Bernard University on the Cha
+rles Mérieux campus. For approximately 2 months the intern will be wor
+king in Luxembourg with our collaborators at the Luxembourg Center for Syst
+ems Biomedicine.
+The goal of this project is to develop a translator from Systems Biology Gr
+aphical Notation standard (file exported from CellDesigner software) into t
+he LCSB MapViewer environment (Java). The translator will be developed in c
+ollaboration with LCSB Java programming experts. Prior knowledge in Systems
+ Biology domain is not necessary.
+This is an excellent opportunity to get introduced into Systems Biology are
+a and participate in a highly collaborative translational medicine project.
+Required Skills: Proficiency in Java programming and good communication ski
+lls in English.
+Recommended Skills: Knowledge of SQL and PostgreSQL would be helpful.
+Enthusiastic and motivated candidates are encouraged to contact Prof. Charl
+es Auffray jobs@eisbm.org  with a CV and a brief description of their progr
+amming skills.
+Internship 2:
+6-month Java Programming Internship: Lyon, France
+Employer: CNRS
+Website: http://www.eisbm.org
+Location: CNRS-EISBM, Lyon, France
+Expires: 15/12/2014
+Internship allowance: â=82=AC 436.00 per month
+Qualifications: Undergraduate - Bachelor's degree
+Employment type: Temporary
+Job hours: Full-time
+Duration: 6 months
+Starting date: Beginning of 2015
+Key words: Programming, Java, Graph Database, Neo4j, graphical representati
+on, network representation, Systems Biology
+An internship position is available as part of the eTRIKS (European Transla
+tional Research Information and Knowledge Management Services) project, fun
+ded by the Innovative Medicines Initiative (IMI) of the European Commission
+ 7th Framework Programme and the European Federation of Pharmaceutical Indu
+stries and Associations.
+The selected candidate will be based in Lyon-Gerland within the CNRS-EISBM 
+team led by Charles Auffray, hosted by Claude Bernard University on the Cha
+rles Mérieux campus.
+The goal of the project is to develop a code in Java for translating a grap
+hical model in Systems Biology Graphical Notation (SBGN, www.sbgn.org) into
+ the Neo4j Graph Database representation. Systems Biology Graphical Notatio
+n standard (SBGN-ML file format) is used for unambiguous biological network
+ representation. Transformation into the graph database environment will al
+low easier access to various data, graph database querying and network anal
+ysis.
+This position allows an intern to participate in a state-of-the-art EU syst
+ems biomedicine project.
+Required Skills: Proficiency in Java programming, good communication skills
+ in English.
+Enthusiastic and motivated candidates are encouraged to contact Prof. Charl
+es Auffray jobs@eisbm.org  with a CV and a brief description of their progr
+amming skills.

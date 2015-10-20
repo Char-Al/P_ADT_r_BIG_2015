@@ -1,0 +1,86 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <isabelle.dutour@labri.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2866F26801D
+	for <bioinfo@sfbi.fr>; Thu,  6 Mar 2014 12:06:12 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvwBAHdVGFOT0giPnGdsb2JhbABAGoNBwXWBGRYOAQEBAQEICwkJFCiCKjQBBQgBATYBATsWGAMCAQIBWAEFAgEBh3UNNqxohFUBBZ0XBo4+HR2EIphChkqPD3g
+X-IronPort-AV: E=Sophos;i="4.97,599,1389740400"; 
+   d="scan'208";a="62994882"
+Received: from iona.labri.fr ([147.210.8.143])
+  by a-mx1.relay.syrhano.net with ESMTP; 06 Mar 2014 12:06:11 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by iona.labri.fr (Postfix) with ESMTP id B3EBB5974;
+	Thu,  6 Mar 2014 12:06:10 +0100 (CET)
+Authentication-Results: iona.labri.fr (amavisd-new); dkim=pass (1024-bit key)
+	reason="pass (just generated, assumed good)" header.d=labri.fr
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=labri.fr; h=
+	content-transfer-encoding:content-type:content-type:subject
+	:subject:mime-version:user-agent:from:from:date:date:message-id
+	:received:received; s=mail; t=1394103970; x=1395918371; bh=JYH4E
+	5hh7EKr/+evqVhXma6Kq4vk/qo0jUNDXsFARtM=; b=PMA8dC6dzUP5NG9GOKDk9
+	AmTGDmF5kNJczbbE5tK/CTMXz7BwHoVe5n25D20HVH69eczWyEmjhoAw/A58VdI3
+	b5t/Be49oH/ybhZAvSsz6gIzI2R4zmf2Llg2dVGJqLuf+WsoYSxZ1yQlRpc7MGAb
+	wRDvgcQ+ch8rXmeVWX4fIM=
+X-Virus-Scanned: amavisd-new at labri.fr
+Received: from iona.labri.fr ([127.0.0.1])
+	by localhost (iona.labri.fr [127.0.0.1]) (amavisd-new, port 10027)
+	with LMTP id 4YyJ-WHCjtlC; Thu,  6 Mar 2014 12:06:10 +0100 (CET)
+Received: from [147.210.128.199] (laptop-147-210-128-199.labri.fr [147.210.128.199])
+	(using TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(Client did not present a certificate)
+	by iona.labri.fr (Postfix) with ESMTPSA id 96AEF284B;
+	Thu,  6 Mar 2014 12:06:10 +0100 (CET)
+Message-ID: <5318569F.7050506@labri.fr>
+Date: Thu, 06 Mar 2014 12:06:07 +0100
+From: Isabelle Dutour <isabelle.dutour@labri.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Cc: Isabelle Dutour <isabelle.dutour@labri.fr>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Poste de Professeur =?WINDOWS-1252?Q?=E0?= Bordeaux - LaBRI
+Bonjour à toutes et tous,
+Un poste de Professeur est ouvert à Bordeaux au LaBRI, avec comme équipe 
+d'intégration MABioVis (Modèles et Algorithmes pour la Biologie et la 
+Visualisation d'informations). Voir toutes les précisions ci-dessous.
+Cordialement.
+Isabelle Dutour
+#############################################################################
+L'Université de Bordeaux recrute un Professeur en Informatique (27e 
+section)
+Profil : Informatique : données massives, bio-informatique
+Date de clôture des candidatures : 1er avril 2014, 16h
+Date prévisionnelle des auditions: 23 mai 2014
+Son activité de recherche se fera au sein du Laboratoire Bordelais de 
+Recherche en Informatique (LaBRI, UMR 5800 CNRS).
+Il s'insérera en priorité dans l'équipe MABioVis (Modèles et Algorithmes 
+pour la Biologie et la Visualisation d'informations), dans l'un ou 
+l'autre de ses thèmes de recherche :
+CoBalt (Biologie Computationnelle)
+EVADOM (Exploration Visuelle et Analytique de Données Massives)
+Son activité d'enseignement se fera au sein de l'Unité de Formation 
+d'Informatique du collège Sciences et Technologies de l'Université de 
+Bordeaux.
+Les candidatures extérieures sont vivement encouragées.
+L'excellence du dossier scientifique et du projet de recherche sera 
+déterminante.
+Les candidat-e-s sont vivement encouragé-e-s à contacter :
+* la responsable actuelle du département d'enseignement :
+Jenny Benois-Pineau : jenny.benois@labri.fr
+* les deux responsables de thème de l'équipe MABioVis :
+CoBalt : Isabelle Dutour : isabelle.dutour@labri.fr
+EVADOM : Romain Bourqui : romain.bourqui@labri.fr
+Il faut déposer sa candidature sur le site du Ministère et sur le site 
+de l'Université
+Pour plus d'informations, consulter le site du LaBRI onglet 
+recrutement/"Concours Enseignants Chercheurs" :
+http://www.labri.fr/index.php?n=LaBRI.Postes
+et le site de l'Université, avec la procédure :
+http://www.u-bordeaux.fr/Actualites/De-l-universite/Concours-enseignants-chercheurs 
+Lien vers le profil du poste sur Galaxy :
+https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/ListesPostesPublies/ANTEE/2014_1/0333298F/FOPC_0333298F_16.pdf 

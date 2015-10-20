@@ -1,0 +1,45 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 28C0126801D
+	for <bioinfo@sfbi.fr>; Wed, 16 Jul 2014 16:17:56 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Al8CAC2JxlOKZqI0nGdsb2JhbABZg2BXAYJ1vzeHQgGBHw8BAQEBAQgLCQkUKIQEAQUjDwEFES8RJQIFFgsCAgkDAgECAToLEwYCAQGIPg2ya5d8F4EsjT0RAVcWgmGBTAWbHIcUkFlqgQw
+X-IronPort-AV: E=Sophos;i="5.01,672,1400018400"; 
+   d="scan'208";a="61847953"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 16 Jul 2014 16:17:55 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s6GEHt6F024459
+	for <bioinfo@sfbi.fr>; Wed, 16 Jul 2014 16:17:55 +0200 (CEST)
+Message-ID: <53C68993.3010302@jouy.inra.fr>
+Date: Wed, 16 Jul 2014 16:17:55 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1X7Q2N-00054b-3u@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1X7Q2N-00054b-3u@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1X7Q2N-00054b-3u@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53C68993.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53C68993.000/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53C68993.000 on alpha.jouy.inra.fr : j-chkmail score : X : R=. U=. O=# B=0.121 -> S=0.175
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][=?UTF-8?Q?Th=C3=A8se?=] PhD: Hi-C analysis
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : PhD: Hi-C analysis
+Type de poste : Thèse
+Durée du poste : 3 ans
+Ville : Strasbourg
+Nom du contact : Thomas Sexton
+Email du contact : sexton@igbmc.fr
+Laboratoire : IGBMC
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/phd-hi-c-analysis

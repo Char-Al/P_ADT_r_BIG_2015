@@ -1,0 +1,55 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id DE94D26801D
+	for <bioinfo@sfbi.fr>; Thu, 23 Oct 2014 10:10:47 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AioBAPO2SFSKZqI0nGdsb2JhbABcg2JYgwbJeYc/gS8BEQEBAQEBCAsJCRQuhCwQBRErCA4kAiYCEiwQJIhBDaN/jz2BdIxPhjOBLI5IEQFtgmGBVAWBMLQhAQEBBwEBAQGCJWqBD4E8AQEB
+X-IPAS-Result: AioBAPO2SFSKZqI0nGdsb2JhbABcg2JYgwbJeYc/gS8BEQEBAQEBCAsJCRQuhCwQBRErCA4kAiYCEiwQJIhBDaN/jz2BdIxPhjOBLI5IEQFtgmGBVAWBMLQhAQEBBwEBAQGCJWqBD4E8AQEB
+X-IronPort-AV: E=Sophos;i="5.04,774,1406584800"; 
+   d="scan'208";a="75381805"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 23 Oct 2014 10:10:47 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s9N8Akkm015797
+	for <bioinfo@sfbi.fr>; Thu, 23 Oct 2014 10:10:46 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id A01C7296B98
+	for <bioinfo@sfbi.fr>; Thu, 23 Oct 2014 10:10:46 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XhDVr-000BZT-RP
+	for bioinfo@sfbi.fr; Thu, 23 Oct 2014 10:12:51 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XhDVr-000BZT-RP@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 23 Oct 2014 10:12:51 +0200
+X-Miltered: at beta with ID 5448B806.003 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5448B806.003/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5448B806.003 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.305 -> S=0.403
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Stage] =?UTF-8?Q?M=C3=A9ta?=-analyses des =?UTF-8?Q?donn=C3=A9es?= de   barcoding et de =?UTF-8?Q?m=C3=A9tag=C3=A9nomique?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Méta-analyses des données de barcoding et de  
+métagénomique
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Angers
+Nom du contact : Matthieu Barret
+Email du contact : matthieu.barret@angers.inra.fr
+Laboratoire : UMR 1345 Institut de Recherche en Horticulture et Semences  
+(IRHS) - Equipe Emersys
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m%C3%A9ta-analyses-des-donn%C3%A9es-de-barcoding-et-de-m%C3%A9tag%C3%A9nomique

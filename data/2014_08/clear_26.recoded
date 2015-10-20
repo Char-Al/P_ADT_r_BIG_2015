@@ -1,0 +1,52 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id DE0DD26801D
+	for <bioinfo@sfbi.fr>; Mon, 25 Aug 2014 09:57:47 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjoBAGXr+lOKZqI0nGdsb2JhbABZg2BXgnzJWYh6EAEBAQEBCAsJCRQphC0QBREzDiQCJgISLBAkiEINm2CPL4F0jUyEcReBLI0+EQFtgmOBUwWBLbQIaoEPgUABAQE
+X-IronPort-AV: E=Sophos;i="5.04,395,1406584800"; 
+   d="scan'208";a="63262468"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 25 Aug 2014 09:57:47 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s7P7vl04020932
+	for <bioinfo@sfbi.fr>; Mon, 25 Aug 2014 09:57:47 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 2C5BE296BA3
+	for <bioinfo@sfbi.fr>; Mon, 25 Aug 2014 09:57:47 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XLpBa-0003ka-Dh
+	for bioinfo@sfbi.fr; Mon, 25 Aug 2014 09:59:30 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XLpBa-0003ka-Dh@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Mon, 25 Aug 2014 09:59:30 +0200
+X-Miltered: at alpha with ID 53FAEC7B.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53FAEC7B.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 53FAEC7B.001 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.269 -> S=0.362
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][IE] =?UTF-8?Q?Ing=C3=A9nieur?= =?UTF-8?Q?d=C3=A9veloppement?= informat  ique scientifique
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur développement informatique scientifique
+Type de poste : IE
+Durée du poste : Indeterminée
+Ville : Paris
+Nom du contact : Sonia GUILLOT
+Email du contact : jobs@discngine.com
+Laboratoire : DISCNGINE
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9veloppement-informatique-scientifique

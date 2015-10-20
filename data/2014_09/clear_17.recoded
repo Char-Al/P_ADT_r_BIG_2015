@@ -1,0 +1,102 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <christine.sinoquet@univ-nantes.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id E66BE26801D
+	for <bioinfo@sfbi.fr>; Fri,  5 Sep 2014 17:32:03 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhwDAAnXCVTBNFITnGdsb2JhbABZg2BXtxyBPAeQLYhrEAEBAQEBBg0JCRQphBYmAQVAPRYYAwIBAgENPg0IAQGIQgmZeaUaBJQgBYFDj36STxiRTWoBAYJNAQEB
+X-IPAS-Result: AhwDAAnXCVTBNFITnGdsb2JhbABZg2BXtxyBPAeQLYhrEAEBAQEBBg0JCRQphBYmAQVAPRYYAwIBAgENPg0IAQGIQgmZeaUaBJQgBYFDj36STxiRTWoBAYJNAQEB
+X-IronPort-AV: E=Sophos;i="5.04,473,1406584800"; 
+   d="scan'208";a="63868133"
+Received: from smtp2.univ-nantes.fr (HELO smtp.univ-nantes.fr) ([193.52.82.19])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Sep 2014 17:32:03 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.univ-nantes.fr (Postfix) with ESMTP id B56978CCE04
+	for <bioinfo@sfbi.fr>; Fri,  5 Sep 2014 17:32:02 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at smtp2
+Received: from smtp.univ-nantes.fr ([127.0.0.1])
+	by localhost (smtp2.u12.univ-nantes.prive [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id YBBP39xhsEMk for <bioinfo@sfbi.fr>;
+	Fri,  5 Sep 2014 17:32:02 +0200 (CEST)
+Received: from [172.16.9.83] (ipcop.lina.sciences.univ-nantes.fr [193.52.105.131])
+	by smtp.univ-nantes.fr (Postfix) with ESMTP id 833728CCD8D
+	for <bioinfo@sfbi.fr>; Fri,  5 Sep 2014 17:32:02 +0200 (CEST)
+Message-ID: <5409D770.1010909@univ-nantes.fr>
+Date: Fri, 05 Sep 2014 17:32:00 +0200
+From: Christine SINOQUET <christine.sinoquet@univ-nantes.fr>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:17.0) Gecko/20130106 Thunderbird/17.0.2
+MIME-Version: 1.0
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Christine Sinoquet - soutenance d'Habilitation à diriger des Recherches
+Bonjour,
+J'ai le plaisir de vous annoncer que la vidéo de ma soutenance 
+d'Habilitation à diriger des Recherches (28 mai 2014) se trouve en ligne 
+à l'adresse :
+https://www.lina.univ-nantes.fr/?Christine-Sinoquet-2030.html
+Cordialement,
+Christine Sinoquet
+Titre :
+Approches par optimisation combinatoire et par apprentissage statistique 
+en bioinformatique
+Applications pour la fouille et la modélisation de données complexes en 
+génomique et en génétique
+Jury :
+Jean-Daniel ZUCKER, Rapporteur
+Christel VRAIN, Rapporteur
+Alain VIARI, Rapporteur
+Thomas SCHIEX, Examinateur
+Christine FROIDEVAUX, Examinateur
+Marc GELGON, Examinateur
+Jin-Kao HAO, Examinateur
+Bernard OFFMANN, Examinateur
+Louis WEHENKEL, Examinateur
+Philippe LERAY, Membre invité
+Philippe BESNARD, Membre invité
+Résumé :
+Ce mémoire présente les activités de recherche que j'ai menées depuis 
+2002. Toujours centrées sur la bioinformatique, mes activités se sont 
+déplacées de la seule algorithmique à l'intelligence artificielle, à 
+partir de 2008. Sont particulièrement mis en lumière deux types 
+d'activités, relevant respectivement de l'optimisation combinatoire et 
+de l'apprentissage automatique. D'une part, dans le domaine de la 
+recherche de motif commun à des séquences biologiques, je me suis 
+notamment intéressée à la conception de méthodes heuristiques dédiées. 
+Ces travaux se sont concrétisés par la mise au point d'une méthode 
+hybride, intégrant un processus constructif et un processus évolutif. 
+D'autre part, introduisant une rupture totale dans la complexité des 
+problèmes abordés jusqu'alors dans mes activités, mes travaux se sont 
+ensuite focalisés sur les études d'association pangénomiques. Ces études 
+visent à identifier les facteurs génétiques responsables de maladies 
+génétiques, à l'échelle du génome, à partir de cohortes malades / non 
+malades. Dans ce cadre, au carrefour entre théorie des graphes et 
+théorie des probabilités, une nouvelle classe spécifique de modèles 
+graphiques probabilistes a été proposée. Ce type de modèle, ou forêt de 
+modèles hiérarchiques à variables latentes, est dédié à la modélisation 
+de données complexes, de grande dimension, et fortement corrélées. Cette 
+modélisation a facilité la conception d'un algorithme d'apprentissage 
+qui passe à l'échelle. Cette avancée a alors rendu possible la 
+modélisation des données génétiques décrivant une population à l'échelle 
+du génome. Enfin, la pertinence de l'utilisation de ce modèle pour 
+réaliser des études d'association génotype-phénotype a été démontrée sur 
+des données simulées et réelles.
+Un fil conducteur relie les deux activités particulièrement mises en 
+exergue dans le mémoire : traitant des problèmes de fouilles de données 
+complexes, elles recourent à diverses stratégies pour parcourir 
+efficacement l'espace de recherche. Le troisième volet du mémoire 
+présente plus rapidement une sélection de mes autres activités de 
+recherche. Ce spectre englobe la correction de données de phylogénie, la 
+génomique comparative centrée sur les promoteurs forts potentiels des 
+procaryotes, la modélisation de réseaux de régulation de gènes, 
+l'imputation de données génétiques et la simulation réaliste de données 
+génétiques. Trois de ces contributions sont étroitement liées aux deux 
+thématiques développées ci-dessus. La plupart des contributions évoquées 
+dans ce mémoire a abouti à la mise au point d'algorithmes validés sur 
+données réelles ou simulées. La grande majorité de ces contributions a 
+donné lieu à d'étroites collaborations interdisciplinaires avec des 
+biologistes, des statisticiens épidémiologistes et des mathématiciens 
+appliqués.

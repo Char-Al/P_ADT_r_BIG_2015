@@ -1,0 +1,79 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <speroni@cs.unibo.it>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 71B8226801D
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 09:51:59 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhgGADW/y1KCiAFmY2dsb2JhbABYAoMJOKhPAZIKaxYDGBVEgkkdLgU6GgmBG4dpDZpkqTGNHoILgnOBOgSZR5RO
+X-IronPort-AV: E=Sophos;i="4.95,617,1384297200"; 
+   d="scan'208";a="59797839"
+Received: from leb.cs.unibo.it ([130.136.1.102])
+  by a-mx1.relay.syrhano.net with ESMTP; 07 Jan 2014 09:51:58 +0100
+Received: from ssl.cs.unibo.it (ssl.cs.unibo.it [127.0.0.1]) (Authenticated sender: hidden)
+	by leb.cs.unibo.it (Postfix) with ESMTPSA id 3CE5C52E94 
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 09:51:57 +0100 (CET)
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+From: speroni@cs.unibo.it
+To: bioinfo@sfbi.fr
+Message-Id: <20140107085159.71B8226801D@asso.crihan.fr>
+Date: Tue,  7 Jan 2014 09:51:59 +0100 (CET)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] ESWC 2014 Final Call for Papers
+** apologies for cross-posting **
+==== Final Call for Papers ===
+http://2014.eswc-conferences.org/important-dates/call-papers
+** Deadline for abstracts (SHARP): 
+**     Wednesday 8th January 2014 - 23:59 Hawaii Time
+**
+** Deadline for full-papers (SHARP): 
+**     Monday 13th January 2014 - 23:59 Hawaii Time
+**
+** The submission of abstracts (8 Jan) is mandatory for submitting full papers (13 Jan)
+CFP: 11th Extended Semantic Web Conference (ESWC) 2014
+Dates: May 25 - 29, 2014
+Venue: Anissaras, Crete, Greece
+Hashtag: #eswc2014
+Feed: @eswc_conf
+Site: http://2014.eswc-conferences.org    
+General Chair: Valentina Presutti (STLab, ISTC-CNR, IT)
+Program Chairs:
+- Claudia d'Amato (Department of Computer Science, University of Bari, IT)
+- Fabien Gandon (Wimmics, Inria, I3S, CNRS, University of Nice Sophia Antipolis, FR)
+ESWC is a A rank conference according to CORE classification and a major venue for discussing the latest scientific results and technology innovations related to the Semantic Web. The 11th edition of ESWC will take place from May 25th, 2014 to May 29th, 2014 in Anissaras, Crete, Greece. Besides a main focus on advances in Semantic Web research and technologies, ESWC 2014 is seeking to broaden its attention to span other relevant research areas in which Web semantics plays an important role.
+The goal of the Semantic Web is to create a Web of knowledge and services in which the semantics of content is made explicit and content is linked to both other content and services. This arrangement of knowledge-based functionalities is weaving together a large network of human knowledge, and making this knowledge machine-processable to support intelligent behaviour by machines. Additionally, it supports novel applications allowing content from heterogeneous sources to be combined in unforeseen ways and support enhanced matching between users needs, software functionalities and online content.
+Creating such an interlinked Web of knowledge which bridges between heterogeneous content and services requires collaboration between several computer science domains. Also, within this hybrid space that the Web has become, where humans and software interact in a complex manner, fundamentally requires an inter-disciplinary approach to find novel solutions to the problems generated.    
+ESWC 2014 will feature twelve thematic research tracks (see below) and an in-use and industrial track. Submissions of interdisciplinary research papers, covering more than one thematic track, are also encouraged. In addition, the in-use and industrial track will provide an opportunity for dialogue and discussion on industrial applications, tools, deployment experiences, case studies and usage analysis.
+Submitted papers should describe original work, present significant results, and provide rigorous, principled, and repeatable evaluation. We strongly encourage and appreciate the submission of papers incorporating links to data sets and other material used for evaluation as well as to live demos and software source code.
+We therefore encourage submissions addressing several conference research topics. However, each paper should be associated with at least one of the topics of the conference. The main research topics this year are:
+- Vocabularies, Schemas, Ontologies;
+- Reasoning;
+- Linked Open Data;
+- Social Web;
+- Web Science;
+- Data Management, Big data, Scalability;
+- Natural Language Processing;
+- Information Retrieval;
+- Machine Learning;
+- Mobile Web;
+- Sensors;
+- Streams;
+- Services, processes, and cloud computing.
+Additional special research topics this year are:
+- Cognition and Semantic Web;
+- Policies, Rights, Governance;
+- Semantic multimedia web.
+*Important Dates*
+Abstract submission: Wednesday 8th January 2014 (sharp) - 23:59 Hawaii Time
+Full-paper submission: Monday 13th January 2014 (sharp) - 23:59 Hawaii Time
+Authors' Rebuttals: Wednesday 19th-Friday 21 Feb 2014
+Acceptance notifications: Wednesday 26 February 2014
+Camera-ready papers: Monday 10th of March 2014
+*Submission  Information*
+ESWC2014 welcomes the submission of original research and application papers dealing with all aspects of representing and using semantics on the Web. We encourage theoretical, methodological, empirical, and applications papers. The proceedings of this conference will be published in Springer's Lecture Notes in Computer Science series.
+This year three of the best papers presented at the conference will have the opportunity to submit an extended version to a special issue of the journal "Semantic Web - Interoperability, Usability, Applicability" (IOS Press).
+Papers should not exceed fifteen (15) pages in length and must be formatted according to the information for LNCS authors. Papers must be submitted in PDF (Adobe's Portable Document Format) format. Papers that exceed 15 pages or do not follow the LNCS guidelines will be automatically rejected without a review. Authors of accepted papers will be required to provide semantic annotations for the abstract of their submission - details of this process will be given on the conference Web page at the time of acceptance. At least one author of each accepted paper must register for the conference. More information about the Springer's Lecture Notes in Computer Science (LNCS) are available on the Springer LNCS Web site (http://www.springer.com/computer/lncs/lncs+authors).
+Submissions and reviewing will be supported by the EasyChair system: https://www.easychair.org/account/signin.cgi?conf=eswc2014

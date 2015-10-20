@@ -1,0 +1,75 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sebastien.hergalant@inserm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7262626801D
+	for <bioinfo@sfbi.fr>; Tue, 18 Mar 2014 19:05:58 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aq0BAJuKKFPDYvwlm2dsb2JhbABax2gWDgEBAQEBCAkLCRQogjgsMQEOPRYYAwIBAgFYBgIBAYd5nlSxcI4AEQFthCIElUuCe4Y1F48SgXE
+X-IronPort-AV: E=Sophos;i="4.97,679,1389740400"; 
+   d="scan'208";a="55591072"
+Received: from smtp.inserm.fr ([195.98.252.37])
+  by b-mx1.relay.syrhano.net with ESMTP; 18 Mar 2014 19:05:49 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.inserm.fr (SrvInserm) with ESMTP id 2CDC2168314
+	for <bioinfo@sfbi.fr>; Tue, 18 Mar 2014 19:05:47 +0100 (CET)
+X-Virus-Scanned: amavisd-new at inserm.fr
+Received: from smtp.inserm.fr ([195.98.252.37])
+	by localhost (potentille.inserm.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id vpBva3nX0W5x for <bioinfo@sfbi.fr>;
+	Tue, 18 Mar 2014 19:05:47 +0100 (CET)
+Received: from [193.55.6.107] (firefly.nancy.inserm.fr [193.55.6.107])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by smtp.inserm.fr (SrvInserm) with ESMTP id 0E90D16813B
+	for <bioinfo@sfbi.fr>; Tue, 18 Mar 2014 19:05:46 +0100 (CET)
+Message-ID: <53288AF2.5070505@inserm.fr>
+Date: Tue, 18 Mar 2014 19:05:38 +0100
+From: Sébastien_Hergalant <sebastien.hergalant@inserm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20120829 Thunderbird/15.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Recrutement d'un ingénieur en bioinformatique à Nancy
+L'équipe Bioinformatique et Génomique Intégrative (responsable Rémi
+Houlgatte), au sein du laboratoire N-GERE (directeur Jean-Louis Guéant),
+recherche un ingénieur bioinformaticien pour l'analyse de données
+génomiques, transcriptomique et de séquen=E7age nouvelle génération.
+Compétences :
+- Expérience et autonomie en développement, langages de scripts : perl,
+python, java, C/C++, bash (ou autre), R... (tous ne sont pas requis)
+- Ma=EEtrise des systèmes de gestion de bases de données / SQL
+- Bonne connaissance des systèmes Linux / Windows (des connaissances en
+réseaux seraient un plus)
+- Des connaissances en technologies web seraient appréciées : HTML, php
+,
+mysql, apache...
+- Connaissances/intérêt en génétique, génomique, biologie médic
+ale et en
+statistiques.
+- Anglais scientifique
+- Rigueur scientifique, organisation, travail d'équipe, autonomie et
+capacité à échanger.
+Diplômes : Master 2 en biologie/informatique/bioinformatique, diplôme
+d'ingénieur.
+Type de poste : CDD Ingénieur
+Lieu : NANCY
+Durée du poste : 14 mois
+Laboratoire : INSERM U954 / N-GERE
+Inserm U954 Nutrition, génétique et exposition aux risques
+environnementaux (N-GERE)
+Batiment C, 2nd floor
+Faculté de Médecine
+9 avenue de la forêt de Haye
+54505 Vandoeuvre-lès-Nancy
+France
+Rémunération : environ 1750 euros/mois net
+Candidatures : Par email à Sébastien Hergalant
+(sebastien.hergalant@inserm.fr), elles devront comporter, sans trop se
+formaliser :
+- Une lettre de motivation
+- Un CV le plus complet possible avec notes et mentions obtenues en M1
+et en M2 (ou similaires) si peu d'expérience

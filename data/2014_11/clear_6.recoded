@@ -1,0 +1,123 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Thomas.BURGER@cea.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 04B8D26801D
+	for <bioinfo@sfbi.fr>; Mon,  3 Nov 2014 16:31:25 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArUBAESfV1SEp8COnGdsb2JhbABcgmt3WATNfAqHTQKBIhYBAQEBAREBAQEBAQgLCQkUIwuEBAUMXAUeASpDEyYBBBuIOQEMpACdYoYQAQoBAQEBARyQX4JuD0QkgR4FhRsChhuGZYRMiQaLAo1YbAGBR4EDAQEB
+X-IPAS-Result: ArUBAESfV1SEp8COnGdsb2JhbABcgmt3WATNfAqHTQKBIhYBAQEBAREBAQEBAQgLCQkUIwuEBAUMXAUeASpDEyYBBBuIOQEMpACdYoYQAQoBAQEBARyQX4JuD0QkgR4FhRsChhuGZYRMiQaLAo1YbAGBR4EDAQEB
+X-IronPort-AV: E=Sophos;i="5.07,308,1413237600"; 
+   d="scan'208";a="67427458"
+Received: from cirse-out.extra.cea.fr ([132.167.192.142])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Nov 2014 16:31:25 +0100
+Received: from pisaure.intra.cea.fr (pisaure.intra.cea.fr [132.166.88.21])
+	by cirse.extra.cea.fr (8.14.2/8.14.2/CEAnet-Internet-out-2.3) with ESMTP id sA3FVO65028571
+	for <bioinfo@sfbi.fr>; Mon, 3 Nov 2014 16:31:24 +0100
+Received: from pisaure.intra.cea.fr (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id 7B09F201EF7
+	for <bioinfo@sfbi.fr>; Mon,  3 Nov 2014 16:31:29 +0100 (CET)
+Received: from muguet1.intra.cea.fr (muguet1.intra.cea.fr [132.166.192.6])
+	by pisaure.intra.cea.fr (Postfix) with ESMTP id 71F4B201EC2
+	for <bioinfo@sfbi.fr>; Mon,  3 Nov 2014 16:31:29 +0100 (CET)
+Received: from EXCAH-A2.intra.cea.fr (excah-a2.intra.cea.fr [132.166.88.76])
+	by muguet1.intra.cea.fr (8.13.8/8.13.8/CEAnet-Intranet-out-1.2) with ESMTP id sA3FVOI0013092
+	for <bioinfo@sfbi.fr>; Mon, 3 Nov 2014 16:31:24 +0100
+Received: from EXDAG0-B3.intra.cea.fr ([fe80::d0da:1b48:7560:ee73]) by
+ EXCAH-A2.intra.cea.fr ([fe80::1424:a20d:95ab:8077%10]) with mapi id
+ 14.03.0174.001; Mon, 3 Nov 2014 16:31:24 +0100
+From: BURGER Thomas 232477 <Thomas.BURGER@cea.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Prospectom 2014: programme et derniers jours d'inscriptions
+Thread-Index: Ac/3TfiHPwQpqnH2QP+Pg0rcRKWHbgALTMCQ
+Date: Mon, 3 Nov 2014 15:31:23 +0000
+Message-ID: <74CD13E3727CB2418EF46F56D5BCEDCC1B2D02D4@EXDAG0-B3.intra.cea.fr>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [132.166.88.106]
+x-tm-as-product-ver: SMEX-10.2.0.1135-7.500.1017-20752.007
+x-tm-as-result: No--15.610300-0.000000-31
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Prospectom 2014: programme et derniers jours d'inscriptions
+Atelier PROSPECTOM 19, 20 et 21 Novembre 2014 - Grenoble
+********************************************************
+Etude visuelle et interactive des protéomes par apprentissage statistique
+ et intégration des bases de données et de connaissances spectrométri
+ques et " omiques ".
+********************************************************
+http://prospectom.liglab.fr/atelier-2014
+Il est encore possible de s'inscrire à Prospectom jusqu'à la fin de la 
+semaine (vendredi 7 novembre) :
+http://prospectom.liglab.fr/atelier-2014/inscription.html
+Par ailleurs, le programme de l'atelier est maintenant disponible:
+http://prospectom.liglab.fr/atelier-2014/programme.html
+Mercredi 19 novembre après-midi
+Cette première demi-journée sera consacrée  à deux tutoriels qui se
+ dérouleront en parallèle.
+Tutoriel 1 : Laurent Gatto (Cambridge Center for Proteomics, Cambridge) : 
+"  An introduction to R/BioConductor for computational proteomics " Tut
+oriel 2 : Caroline Truntzer (Clinical Proteomic Platform, Dijon): "  Intr
+oduction aux biostatistiques pour la découverte de biomarqueurs "
+13h30-14h00 : Accueil des participants aux tutoriels
+14h00-15h15 : Tutoriels, partie I
+15h15-15h45 : Pause-café
+15h45-17h00 : Tutoriels, partie II
+Jeudi 20 novembre
+9h00-9h45 : Accueil des participants + café/thé
+9h45-10H00 : Ouverture des journées
+10H00-11H00 : Conférence d'introduction : Yohann COUTE (INSERM, EDyP, Gre
+noble) "  Défis de la protéomique quantitative label-free "
+11H00-11H30 : Pause-Café + installation des posters des participants
+11H30-12H30 : Conférence " visual analytics " : David AUBER (LaBRI, B
+ordeaux) " Visualisation interactive de données avec Tulip. Application
+ aux réseaux biologiques "
+12H30-14H00 : Repas
+14H00-15h30 : Atelier Visualisation, partie I : collecte des besoins de la 
+communauté Protéomique
+15h30-16h30 : Session participant I : bioinformatic tools (présentation d
+e 10 min sans questions pour préparer les posters)
+16h30-17h00 : Pause-Café
+17h00-18h00 : Session poster I (elle est située à côté de la salle 
+de café, de sorte qu'il y a continuité entre la pause et la session pos
+ter)
+18h00-20h00 : libre
+20h00 : Diner de gala (lieu à préciser)
+Vendredi 21 novembre
+9h00-10h00 : Conférence " Machine Learning " : Jean-Philippe VERT (In
+st. Curie, Ecole des Mines, Paris) " Machine Learning for personalized me
+dicine "
+10h00-10h30 : Pause-Café
+10h30-11h30 : Session participant II : biostatistics and biomarker discover
+y  (présentation de 10 min sans questions, pour préparer les posters)
+11h30 -12h30 : Conférence " Big Data " : Sihem AMER-YAHIA (CNRS, LIG,
+ Grenoble) " Big User Health Data Management "
+12h30- 14h00 : Repas +  Session poster II
+14h00-15h00 : Conférence " Spectrométrie de masse " : Marc-André 
+DELSUC (CNRS, IGBMC, Strasbourg) " Big data et traitement de données en
+ Spectrométrie de Masse : le projet MesureHD "
+15h00-16h00 : Atelier Visualisation, partie II : Restitution
+16h00-16h15 : Remerciement et conclusion
+NB : Le dernier jours, l'horaire de clôture a été déterminé afin 
+que les participants puissent aisément arriver à la gare de Grenoble (t
+rajet direct en tramway - ligne B, en 25 minutes environ) avant 17h00, à 
+temps pour les trains de 17h20 pour Paris, de 17h30 pour Marseille, ou de 1
+7h54 pour Genève.
+Au plaisir de vous voir à Grenoble !
+Thomas
+--
+Thomas Burger - CNRS Researcher, PhD
+https://sites.google.com/site/thomasburgerswebpage/
+iRTSV-BGE (Univ. Grenoble Alpes - CNRS - CEA - INSERM)
+CEA de Grenoble - Bât. 42b      | Tel.  : +33 4 38 78 22 72
+17 avenue des Martyrs           | Sec.  : +33 4 38 78
+ 39 97
+38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51  
+Exploring the Dynamics of Proteomes : http://edyp.fr/

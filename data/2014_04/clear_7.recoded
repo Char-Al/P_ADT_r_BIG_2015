@@ -1,0 +1,67 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <eugenio.cinquemani@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id AAC8D26801D
+	for <bioinfo@sfbi.fr>; Wed,  2 Apr 2014 14:20:01 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjQFAET/O1PAhqRogWdsb2JhbABZg0GORa5EhmSBbhYOAQEWJiiCXgEFfRMHGgJZBgIBAYd1BAmdRbFojw2CGA+BewSYVoEzkneBQQ
+X-IronPort-AV: E=Sophos;i="4.97,780,1389740400"; 
+   d="scan'208";a="56401000"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by b-mx1.relay.syrhano.net with ESMTP; 02 Apr 2014 14:20:01 +0200
+X-IronPort-AV: E=Sophos;i="4.97,780,1389740400"; 
+   d="scan'208";a="55240128"
+Received: from tarantellae.inrialpes.fr ([194.199.22.187])
+  by mail3-relais-sop.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 02 Apr 2014 14:20:00 +0200
+Message-ID: <533C0070.90802@inria.fr>
+Date: Wed, 02 Apr 2014 14:20:00 +0200
+From: Eugenio Cinquemani <eugenio.cinquemani@inria.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] PhD position at INRIA Grenoble - Rhône-Alpes on Modelling and estimation of gene expression variability in single cells
+PhD position at INRIA Grenoble - Rhône-Alpes, France
+MODELLING AND ESTIMATION OF GENE EXPRESSION VARIABILITY IN SINGLE CELLS
+In the context of the INRIA 2014 recruitment campaign, a PhD position in 
+the field of gene expression modelling is proposed at INRIA Grenoble - 
+Rhône -Alpes (France).
+The subject of the PhD is the estimation of gene expression dynamics in 
+individual cells from fluorescence microscopy experiments, with 
+perspective applications such as computer-based control of single-cell 
+behavior, and synthesis of novel biochemical circuits. The project will 
+be developed within team IBIS (ibis.inrialpes.fr) in tight collaboration 
+with Grégory Batt from team LIFEWARE at INRIA Paris Rocquencourt. It 
+will be focused on the expression in yeast of genes responsive to 
+changes of environmental osmolarity via the so-called HOG pathway. Based 
+on single-cell gene expression control experiments in microfluidic 
+devices developed by LIFEWARE, the following aspects are in the scope of 
+the project:
+* Development of individual-cell gene expression models accounting for 
+intrinsic and/or extrinsic noise;
+* Development and application of methods for the identification of the 
+above models;
+* Investigation of structural network identification from single-cell data;
+* Real-time estimation of unobserved gene expression dynamics;
+* Participation to design and execution of biological (wetlab) 
+single-cell experiments.
+Interested candidates should have a solid mathematical background with 
+an understanding of dynamical systems, probability and stochastic 
+processes, a strong interest in biology and biochemical regulatory 
+networks, and practical knowledge of scientific programming tools 
+(Matlab and/or C++, or the like).
+The successful candidate will be working in a multidisciplinary and 
+international environment. Propensity to interaction and cooperation are 
+expected qualities of the candidates.
+Application deadline is 04/05/2014. Applications must be submitted via 
+the official INRIA online system, see 
+http://www.inria.fr/institut/recrutement-metiers/offres/theses/campagne-2014 
+for the procedure as well as for eligibility, salary, and other information.
+More details on this project can be found at the link above (Thesis 
+subject n.17) and at http://ibis.inrialpes.fr/article1042.html .
+Interested candidates are encouraged to contact Eugenio Cinquemani 
+(http://ibis.inrialpes.fr/article941.html) at eugenio.cinquemani@inria.fr

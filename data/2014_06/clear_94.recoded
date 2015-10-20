@@ -1,0 +1,96 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <epbapteste@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 8708926801D
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 13:44:09 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AugBANkGrFNKfVI0lGdsb2JhbABag1+qcgoBBppkFg8BAQEBBwsLCRIqhBwgAQUIARsNAQ4CAxIQFhYYAwIBAgEREQEFAS8GAgEBHogLAQMRBZY3gxJqjRQFgxCRKgoZJw1lhWwRAQUNhVeNZgWaWIZ+iwBBhHRq
+X-IronPort-AV: E=Sophos;i="5.01,552,1400018400"; 
+   d="scan'208";a="60828892"
+Received: from mail-wg0-f52.google.com ([74.125.82.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 26 Jun 2014 13:44:09 +0200
+Received: by mail-wg0-f52.google.com with SMTP id b13so3499696wgh.11
+        for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 04:44:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=XVDil1ZCWPONVWItiIiTzv8EvgVqr2rCKhU+r8wCo2A=;
+        b=hOz0kTEfhZZllwTKjfr4ZP+DhN2VcoYpxEnnth1pgX/DuiaH38bk+MCIbzOYly4NGt
+         BP0LIVXodit7tD1D1UGRybmr/DCzLiqXF2UYnBd4ypduSvUWiPgjJm6j6uM8SgX1R2oa
+         bNP0irh8/aNy3iAAmUmi3NZYfnnr3rZUKn+FMdx4/poHQoSOAtyFR0xvwdR3U+wtwhIa
+         nex6nUJP43WUQhmYjh+CKW1vz9dyVtSgkSTBrBIxo8CV26rhhvrTT3EM9EO21XatjLmK
+         FbKfyc5ojonDllxCtEr+ZPHYqfBOO6S9nS61sXOBqZ+1U/UU/7W1oTtSS60kUzQ/SYRw
+         lmbg==
+X-Received: by 10.194.24.36 with SMTP id r4mr17154240wjf.35.1403783047325;
+        Thu, 26 Jun 2014 04:44:07 -0700 (PDT)
+Received: from [134.157.183.103] (7138-35.snv.jussieu.fr. [134.157.183.103])
+        by mx.google.com with ESMTPSA id 19sm13973133wjz.3.2014.06.26.04.44.06
+        for <bioinfo@sfbi.fr>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 26 Jun 2014 04:44:06 -0700 (PDT)
+Message-ID: <53AC081A.1090701@gmail.com>
+Date: Thu, 26 Jun 2014 13:46:34 +0200
+From: Eric Bapteste <epbapteste@gmail.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Postdoc.Paris6.EvolutionBioinformatics
+Hello,
+Please find below the description of a postdoctoral position in 
+evolutionary biology and bioinformatics to 'Search for common genetic 
+goods in gene families and microbial communities' in Paris 6 (UPMC).
+The theory of genetic public goods' recently postulated that genetic 
+sequences can be exploited in various combinations, even by distantly 
+related or unrelated evolving entities, i.e. microbial communities 
+benefiting from the sharing of genes between their members, such as 
+photosynthesis genes between cyanophages and cyanobacteria, or such as 
+drug resistance genes within multispecies biofilm. Yet, the nature, size 
+and diversity of microbial communities sharing such genetic goods' 
+remain poorly known. Moreover, the rules of gene sharing also remain to 
+be described.
+A wealth of molecular data from metagenomic, single cell metagenomic, 
+and microbial genomes projects is now available to tackle these 
+fundamental issues. Furthermore, sequence similarity networks offer a 
+promising complementary niche to phylogenetic methods to exploit the 
+complexity of these data. These graphs allow for mathematical analyses 
+of genetic diversity and similarities over dozens of millions of 
+sequences, providing novel ways to detect clubs' of genomes, which have 
+not necessarily evolved from a single last common ancestor yet exploit 
+some common genetic material. Likewise, these networks allows for the 
+detection of some sets' of gene families that exploit common pools of 
+genetic fragments/domains.
+To further develop the detection strategies of genetic public goods, our 
+lab is now looking for a post-doctoral fellow in bio-informatics, who 
+will be funded for up to three years by an ERC grant (for a salary of 
+45,000 euros/year; approximately 2219 euros/ month after taxes). The 
+candidate will take advantage of graph properties and algorithms from 
+the graph theory:
+- to improve the identification of clubs' of genomes /sets' of gene 
+and their pool of genetic goods in complex networks with a few millions 
+nodes and dozens of millions of edges;
+- to analyze domains combinations in genes and gene sharing in 
+communities, using bipartite graphs.
+- He/she will then analyze the functions of these genetic goods' and 
+their distribution across genes and genomes to test what lifestyles 
+favors their sharing.
+The candidate will work within a consortium of friendly 
+bioinformaticians (Philippe Lopez), evolutionary biologists (Eric 
+Bapteste), and graph theorists (Michel Habib, Laurent Viennot), and be 
+hosted in the University Pierre and Marie Curie in the center of Paris, 
+France. The current team description and publications can be found at: 
+http://www.evol-net.fr/
+Ideally, the candidate should have a good background in bio-informatics, 
+or graph theory and a strong interest for evolutionary biology. The 
+position will start by November 2014, but interested candidates are 
+invited to apply immediately.
+Applicants are requested to send a detailed resume, a motivation letter, 
+a pdf copy of their PhD's thesis, and the names of two scientific 
+referees to :
+eric.bapteste@snv.jussieu.fr
+The first round of applications will be closed by July 15, 2014.

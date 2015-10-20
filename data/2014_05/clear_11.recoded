@@ -1,0 +1,73 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Diana.Marek@isb-sib.ch>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id A210826801D
+	for <bioinfo@sfbi.fr>; Wed,  7 May 2014 10:35:57 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmIBAAbwaVPAIdeHl2dsb2JhbABAGoNVxWeBNw4BAQEBAQgWBzyCXgEFEQoYDQEjGRYEFAMCAQIBWAEFAgEBFQOIJQ02rmyfTxeLQ4JpJh2EKQSuJ4FBaw
+X-IronPort-AV: E=Sophos;i="4.97,1001,1389740400"; 
+   d="scan'208";a="66385108"
+Received: from bell-sib.unige.ch (HELO bell.isb-sib.ch) ([192.33.215.135])
+  by a-mx1.relay.syrhano.net with ESMTP; 07 May 2014 10:35:57 +0200
+Received: from cryptonc-020.unil.ch (cryptonc-020.unil.ch [130.223.2.29])
+	(authenticated bits=0)
+	by bell.isb-sib.ch (8.14.4/8.14.4) with ESMTP id s478Zi4G032081
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO);
+	Wed, 7 May 2014 10:35:51 +0200
+Message-ID: <5369F060.5060809@isb-sib.ch>
+Date: Wed, 07 May 2014 10:35:44 +0200
+From: Diana Marek <Diana.Marek@isb-sib.ch>
+Reply-To: staromics@cuso.ch
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Cc: Diana Marek <Diana.Marek@isb-sib.ch>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: @isb-sib.ch "No, score=-21.9 required=5.5 tests=AWL,BAYES_00,
+	UNPARSEABLE_RELAY,USER_IN_WHITELIST autolearn=no"
+X-Spam-Report: @isb-sib.ch
+	*  -20 USER_IN_WHITELIST From: address is in the user's white-list
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  0.0 UNPARSEABLE_RELAY Informational: message has unparseable relay lines
+	*  0.0 AWL AWL: From: address is in the auto white-list
+X-Spam-Checker-Version: @isb-sib.ch SpamAssassin
+X-MailScanner-Information: @isb-sib.ch Please contact SIB for more information
+X-MailScanner-ID: @isb-sib.ch s478Zi4G032081
+X-MailScanner: @isb-sib.ch Found to be clean
+X-MailScanner-From: @isb-sib.ch diana.marek@isb-sib.ch
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] SIB joint course with the Doctoral Program StarOmics : "Next Generation
+ Comparative Phylogenomics", 2-6 June 2014
+Dear all,
+We are pleased to announce the following course from the Doctoral 
+Program StarOmics and organized by the SIB Swiss Institute of Bioinformatics
+" Next Generation Comparative Phylogenomics".
+This four-day course will be held in Geneva during the week of 2-6 June 
+2014. It will focus on the species classification, which is based on 
+synapomorphies observed in comparative life science studies, including 
+morphology, anatomy, cell biology, developmental biology. In this 
+course, evolutionary concepts and biological findings will be linked to 
+associated alterations at the molecular level. Course days will be an 
+alternance of lectures and practicals.
+An extra day will be dedicated to a mini-symposium, where international 
+experts will present studies on improving the quality of large-scale 
+analysis and application of comparative phylogenomics.
+Further information and application form are available from: 
+http://edu.isb-sib.ch/course/view.php?id=156.
+Please note few seats are still available.
+For administrative questions, please contact staromics@cuso.ch
+For technical and scientific questions, please contact training@isb-sib.ch
+Hope to see you there!
+For the organizers,
+Diana Marek
+-- 
+Diana Marek, PhD
+Vital-IT group & Training and Outreach Group
+SIB| Swiss Institute of Bioinformatics
+Quartier Sorge - Batiment Génopode - CH 1015 Lausanne -Switzerland
+t +41 21 692 40 77 - f +41 21 692 40 65
+Diana.Marek@isb-sib.ch - www.vital-it.ch - www.isb-sib.ch

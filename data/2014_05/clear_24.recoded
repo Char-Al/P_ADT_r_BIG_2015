@@ -1,0 +1,31 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id D73D126801D; Tue, 13 May 2014 07:53:23 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: Kim-Anh Le Cao <k.lecao@uq.edu.au>
+Message-ID: <sympa.1399960276.26894.882@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue, 13 May 2014 07:53:23 +0200 (CEST)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] PhD project in Statistical Analysis and Biomarker discovery in Skin Cancer, University of Queensland Diamantina Institute, Brisbane, Australia
+We have (another) PhD position opening in the University of Queensland Diamantina Insitute, Brisbane, Australia.
+See contact below. 
+The University of Queensland Diamantina Institute was established in 2007 as the sixth research institute of The University of Queensland. The aim of the Institute is to develop a better understanding of the molecular and cellular basis of disease, and to translate that understanding into practical outcomes for patients. Based at the Translational Research Institute (TRI) at the Princess Alexandra Hospital teaching campus in Brisbane, the Institute has almost 200 researchers and students who work closely with clinicians in the areas of cancer, immunology and genomic medicine. UQDI is the largest partner in TRI, and is building major programs in Immunology, Cancer and Genomic Medicine research, with a particular focus on research aimed at development of new treatments. Details of the research interests of academic staff may be accessed on the Institute's web site at http://www.di.uq.edu.au/research. The institute also houses the University of Queensland Centre for Clinical Genomics (UQCCG), the largest next generation sequencing centre in the Southern Hemisphere, and has a specific focus on translational medicine.
+The Project
+Squamous cell carcinoma (SCC) is the second most common form of skin cancer. In Australia there were 138,000 new diagnoses of SSC, and 445 reported fatalities from the disease in 2010.
+The successful Scholar will pursue a PhD degree in bioinformatics using next generation sequencing data to study the genetic landscape in Squamous Cell Carcinoma (SCC) and the relationship between UV damaged skin, a pre-cancerous condition called Actinic keratosis (AK), and SCC. The candidate will develop algorithms to perform quality control of sequence data and methods to capture a comprehensive set of mutations in these samples. Methods to control for false positives and coincidental findings will be developed using a resource of 2000 control exomes that have been sequenced at The University of Queensland Centre for Clinical Genomics (UQCCG).
+The candidate will then develop statistical methods to search for biomarkers that can be used to identify the transition between tumour states and study the heterogeneity between tumours using SNPs, structural variations and copy number information. The project will be performed in collaboration with the Genomic Medicine and Cancer programs at UQDI. This analysis will require the use of high performance computing and programming in R and Perl.
+The Person
+The candidate will have a 1st Class Honours degree or equivalent in science, and should be eligible for an Australian Postgraduate Award (APA) or University of Queensland Research Scholarship (UQRS). We will consider students from a wide range of backgrounds, including: mathematics, statistics, epidemiology, computer science, bioinformatics, physics, genetics, and molecular biology. Laboratory experience in molecular biology, cell biology and/or genetics is also desirable, although not necessary. Applicants should be fluent in English.
+&#65532;
+Renumeration
+The base stipend will be at the rate of AUD$24,653 per annum (2013 rate) tax-free for three years with the possibility of a six month extension in approved circumstances. Top-up salary may be available to suitably qualified candidates.
+Contact
+For further information about the research project, please contact Professor David Evans (d.evans1@uq.edu.au) or Dr Paul Leo (p.leo@uq.edu.au). Enquiries can be received at any time. Start dates are throughout the year with the University allowing registrations commencing Jan 1, April 1, July 1 or Oct 1 each year.
+&#65532;

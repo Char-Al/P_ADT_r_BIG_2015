@@ -1,0 +1,81 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <manuel.ruiz@cirad.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id B2B5226801D
+	for <bioinfo@sfbi.fr>; Mon, 16 Jun 2014 16:43:26 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvABAEcCn1PCx+vdnGdsb2JhbABAGoNfw3mBERYPAQEBAQEICwkJFCiEFiYBBToGATwWBBQDAgECAVgBBQIBAYhAAgk2zwQXjnYdhC0Eij+QBIFDhTeOXIFgTg
+X-IronPort-AV: E=Sophos;i="5.01,487,1400018400"; 
+   d="scan'208";a="60228009"
+Received: from valgaudemar.cirad.fr ([194.199.235.221])
+  by b-mx1.relay.syrhano.net with ESMTP; 16 Jun 2014 16:43:00 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by valgaudemar.cirad.fr (Postfix) with ESMTP id F01612004E
+	for <bioinfo@sfbi.fr>; Mon, 16 Jun 2014 16:42:59 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at valgaudemar.cirad.fr
+Received: from valgaudemar.cirad.fr ([127.0.0.1])
+	by localhost (valgaudemar.cirad.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aBLQcMlwQykk; Mon, 16 Jun 2014 16:42:59 +0200 (CEST)
+Received: from [172.22.110.189] (unknown [181.118.144.200])
+	by valgaudemar.cirad.fr (Postfix) with ESMTPA id BFE3D20051;
+	Mon, 16 Jun 2014 16:42:57 +0200 (CEST)
+Message-ID: <539F0278.5020302@cirad.fr>
+Date: Mon, 16 Jun 2014 09:43:04 -0500
+From: Manuel Ruiz <manuel.ruiz@cirad.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Cc: Manuel Ruiz <manuel.ruiz@cirad.fr>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Un(e) =?WINDOWS-1252?Q?ing=E9nieur?=(e) en =?WINDOWS-1252?Q?d=E9veloppement?= =?WINDOWS-1252?Q?d=92applications?=, en contrat CDD, ARCAD Web-Services et portail national des ressources =?WINDOWS-1252?Q?g=E9n=E9tiques?= =?WINDOWS-1252?Q?v=E9g=E9tales?=
+L'UMR AGAP (Amélioration Génétique et Adaptation des Plantes 
+méditerranéennes et tropicales) recherche :
+Un(e) ingénieur(e) en développement d'applications, en contrat CDD
+Durée : 10 mois
+Début probable de la mission : 15 juillet 2014
+Lieu de travail : CIRAD Lavalette, accueilli au sein de l'équipe ID, UMR 
+AGAP, Montpellier, France
+Mission :
+Au sein de l'équipe ID (Intégration des Données) de l'UMR AGAP 
+(Amélioration Génétique et Adaptation des Plantes méditerranéennes et 
+tropicales),  la personne recrutée contribuera au projet d'élaboration 
+du système d'information national sur les ressources génétiques 
+végétales, dans le cadre du projet ARCAD2, incluant l'INRA, le CIRAD et 
+l'IRD. Les missions principales de ce poste seront : 1- d'élaborer et de 
+mettre en place le portail Web d'information sur les ressources 
+génétiques végétales, incluant différents modules de visualisation des 
+données, de commande, et d'information et 2- de mettre en place les Web 
+Services pour permettre l'interconnexion du portail avec les différents 
+services fournisseurs de données. Pour ce deuxième point, le travail se 
+fera entre autres en lien avec l'URGI de l'INRA Versailles pour 
+récupérer les données présentes au sein du système SIREGAL.
+Compétences :
+Fortes compétences nécessaires en technologies Web (Web Services, XML, 
+JSON, etc.)
+Expérience en bases de données relationnelles
+Maîtrise de l'environnement Unix/Linux
+Pratique d'un IDE (Eclipse)
+Une expérience du langage Java serait un plus.
+Bonne capacité de communication, et rédactionnelle, en anglais.
+Formation :
+Master 2 (bioinformatique, informatique) ou Ecole d'Ingénieur
+Contact :
+Manuel Ruiz (manuel.ruiz@cirad.fr), Chantal Hamelin 
+(chantal.hamelin@cirad.fr)
+-- 
+Manuel Ruiz
+CIRAD-BIOS
+UMR Amélioration Génétique et Adaptation des Plantes méditerranéennes et tropicales
+Equipe "Intégration des données"
+TA A-108/03
+Avenue Agropolis
+34398 Montpellier Cedex 5
+France
+Tel : (33) 4 67 61 65 29
+Fax : (33) 4 67 61 56 05
+e-mail : manuel.ruiz@cirad.fr
+http://agents.cirad.fr/index.php/manuel+ruiz/manuel_ruiz_en

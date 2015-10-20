@@ -1,0 +1,87 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=097840d6b=perrine.paul-gilloteaux@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id E553E26801D
+	for <bioinfo@sfbi.fr>; Mon, 27 Jan 2014 18:38:32 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnIBAJmY5lKBrzsknGdsb2JhbABag0RWvW8WDgEBAQEBCBQJPIInBUABASYDAg0RASpWJgEEEwgUh2mpMYRSAQWZIgaOKxEBgwYPZoEUiRSbd4hrPIE1OQ
+X-IronPort-AV: E=Sophos;i="4.95,730,1384297200"; 
+   d="scan'208";a="60962224"
+Received: from cip02-in.curie.u-psud.fr ([129.175.59.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 27 Jan 2014 18:38:32 +0100
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1390844311; x=1422380311;
+  h=from:to:subject:date:message-id:
+   content-transfer-encoding:mime-version;
+  bh=CBOUR8m1/EfVuyWAn16+mGvl00Fks7XZWPfegaexxqg=;
+  b=LYJExefGg8qE/LfA2CcWPHZ/yByU/GFXPGsgWnQnu78QQ5f8KMPvjJ9V
+   1VBHlsjgBQ40qik6Tl5/IZxrpl6Z5w==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqAEAAuZ5lIKAgBG/2dsb2JhbABag0RWvFmBLHSCJwVoAwIeASpWJgEEEwgUzwcXjisRAR+DXIEUBIkQm3eIa4FxOQ
+X-IPAS-Result: AqAEAAuZ5lIKAgBG/2dsb2JhbABag0RWvFmBLHSCJwVoAwIeASpWJgEEEwgUzwcXjisRAR+DXIEUBIkQm3eIa4FxOQ
+X-IronPort-AV: E=Sophos;i="4.95,730,1384297200"; 
+   d="scan'208";a="1025433"
+Received: from mbxparis01.curie.fr (HELO curie.fr) ([10.2.0.70])
+  by cip02-in.curie.u-psud.fr with ESMTP; 27 Jan 2014 18:38:31 +0100
+Received: from MBXPARIS02.recherche.curie.fr ([169.254.2.20]) by
+ mbxparis01.recherche.curie.fr ([169.254.1.184]) with mapi id 14.01.0289.001;
+ Mon, 27 Jan 2014 18:38:31 +0100
+From: Paul-Gilloteaux Perrine <perrine.paul-gilloteaux@curie.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: EMBL Master Course Bioimage Data Analysis (BIAS 2014) in May
+ (Heidelberg)
+Thread-Index: Ac8bhsVOxT0Xxpm4QOeNzZ85dddsvw=
+Date: Mon, 27 Jan 2014 17:38:30 +0000
+Message-ID: <10D59781A9A39A4089335C262EDC1978C74FEDF9@mbxparis02.recherche.curie.fr>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.10.11.42]
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] EMBL Master Course Bioimage Data Analysis (BIAS 2014) in May
+ (Heidelberg)
+Dear Colleagues,
+We are pleased to announce the EMBL Master Course Bioimage Data Analysis to
+ be held from Monday, 12 May - Friday ,16 May 2014.
+This course will focus on computational methods for analyzing images of pro
+teins, cells and tissues, to boost the learning process of participants who
+ have an immediate need to deploy image analysis in their own research. For
+ this the course extends from basic principles in ImageJ, Matlab and R to t
+he actual implementation of workflows using scripting. We expect that incre
+asing the image analysis literacy of the participants will greatly enhance 
+their scope, creativity and achievements of own research projects. We aim t
+o gather expert knowledge to organize a world-leading course for image anal
+ysis in the field of biology.
+The course will take place in Heidelberg, Germany at the EMBL Advanced Trai
+ning Centre.
+Registration and motivation letter deadline is February 25, 2014.
+Please visit our course website for more details, including course schedule
+ and list of confirmed speakers:
+http://www.embl.de/bias2014/
+You are welcome to circulate this announcement to interested members and gr
+oups within your institution.
+We look forward to welcoming you to Heidelberg, Germany.
+Scientific Organisers:
+Kota Miura, EMBL Heidelberg, Germany
+Sébastien Tosi, Institute for Research in Biomedicine - IRB Barcelona, Sp
+ain
+Perrine Paul-Gilloteaux, Institut Curie, France
+If you have any questions, please do not hesitate to contact:
+Diah Yulianti
+Conference Officer
+European Molecular Biology Laboratory
+Email: diah.yulianti@embl.de
+--
+Perrine Gilloteaux, IR CNRS
+PICT-IBISA, UMR144
+Institut Curie/ CNRS
+12 rue Lhomond 75005 Paris
++33 (0) 1 56 24 68 16
+Perrine.paul-gilloteaux@curie.fr

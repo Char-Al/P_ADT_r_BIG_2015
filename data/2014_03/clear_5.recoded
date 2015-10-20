@@ -1,0 +1,132 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pierre.peterlongo@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 3C61226801D
+	for <bioinfo@sfbi.fr>; Mon,  3 Mar 2014 08:49:21 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Au8CAG8zFFPAhqRTf2dsb2JhbABag0HCQxYOAQELCwoIFCiCSRsdEQIGCj0TAxgDAgECAVgIAQEFh3ANnDyvaReOAQSDCQ+BewSMaYtTh0aOE4Fn
+X-IronPort-AV: E=Sophos;i="4.97,576,1389740400"; 
+   d="scan'208";a="62806541"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by a-mx1.relay.syrhano.net with ESMTP; 03 Mar 2014 08:49:21 +0100
+X-IronPort-AV: E=Sophos;i="4.97,576,1389740400"; 
+   d="scan'208";a="60999221"
+Received: from cruxy.irisa.fr ([131.254.12.2])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 03 Mar 2014 08:49:19 +0100
+Message-ID: <53143401.7040507@inria.fr>
+Date: Mon, 03 Mar 2014 08:49:21 +0100
+From: Pierre Peterlongo <pierre.peterlongo@inria.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CFP: Prague Stringology Conference 2014
+---------------------------------------------------------------------------
+                    Prague Stringology Conference 2014
+                19th event of the Prague Stringology Club
+                       http://www.stringology.org
+                            Call for Papers
+               Prague, Czech Republic, September 1-3, 2014
+---------------------------------------------------------------------------
+* New: indexed by Scopus and Thomson Reuters
+PSC 2014 is the 19th event of the Prague Stringology Club. It is an
+international conference focusing on stringology and related areas. It
+is organized annually by the Prague Stringology Club, a research group
+in the Department of Theoretical Computer Science at the Faculty of
+Information Technology of Czech Technical University in Prague. The
+proceedings of recent conferences are indexed in Thomson Reuters,
+Scopus and DBLP.
+TOPICS:
+Stringology is a part of algorithmic research that deals with the
+processing of text strings. It has existed for at least thirty years
+and developed into a respected subfield of its own. The last twenty
+years have produced an explosion of new results. This progress is due
+in part to the human genome effort, an area to which string algorithms
+make important contributions. String processing extends into tree
+processing that is called Arbology. The topics of the conference
+include but are not limited to:
+   * algorithms for pattern matching in strings, images and trees
+   * data structures (automata, trees etc.) for pattern matching
+     in strings, images and trees
+   * coding and data compression
+   * bioinformatics
+   * information retrieval
+   * string processing algorithms in databases
+   * searching for regularities
+   * natural language processing
+INVITED TALK:
+   * To be announced
+SUBMISSION:
+Authors are cordially invited to submit their full papers (PDF format,
+up to 15 pages, A4 page format) by May 13, 2014. The paper should start
+with the title, each author's name, affiliation, and e-mail address,
+and a one-paragraph summary of the results and ideas. The paper should
+be submitted via submission server
+(https://www.easychair.org/conferences/?conf=psc20140).
+For their final version the papers are required to be prepared using
+the LaTeX style available athttp://www.stringology.org/pscproc2
+which has an interface compatible to the standard LNCS style.
+IMPORTANT DATES:
+   * Submission of Papers: May 13, 2014
+   * Notification of Acceptance: June 27, 2014
+   * Early Registration: July 7, 2014
+   * Final Version Due: July 7, 2014
+PROGRAM COMMITTEE:
+   * A. Amir, Bar Ilan University, Israel
+   * G. Andrejkova, P. J. Safarik University, Slovakia
+   * M. Crochemore, University of Marne-la-Vallee, France,
+            and King's College London, UK
+   * S. Faro, University of Catania, Italy
+   * F. Franek, McMaster University, Canada
+   * J. Holub (chair), Czech Technical University in Prague,
+            Czech Republic
+   * C. S. Iliopoulos, King's College London, UK
+   * S. Inenaga, Kyushu University, Japan
+   * S. T. Klein, Bar Ilan University, Israel
+   * T. Lecroq (chair), University of Rouen, France
+   * B. Melichar (honorary chair), Czech Technical University in Prague,
+            Czech Republic
+   * Y. Pinzon, National University of Colombia, Colombia
+   * M.-F. Sagot, Inria Rhone-Alpes, France
+   * W. F. Smyth, McMaster University, Canada, and
+            Curtin University of Technology, Australia
+   * B. W. Watson, FASTAR Group (Stellenbosch University), South Africa
+   * J. Zdarek, Czech Technical University in Prague, Czech Republic
+ORGANIZING COMMITTEE:
+   * M. Balik (co-chair), Czech Technical University in Prague,
+            Czech Republic
+   * J. Holub (co-chair), Czech Technical University in Prague,
+            Czech Republic
+   * J. Janousek, Czech Technical University in Prague, Czech Republic
+   * B. Melichar, Czech Technical University in Prague, Czech Republic
+   * L. Vagner, Czech Technical University in Prague, Czech Republic
+   * J. Zdarek, Czech Technical University in Prague, Czech Republic
+HISTORY:
+PSC 2014 was preceded by Prague Stringology Workshops in 1996-2000 and
+by Prague Stringology Conferences in 2001-2006, 2008-2013. Each year
+proceedings are prepared for the conference. They are published by
+Czech Technical University in Prague and are also available from the
+PSC web pages. Selected papers from the later workshops were also
+published in a special issue of the journal Kybernetika. Selected
+papers from the 2002-2006, 2008 conferences were then published in the
+Nordic Journal of Computing, Journal of Automata, Languages, and
+Combinatorics, International Journal of Foundations in Computer
+Science, and Discrete Applied Mathematics.
+LOCATION & PUBLICATION:
+PSC 2014 will be held at the Department of Theoretical Computer Science
+the Czech Technical University in Prague on September 1-3, 2014.
+(The precise location will be announced later.) The working
+language is English. As usual, accepted papers will appear in
+conference proceedings published by the Czech Technical University in
+Prague and distributed at the conference. After further refereeing,
+selected papers will then be published in an international journal.
+---------------------------------------------------------------------------
+We apologize if you have received multiple copies of this announcement.
+If you wish to be removed from the mailing list used for distributing
+announcements of the Prague Stringology Conferences or other events
+related to automata and stringology (see the topics above), reply this
+e-mail with the message "REMOVE ME FROM THIS MAILING LIST."

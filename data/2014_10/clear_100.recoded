@@ -1,0 +1,159 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <maxime.durot@total.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3B50D26801D
+	for <bioinfo@sfbi.fr>; Thu, 30 Oct 2014 07:49:05 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkcBAPDeUVSN4wABnGdsb2JhbABSCoNizwMMhndUAoEcFgEBAQEBEQEBAQEBBg0JCRQjC4QJOjECAgIaAT4vEyYBBBsOiC8JoyakQAEKAQEBGgSQNCuCbg9EJIEeBYYshT2GJ4RHiESDSoopizEfgnoBAQE
+X-IPAS-Result: AkcBAPDeUVSN4wABnGdsb2JhbABSCoNizwMMhndUAoEcFgEBAQEBEQEBAQEBBg0JCRQjC4QJOjECAgIaAT4vEyYBBBsOiC8JoyakQAEKAQEBGgSQNCuCbg9EJIEeBYYshT2GJ4RHiESDSoopizEfgnoBAQE
+X-IronPort-AV: E=Sophos;i="5.07,284,1413237600"; 
+   d="scan'208";a="67173918"
+Received: from relay02.par.totalfinaelf.net ([141.227.0.1])
+  by b-mx1.relay.syrhano.net with ESMTP; 30 Oct 2014 07:48:42 +0100
+Received-SPF: None (SEA-PAR-PUB-MX5-Int.sea.local: no sender
+  authenticity information available from domain of
+  maxime.durot@total.com) identity=pra; client-ip=10.16.87.39;
+  receiver=SEA-PAR-PUB-MX5-Int.sea.local;
+  envelope-from="maxime.durot@total.com";
+  x-sender="maxime.durot@total.com";
+  x-conformance=sidf_compatible
+Received-SPF: None (SEA-PAR-PUB-MX5-Int.sea.local: no sender
+  authenticity information available from domain of
+  maxime.durot@total.com) identity=mailfrom;
+  client-ip=10.16.87.39;
+  receiver=SEA-PAR-PUB-MX5-Int.sea.local;
+  envelope-from="maxime.durot@total.com";
+  x-sender="maxime.durot@total.com";
+  x-conformance=sidf_compatible
+Received-SPF: None (SEA-PAR-PUB-MX5-Int.sea.local: no sender
+  authenticity information available from domain of
+  postmaster@EMEAGLBCOU-EH04.glb.corp.local) identity=helo;
+  client-ip=10.16.87.39;
+  receiver=SEA-PAR-PUB-MX5-Int.sea.local;
+  envelope-from="maxime.durot@total.com";
+  x-sender="postmaster@EMEAGLBCOU-EH04.glb.corp.local";
+  x-conformance=sidf_compatible
+Received: from EMEAMAICLI-EH03.main.glb.corp.local (10.16.87.254) by
+ EMEAGLBCOU-EH04.glb.corp.local (10.16.87.39) with Microsoft SMTP Server (TLS)
+ id 8.3.137.0; Thu, 30 Oct 2014 07:48:40 +0100
+Received: from AMASMAI-EM01.main.glb.corp.local (10.30.129.3) by
+ EMEAMAICLI-EH03.main.glb.corp.local (10.30.30.34) with Microsoft SMTP Server
+ (TLS) id 8.3.137.0; Thu, 30 Oct 2014 07:48:40 +0100
+Received: from AMASMAI-ED11.main.glb.corp.local ([169.254.2.104]) by
+ AMASMAI-EM01.main.glb.corp.local ([10.30.129.3]) with mapi; Thu, 30 Oct 2014
+ 01:48:39 -0500
+From: Maxime DUROT <maxime.durot@total.com>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Date: Thu, 30 Oct 2014 01:48:37 -0500
+Thread-Topic: Computational biology position at TOTAL - metabolic
+ modeling/bioretrosynthesis
+Thread-Index: Ac/0DYhrvCxAEIFvRsuLVXpi1np8ew=
+Message-ID: <7F0FC2CCE8FF9B4AA5079E8A5D490099B6977F3382@AMASMAI-ED11.main.glb.corp.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Computational biology position at TOTAL - metabolic
+ modeling/bioretrosynthesis
+Computational Biology Scientist -  metabolic modeling / bioretrosynthesis
+https://careers.total.com/front/web/guest/fiche-offre/-/offrePortlet/detail
+/10058926
+TOTAL is one of the largest energy companies in the world, with over 97,000
+ employees, activities in more than 130 countries, and a division, TOTAL Ne
+w Energies, dedicated to the commercial development of renewable energies (
+photovoltaics, concentrated solar energy, advanced biofuels and biotechnolo
+gy). TOTAL New Energies pursues differentiation through technology as the f
+irst step towards building competitive integrated industrial operations in 
+these renewable energies. TOTAL's Biotechnology R&D Department is responsib
+le for developing advanced biofuels and chemicals from renewable resources 
+and leverages R&D partnerships with innovative start-ups (e.g. Amyris, Novo
+gy), top class research institutes (e.g. Joint BioEnergy Institute JBEI) an
+d academic labs. This open network of partnerships enables it to design, de
+velop, and assemble technologies that could make a real difference in the n
+ear or mid-term future.
+In an effort to further boost the development of renewable products inside 
+the Group, TOTAL is opening a joint R&D laboratory in Solaize (France) betw
+een its New Energies (NE) and its Marketing & Services (M&S) branches. This
+ laboratory will join in a pioneering manner the product and market experti
+se of the M&S branch with the cutting-edge know-how in biotechnology and ch
+emical processes of the NE branch. It will tackle the exciting challenge of
+ significantly expanding the portfolio of bio-sourced, sustainable products
+ developed by TOTAL, while maintaining or improving their level of performa
+nce.
+TOTAL is seeking an enthusiastic, creative, and team-oriented computational
+ biology scientist to support the development of this ambitious laboratory.
+ He/she will contribute to the development of bioproducts computational des
+ign tools and will be the main developer of bioretrosynthesis approaches. T
+hese approaches will consist in exploring the wealth of biochemical transfo
+rmations - through state-of-the-art computational modeling and data mining 
+- to design efficient biochemical conversion routes toward the biomolecules
+ of interest for TOTAL M&S. As such, the computational biology scientist wi
+ll interact closely with scientists in other areas of the laboratory (chemi
+sts, process engineers, analytics scientists, computational chemistry scien
+tists), so as to best integrate constraints on product design and performan
+ce in the bioretrosynthesis approaches.
+Backed by strong backgrounds in biotechnology, biochemistry, data analysis 
+and computer science, the computational biology scientist will be equally f
+luent at imagining innovative methods, implementing robust computational in
+frastructure, and communicating / exchanging ideas with other members of th
+e laboratory and of the company. The position will be at the heart of TOTAL
+'s new renewable products design and will therefore involve as well signifi
+cant interactions with other members and projects of the New Energies Biote
+chnology R&D department.
+Key responsibilities
+-	Conceive and implement computational methods designing biochemical transf
+ormation routes that convert biomass feedstock into target biomolecules.
+-	Collaborate closely with scientists of the laboratory to integrate constr
+aints on product design and performance in the bioretrosynthesis methods. I
+n particular, tailor the methods to the types of molecules targeted by the 
+laboratory and leverage QSPR predictions to identify the most promising mol
+ecules based on their properties.
+-	Propose and implement relevant criteria for selecting the most promising 
+transformation routes: novelty, performance of production, estimated cost o
+f production, etc.
+-	Develop a robust software infrastructure implementing metabolic modeling 
+and bioretrosynthesis methods.
+-	Apply the bioretrosynthesis methods to molecules of interests for TOTAL M
+&S. Rank predicted routes by relevance. Help conceive R&D development plans
+ for the biotechnological routes deemed most promising.
+-	Contribute to the development of a robust computational biology infrastru
+cture for the joint NE/M&S laboratory as well as for the New Energies Biote
+chnology R&D department.
+-	Communicate and report on scientific results.
+Required qualifications
+Education
+-	PhD in Computational Biology, Systems Biology or Synthetic Biology.
+Knowledge and experience
+-	Strong experience in computational biology and large-scale modeling of me
+tabolism and synthetic pathways. In particular, excellent knowledge of tool
+s used to build genome-scale metabolic networks, analyze intracellular flux
+ distributions, explore public bioinformatics databases.
+-	Excellent knowledge of biochemistry, microbiology, metabolic engineering.
+-	Proven experience in software development. Expert coder in Python, R/Matl
+ab, and/or C/C++.
+-	Strong ability to organize and manage large amounts of heterogeneous data
+. Experience with databases, SQL, and schema design will be as strong asset.
+-	Good knowledge of statistical methods. Experience with machine learning w
+ould be a plus.
+-	Good knowledge of numerical optimization methods, in particular for const
+rained optimization problems (LP, QP, MILP).
+-	Ability to work in a multidisciplinary environment, in particular at the 
+interface with Systems Biology, Synthetic Biology, Metabolic Engineering, M
+icrobiology, Biochemistry, Chemistry, Process Engineering.
+-	A proven track-record of innovative research through achievements, public
+ations and/or patents.
+-	Fluent in English.
+Personal qualities
+-	Creative ;  excellent analytical and problem solving capabilities
+-	Capacity to take initiative and be proactive
+-	Good interpersonal skills, team-player
+-	Clear communication skills.
+Please apply online at https://careers.total.com/front/web/guest/fiche-offr
+e/-/offrePortlet/detail/10058926

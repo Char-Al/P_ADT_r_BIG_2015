@@ -1,0 +1,55 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C296B26801D
+	for <bioinfo@sfbi.fr>; Mon,  3 Nov 2014 15:22:35 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApIBAK6OV1SKZqI0nGdsb2JhbABcg2JYAYMFyn+JCgEBAQEBEQEBAQEBCAsJCRQuhCwQBRErCA4kAh8HAhIsECSIQQ2jZY9CgXSMKYY7gS2PAREBbYJhgVQFgTC0aAEKAQEBX4FFa4EPgTwBAQE
+X-IPAS-Result: ApIBAK6OV1SKZqI0nGdsb2JhbABcg2JYAYMFyn+JCgEBAQEBEQEBAQEBCAsJCRQuhCwQBRErCA4kAh8HAhIsECSIQQ2jZY9CgXSMKYY7gS2PAREBbYJhgVQFgTC0aAEKAQEBX4FFa4EPgTwBAQE
+X-IronPort-AV: E=Sophos;i="5.07,308,1413237600"; 
+   d="scan'208";a="67421011"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Nov 2014 15:22:36 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sA3EMYgK005423
+	for <bioinfo@sfbi.fr>; Mon, 3 Nov 2014 15:22:34 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 5EA78296BCB
+	for <bioinfo@sfbi.fr>; Mon,  3 Nov 2014 15:22:34 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XlIYm-0009oZ-0E
+	for bioinfo@sfbi.fr; Mon, 03 Nov 2014 15:24:44 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XlIYm-0009oZ-0E@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Mon, 03 Nov 2014 15:24:44 +0100
+X-Miltered: at beta with ID 54578FAA.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54578FAA.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54578FAA.000 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.232 -> S=0.318
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] M2 - =?UTF-8?Q?D=C3=A9crypter?= les =?UTF-8?Q?m=C3=A9canismes?=   d'adaptation des manchots aux changements de t  =?UTF-8?Q?emp=C3=A9ratures?= =?UTF-8?Q?oc=C3=A9aniques?=: transcriptomique et g  =?UTF-8?Q?=C3=A9nomique?= comparative
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : M2 - Décrypter les mécanismes d'adaptation des  
+manchots aux changements de températures océaniques: transcriptomique et  
+génomique comparative
+Type de poste : Stage
+Durée du poste : 5/6 mois
+Ville : Lyon-Villeurbanne
+Nom du contact : Benjamin Rey
+Email du contact : benjamin.rey@univ-lyon1.fr
+Laboratoire : Biométrie et Biologie Evolutive
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m2-d%C3%A9crypter-les-m%C3%A9canismes-dadaptation-des-manchots-aux-changements-de-temp%C3%A9ratures-oc%C3%A9aniq

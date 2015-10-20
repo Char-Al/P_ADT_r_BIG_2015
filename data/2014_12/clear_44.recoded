@@ -1,0 +1,44 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <florian.sikora@dauphine.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 50C1526801D
+	for <bioinfo@sfbi.fr>; Thu, 11 Dec 2014 15:23:23 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: As4CABqoiVTBMahZd2dsb2JhbABZg1hZxXuFZQMCAoEcFgEBAQEBEQEMCgoJFC6EDQEFDCYBBUARLBYPCQMCAQIBRRMIAQGILAnYN40vgj4WhBMFnGWLOAKED4MwAQEB
+X-IPAS-Result: As4CABqoiVTBMahZd2dsb2JhbABZg1hZxXuFZQMCAoEcFgEBAQEBEQEMCgoJFC6EDQEFDCYBBUARLBYPCQMCAQIBRRMIAQGILAnYN40vgj4WhBMFnGWLOAKED4MwAQEB
+X-IronPort-AV: E=Sophos;i="5.07,558,1413237600"; 
+   d="scan'208";a="69770558"
+Received: from mta2.dauphine.fr ([193.49.168.89])
+  by b-mx1.relay.syrhano.net with ESMTP; 11 Dec 2014 15:23:23 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mta2.dauphine.fr (Postfix) with ESMTP id 3876180262
+	for <bioinfo@sfbi.fr>; Thu, 11 Dec 2014 15:23:20 +0100 (CET)
+X-Virus-Scanned: amavisd-new at dauphine.fr
+Received: from mta2.dauphine.fr ([127.0.0.1])
+	by localhost (mta2.dauphine.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QG5lDOZVVpJo for <bioinfo@sfbi.fr>;
+	Thu, 11 Dec 2014 15:23:20 +0100 (CET)
+Received: from [10.1.3.106] (unknown [193.48.71.237])
+	by mta2.dauphine.fr (Postfix) with ESMTP id 255DA801C6
+	for <bioinfo@sfbi.fr>; Thu, 11 Dec 2014 15:23:19 +0100 (CET)
+Message-ID: <5489A8D6.3050400@dauphine.fr>
+Date: Thu, 11 Dec 2014 15:23:18 +0100
+From: Florian Sikora <florian.sikora@dauphine.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <B8F5626F-E17B-4721-814D-A921B9027606@ii.uib.no>
+In-Reply-To: <B8F5626F-E17B-4721-814D-A921B9027606@ii.uib.no>
+X-Forwarded-Message-Id: <B8F5626F-E17B-4721-814D-A921B9027606@ii.uib.no>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] University Bergen Professor / Associate Professor in Bioinformatics
+-------- Message transféré --------
+The Department of Informatics (http://www.uib.no/en/ii) has up to two 
+positions as professor in bioinformatics available.
+See
+http://www.jobbnorge.no/en/available-jobs/job/108238/professor-associate-professor-in-bioinformatics-up-to-2-positions
+for more info.

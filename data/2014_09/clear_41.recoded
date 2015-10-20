@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 4A8D326801D
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 19:15:41 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AioBADApE1SKZqI0h2dsb2JhbABgg2BXgnzFeYdCgTEQAQEBCA0JBxYqhC0QBREzDiQCJgISERsQJIguAxENmG6PNIF0jQQNMYZUgSyLdIFLEQFtgmOBUwWBLohmkGSREYhZgUhqgQ+BQAEBAQ
+X-IPAS-Result: AioBADApE1SKZqI0h2dsb2JhbABgg2BXgnzFeYdCgTEQAQEBCA0JBxYqhC0QBREzDiQCJgISERsQJIguAxENmG6PNIF0jQQNMYZUgSyLdIFLEQFtgmOBUwWBLohmkGSREYhZgUhqgQ+BQAEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,514,1406584800"; 
+   d="scan'208";a="72787118"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 12 Sep 2014 19:15:40 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s8CHFdjH005944
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 19:15:39 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 58BB5296B97
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 19:15:39 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XSUTR-000GXw-SK
+	for bioinfo@sfbi.fr; Fri, 12 Sep 2014 19:17:29 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XSUTR-000GXw-SK@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Fri, 12 Sep 2014 19:17:29 +0200
+X-Miltered: at alpha with ID 54132A3B.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54132A3B.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54132A3B.001 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.259 -> S=0.351
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][=?UTF-8?Q?Th=C3=A8se?=] Metabolic regulation of the ep  igenome in early embryonic differentiation
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Metabolic regulation of the epigenome in early embryonic  
+differentiation
+Type de poste : Thèse
+Durée du poste : 36-48 mois
+Ville : Cambridege, UK
+Nom du contact : Nicolas Le Novere
+Email du contact : n.lenovere@gmail.com
+Laboratoire : Le Novere Lab, Babraham Institute
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/metabolic-regulation-epigenome-early-embryonic-differentiation

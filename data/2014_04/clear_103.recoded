@@ -1,0 +1,92 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <vincent.lacroix@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 1B83026801D
+	for <bioinfo@sfbi.fr>; Tue, 29 Apr 2014 10:03:31 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApgBAEVcX1OG1rySnGdsb2JhbABZg1XGahYOAQEBAQEICwkJFCiCOCYBBTEBAQIFQxYYAwIBAgFYBgIBAYg9DZYZsnuObIQjBJpJhSOPNQ
+X-IronPort-AV: E=Sophos;i="4.97,949,1389740400"; 
+   d="scan'208";a="65988119"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by a-mx1.relay.syrhano.net with ESMTP; 29 Apr 2014 10:03:30 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 035A8E0224
+	for <bioinfo@sfbi.fr>; Tue, 29 Apr 2014 10:03:30 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a4e0F+HGthRQ for <bioinfo@sfbi.fr>;
+	Tue, 29 Apr 2014 10:03:25 +0200 (CEST)
+Received: from [134.214.35.20] (umr5558-baobab-bigxeon.univ-lyon1.fr [134.214.35.20])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 97D42E0229
+	for <bioinfo@sfbi.fr>; Tue, 29 Apr 2014 10:03:25 +0200 (CEST)
+Message-ID: <535F5CCB.8090206@univ-lyon1.fr>
+Date: Tue, 29 Apr 2014 10:03:23 +0200
+From: Vincent Lacroix <vincent.lacroix@univ-lyon1.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Poste de MCU au LBBE, =?WINDOWS-1252?Q?Universit=E9?= Lyon 1 : date limite candidature 5 Mai
+Bonjour à toutes et à tous,
+Un poste de MCU dans la campagne de recrutement FIORASO est ouvert
+au Laboratoire de Biométrie et Biologie Évolutive (LBBE) de l'Université
+Lyon 1, avec comme équipe d'intégration l'équipe BAOBAB-BAMBOO
+dirigée par Marie-France Sagot.
+La date limite de candidature est le 5 Mai 2014. La fiche complète de poste
+est disponible ici :
+https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/ListesPostesPublies/Emplois_publies_TrieParCorps.html 
+Référence Galaxie : 4261
+La candidature se fait via Galaxie.
+Le profil Enseignement couvre les aspects bioinformatique et 
+biostatistiques
+au sein du Département de Biologie. Les postes FIORASO ont aussi
+un volet e-learning qui sera à développer par le/la candidat(e) en support
+avec l'équipe pédagogique du laboratoire qui a déjà une expertise
+reconnue dans ce domaine.
+Le profil Recherche couvre les aspects algorithmique et mathématiques
+pour l'étude des réseaux d'interactions intra- et inter-organismes
+(symbiose entendu dans le sens large de relations durables).
+Le/la candidat(e) devra posséder une formation interdisciplinaire, avec une
+forte composante en algorithmique et en mathématiques, ainsi que de bonnes
+connaissances en biologie, avec un intérêt pour la symbiose. Le/la 
+candidat(e)
+devra avoir démontré sa capacité à contribuer à l'étude d'un problème
+biologique à l'aide de méthodes originales. Des connaissances en 
+informatique
+sont fortement souhaitées afin de mettre en oeuvre les développements
+réalisés et de les diffuser à la communauté scientifique internationale.
+Le/la candidat(e) participera aux diverses activités collaboratrices que 
+l'équipe
+BAOBAB-BAMBOO maintient avec d'autres équipes expérimentales et
+méthodologiques au sein du laboratoire, en France et au niveau 
+international
+(notamment via un LIA avec le Brésil, et une équipe européenne Inria en 
+cours de
+création : ERABLE).
+Les candidat(e)s sont vivement encouragé(e)s à contacter :
+pour la partie Enseignement :
+Vincent Lacroix : vincent.lacroix@univ-lyon1.fr
+Sylvain Mousset : sylvain.mousset@univ-lyon1.fr
+pour la partie Recherche :
+Dominique Mouchiroud, directrice du LBBE : 
+dominique.mouchiroud@univ-lyon1.fr
+Marie-France Sagot, responsable de l'équipe BAOBAB-BAMBOO : 
+marie-france.sagot@inria.fr
+site web de l'équipe : 
+http://lbbe.univ-lyon1.fr/-Equipe-Baobab-.html?lang=fr
+-- 
+Vincent Lacroix
+Université Claude Bernard - Lyon I
+UMR CNRS 5558 Biometrie et Biologie Évolutive
+INRIA Projet BAMBOO
+http://lbbe.univ-lyon1.fr/-Lacroix-Vincent-.html
+************** ATTENTION NOUVELLE ADRESSE ELECTRONIQUE **************
+*                                                                   *
+*                  vincent.lacroix@univ-lyon1.fr                    *
+*                                                                   *
+*********************************************************************

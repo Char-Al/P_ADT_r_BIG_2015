@@ -1,0 +1,85 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Eric.Fanchon@imag.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id C5DB626801D
+	for <bioinfo@sfbi.fr>; Fri, 21 Mar 2014 16:25:50 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhsDACRZLFOBWB4Fh2dsb2JhbABZg0GOObYiDgEBAQgNCQcWKII4JgEFGx8GPRYYAwIBAgFYCAEBh3UNnXKyCI8HhCIEmEmGTI1UgT8
+X-IronPort-AV: E=Sophos;i="4.97,704,1389740400"; 
+   d="scan'208";a="63872344"
+Received: from mx1.imag.fr (HELO shiva.imag.fr) ([129.88.30.5])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Mar 2014 16:25:50 +0100
+Received: from clopinette.imag.fr (clopinette.imag.fr [129.88.34.215])
+	by shiva.imag.fr (8.13.8/8.13.8) with ESMTP id s2LFPjgj001308
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 21 Mar 2014 16:25:45 +0100
+Received: from [152.77.241.248] (souchong.imag.fr [152.77.241.248])
+	by clopinette.imag.fr (8.13.8/8.13.8) with ESMTP id s2LFPlkD006114
+	for <bioinfo@sfbi.fr>; Fri, 21 Mar 2014 16:25:47 +0100
+Message-ID: <532C5A59.7080504@imag.fr>
+Date: Fri, 21 Mar 2014 16:27:21 +0100
+From: Eric Fanchon <Eric.Fanchon@imag.fr>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.0.1 (shiva.imag.fr [129.88.30.5]); Fri, 21 Mar 2014 16:25:45 +0100 (CET)
+X-IMAG-MailScanner-Information: Please contact MI2S MIM  for more information
+X-MailScanner-ID: s2LFPjgj001308
+X-IMAG-MailScanner: Found to be clean
+X-IMAG-MailScanner-SpamCheck: 
+X-IMAG-MailScanner-From: eric.fanchon@imag.fr
+MailScanner-NULL-Check: 1396020347.66175@DetkmCU2iFkTQD/VRqkkFA
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Ecole et séminaire de la Société Francophone de Biologie Théorique (Saint Flour, mai 2014)
+La Société Francophone de Biologie Théorique (SFBT) organise une 
+nouvelle école de Printemps du 21 au 25 mai 2014 à Saint Flour.
+L'école sera immédiatement suivie du séminaire annuel de la SFBT du 26 
+au 28 mai (même endroit).
+Ecole
+Les écoles de la SFBT sont des écoles interdisciplinaires puisqu'elles 
+réunissent traditionnellement des mathématiciens, des physiciens, des 
+informaticiens et des biologistes autour d'un thème stimulant les 
+interactions entre ces communautés.
+Le thème choisi pour cette école est "le vivant critique et chaotique".
+Le programme, les objectifs, la procédure d'inscription en ligne et 
+toutes les infos sont détaillés sur le site de l'école: 
+http://sfbt-2014.imag.fr/
+Orateurs invités :
+P. Amar (Université Paris-Sud)                    A. Goldbeter 
+(Université Libre de Bruxelles)
+P. Ballet (Univ. de Bretagne Occidentale)         Y. Kergosien 
+(Université de Cergy Pontoise)
+J. Demongeot (Université de Grenoble)             G. Longo (CNRS Paris)
+S. Douady (CNRS Paris)                            F. Peruani (Université 
+de Nice - Sophia Antipolis)
+J.P. Françoise (Univ. Pierre et Marie Curie)      J.A. Sepulchre (Univ. 
+de Nice - Sophia Antipolis)
+S. Galam (CNRS Paris)                             F. Varenne (Université 
+de Rouen)
+Tous les étudiants participant à cette école peuvent, s'ils le 
+souhaitent, afficher un poster sur leur travaux quelque soit leurs 
+relations avec la biologie théorique. Les posters seront affichés durant 
+toute la durée de l'école pour maximiser les interactions et les 
+discussions entre les participants au delà du thème principal.
+Séminaire
+Ce 34ème séminaire de la SFBT aura pour thème incitatif "La vie 
+artificielle et le point de vue de la biologie théorique".
+Toutes les infos sont détaillées sur le site du séminaire: 
+http://sfbt-2014.imag.fr/seminaire.html
+Il est possible d'assister uniquement à l'école  ou uniquement au séminaire.
+Pour les étudiants qui assisteront également au séminaire, ils pourront 
+concourir pour le prix du meilleur poster, décerné à l'issue du séminaire.
+Les inscriptions sont ouvertes pour les 2 évènements ! Un tarif 
+préférentiel est appliqué pour toutes les inscriptions effectuées avant 
+le 15 Avril.
+-- 
+---------------------------------------------
+Laboratoire TIMC-IMAG / Equipe BCM
+Faculté de Médecine, Pavillon Taillefer
+F-38041  Grenoble  France
+http://membres-timc.imag.fr/Eric.Fanchon/
+---------------------------------------------

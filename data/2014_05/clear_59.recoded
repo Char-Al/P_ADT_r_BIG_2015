@@ -1,0 +1,78 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <cristiana.cravo-laureau@univ-pau.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5590426801D
+	for <bioinfo@sfbi.fr>; Thu, 22 May 2014 10:44:04 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsoBAOW3fVPCp5zXnGdsb2JhbABZyWEWDgEBAQEBCAsJCRQogjgmAQUwDAQ9FhgDAgECAQ1LBgIBAYhBoWy0dI5rhCoEj2eHA4laF490
+X-IronPort-AV: E=Sophos;i="4.98,885,1392159600"; 
+   d="scan'208";a="58944376"
+Received: from smtp.univ-pau.fr ([194.167.156.215])
+  by b-mx1.relay.syrhano.net with ESMTP; 22 May 2014 10:44:04 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.univ-pau.fr (Postfix) with ESMTP id 392159B233
+	for <bioinfo@sfbi.fr>; Thu, 22 May 2014 10:44:03 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at univ-pau.fr
+Received: from smtp.univ-pau.fr ([127.0.0.1])
+	by localhost (smtp.univ-pau.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id ZWZA8dW3kJfH for <bioinfo@sfbi.fr>;
+	Thu, 22 May 2014 10:44:01 +0200 (CEST)
+Received: from [192.168.0.35] (ast64-1-78-211-148-90.fbx.proxad.net [78.211.148.90])
+	(Authenticated sender: ccravola)
+	by smtp.univ-pau.fr (Postfix) with ESMTPSA id EB1739B1FE
+	for <bioinfo@sfbi.fr>; Thu, 22 May 2014 10:44:00 +0200 (CEST)
+Message-ID: <537DB8AE.9080702@univ-pau.fr>
+Date: Thu, 22 May 2014 10:43:26 +0200
+From: Cristiana CRAVO-LAUREAU <cristiana.cravo-laureau@univ-pau.fr>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2.28) Gecko/20120306 Thunderbird/3.1.20
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] proposition de =?WINDOWS-1252?Q?th=E8se?= EEM - =?WINDOWS-1252?Q?Universit=E9?= de Pau 2014
+Bonjour,
+Une thèse est proposée au sein de l'Equipe Environnement et 
+Microbiologie (EEM - IPREM UMR 5254) à l'Université de Pau.
+*"Réseaux microbiens de dégradation des hydrocarbures aux interfaces 
+oxie/anoxie dans les écosystèmes marins côtiers*"
+Ce projet de thèse a pour objectif d'obtenir des connaissances sur la 
+dégradation des hydrocarbures par les communautés microbiennes lorsque 
+des oscillations redox et des alternances d'oxygénation sont appliquées, 
+en caractérisant de manière exhaustive et approfondie différentes 
+communautés microbiennes et les réseaux métaboliques impliqués dans la 
+dégradation des hydrocarbures. Ceci sera entrepris en appliquant une 
+approche intégrée interdisciplinaire, utilisant les nouvelles techniques 
+de séquençage combinées avec des méthodes à haut-débit permettant 
+d'aborder les fonctions mettant en oeuvre des *approches de biologie 
+computationnelle*.
+Le candidat recherché doit avoir:
+- des*compétences en bioinformatique *et connaissances en analyse de 
+données "omics"
+- des*compétences en statistiques et analyse de données sous R*
+- des connaissances en écologie microbienne
+Constitution du dossier:
+- Curriculum Vitae
+-Résumé des travaux de M2R
+-Lettre de motivation en anglais
+-Liste des cours suivis en M1, M2 et notes
+-Lettre de recommandation et coordonnées de deux référents connaissant 
+le candidat dont au moins unresponsable de stage
+envoyer à l'adresse suivante: cristiana.cravo-laureau@univ-pau.fr/
+/
+/date limite d'envoi des dossiers/ : _*lundi 9 juin*_ 2014
+/_**_/ Merci de bien vouloir diffuser cette proposition auprès des 
+étudiants pouvant être concernés.
+Cordialement,
+Cristiana Cravo-Laureau
+-- 
+Cristiana Cravo-Laureau
+Maître de conférences
+Equipe Environnement et Microbiologie
+UMR IPREM 5254
+Université de Pau et des Pays de l'Adour
+Avenue de l'Université - IBEAS
+BP1155
+64013 Pau cedex

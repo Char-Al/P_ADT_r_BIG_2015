@@ -1,0 +1,70 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <david.moreira@u-psud.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id A968026801D
+	for <bioinfo@sfbi.fr>; Thu,  5 Jun 2014 11:16:42 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqEBAKo0kFOBr9RBm2dsb2JhbAA/GoNZxGAWDgEBAQEBCAkLCRQogmQ0CgI9FhgDAgECAVUDBgIBAYg+DTadSJEPpESOb4QqBJYJinqQAmsBEA
+X-IronPort-AV: E=Sophos;i="4.98,980,1392159600"; 
+   d="scan'208";a="68000146"
+Received: from mx2.u-psud.fr ([129.175.212.65])
+  by a-mx1.relay.syrhano.net with ESMTP; 05 Jun 2014 11:16:42 +0200
+Received: from mx2.u-psud.fr (mx2 [127.0.0.1])
+	by localhost (MTA) with SMTP id CBA353024E0
+	for <bioinfo@sfbi.fr>; Thu,  5 Jun 2014 11:16:39 +0200 (CEST)
+Received: from [129.175.107.241] (unknown [129.175.107.241])
+	by mx2.u-psud.fr (MTA) with ESMTP id 104FC300FF9
+	for <bioinfo@sfbi.fr>; Thu,  5 Jun 2014 11:16:38 +0200 (CEST)
+Message-ID: <53904309.3010004@u-psud.fr>
+Date: Thu, 05 Jun 2014 11:14:33 +0100
+From: David Moreira <david.moreira@u-psud.fr>
+User-Agent: Mozilla/5.0 (Windows NT 5.2; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] PhD position in Paris on eukaryotic phylogenomics
+A PhD position on eukaryotic phylogenomics is available at the 
+University Paris-Sud (France) in the DEEM laboratory (Diversity, Ecology 
+and Evolution of Microorganisms: 
+http://www.ese.u-psud.fr/spip.php?rubrique7&lang=en).
+-Scientific context: Despite intense research in recent years, the 
+general phylogeny of eukaryotes remains poorly resolved. The order of 
+divergence of the major eukaryotic phyla and the settlement of essential 
+metabolic and structural features are still insufficiently described. 
+Many extant eukaryotic phyla emerged through the gain or loss of 
+plastids carrying out photosynthesis. Plastid endosymbiosis is 
+accompanied by a massive flow of Endosymbiotic Gene Transfers (EGT) from 
+the symbiont to the host genome. The first plastid endosymbiosis in 
+eukaryotes involved a cyanobacterium and an unknown host and gave rise 
+to the supergroup Archaeplastida (green algae and plants, red algae, and 
+glaucophytes). This initial endosymbiosis was followed by a number of 
+subsequent endosymbioses where various heterotrophic hosts engulfed and 
+converted green and red algae into the secondary plastids found in many 
+eukaryotic phyla today. These, and their heterotrophic relatives, were 
+shaped by secondary endosymbiosis but we still do not know when, how and 
+to what extent.
+-Project: The goal of the PhD project is to decipher the role of 
+secondary endosymbiosis in eukaryotic evolution by improving the genome 
+sequence data for underrepresented phyla and providing a rigorous 
+analysis of EGT traces in these genomes. Using next generation 
+sequencing, we are producing high coverage transcriptomes of a variety 
+of photosynthetic and heterotrophic species having strategic positions 
+on the phylogeny of eukaryotes. The PhD will be in charge of analyzing 
+these data by phylogenomic and comparative genomic methods to: 1) 
+Enhance the resolution of the tree of eukaryotes, 2) detect traces of 
+secondary endosymbiosis and attempt to infer when they occurred, 3) take 
+advantage of this new genomic resources to understand the evolution and 
+the settlement of original metabolic features characteristic of these 
+eukaryotic groups.
+-Qualifications: Candidates must have an MSc degree and strong interest 
+in early evolution and eukaryotic diversity and phylogeny as well as 
+some experience in computational biology.
+-Application: The application should include 1) a motivation letter, 2) 
+a detailed CV with grades/ranks, and 3) the names and contact 
+information for at least two referees. This material has to be sent by 
+e-mail to David Moreira (david.moreira@u-psud.fr) and Philippe Deschamps 
+(philippe.deschamps@u-psud.fr).

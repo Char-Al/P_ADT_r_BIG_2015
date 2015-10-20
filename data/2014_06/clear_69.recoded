@@ -1,0 +1,50 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 523F526801D; Wed, 18 Jun 2014 12:00:04 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: lisa.perchenet@modisfrance.fr
+Message-ID: <sympa.1403085463.3583.71@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Wed, 18 Jun 2014 12:00:04 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] OPPORTUNITE DE MISSION - SUPPORT APPLICATIF - MODIS
+MODIS société internationale réalise un CA de 2,4 milliard d'euros en 2012.
+Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet d'assurer une couverture géographique mondiale.
+En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique. Elle s'appuie sur un réseau de 7 agences. Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, l'Assurance, la Distribution, les Télécoms, l'Industrie, le Services & l'Energie. Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
+Description du poste :
+Pour renforcer nos équipes, nous recherchons un ingénieur support applicatif H/F qui aura pour mission : Constant and regular updates from the community to add new functionality and patch bugs:
+- Fix bugs / anomalies
+- Perform (routine) administration tasks
+- Create and/or edit dictionaries, create new metadata field
+- Manage user accounts, etc.
+- Review the source code of prospective enhancements to determine impact and 
+implement code changes 
+- Develop enhancements
+- Provide assistance/support to users with the Expert User
+The solution specialist:
+- is in charge of Level 2-3 support from the IS application side
+- manages the changes in the computerized system application from the IS application side
+Skill sets:
+Apache Tomcat
+Apache Solr
+Apache HTTPD
+Rserve
+JDK
+Java programming expertise to include frameworks such as Grails, nhibernate, Groovy, and Spring using Ajax technology		
+Proficient in Oracle
+Expertise in ETL technologies - Pentaho/Kettle 	(data loading)
+Skilled in bioinformatics, research informatics
+Skilled in clinical and scientific data management (standards, etc.)
+De formation Bac +5, vous justifiez d'une expérience en tant qu'ingénieur support applicatif en milieu scientifique. Vous êtes reconnu pour vos qualités d'organisation, de rigueur et votre sens du service.
+Mission à pourvoir ASAP, localisée en Ile de France.
+Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée. 
+Pour découvrir l'ensemble des postes ouverts, notre culture, nos atouts  -  Rendez-vous directement sur notre site www.modisfrance.fr. 
+Ce poste est ouvert à tous.
+En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
+Pour postuler, Cv à envoyer à: lisa.perchenet@modisfrance.fr

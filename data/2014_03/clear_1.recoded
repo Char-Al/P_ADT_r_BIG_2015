@@ -1,0 +1,96 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gtpb-bounces@igc.gulbenkian.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 267C726801D
+	for <bioinfo@sfbi.fr>; Fri, 28 Feb 2014 14:12:38 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjABAEGKEFPBiV4Fl2dsb2JhbABag0FLDMIvFg4BAQEBAQgWBzyCJwYBARUuCh0BDgMBAgYCKx0IAwELGAE1EwUEDQaHYQnLS4xahDAPgXoEiRKMUYJVgTOFGIoLhQM
+X-IronPort-AV: E=Sophos;i="4.97,561,1389740400"; 
+   d="scan'208";a="54689250"
+Received: from igcns.igc.gulbenkian.pt ([193.137.94.5])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 Feb 2014 14:12:37 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by igcns.igc.gulbenkian.pt (Postfix) with ESMTP id 7CEB15C249;
+	Fri, 28 Feb 2014 13:12:35 +0000 (WET)
+X-Virus-Scanned: Debian amavisd-new at igcns
+Received: from igcns.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igcns.igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 7H8pd-8oCRRZ; Fri, 28 Feb 2014 13:12:35 +0000 (WET)
+Received: from [127.0.1.1] (mx00.igc.gulbenkian.pt [192.168.50.10])
+	by igcns.igc.gulbenkian.pt (Postfix) with ESMTP id 211E15C278;
+	Fri, 28 Feb 2014 13:12:35 +0000 (WET)
+X-Original-To: gtpb@igc.gulbenkian.pt
+Delivered-To: gtpb@igc.gulbenkian.pt
+Received: from localhost (localhost [127.0.0.1])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 56AFF2B60DB
+	for <gtpb@igc.gulbenkian.pt>; Fri, 28 Feb 2014 13:10:31 +0000 (WET)
+Received: from mx00.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id pAjLcaKJ5oOD for <gtpb@igc.gulbenkian.pt>;
+	Fri, 28 Feb 2014 13:10:28 +0000 (WET)
+Received: from webmail.igc.gulbenkian.pt (webmail.igc.gulbenkian.pt
+	[192.168.50.6])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id DCDFC2B60DE
+	for <gtpb@igc.gulbenkian.pt>; Fri, 28 Feb 2014 13:10:27 +0000 (WET)
+Received: from localhost (localhost [127.0.0.1])
+	by webmail.igc.gulbenkian.pt (Postfix) with ESMTPA id B8ACA64C24
+	for <gtpb@igc.gulbenkian.pt>; Fri, 28 Feb 2014 13:10:27 +0000 (WET)
+Received: from a85-139-1-58.cpe.netcabo.pt (a85-139-1-58.cpe.netcabo.pt
+	[85.139.1.58]) by webmail.igc.gulbenkian.pt (Horde Framework) with HTTP;
+	Fri, 28 Feb 2014 13:10:27 +0000
+Message-ID: <20140228131027.79615i5jsg60yyf7@webmail.igc.gulbenkian.pt>
+Date: Fri, 28 Feb 2014 13:10:27 +0000
+From: Pedro Fernandes <pfern@igc.gulbenkian.pt>
+To: gtpb <gtpb@igc.gulbenkian.pt>
+MIME-Version: 1.0
+Content-Disposition: inline
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.6)
+X-Mailman-Approved-At: Fri, 28 Feb 2014 13:11:25 +0000
+X-BeenThere: gtpb@igc.gulbenkian.pt
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: The Gulbenkian Training Programme in Bioinformatics
+	<gtpb.igc.gulbenkian.pt>
+List-Unsubscribe: <https://lists.igc.gulbenkian.pt/mailman/options/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=unsubscribe>
+List-Archive: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb>
+List-Post: <mailto:gtpb@igc.gulbenkian.pt>
+List-Help: <mailto:gtpb-request@igc.gulbenkian.pt?subject=help>
+List-Subscribe: <https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=subscribe>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="iso-8859-1"; Format="flowed"; DelSp="Yes"
+Sender: gtpb-bounces@igc.gulbenkian.pt
+Errors-To: gtpb-bounces@igc.gulbenkian.pt
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Gtpb] Global survey of Bioinformatics Training needs.
+Dear all
+You are receiving this request because you are a member of the GTPB
+mailing list.
+Bioinformatics Training aims at helping to improve  skills and
+increase confidence in using bioinformatics approaches in research
+environments.
+GOBLET (Global Organization for Bioinformatics Learning, Education and
+Training, http://www.mygoblet.org/) coordinates bioinformatics
+training activities worldwide.GOBLET has launched a global training
+initiative.
+As  founding members of GOBLET , we are inviting you to give your
+opinion in the following very short survey (nine simple questions):
+https://www.surveymonkey.com/s/GOBLETsurvey
+The survey will close at the end of March. Thank you very much for your hel
+p!
+Pedro Fernandes
+--
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb

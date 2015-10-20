@@ -1,0 +1,31 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id B312126801D; Fri, 28 Mar 2014 15:58:40 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: creynes@univ-montp1.fr
+Message-ID: <sympa.1396018552.18663.150@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri, 28 Mar 2014 15:58:40 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] =?ISO-8859-1?Q?3=E8mes?= Rencontres R Montpellier 25-27 juin 2014 Rappel
+Cher(e) collègue,
+Nous vous rappelons que les 3e Rencontres R se tiendront du 25 au 27 juin 2014 à Montpellier, sur le campus de SupAgro. La *date limite* de soumission des propositions de communications est fixée au *7 avril*.
+L'objectif de ces rencontres est de fournir à l'échelle nationale un lieu d'échange et de partage d'idées sur l'usage du logiciel R dans différentes disciplines (visualisation, statistique appliquée, biostatistique et bioinformatique, statistique bayésienne, analyse des données, modélisation, machine learning, high performance computing...).
+Le mercredi 25 juin après-midi, deux tutoriels gratuits seront proposés aux personnes inscrites (dans la limite de 20 participants par tutoriel). Les thèmes en sont les suivants :
+- *Construction d'interfaces graphiques autonomes sous R* (animé par Thomas Verron): au cours de l'activité de recherche, nous pouvons être amenés à fournir des programmes R à des utilisateurs non familiers de la programmation. L'objectif de ce tutoriel est l'acquisition des outils de base permettant d'implémenter son code R dans une interface graphique facile d'utilisation pour tout utilisateur.
+- *Construction de plugins Rcommander* (animé par Milan Bouchet-Valat): Rcommander est une interface graphique simple d'utilisation et particulièrement utile pour l'enseignement progressif de R aux débutants. Toutefois, l'interface basique offre une panoplie limitée de méthodes qui ne sont pas toujours adaptées aux besoins. Lors de ce tutoriel, les éléments fondamentaux de la programmation de ces plugins vous seront proposés et vous aurez également la possibilité de mettre en pratique directement sur vos propres problématiques.  
+*Dates importantes* :
+- 7 avril 2014 : date limite de réception des propositions de communications
+- autour du 2 mai 2014 : notification aux auteurs
+- 9 mai 2014 : envoi des versions définitives
+- 25 mai 2014 : majoration des frais d'inscription
+Vous pourrez trouver toutes les informations sur le site : http://r2014-mtp.sciencesconf.org/
+Au plaisir de vous rencontrer à Montpellier,
+Stéphane Dray, Président du comité de programme,
+Robert Sabatier Président du comité d'organisation

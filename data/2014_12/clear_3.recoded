@@ -1,0 +1,147 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <hhatem@mevlana.edu.tr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 9354726801D
+	for <bioinfo@sfbi.fr>; Mon,  1 Dec 2014 11:08:54 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqoRAJI9fFTRVdU1m2dsb2JhbABbg1dcgjlIs1UBgiiNWodgBxYBAQEBAREBAQEBAQYLCwkULoQVBhFFBSUNBwgCJgIhAxIBBQEOFBsMAgyIHg2feY0ogyU9MYszkEyFUgqBJIwBEoJig1SBUwWRCoRIhnWBaoxDg1CBShgogwUBAQgCAS0PgWs9gTSBQwEBAQ
+X-IPAS-Result: AqoRAJI9fFTRVdU1m2dsb2JhbABbg1dcgjlIs1UBgiiNWodgBxYBAQEBAREBAQEBAQYLCwkULoQVBhFFBSUNBwgCJgIhAxIBBQEOFBsMAgyIHg2feY0ogyU9MYszkEyFUgqBJIwBEoJig1SBUwWRCoRIhnWBaoxDg1CBShgogwUBAQgCAS0PgWs9gTSBQwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,493,1413237600"; 
+   d="scan'208";a="69309153"
+Received: from mail-yh0-f53.google.com ([209.85.213.53])
+  by b-mx1.relay.syrhano.net with ESMTP; 01 Dec 2014 11:08:53 +0100
+Received: by mail-yh0-f53.google.com with SMTP id i57so4672235yha.40
+        for <bioinfo@sfbi.fr>; Mon, 01 Dec 2014 02:08:52 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        bh=Q5Lqx5VxwjiYAVx0cjsStznnyYXIpm9b5hGgGSS+ETI=;
+        b=Fop8jzjSAnU8OBh/ldKbL7dNOAi87ys/w5gYw4ra832zmruwus1Y//GKFnfjg1NDe1
+         5ydTnSoixlYQ58bvtkgCedTeCGC+8siUsQ5gXza7aV71DrZWNP4SKE/NPgAAgVNzIGhX
+         +fVAzj0f2FU+D6wvl+AZ38X+NyPDPJzWIIx4ao7elVpCz5tr+BJK6SUruVjBPWS6loo/
+         qFwJR8xevoLAwxxTthk/FZHRty5YDn+DcwwRHfdEX9/EhfThyJNWxYGSrtHj1zfKfZGt
+         MmqhuOUizg6sUfM73QrF/CnumeUY72O7BelDPunYXA5HIs6W2a6wTpDBk7UrE7U5o4Hh
+         3vlQ=
+X-Gm-Message-State: ALoCoQnxdLpgcVH3Zgv2q2m7GNwJNskLLE2yuhRDK790IMsfNUEI5UOra5OAiJ1lyg1AC3fDfhI6
+MIME-Version: 1.0
+X-Received: by 10.236.30.198 with SMTP id k46mr57968623yha.109.1417428532811;
+ Mon, 01 Dec 2014 02:08:52 -0800 (PST)
+Received: by 10.170.228.137 with HTTP; Mon, 1 Dec 2014 02:08:52 -0800 (PST)
+Date: Mon, 1 Dec 2014 12:08:52 +0200
+Message-ID: <CAGXqPf5QKG3CgaizicuKqKfiCCbz1BUdcvO87eDy2eEnR_Ur7A@mail.gmail.com>
+From: Haddad HATEM <hhatem@mevlana.edu.tr>
+To: Hatem Haddad <haddad.hatem@gmail.com>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] CFP: The International Technology Management Conference (ITMC2015)
+The International Technology Management Conference (ITMC2015)
+Manouba University
+May 26-28, 2015 =C2" Hammamat, Tunisia
+http://sdiwc.net/conferences/itmc2015/
+General Chairs
+Dr. Hatem Haddad, Manouba University, Tunisia
+Dr. Mohammad S. Salman, Mevlana University, Turkey
+Important Dates
+Submission Deadline Open from now until April 26, 2015
+Notification of acceptance 4 weeks from the submission date
+Camera Ready submission May 16, 2015
+Last day of registration May 16, 2015, however, it is recommended to
+do it few days before
+Conference dates May 26-28, 2015
+The conference proceedings will be published in the digital library of SDIW
+C.
+You are invited to participate in ITMC2015 that will be held in
+Malaysia, on May 26-28, 2015. The event will be held over three days,
+with presentations delivered by researchers from the international
+community, including presentations from keynote speakers and
+state-of-the-art lectures.
+The conference welcome papers on the following (but not limited to)
+research topics:
+***INFORMATION TECHNOLOGY***
+Information and Data Management
+Information Content Security
+The Management of IT Investments
+Computational Intelligence
+Data Management in Mobile Peer-to-Peer Networks
+Information Management
+Enterprise Architecture Management
+The Management of â=80=9CGreenâ=80=9D IT
+Ubiquitous Computing, Services and Applications
+Web Services Security
+Information Ethics
+Quality of Service, Scalability and Performance
+Information Security and Cryptography
+Data Stream Processing in Mobile/Sensor Networks
+***COMPUTER SCIENCE***
+Biometrics Technologies
+Computer Forensics
+Computer Security
+Data Mining
+Distributed and Parallel Applications
+Wireless Communications
+Cloud Computing
+Access Control
+Network Security
+Digital Signal and Image Processing
+Multimedia Computing
+Computer Animation
+Computer Architecture
+Artificial Intelligence
+Information Retrieval
+Natural Language Processing
+***BUSINESS, AND TECHNOLOGY IN EDUCATION***
+Educational Technology
+Computer-aided Systems
+Mobile Computing
+Education In Computational Science
+Mobile Learning Business Intelligence and Web Services
+E-commerce Business Models
+Future Development of E-Business
+E- Learning E-Government
+Debugging Tools and Learning
+E-Business Applications and Software
+***MANUFACTURING SYSTEMS***
+Design and Manufacturing
+Intelligent Processing of Materials
+Human-Machine Interface Computer-Aided Design, Manufacturing, and Engineeri
+ng
+Modeling and Design
+Design and Green Manufacturing
+Automation
+Networks Design, Protocols and Management
+***ENGINEERING TECHNOLOGY***
+Bioinformatics & Biomedical Imaging
+Robotics and Atomization Engineering
+Globalization of Engineering
+Applications of AI Techniques in Design and Manufacturing
+Industrial Engineering
+Biomedical Signal Processing
+Robotics and Mobile Machines
+Computer Architecture for Intelligent Machines
+Best registered papers will be published in the following special issue jou
+rnals
+International Journal of New Computer Architectures and their
+Applications (IJNCAA)
+International Journal of Digital Information and Wireless
+Communications (IJDIWC)
+International Journal of Cyber-Security and Digital Forensics (IJCSDF)
+International Journal of E-Learning and Educational Technologies in
+the Digital Media (IJEETDM)
+--
+_______________________________________
+Ass. Prof. Dr. Hatem Haddad
+Mevlana University
+Engineering Faculty
+Department of Computer Engineering
+Yrd.Do=C3=A7. Dr. Hatem Haddad
+Mevlana Universitesi
+M=C3=BChendislik Fak=C3=BCltesi
+Bilgisayar M=C3=BChendisli=C4=9Fi B=C3=B6l=C3=BCm=C3=BC
+Tel : +90-332-444 42 43
+Fax: +90-332 241 11 11
+Address: Yeni =C4=B0stanbul Cad. No: 235 42003 Sel=C3=A7uklu / KONYA - TURK
+EY

@@ -1,0 +1,205 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Sarah.Cohen_Boulakia@lri.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id DBFDB26801D
+	for <bioinfo@sfbi.fr>; Thu,  6 Feb 2014 19:53:53 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoUBAO3Y81KBr9RBnGdsb2JhbABZxBkWDgEBAQEBCAsJCRQogiwIAgJTCQEBCAISBRtNMA8BBBMLBQmHbJ0KsCmOMYJ/D4F6BIkRoyqBP4Fo
+X-IronPort-AV: E=Sophos;i="4.95,795,1384297200"; 
+   d="scan'208";a="61549958"
+Received: from mx2.u-psud.fr ([129.175.212.65])
+  by a-mx1.relay.syrhano.net with ESMTP; 06 Feb 2014 19:53:52 +0100
+Received: from mx2.u-psud.fr (mx2 [127.0.0.1])
+	by localhost (MTA) with SMTP id 6F5E9302984
+	for <bioinfo@sfbi.fr>; Thu,  6 Feb 2014 19:53:50 +0100 (CET)
+Received: from ext.lri.fr (ext.lri.fr [129.175.15.4])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mx2.u-psud.fr (MTA) with ESMTPS id 1CA353028E6
+	for <bioinfo@sfbi.fr>; Thu,  6 Feb 2014 19:53:50 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by ext.lri.fr (Postfix) with ESMTP id EF07240B70
+	for <bioinfo@sfbi.fr>; Thu,  6 Feb 2014 19:53:49 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at lri.fr
+Received: from ext.lri.fr ([127.0.0.1])
+	by localhost (ext.lri.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id h1piG6FhEhNU for <bioinfo@sfbi.fr>;
+	Thu,  6 Feb 2014 19:53:49 +0100 (CET)
+Received: from SarahSony (lri19-133 [129.175.19.133])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by ext.lri.fr (Postfix) with ESMTPSA id C8DD840B06
+	for <bioinfo@sfbi.fr>; Thu,  6 Feb 2014 19:53:49 +0100 (CET)
+From: "Sarah Cohen-Boulakia" <Sarah.Cohen_Boulakia@lri.fr>
+To: <bioinfo@sfbi.fr>
+Date: Thu, 6 Feb 2014 19:53:55 +0100
+Message-ID: <7e7e01cf236c$c9801bd0$5c805370$@lri.fr>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Microsoft Outlook 15.0
+Content-Language: fr
+Thread-Index: Ac8jaITjWblrFg/OSw2pkBlpszymnA=
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Stage M2 Recherche : Provenance dans un système de workflows pour la bioinformatique
+Bonjour,
+Veuillez trouver ci-dessous une offre de stage de M2R pour la conception
+d'un module de provenance dans un système de workflows pour la
+bioinformatique.
+Cordialement,
+Sarah Cohen-Boulakia
+Sujet de stage M2 Recherche
+Conception d'un module de Provenance dans un système de workflow pour la
+bioinformatique
+Mots clés : plateformes d'analyses; intégration d'informations; bases de
+données; algorithmique (graphes)
+Encadrants : Sarah Cohen-Boulakia et Patrick Valduriez
+Lieu : Institut de Biologie Computationnelle (IBC), Montpellier (préfér
+é)
+ou Laboratoire de Recherche en Informatique, Orsay
+Contact : cohen@lri.fr
+Contexte
+La taille et la quantité des données scientifiques produites et disponi
+bles
+ont considérablement augmentées au cours des dernières années. En p
+lus de
+devoir être stockées et gérées, la tâche la plus importante réa
+lisée sur ces
+ensembles de données est leur analyse qui met en jeu une série d'outi
+ls
+bioinformatiques complexes et dédiés au domaine d'étude. Une telle 
+analyse
+est typiquement réalisée par l'assemblage d'étapes impliquant une
+ multitude
+de scripts, d'outils et d'algorithmes. Des efforts considérables ont 
+été
+réalisés dans le développement de systèmes et plateformes capables 
+de
+fournir un soutien à l'utilisateur lors de la conception et la gestion 
+de
+telles analyses (appelés systèmes de workflows). Certains de ces syst
+èmes
+ont depuis quelques années des modules de provenance, capable de garder la
+trace précise des lancements d'encha=EEnements d'outils effectués, 
+offrant à
+l'utilisateur la possibilité de reproduire ses expériences bioinforma
+tiques
+et d'accéder à des informations relatives à la qualité des résu
+ltats obtenus
+(qualité relative à la fiabilité des outils utilisés, des données
+ prises en
+entrées, des types de paramètres utilisés etc.).  Face à la multitu
+de de
+représentations disponibles pour les données de provenance [MPB10], [AB
+M+09]
+une série de Provenance Challenges [MLA+08] [SGM11] a été organisée,
+débouchant sur la proposition d'un standard très général de prove
+nance OPM,
+Open Provenance Model [MCF+11].
+Dans ce stage on s'intéressera plus particulièrement à l'un des deux
+systèmes suivants :
+* Galaxy [GNT+10] qui est l'un des systèmes de workflows les plus utili
+sés
+par la communauté bioinformatique internationale pour analyser les donn
+ées
+biologiques
+* OpenAlea [PDB+08] qui est une plateforme d'analyse, de visualisation et
+modélisation du fonctionnement et de la croissance de l'architecture des
+plantes qui compte aujourd'hui plusieurs centaines d'utilisateurs.
+L'Institut de Biologie Computationnelle de Montpellier a de nombreux
+utilisateurs et concepteurs de workflows Galaxy et OpenAlea. En fonction de
+la sensibilité du stagiaire, on pourra travailler sur l'un ou l'autre
+ de ces
+systèmes. La problématique restant identique.
+L'objectif général de ce stage est de proposer un *module de provenan
+ce*
+capable de garder la trace précise de la composition des workflows et des
+exécutions (outils utilisés, paramètres et données prises en entr
+ée et
+générées). Ce module devra permettre aux utilisateurs de conna=EEtre
+l'évolution d'un workflow : " quel module a été modifié ou aj
+outé entre deux
+versions de ce workflow ?", " quelles sont les différences entre deux
+workflows ayant le même but général (ie produisant le même type de 
+donnée)
+mais ayant été con=E7u par deux équipes/personnes différentes " ?
+...
+Ce module devra aussi permettre aux utilisateurs de comprendre mieux les
+résultats différents obtenus par les exécutions d'un même workflo
+w (rôle du
+paramétrage des outils impliqués dans le workflow, rôle des données
+d'entrée=85) [BCD+09].
+Les réponses à ces questions doivent pouvoir être considérées à
+ différents
+niveaux de granularité [BCD+08] en fournissant à l'utilisateur des ni
+veaux
+de détails plus ou moins important selon ses souhaits pour ne pas être
+submergé d'informations.
+Travail attendu
+Le but de ce stage est (i) de proposer une représentation concise,
+expressive et capable de prendre en compte des niveaux de granularités de
+provenance différents des workflow de Galaxy ou Open Alea et de leurs
+exécutions (compatible avec les standards de provenance) et (ii)
+d'introduire un algorithme efficace de comparaison de ces workflows et
+exécutions. Plus spécifiquement, les différentes tâches attendues s
+ont les
+suivantes :
+=95	Représentation des workflows (modules et les liens entre les
+modules), représentation des exécutions des workflows (données consom
+mées et
+produites lors d'une exécution et exécution de modules), définition
+ de la
+relation entre ces représentations ("models of computation"). Différents
+niveaux de granularité/détail devront pouvoir être considérés dan
+s ces
+représentations.
+=95	Proposition d'une structure de stockage et d'un format d'échange
+pour les workflows et leurs exécutions
+=95	Conception et implémentation d'un algorithme de comparaison de
+workflows et d'exécutions à divers niveaux de granularités
+=95	Implémentation d'un module de provenance et de la fonctionnalité de
+différenciation des workflows et exécutions dans Galaxy ou OpenAlea
+Références
+[ABM+09] Anand, M. K., Bowers, S., McPhillips, T., & Lud=E4scher, B. (2009,
+March). Efficient provenance storage over nested data collections. In
+Proceedings of the 12th International Conference on Extending Database
+Technology: Advances in Database Technology (pp. 958-969). ACM.
+[BCD+09] Bao, Z., Cohen-Boulakia, S., Davidson, S. B., Eyal, A., & Khanna,
+S. (2009, March). Differencing provenance in scientific workflows. In Data
+Engineering, 2009. ICDE'09. IEEE 25th International Conference on (pp.
+808-819). IEEE.
+[BCD+08] Biton, O., Cohen-Boulakia, S., Davidson, S. B., & Hara, C. S.
+(2008, April). Querying and managing provenance through user views in
+scientific workflows. In Data Engineering, 2008. ICDE 2008. IEEE 24th
+International Conference on (pp. 1072-1081). IEEE.
+[GNT+10] Goecks, J., Nekrutenko, A., Taylor, J., & Team, T. G. (2010).
+Galaxy: a comprehensive approach for supporting accessible, reproducible,
+and transparent computational research in the life sciences. Genome Biol,
+11(8), R86.
+[MCF+11] Moreau, L., Clifford, B., Freire, J., Futrelle, J., Gil, Y., Groth,
+P., & den Bussche, J. V. (2011). The open provenance model core
+specification (v1. 1). Future Generation Computer Systems, 27(6), 743-756.
+[MLA+08] Moreau, L., Lud=E4scher, B., Altintas, I., Barga, R. S., Bowers, S
+.,
+Callahan, S., et al (2008). Special issue: The first provenance challenge.
+Concurrency and computation: practice and experience, 20(5), 409-418.
+[MPB10] Missier, P., Paton, N. W., & Belhajjame, K. (2010, March).
+Fine-grained and efficient lineage querying of collection-based workflow
+provenance. In Proceedings of the 13th International Conference on Extending
+Database Technology (pp. 299-310). ACM.
+[PDB+08] C. Pradal, S. Dufour-Kowalski, F. Boudon, C. Fournier, C. Godin.
+OpenAlea: A visual programming and component-based software platform for
+plant modeling. Functional Plant Biology
+[SGM11] Simmhan, Y., Groth, P., & Moreau, L. (2011). Special Section: The
+third provenance challenge on using the open provenance model for
+interoperability. Future Generation Computer Systems, 27(6), 737-742.
+Autres informations
+Rémunération (gratification) : 436 euros/mois
+--
+Sarah Cohen-Boulakia
+Ma=EEtre de conférences
+Laboratoire de Recherche en Informatique
+Université Paris Sud

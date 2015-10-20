@@ -1,0 +1,68 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pavlosant@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id AE99726801D
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 10:52:48 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AowFAPjNy1JKfVKtlGdsb2JhbABZg0NVuV0EgQgIFg4BAQEBBwsLCRIqgjcgFQEIEx4DEhBdAQwBBAEFAQMBMYdvAQECEZsdgwiMXAmDAJENChkEChkNZIQRAQUMjxKEIQSYF4dPiFkYKUeEFDo
+X-IronPort-AV: E=Sophos;i="4.95,618,1384297200"; 
+   d="scan'208";a="51923255"
+Received: from mail-we0-f173.google.com ([74.125.82.173])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Jan 2014 10:52:48 +0100
+Received: by mail-we0-f173.google.com with SMTP id t60so312428wes.18
+        for <bioinfo@sfbi.fr>; Tue, 07 Jan 2014 01:52:48 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:reply-to:date:message-id:subject:from:to:content-type;
+        bh=w4KHgjbnL9+Flk9WWnFh7x5JBL2AQySQ94XxD1qPcPA=;
+        b=IVirfGrKJ4ORFkbyB+5cig98NzONMOqAUsJYu1LaaXQ3sjssBG+ibrVJB5JNHbyuUV
+         k1MOGgktYYr552EvlW/fFPEdiuiG8qjSZSCbu5QXI/osZps8UsCLY0Tg0m30hWyterRJ
+         vtKpf+Pe9WhTr8O6uRWpmgaWd2HaSQTiBNq/3PX/3zZUiQgG7APofJmF2tV/7kjXAfHq
+         SG+4y+zHVINqMxV7XSUHlIV26xyEhm3YGDaeKU9PMmfMBX/1QUivfDYb8RDpsrhpnzKv
+         JR3kfdYTo24L/QWmwKg8BcwrthdqTC26nnEK+RsAATXFX/f3687t2kUmFZuuydT3pije
+         3k5A=
+MIME-Version: 1.0
+X-Received: by 10.180.19.165 with SMTP id g5mr15864722wie.31.1389088367934;
+ Tue, 07 Jan 2014 01:52:47 -0800 (PST)
+Received: by 10.194.119.137 with HTTP; Tue, 7 Jan 2014 01:52:47 -0800 (PST)
+Reply-To: pavlosant@gmail.com
+Date: Tue, 7 Jan 2014 11:52:47 +0200
+Message-ID: <CALhFKMmCLJvQdHjQJNP4C=msGmTXXPkSvMG7Qo32cXXxrmi8dw@mail.gmail.com>
+From: Pavlos Antoniou <pavlosant@gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Bioinformaticien a Chypre
+Vacancy for Bioinformatician
+NIPD Genetics LTD is a privately held start-up company aiming to
+commercially exploit the recent discovery
+of the Cyprus Institute of Neurology and Genetics for Non-Invasive
+Prenatal Diagnosis of Down Syndrome.
+THE POSITION
+We seek to recruit a Bioinformatician to join our dynamic team of scientists.
+(Reference Code: NIPD04)
+MINIMUM REQUIREMENTS
+PhD degree in Bioinformatics or closely related fields
+Candidates must have strong computational and statistical analysis
+skills, and be proficient with Unix/Linux command line environments,
+database design such as SQL, as well as one or more of the following
+programming languages; C, C++, Perl, Python, Java or R.
+The following qualifications will be considered an advantage
+Familiarity with the Unix/Linux operating systems
+Prior experience with next generation sequencing data analysis
+Knowledge of genome assembly and large-scale data mining
+Familiarity with NGS sample preparation methodologies and
+high-throughput sequencing
+Experience in parallel programming
+Experience in molecular biology and genetics
+Good communication skills
+To apply please forward a detailed curriculum vitae together with
+names of two referees and a cover letter to NIPD Genetics Ltd by the
+17th January 2014 at the following address: Personnel Office, NIPD
+Genetics Ltd P.O.Box 27954, Engomi, CY-2434 Nicosia, or by e-mail at:
+c.anastassiades@nipd.com  stating the reference code.
+For further information please contact:Costas Anastassiades, tel.:
+22266888 e-mail: c.anastassiades@nipd.com; www.nipd.com.
+Pavlos Antoniou

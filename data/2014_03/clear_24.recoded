@@ -1,0 +1,83 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <rivals@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 4ECF026801D
+	for <bioinfo@sfbi.fr>; Fri,  7 Mar 2014 17:43:34 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ao4BAPb1GVPBMWgenGdsb2JhbABAGhaDK8MOFg4BAQEBAQgLCQkUKII4JgEFER8QPRYYAwIBAgFYBgIBAYd5CTafFLBSjniCGA+BewSYQ4EyhRiGHIhz
+X-IronPort-AV: E=Sophos;i="4.97,608,1389740400"; 
+   d="scan'208";a="63070162"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by a-mx1.relay.syrhano.net with ESMTP; 07 Mar 2014 17:43:33 +0100
+Received: from [193.49.107.60] (pc-rivals.lirmm.fr [193.49.107.60])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id E8ADCA4F39
+	for <bioinfo@sfbi.fr>; Fri,  7 Mar 2014 17:43:32 +0100 (CET)
+Message-ID: <5319F735.2030904@lirmm.fr>
+Date: Fri, 07 Mar 2014 17:43:33 +0100
+From: Rivals Eric <rivals@lirmm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Colloquium UMPC: Claude Berrou
+Bonjour à tous,
+C'est avec plaisir que nous vous convions à assister au prochain exposé
+organisé dans le cadre du Colloquium d'informatique de l'UPMC Sorbonne
+Universités :
+L'information Mentale
+Claude Berrou
+Telecom Bretagne
+http://colloquium.lip6.fr/Berrou-2014-03-25/  <http://colloquium.lip6.fr/>
+Ce colloquium s'adresse à un public large, et est ouvert à tous les
+chercheurs et étudiants en informatique.
+L'exposé sera en anglais et aura lieu:
+Mardi 25 mars 2014 à 18h
+Amphithéâtre 15
+Université Pierre et Marie Curie
+4, place Jussieu (métro Jussieu)
+75005 Paris
+Pour s'y rendre :
+http://www.upmc.fr/fr/universite/campus_et_sites/a_paris_et_en_idf/jussieu.html
+La conférence sera diffusée en direct sur
+http://video.upmc.fr/direct.php?id=direct_colloquium_lip6, et sera
+accessible en différé, quelques jours plus tard, à partir de
+colloquium.lip6.fr<http://colloquium.lip6.fr/>.
+Un cocktail est prévu à 17h15 en prélude à la conférence.
+------
+Résumé :
+Notre raison s'appuie sur toutes sortes d'éléments de connaissance
+laborieusement emmagasinés et conservés dans notre réseau cortical
+pendant de nombreuses années. Malgré les incessantes agressions
+physico-chimiques que nos neurones subissent depuis leur installation
+   au début de notre vie, ces éléments de connaissance ne sont pas altérés :
+les tables de multiplication, les prénoms dans notre famille, Le Corbeau
+et le Renard,
+tout cela reste bien en place. Cette robustesse et cette pérennité de
+l'information mentale peuvent être expliquées par les propriétés du
+codage redondant distribué.
+Biographie :
+Claude Berrou est professeur à Télécom Bretagne. Il a inventé et mis au
+point, avec Alain Glavieux, les turbocodes et les décodeurs itératifs
+associés.
+Ces codes ont été les premiers codes correcteurs quasi-optimaux, au sens
+de la théorie de Shannon développée en 1948.
+Ils sont aujourd'hui utilisés dans la téléphonie mobile 3G et 4G. Il a
+ensuite contribué à l'extension du principe turbo
+aux différentes fonctions d'un récepteur de télécommunication
+(turbo-détection, turbo-égalisation, etc.).
+Claude Berrou  est l'un des dix scientifiques français les plus cités
+dans les sciences de l'information.
+Il est détenteur des 7 prix scientifiques. Son activité de recherche est
+aujourd'hui presque entièrement consacrée à l'intelligence artificielle.
+-- 
+Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
+CNRS Research Director & Head of GDR Bioinformatique Moléculaire
+LIRMM - UMR 5506 - CC 06 001
+95 Rue de la Galéra - 34095 Montpellier cedex 5 FRANCE
+Tel. (33 or 0 from France) 4 67 41 86 64
+Fax. (33 or 0 from France) 4 67 41 85 00
+http://www.gdr-bim.u-psud.fr

@@ -1,0 +1,76 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <tiphaine.martin@kcl.ac.uk>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 4EDC426801D
+	for <bioinfo@sfbi.fr>; Fri,  7 Nov 2014 17:08:25 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: At8BAC3uXFSdN+pmnGdsb2JhbABbg2JZBLt5XY5xDIdNAoEzAQEBAQERAQEBAQEGDQkJFCMLhAMBAQQBAQEJBgFVBhsCAQghGgsPGAsbCgIEEyKIHwQJrBABgR0BGVsFJwKKUwEBkGWGDAEBAR6QbymCNlOBQgWLQIREgiOEVIhRg06NU4Y+gURsgUiBAwEBAQ
+X-IPAS-Result: At8BAC3uXFSdN+pmnGdsb2JhbABbg2JZBLt5XY5xDIdNAoEzAQEBAQERAQEBAQEGDQkJFCMLhAMBAQQBAQEJBgFVBhsCAQghGgsPGAsbCgIEEyKIHwQJrBABgR0BGVsFJwKKUwEBkGWGDAEBAR6QbymCNlOBQgWLQIREgiOEVIhRg06NU4Y+gURsgUiBAwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,333,1413237600"; 
+   d="scan'208";a="67765651"
+Received: from mail-db3on0102.outbound.protection.outlook.com (HELO emea01-db3-obe.outbound.protection.outlook.com) ([157.55.234.102])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Nov 2014 17:08:07 +0100
+Received: from DBXPR03MB254.eurprd03.prod.outlook.com (10.242.142.16) by
+ DBXPR03MB255.eurprd03.prod.outlook.com (10.242.142.22) with Microsoft SMTP
+ Server (TLS) id 15.1.16.15; Fri, 7 Nov 2014 16:08:05 +0000
+Received: from DBXPR03MB254.eurprd03.prod.outlook.com ([169.254.16.169]) by
+ DBXPR03MB254.eurprd03.prod.outlook.com ([169.254.16.169]) with mapi id
+ 15.01.0016.006; Fri, 7 Nov 2014 16:08:05 +0000
+From: "Martin, Tiphaine" <tiphaine.martin@kcl.ac.uk>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: [Ngi-international-liaisons] New EGI Webinar: RNA-Seq analysis
+ with READemption - setup and go!
+Thread-Index: AQHP+qKQpEUnaJ3ynkmozXlIqQaUzJxVVJ8a
+Date: Fri, 7 Nov 2014 16:08:05 +0000
+Message-ID: <1415376484516.31236@kcl.ac.uk>
+References: <545CDBA2.8040306@egi.eu>,<545CEA40.3030801@idgrilles.fr>
+In-Reply-To: <545CEA40.3030801@idgrilles.fr>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [84.6.226.150]
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:;SRVR:DBXPR03MB255;
+x-exchange-antispam-report-test: UriScan:;
+x-forefront-prvs: 03883BD916
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(51874003)(66654002)(199003)(189002)(2351001)(107886001)(107046002)(110136001)(450100001)(20776003)(64706001)(230783001)(66066001)(74482002)(4396001)(46102003)(77096003)(62966003)(77156002)(31966008)(87936001)(21056001)(95666004)(105586002)(106356001)(106116001)(36756003)(2656002)(101416001)(97736003)(92566001)(15975445006)(122556002)(15202345003)(99396003)(40100003)(76176999)(54356999)(117636001)(92726001)(19580395003)(19580405001)(74826001)(86362001)(120916001)(50986999)(2501002)(226693001);DIR:OUT;SFP:1102;SCL:1;SRVR:DBXPR03MB255;H:DBXPR03MB254.eurprd03.prod.outlook.com;FPR:;MLV:sfv;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-OriginatorOrg: kcl.ac.uk
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Fw: [Ngi-international-liaisons] New EGI Webinar: RNA-Seq analysis
+ with READemption - setup and go!
+-------- Message transféré --------
+Dear UCB members
+Dear NILs
+EGI will be hosting a webinar entitled "RNA-Seq analysis with
+READemption - setup and usage in the EGI Federated Cloud" on 26
+November, at 15:00 CET. The webinar will be presented by Konrad F=F6rstner
+(W=FCrzburg) and will focus on the implementation of the READemption
+pipeline (for computational evaluation of RNA) in the EGI Federated
+Cloud. This webinar is intended for researchers and developers
+interested in the use of EGI Federated Cloud.
+More information:
+- Indico page:
+https://indico.egi.eu/indico/conferenceDisplay.py?confId=3D2345 (the link
+to the conference call will be added to this page)
+- Blog post:
+http://www.egi.eu/blog/2014/11/04/egi_webinar_rna_seq_analysis_with_reademp
+tion_setup_and_go.html
+We have 24 seats available - please redistribute this announcement to
+your contacts and interested parties.
+If you have any questions, let me know.
+Many thanks in advance.
+Best wishes
+Sara
+--
+Sara Coelho
+Communications officer
+EGI.eu
+_______________________________________________
+Ngi-international-liaisons mailing list
+Ngi-international-liaisons@mailman.egi.eu
+https://mailman.egi.eu/mailman/listinfo/ngi-international-liaisons

@@ -1,0 +1,45 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id EFD6626801D; Fri, 11 Apr 2014 16:05:39 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: esra.karakas@yahoo.fr
+Message-ID: <sympa.1397209863.19801.291@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri, 11 Apr 2014 16:05:39 +0200 (CEST)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] PhD position at CEA Saclay on Multiscale Molecular Simulations of Reverse Micelles with a Confined Protein
+PhD position at CEA Saclay - Île-de-France, France
+DEADLINE : May 12, 2014
+MULTISCALE MOLECULAR SIMULATIONS OF REVERSE MICELLES WITH A CONFINED PROTEIN
+Under the guidance of : Stéphane Abel (PhD) and Massimo Marchi (PhD, HDR)
+Reverse micelles (RM) are water nano-inclusions dispersed in organic solvent and surrounded by a detergent monolayer. The size and water content of RM depends on the parameter W0=[H2O]/[detergent], which in experiments can be easily controlled [1,2] . On the other hand, by varying W0, one can investigate the effects of confinement and hydration on the structure and stability of biomolecules such as peptides, proteins and nucleic acids. Amongst the most widely used detergents to form RM's are the AOT or Aerosol OT (Dioctyl sodium sulfosuccinate) and alkyl polyethylene glycols (of type CiEj), which have charged and neutral polar heads, respectively. In spite of the abundance of experiments, many questions about RM remain to be answered. In particularly, it is not clear how small RM (i.e. with small water content) can favor the conformation confined biomolecules compared to the same biomolecules in large micelle or in bulk water.
+To make progress in this topic, we plan to use molecular dynamics (MD) at the coarse grained and atomic levels with RM's with different water loadings and surfactants (AOT and CiEj). We will use as a model of confined protein, the &#946;-amyloid (1-40) protein involved in the Alzheimer disease. Indeed, it has been shown in the past by FTIR spectroscopy that the size of AOT RM and the properties of the confined water could modify quite significantly the secondary structure of the &#946;-amyloid protein [3] and the protein propensity to form &#946; strands, which are at the origin of the pathological amyloid plaques. One possible source of this behavior is the difference in solvation properties of confined water with respect to the bulk. Indeed, it was demonstrated by various experimental and simulations approaches that the confined water structural and dynamical properties differ significantly from the bulk by many aspects (such as low dielectric constant, viscosity, etc.) (see for instance [4]). To perform these simulations, we will use a self-aggregation approach, where the detergent monomers, water and, eventually, the ions are allowed to aggregate without biasing initial conditions [5].
+To reduce the needed computer time, especially for the largest systems with W0 > 10, we plan to use a coarse-grain approach with a MARTINI force field [6,7]. This technique consists in modeling molecules with an ensemble of beads representing each a number of atoms of the molecule and interacting with each other through a simplified, hence fast to compute, field. Thus, this reduced course grained model is capable to speed up considerably molecular dynamics simulations as to reach time scales in the order of a few ms, unattainable with conventional MD. After the coarse grained simulations are completed, techniques [8] exist to map back the system to its original atomic arrangement. In particular, we plan to use an approach developed by T. A Wessenaar and A. de Vries of the University of Gottingen with whom we are actively collaborating (Fig. 1). The all atom simulations carried out after the coarse grain modeling will allow the most detailed study of the interactions among water, the ions, the detergents and the confined protein.  
+All simulations anticipated in this project will be carried out using a parallel molecular dynamics code GROMACS [9] on supercomputers in TGCC/GENCI facility. 
+The research work of this thesis will be preformed in the group Modélisation des systèmes membranaires (http://tinyurl.com/cluzfbz) at CEA Saclay located 25Kms in the south of Paris. The group has been involved along the last years in studying the structure, function and dynamics of RM of different size and composition by molecular dynamics. Our previous simulations were carried out on smaller micelles (3 &#8804; W0 &#8804; 10) of around 100,000 atoms [10,11], and also involved investigation of confined peptides [12] and a cytochrome C protein [13]. 
+Funding: IDEX Paris-Saclay, la FCS Campus Paris-Saclay
+Candidate Profile:
+* Strong competence in molecular modeling
+* Competence in structural biology
+* Knowledge of Unix and programming/scripting languages (bash, perl, etc.)
+Interested person should send their CV and a letter of motivation to Stephane.Abel@cea.fr along with the names of two references willing to support them in their application. 
+Useful references related to the thesis project 
+[1]    M.P. Pileni, Reverse micelles used as templates: a new understanding in nanocrystal growth, J. Exp. Nanosci. 1 (2006) 13 - 27.
+[2]    S. Abel, M. Waks, Computational Methods as Tools for the Study of Reverse Micelles Structure and Dynamics: Effect on Confined Biomolecules, in: D. Bradburn, T. Bittinger (Eds.), Micelles Struct. Biochem. Form. Funct. Usage, Nova Science Pub Inc, 2013: pp. 73 - 126.
+[3]    P.S.-W. Yeung, P.H. Axelsen, The crowded environment of a reverse micelle induces the formation of &#946;-strand seed structures for nucleating amyloid fibril formation., J. Am. Chem. Soc. 134 (2012) 6061 - 6063.
+[4]    M.D. Fayer, Water in a Crowd, Physiol. . 26 (2011) 381 - 392.
+[5]    J. Tian, E.G. Angel, Simulations of the confinement of ubiquitin in self-assembled reverse micelles, J. Chem. Phys. 134 (2011) 225101.
+[6]    G. Rossi, P.F.J. Fuchs, J. Barnoud, L. Monticelli, A coarse-grained MARTINI model of polyethylene glycol and of polyoxyethylene alkyl ether surfactants., J. Phys. Chem. B. 116 (2012) 14353 - 62.
+[7]    X. Periole, S.-J. Marrink, The Martini coarse-grained force field., Methods Mol. Biol. 924 (2013) 533 - 565.
+[8]    T.A. Wassenaar, K. Pluhackova, R.A. Böckmann, S.J. Marrink, D.P. Tieleman, Going Backward: A Flexible Geometric Approach to Reverse Transformation from Coarse Grained to Atomistic Models, J. Chem. Theory Comput. 10 (2014) 676 - 690.
+[9]    S. Pronk, S. Páll, R. Schulz, P. Larsson, P. Bjelkmar, R. Apostolov, et al., GROMACS 4.5: A high-throughput and highly parallel open source molecular simulation toolkit., Bioinformatics. 29 (2013) 845 - 54.
+[10]    S. Abel, M. Waks, M. Marchi, W. Urbach, Effect of surfactant conformation on the structures of small size nonionic reverse micelles: a molecular dynamics simulation study., Langmuir. 22 (2006) 9112 - 9120.
+[11]    S. Abel, F. Sterpone, S. Bandyopadhyay, M. Marchi, Molecular Modeling and Simulations of AOT&#8722;Water Reverse Micelles in Isooctane: Structural and Dynamic Properties, J. Phys. Chem. B. 108 (2004) 19458 - 19466.
+[12]    S. Abel, M. Waks, W. Urbach, M. Marchi, Structure, stability, and hydration of a polypeptide in AOT reverse micelles., J. Am. Chem. Soc. 128 (2006) 382 - 383.
+[13]    S. Abel, M. Waks, M. Marchi, Molecular dynamics simulations of cytochrome c unfolding in AOT reverse micelles: The first steps., Eur. Phys. J. E. Soft Matter. 32 (2010) 399 - 409. 

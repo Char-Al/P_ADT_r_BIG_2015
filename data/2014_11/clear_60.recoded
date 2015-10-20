@@ -1,0 +1,129 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pierre-francois.roux@rennes.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 300E726801D
+	for <bioinfo@sfbi.fr>; Thu, 20 Nov 2014 13:38:50 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuAAAHvgbVSTY7vll2dsb2JhbABag2ODF0jISAaIbgEBAQEBEQEBAQEBCBYHQoQDAQUMF2YJHAImAgJXiFoNoEGccpcggS2PA4MVDzISJIEeBYZbkFqHLIFwhhGSdoFygUUBAQE
+X-IPAS-Result: AuAAAHvgbVSTY7vll2dsb2JhbABag2ODF0jISAaIbgEBAQEBEQEBAQEBCBYHQoQDAQUMF2YJHAImAgJXiFoNoEGccpcggS2PA4MVDzISJIEeBYZbkFqHLIFwhhGSdoFygUUBAQE
+X-IronPort-AV: E=Sophos;i="5.07,423,1413237600"; 
+   d="scan'208";a="68583039"
+Received: from rennes.inra.fr (HELO courriel22.rennes.inra.fr) ([147.99.187.229])
+  by b-mx1.relay.syrhano.net with ESMTP; 20 Nov 2014 13:38:49 +0100
+Received: from [147.99.167.143] ([147.99.167.143])
+	(authenticated bits=0)
+	by courriel22.rennes.inra.fr (/8.14.4) with ESMTP id sAKCcmZd015288
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <bioinfo@sfbi.fr>; Thu, 20 Nov 2014 13:38:48 +0100 (CET)
+From: =?utf-8?Q?Pierre-Fran=C3=A7ois_Roux?= <pierre-francois.roux@rennes.inra.fr>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 20 Nov 2014 13:38:47 +0100
+References: <3E80DF1D-4EE9-4D19-BB91-1A85408A9E0E@rennes.inra.fr>
+To: bioinfo@sfbi.fr
+Message-Id: <C0FAB87E-FF26-45BA-9930-9CC19888DF85@rennes.inra.fr>
+Mime-Version: 1.0 (Mac OS X Mail 8.1 \(1993\))
+X-Mailer: Apple Mail (2.1993)
+X-Miltered: at courriel22 with ID 546DE0D8.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 546DE0D8.000/147.99.167.143/[147.99.167.143]/[147.99.167.143]/<pierre-francois.roux@rennes.inra.fr>
+X-j-chkmail-Score: MSGID : 546DE0D8.000 on courriel22.rennes.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.014 -> S=0.017
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at courriel22
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Soutenance de Thèse - Pierre-Fran=C3=A7ois Roux
+Bonjour,
+J'ai le plaisir de vous inviter à ma soutenance de thèse de docto
+rat intitulée :
+"Apport de la détection de polymorphismes nucléotidiques à l
+'échelle du génome pour la dissection de caractères 
+complexes et la caractérisation de l'éditome =C2".
+La soutenance aura lieu le vendredi 5 décembre 2014, à 14h dans l
+'amphithé=C3=A2tre Camille Moule (b=C3=A2timent 11) d'
+Agrocampus Ouest - Rennes situé à l'adresse :
+Agrocampus Ouest - Rennes
+65 rue de Saint Brieuc
+35000 RENNES
+Le jury est composé de :
+Richard REDON, Directeur de Recherche, Inserm Nantes - France (rapporteur)
+Frédéric FARNIR, Professeur, Université de Liège - Belg
+ique (rapporteur)
+Jean MOSSER, Professeur des Universités - Praticien Hospitalier, CHU R
+ennes - France (examinateur)
+Jean-Christophe SIMON, Directeur de Recherche, INRA Rennes - France (examin
+ateur)
+Sandrine LAGARRIGUE, Professeure, Agrocampus Ouest Rennes - France (co-enca
+drante)
+Olivier DEMEURE, Chargé de Recherche, INRA Rennes - France (co-encadra
+nt)
+Vous êtes également conviés au pot qui suivra et se tiendra 
+à proximité de l'amphithé=C3=A2tre Camille Moule d
+'Agrocampus Ouest - Rennes.
+Afin que je puisse anticiper sur le nombre de personnes présentes =C3
+  ce pot, je vous serais reconnaissant de bien vouloir remplir le doodle 
+suivant si vous souhaitez vous joindre à nous (http://doodle.com/6qf4i
+w3d5c99hdsw).
+Au plaisir de vous voir nombreux le 5 décembre,
+Pierre-Fran=C3=A7ois Roux
+R=C3=89SUM=C3=89 :
+Démocratisées à la fin des années 2000, les technologie
+s de séquen=C3=A7age haut-débit (NGS) ont progressivement ré
+volutionné les domaines de la génétique et de la transcripto
+mique. Alors qu'historiquement, les premières études bas
+ées sur ces technologies s'attachaient à la création
+ de séquences de référence pour des espèces variée
+s, la diminution des co=C3"ts du séquen=C3=A7age a ouvert la porte a
+ux projets focalisés sur l'étude des génomes et tran
+scriptomes individuels. Les travaux présentés dans ce manuscrit m
+ettent en lumière le potentiel des NGS pour la caractérisation de
+ SNPs, et leur utilisation pour la dissection génétique des carac
+tères complexes et pour l'identification du phénomèn
+e d'édition de l'ARN. L'originalité de no
+s travaux porte sur l'utilisation conjointe de multiples approches 
+génétiques et expressionnelles (détection de QTLs, de traces
+ de sélection, annotation de SNPs, différentiel d'express
+ion, analyse d'expression allèle-spécifique) pour la diss
+ection génétique de l'adiposité, leur intégrati
+on nous ayant permis d'identifier deux nouveaux candidats à la
+ régulation de ce caractère : les gènes PARK2 et JAG2. Nous 
+proposons, par ailleurs, les premières caractérisations dâ=80
+=99éditomes chez une espèce vertébrée non-mammalienne  
+- la poule - et montrons que ce phénomène rare est influencé
+ par des facteurs tels que le sexe, l'=C3=A2ge, le génotype et
+ l'alimentation. A l'heure actuelle, certains artefacts ass
+ociés aux NGS sont encore négligés. Nous montrons ici que le
+ur non-considération a un impact important sur l'identificatio
+n d'événements singuliers comme l'édition de
+ l'ARN.
+MOTS-CL=C3=89S : Séquen=C3=A7age haut-débit - DNA-seq - RNA-seq -
+ Biais - Génome - Transcriptome - Polymorphismes nucléotidiques -
+ Génétique quantitative - Caractères complexes - Adiposit=C3
+=A9 - JAG2 - PARK2 - Editome - Poulet
+ABSTRACT :
+Next-generation sequencing technologies (NGS) have progressively revolution
+ized genetic and transcriptomic research fields since their democratization
+ at the end of the 2000s. While there were mainly used to decipher genomes 
+for many species, major sequencing cost decreases gradually allowed studies
+ focusing on individual genomes and transcriptomes. Studies described in th
+is manuscript highlight the potential of single nucleotide polymorphisms de
+tection in a high-throughput manner at the genome and transcriptome-wide sc
+ales thanks to NGS, for the genetic dissection of complex traits, and for t
+he identification of RNA editing events. The original aspect of our works i
+s lying on the integrative strategy we used to genetically dissect the adip
+osity, based on several genetic and expressional approaches such as QTL and
+ selective sweep mappings, SNP annotation and prioritization, differential 
+expression and allele-specific expression analyses. Combining those complem
+entary approaches allowed us to shed light on two new candidate genes for t
+he adiposity regulation: JAG2 and PARK2. Focusing on the description of RNA
+ editing events, we report the first studies describing editomes in a non-m
+ammalian vertebrate species - the chicken - and highlight how limited is th
+is phenomenon. We also reveal that environmental and genetic factors such a
+s sex, age, genotype and diet regulate editing levels. Currently, some arti
+facts related to NGS are still neglected in many studies. Here, we clearly 
+show that ignoring them may deeply impact analyses focusing on rare events 
+such as RNA editing
+KEYWORDS : High-throughput sequencing - DNA-seq - RNA-seq - Biases - Genome
+ - Transcriptome - Single nucleotide polymorphisms - Quantitative genetics 
+- Complex traits - Adiposity - JAG2 - PARK2 - Editome - Chicken

@@ -1,0 +1,55 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id BBC3226801D
+	for <bioinfo@sfbi.fr>; Tue, 26 Aug 2014 17:33:51 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArEBANen/FOKZqI0nGdsb2JhbABbg2BXAYJ7yV+IchABAQEBAQgLCQkUKYQtEAURMw4kAiYCEiwQJIhCDZpNjy+BdI4khQoXgSyNPhEBbYJjgVMFgS20CGqBD4FAAQEB
+X-IronPort-AV: E=Sophos;i="5.04,405,1406584800"; 
+   d="scan'208";a="63342119"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 26 Aug 2014 17:33:51 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s7QFXnOX025242
+	for <bioinfo@sfbi.fr>; Tue, 26 Aug 2014 17:33:49 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id DF622296B97
+	for <bioinfo@sfbi.fr>; Tue, 26 Aug 2014 17:33:49 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XMImT-00077w-Nb
+	for bioinfo@sfbi.fr; Tue, 26 Aug 2014 17:35:33 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XMImT-00077w-Nb@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 26 Aug 2014 17:35:33 +0200
+X-Miltered: at alpha with ID 53FCA8DD.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53FCA8DD.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 53FCA8DD.000 on alpha.jouy.inra.fr : j-chkmail score : X : R=. U=. O=# B=0.191 -> S=0.266
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][=?UTF-8?Q?Th=C3=A8se?=] =?UTF-8?Q?Th=C3=A8se?= de bio-informatique app  =?UTF-8?Q?liqu=C3=A9e?= =?UTF-8?Q?=C3=A0?= =?UTF-8?Q?l=E2=80=99imagerie?= =?UTF-8?Q?m=C3=A9dicale?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Thèse de bio-informatique appliquée à l’imagerie  
+médicale
+Type de poste : Thèse
+Durée du poste : 36 mois
+Ville : Paris
+Nom du contact : Dr. Laure Fournier
+Email du contact : laure.fournier@parisdescartes.fr
+Laboratoire : Imagerie de l’angiogenèse, UMR970 INSERM; Information  
+Sciences to support Personalized Medicine, Centre de Recherche des  
+Cordeliers, UMRS1138 INSERM
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/th%C3%A8se-de-bio-informatique-appliqu%C3%A9e-%C3%A0-l%E2%80%99imagerie-m%C3%A9dicale

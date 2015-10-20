@@ -1,0 +1,25 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id A19AD26801D; Wed,  3 Sep 2014 16:18:44 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: elodie.laine@upmc.fr
+Message-ID: <sympa.1409753293.18568.205@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Wed,  3 Sep 2014 16:18:44 +0200 (CEST)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] postdoc position at Laboratory of Computational and Quantitative Biology - Paris
+We are interested in finding a postdoc with a very successful PhD experience and an excellent publication record in structural bioinformatics, molecular modeling and/or coarse grain modeling applied to single proteins or to protein-protein interactions. The position is open for 2 years at UPMC, in the heart of Paris.
+Research topic: protein structural dynamics, sequence conservation/coevolution, residue networks, biomolecular simulations, coarse-graining, allostery
+Title: Computational exploration of the structural perturbations induced by amino-acids mutations in protein structures
+Abstract: Proteins assure their biological functions by adapting their shapes and movements in response to specific stimuli. Such plasticity is permitted by the establishment of versatile weak physico-chemical interactions between amino acid residues in solution. Amino acids playing crucial roles for a protein's structural stability, enzymatic activity or functional interactions with cellular partners are often highly conserved through evolution. The molecular mechanisms associated to these roles may be understood in a straightforward way, for example when the conservation signal is located in the active site of the protein or in regions directly contacting the partners. Communication between distant sites determined by amino acid long-range interactions can be as important for binding specificity, allosteric regulation and conformational changes. Maintaining functional and structural coupling between distinct sites of a protein requires coevolution of the residues involved. However coevolution signals may be difficult to interpret as they represent indirect and intricate networks of interactions between residues possibly located very far away in the tridimensional structure. By analyzing the structure and internal dynamics of a protein one can get insights into the chemical-physical basis of the coevolution signals. We propose here to use the information of atomic fluctuations and dynamical correlations as a proxy to better characterize the interactions between coevolved residues and help determine their implications in the molecular mechanisms of protein functions.
+In this project we propose to develop a computational approach for characterizing dynamical communication networks that uses a simplified representation of the protein. The properties derived from MD simulations (atomic fluctuations and dynamical correlations) to identify allosteric communication could also be inferred from elastic network models (ENM) [Chennubhotla and Bahar 2007], leading to a drastic reduction in the computational time. ENM have proven useful to investigate the relationship between evolutionary conservation and conformational dynamics [Liu and Bahar 2012]. However previous studies by us and others showed that these simplistic models are not sensitive to subtle changes such as ion binding or single-site mutations [Laine et al. 2008]. We intend to exploit latest developments [Zacharias 2013, Ceres et al 2013] to derive a hybrid coarse-grained and atomistic model for protein simulations. Our current observations encourage us to take advantage of the combination between empirical force field based sampling and Normal Mode Analysis.
+Where: This project is run on the Laboratoire de Biologie Computationnelle et Quantitative UMR7238 CNRS-UPMC  -  Analytical Genomics team, headed by A.Carbone. It is co-advised by A.Carbone and E.Laine. The postdoc hired for this project will be participating in the working group around this topic at the lab. 
+Information about the lab can be found at: http://www.lcqb.upmc.fr/
+Period: The postdoc will last 2 years. It is available immediately.
+Contact: Alessandra Carbone at alessandra.carbone@lip6.fr and Elodie Laine at elodie.laine@upmc.fr

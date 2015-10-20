@@ -1,0 +1,98 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Christophe.BLANCHET@france-bioinformatique.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id D71A026801D
+	for <bioinfo@sfbi.fr>; Wed,  4 Jun 2014 16:57:52 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmEBAKAyj1PBMQPBnGdsb2JhbABZhDG7O4c5gQwWDgEBAQEBCAsJCRQogiYBBQxnBhACARwyHxMlAgQOBYhG0iAXjXAQAgFPgjsPRCSBFQSPd59NgUA9gXI
+X-IronPort-AV: E=Sophos;i="4.98,973,1392159600"; 
+   d="scan'208";a="59634194"
+Received: from smtp1.cnrs.fr ([193.49.3.193])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Jun 2014 16:57:52 +0200
+Received: from CNCH01WVP.core-res.rootcore.local (10.247.60.11) by
+ smtp1.cnrs.fr (172.27.123.3) with Microsoft SMTP Server (TLS) id 14.3.158.1;
+ Wed, 4 Jun 2014 16:57:48 +0200
+Received: from CNMB02WVP.core-res.rootcore.local ([169.254.2.109]) by
+ cnch01wvp.core-res.rootcore.local ([172.30.60.11]) with mapi id
+ 14.03.0158.001; Wed, 4 Jun 2014 16:57:47 +0200
+From: BLANCHET Christophe <Christophe.BLANCHET@france-bioinformatique.fr>
+To: Bioinfo <bioinfo@sfbi.fr>
+Cc: Olivier Collin <olivier.collin@irisa.fr>,
+	=?Windows-1252?Q?GIBRAT_Jean-Fran=E7ois?= <Jean-Francois.GIBRAT@france-bioinformatique.fr>,
+	LAPLAGNE Patricia <patricia.laplagne@france-bioinformatique.fr>
+Thread-Topic: =?Windows-1252?Q?Tutoriel_"_Utilisation_du_Cloud_pour_la_Biologie_"_-?
+ =?Windows-1252?Q?_NOUVELLE_DATE_-_19_juin_2014?
+Thread-Index: AQHPgAVYkdeNzkIdhEO2i9Klukk4rw=
+Date: Wed, 4 Jun 2014 14:57:46 +0000
+Message-ID: <E88AA379-F12C-4431-A793-35D27E491B09@france-bioinformatique.fr>
+References: <5320658D.4090102@irisa.fr>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [172.27.123.2]
+Content-Type: text/plain; charset="Windows-1252"
+Content-ID: <4B8C4DCFA8CC994483DF3DF36306C184@cnrs.fr>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Tutoriel =?WINDOWS-1252?Q?"?= Utilisation du Cloud pour la Biologie =?WINDOWS-1252?Q?"?= - NOUVELLE DATE - 19 juin 2014
+Bonjour,
+Le tutoriel  " Utilisation du Cloud pour la Biologie ", prévu initial
+ement le 18 mars à Lyon, avait été reporté à une date ultérieur
+e. Cette nouvelle session se fera le 19 juin 2014, cependant veuillez noter
+ qu'elle aura lieu dans les locaux de l'Institut Fran=E7ais de Bioinformati
+que (IFB) à Gif-sur-Yvette (en région parisienne) et non plus à Lyon.
+  Le programme reste inchangé et nous vous le joignons pour rappel à la
+ fin de ce mail.
+Il reste quelques places.En effet, pour cette nouvelle session nous avons p
+rivilégié les personnes inscrites pour la session initiale mais il y a 
+eu quelques désistements. Si vous êtes intéressés, nous vous demand
+ons de nous envoyer rapidement votre bulletin d'inscription par mail (dét
+ails ci-dessous). Les inscriptions seront prises dans l'ordre d'arriv
+ée.
+Bien sincèrement,
+Christophe et Olivier.
+(pour le comité d'organisation)
+## Date: 19 juin 2014, 9h-17h30
+Lieu: Institut Fran=E7ais de Bioinformatique , Avenue de la Terrasse  Bât
+ 21, 91190 Gif-sur-Yvette
+## Formateurs
+Christophe BLANCHET (IFB)
+Olivier COLLIN (GenOuest)
+Clément GAUTHEY (PRABI-IBCP)
+Charles LOOMIS (LAL)
+Cyril MONJEAUD (GenOuest)
+Olivier SALLOU (GenOuest)
+## Programme
+(chaque session comprendra une partie théorique et une mise en applicatio
+n sur les clouds académiques en production à l'IFB, GenOuest et P2IO)
+9h00: Accueil
+9h30: Cloud computing: principes généraux et exemple de StratusLab (C. 
+Loomis)
+11h00: pause café
+11h30: Cloud pour la biologie: exemples des clouds IDB-IBCP (C. Blanchet, C
+. Gauthey) et GenOuest (O. Sallou, C. Monjeaud).
+13h00: repas
+14h00: Exemples d'applications de cloud en NGS (Galaxy), protéomique et
+ analyse de séquences intensive avec Hadoop MapReduce
+15h30: pause café
+16h00: Perspectives et cas d'usage de la salle (Tous)
+17h30: fin du tutoriel
+## Bulletin d'inscription
+à envoyer à : Christophe Blanchet <christophe.blanchet@ibcp.fr>, Olivie
+r Collin <olivier.collin@irisa.fr>
+Souhaite participer au Tutoriel " Utilisation du Cloud pour la Biologie 
+" le 19 juin 2014 à l'IFB.
+Civilité (Mme, M., Pr., Dr):
+NOM:
+Prénom:
+Email:
+Tél.:
+Statut (chercheur, ens.-cherch., thésard, postdoc, etc.) :
+Organisme :
+Fonction:
+Laboratoire (Nom et Sigle) :
+Adresse postale:

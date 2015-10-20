@@ -1,0 +1,94 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <erocha@pasteur.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id BF01126807C
+	for <bioinfo@sfbi.fr>; Sat, 12 Apr 2014 16:10:35 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AokBAAdJSVOdY0BSl2dsb2JhbABZg0HFGRYOAQEBAQEIFgc8g3toExQCh2YEmUSPaYUNnHQXkhmBFASOX4YVikGNYYFB
+X-IronPort-AV: E=Sophos;i="4.97,848,1389740400"; 
+   d="scan'208";a="65135311"
+Received: from mail-interne3.pasteur.fr ([157.99.64.82])
+  by a-mx1.relay.syrhano.net with ESMTP; 12 Apr 2014 16:10:21 +0200
+Received: from maroilles.sis.pasteur.fr (localhost [127.0.0.1])
+	by mail-interne3.pasteur.fr (Postfix) with ESMTP id BF054381053
+	for <bioinfo@sfbi.fr>; Sat, 12 Apr 2014 16:10:20 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at pasteur.fr
+Received: from [192.168.1.48] (bur91-7-88-187-0-203.fbx.proxad.net [88.187.0.203])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mail-interne3.pasteur.fr (Postfix) with ESMTPSA id 606D6381050
+	for <bioinfo@sfbi.fr>; Sat, 12 Apr 2014 16:10:20 +0200 (CEST)
+Content-Type: text/plain; charset=windows-1252
+Mime-Version: 1.0 (Apple Message framework v1085)
+From: Eduardo Rocha <erocha@pasteur.fr>
+X-Accept-Language: en, fr
+Date: Sat, 12 Apr 2014 16:10:18 +0200
+Reply-To: erocha@pasteur.fr
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <2F5AA913-F16B-43E5-B1AC-74CFD4DC958D@pasteur.fr>
+To: Liste Bioinfo <bioinfo@sfbi.fr>
+X-Mailer: Apple Mail (2.1085)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Une position de directeur et deux positions de group leader en bioinformatique à l'Institut Pasteur de Paris
+THE INSTITUT PASTEUR IS HIRING A DIRECTOR AND 2 SENIOR GROUP LEADERS FOR IT
+S NEW CENTER OF BIOINFORMATICS, BIOSTATISTICS AND INTEGRATIVE BIOLOGY.
+Institut Pasteur is a non-profit private foundation dedicated to fundamenta
+l research in human biology and the prevention and treatment of disease, wi
+th a large focus on infectious diseases, through basic science, education, 
+and public health activities. The Paris campus houses 146 research units be
+longing to 10 research departments, employing about 2,600 people. It is rec
+ognized worldwide as a leader in infectious disease research and is ranked 
+as a top level institution for publication impact in the field of microbiol
+ogy. Institut Pasteur has developed a world-class technological center, its
+ "Technopole" composed of 10 state-of-the-art technological platforms, whic
+h closely collaborate with the researchers and cover their needs for studyi
+ng modern biology from genomic to post-genomic activities, including bioinf
+ormatics, genotyping, DNA and protein sequencing, transcriptomics, proteomi
+cs, protein and antibody production, crystallography and X ray diffraction,
+ macromolecular interactions, collections, animal facilities and an excepti
+onal imaging centre (Imagopole).
+THE POSITIONS
+The new direction of the Institut Pasteur has defined Bioinformatics/ biost
+atistics and integrative biology as strategic priorities. In this frame, th
+e Pasteur Institute is seeking an outstanding scientist to direct a newly c
+reated =93Centre of Bioinformatics, Biostatistics and Integrative Biology
+  located on the Paris campus. The goal of this Center is to federate, fr
+om a computational biology perspective, the different but highly complement
+ary research themes that are present on the Campus: genomics of hosts and p
+athogens, infection biology, evolutionary and population genetics, structur
+al biology and human health. In addition to directing the new Center, the s
+uccessful candidate shall have his/her own research group, in order to purs
+ue his/her scientific interests. To accomplish this double duty, the candid
+ate will receive substantial financial support, both in running costs and p
+ersonnel, from the Pasteur Institute. In this context, the Institut is also
+ opening two additional senior group leader positions in these fields to in
+crease the size of its community and its visibility.
+CANDIDATE'S PROFILE
+Successful candidates will possess the following qualifications:
+=B7      PhD with a minimum of 10 years post-doctoral research experience.
+=B7      Recognized scientific leadership in bioinformatics and computation
+al biology
+=B7      Broad experience in methodological development for the analysis of
+ various types of data
+=B7      Consistent record of cutting edge research as evidenced by senior 
+author publications in top journals
+=B7      Significant experience in managing and mentoring scientists, and i
+n designing and executing an innovative research program
+=B7      Demonstrated ability to collaborate with scientists irrespective o
+f their computational or experimental background
+The application should comprise the following (in order) in a single pdf fi
+le:
+1.      A brief introductory letter.
+2.      A Curriculum Vitae and a full publication list.
+3.      A description of past and present research activities (4-5 pages wi
+th 1.5 spacing).
+4.      The proposed research project (8-10 pages with 1.5 spacing).
+Further information on the institute its facilities can be found on the web
+ site http://www.pasteur.fr. Applications should be addressed to gengeninfo
+@pasteur.fr by Mai 31 2014. Short-listed candidates will be invited for int
+erview in September 2014 and decisions will be announced by early October 2
+014.
+Informal Inquiries can be addressed to Didier Mazel (mazelATpasteur.fr, Dir
+ector of the Genomes and Genetics department).

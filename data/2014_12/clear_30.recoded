@@ -1,0 +1,43 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 1413126801D; Mon,  8 Dec 2014 21:24:34 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: Villemin Jean-Philippe <jpvillemin@gmail.com>
+Message-ID: <sympa.1418070113.6545.977@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Mon,  8 Dec 2014 21:24:34 +0100 (CET)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] =?ISO-8859-1?Q?D=E9veloppeur?= =?ISO-8859-1?Q?d=92applications?= web Java/J2EE
+Contexte :
+Le Centre de lutte contre le cancer Léon-Bérard (http://www.centreleonberard.fr/), établissement de soins privé d'intérêt collectif, est à la fois un hôpital et un centre de recherches. Il regroupe plus de 400 chercheurs qui s'intéressent à mieux comprendre les processus de progression tumorale afin de trouver les diagnostics et traitements de demain.
+Dans le cadre du projet de médecine personnalisée ProfiLER (http://www.cancer-lyric.com/), notre organisme recherche un ingénieur afin de poursuivre le développement d'une plate-forme web de gestion des données.
+L'essai clinique ProfiLER  (Profilage LYric et Région) a pour objectif de réaliser la « carte d'identité tumorale » pour 2000 patients atteints de tous types de cancers grâce à des techniques modernes de séquençage à haut-débit (NGS) et de puces à ADN (CGH). Un traitement adapté sera ensuite proposé au patient en fonction des anomalies tumorales identifiées.
+Mission :
+Rattaché(e) au responsable et en lien étroit avec un autre bioinformaticien spécialisé dans le développement des pipelines d'analyse, vous interviendrez sur l'évolution d'une application de gestion des résultats de biologie moléculaire, plus particulièrement sur la partie d'intégration des données de CGH.
+Pour continuer le développement de l'application web dédiée à ce projet, nous recherchons un ingénieur en (bio)informatique JAVA/ JEE qui aura comme principales missions:
+- Participation aux phases d'expression de besoins et de rédaction de cahier des charges,
+- Développement des solutions prévues, en contact étroit avec les partenaires du projet, pour répondre précisément aux besoins.
+Vous serez principalement chargé(e) :
+- D'effectuer un travail de récupération et d'intégration de données.
+- De réaliser des interfaces web de l'application.
+- De participer au traitement des améliorations requises pour répondre aux nouveaux besoins et à l'évolution des questions scientifiques.
+Profil recherché :
+Diplômé(e) BAC + 5 (écoles d'Ingénieur) ou équivalent en Bio-informatique, vous disposez des compétences suivantes :
+- Minimum 2 à 3 ans d'expérience professionnelle.
+- Maîtrise de l'environnement linux/unix.
+- Expérience confirmée en JAVA / JEE (Spring, Hibernate, JSF2, Maven...)
+- Bonnes connaissances en SGBD relationnel (MySQL)
+- Connaissance d'un IDE (Eclipse) et du logiciel de gestion de versions (Git)
+- Capacité à  maintenir des pipelines sur un cluster de calcul (Torque)
+Un haut-niveau d'expertise en développement logiciel en langage objet (Java / J2E) et en gestion de données (MySQL), dans un environnement web est essentiel pour ce poste.
+Rigoureux, organisé, pragmatique, vous possédez le sens du service et faites preuve de réactivité.
+Disponible, autonome et curieux, vous avez envie de rejoindre une équipe dynamique et progresser avec elle sur des projets ambitieux de médecine moderne. Vous avez la capacité à développer de nouvelles approches informatiques et vous voulez proposer des solutions innovantes.
+Candidature (CV + lettre de motivation + références) à envoyer par email à JeanPhilippe.VILLEMIN@lyon.unicancer.fr
+Le poste est ouvert immédiatement.
+Début de contrat : le plus tôt possible

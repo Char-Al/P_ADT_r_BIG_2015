@@ -1,0 +1,50 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www-data@sfbi.mti.univ-paris-diderot.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 20B5C26801D
+	for <bioinfo@sfbi.fr>; Thu, 27 Feb 2014 09:56:52 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmMEADn9DlPC/j2Kamdsb2JhbABag0GDWr46YRYODQkMBhQqgk8QBREzDhMRAgUhAhE9JId9CZoNjxehEReBKYxJEQFtgliBSQSfFY56gXA
+X-IronPort-AV: E=Sophos;i="4.97,553,1389740400"; 
+   d="scan'208";a="62644574"
+Received: from korolev.univ-paris7.fr ([194.254.61.138])
+  by a-mx1.relay.syrhano.net with ESMTP; 27 Feb 2014 09:56:51 +0100
+Received: from duc.rpbs.univ-paris-diderot.fr (duc.mti.univ-paris-diderot.fr [81.194.29.54])
+	by korolev.univ-paris7.fr (8.14.4/8.14.4/relay1/46573) with ESMTP id s1R8uprg018668
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Thu, 27 Feb 2014 09:56:51 +0100
+Received: from sfbi.mti.univ-paris-diderot.fr (sfbi.mti.univ-paris-diderot.fr [81.194.29.2])
+          by duc.rpbs.univ-paris-diderot.fr (8.13.7/jtpda-5.4) with SMTP id s1R8untj019768
+          for <bioinfo@sfbi.fr>; Thu, 27 Feb 2014 09:56:49 +0100
+Message-Id: <201402270856.s1R8untj019768@duc.rpbs.univ-paris-diderot.fr>
+Received: by sfbi.mti.univ-paris-diderot.fr (sSMTP sendmail emulation); Thu, 27 Feb 2014 09:51:40 +0100
+From: "www-data" <www-data@sfbi.mti.univ-paris-diderot.fr>
+Date: Thu, 27 Feb 2014 09:51:40 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 0:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (korolev.univ-paris7.fr [194.254.61.138]); Thu, 27 Feb 2014 09:56:51 +0100 (CET)
+X-Miltered: at korolev with ID 530EFDD3.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 530EFDD3.000 from duc.mti.univ-paris-diderot.fr/duc.mti.univ-paris-diderot.fr/null/duc.rpbs.univ-paris-diderot.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Score: MSGID : 530EFDD3.000 on korolev.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][IE] =?UTF-8?Q?Ing=C3=A9nieur?= en calcul scientifique   pour la biologie des =?UTF-8?Q?syst=C3=A8mes?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur en calcul scientifique pour la biologie des  
+systèmes
+Type de poste : IE
+Durée du poste : Indéterminée
+Ville : JOUY-EN-JOSAS
+Nom du contact : Vincent FROMION
+Email du contact : vincent.fromion@jouy.inra.fr
+Laboratoire : INRA - Unité Mathématique, Informatique et Génome
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/ing%C3%A9nieur-en-calcul-scientifique-pour-la-biologie-des-syst%C3%A8mes

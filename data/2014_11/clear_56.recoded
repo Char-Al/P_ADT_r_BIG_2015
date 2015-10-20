@@ -1,0 +1,29 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 38F4326801D; Tue, 18 Nov 2014 23:11:12 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: jean-francois.dufayard@cirad.fr
+Message-ID: <sympa.1416348247.31319.711@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue, 18 Nov 2014 23:11:12 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Post-doc comparative genomics, Montpellier
+A bioinformatics post-doctoral position is available for 18 months, at CIRAD in Montpellier, starting in January 2015.
+Keywords: comparative genomics, phylogeny, data integration, functional conservation.
+Context:
+This position is proposed by the Biomass For the Future project, funded by the French program Investissement d'Avenir. This project aims to develop new dedicated varieties and cropping systems for sustainable production of lignocellulosic biomass, working on sorghum and miscanthus, and using maize as a model. Full project website available here:
+http://www.biomassforthefuture.org/en/project/presentation
+The postdoc fellow will be hosted at CIRAD, in the Data Integration bioinformatics team of the AGAP research unit:
+http://umr-agap.cirad.fr/en/equipes-scientifiques/integration-de-donnees/contexte-et-enjeu
+Position description:
+We need a bioinformatician with strong experience in comparative genomics. The main objective is to provide reliable prediction of functional conservation between maize, miscanthus and sorghum genes.
+The main idea is to study systematically gene families, and to integrate several heterogeneous data: phylogeny, synteny, expression levels, and so on. This work implies both methodological developments and careful biological data analyses.
+This position implies many collaborations with scientists working on information systems about, phylogeny and gene families, syntenic regions, ancestral gene content and order reconstruction. The candidate will also interact with different members of the Institute of Computational Biology (http://www.ibc-montpellier.fr).
+We need someone proficient in programming (at least one of the language: Java, Python, Perl, C++...), and easy with standard comparative genomic tools (e.g. HMMer, MAFFT, PhyML, SynMap, AGORA). Web programming proficiency (PHP, Javascript...), database management, and statistical notions would be appreciated.
+If you have any questions, please contact: jean-francois.dufayard@cirad.fr

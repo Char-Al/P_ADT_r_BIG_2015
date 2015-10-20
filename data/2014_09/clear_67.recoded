@@ -1,0 +1,66 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pamelard.fabien@imabiotech.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2031926801D
+	for <bioinfo@sfbi.fr>; Tue, 23 Sep 2014 14:39:50 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: At8BAH5pIVTU4xENlWdsb2JhbABgg2FXyVSIXxYBEQEBAQEHDQkJEi2EFiYBBREiCQQ9FhgDAgECATchBgIBAYg+niqmA4oAhiSENQWSX5IEBZFraoJKAQEB
+X-IPAS-Result: At8BAH5pIVTU4xENlWdsb2JhbABgg2FXyVSIXxYBEQEBAQEHDQkJEi2EFiYBBREiCQQ9FhgDAgECATchBgIBAYg+niqmA4oAhiSENQWSX5IEBZFraoJKAQEB
+X-IronPort-AV: E=Sophos;i="5.04,579,1406584800"; 
+   d="scan'208";a="73404809"
+Received: from mout.kundenserver.de ([212.227.17.13])
+  by a-mx1.relay.syrhano.net with ESMTP; 23 Sep 2014 14:39:49 +0200
+Received: from [10.10.100.51] (cust508.completel.fr [213.30.169.148])
+	by mrelayeu.kundenserver.de (node=mreue101) with ESMTP (Nemesis)
+	id 0LkySz-1Y6Zg924EX-00ang0; Tue, 23 Sep 2014 14:39:48 +0200
+Message-ID: <54216A54.9090401@imabiotech.com>
+Date: Tue, 23 Sep 2014 14:40:52 +0200
+From: Pamelard Fabien <pamelard.fabien@imabiotech.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Provags-ID: V02:K0:ZCXBX4x/koF6JBasqm68yrSiAr/EncEW91+BW18p68+
+ V9+juqtjn2wk5Go0Pr1IBbqd0mobov69IVRdznd9sOyvxx3fIb
+ bLCnlCaAbeWdedrZy02+GoU67BDLY2pRs8swJL9QiMt1ScOZYm
+ +xElCh1cITMM2M09hPg9RNyFdCUA8rjntr1M51WXss2E7F7fZO
+ 08sKGRCq2gFkDaG1kveI+5CNEKDGAqPcxVfspV5SxYzSE0GWxv
+ aCkg/IT++vFZmpfHbqx4mOWDfdh4bPJtpPMw4/+ySV/QtH7WmS
+ 8KazYLcE77Lmc4Jl0sfjBDCK58DtVmdKfOg2SezVWFzfq8eLCE
+ Jvj5Ge8N3RHfBCx2Pxa8XlQbchE3UKrPhv/8yOT7m
+X-UI-Out-Filterresults: notjunk:1;
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] =?WINDOWS-1252?Q?D=E9veloppement?= en imagerie =?WINDOWS-1252?Q?mol=E9culaire?= - ImaBiotech
+FONCTION : Ingénieur d'études
+SECTEUR : Biotechnologie - Informatique
+SOCIETE : ImaBiotech
+DESCRIPTIF : Ingénieur d'études en (bio) informatique
+ImaBiotech est une société de service dont la mission est d'accompagner 
+les laboratoires de recherches dans les processus de développement de 
+molécules.
+Expertise, qualité et flexibilité sont associées autour d'une plateforme 
+technologique innovante pour accélérer la découverte et le développement 
+de molécules
+dans les domaines de la médecine, de la pharmacologie, de l'agrochimie 
+et de l'environnement. Dans le cadre de ses programmes de recherches et 
+développement
+interne, le service informatique d'ImaBiotech développe des applicatifs 
+internes réalisés autour du BigData Hypertable et de l'imagerie moléculaire.
+MISSION :
+Le cadre du stage s'articulera sur des thématiques de recherche et 
+développements informatique dont la finalité est de proposer des 
+nouveaux modules métiers intégrables dans un logiciel développé en équipe.
+Les sujets envisagés sont:
+* Développement de nouveaux modules métiers basés sur l'imagerie par 
+spectrométrie de masse
+* Développement de modules de sorties graphiques (« plots », gradients...)
+* Maintenance applicative du métier basé sur une structure en WCF/NoSQL
+ENVIRONNEMENT DE TRAVAIL: Visual Studio Ultimate, TFS, WPF/ WCF/ C#, C++, R
+COMPETENCES RECHERCHEES : Algorithme, Programmation C#/Java/C++/SGBD, 
+Scientifique, Statistique
+DUREE : 6 mois  -  Début envisagé : Fév/Mars. 2015
+REGION : Lille, France (Loos)
+CONTACTS ET INFORMATIONS : recrutement@imabiotech.com  -  www.imabiotech.com

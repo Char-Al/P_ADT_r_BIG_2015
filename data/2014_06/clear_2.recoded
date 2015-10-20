@@ -1,0 +1,49 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id DE8CA26801D
+	for <bioinfo@sfbi.fr>; Sun,  1 Jun 2014 20:59:27 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArkCAI13i1OKZqI0nGdsb2JhbABYg1mDRL9cBQMCAYEfDgEBAQEBCAsJCRQogiYBBSMPAQURHRIRJQIFFgQHAgIJAwIBAgE6CxMGAgEBiD4ECbFEpC0XgSqBNIsSEQFXFoJfgUsEmgCVJYFCgXQ
+X-IronPort-AV: E=Sophos;i="4.98,952,1392159600"; 
+   d="scan'208";a="59445875"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 01 Jun 2014 20:59:27 +0200
+Received: from MacBook-Air-de-sophie-2.local (bur91-3-82-239-212-158.fbx.proxad.net [82.239.212.158])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s51IxQ6Y000401
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Sun, 1 Jun 2014 20:59:26 +0200 (CEST)
+Message-ID: <538B7814.8000404@jouy.inra.fr>
+Date: Sun, 01 Jun 2014 20:59:32 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1WrAyQ-0004kP-U8@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1WrAyQ-0004kP-U8@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1WrAyQ-0004kP-U8@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 538B780E.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 538B780E.000/82.239.212.158/bur91-3-82-239-212-158.fbx.proxad.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 538B780E.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=## B=0.065 -> S=0.096
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][=?UTF-8?Q?Th=C3=A8se?=] Computational methods for the analysis of promoters for microRNAs and clusters of microRNAs
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Computational methods for the analysis of promoters 
+for
+microRNAs and clusters of microRNAs
+Type de poste : Thèse
+Durée du poste :
+Ville : Vancouver, BC, Canada
+Nom du contact : Anthony Mathelier
+Email du contact : amathelier@cmmt.ubc.ca
+Laboratoire : Wasserman laboratory, University of British Columbia
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/computational-methods-analysis-promoters-micrornas-and-clusters-micrornas

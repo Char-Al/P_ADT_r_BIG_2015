@@ -1,0 +1,93 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Fabrice.Legeai@rennes.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 40EEC26801D
+	for <bioinfo@sfbi.fr>; Fri, 23 May 2014 09:55:25 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhACAN/9flOTY7vlnGdsb2JhbABZg1lYgiFJqkWXAoEfDgEBAQEBCBQJPII4Fw8BBRsfIBwCJgJOJBuIJg2VeIx+jyKlR4EqjQKDIoFLBJlxgT6QEYUT
+X-IronPort-AV: E=Sophos;i="4.98,892,1392159600"; 
+   d="scan'208";a="59007674"
+Received: from rennes.inra.fr (HELO courriel22.rennes.inra.fr) ([147.99.187.229])
+  by b-mx1.relay.syrhano.net with ESMTP; 23 May 2014 09:55:25 +0200
+Received: from rennes.inra.fr (webmail.rennes.inra.fr [147.99.187.198])
+	by courriel22.rennes.inra.fr (/8.14.4) with ESMTP id s4N7tKhn015008
+	for <bioinfo@sfbi.fr>; Fri, 23 May 2014 09:55:23 +0200 (CEST)
+Received: from daktulos.irisa.fr (daktulos.irisa.fr [131.254.15.89]) by
+ webmail.rennes.inra.fr (Horde Framework) with HTTP; Fri, 23 May 2014
+ 09:55:20 +0200
+Date: Fri, 23 May 2014 09:55:20 +0200
+Message-ID: <20140523095520.Horde.HP49B5RF2UXrizOQhLFOOQ2@webmail.rennes.inra.fr>
+From: Fabrice Legeai <Fabrice.Legeai@rennes.inra.fr>
+To: bioinfo@sfbi.fr
+User-Agent: Internet Messaging Program (IMP) H5 (6.0.4)
+Content-Type: text/plain; charset=UTF-8; format=flowed; DelSp=Yes
+MIME-Version: 1.0
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-Miltered: at courriel22 with ID 537EFEE8.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 537EFEE8.000/147.99.187.198/webmail.rennes.inra.fr/rennes.inra.fr/<Fabrice.Legeai@rennes.inra.fr>
+X-j-chkmail-Score: MSGID : 537EFEE8.000 on courriel22.rennes.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.071 -> S=0.071
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at courriel22
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] poste =?UTF-8?Q?=C3=A0?= l'IRISA (Rennes) en
+ =?UTF-8?Q?G=C3=A9nomique?=  =?UTF-8?Q?Int=C3=A9grative?=
+Bonjour,
+Veuillez trouvez ci-dessous la description d'un poste dans l'équipe  
+Dyliss (IRISA/INRIA, Rennes) :
+Offre d’emploi en Génomique Intégrative
+Lieu : Rennes
+Employeur :CNRS, UMR IRISA
+Durée : du 1er juin 2014 au 31 décembre 2015
+Compétences requises : Doctorat en bioinformatique ou M2  
+bioinformatique avec une expérience en analyse de données.
+Contacts :
+- Fabrice Legeai (INRA, UMR IGEPP, Rennes) : fabrice.legeai@rennes.inra.fr
+- Anne Siegel (CNRS, IRISA, Rennes) : anne.siegel@irisa.fr
+- Denis Tagu (INRA, UMR IGEPP, Rennes) : denis.tagu@rennes.inra.fr
+Contexte :
+Nous recherchons un(e) scientifique(e) pour développer un programme de  
+recherche en génomique intégrative dans le cadre d’un programme ANR en  
+cours  
+(http://www6.rennes.inra.fr/igepp/EQUIPES-DE-RECHERCHE/Ecologie-et-Genetique-des-Insectes/Projets/MiRNAdapt2) piloté par Denis Tagu. Ce programme vise à décrire les mécanismes de régulations géniques lors d’embryogenèses chez un insecte (le puceron du pois) afin d’identifier des fonctions clefs de la plasticité phénotypique. Il s’agit d’un mécanisme adaptatif qui permet de développer des phénotypes alternatifs à partir d’un même génome, en fonction des conditions environnementales. Ici, il s‘agit de phénotypes alternatifs concernant le mode de reproduction : en fonction de la photopériode (et donc des saisons), les individus peuvent se multiplier soit par parthénogenèse clonale vivipare soit par reproduction  
+sexuée
+ovipare.
+L’IGEPP (INRA, Rennes) a généré de nombreuses données omiques à  
+différents stades de l’embryogénèse du puceron et pour différentes  
+morphes adultes (sexuées ou parthénogénétiques). Ces données  
+concernent des niveaux d’expression d’ARNm, de microARN, de piARN, de  
+longs ARN non codants, des marques épigénétiques (méthylation des  
+histones, méthylation de l’ADN, accessibilité de l'ADN). Un réseau de  
+régulation autour des microARN a été généré à partir de ces données.
+Projet :
+L’étude à mener vise à développer une approche intégrative pour mettre  
+en relation les différents jeux de données et d’autres  
+caractéristiques génomiques (par exemple le type de chromosomes (X ou  
+autosome), la présence d’éléments transposables, les duplications, …)  
+avec le réseau de régulation déjà construit. Afin de rendre accessible  
+et étudiable par une large communauté, en collaboration avec les  
+ingénieurs de BIPAA (http://www.bipaa.inra.fr), et de la plateforme  
+GenOuest, le scientifique devra proposer des outils permettant  
+d’interroger, de croiser, de visualiser et d’extraire ces données.
+Le scientifique sera affecté au laboratoire d’informatique de Rennes  
+(UMR IRISA), dans l'équipe de bioinformatique IRISA/Inria Dyliss, sous  
+la responsabilité d’Anne Siegel, qui développe des méthodes formelles  
+pour l’intégration de données, et Fabrice Legeai qui a une forte  
+expérience dans le traitement et l’analyse bioinformatique de données  
+génomiques. L'équipe est associée à la plateforme de bioinformatique  
+GenOuest qui offre une infrastructure pour le calcul intensif en  
+bioinformatique incluant un cluster de calcul (approx. 300 cpu), et  
+des solutions de stockage (100 Tb), ainsi qu'une importante variété  
+d'outils et de banques de données dédiés au traitement et à l'analyse  
+des données biologiques.--
+--
+Fabrice Legeai
+BioInformatics Platform for Agroecosystems Arthropods (BIPAA)
+INRA - UMR Institut de Génétique, Environnement et Protection des  
+Plantes (IGEPP)
+INRIA/IRISA - équipe GenScale
+adresse : IRISA, Campus Beaulieu, 35042 Rennes cedex
+tel : +33.(0)2.99.84.71.18

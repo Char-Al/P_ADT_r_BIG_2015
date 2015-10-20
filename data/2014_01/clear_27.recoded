@@ -1,0 +1,125 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <marie-dominique.devignes@loria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id ADAAC26801D
+	for <bioinfo@sfbi.fr>; Thu,  9 Jan 2014 12:48:43 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqkBACWMzlLAhqRonGdsb2JhbABZFoMtVrk7AQmBERYOAQEBAQEICwkJFCiCLB1LVXQGE4gEBAmbCalqF4xigW8OLYQ3BJgXjF2IZoIp
+X-IronPort-AV: E=Sophos;i="4.95,630,1384297200"; 
+   d="scan'208";a="59957689"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by a-mx1.relay.syrhano.net with ESMTP; 09 Jan 2014 12:48:43 +0100
+X-IronPort-AV: E=Sophos;i="4.95,630,1384297200"; 
+   d="scan'208";a="44146376"
+Received: from zmbs2.inria.fr ([128.93.142.15])
+  by mail3-relais-sop.national.inria.fr with ESMTP; 09 Jan 2014 12:48:42 +0100
+Date: Thu, 9 Jan 2014 12:48:42 +0100 (CET)
+From: Marie-Dominique Devignes <marie-dominique.devignes@loria.fr>
+To: bioinfo <bioinfo@sfbi.fr>
+Message-ID: <1436938816.570840.1389268122136.JavaMail.root@loria.fr>
+In-Reply-To: <30656781.442433.1389224745640.JavaMail.root@loria.fr>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [80.10.161.161]
+X-Mailer: Zimbra 7.2.5_GA_2906 (ZimbraWebClient - FF3.0 (Win)/7.2.5_GA_2906)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] ECCB/JOBIM 2014 : 2ème Appel pour les propositions de Workshops et Tutoriaux
+Chers collègues de la liste bioinfo@sfbi.fr
+Je profite de ce rappel pour les propositions de workshops et de tutoriaux 
+pour ECCB/JOBIM 2014 (European Conference of Computational Biology/ Journ
+ées Ouvertes Biologie Informatique Mathématiques) pour vous passer deux
+ messages au nom de notre comité d'organisation:
+1. tout d'abord vous présenter mes meilleurs voeux pour une excellente an
+née 2014 !
+2. mais aussi vous rappeler que JOBIM cette année est bien couplé à E
+CCB du fait que ECCB est localisé en France. Notre comité d'organisatio
+n en est bien conscient et nous vous invitons à répondre largement aux 
+différents appels à participation d'ECCB 2014 pour témoigner de la vi
+talité de notre communauté bioinformatique fran=E7aise, sans oublier qu
+e nous comptons sur vous aussi pour renforcer nos équipes de volontaires 
+pour l'accueil des participants au moment de la conférence. Vous pouvez d
+ès à présent nous écrire pour nous indiquer si vous êtes disponib
+le pour aider à cet accueil du 6 au 10 septembre prochain à Strasbourg.
+Bien cordialement
+Marie-Dominique Devignes
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D
+ 13th European Conference in Computational Biology
+ 7-10 September 2014, Strasbourg, France
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D
+ 2nd CALL for WORKSHOPS AND TUTORIALS AT ECCB 2014
+ *********************************************
+Please send your proposal (4 pages max, see guidelines below) before
+               * January 24th, 2014 *
+to workshops-tutorials@eccb14.org
+Many thanks in advance for your contribution to the success of the ECCB 201
+4 conference !
+You can also visit the ECCB 2014 web site for other key dates and for the b
+anner contest (!)
+http://www.eccb14.org
+Best regards,
+Marie-Dominique Devignes
+Conference chair
+Olivier Poch, Mario Albrecht
+Workshops and Tutorials chairs
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%
+GUIDELINES for ECCB 2014 WORKSHOPS AND TUTORIALS SUBMISSIONS
+ECCB 2014 workhops and tutorials are scheduled on Sunday September 7, 2014 
+(or exceptionnally Saturday September 6th, 2014) from 9:00 to 17:00.
+The workshops are expected to provide participants with an informal setting
+ to discuss technical issues, exchange research ideas, and to share practic
+al experiences on a range of focused or emerging topics in bioinformatics. 
+Read more at  http://www.eccb14.org/guidelines/workshops
+The tutorials should offer participants an opportunity to learn about new a
+reas of bioinformatics research, to get an introduction to important establ
+ished topics, or to develop advanced skills in areas they are already famil
+iar with. Read more at http://www.eccb14.org/guidelines/tutorials
+Each workshop proposal should not exceed 4 pages and should include the fol
+lowing information:
+ - Title and abstract, giving the goals, motivation, and scope of the works
+hop
+ - Description of the target audience and expected audience numbers
+ - List of tentative speakers and / or attendees (if available)
+ - History of the workshop if this is not the first instance
+ - Selection mode for contributions (invitation, call for submissions)
+ - Relevant experience of the organizing committee
+ - Tentative organizing committee members (at least 2 to 3 members)
+ - Contact information for the organizer.
+Each Tutorial proposal should not exceed 4 pages, and must include
+ - a detailed description of the tutorial (title and abstract, giving the m
+otivation, expected goals, and level)
+ - provisional schedule
+ - material or infrastructure required (if relevant)
+ - intended audience and possible prerequisites
+ - a brief CV of the instructor(s) showing their relevant qualifications an
+d teaching experience.
+ - Contact information for the organizer. A maximum of two presenters per t
+utorial is recommended.
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Dr. Marie-Dominique Devignes
+Equipe Orpailleur - Bureau B164
+03 83 59 20 65
+LORIA - INRIA NGE
+Campus Scientifique, BP239
+54506 Vandoeuvre les Nancy cedex
+http://www.loria.fr/~devignes
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Dr. Marie-Dominique Devignes
+Equipe Orpailleur - Bureau B164
+03 83 59 20 65
+LORIA - INRIA NGE
+Campus Scientifique, BP239
+54506 Vandoeuvre les Nancy cedex
+http://www.loria.fr/~devignes
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D

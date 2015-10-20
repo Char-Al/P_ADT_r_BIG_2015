@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 998BB26801D
+	for <bioinfo@sfbi.fr>; Thu,  9 Oct 2014 10:24:37 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlsBAH1FNlSKZqI0nGdsb2JhbABfg2FYAYI9SMhAiGgBEQEBAQEBCAsJCRQshBYXEAURMw4IHAImAhIsECSIPg2URo0SjzuBdIwhhlKBLI42EQFtgmGBVAWBMLNpAViBRWqBD4E7AQEB
+X-IPAS-Result: AlsBAH1FNlSKZqI0nGdsb2JhbABfg2FYAYI9SMhAiGgBEQEBAQEBCAsJCRQshBYXEAURMw4IHAImAhIsECSIPg2URo0SjzuBdIwhhlKBLI42EQFtgmGBVAWBMLNpAViBRWqBD4E7AQEB
+X-IronPort-AV: E=Sophos;i="5.04,683,1406584800"; 
+   d="scan'208";a="74439197"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 09 Oct 2014 10:24:39 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s998OaNP023765
+	for <bioinfo@sfbi.fr>; Thu, 9 Oct 2014 10:24:36 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 09931296DA7
+	for <bioinfo@sfbi.fr>; Thu,  9 Oct 2014 10:24:36 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1Xc93U-000BsE-9A
+	for bioinfo@sfbi.fr; Thu, 09 Oct 2014 10:26:36 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1Xc93U-000BsE-9A@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 09 Oct 2014 10:26:36 +0200
+X-Miltered: at beta with ID 54364644.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54364644.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54364644.001 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.273 -> S=0.366
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?Int=C3=A9gration?= =?UTF-8?Q?S=C3=A9mantiq?=  ue de bases de =?UTF-8?Q?donn=C3=A9es?= =?UTF-8?Q?v=C3=A9g=C3=A9tales?= nationales
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Intégration Sémantique de bases de données  
+végétales nationales
+Type de poste : CDD Ingénieur
+Durée du poste : 18 mois
+Ville : Montpellier
+Nom du contact : Manuel Ruiz
+Email du contact : manuel.ruiz@cirad.fr
+Laboratoire : UMR AGAP et IBC
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/int%C3%A9gration-s%C3%A9mantique-de-bases-de-donn%C3%A9es-v%C3%A9g%C3%A9tales-nationales

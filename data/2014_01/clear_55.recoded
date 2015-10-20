@@ -1,0 +1,76 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Christine.Froidevaux@lri.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 1317926801D
+	for <bioinfo@sfbi.fr>; Sun, 19 Jan 2014 16:59:55 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApYBAP/121KBr9RAnGdsb2JhbABZg0O9EhYOAQEBAQEICwkJFCiCOCYBBRsVED0WGAMCAQIBWAYCAQGIAQSYXo9fm2qPHIQiBJlUhRWNEIFv
+X-IronPort-AV: E=Sophos;i="4.95,685,1384297200"; 
+   d="scan'208";a="60515452"
+Received: from mx1.u-psud.fr ([129.175.212.64])
+  by a-mx1.relay.syrhano.net with ESMTP; 19 Jan 2014 16:59:54 +0100
+Received: from mx1.u-psud.fr (localhost [127.0.0.1])
+	by localhost (MTA) with SMTP id AB49F302461
+	for <bioinfo@sfbi.fr>; Sun, 19 Jan 2014 16:59:53 +0100 (CET)
+Received: from ext.lri.fr (ext.lri.fr [129.175.15.4])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mx1.u-psud.fr (MTA) with ESMTPS id 8D3E5302457
+	for <bioinfo@sfbi.fr>; Sun, 19 Jan 2014 16:59:53 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by ext.lri.fr (Postfix) with ESMTP id 7E89740B3E
+	for <bioinfo@sfbi.fr>; Sun, 19 Jan 2014 16:59:53 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at lri.fr
+Received: from ext.lri.fr ([127.0.0.1])
+	by localhost (ext.lri.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ggkrwHgE-66p for <bioinfo@sfbi.fr>;
+	Sun, 19 Jan 2014 16:59:53 +0100 (CET)
+Received: from [192.168.1.81] (AMontsouris-652-1-248-123.w92-141.abo.wanadoo.fr [92.141.39.123])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by ext.lri.fr (Postfix) with ESMTPSA id 459D640B02
+	for <bioinfo@sfbi.fr>; Sun, 19 Jan 2014 16:59:53 +0100 (CET)
+Message-ID: <52DBF679.5020202@lri.fr>
+Date: Sun, 19 Jan 2014 16:59:53 +0100
+From: Christine Froidevaux <Christine.Froidevaux@lri.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Thunderbird/24.1.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] poste MCF (CNU 27) en bioinformatique =?WINDOWS-1252?Q?=E0?= Paris Sud - Orsay
+Bonjour,
+Un poste de maître de conférences (CNU 27) en bioinformatique à 
+l'université Paris-Sud va être ouvert pour la rentrée 2014 (poste MCF n° 
+760 sur Galaxie). La recherche s'effectuera au sein de l'équipe Bioinfo 
+du LRI (http://bioinfo.lri.fr/).
+Le but de l'équipe Bioinfo est de concevoir et développer de nouvelles 
+méthodes informatiques pour résoudre des problèmes issus de la grande 
+masse de données biologiques disponibles. A cet égard, l'équipe est 
+impliquée dans d'étroites collaborations avec des équipes de biologistes.
+Son programme scientifique est structuré en deux thèmes :
+- Bioinformatique structurale
+- Biologie des Systèmes (comprenant l'intégration des données).
+Dans ce contexte, le Maître de Conférences aura la capacité de conduire 
+des recherches dans au moins l'un des domaines suivants: fouille de 
+données, algorithmique, combinatoire, et les appliquera en biologie des 
+systèmes et/ou en biologie structurale. Une expérience du travail 
+interdisciplinaire avec des collaborateurs biologistes sera un plus.
+En ce qui concerne l'enseignement, la personne recrutée pourra 
+intervenir dans toutes les filières relevant du département informatique 
+(Faculté des Sciences), certaines étant des formations par 
+apprentissage, ainsi que dans le cursus ingénieur à Polytech. Elle 
+contribuera en particulier aux enseignements de bioinformatique en 
+option du L3 Informatique et dans le Master de Bioinformatique et 
+Biostatistiques (M1 et M2).
+Il est à noter qu'à la Faculté des Sciences de l'université Paris-Sud, 
+un maître de conférences nouvellement recruté effectue un service de 
+150h EQ-TD/an pendant deux ans.
+Les auditions des candidats retenus à l'issue de la présélection auront 
+lieu le mardi 20 mai 2014.
+Personnes à contacter pour l'équipe Bioinfo :
+Alain Denise (Alain.Denise@lri.fr) et
+Christine Froidevaux (Christine.Froidevaux@lri.fr)

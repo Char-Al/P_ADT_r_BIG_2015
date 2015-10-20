@@ -1,0 +1,90 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <petitjean.chiral@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 1496F26801D
+	for <bioinfo@sfbi.fr>; Wed,  4 Jun 2014 17:26:34 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqwDAOU5j1PRVcAslGdsb2JhbABZg1lYgiNJuBKHdoEFCBYOAQEBAQcLCwkSKoIlAQEBAw0GER0BGw0BDwEDAQkIAw0PAiYCHQYBAREBBQE1CBqICwEDCQgNkAmQD2qLJ4Fygw2aEAoZJw1khSQRAQUECIEeixKBRQEBTx2CX4FLAQOOAIoZgXqBP4wDhAYYKYRqOy8BgQk
+X-IronPort-AV: E=Sophos;i="4.98,973,1392159600"; 
+   d="scan'208";a="59636033"
+Received: from mail-qg0-f44.google.com ([209.85.192.44])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Jun 2014 17:26:33 +0200
+Received: by mail-qg0-f44.google.com with SMTP id i50so15986761qgf.3
+        for <bioinfo@sfbi.fr>; Wed, 04 Jun 2014 08:26:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=rTES5vKixz5Wfphy0Yh6s6f1nQhjZW3enjVUSWli/Nw=;
+        b=ymWYH/7oABVpioguHfGnp/Y1S/t8iwWfm8ipJEyYU3NiCdGS8VshiptO6oJ+jsiVPe
+         niDO1Jv7y2z1KirMYBbSF5gvOl5/h4L05dBsWlMGferM+WDt40hl8g3B2W+MUtPbjfk7
+         W8qMDfjOLUsH++gl419Pq6NVe5xmJcyZEnR75jTDaTy6MhkS9qYecmgStoQQqPDqy4Yr
+         ss3EpF5dN2s+wq6llmmxcMRtURiidwvgaZRdcyehQtKNU57tUHSen2xYCqLKYithoCgp
+         sixjKQEzN1n/IZZopvkvJyZ2B0S3KNm34SmK238W4jCx6csrWb4hjggvBjVcMpX1opct
+         xwYA=
+MIME-Version: 1.0
+X-Received: by 10.224.151.82 with SMTP id b18mr7516737qaw.27.1401895591925;
+ Wed, 04 Jun 2014 08:26:31 -0700 (PDT)
+Received: by 10.140.101.113 with HTTP; Wed, 4 Jun 2014 08:26:31 -0700 (PDT)
+Date: Wed, 4 Jun 2014 17:26:31 +0200
+Message-ID: <CAEw5oCbNt_hiKUvbNX9YtSzr9K6zNFPc4fHvepdBSsp6J7zFEA@mail.gmail.com>
+From: Michel Petitjean <petitjean.chiral@gmail.com>
+To: bioinfo@sfbi.fr
+Cc: Anne-Claude Camproux <anne-claude.camproux@univ-paris-diderot.fr>,
+	Olivier Taboureau <olivier.taboureau@univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Master ISDD (M1, M2) / Candidatures
+> Les candidatures au Master 1 et 2 "In Silico Drug Design" appelé aus
+si
+> "Innovation thérapeutique assistée par ordinateur a l'i
+nterface chimie
+> biologie" sont ouvertes.
+>
+> Ce master forme des professionnels(les) du privé et du public, au
+> niveau fran=C3=A7ais mais aussi européen, acteurs de la recherche et
+ de la
+> santé publique, à l'aide des approches in silico dans l
+e domaine de
+> l'innovation thérapeutique et/ou orientés vers le d=C3
+=A9veloppement de
+> molécules pharmacologiques.
+>
+> L'interdisciplinarite et l'internationalisation de ce mas
+ter est
+> ouvert aux etudiants desireux de travailler a l'interface de la
+> chimie, la biologie et l'informatique.
+> Ce master acceuille des étudiants de diverses formations initiales
+> (universitaires ou ecoles d'ingenieurs) en biochimie, chimie,
+> biologie, biologie-informatique, secteur medical, pharmacie, sciences
+> bio-médicales.
+>
+> Les dossiers de candidatures et toutes les informations utiles sont
+> disponibles sur le site:
+>
+> http://isddteach.sdv.univ-paris-diderot.fr
+>
+>
+> Contact:
+> -------------------------------------------------------
+> Pr Anne-Claude CAMPROUX
+> Bureau 410
+> Bioinformatique-MTI
+> Université Paris-Diderot
+> B=C3=A2timent lamarck 2 4éme étage
+> 35, rue Hélène Brion 75205 Paris Cedex 13
+> tel: 01 57 27 83 77
+> fax: 01 57 27 83 97
+> mail : anne-claude.camproux@univ-paris-diderot.fr
+> ---------------------------------------------------------
+>
+> Michel Petitjean
+> MTi, INSERM UMR-S 973, University Paris 7,
+> 35 rue Helene Brion, 75205 Paris Cedex 13, France.
+> Phone: +331 5727 8434; Fax: +331 5727 8372
+> E-mail: petitjean.chiral@gmail.com (preferred),
+>             michel.petitjean@univ-paris-diderot.fr
+> http://petitjeanmichel.free.fr/itoweb.petitjean.freeware.html

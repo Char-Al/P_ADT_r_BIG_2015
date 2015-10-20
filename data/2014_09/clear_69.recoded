@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 8888826801D
+	for <bioinfo@sfbi.fr>; Wed, 24 Sep 2014 10:27:10 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuUBADB/IlSKZqI0nGdsb2JhbABgg2FXAYMAxzWIagERAQEBAQEICwkJFCuELRAFETMOJAImAhIsECSIPg2dDY84gXSNJYcWgSyOEBEBbYJigVMFgS6zCQGCHWqBD4E7AQEB
+X-IPAS-Result: AuUBADB/IlSKZqI0nGdsb2JhbABgg2FXAYMAxzWIagERAQEBAQEICwkJFCuELRAFETMOJAImAhIsECSIPg2dDY84gXSNJYcWgSyOEBEBbYJigVMFgS6zCQGCHWqBD4E7AQEB
+X-IronPort-AV: E=Sophos;i="5.04,587,1406584800"; 
+   d="scan'208";a="73466778"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 24 Sep 2014 10:27:10 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s8O8R8Zm000352
+	for <bioinfo@sfbi.fr>; Wed, 24 Sep 2014 10:27:08 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 9D57F296B97
+	for <bioinfo@sfbi.fr>; Wed, 24 Sep 2014 10:27:08 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XWhwd-0001Sh-H6
+	for bioinfo@sfbi.fr; Wed, 24 Sep 2014 10:29:03 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XWhwd-0001Sh-H6@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Wed, 24 Sep 2014 10:29:03 +0200
+X-Miltered: at alpha with ID 5422805C.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5422805C.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5422805C.001 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.222 -> S=0.305
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] =?UTF-8?Q?Ing=C3=A9nieur?= Bio informat  icien 
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur Bio informaticien
+Type de poste : Post-doc / IR
+Durée du poste : 14 mois
+Ville : paris
+Nom du contact : claire Dreuillet
+Email du contact : recrutement@pasteur.fr
+Laboratoire : Institut Pasteur
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/ing%C3%A9nieur-bio-informaticien-2

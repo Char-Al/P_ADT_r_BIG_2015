@@ -1,0 +1,152 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <emilie.noguez@biosyl.org>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 498B426801D
+	for <bioinfo@sfbi.fr>; Thu, 25 Sep 2014 15:42:57 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AisCAPAaJFTZRrfDnGdsb2JhbABgg2FXBII1SMdph0QKgQQWAREBAQEBAQYNCQkULIQFBA0RBhUdEwQKCA8FHAIRFQIhUQiILgwJj0KNEY87ljKBLI5MN4JugVMFhiYUiymEN4cJgWKKUI0JaoFIgQIBAQE
+X-IPAS-Result: AisCAPAaJFTZRrfDnGdsb2JhbABgg2FXBII1SMdph0QKgQQWAREBAQEBAQYNCQkULIQFBA0RBhUdEwQKCA8FHAIRFQIhUQiILgwJj0KNEY87ljKBLI5MN4JugVMFhiYUiymEN4cJgWKKUI0JaoFIgQIBAQE
+X-IronPort-AV: E=Sophos;i="5.04,597,1406584800"; 
+   d="scan'208";a="65022144"
+Received: from relay3-d.mail.gandi.net ([217.70.183.195])
+  by b-mx1.relay.syrhano.net with ESMTP; 25 Sep 2014 15:42:56 +0200
+Received: from mfilter17-d.gandi.net (mfilter17-d.gandi.net [217.70.178.145])
+	by relay3-d.mail.gandi.net (Postfix) with ESMTP id 17CBAA80EE
+	for <bioinfo@sfbi.fr>; Thu, 25 Sep 2014 15:42:56 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mfilter17-d.gandi.net
+Received: from relay3-d.mail.gandi.net ([217.70.183.195])
+	by mfilter17-d.gandi.net (mfilter17-d.gandi.net [10.0.15.180]) (amavisd-new, port 10024)
+	with ESMTP id LgtPmOCZ3yYr for <bioinfo@sfbi.fr>;
+	Thu, 25 Sep 2014 15:42:54 +0200 (CEST)
+X-Originating-IP: 10.58.1.142
+Received: from webmail.gandi.net (unknown [10.58.1.142])
+	(Authenticated sender: emilie.noguez@biosyl.org)
+	by relay3-d.mail.gandi.net (Postfix) with ESMTPA id 99D1DA80BB
+	for <bioinfo@sfbi.fr>; Thu, 25 Sep 2014 15:42:54 +0200 (CEST)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Date: Thu, 25 Sep 2014 15:42:54 +0200
+From: Emilie NOGUEZ <emilie.noguez@biosyl.org>
+To: bioinfo@sfbi.fr
+Return-Receipt-To: Emilie NOGUEZ <emilie.noguez@biosyl.org>
+Disposition-Notification-To: Emilie NOGUEZ <emilie.noguez@biosyl.org>
+Message-ID: <625acc24e98274e38a516c342ddc4de2@biosyl.org>
+X-Sender: emilie.noguez@biosyl.org
+User-Agent: Roundcube Webmail/0.9.5
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Bientôt la date limite pour les soumissions Lyon SysBio 2014
+Bonjour,
+Lyon SysBio est une conférence internationale annuelle organisée 
+par
+BioSyL, une structure fédérative de recherche en biologie syst=C3
+=A9mique, à
+Lyon (http://www.biosyl.org).
+Cette conférence a vocation à promouvoir les échanges entre
+scientifiques de différentes disciplines (biologie, mathématiques
+,
+bioinformatique, physique, sciences sociales, â=80=A6) s'int=C3
+=A9ressant à
+l'analyse des masses de données générées par la
+ biologie systémique
+ainsi qu'à la construction d'outils de modélisati
+on, en vue d'accéder à
+une compréhension pertinente à l'échelle du syst=C3
+=A8me.
+Cette conférence se tiendra à Lyon, en France, du 19 au 21 novemb
+re
+2014, et abordera 4 thèmes, en lien avec la biologie systémique :
+Morphogénèse, Ecosystèmes et dynamiques des populations, Con
+séquences
+phénotypiques de la stochasticité, Réseaux de régulatio
+n.
+En complément de présentations par les conférenciers invit
+és, le
+programme de la conférence laissera une ample place à des pr=C3
+=A9sentations
+sélectionnées et des posters, pour lesquels les propositions sont
+ les
+bienvenues.
+Le 19 novembre, Meet the Industry, une journée-satellite co-organis=C3
+=A9e
+par ECOFECT, qui regroupe 11 unités de recherche en virologie humaine 
+et
+plus de 150 chercheurs et enseignants-chercheurs, accueillera des
+chercheurs du milieu académique et du tissu industriel rhône-alpi
+n.
+APPEL A R=C3=89SUM=C3=89S
+Nous favoriserons les travaux présentant un caractère multidicipl
+inaire
+marqué.
+Merci d'utiliser le système de soumission en ligne pour proposer un
+abstract d'une page d'ici le 13 octobre 2014, en indiquant la session
+adéquate.
+La création d'un compte sciencesconf.org est nécessaire pour
+l'inscription et la soumission, sur :
+http://lyonsysbio.sciencesconf.org/registration/index
+Nous nous réjouissons de vous accueillir à Lyon SysBio 2014 !
+DATES IMPORTANTES
+> 13 octobre 2014 - fin des soumissions 
+27 octobre 2014 - notification aux auteurs 
+05 novembre 2014 - fin des inscriptions 
+Plus d'informations sur : http://lyonsysbio.sciencesconf.org
+Contact :
+Emilie NOGUEZ, BioSyL
+Chargée de développement
+Bat Gregor Mendel (ex 741)
+16, rue Rapha=C3"l Dubois
+69622 Villeurbanne Cedex
+04-72-44-81-90 / 06.17.26.71.18
+emilie.noguez@biosyl.org
+http://www.biosyl.org
+-------------------------------------------------------------
+Lyon SysBio 2014, Systems Biology, 19-21 November 2014, Lyon
+LyonSysBio is the yearly international conference organized by the
+Systems Biology Alliance of Lyon/ BioSyL (www.biosyl.org).
+Its goal is to promote exchanges between scientists from different
+disciplines (biology, mathematics, computer sciences, physics, social
+sciences,â=80=A6) who are interested in the analysis of the wealth of dat
+a
+generated by modern biology, as well as the construction of the
+necessary modeling tools to gain system level thoughtful insights.
+In 2014, this conference will be held from the 19th to the 21th of
+November. It will be dedicated to discussions around the 4 following
+themes: Morphogenesis, Ecosystems and population dynamics, Phenotypic
+outcomes of stochasticity and Regulatory networks.
+Keynote lectures will be delivered by invited speakers, on
+state-of-theâ=80=93art advances on those themes. In addition, the confere
+nce
+program will leave ample space for contributed talks and posters for
+which proposals are welcome.
+On November 19, Meet the Industry, a satellite meeting jointly organized
+with ECOFECT will offer a unique opportunity for private and public
+researchers to share ideas in a stimulating environment.
+CALL FOR PAPERS
+We wish to favor works presenting results of a multidisciplinary
+approach.
+Please use the online system to submit a one-page abstract (maximum 500
+words, in English) by October 13, 2014, indicating your choice of the
+relevant session.
+To register and to submit an abstract, you will have to create a
+sciencesconf.org account by filling the on-line registration and
+submission forms, on
+http://lyonsysbio.sciencesconf.org/registration/index
+We are looking forward to welcoming you in Lyon for Lyon Sysbio 2014!
+KEY DATES
+> October 13th 2014  - Deadline for submitting
+October 27th 2014 - Notification to authors 
+November 5th 2014  - End of registrations 
+More on Lyon SysBio website :
+http://lyonsysbio.sciencesconf.org/?lang=3Den
+Contact :
+Emilie NOGUEZ, BioSyL
+Development Officer
+Bat Gregor Mendel (ex 741)
+16, rue Rapha=C3"l Dubois
+69622 Villeurbanne Cedex
+04-72-44-81-90 / 06.17.26.71.18
+emilie.noguez@biosyl.org
+http://www.biosyl.org

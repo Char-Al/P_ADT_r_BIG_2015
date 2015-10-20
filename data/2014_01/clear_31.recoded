@@ -1,0 +1,90 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <lecellier@igmm.cnrs.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id DA43026801D
+	for <bioinfo@sfbi.fr>; Thu,  9 Jan 2014 19:53:31 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhgCAA7vzlLBMYQUnGdsb2JhbABZg0ODCkq3VhYOAQEBAQEIFAk8gjgXDwEFESkbBQsRAiYCcgiIAI4pjGCPEZpaF4EpkFKBSASJQ4V4iFyVYw
+X-IronPort-AV: E=Sophos;i="4.95,632,1384297200"; 
+   d="scan'208";a="59986828"
+Received: from mx.montp.cnrs.fr ([193.49.132.20])
+  by a-mx1.relay.syrhano.net with ESMTP; 09 Jan 2014 19:53:30 +0100
+Received: from opale (opale.sic.montp.cnrs.fr [194.57.116.90])
+	by mx.montp.cnrs.fr  with ESMTP id s09IrR6A011822-s09IrR6B011822;
+	Thu, 9 Jan 2014 19:53:27 +0100
+Received: from opale (localhost [127.0.0.1])
+	by opale (Postfix) with ESMTP id 96D5E1175513;
+	Thu,  9 Jan 2014 19:53:06 +0100 (CET)
+Received: from webmail.sic.montp.cnrs.fr (opale.sic.montp.cnrs.fr [194.57.116.90])
+	by opale (Postfix) with ESMTP id 5DA251160B5F;
+	Thu,  9 Jan 2014 19:53:06 +0100 (CET)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Thu, 09 Jan 2014 10:53:06 -0800
+From: lecellier <lecellier@igmm.cnrs.fr>
+To: bioinfo@sfbi.fr
+Organization: CNRS - IGMM
+Message-ID: <446afa1524d4e90b5f74702d6a075853@opale.sic.montp.cnrs.fr>
+X-Sender: lecellier@igmm.cnrs.fr
+User-Agent: RoundCube Webmail/0.8.1
+X-Virus-Scanned: ClamAV using ClamSMTP
+X-FEAS-SPF: PASS / PASS ( ip="194.57.116.90", helo="", mailFrom="lecellier@igmm.cnrs.fr" ) ( headerFrom="lecellier@igmm.cnrs.fr" )
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] EMPLOI: Biostatisticien H/F - CDD de 12 mois renouvelable -
+ Montpellier
+Biostatisticien H/F
+CDD de 12 mois renouvelable
+Poste à pourvoir de suite
+Fonction : Biostatisticien(ne)
+Localisation : Laboratoire Prestizia – Cap Alpha (Clapiers, 34)- 
+Agglomération de Montpellier.
+Contexte : La société de biotechnologie Prestizia, filiale à 100% de 
+Theradiag (Marne-la-Vallée, www.theradiag.com) développe depuis 2011 une 
+technologie et un savoir-faire pour l'identification de petits ARN 
+non-codants appelés microARNs à partir d'échantillons de sang de 
+patients. Détectés par des techniques de biologie moléculaire, ces 
+miARNs sont utilisés comme biomarqueurs pour la recherche appliquée au 
+diagnostic et au monitoring des médicaments.
+La première application, dédiée au développement d’un kit permettant 
+l’identification des patients infectés par le VIH et éligibles au 
+traitement par le Selzentry (Maraviroc), est conduite en étroite 
+collaboration avec l’Institut de Génétique Moléculaire de Montpellier 
+(IGMM, CNRS).
+En collaboration avec d’autres instituts et sociétés, Prestizia 
+développe son savoir-faire pour l’application à d’autres thématiques 
+comme le cancer du rectum, l’obésité ou encore le traitement du VIH.
+La mission finale de Prestizia est de développer et également de 
+produire des kits de diagnostic et de théranostic in vitro qui seront 
+commercialisés et distribués par la société Théradiag.
+Pour mener à bien ces travaux, Prestizia recherche un(e) 
+biostaticien(ne) à même d’assister les chefs de projets de la 
+plateforme.
+Missions :
+A partir des données issues du profilage à haut-débit par qPCR des 
+miRNAs sur des cohortes de patients, vos missions seront de :
+(i), Etablir et d’optimiser des plans d’expériences en vue de 
+l’obtention des données.
+(ii), Gestion des données issues du profilage à haut-débit (UML, 
+MysSql).
+(iii), Développement et mise en place des outils d’analyse statistique 
+en vue de l’exploitation des données (maîtrise de R indispensable).
+(iv), Développement d’un algorithme en lien avec une interface graphique 
+exploitable par les laboratoires d’analyses (Perl, JAVA, C/C++, PHP).
+Le/la candidat(e) devra également êetre apte à :
+(i), communiquer avec les responsables scientifiques des différentes 
+thématiques.
+(ii), faire la synthèse, présentation et discussion des résultats.
+(iii), proposer différentes approches méthodologiques.
+Docteur ou Ingénieur en bio-statistique, vous justifiez d’une expérience 
+dans le domaine du traitement de données à haut-débit.
+Bon relationnel et capacité à travailler en équipe indispensable. 
+Anglais lu, écrit et parlé.
+Rémunération selon expérience et profil.
+Si vous vous reconnaissez dans cette proposition, et si vous avez 
+l’enthousiasme, la motivation pour intégrer ce poste, merci de nous 
+faire parvenir votre candidature par courriel à Madame Prigneau 
+(oprigneau@prestizia.fr) et Monsieur Vetter (gvetter@prestizia.fr).

@@ -1,0 +1,97 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sylvain.foissac@toulouse.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 469F426801D
+	for <bioinfo@sfbi.fr>; Mon,  6 Oct 2014 16:34:28 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApEBAHGnMlSTY2tznGdsb2JhbABfg2FYzCGIbQERAQEBAQEICwkJFCyEFiYBBToCHiM0AlkGAgEBBYg1j2aNEaQblRcFknqDNoh2hXaSB2qBCCSBHgEBAQ
+X-IPAS-Result: ApEBAHGnMlSTY2tznGdsb2JhbABfg2FYzCGIbQERAQEBAQEICwkJFCyEFiYBBToCHiM0AlkGAgEBBYg1j2aNEaQblRcFknqDNoh2hXaSB2qBCCSBHgEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,664,1406584800"; 
+   d="scan'208";a="65662885"
+Received: from mx.toulouse.inra.fr (HELO yang.toulouse.inra.fr) ([147.99.107.115])
+  by b-mx1.relay.syrhano.net with ESMTP; 06 Oct 2014 16:34:27 +0200
+Received: from [147.99.97.49] (inf107.toulouse.inra.fr [147.99.97.49])
+	by yang.toulouse.inra.fr (/8.14.4) with ESMTP id s96EYQtZ004167
+	for <bioinfo@sfbi.fr>; Mon, 6 Oct 2014 16:34:26 +0200 (CEST)
+Message-ID: <5432A871.40107@toulouse.inra.fr>
+Date: Mon, 06 Oct 2014 16:34:25 +0200
+From: Sylvain Foissac <sylvain.foissac@toulouse.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at yang with ID 5432A872.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5432A872.001/147.99.97.49/inf107.toulouse.inra.fr/[147.99.97.49]/<sylvain.foissac@toulouse.inra.fr>
+X-j-chkmail-Score: MSGID : 5432A872.001 on yang.toulouse.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.015 -> S=0.015
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at yang
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi] [Stage] Stage Master 2 INRA Toulouse - Analyse de =?WINDOWS-1252?Q?m=E9thylomes?=
+Analyse de la méthylation de l'ADN en lien avec le transcriptome dans 
+l'embryon de poulet.
+Stage Master 2 Recherche
+Unité : UMR INRA / INPT ENSAT / INPT ENVT, GENPHYSE, Castanet-Tolosan, 
+31326, France
+Responsables scientifiques (contact):
+Frédérique Pitel (frederique.pitel@toulouse.inra.fr), Sylvain Foissac 
+(sylvain.foissac@toulouse.inra.fr)
+CONTEXTE
+Les caractères économiques les plus pertinents dans les productions 
+animales présentent des variations phénotypiques continues dues à des 
+facteurs génétiques et environnementaux et à leurs interactions. Des 
+marques épigénétiques (méthylation de l'ADN, modifications 
+post-traductionnelles d'histones, ...) peuvent influencer l'expression des 
+gènes en réponse à l'environnement, démontrant que le génome eucaryote 
+répond de manière dynamique aux variations du milieu auxquelles 
+l'individu se trouve exposé. Chez l'homme, les publications associant 
+certaines maladies à des modifications de marques épigénétiques - 
+transmissibles ou non - se multiplient dans des domaines aussi 
+différents que les comportements, les maladies cardiovasculaires ou les 
+cancers. Des études chez divers organismes eucaryotes, des plantes à 
+l'homme, ont de plus récemment révélé que l'information épigénétique 
+pouvait être transmise à travers les générations. En particulier, la 
+transmission intergénérationnelle de la méthylation de l'ADN est très 
+clairement établie chez les végétaux, ainsi que l'influence de ces 
+marques sur la variabilité des phénotypes. Ces phénomènes pourraient 
+expliquer une part de l'"héritabilité manquante" évoquée depuis les 
+études de GWAS (Genome Wide Association Studies) humaines. Comprendre 
+l'influence des modifications épigénétiques sur l'expression des gènes, 
+notamment en raison de facteurs environnementaux, constitue un domaine 
+de recherches très important en médecine humaine, en particulier en 
+cancérologie, et représente un potentiel considérable pour l'agriculture 
+actuelle ; ces phénomènes pourraient être pris en compte par les 
+généticiens visant à étudier l'adaptation des animaux à des 
+environnements changeants.
+SUJET
+Deux lignées de poulet ont été croisées, en croisements réciproques, 
+pour obtenir des embryons, analysés à l'âge de 4,5 jours de 
+développement. Les transcriptomes issus de ces embryons (n = 20) ont été 
+séquencés dans un programme financé par l'ANR (EpiBird). Nous disposons 
+également des séquences génomiques de 8 de ces embryons (4 mâles et 4 
+femelles), ainsi que des séquences issues de WGBS (Whole Genome 
+Bisulfite Sequencing), permettant de déterminer le taux de méthylation 
+de chaque cytosine, à l'échelle du génome.
+La question scientifique principale qui fait l'objet de ce stage est la 
+relation, chez l'oiseau, entre la méthylation de l'ADN et l'expression 
+des gènes à un stade de développement particulier. Cette étude sera 
+complétée par des analyses différentielles de taux de méthylation entre 
+sexes et entre sens de croisements. L'étudiant(e) disposera de données 
+haut-débit pour lesquelles les traitements bioinformatiques préalables 
+(vérification de la qualité, mapping sur le génome) auront déjà été 
+réalisés, les données transcriptomiques notamment ayant fait l'objet 
+d'une thèse spécifique. Il/elle travaillera dans un environnement 
+propice à l'analyse de ce type de données, en particulier avec le 
+soutien des équipes bioinformatiques de la plate-forme Genotoul 
+(http://bioinfo.genotoul.fr/) et Sigenae (www.sigenae.org 
+<http://www.sigenae.org/>). Un tel jeu de données (génome, transcriptome 
+et méthylome sur 8 réplicats) est à l'heure actuelle unique chez le poulet.
+COMPETENCES ACQUISES
+- Analyse de données de séquençage haut-débit
+- Utilisation, et développement si nécessaire, de scripts 
+bioinformatiques pour le traitement des données
+- Analyses statistiques pour l'étude d'expression et de la méthylation
+- Éventuellement : validations expérimentales par pyroséquençage

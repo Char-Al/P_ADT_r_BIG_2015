@@ -1,0 +1,58 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Laurent.Duret@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 1437A26801D
+	for <bioinfo@sfbi.fr>; Tue, 20 May 2014 17:01:12 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvkAAIhte1OG1ryTnGdsb2JhbABZg1fEboEcFg4BAQEBAQgLCQkUKIJ/JoFRiEHTUBeOTh2DFYEVBJsllR1r
+X-IronPort-AV: E=Sophos;i="4.98,874,1392159600"; 
+   d="scan'208";a="67107035"
+Received: from cisrsmtp4.univ-lyon1.fr ([134.214.188.147])
+  by a-mx1.relay.syrhano.net with ESMTP; 20 May 2014 17:01:11 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp4.univ-lyon1.fr (Postfix) with ESMTP id BAE89E0052;
+	Tue, 20 May 2014 17:01:10 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp4.univ-lyon1.fr
+Received: from cisrsmtp4.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp4.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PUWHMocUakwE; Tue, 20 May 2014 17:01:05 +0200 (CEST)
+Received: from umr5558-c02mk1nrfh05.univ-lyon1.fr (umr5558-c02mk1nrfh05.univ-lyon1.fr [134.214.35.106])
+	by cisrsmtp4.univ-lyon1.fr (Postfix) with ESMTP id 77595E003F;
+	Tue, 20 May 2014 17:01:04 +0200 (CEST)
+From: Laurent Duret <Laurent.Duret@univ-lyon1.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 20 May 2014 17:01:04 +0200
+Message-Id: <0357EF4A-B719-46CF-A9A4-D81643CD97B1@univ-lyon1.fr>
+Cc: Laurent Duret <Laurent.Duret@univ-lyon1.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] PosDoc position: Chicago; analysis of ribosome profiling data
+Je vous fais suivre cette annonce de postdoc.
+Répondre à Alexander Mankin : shura@uic.edu
+-------
+The laboratory in the Center for Pharmaceutical Biotechnology, University o
+f Illinois at Chicago, USA, is looking for a bioinformatician (experienced 
+graduate student, postdoctoral, or more senior) to join the project funded 
+by the National Institutes of Health, USA, involving analysis of the riboso
+me profiling data. The research in the laboratory is focused on the basic m
+echanisms of protein synthesis in bacteria and action of antibiotics affect
+ing the ribosome functions. As a part of this project, we are generating an
+d analyzing the ribosome profiling data based on the technique developed by
+ the Weissman's laboratory (Science, 2009, 324, 218-223; Cell, 2014, 157,
+ 624-635) where deep sequencing of the mRNA fragments protected by the ribo
+some probes the distribution of ribosomes along mRNA. Studying changes in t
+he ribosome distribution provides insights into translation regulation and 
+mechanisms of antibiotic action. Successful candidate is expected to have p
+revious experience in the analysis of next generation sequencing data, RNA-
+seq data and/or search for the sequence patterns in the genomes. The candid
+ate should be proficient with Python or Perl scripting and be able to work 
+independently in a highly stimulating environment of molecular biologists a
+nd biochemists.
+For more information about the laboratory, visit the URL http://mankinlab.c
+pb.uic.edu.
+Please send the inquiries to Prof. Alexander Mankin at shura@uic.edu

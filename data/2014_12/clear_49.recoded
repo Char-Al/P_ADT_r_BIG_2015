@@ -1,0 +1,86 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Diana.Marek@isb-sib.ch>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C64BD26801D
+	for <bioinfo@sfbi.fr>; Sat, 13 Dec 2014 12:05:38 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AscAADkcjFTAIdeHmWdsb2JhbAA/GoNYWAGDBcMCDoUkSoEuAQEBAQERAQEBAQEICwsHFC6ENg8BBREKJQE1AgUWBAcCCwMCAQIBWAEFAgEBFgKIEAQJN8BglhwBAQEHAQEBAR6BIYEpQYk5gwwiHYIXDC8RgTAFl3yCXo1OgjAigT1tARKCMAEBAQ
+X-IPAS-Result: AscAADkcjFTAIdeHmWdsb2JhbAA/GoNYWAGDBcMCDoUkSoEuAQEBAQERAQEBAQEICwsHFC6ENg8BBREKJQE1AgUWBAcCCwMCAQIBWAEFAgEBFgKIEAQJN8BglhwBAQEHAQEBAR6BIYEpQYk5gwwiHYIXDC8RgTAFl3yCXo1OgjAigT1tARKCMAEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,570,1413237600"; 
+   d="scan'208";a="69846985"
+Received: from bell-sib.unige.ch (HELO bell.isb-sib.ch) ([192.33.215.135])
+  by b-mx1.relay.syrhano.net with ESMTP; 13 Dec 2014 12:05:38 +0100
+Received: from Mac-de-Didi.local (85-218-13-241.dclient.lsne.ch [85.218.13.241])
+	(authenticated bits=0)
+	by bell.isb-sib.ch (8.14.4/8.14.4) with ESMTP id sBDB5Xor017870
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO);
+	Sat, 13 Dec 2014 12:05:33 +0100
+Message-ID: <548C1D7E.8070000@isb-sib.ch>
+Date: Sat, 13 Dec 2014 12:05:34 +0100
+From: Diana Marek <Diana.Marek@isb-sib.ch>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Cc: Pascal Kahlem <pkahlem@s-n-m.eu>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: @isb-sib.ch "No, score=-21.9 required=5.5 tests=AWL,BAYES_00,
+	UNPARSEABLE_RELAY,USER_IN_WHITELIST autolearn=no"
+X-Spam-Report: @isb-sib.ch
+	*  -20 USER_IN_WHITELIST From: address is in the user's white-list
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  0.0 UNPARSEABLE_RELAY Informational: message has unparseable relay lines
+	*  0.0 AWL AWL: From: address is in the auto white-list
+X-Spam-Checker-Version: @isb-sib.ch SpamAssassin
+X-MailScanner-Information: @isb-sib.ch Please contact SIB for more information
+X-MailScanner-ID: @isb-sib.ch sBDB5Xor017870
+X-MailScanner: @isb-sib.ch Found to be clean
+X-MailScanner-From: @isb-sib.ch diana.marek@isb-sib.ch
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] AgedBrainSYSBIO International Symposium: Advances in Systems Biology
+ in Neurosciences - 6 February 2015 - Geneva Biotech Campus
+Dear all,
+We are pleased to announce the following international symposium, 
+organised by the AgedBrainSYSBIO project and the SIB Swiss Institute of 
+Bioinformatics (Vital-IT/Swiss-Prot)
+International Symposium on Advances in Systems Biology in Neurosciences 
+- 6 February 2015- Geneva
+As part of ongoing research to better understand the complexities of the 
+human brain, different European-funded FP7-HEALTH consortia such as 
+AgedBrainSYSBIO (on systems biology, synapse and ageing) and SYNSYS (on 
+systems biology and synapse), the European flagship Human Brain Project, 
+Alzheimer's Disease Neuroimaging Initiative (ADNI) and the Allen 
+Institute for Brain Science are embarking on efforts to unravel 
+molecular mechanisms involved in brain functioning both in normal 
+conditions and during ageing.
+This symposium will bring together clinicians, biologists, 
+bioinformaticians, statisticians, who will present the latest advances 
+in the field of neuroscience, taking advantage of state-of-the-art 
+approaches provided by omics-biotechnologies, supercomputers, 
+neuroimaging, amongst others.
+Key dates:
+   - Poster abstract submission deadline: 5 January 2015
+   - Symposium registration deadline: 5 January 2015
+   - Symposium: 6 February 2105
+Further information and registrations:
+http://www.agedbrainsysbio.eu/index.php/component/content/article/10-news-events/21-international-symposium
+The symposium is funded by the European Commission through the 
+AgedBrainSYSBIO project and received financial support from 
+Vital-IT/Swiss-Prot@SIB, Novartis and Roche.
+Looking forward to seeing you in Geneva,
+For the organizers,
+Diana Marek
+-- 
+Diana Marek, PhD
+Vital-IT - Training & Outreach
+SIB | Swiss Institute of Bioinformatics
+Quartier Sorge - Bâtiment Génopode - CH 1015 Lausanne - Switzerland
+t +41 21 692 40 77 - f +41 21 692 40 65
+Diana.Marek@isb-sib.ch - www.vital-it.ch - www.isb-sib.ch
+The information in this e-mail, and those ensuing, is confidential and 
+may be legally privileged. It is intended solely for the addressee. If 
+you are not the intended recipient, please destroy this message and 
+notify the sender immediately.

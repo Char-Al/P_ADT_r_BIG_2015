@@ -1,0 +1,98 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <garczare@sb-roscoff.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 767C026801D
+	for <bioinfo@sfbi.fr>; Tue, 18 Mar 2014 20:04:27 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aq4BADCYKFPBNCfLnGdsb2JhbABag0HEJxYOAQEBAQEICwkJFCiCXgEFMQEODy4WGAMCAQIBCU8GAgEBEYdoCZ5RsWkEjXwRAYUPBItgkzKGH4hzPIE1
+X-IronPort-AV: E=Sophos;i="4.97,679,1389740400"; 
+   d="scan'208";a="63680104"
+Received: from mx.sb-roscoff.fr ([193.52.39.203])
+  by a-mx1.relay.syrhano.net with ESMTP; 18 Mar 2014 20:04:26 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mx.sb-roscoff.fr (Postfix) with ESMTP id C4394224521
+	for <bioinfo@sfbi.fr>; Tue, 18 Mar 2014 20:04:23 +0100 (CET)
+X-Virus-Scanned: amavisd-new at mx.sb-roscoff.fr
+Received: from mx.sb-roscoff.fr ([127.0.0.1])
+	by localhost (mx.sb-roscoff.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id M-Vm8a4WgED2 for <bioinfo@sfbi.fr>;
+	Tue, 18 Mar 2014 20:04:22 +0100 (CET)
+Received: from [192.168.5.188] (unknown [192.168.5.188])
+	(using TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(Client did not present a certificate)
+	by mx.sb-roscoff.fr (Postfix) with ESMTP id B4CA12244F5
+	for <bioinfo@sfbi.fr>; Tue, 18 Mar 2014 20:04:22 +0100 (CET)
+Message-ID: <532898BA.4020403@sb-roscoff.fr>
+Date: Tue, 18 Mar 2014 20:04:26 +0100
+From: Laurence Garczarek <garczare@sb-roscoff.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoc in Bacterial Transcriptomics, Station biologique, Roscoff
+*Job description*
+A two year postdoc position is available in the /Marine Phototrophic 
+Prokaryotes/ team to study the impact of the variation of various 
+environmental factors on the marine picocyanobacteria /Synechococcus/. 
+This genus is among the most pertinent biological models to tackle this 
+question since it is ecologically relevant and ubiquitous. Furthermore, 
+numerous genome sequences (41 /Synechococcus/, 3 /Cyanobium/) and 
+strains in culture representative of most ecotypes identified in the 
+field are now available, which allow them to be studied at all levels of 
+organization from genes to the global ocean.
+In the framework of the ANR project SAMOSA (2014-2018), we plan to 
+develop a system biology approach to characterize and model the main 
+acclimation (/i.e./, physiological) and adaptation (/i.e./, 
+evolutionary) mechanisms involved in the differential responses of 
+/Synechococcus/ clades/ecotypes to environmental fluctuations, with the 
+goal to better predict their respective adaptability, and hence dynamics 
+and distribution in the field in the context of global change. The 
+selected candidate will participate in the experiment setup, the culture 
+harvesting and the preparation of RNA samples as well as in the 
+bioinformatic analyses of transcriptomic data obtained by RNA-Seq 
+technologies. Physiological experiments will consist in submitting 
+strains representative of the dominant ecotypes to various environmental 
+stresses (e.g., high light, UV, temperature) under continuous light or 
+light-dark cycle conditions. The postdoctoral fellow could also be 
+involved in i) the further characterization of genes identified by 
+transcriptomics and/or comparative genomics as being involved in the 
+stress adaptation of /Synechococcus/ ecotypes, using mutagenesis and ii) 
+studying their distribution/expression in metagenomes and 
+metatranscriptomes from various oceanic regions and depths showing 
+contrasted environmental parameters, available from the TARA-Oceans cruise.
+*Required qualifications*
+The candidate should have experience in bioinformatics applied to DNA or 
+RNA sequence analysis (comparative genomics, metagenome analysis, 
+phylogeny, microbial diversity and evolution) and/or bacterial 
+transcriptomics (RNA extraction, real time PCR, RNA-Seq library 
+preparation).
+*Terms of employment*
+/Host lab:/The postdoc will be based in the Marine Phototrophic 
+Prokaryote (MaPP) team at the Station Biologique de Roscoff 
+(http://www.sb-roscoff.fr/en-ppm.html)
+/Beginning of the post doc/: sept 2014; 24 months
+/Salary : /about 1900-2000 euros/months
+*The application should be written in French or English and include a 
+letter explaining the competences and scientific motivation, a CV, a 
+publication list as well as recommendation letters from previous 
+supervisors. All documents should be sent by email to Laurence 
+Garczarek: laurence.garczarek@sb-roscoff.fr. *
+-- 
+___________________________________________________________________
+Laurence Garczarek
+Resp. équipe MaPP
+Chargé de Recherche CNRS
+Station Biologique / CNRS-UPMC,
+UMR 7144, Adaptation et Diversité en Milieu Marin
+Place G. Tessier
+CS 90074
+29688 Roscoff Cedex FRANCE
+E-mail: laurence.garczarek@sb-roscoff.fr
+Phone: +33 2 98 29 25 38   Fax: +33 2 98 29 23 24
+MaPP team: http://www.sb-roscoff.fr/en-ppm.html
+Phytoplankton group: http://www.sb-roscoff.fr/Phyto/
+___________________________________________________________________

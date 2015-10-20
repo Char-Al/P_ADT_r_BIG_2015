@@ -1,0 +1,47 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Marie-France.Sagot@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 4402626801D
+	for <bioinfo@sfbi.fr>; Mon, 28 Jul 2014 12:11:26 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmoCAJUg1lPAhqRTfmdsb2JhbABZg2BXy2MGiF4WEAEBCwkMCBQpjxYNlnumGReMHYNMgiIPRCSBGwWbTIFSihiMLWo
+X-IronPort-AV: E=Sophos;i="5.01,748,1400018400"; 
+   d="scan'208";a="70748113"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by a-mx1.relay.syrhano.net with ESMTP; 28 Jul 2014 12:11:25 +0200
+X-IronPort-AV: E=Sophos;i="5.01,748,1400018400"; 
+   d="scan'208";a="87259994"
+Received: from umr5558-borealis-port.univ-lyon1.fr ([134.214.32.122])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/AES128-SHA; 28 Jul 2014 12:11:09 +0200
+From: Marie-France Sagot <Marie-France.Sagot@inria.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <E96EA09F-EFA4-4B31-A90A-229BFB191C23@inria.fr>
+Date: Mon, 28 Jul 2014 12:11:09 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Colloquium EMOTIONS 2014
+EMOTIONS 2014, premier colloque international sur la modélisation des mal
+adies infectieuses : 10 et 11 décembre 2014 à Lyon
+Explorer les dimensions épidémiologique, écologique, moléculaire et
+ évolutive des infections (humaines et animales), tel est l'objectif d
+'EMOTIONS 2014 - "Ecological and Molecular mOdeling of infecTIONS"
+Ce premier colloque international organisé par le Labex ECOFECT - dynamiq
+ues éco-évolutives des maladies infectieuses (http://ecofect.universite
+-lyon.fr) - s'adresse à une large communauté nationale et internation
+ale de chercheurs et étudiants en biologie, bio-informatique et modélis
+ation mathématique.
+Au programme :
+- Minus van Baalen (Université Pierre et Marie Curie, France)
+- Elhanan Borenstein (University of Washington, USA)
+- Sam Brown (University of Edinburgh, UK)
+- Thomas House (University of Warwick, UK)
+- Jeroen Raes (Vlaams Instituut voor Biotechnologie, Belgium)
+- Jonathan Read (University of Liverpool, UK)
+- Vanessa Sperandio (University of Texas, USA)
+Les inscriptions (gratuites mais obligatoires) sont ouvertes !
+Pour en savoir plus, rdv sur : http://emotions2014.sciencesconf.org/

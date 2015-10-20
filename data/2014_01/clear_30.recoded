@@ -1,0 +1,82 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Francois.Fages@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 82D5D26801D
+	for <bioinfo@sfbi.fr>; Thu,  9 Jan 2014 17:59:42 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ag8EACfVzlLAhqRTf2dsb2JhbABZg0ODCkq3VRYOAQELCwoIFCiCOBEGDwEFGxUQGhwCBRYLAgsDAgECAUsBDAgCiAANjhibcZpYF4EpjQSDToFIBJgXgTCUE4Fn
+X-IronPort-AV: E=Sophos;i="4.95,632,1384297200"; 
+   d="scan'208";a="59980846"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by a-mx1.relay.syrhano.net with ESMTP; 09 Jan 2014 17:59:37 +0100
+X-IronPort-AV: E=Sophos;i="4.95,632,1384297200"; 
+   d="scan'208";a="52532556"
+Received: from po-51076.rocq.inria.fr (HELO [128.93.51.76]) ([128.93.51.76])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-CAMELLIA256-SHA; 09 Jan 2014 17:59:37 +0100
+Message-ID: <52CED58A.1050806@inria.fr>
+Date: Thu, 09 Jan 2014 17:59:54 +0100
+From: Francois Fages <Francois.Fages@inria.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0 SeaMonkey/2.21
+MIME-Version: 1.0
+To: Carla Piazza <carla.piazza@uniud.it>,
+	Teodor Knapik <teodor.knapik@univ-nc.nc>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Announcement: FMMB 2014
+FMMB 2014 - 1st INTL. CONFERENCE ON FORMAL METHODS IN MACRO-BIOLOGY
+   Call for Papers
+   September 22-24, 2014
+   Noumea, New Caledonia
+   http://fmmb2014.sciencesconf.org/
+* AIMS AND SCOPE
+   The purpose of FMMB is to bring together researchers, developers,
+   and students in theoretical computer science, applied mathematics,
+   mathematical and computational biology, interested in studying the
+   application of formal methods to the construction and analysis of
+   models describing biological processes at both micro and macro levels.
+   The topics of interest include (but are not limited to):
+   - representation and analysis of biological systems in formal systems
+     such as:
+       o ordinary and partial differential equation systems,
+       o discrete event systems, infinite state systems,
+       o hybrid discrete-continuous systems, hybrid automata,
+       o cellular automata, multi-agent systems,
+       o stochastic processes, stochastic games,
+       o statistical physics models,
+       o process algebras, process calculi,
+       o rewriting systems, graph grammars,
+   - coupling models and data, inference of models from data,
+   - computability and complexity issues,
+   - modelling and analysis tools, case studies.
+   Application areas particularly solicited include:
+   - environmental biology, ecology, marine science,
+   - agriculture and forestry,
+   - developmental biology, population biology,
+   - epidemiology, medicine,
+   - systems biology, synthetic biology.
+* KEYNOTE SPEAKERS
+   Pieter Collins,  Maastricht University, Netherlands,
+   Saso Dzeroski,   Jozef Stefan Institute, Slovenia,
+   Radu Grosu,      Vienna Technical University, Austria,
+   Steffen Klamt,   Max Planck Institute Magdeburg, Germany,
+   Pietro Lio',     Cambridge University, UK,
+   Hélène Morlon,   Ecole Polytechnique and CNRS, France.
+* PC CO-CHAIRS
+   François Fages,  Inria Paris-Rocquencourt, France,
+   Carla Piazza,    University of Udine, Italy.
+* LOCAL CHAIR
+   Teodor Knapik,   University of New Caledonia.
+* IMPORTANT DATES
+   Submission deadline:    April 25
+   Author notification:    June 4
+   Camera-ready copy due:  June 25
+* SUBMISSION AND PUBLICATION
+   Regular submissions of 12-20 pages or short submissions of 2 pages
+   in LNCS style should be submitted as PDF files via EasyChair
+   https://www.easychair.org/conferences/?conf=fmmb2014 .
+   All accepted papers will be published in a book in the LNBI series of
+   Springer-Verlag. Authors of the most significant contributions will
+   be invited to submit extended versions for a journal special issue.

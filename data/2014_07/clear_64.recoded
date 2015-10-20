@@ -1,0 +1,46 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 3027E26801D
+	for <bioinfo@sfbi.fr>; Mon, 21 Jul 2014 17:13:55 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtsBAI0tzVOKZqI0nGdsb2JhbABZg2BYgi5JwlOHSgGBLg8BAQEBAQgLCQkUKYQEAQUMFw8BBREvEQkcAgUWBAcCAgkDAgECAToLEwYCAQGIPg2LIZwplwwXgSyNPREBVxaCYoFOAQSbJYcVjxyBRGqBDA
+X-IronPort-AV: E=Sophos;i="5.01,701,1400018400"; 
+   d="scan'208";a="70472261"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Jul 2014 17:13:54 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s6LFDrKj022420
+	for <bioinfo@sfbi.fr>; Mon, 21 Jul 2014 17:13:53 +0200 (CEST)
+Message-ID: <53CD2E31.9090807@jouy.inra.fr>
+Date: Mon, 21 Jul 2014 17:13:53 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1X9FIu-0000Zl-Hr@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1X9FIu-0000Zl-Hr@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1X9FIu-0000Zl-Hr@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53CD2E31.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53CD2E31.001/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53CD2E31.001 on alpha.jouy.inra.fr : j-chkmail score : X : R=. U=. O=# B=0.122 -> S=0.176
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][=?UTF-8?Q?Th=C3=A8se?=] =?UTF-8?Q?=C3=89tude?= de l'origine =?UTF-8?Q?g=C3=A9n=C3=A9tique?= et contraintes =?UTF-8?Q?=C3=A9volutives?= des nouveaux =?UTF-8?Q?g=C3=A8nes?= codant dans des populations
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Étude de l'origine génétique et contraintes
+évolutives des nouveaux gènes codant dans des populations
+Type de poste : Thèse
+Durée du poste : 36 mois
+Ville : Münster, Allemagne
+Nom du contact : Dr. Rebecca Schreiber
+Email du contact : rebeccaschreiber@uni-muenster.de
+Laboratoire : Evolutionary Bioinformatics
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/%C3%A9tude-de-lorigine-g%C3%A9n%C3%A9tique-et-contraintes-%C3%A9volutives-des-nouveaux-g%C3%A8nes-codant-dans-des-pop

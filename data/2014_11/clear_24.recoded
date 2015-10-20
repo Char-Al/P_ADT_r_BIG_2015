@@ -1,0 +1,35 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id DD5BF26801D; Tue, 11 Nov 2014 13:42:57 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: Sophie BLEIN <sophie.blein@gmail.com>
+Message-ID: <sympa.1415709729.1229.669@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue, 11 Nov 2014 13:42:57 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Soutenance de =?ISO-8859-1?Q?Th=E8se?= de Sophie Blein - 14 Novembre 2014, 14h30 - Centre =?ISO-8859-1?Q?L=E9on?= =?ISO-8859-1?Q?B=E9rard?=, Lyon
+Bonjour,
+J'ai le plaisir de vous inviter à ma soutenance de Thèse de doctorat intitulée :
+"Étude de la variabilité du génome mitochondrial comme facteur de prédisposition au cancer du sein".
+La soutenance aura lieu le vendredi 14 Novembre 2014, à 14h30, au Centre Léon Bérard à Lyon, en salle ONCORA, et sera suivie d'un traditionnel pot de thèse.
+Le jury est composé des membres suivants :
+- Mme. Françoise CLAVEL, CESP, Inserm U1018, Université Paris-Sud (Rapporteur)
+- M. David COX, CRCL, Inserm U1052, Université Claude Bernard Lyon 1 (Directeur de thèse)
+- Mme. Emmanuelle GENIN, Inserm U1018, Université de Bretagne Occidentale (Rapporteur)
+- Mme Christine LASSET, MCU-PH, Université Claude Bernard Lyon 1 (Examinateur)
+- M. Pascal REYNIER, PU-PH, BNMI, Inserm U1083, Université d'Angers (Examinateur)
+Résumé :
+Au cours de sa vie, une femme sur 9 sera confrontée personnellement à un cancer du sein. Que ce soit pour le cancer du sein sporadique (le plus fréquent) ou pour le cancer du sein familial, il est aujourd'hui indéniable que la génétique influence le risque de développer cette maladie. Bien que de nombreuses mutations causales et polymorphismes de susceptibilité aient déjà été identifiés, une large part de la composante génétique du cancer du sein reste encore à expliquer.
+Dans ce contexte, j'ai entrepris d'étudier la variabilité du génome mitochondrial, en essayant de déterminer dans quelle mesure une partie de l'héritabilité manquante du cancer du sein peut être liée à des variants localisés sur le génome mitochondrial. En effet, le génome mitochondrial, présent en plusieurs dizaines voire centaines de copies dans la plupart de nos cellules, est souvent mis de côté lors de l'analyse du génome nucléaire. Ses spécificités, telles que son haploïdie, ont pour conséquence que les études de liaison génétique ne sont pas adaptées à son analyse. De même, jusqu'à très récemment, les puces commerciales disponibles afin de réaliser des études pangénomiques, ou GWAS, couvraient de manière très partielle la variabilité de ce génome. Certains variants de susceptibilité pourraient donc se situer sur le génome mitochondrial sans pour autant avoir été détectés jusqu'ici. De plus, le génome mitochondrial encode pour des gènes majoritairement impliqués dans la production d'ATP de la cellule. Cette production d'ATP génère des composés mutagéniques appelés espèces oxygénées réactives, pouvant contribuer à l'instabilité génomique et à terme à la carcinogénèse. Cette synthèse énergétique est d'autre part dérégulée dans de nombreux cancers.
+Un premier axe de recherche m'a conduit à m'intéresser à une interaction potentielle entre certains variants du génome mitochondrial et du génome nucléaire, en conjonction avec l'ex- position à un facteur environnemental lié au style de vie qu'est la consommation d'alcool, et ce dans la population générale. L'absence d'interaction observée dans notre jeu de données, dont la taille est pourtant largement suffisante pour nous conférer la puissance nécessaire, laisse à penser que les résultats antérieurs mettant en évidence de telles interactions ne sont pas robustes.
+Je me suis par la suite plus spécifiquement attachée à l'étude de la prédisposition au cancer du sein familial. J'ai tout d'abord étudié dans quelle mesure les variations du génome mitochondrial, et plus spécifiquement les haplogroupes mitochondriaux, peuvent être considérés comme des modificateurs de l'association entre le risque de cancer du sein et certaines mutations causales connues, notamment celles situées sur les gènes BRCA1 et BRCA2. L'haplogroupe T1a1 a été identifié comme modificateur du risque initialement conféré par les mutations pathogènes localisées sur le gène BRCA2. Ces résultats sont cohérents avec certaines hypothèses fonctionnelles basées sur la dérégulation des systèmes de correction des dommages de l'ADN.
+Enfin, toujours dans l'objectif de localiser des candidats potentiels permettant d'identifier une partie des variants associés à la proportion non-expliquée de l'héritabilité du cancer du sein, j'ai caractérisé par séquençage à haut débit le génome mitochondrial de plusieurs centaines de femmes diagnostiquées pour un cancer du sein et présentant de forts antécédents familiaux pour cette pathologie, mais n'étant porteuses d'aucune des mutations causales connues à ce jour sur BRCA1 et BRCA2. Plusieurs variants, dont certains non-référencés dans la littérature ni dans les bases de données spécialisées sur la mitochondrie, sont de plus prédits comme dommageables pour le fonctionnement des protéines dont ils affectent la séquence codante. Deux gènes en particulier MT-ATP6 et MT-CYB, sont spécifiquement enrichis à la fois en nombre de variants portés, et de par le nombre d'individus porteurs de ces variants dans notre étude. D'autre part, ces deux gènes codent pour des composants structuraux essentiels de la chaîne respiratoire mitochondriale, la première source de production d'espèces oxygénées réactives de la cellule. L'ensemble des éléments présentés ne constitue pas de preuves formelles de l'implication de ces candidats potentiels dans la susceptibilité du cancer du sein, et des études fonctionnelles sont requises afin de clarifier leur rôle. Il apparaît cependant peu probable qu'une large part de l'héritabilité manquante du cancer du sein puisse être expliquée par l'existence de variants portés par le génome mitochondrial.
+L'ensemble du travail réalisé a ainsi contribué à enrichir les connaissances sur les potentielles associations entre les variations du génome mitochondrial et le risque de cancer du sein, en intégrant à la fois des aspects liés aux interactions entre variants génomiques, en tenant compte de certaines expositions environnementales, et en analysant de possibles modifications d'effets liés aux haplogroupes mitochondriaux.
+Cordialement,
+Sophie BLEIN

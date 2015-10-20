@@ -1,0 +1,124 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <loic.pauleve@lri.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id E738126801D
+	for <bioinfo@sfbi.fr>; Mon,  3 Feb 2014 23:26:01 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhoFAIQW8FJYv7q+/2dsb2JhbABZgww4g1i8HxZ0gkkGRUYCBRMOAhEBLQoyiAAJnSSPEaFOgSmNCIMODzGBSQSlC4VAgy6BZw
+X-IronPort-AV: E=Sophos;i="4.95,775,1384297200"; 
+   d="scan'208";a="53393573"
+Received: from elrond.backzone.net ([88.191.186.190])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Feb 2014 23:26:01 +0100
+Received: from backzone.net (unknown [78.250.100.50])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by elrond.backzone.net (Postfix) with ESMTPSA id 080AB2AE0D50
+	for <bioinfo@sfbi.fr>; Mon,  3 Feb 2014 23:25:58 +0100 (CET)
+From: Loïc_Paulevé <loic.pauleve@lri.fr>
+To: bioinfo@sfbi.fr
+Date: Mon, 03 Feb 2014 23:26 +0100
+Message-ID: <2988440.4u9IfxRSRQ@dupont>
+Organization: CNRS/LRI
+User-Agent: KMail/4.12.1 (Linux/3.12.8-gentoo; KDE/4.12.1; x86_64; ; )
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] SASB 2014 First Call for Papers
+                       Call for Papers
+------------------------------------------------------------------
+                         SASB 2014
+5th International Workshop on Static Analysis and Systems Biology
+------------------------------------------------------------------
+10th September, 2014,
+Munich, Germany
+Satellite Workshop of SAS 2014
+http://www.lri.fr/sasb2014/
+IMPORTANT DATES
+---------------
+Submission Deadline (abstract) 25th May,       2014
+Submission Deadline (paper)     1st June,      2014
+Notification                   10th July,      2014
+Final version                  15th August,    2014
+Workshop Date                  10th September, 2014
+OBJECTIVES
+----------
+SASB aims at promoting discussions and collaborations between biologists
+(modelers), computer scientists and applied-mathematicians interested in
+designing or using methods to reduce the complexity of modeling, simulating
+ or
+analyzing biological systems.
+Static analysis refers to a wide range of techniques for characterizing and
+identifying important features from a model without its exhaustive executio
+n.
+Static analysis is used for helping the design of models, the test of models
+against experimental data, and the prediction of behaviors.
+Static analyzes can involve, for instance, modeling paradigms, such as
+rule-based modeling, that ease the characterization of the behaviors of a
+model; abstractions that prevent a full exploration of the potential concre
+te
+behaviors; algebraic representations and transformations that ease the
+computation of various properties; model reductions, that decrease the
+dimension of a model while preserving important behaviors; characterization
+ of
+dynamical properties with respect to the topology of the model; etc.
+SCOPE
+-----
+The program of SASB 2014 will consist mainly of presentations of refereed
+papers and invited talks. Contributions are welcomed on all aspects about t
+he
+use of static analysis methods in Systems Biology, including, but not limit
+ed
+to:
+  * static analysis frameworks,
+  * model reduction,
+  * model decomposition,
+  * algebraic representations,
+  * state space compaction,
+  * abstractions of dynamics,
+  * link between topology and dynamics,
+  * languages for compact description of biological models,
+  * modeling or data integration experiences using static analysis,
+  * informal methods (that could be candidate to formalization),
+  * challenges for tackling complexity of biological models.
+SUBMISSION
+----------
+Please visit the submission website:
+https://www.easychair.org/conferences/?conf=3Dsasb2014
+All submitted papers will be peer-reviewed by the program committee.
+Submitted papers should not exceed 12 pages including bibliography,
+and follow the ENTCS guidelines (http://www.entcs.org/prelim.html).
+Submitted papers may include, in addition, an appendix containing
+technical details, which reviewers may read or not, at their
+discretion.
+Papers must be written and presented in English, and describe original
+work that does not substantially overlap with papers that have been
+published or that are simultaneously submitted to a journal,
+conference, or workshop with refereed proceedings.
+PUBLICATION
+-----------
+The proceedings of the workshop will be published electronically via
+ENTCS.
+ORGANIZERS
+----------
+* Program Co-Chairs:
+  Heinz Koeppl              Technische Universit=C3=A4t Darmstadt, Germany
+  Loic Paulevé              CNRS/LRI, Université Paris-Sud, France
+* Program Committee:
+  Claudine Chaouyia         IGC, Portugal
+  Gheorghe Craciun          University of Wisconsin-Madison, USA
+  Damien Eveillard          Université de Nantes, France
+  Jérome Feret              Ecole Normale Superieure & Inria, France
+  Johnatan Hayman           University of Cambridge, UK
+  Ina Koch                  Goethe University, Germany
+  Reinhard Laubenbacher     University of Connecticut Health Center, USA
+  Wolfgang Marwan           Otto-von-Guericke Universit=C3=A4t Magdeburg, G
+ermany
+  Andrew Phillips           Microsoft Research Cambridge, UK
+  Adrien Richard            CNRS/I3S, France
+  Julio Saez-Rodriguez      EMBL-EBI, UK
+  David Safranek            Masaryk University, Czech Republic
+  Thomas Sauter             University of Luxembourg
+  Andrei Zinovyev           Institut Curie, France

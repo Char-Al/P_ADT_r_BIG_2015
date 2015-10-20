@@ -1,0 +1,48 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 69AD026801D; Mon, 23 Jun 2014 10:07:44 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: david.tregouet@upmc.fr
+Message-ID: <sympa.1403508054.24206.553@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Mon, 23 Jun 2014 10:07:44 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Recrutement d'un =?ISO-8859-1?Q?ing=E9nieur?= en analyse de =?ISO-8859-1?Q?donn=E9es?= =?ISO-8859-1?Q?g=E9n=E9tiques?=
+ENVIRONNEMENT ET CONTEXTE
+INSERM UMR_S 11666 - Génomique et Physiopathologie des Maladies 
+Cardiovasculaires (Trégouët David-Alexandre).
+Paris, France.
+CDD de 12 mois. 
+Poste ouvert dès Septembre 2014.
+Envoyer CV à david.tregouet@upmc.fr
+OBJECTIFS & MISSIONS 
+Dans le cadre d'un projet international sur la génétique de la néphropathie diabétique, la personne recrutée (ingénieur de recherche ou niveau équivalent) aura en charge de toute l'analyse statistique et bioinformatique de données génétiques obtenues à partir de puces à ADN ("GWAS" et "exome-chip") sur une cohorte de patients français. Elle participera également à la méta-analyse de l'ensemble des données issues des différents partenaires du consortium. 
+Plus précisément, elle devra:
+ - Assurer la constitution, l'organisation, la gestion de la base de données épidémiologiques et génétiques de la cohorte française.
+ - Conduire l'analyse statistique des données génétiques à partir de programmes implémentés sous R et en utilisant des programmes spécifiques comme Plink, MachQTL
+ - Interpréter les résultats de ces analyses.
+ - Rédiger les parties "méthodes" et "résultats" des analyses statistiques effectuées pour la préparation d'articles (en anglais).
+COMPETENCES
+Connaissances :
+ - statistique génomique (étude d'association, déséquilibre de liaison, imputation, haplotypes), 
+ - biostatistique (principaux tests statistiques),
+ -  maîtrise des bases de données publiques en génomique (eg 1000G, HapMap, Ensembl, NCBI, BioMart, Decode)
+ - maîtrise de la programmation sous R ainsi que la programmation "shell" sous LINUX/UNIX
+ - Bon niveau d'anglais, écrit & oral,
+ - Outils de bureautique
+Savoir-faire
+ -  Comprendre et analyser le problème scientifique posé.
+ -  Maitriser et identifier les bons outils statistiques appropriés aux problèmes posés.
+ -  Mettre en oeuvre les programmes informatiques nécessaires.
+ -  Gérer, organiser et manipuler des données de grandes dimensions.
+ -  Savoir gérer la priorité des tâches demandées
+Savoir-être
+ -  Rigueur, autonomie et capacité à travailler en interaction avec d'autres ingénieurs/chercheurs. 
+ -  Capacité d'adaptation à apprendre de nouveaux outils en statistique génomique.
+ -  Intérêts pour la biologie et la génétique.

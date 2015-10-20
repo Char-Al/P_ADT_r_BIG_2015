@@ -1,0 +1,120 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=128518984=pvourch@univ-tours.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 9FBCD26801D
+	for <bioinfo@sfbi.fr>; Thu, 27 Feb 2014 18:29:31 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aq8DAAB1D1PBNNEUf2dsb2JhbABahBiCOUq/IxYOAQELCwoIFCiCLAwXHQEBAQE1AQEQAQYcAg0ZAlkCF4d9jXybEXaDXwEFAp0QEAEGgSmMShEBbYJYgUmVQolsjmY7gTU5
+X-IronPort-AV: E=Sophos;i="4.97,556,1389740400"; 
+   d="scan'208";a="62677552"
+Received: from angelia.univ-tours.fr ([193.52.209.20])
+  by a-mx1.relay.syrhano.net with ESMTP; 27 Feb 2014 18:29:30 +0100
+DomainKey-Signature: s=main; d=univ-tours.fr; c=nofws; q=dns;
+  h=X-IronPort-Anti-Spam-Filtered:
+   X-IronPort-Anti-Spam-Result:X-IPAS-Result:Received:
+   Received:X-Virus-Scanned:Received:Received:
+   X-Virus-Scanned:Received:Received:Date:From:To:Cc:
+   Message-ID:In-Reply-To:Subject:MIME-Version:Content-Type:
+   Content-Transfer-Encoding:X-Originating-IP:X-Mailer:
+   Thread-Topic:Thread-Index;
+  b=RY8prEHrQofKRY7ZdjjTkKC/Hpo1GE/a/vUgY8kgwtr0WoBsbQE/YGi5
+   3XRDVmTmzTICx86L57Mf4dUE5SnyxO1maC8Z0kHZeCxh3wnONut/gAFHt
+   kXp3llnZ8qjD0uyKKbyQv5SCBfmartODeKPOln2+bSWzIabovfQTv0rbb
+   U=;
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=univ-tours.fr; i=@univ-tours.fr; q=dns/txt; s=main;
+  t=1393522169; x=1425058169;
+  h=date:from:to:cc:message-id:in-reply-to:subject:
+   mime-version:content-transfer-encoding;
+  bh=wNu5x6BBL6uZAexPSI8cHgiGxxiY2PxF5UhkpOXoYCk=;
+  b=pkrZyfl855EBE8fZxyTtQf3fRaPLyoW0X/gcuCNF0bgbrTByOwCNYLRO
+   oLmNzeJPJY3EM/IDvNQbCpn40c9qSmztKdKdpWNieaY3LMs1s1G/wJZjP
+   5zbttlIlMUTAp28fYKtLKquG2lgg7JzZBYBLrhdvCe4r9hegqmMusfmbr
+   M=;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjQHAOJ0D1MKwQUB/2dsb2JhbABahBiCOUq/OXSCLAwXVhIBBg8NAg0ZAlkCF5V5nAegdxeBKYxKEQFtgliBSQSVPolsjmaBcDk
+X-IPAS-Result: AjQHAOJ0D1MKwQUB/2dsb2JhbABahBiCOUq/OXSCLAwXVhIBBg8NAg0ZAlkCF5V5nAegdxeBKYxKEQFtgliBSQSVPolsjmaBcDk
+Received: from unknown (HELO proxy10.zimbra.univ-tours.local) ([10.193.5.1])
+  by angelia2.univ-tours.fr with ESMTP; 27 Feb 2014 18:29:28 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by proxy10.zimbra.univ-tours.local (Postfix) with ESMTP id 552F5817EC;
+	Thu, 27 Feb 2014 18:29:29 +0100 (CET)
+X-Virus-Scanned: amavisd-new at proxy10.zimbra.univ-tours.local
+Received: from proxy10.zimbra.univ-tours.local ([127.0.0.1])
+	by localhost (proxy10.zimbra.univ-tours.local [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id c4Q5gBT3fgOL; Thu, 27 Feb 2014 18:29:29 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by proxy10.zimbra.univ-tours.local (Postfix) with ESMTP id 3ABC5817ED;
+	Thu, 27 Feb 2014 18:29:29 +0100 (CET)
+X-Virus-Scanned: amavisd-new at proxy10.zimbra.univ-tours.local
+Received: from proxy10.zimbra.univ-tours.local ([127.0.0.1])
+	by localhost (proxy10.zimbra.univ-tours.local [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id LfY3_If0-0ko; Thu, 27 Feb 2014 18:29:29 +0100 (CET)
+Received: from mail10.zimbra.univ-tours.local (mail10.zimbra.univ-tours.local [10.193.5.35])
+	by proxy10.zimbra.univ-tours.local (Postfix) with ESMTP id 25D12817EC;
+	Thu, 27 Feb 2014 18:29:29 +0100 (CET)
+Date: Thu, 27 Feb 2014 18:29:29 +0100 (CET)
+From: Patrick Vourc'h <patrick.vourch@univ-tours.fr>
+To: bioinfo@sfbi.fr
+Cc: Patrick Vourc'h <vourch@med.univ-tours.fr>
+Message-ID: <487140260.5152433.1393522168998.JavaMail.zimbra@univ-tours.fr>
+In-Reply-To: <1702878819.5151059.1393521814169.JavaMail.zimbra@univ-tours.fr>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.193.5.2]
+X-Mailer: Zimbra 8.0.4_GA_5740 (ZimbraWebClient - IE8 (Win)/8.0.4_GA_5737)
+Thread-Topic: Offre Poste =?utf-8?Q?Ingénieur?= Bioinformatique NGS Tours
+Thread-Index: nQaTjkf38zWKWqICtv2az2u0UD+rJg=
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre Poste Ingénieur Bioinformatique NGS Tours
+Bonjour,
+Pourriez vous diffuser l'annonce d'offre d'emploi ci-dessous sur le ré
+seau de la SFBI. Je vous remercie.
+Cordialement
+Patrick Vourc'h, MCU-PH
+Service de Biochimie et Biologie Moléculaire, UTTIL, CHRU de Tours
+2 Bd Tonnellé, 37032 Tours, tel: 02 34 37 89 10
+UMR INSERM U930, Université Fran=C3=A7ois-Rabelais, Tours
+10 Bd Tonnellé, 37044 Tours
+-----------------------------------------------
+L'Unité 930 de l'INSERM recrute
+un INGENIEUR BIOINFORMATICIEN (NGS) â=80=93 (H/F)
+Lieu: Tours, Site Tonnellé (Faculté de Médecine)
+Début: avril 2014
+Vous travaillerez dans le Département de Génomique (PPF ASB, sit
+é Tonnellé) de l'Université Fran=C3=A7ois Rabelais d
+e Tours qui est une plateforme mutualisant des appareils et des compét
+ences en Génétique, Génomique et Transcriptomique au service
+ des Equipes de l'Université Fran=C3=A7ois Rabelais, des équipes 
+des grands organismes (INSERM, CNRS, INRA, CEA), du CHRU de Tours et du sec
+teur privé.
+Le Département dispose de la technologie de séquen=C3=A7age haut-
+débit NGS Illumina (MiSeq, GAIIx). Vous devrez mettre en =C5=93uvre et
+ développer des approches bioinformatiques pour l'analyse de d
+onnées générées par reséquen=C3=A7age ciblé (
+principalement). Vous participerez aussi à la construction de projets,
+ à la mise en place de pipelines d'analyse et à la veille
+ technologique autour du NGS.
+Le poste est proposé dans le cadre du Projet Européen STRENGTH (J
+PND), =C2" Survival, Trigger and Risk, Epigenetic, eNvironnemental and Ge
+netic Targets for motor neuron Health =C2". Ce poste en CDD de 24 mois re
+nouvelable 12 mois, est à pourvoir dès début avril 2014.
+Le(la) candidat(e), titulaire d'au moins un diplôme d'ing=C3
+=A9nieur, une licence ou un master devra :
+  Ma=C3=AEtriser la gestion et le traitement de données bioinf
+ormatiques (UNIX/Linux)
+  Avoir une expérience dans l'analyse de données NGS (Ill
+umina de préférence)
+  Faire preuve d'autonomie et aimer le travail en équi
+pe.
+Les candidatures (CV détaillé, lettre de motivation) sont à 
+adresser par email à : vourch@med.univ-tours.fr
+Dr P. VOURC'H
+Département de Génomique PPF ASB, Université Fran=C3=A7ois R
+abelais
+INSERM U930, Faculté de Médecine
+10 bd Tonnellé, B=C3=A2timent Vialle (6eme étage)
+37032 TOURS Cedex

@@ -1,0 +1,108 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 606F926801D; Wed, 28 May 2014 06:55:10 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: Jacques van Helden <jacques.van-helden@univ-amu.fr>
+Message-ID: <sympa.1401252273.10871.826@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Wed, 28 May 2014 06:55:10 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ALLBIO training workshop - Analysing thousands of bacterial genomes
+================================================================
+                   ALLBIO training workshop
+          Analysing thousands of bacterial genomes:
+           gene annotation, metabolism, regulation
+================================================================
+ALLBIO training workshop  -  Marseille, June 23-25, 2014
+Practical info
+--------------
+Registration, schedule, details:
+   http://www.allbioinformatics.eu/doku.php?id=public:valid-ulb
+Organizer: Jacques van Helden <Jacques.van-Helden@univ-amu.fr>
+Dates: June 23-25, 2014
+Location: Site de Luminy, 
+    Aix-Marseille Université (AMU), 
+    Marseille, France
+Expected participants: 20
+Cost: 0 euros 
+Registration: before June 11, 2014
+Motivation
+----------
+Sequencing technologies allow microbiologists to sequence, for a
+moderate cost, not only the genome of their favourite species, but a
+few dozens of related species, a collection of strains, and even to
+characterize inter-individual variations. The Ensembl Genomes resource
+contains over 10,000 completely sequenced genomes. The availability of
+such data requires new bioinformatics resources suited for annotating,
+querying and analysing multitudes of sequenced bacterial genomes in
+parallel. 
+This training workshop will show how to combine several specialized
+bioinformatics resources to extract information about bacterial genes
+and their annotations (Ensembl Genomes), metabolism (MICROSCOPE), and
+regulation (RSAT). The course will be oriented towards comparative
+genomics, and give a perspective about advances that can be expected
+from the massive reduction of sequencing costs resulting from Next
+Generation Sequencing.
+The course will mainly be based on user-friendly Web interfaces. It
+will also include a basic introduction about the programmatic access
+to bioinformatics resources, showing by simple and well-documented
+examples how to automatize the collection of data, and extract
+information from multiple data sets.
+Target audience
+---------------
+This course is addressed to microbiologists confronted to the need to
+use bioinformatics resources to analyse multiple genomes.
+Prerequisites
+-------------
+The course does not require any computing skills. A basic knowledge of
+the Linux environment is welcome, but not required.
+Computer environment
+--------------------
+The training room is equipped with Linux computers, but participants
+are welcome to bring their own laptop if they wish to work in their
+familiar environment.
+Contents
+--------
+This training course will include
+- Short talks illustrating the functionalities offered by bioinformatics resources suited for the analysis of multiple bacterial genomes. 
+- Practicals based on concrete study cases;
+    * collecting multiple genomes from bacteria;
+    * comparing annotations between different species;
+    * extracting metabolic information for selected genomes;
+    * metabolic projection: coverage of reference pathways by enzymes
+      found in a genome;
+    * phylogenetic profiling: detecting genes co-occurrences across
+      genomes;
+    * phylogenetic footprints: detection of conserved cis-regulatory
+      elements.
+- Practicals on programmatic use of the tools:
+    * extracting data for multiple genomes;
+    * combining data from diverse sources.
+Teachers
+--------
+Dan Staines
+    European Bioinformatics Institute (EBI), UK
+    Ensembl Genomes
+    http://ensemblgenomes.org/
+François LeFevre, Eugeni Belda, Claudine Médigue
+    Genoscope (CEA), France
+    MICROSCOPE
+    http://www.genoscope.cns.fr/agc/microscope/
+Jacques van Helden, Denis Puthier
+    Aix-Marseille Université (AMU), France
+    Regulatory Sequence Analysis Tools (RSAT)
+    http://www.rsat.eu/
+Funding
+-------
+This training workshop is funded by the ALLBIO project
+(http://www.allbioinformatics.eu/), whose goal is to establish the
+link between bioinformatics and biologist communities who express
+uncovered needs for other fields than human genomics (microbial,
+plant, livestock). 
+=================================================================

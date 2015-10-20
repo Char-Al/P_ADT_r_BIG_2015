@@ -1,0 +1,135 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <l.mavridis@qmul.ac.uk>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C1CA126801D
+	for <bioinfo@sfbi.fr>; Fri,  4 Jul 2014 14:38:56 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjABAHyftlOKJQYGnGdsb2JhbABag2BaxzcWDwEBAQEBBg0JCRQohBwmOgY9FhgDAgECAQ88DQYCAQEeiAwDEQQJn2WCRwGBGgKKRwEBlT0NV4YSjHqBRgoEAwGFGgWKF4Jhi36CAIFIii+CAYgVgUNrgQICBxcGHA
+X-IronPort-AV: E=Sophos;i="5.01,601,1400018400"; 
+   d="scan'208";a="61292238"
+Received: from mail2.qmul.ac.uk ([138.37.6.6])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Jul 2014 14:38:56 +0200
+Received: from mail-am1lp0011.outbound.protection.outlook.com ([213.199.154.11] helo=emea01-am1-obe.outbound.protection.outlook.com)
+	by mail2.qmul.ac.uk with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.71)
+	(envelope-from <l.mavridis@qmul.ac.uk>)
+	id 1X32l4-0005zG-DE
+	for bioinfo@sfbi.fr; Fri, 04 Jul 2014 13:38:55 +0100
+Received: from n54-226.sbcs.qmul.ac.uk (138.37.54.226) by
+ DB3PR07MB0697.eurprd07.prod.outlook.com (25.160.51.156) with Microsoft SMTP
+ Server (TLS) id 15.0.980.8; Fri, 4 Jul 2014 12:38:29 +0000
+Message-ID: <53B6A044.9020305@qmul.ac.uk>
+Date: Fri, 4 Jul 2014 13:38:28 +0100
+From: Lazaros Mavridis <l.mavridis@qmul.ac.uk>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="ISO-8859-1"; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [138.37.54.226]
+X-ClientProxiedBy: DB4PR05CA0040.eurprd05.prod.outlook.com (25.160.40.50) To
+ DB3PR07MB0697.eurprd07.prod.outlook.com (25.160.51.156)
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-Forefront-PRVS: 02622CEF0A
+X-Forefront-Antispam-Report:
+	SFV:NSPM;SFS:(6009001)(189002)(199002)(99396002)(42186005)(105586002)(81542001)(4396001)(59896001)(76482001)(86362001)(83506001)(15975445006)(23756003)(50466002)(79102001)(325944007)(47776003)(20776003)(65956001)(66066001)(80022001)(65806001)(46102001)(110136001)(101416001)(81342001)(64706001)(15202345003)(74482001)(74502001)(74662001)(31966008)(19273905006)(95666004)(33656002)(106356001)(36756003)(19580405001)(83322001)(19580395003)(2351001)(54356999)(87976001)(92566001)(87266999)(77096002)(92726001)(50986999)(83072002)(85306003)(107886001)(85852003)(19300405004)(65816999)(229853001)(21056001)(562404015)(563064011);DIR:OUT;SFP:;SCL:1;SRVR:DB3PR07MB0697;H:n54-226.sbcs.qmul.ac.uk;FPR:;MLV:sfv;PTR:InfoNoRecords;MX:1;LANG:en;
+X-OriginatorOrg: qmul.ac.uk
+X-QM-Office365: True
+X-QM-Body-MD5: ffe159a23328c7eb9aaa1df45d5c4f96 (of first 20000 bytes)
+X-Sender-Host-Address: 213.199.154.11
+X-SpamAssassin-Score: -0.0
+X-SpamAssassin-SpamBar: /
+X-SpamAssassin-Report: The QM spam filters have analysed this message to determine if it is
+ spam. We require at least 5.0 points to mark a message as spam.
+ This message scored -0.0 points.
+ Summary of the scoring: 
+ * -0.0 AWL AWL: From: address is in the auto white-list
+X-QM-Scan-Virus: ClamAV says the message is clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECCB'14 - Workshop W06 "Informatics Based Approaches for Circular
+ Dichroism Data"
+============================================
+                                           ECCB 2014
+            Informatics Based Approaches for Circular Dichroism Data
+============================================
+6th September, 2014,
+Strasbourg, France
+Satellite Workshop of ECCB 201
+http://webspace.qmul.ac.uk/rwjanes/workshop.htm
+IMPORTANT DATES
+---------------
+Submission Deadline  31th July
+Notification                15th August
+Workshop Date            6th September
+Scope of the Workshop
+-------------------
+Circular Dichroism (CD) is a very important technique used in structural 
+biology for determining
+protein secondary structure, observing conformational changes brought 
+about by protein:protein
+or protein:ligand interactions, and for monitoring protein folding. It 
+is regularly employed and
+widely used for characterization in both academia and industry. With the 
+advent of the enhanced
+technique of Synchrotron Radiation Circular Dichroism (SRCD) this has 
+extended the wavelength
+range and therefore the amount of data able to be collected with a 
+concomitant increase in the
+available information content. It has been realized that there is more 
+than just the secondary structure
+content of a protein that can be derived from CD, and particularly SRCD, 
+data. This spectroscopic
+technique is now ripe for informatics based approaches to enrich the 
+amount of protein structural
+information that can be derived from such spectra as the entire 
+structure makes pivotal contributions
+to the spectra produced. This workshop is designed to introduce and 
+invite the computational biology
+world to exploit this area of science thereby enhancing the technique as 
+a result through an increase
+in information available through the provision of new and novel analysis 
+methods.
+The program of the workshop will consist mainly from invited speakers as 
+well
+as some spaces for selected submissions. Contributions are welcomed on 
+all aspects about
+bioinformatics and statistical analyses of Circular Dichroism data, 
+including, but not limited to:
+Molecular Basis of Protein CD Signals
+Spectra Analysis
+Spectra Validation
+Spectra Classification
+Data Resources and Access
+Challenges in Bioniformatics of CD Data
+Submitting Abstracts
+------------------
+The workshop will have a poster session held over lunch and one of these 
+may be chosen
+for an oral presentation at the end of the meeting.  Please Note: There 
+will be a POSTER PRIZE.
+To submit a poster to the meeting we ask that you supply the following 
+information
+(preferably either as a word document file or pdf):
+Title (No more than 100 characters)
+Authors (Underline the Presenting Author)
+Contact Details (Of the Presenting Author)
+Abstract (No more than 200 words)
+Poster Details
+The dimensions of the poster boards are:
+Width:  94 cm Height:  2.00 m
+Poster Abstracts can be sent as attachments to the email address: 
+w06pcddb@gmail.com
+The CIDASE Challenge
+-------------------
+At this workshop we will be announcing the establishment of a new 
+assessment competition
+specifically aimed towards the relationship between Circular Dichroism 
+Spectra and Information
+Content.  More details of the competition (which will run for a year) 
+will be given in the workshop.
+Organizers
+----------
+R.W. Janes - Queen Mary University London
+L. Mavridis - Queen Mary University London

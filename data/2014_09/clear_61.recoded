@@ -1,0 +1,90 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Maxime.Folschette@irccyn.ec-nantes.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 88FEF26801D
+	for <bioinfo@sfbi.fr>; Fri, 19 Sep 2014 17:46:54 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnwBAIxPHFSCQkAWl2dsb2JhbABghzjPRhYBEQEBAQEBCBYHPoQtDwEFGx8GGhwCBRYLAgsDAgECAToeCAEBiDqQVI0RjzaWRoEsjnKCYoFTBYY0ll+HTJFjgzQBAQE
+X-IPAS-Result: AnwBAIxPHFSCQkAWl2dsb2JhbABghzjPRhYBEQEBAQEBCBYHPoQtDwEFGx8GGhwCBRYLAgsDAgECAToeCAEBiDqQVI0RjzaWRoEsjnKCYoFTBYY0ll+HTJFjgzQBAQE
+X-IronPort-AV: E=Sophos;i="5.04,555,1406584800"; 
+   d="scan'208";a="73204285"
+Received: from m-smtp.irccyn.ec-nantes.fr ([130.66.64.22])
+  by a-mx1.relay.syrhano.net with ESMTP; 19 Sep 2014 17:46:53 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by m-smtp.irccyn.ec-nantes.fr (Postfix) with ESMTP id E22F76018
+	for <bioinfo@sfbi.fr>; Fri, 19 Sep 2014 17:46:52 +0200 (CEST)
+Received: from m-smtp.irccyn.ec-nantes.fr ([127.0.0.1])
+	by localhost (m-smtp.irccyn.ec-nantes.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id LSBJoK8KIZiD for <bioinfo@sfbi.fr>;
+	Fri, 19 Sep 2014 17:46:52 +0200 (CEST)
+Received: from m-smtps.irccyn.ec-nantes.fr (unknown [130.66.64.53])
+	by m-smtp.irccyn.ec-nantes.fr (Postfix) with ESMTP id C6E596011
+	for <bioinfo@sfbi.fr>; Fri, 19 Sep 2014 17:46:52 +0200 (CEST)
+Received: from [130.66.76.134] (unknown [130.66.76.134])
+	(using TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by m-smtps.irccyn.ec-nantes.fr (Postfix) with ESMTPSA id C02AA575
+	for <bioinfo@sfbi.fr>; Fri, 19 Sep 2014 17:46:52 +0200 (CEST)
+Message-ID: <541C50A5.1060306@irccyn.ec-nantes.fr>
+Date: Fri, 19 Sep 2014 17:49:57 +0200
+From: Maxime Folschette <Maxime.Folschette@irccyn.ec-nantes.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.1.1
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Soutenance de =?UTF-8?Q?th=C3=A8se?= de Maxime FOLSCHETTE (IRCCyN, Nantes)
+Bonjour,
+J'ai le plaisir de vous inviter à ma soutenance de thèse de doctorat 
+intitulée :
+   « Modélisation algébrique de la dynamique multi-échelles
+     des réseaux de régulation biologique »
+qui aura lieu le mercredi 8 octobre à 10 h 30 dans l'amphithéâtre S au 
+rez-de-chaussée de l'IRCCyN (campus de l'École centrale de Nantes ; 1, 
+rue de la Noë ; Nantes, France), ainsi qu'au pot de thèse qui suivra.
+Cordialement,
+Maxime FOLSCHETTE
+~~~
+Résumé :
+La représentation et l'analyse des grands réseaux de régulation 
+biologique sont les deux défis majeurs dans la compréhension des 
+mécanismes du vivant. Le travail exposé dans cette thèse se concentre 
+sur les modèles discrets, souvent représentés sous la forme de graphes 
+et d'ensembles de paramètres. Il s'inspire notamment d'un formalisme 
+préalablement développé, appelé Frappes de Processus, qui repose sur une 
+représentation atomique d'un ensemble de composants et de leur 
+dynamique. Nous proposons dans cette thèse plusieurs représentations 
+alternatives à ce formalisme, qui possèdent une plus grande 
+expressivité. Ces représentations sont adaptées à l'intégration de 
+contraintes discrètes dans les modèles provenant de durées relatives ou 
+de relations de synchronisme entre certaines réactions. Nous proposons 
+par ailleurs une méthode d'analyse de la dynamique par interprétation 
+abstraite qui permet de répondre à des questions d'atteignabilité. Cette 
+méthode est spécifiquement adaptée à l'étude des modèles de grande 
+taille, pouvant contenir plusieurs centaines de composants, et 
+potentiellement davantage. Elle repose en effet sur une approximation de 
+la dynamique qui évite ainsi l'explosion combinatoire inhérente à ce 
+type d'analyse, permettant de répondre en quelques dixièmes de secondes 
+au prix d'être parfois non conclusive. Enfin, nous traçons des liens 
+formels entre les différents formalismes développés dans cette thèse, 
+ainsi qu'avec plusieurs autres modélisation discrètes répandues. Nous 
+permettons ainsi à un modèle de jouir des capacités de représentation et 
+d'analyse de plusieurs formalismes à la fois.
+~~~
+Composition du jury :
+Rapporteurs :
+   Jean-Paul COMET, Professeur des universités, Université de Nice – 
+Sophia Antipolis
+   Anne SIEGEL, Directrice de recherche CNRS, IRISA (CNRS & Université 
+Rennes 1), Inria Rennes
+Examinateurs :
+   Mireille RÉGNIER, Directrice de recherche Inria, École Polytechnique 
+& Université Paris-Sud 11
+   Denis THIEFFRY, Professeur des universités, École normale supérieure
+Directeur de thèse :
+   Olivier ROUX, Professeur des universités, École centrale de Nantes
+Co-directeur de thèse :
+   Morgan MAGNIN, Maître de conférences, École centrale de Nantes

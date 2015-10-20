@@ -1,0 +1,110 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <dirk.stratmann@impmc.upmc.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 76BDE26801D
+	for <bioinfo@sfbi.fr>; Mon, 13 Oct 2014 15:38:58 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoIBANLUO1SGnQCBc2dsb2JhbABbFoNLWII+SMghiGoWAREBDAgMCRQuhAcOFw8BBTwEGhwCBRYLAgsDAgECAToeBgIBAYg6DZJojRKPO5UygSyONxEBg06BVAWGQYw/ikuHZo9yAQoBAQGCJGoBgQ6BOwEBAQ
+X-IPAS-Result: AoIBANLUO1SGnQCBc2dsb2JhbABbFoNLWII+SMghiGoWAREBDAgMCRQuhAcOFw8BBTwEGhwCBRYLAgsDAgECAToeBgIBAYg6DZJojRKPO5UygSyONxEBg06BVAWGQYw/ikuHZo9yAQoBAQGCJGoBgQ6BOwEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,710,1406584800"; 
+   d="scan'208";a="74697655"
+Received: from shiva.jussieu.fr ([134.157.0.129])
+  by a-mx1.relay.syrhano.net with ESMTP; 13 Oct 2014 15:38:56 +0200
+Received: from cesium.impmc.jussieu.fr (r-impmc.reseau.jussieu.fr [134.157.167.17])
+          by shiva.jussieu.fr (8.14.4/jtpda-5.4) with ESMTP id s9DDcMtd073555
+          for <bioinfo@sfbi.fr>; Mon, 13 Oct 2014 15:38:35 +0200 (CEST)
+X-Ids:168
+Received: from gypse1.impmc.jussieu.fr (gypse1.impmc.jussieu.fr [134.157.17.203])
+	by cesium.impmc.jussieu.fr (Postfix) with ESMTP id 649F314A0ED
+	for <bioinfo@sfbi.fr>; Mon, 13 Oct 2014 15:38:21 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by local.impmc.jussieu.fr (Postfix) with ESMTP id 50D3E350006
+	for <bioinfo@sfbi.fr>; Mon, 13 Oct 2014 15:38:21 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at impmc.jussieu.fr
+Received: from gypse1.impmc.jussieu.fr ([127.0.0.1])
+	by localhost (gypse1.impmc.jussieu.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id ISDR79spM4AJ for <bioinfo@sfbi.fr>;
+	Mon, 13 Oct 2014 15:38:21 +0200 (CEST)
+Received: from [134.157.189.90] (porthp-stratmann.impmc.jussieu.fr [134.157.189.90])
+	by gypse1.impmc.jussieu.fr (Postfix) with ESMTP id 28C1B350005
+	for <bioinfo@sfbi.fr>; Mon, 13 Oct 2014 15:38:21 +0200 (CEST)
+Message-ID: <543BD5CD.2000905@impmc.upmc.fr>
+Date: Mon, 13 Oct 2014 15:38:21 +0200
+From: Dirk Stratmann <dirk.stratmann@impmc.upmc.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.1.2
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at jchkmail2.reseau.jussieu.fr with ID 543BD5CE.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 543BD5CE.001 from r-impmc.reseau.jussieu.fr/r-impmc.reseau.jussieu.fr/134.157.167.17/cesium.impmc.jussieu.fr/<dirk.stratmann@impmc.upmc.fr>
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] recherche candidat(e) pour concours bourse de =?UTF-8?Q?th=C3=A8se?= =?UTF-8?Q?=C3=A0?= l'UPMC
+Bonjour,
+Nous cherchons avant ce vendredi 17 oct, un(e) candidat(e) ayant déjà 
+son diplôme de M2 avec un bon classement pour concourir à une bourse de 
+thèse à l'UPMC (Paris VI) en 2ème session.
+Le résumé du sujet est disponible ici et en copie en bas de l'email:
+http://www.ed397.upmc.fr/presentation/liens_sujets/2014/OctIMPMC1.pdf
+Le sujet complet avec références est disponible ici:
+http://www.impmc.upmc.fr/~stratmann/ED397_chomilier.pdf
+Même si notre école doctorale s'intitule "Physique et Chimie des 
+Matériaux", ED 397, le sujet est multi-disciplinaire: bioinfo. 
+structurale, modélisation moléculaire, algorithmique (robotique), 
+thermodynamique, biologie.
+Le concours aura lieu le jeudi 23 octobre 2014, à partir de 9h, sur le 
+campus de Jussieu:
+http://www.ed397.upmc.fr/
+Merci de nous envoyer par email un CV,  un scan des notes de master 2, 
+un scan de l'attestation de réussite au master 2, ainsi que les noms et 
+adresses emails de votre responsable de stage de M2 et de votre 
+responsable de master.
+Cordialement,
+         Dirk Stratmann
+-------
+Design de peptides inhibiteurs des interactions entre protéines : Une 
+nouvelle approche algorithmique et thermodynamique
+L’inhibition ciblée d’interactions entre protéines joue un rôle de plus 
+en plus important dans la recherche de nouveau médicaments. Des 
+fragments peptidiques extraits de l’interface entre deux protéines sont 
+une classe d’inhibiteurs très prometteurs, car ils arrivent à imiter une 
+protéine entière lors de l’interaction avec son partenaire. La 
+conformation libre de ces fragments peut être stabilisée par cyclisation 
+ce qui rend ces fragments plus résistants à la digestion par la protéase 
+et de plus la perte d’entropie sera moindre lors de la liaison à une 
+protéine. Les « Tightened End Fragments » (TEF) sont des fragments qui 
+se prêtent bien à la cyclisation, car leurs deux extrémités sont 
+proches. Pour trouver les meilleurs fragments TEF inhibiteurs, nous 
+proposons de mettre au point des approches algorithmiques originales 
+pour prédire  la stabilité des fragments et leur affinité vers une 
+protéine cible. Pour cela nous voudrions combiner deux approches :
+1) Des algorithmes issus de la robotique du type « rapidly-exploring 
+random trees » (RRT)  pour échantillonner d’une manière large l’espace 
+conformationnel des peptides cycliques et leur récepteur.
+  2) Des analyses de la dynamique et thermodynamique de l’eau à 
+l’interface protéine-peptide.
+Les méthodes mise au point seront validées sur les données 
+expérimentales existantes dans la littérature (ex. p53-MDM2) et en suite 
+appliquées sur des protéines d’intérêt thérapeutique, comme la 
+kallikréine 6 (ou neurosine).
+Ce projet de thèse sera encadré par Jacques Chomilier et Dirk Stratmann 
+de l’IMPMC pour les parties fragments TEF et modélisation par docking et 
+dynamique moléculaire. Les autres parties du projet seront effectuées en 
+collaboration avec Juan Cortés du LAAS (UPR 8001, CNRS) à Toulouse pour 
+la partie RRT et analyse des paysages énergétiques, Damien Laage de 
+l’ENS (UMR 8640, ENS, CNRS, UPMC) pour la partie dynamique de l’eau et 
+Chahrazade El Amri du laboratoire "Biological Adaptation and Ageing" 
+(UMR 8256, UPMC) pour les expériences sur la kallikréine 6.
+Connaissances et compétences requises : Des connaissances en dynamique 
+moléculaire, ainsi qu’en programmation en python ou C++.
+-- 
+Dirk Stratmann
+Maître de Conférences / Associate Professor
+Université Pierre et Marie Curie (UPMC) - Paris VI, IMPMC, UMR 7590 CNRS
+Campus Jussieu, Couloir 22/23, 4ème étage, Bureau 408
+Case courrier 115; 4, place Jussieu, 75252 Paris cedex 05
+Tel: +33-(0)1 44 27 50 79
+e-mail: dirk.stratmann@upmc.fr
+http://www.impmc.upmc.fr/~stratmann/

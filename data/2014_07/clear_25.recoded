@@ -1,0 +1,46 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 384E726801D
+	for <bioinfo@sfbi.fr>; Tue,  8 Jul 2014 13:37:42 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsMAAMTWu1OKZqI0nGdsb2JhbABZg2CDScNIAYEsDwEBAQEBCAsJCRQohAQBBSMPAQURLxElAgUWBAcCAgkDAgECAToLEwYCAQGIPg2vY5k6F4EsjRQRAVcWgmGBTAWadocPjn6BRIF1
+X-IronPort-AV: E=Sophos;i="5.01,625,1400018400"; 
+   d="scan'208";a="69854049"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 08 Jul 2014 13:37:41 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s68BbfJT017449
+	for <bioinfo@sfbi.fr>; Tue, 8 Jul 2014 13:37:41 +0200 (CEST)
+Message-ID: <53BBD805.9030808@jouy.inra.fr>
+Date: Tue, 08 Jul 2014 13:37:41 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1X4Tiv-0001BQ-Kt@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1X4Tiv-0001BQ-Kt@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1X4Tiv-0001BQ-Kt@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53BBD805.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53BBD805.000/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53BBD805.000 on alpha.jouy.inra.fr : j-chkmail score : X : R=. U=. O=# B=0.170 -> S=0.240
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] [Emploi][CDI autre] ADMINISTRATEUR DE PLATEFORME DE CLOUD COMPUTING POUR =?UTF-8?Q?L=E2=80=99ANALYSE?= DE DONNEES BIOLOGIQUES
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : ADMINISTRATEUR DE PLATEFORME DE CLOUD COMPUTING POUR
+L’ANALYSE DE DONNEES BIOLOGIQUES
+Type de poste : CDI autre
+Durée du poste :
+Ville : Lyon
+Nom du contact : Julie DUMONTET
+Email du contact : julie.dumontet@bioaster.org
+Laboratoire : BIOASTER
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/administrateur-de-plateforme-de-cloud-computing-pour-l%E2%80%99analyse-de-donnees-biologiques

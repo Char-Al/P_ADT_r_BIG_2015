@@ -1,0 +1,80 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 8E2B126801D
+	for <bioinfo@sfbi.fr>; Thu, 10 Jul 2014 17:29:34 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjYBACCwvlOKZqI0nGdsb2JhbABZFoNKwAaIZg8BAQEBAQgLCQkUKIQ8AQU1Cz0WGAMCAQIBWAYCAQEQiC4NnzyoOheMGXCCWIQtBZsAgUiFR4Q6jBE
+X-IronPort-AV: E=Sophos;i="5.01,638,1400018400"; 
+   d="scan'208";a="70001504"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Jul 2014 17:29:33 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s6AFTW44005941
+	for <bioinfo@sfbi.fr>; Thu, 10 Jul 2014 17:29:32 +0200 (CEST)
+Message-ID: <53BEB15C.6090303@jouy.inra.fr>
+Date: Thu, 10 Jul 2014 17:29:32 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53BEB15C.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53BEB15C.000/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53BEB15C.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.016 -> S=0.016
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Metagenomics Workshop, 7 septembre 2014, Strasbourg
+Bonjour,
+sous l'égide du métaprogramme INRA "Méta-omique des Ecosystèmes 
+Microbiens", nous organisons, en marge de ECCB'14, un workshop le 
+dimanche 7 septembre à Strasbourg sur le thème :
+"Recent Computational Advances in Metagenomics"
+(http://www.eccb14.org/program/workshops/rcam)
+Inscriptions sur http://www.eccb14.org/registration.
+Ce workshop sera composé de deux talks invités :
+1. Steven Kembel (University of Québec, Montréal): "Using metagenomics 
+to model community assembly in the plant microbiome"
+2. Aaron Darling (University of Technology, Sydney): "Toward resolving 
+the fine scale genetic structure of microbial populations: a metagenomic 
+Hi-C approach"
+et de 7 exposés sélectionnés :
+* "Quikr & WGSQuikr: Rapid Bacterial Community Reconstruction Via 
+Compressive Sensing" by D. Koslicki, S. Foucart and G. Rosen
+* "Towards Large-scale Machine Learning for Metagenomics Sequence 
+Classification" by K. Vervier, J.-P. Vert, M.Tournoud, J.-B. Veyrieras 
+and P.Mahé
+* "Swarm: robust and fast clustering method for amplicon-based studies"
+by F. Mahé, T. Rognes, C. Quince, C. de Vargas and M. Dunthorn
+* "SortMeRNA 2: ribosomal RNA classification for taxonomic assignation" 
+by E. Kopylova, L. Noé, P. Pericard, M. Salson and H. Touzet
+* "Quantitative metagenomics: form reads to biomarkers" by E. Prifti, 
+E.Le Chatelier, N. Pons, M. Almeida, A. Ghozlane, F. Plaza, N. Aram 
+Gaye, P. Leonard, J.-M. Batto and D. Erlich
+* "Identifying distant homologous viral sequences in metagenomes using 
+protein structure information" by M. Boccara, M. Carpentier, J. 
+Chomilier, F. Coste, C. Galiez, J. Pothier and A. Veluchamy
+* "Metagenome-scale metabolic network reconstruction" by F. Guktnecht, 
+G. Collet, J. Cambefort, J. Andres, S. Prigent, D. Eveillard, A. Siegel, 
+F. Plewniak
+A bientôt,
+Valentin Loux, Mahendra Mariadassou, Sophie Schbath
+pour le comité d'organisation
+-- 
+    ___
+   / _ \\  ,,        Sophie SCHBATH     Sophie.Schbath@jouy.inra.fr
+  /=(_)=\\//
+  \ =(_) (O}           Unite Mathematique, Informatique & Genome (MIG)
+   \_____\\      .--.   INRA - Domaine de Vilvert
+    /=(_)\\\   .'_\/_'.  F-78352 Jouy-en-Josas
+    \____///   '. /\ .'   Tel : +33 1 34 65 28 90
+         ())     "||"      Fax : +33 1 34 65 29 01
+                  || /\
+               /\ ||//\)   http://genome.jouy.inra.fr/~schbath/
+              (/\\||/      http://www.ssbgroup.fr
+     ____________\||/____________________________________________

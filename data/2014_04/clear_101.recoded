@@ -1,0 +1,78 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <patrick.nitschke@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id DC1DA26801D
+	for <bioinfo@sfbi.fr>; Mon, 28 Apr 2014 22:48:47 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Av0DAFq+XlPRVdwwlGdsb2JhbABZhCyCHEnBfwSBFQgWDgEBAQEHCwsJEiqCOBcdATkDDQUDDQ8CJgIkEgEFATWILQMRiHGMfIMPjBCDXph4Jw2GNBEBBQyBHY1NglmBSgEDmQyQbRgpgWmCejuBLiQ
+X-IronPort-AV: E=Sophos;i="4.97,946,1389740400"; 
+   d="scan'208";a="57755777"
+Received: from mail-pa0-f48.google.com ([209.85.220.48])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 Apr 2014 22:48:46 +0200
+Received: by mail-pa0-f48.google.com with SMTP id hz1so6223145pad.21
+        for <bioinfo@sfbi.fr>; Mon, 28 Apr 2014 13:48:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=2SHZYJjEUEyLoUi2ZKyn2H8ZJGMD6wWRET8+Vdb7CzU=;
+        b=BFJ7LE8WGto1WqXz1giwOVjy2ePOe0OosmdLP7ogp5/BC4+LbsZ52I/UAPxcPtafFh
+         uupJ37ossmTvQFTX6r1cns4VOXcB5lwSAzGrFxW3/0QR42xFSFGRdjA736/c2nV1CiDm
+         7P1SPZv/bQMvI5onWfNXe9yZEHNi1kjE99+OUSh9pcPZu234j57KNmHnszuf/tj7tZmf
+         tNr1DsJeX9EAIMnL4cEKVgOleIrLo56HFOgNzYrdWDqqrAr4IQmQ5e9ZmoAzNCOclEav
+         aOZE2MgQ8LRKTmP+wYVRcNW8tmgtQJHzJk5sUzHh2kfTDpveU73cawQb/BjuaE9G5r5j
+         sOeA=
+X-Received: by 10.66.136.131 with SMTP id qa3mr27810120pab.77.1398718124719;
+ Mon, 28 Apr 2014 13:48:44 -0700 (PDT)
+MIME-Version: 1.0
+Sender: patrick.nitschke@gmail.com
+Received: by 10.70.65.201 with HTTP; Mon, 28 Apr 2014 13:48:24 -0700 (PDT)
+From: Patrick Nitschke <patrick.nitschke@parisdescartes.fr>
+Date: Mon, 28 Apr 2014 22:48:24 +0200
+X-Google-Sender-Auth: XLZ7s8PYVnxYOamHGppt5RBY3Ws
+Message-ID: <CAFVdC1mux25pTt5TPic19JQnOUNDpwc0ytf4o7-vT3x4zG4dUw@mail.gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD] Ingenieur BioInformatique hopital Necker-Enfants malades
+Le Pôle de Biologie et Produits de Santé de l'hôpita
+l Universitaire
+Necker-Enfants malades recherche  un bioinformaticien (niveau BAC+5 ou
+école d'ingénieur) pour la mise en place d'outils
+ diagnostiques
+utilisant les techniques de séquen=C3=A7age à haut débit.
+Missions :
+  Mise en point et mise en place des workflows d'analyse
+bioinformatique des données issues de séquenceurs NGS Illumina
+  Mise au point et mise en place des algorithmes décisionnels 
+et des
+outils de validation des résultats
+  Participation à la définition et à l'int
+égration des outils
+développés dans le système d'information du laborato
+ire
+  Participation aux études techniques et cliniques de validati
+on
+  Participation à la formation des utilisateurs finaux
+Durée du CDD :
+  12 mois avec possibilité de transformation ultérieure e
+n CDI
+Compétences requises :
+  Ma=C3=AEtrise des outils bioinformatiques du NGS
+  Ma=C3=AEtrise du système UNIX, du SGBD MySQL et du langage d
+e script PERL
+  La connaissance d'un système de work-flow type Galax
+y est un plus
+pour cette mission
+Environnement :
+  Cette mission sera menée dans un environnement multidiscipli
+naire.
+Outre les laboratoires du pôle de biologie, le bioinformaticien
+travaillera en interaction étroite avec le service de biostatistique
+et d'informatique médicale et la plate-forme bioinformatique
+Paris-Descartes - Imagine.
+Contacts :
+  Pr Jean-Paul Bonnefont (jean-paul.bonnefont@nck.aphp.fr)

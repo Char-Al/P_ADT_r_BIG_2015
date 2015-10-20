@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 641B926801D
+	for <bioinfo@sfbi.fr>; Sun, 26 Oct 2014 22:32:35 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AosBAHJnTVSKZqI0nGdsb2JhbABcg2JYAYI9SMl4iGoBEQEBAQEBCAsJCRQuhBUXEAURKwgOCBwCJgISLBAkiEENlnWNHY9CgXSLeYYzgSyOehEBbYJhgVQFgTC0JgEBAQEGAQEBAQFegUVrgQ+BPAEBAQ
+X-IPAS-Result: AosBAHJnTVSKZqI0nGdsb2JhbABcg2JYAYI9SMl4iGoBEQEBAQEBCAsJCRQuhBUXEAURKwgOCBwCJgISLBAkiEENlnWNHY9CgXSLeYYzgSyOehEBbYJhgVQFgTC0JgEBAQEGAQEBAQFegUVrgQ+BPAEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,791,1406584800"; 
+   d="scan'208";a="66958173"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 26 Oct 2014 22:32:34 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s9QLWY7Y010551
+	for <bioinfo@sfbi.fr>; Sun, 26 Oct 2014 22:32:34 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 194E5296B98
+	for <bioinfo@sfbi.fr>; Sun, 26 Oct 2014 22:32:34 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XiVSS-0001ht-MX
+	for bioinfo@sfbi.fr; Sun, 26 Oct 2014 22:34:40 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XiVSS-0001ht-MX@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Sun, 26 Oct 2014 22:34:40 +0100
+X-Miltered: at beta with ID 544D6872.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 544D6872.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 544D6872.000 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.298 -> S=0.395
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] M2 - Etude du =?UTF-8?Q?r=C3=B4le?= des =?UTF-8?Q?=C3=A9l=C3=A9me?=  nts transposables dans la maturation de la toma  te
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : M2 - Etude du rôle des éléments transposables dans la  
+maturation de la tomate
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Versailles
+Nom du contact : Florian Maumus
+Email du contact : florian.maumus@versailles.inra.fr
+Laboratoire : INRA-Versailles
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m2-etude-du-r%C3%B4le-des-%C3%A9l%C3%A9ments-transposables-dans-la-maturation-de-la-tomate

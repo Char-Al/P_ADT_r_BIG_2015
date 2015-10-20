@@ -1,0 +1,75 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <celine.brochier-armanet@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C3A6826801D
+	for <bioinfo@sfbi.fr>; Thu,  3 Jul 2014 08:46:55 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlMBAHv7tFOG1rySnGdsb2JhbABag1+sGwaaVYEKFg8BAQEBAQgLCQkUKIQ8AQUdTxEWGAMCAQIBWAYCAQEFiDkNnCOrP4VwiGEBASlDhC0FnDWFRpBBgXU
+X-IronPort-AV: E=Sophos;i="5.01,593,1400018400"; 
+   d="scan'208";a="61202760"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Jul 2014 08:46:55 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 9192BE015A
+	for <bioinfo@sfbi.fr>; Thu,  3 Jul 2014 08:46:54 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6QOnro210QEb for <bioinfo@sfbi.fr>;
+	Thu,  3 Jul 2014 08:46:50 +0200 (CEST)
+Received: from [134.214.32.191] (umr5558-portable-delxps-0001.univ-lyon1.fr [134.214.32.191])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 60A33E0113
+	for <bioinfo@sfbi.fr>; Thu,  3 Jul 2014 08:46:50 +0200 (CEST)
+Message-ID: <53B4FC5A.8040605@univ-lyon1.fr>
+Date: Thu, 03 Jul 2014 08:46:50 +0200
+From: Celine Brochier <celine.brochier-armanet@univ-lyon1.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoc: Lyon-France.Bioinformatics.Comparative genomics
+POSTDOC POSITION IN BIOINFORMATICS / COMPARATIVE GENOMICS (Lyon, France)
+A 18 months post-doc position is available in the Department of 
+Evolutionary Genetics and Genomics of the Biometry and Evolutionary 
+Biology laboratory (LBBE, CNRS/University Lyon I), France. Research 
+themes in the lab are focused on multiscale evolutionary questions (from 
+molecules to communities), with strong emphasis on modeling and computer 
+science (http://lbbe.univ-lyon1.fr/?lang=en). This double angle results 
+in a synergy between methodological developments and biological questions.
+The post-doc will work with Pr Céline Brochier-Armanet 
+(http://www.frangun.org/) in the Bioinformatics and Evolutionary 
+Genomics team. The proposed project is part of a large study combining 
+in silico and wet experimental work focused on the biosynthesis of 
+atypical lipids in Bacteria. The candidate will play a key role in this 
+project in conducting comparative genomics and molecular phylogenetic 
+investigations aiming at deciphering the biosynthesis pathways of these 
+atypical lipids, as well as their origin and evolution in Bacteria.
+The post-doc position will start on November 1st, 2014, for a 18 months 
+period. The position is funded by the French Research National Agency.
+Candidates should have:
+- a PhD in biology/biochemistry or in bioinformatics
+- a good knowledge in bioinformatics, and especially in genomics
+- programming skills
+- a real interest/knowledge in evolutionary biology
+To apply, please send to Pr Céline Brochier-Armanet 
+(celine.brochier-armanet@univ-lyon1.fr):
+1. An application letter including research interests and goals, and 
+suitability for the proposed research project.
+2. A full CV.
+3. Names and contact information of two potential academic contacts.
+--
+Pr Céline Brochier-Armanet
+Membre de l'Institut Universitaire de France
+Université Lyon 1
+Laboratoire de Biométrie et Biologie Evolutive
+UMR CNRS/Lyon 1 5558
+43 Bd du 11 Novembre 1918
+69622 Villeurbanne, France
+-- 
+Tel: 33 (0)4 26 23 44 76
+Mail: celine.brochier-armanet@univ-lyon1.fr
+Web page: http://www.frangun.org

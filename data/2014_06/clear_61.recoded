@@ -1,0 +1,47 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2720326801D
+	for <bioinfo@sfbi.fr>; Tue, 17 Jun 2014 17:44:58 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aj4CABhhoFOKZqI0nGdsb2JhbABag1+DRsBFAwIBgSMPAQEBAQEICwkJFCiEBAEFIw8BBREvESUCBRYLAgIJAwIBAgE6CxMGAgEBiD4ECa0KnwsXgSqMahEBVxaCYYFMBJpDlxqBdQ
+X-IronPort-AV: E=Sophos;i="5.01,494,1400018400"; 
+   d="scan'208";a="68670595"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 17 Jun 2014 17:44:57 +0200
+Received: from MacBook-Air-de-sophie-2.local (host-151-250-96-7.reverse.superonline.net [151.250.96.7] (may be forged))
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s5HFitZc008813
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Tue, 17 Jun 2014 17:44:56 +0200 (CEST)
+Message-ID: <53A06279.1090103@jouy.inra.fr>
+Date: Tue, 17 Jun 2014 17:44:57 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1WwvXU-0009iG-5I@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1WwvXU-0009iG-5I@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1WwvXU-0009iG-5I@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53A06277.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53A06277.001/151.250.96.7/[151.250.96.7]/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53A06277.001 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.090 -> S=0.109
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?Ing=C3=A9nieur?= Bioinformatique
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur Bioinformatique
+Type de poste : CDD Ingénieur
+Durée du poste : 2 ans
+Ville : Lyon
+Nom du contact : Vincent Daubin
+Email du contact : vincent.daubin@univ-lyon1.fr
+Laboratoire : Laboratoire de Biométrie et Biologie Evolutive
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformatique-3

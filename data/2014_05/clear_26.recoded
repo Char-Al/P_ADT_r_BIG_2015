@@ -1,0 +1,103 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gtpb-bounces@igc.gulbenkian.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 3986E26801D
+	for <bioinfo@sfbi.fr>; Tue, 13 May 2014 21:12:40 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhANAJ9tclPBiV4FnGdsb2JhbABZg1VLDYsloDYGkmKIdQ4BAQEBAQgUCTyCJwYBAUMKHg4DAQIGAisdCAMBCxgBNRMFF4gpCccghVSHAYErgwkPRIE5BIlXjRuCXYE+hSuKT4UQbA
+X-IronPort-AV: E=Sophos;i="4.97,1044,1389740400"; 
+   d="scan'208";a="66712712"
+Received: from igcns.igc.gulbenkian.pt (HELO mx01.igc.gulbenkian.pt) ([193.137.94.5])
+  by a-mx1.relay.syrhano.net with ESMTP; 13 May 2014 21:12:39 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id 922D7658C5;
+	Tue, 13 May 2014 20:12:34 +0100 (WEST)
+X-Virus-Scanned: Debian amavisd-new at igcns
+Received: from mx01.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id N1MqR9iMquyf; Tue, 13 May 2014 20:12:34 +0100 (WEST)
+Received: from [127.0.1.1] (mx00.igc.gulbenkian.pt [192.168.50.10])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id 56FA3658C8;
+	Tue, 13 May 2014 20:12:34 +0100 (WEST)
+X-Original-To: gtpb@igc.gulbenkian.pt
+Delivered-To: gtpb@igc.gulbenkian.pt
+Received: from localhost (localhost [127.0.0.1])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id B42D52B6105;
+	Tue, 13 May 2014 20:03:00 +0100 (WEST)
+Received: from mx00.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id VwTz2wQHR0VO; Tue, 13 May 2014 20:02:55 +0100 (WEST)
+Received: from webmail.igc.gulbenkian.pt (webmail.igc.gulbenkian.pt
+	[192.168.50.6])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 9B2152B6104;
+	Tue, 13 May 2014 20:02:55 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by webmail.igc.gulbenkian.pt (Postfix) with ESMTPA id 84E9A6780E;
+	Tue, 13 May 2014 20:02:55 +0100 (WEST)
+Received: from a85-139-1-58.cpe.netcabo.pt (a85-139-1-58.cpe.netcabo.pt
+	[85.139.1.58]) by webmail.igc.gulbenkian.pt (Horde Framework) with HTTP;
+	Tue, 13 May 2014 20:02:55 +0100
+Message-ID: <20140513200255.18683j667kgzwg2n@webmail.igc.gulbenkian.pt>
+Date: Tue, 13 May 2014 20:02:55 +0100
+From: Pedro Fernandes <pfern@igc.gulbenkian.pt>
+To: research <research@igc.gulbenkian.pt>
+MIME-Version: 1.0
+Content-Disposition: inline
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.6)
+X-Mailman-Approved-At: Tue, 13 May 2014 20:11:18 +0100
+X-BeenThere: gtpb@igc.gulbenkian.pt
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: The Gulbenkian Training Programme in Bioinformatics
+	<gtpb.igc.gulbenkian.pt>
+List-Unsubscribe: <https://lists.igc.gulbenkian.pt/mailman/options/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=unsubscribe>
+List-Archive: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb>
+List-Post: <mailto:gtpb@igc.gulbenkian.pt>
+List-Help: <mailto:gtpb-request@igc.gulbenkian.pt?subject=help>
+List-Subscribe: <https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=subscribe>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="iso-8859-1"; Format="flowed"; DelSp="Yes"
+Sender: gtpb-bounces@igc.gulbenkian.pt
+Errors-To: gtpb-bounces@igc.gulbenkian.pt
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Gtpb] IBSTAT14   Introductory Biostatistics  -  REMINDER
+                         REMINDER
+                     GTPB Course Announcement
+    IMPORTANT DATES for this Course
+    Deadline for applications: May 15th 2014
+    Course date: June 2nd - June 6th 2014
+This is one of our "Foundations" type courses, providing a systematic
+and detailed review of fundamental concepts and techniques in
+Biostatistics. Participants can expect to go through a set of
+exercises that are based on biomedical problems. These exercises are
+preceded by short lectures that are simple to follow. The lectures are
+designed to provide the conceptual framework that is needed to release
+the training power of the exercises, not to flood the participants
+with formality, which will be kept to a minimum. We will make use of a
+highly interactive methodology, taking advantage of our well equipped
+Bioinformatics training room. With this approach, we expect to bring
+the participants to a high degree of usage independence in using the
+methods that we cover.
+Main topics: Descriptive Statistics; Probability; Statistical
+Inference; Design of Experiments.
+More information, including instructions for applicants
+Thank you for your interest!
+Pedro Fernandes
+GTPB Coordinator
+--
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+----- End forwarded message -----
+_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb

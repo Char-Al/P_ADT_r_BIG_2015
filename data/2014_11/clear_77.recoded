@@ -1,0 +1,77 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <n.lenovere@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 14FCD26801D
+	for <bioinfo@sfbi.fr>; Wed, 26 Nov 2014 10:09:17 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aj8CAFGXdVTRVdStlGdsb2JhbABRCoNYV4MFuDCKIYI/DIdYFgEBAQEBEQEBAQEHCwsJEjCEFAcRCAcBBQgBGx4DEhAPAgUhAhECEAIMAQQBBQEDASsGAgEBHogIAQECEgUIq0yDJT0xizaBbgSDCIF7iDcKGQQKGQ1chUwaAQUOgSCNFYFcBHWCIQ8yEoFDBZdIhSCCFIF0hhiBLYZmhQJBSoRsd4EGgUQBAQE
+X-IPAS-Result: Aj8CAFGXdVTRVdStlGdsb2JhbABRCoNYV4MFuDCKIYI/DIdYFgEBAQEBEQEBAQEHCwsJEjCEFAcRCAcBBQgBGx4DEhAPAgUhAhECEAIMAQQBBQEDASsGAgEBHogIAQECEgUIq0yDJT0xizaBbgSDCIF7iDcKGQQKGQ1chUwaAQUOgSCNFYFcBHWCIQ8yEoFDBZdIhSCCFIF0hhiBLYZmhQJBSoRsd4EGgUQBAQE
+X-IronPort-AV: E=Sophos;i="5.07,461,1413237600"; 
+   d="scan'208";a="68994837"
+Received: from mail-wi0-f173.google.com ([209.85.212.173])
+  by b-mx1.relay.syrhano.net with ESMTP; 26 Nov 2014 10:09:16 +0100
+Received: by mail-wi0-f173.google.com with SMTP id r20so11799717wiv.0
+        for <bioinfo@sfbi.fr>; Wed, 26 Nov 2014 01:09:16 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:reply-to:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=V6qvXEHYnws0D+Sg3gL4lxUHkGFewCk3NmfsV1oKrcY=;
+        b=vdSvPfulVKayHPZir8Yg3G+z9aMYgDoS21btYvC3Kf4h1INwDULUC2Pqrp02IgNKkY
+         iScEr1PFQYppIqoGvgT3rW9IKsP+6Tm2P4NdzoMTzjZtXU1S8kMWGoPwGc2KrC2gI8Za
+         N/Ok/2Gv+7fRcLsQ6rZuOFm5W0q6D59U1kFNwCoXTpKo0Z2OgZvx5Fdfbok9FwFCR+3Q
+         CXb6JVzheqIN7maALQyR7AM9zFYEX+8FOa7ArMIgBTPi26MtUmlWlI8gJNdNSpIIPCeP
+         gxUq2W+KgvBH2y6tO7AGsOm0Ei+FXcglkZfd/eIwyuKbBjvD0eLxrASzThxkc0B4U6Yr
+         D3pw==
+X-Received: by 10.180.37.142 with SMTP id y14mr3568293wij.47.1416992955958;
+        Wed, 26 Nov 2014 01:09:15 -0800 (PST)
+Received: from [149.155.150.198] ([149.155.150.198])
+        by mx.google.com with ESMTPSA id ge17sm6419118wic.0.2014.11.26.01.09.14
+        for <bioinfo@sfbi.fr>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 26 Nov 2014 01:09:15 -0800 (PST)
+Message-ID: <547598B9.90603@gmail.com>
+Date: Wed, 26 Nov 2014 09:09:13 +0000
+From: Nicolas Le Novere <n.lenovere@gmail.com>
+Reply-To: n.lenovere@gmail.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] EMBL-EBI-Wellcome Trust Advanced course In Silico Systems Biology
+EMBL-EBI-Wellcome Trust workshop on
+In Silico Systems Biology
+7-12 June 2015
+Open for Applications (apply by 23 January)
+http://advanced-courses-wellcome.msgfocus.com/c/16o3vePBAEPZXF67bCPVXEY
+Applications are invited for this joint EMBL-EBI-Wellcome Trust workshop. The week-long programme will combine lectures on modelling approaches, led discussions to identify the key challenges, opportunities and bottlenecks, and practical sessions on network analysis and network-based modelling.
+The workshop is aimed at PhD students and researchers with a minimum of one year’s experience in the field of systems biology modelling, and who are using systems-based modelling approaches to understand biomedical problems. It is beneficial if participants have experience of using pathway modelling in their work. Full details are on the workshop website.
+Limited bursaries for PhD students covering up to 50% of the workshop fee are also available. Bursaries are awarded on merit. Applications and bursary requests must be received by 23 January 2015.
+Scientific Organising Committee
+Nicolas Le Novère (EMBL-EBI, UK)
+Julio Saez-Rodriguez (EMBL-EBI, UK)
+Laura Emery (EMBL-EBI, UK)
+Course Trainers
+Nicolas Le Novère (EMBL-EBI, UK)
+Julio Saez-Rodriguez (EMBL-EBI, UK)
+Kiran Patil (EMBL, Germany)
+Pablo Porras (EMBL-EBI, UK)
+Javier De Las Rivas (Bioinformatics & Functional Genomics Group, CSIC/USAL, Spain)
+Sven Sahle (BioQuant, University of Heidelberg, Germany)
+Jörg Stelling (ETH Zurich, Switzerland)
+Sarah Keating (EMBL-EBI, UK)
+Laurence Calzone (Institut Curie, France)
+Chelliah Vijilahkimi (EMBL-EBI, UK)
+Emanuel Goncalves (EMBL-EBI, UK)
+Camille Laibe (EMBL-EBI, UK)
+Karen Lipkow (University of Cambridge, UK)
+Nicolas Rodriguez (EMBL-EBI, UK)
+-- 
+Nicolas LE NOVERE, Babraham Institute, Babraham Campus Cambridge, CB22 3AT
+Tel: +441223496433 Fax: +441223496034 Mob:+447833147074 twitter:@lenovere
+Skype:n.lenovere, n.lenovere@gmail.com, ORCID: 0000-0002-6309-7327
+http://lenoverelab.org/, http://lenoverelab.org/perso/lenov/

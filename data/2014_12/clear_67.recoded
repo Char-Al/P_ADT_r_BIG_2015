@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id D7F5A26801D
+	for <bioinfo@sfbi.fr>; Tue, 23 Dec 2014 10:59:06 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnwAAH08mVSKZqI0nGdsb2JhbABbg1hYAYMDwzuHHgEBAQEBEQEBAQEBCAsJCRQuhDYQBREzDiQCJgISLBAkiCwNqjmPRIFsj0eFEIEhjW8RAW2CUoFBBYEipzOBZwEBAQcBAQEBAYIbboEMgTcBAQE
+X-IPAS-Result: AnwAAH08mVSKZqI0nGdsb2JhbABbg1hYAYMDwzuHHgEBAQEBEQEBAQEBCAsJCRQuhDYQBREzDiQCJgISLBAkiCwNqjmPRIFsj0eFEIEhjW8RAW2CUoFBBYEipzOBZwEBAQcBAQEBAYIbboEMgTcBAQE
+X-IronPort-AV: E=Sophos;i="5.07,630,1413237600"; 
+   d="scan'208";a="78954658"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 23 Dec 2014 10:59:06 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sBN9x60h013722
+	for <bioinfo@sfbi.fr>; Tue, 23 Dec 2014 10:59:06 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id EA955296BB4
+	for <bioinfo@sfbi.fr>; Tue, 23 Dec 2014 10:59:05 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1Y3MHV-0003Mj-6U
+	for bioinfo@sfbi.fr; Tue, 23 Dec 2014 11:01:33 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1Y3MHV-0003Mj-6U@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 23 Dec 2014 11:01:33 +0100
+X-Miltered: at beta with ID 54993CEA.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54993CEA.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54993CEA.000 on beta.jouy.inra.fr : j-chkmail score : X : R=. U=. O=# B=0.193 -> S=0.270
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][IE] =?UTF-8?Q?Ing=C3=A9nieur?= Informaticien R&D
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur Informaticien R&D
+Type de poste : IE
+Durée du poste : indéterminée
+Ville : RENNES
+Nom du contact : Monsieur le Directeur des Ressources Humaines
+Email du contact : P-Recrutement@chu-rennes.fr
+Laboratoire : Plateforme PEPS
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/ing%C3%A9nieur-informaticien-rd

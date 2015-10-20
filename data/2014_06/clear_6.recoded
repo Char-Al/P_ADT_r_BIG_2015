@@ -1,0 +1,47 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id F147A26801D
+	for <bioinfo@sfbi.fr>; Mon,  2 Jun 2014 23:40:52 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ah0EAALvjFOKZqI0nGdsb2JhbABZg1mDRIogtUgDAgGBKg4BAQEBAQgLCQkUKIImAQUjDwEFES8RJQIFFgsCAgkDAgECAToLEwYCAQGIPgQJq0OkMBeBKoxGEQFXFoJfgUsEmgCWZ4F0
+X-IronPort-AV: E=Sophos;i="4.98,959,1392159600"; 
+   d="scan'208";a="59514535"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 02 Jun 2014 23:40:52 +0200
+Received: from MacBook-Air-de-sophie-2.local (AMarseille-654-1-280-189.w92-150.abo.wanadoo.fr [92.150.128.189])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s52Lee1x022187
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Mon, 2 Jun 2014 23:40:49 +0200 (CEST)
+Message-ID: <538CEF58.1090802@jouy.inra.fr>
+Date: Mon, 02 Jun 2014 23:40:40 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1WrRR3-000BHn-30@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1WrRR3-000BHn-30@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1WrRR3-000BHn-30@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 538CEF58.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 538CEF58.001/92.150.128.189/AMarseille-654-1-280-189.w92-150.abo.wanadoo.fr/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 538CEF58.001 on alpha.jouy.inra.fr : j-chkmail score : X : R=. U=. O=# B=0.152 -> S=0.152
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?ing=C3=A9nieur?= Base de =?UTF-8?Q?donn=C3=A9es?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : ingénieur Base de données
+Type de poste : CDD Ingénieur
+Durée du poste : 5 mois
+Ville : Angers
+Nom du contact : Julie Bourbeillon
+Email du contact : julie.bourbeillon@agrocampus-ouest.fr
+Laboratoire : AGROCAMPUS OUEST
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/ing%C3%A9nieur-base-de-donn%C3%A9es

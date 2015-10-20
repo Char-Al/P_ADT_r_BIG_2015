@@ -1,0 +1,106 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gaelle.garet@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id B3FAA26801D
+	for <bioinfo@sfbi.fr>; Thu, 11 Dec 2014 18:45:00 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhwBAO/WiVTRVcAum2dsb2JhbABZhDAEgjlIyXgHFgEBAQEBEQEBAQEBBgsLCRQuhB8GER0BOQMNBQMNDwImAiQSAQUBV4d2AxGlJY0egyU9MYsshGKLVScNhgIBBQ6BE45uglKBQQWFMpE8j2kSI4EVW4EMAQsBghs9MIJDAQEB
+X-IPAS-Result: AhwBAO/WiVTRVcAum2dsb2JhbABZhDAEgjlIyXgHFgEBAQEBEQEBAQEBBgsLCRQuhB8GER0BOQMNBQMNDwImAiQSAQUBV4d2AxGlJY0egyU9MYsshGKLVScNhgIBBQ6BE45uglKBQQWFMpE8j2kSI4EVW4EMAQsBghs9MIJDAQEB
+X-IronPort-AV: E=Sophos;i="5.07,558,1413237600"; 
+   d="scan'208";a="78523694"
+Received: from mail-qg0-f46.google.com ([209.85.192.46])
+  by a-mx1.relay.syrhano.net with ESMTP; 11 Dec 2014 18:45:00 +0100
+Received: by mail-qg0-f46.google.com with SMTP id q107so2086732qgd.33
+        for <bioinfo@sfbi.fr>; Thu, 11 Dec 2014 09:44:58 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=LGlWCtj93F5ozKHqIOZmJz/I/fFzcn1ZLyuXQPFyr6Q=;
+        b=C+pMKz2BAL9X9dcM9iNitmPOCCFTNvdYv/jYy5LRvvMTkb+c5kA/dgy+A+r8FwfDym
+         t/Q41Rvtekelrc1G/SactuAe3ktFsdQWcLyxN6FgwRcrjRKdQnGHtWN7fJthIe/30CBB
+         J2MxQ5rGI8w33Y6a8YDdRjNywF/wTmBgKSCo/9Ax9wCBLrShsLlu+4S1+9QXZRbj78G0
+         /KwloSg/h3ZO8iF23tuN4AtCN8/50BrmKi/2b05rJznVUAM5ZjdPG3x37AMEYJHsMPab
+         a+vFzoSREbBP/psQ+p3ju6dPxjyLxNMTPrQBSFL27kNfBI6CsT+HDUN1KBRbVlJs4gCd
+         JhpA=
+X-Received: by 10.140.30.163 with SMTP id d32mr21007889qgd.105.1418319898409;
+ Thu, 11 Dec 2014 09:44:58 -0800 (PST)
+MIME-Version: 1.0
+Sender: gaelle.garet@gmail.com
+Received: by 10.140.96.70 with HTTP; Thu, 11 Dec 2014 09:44:17 -0800 (PST)
+From: gaelle garet <gaelle.garet@inria.fr>
+Date: Thu, 11 Dec 2014 18:44:17 +0100
+X-Google-Sender-Auth: wSJyJHfEf9GndpxRRhdW6u04pyY
+Message-ID: <CAKqJ3z3CODaq-tMQXjGPrZ53quPx9=RiebMmp0tUL8v1MpGGkA@mail.gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Soutenance de thèse - Ga=C3"lle Garet
+Bonjour,
+j'ai le plaisir de vous inviter à ma soutenance de thèse intitul
+ée
+"Classification et caractérisation de familles enzymatiques à l'a
+ide
+de méthodes formelles".
+Cette soutenance aura lieu :
+mardi 16 décembre 2014 à 10h en salle Markov du centre Inria/iris
+a de
+Rennes situé à l'adresse suivante :
+Irisa - Inria Bretagne Atlantique
+Campus universitaire de Beaulieu
+263 Avenue Général Leclerc
+35042 Rennes Cedex
+Le jury de thèse est composé de :
+Jean-Christophe Janodet, Professeur à l'Université
+d'Evry-Val-d'Essonne (rapporteur)
+Amedeo Napoli, Directeur de recherche au Loria, Nancy (rapporteur)
+Colin De La Higuera, Professeur à l'Université de Nantes (examina
+teur)
+Olivier Ridoux, Professeur à l'Université de Rennes 1 (examinateu
+r)
+Mirjam Czjzek, Directrice de recherche CNRS, Roscoff (examinatrice)
+Jacques Nicolas, Directeur de recherche à Inria, Rennes (directeur de 
+thèse)
+Fran=C3=A7ois Coste, Chargé de recherche à Inria, Rennes (co-dire
+cteur de thèse)
+Résumé :
+Cette thèse propose une nouvelle approche de découverte de signat
+ures
+de familles (et superfamilles) d'enzymes. Dans un premier temps, étant
+donné un échantillon aligné de séquences appartenant 
+à une même
+famille, cette approche infère des grammaires algébriques
+caractérisant cette famille. Pour ce faire, de nouveaux principes de
+généralisation et de nouvelles classes de langages ont ét=C3
+=A9 introduites
+sur la base de la substituabilité locale. Un algorithme a égaleme
+nt
+été développé à cet effet qui produit une grammair
+e réduite,
+conservant la structuration des exemples, d'un langage substituable.
+Dans un second temps, ce manuscrit présente une méthode de
+classification des séquences d'une superfamille en familles à l'a
+ide
+d'une analyse de concepts formels basée sur l'alignement des séqu
+ences
+qui permet la détection de nouvelles familles et la découverte des
+motifs fonctionnels pour améliorer les signatures précédente
+s.
+Abstract :
+This thesis proposes a new approach to discover signatures of families
+(and superfamilies) enzymes. At first, given a sample of aligned
+sequences belonging to the same family, this approach infers
+context-free grammars characteristic of this family. To do this, new
+principles of generalization and new classes have been introduced
+based on substitutability. An algorithm has also been developed for
+this purpose, which produces a reduced grammar able to retain the
+structure of examples. In a second step, this manuscript presents a
+method for classification of a superfamily sequences into families
+with a formal concept analysis based on alignement sequences allowing
+detection of new families and the discovery of patterns to improve
+functional previous signatures.
+Cordialement,
+Ga=C3"lle Garet

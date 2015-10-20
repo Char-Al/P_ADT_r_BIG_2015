@@ -1,0 +1,70 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <alain.denise@u-psud.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 8586626801D
+	for <bioinfo@sfbi.fr>; Fri, 11 Apr 2014 09:07:48 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsMBALKTR1OBr9RBnGdsb2JhbABZg0HFFIEbFg4BAQEBAQgLCQkUKIImAQUMJgEFQBEsFg8JAwIBAgFFEwYCAQGHeA2qJYUNnQEXjnMWhCIEnxoXjyE
+X-IronPort-AV: E=Sophos;i="4.97,840,1389740400"; 
+   d="scan'208";a="56893456"
+Received: from mx2.u-psud.fr ([129.175.212.65])
+  by b-mx1.relay.syrhano.net with ESMTP; 11 Apr 2014 09:07:48 +0200
+Received: from mx2.u-psud.fr (mx2 [127.0.0.1])
+	by localhost (MTA) with SMTP id 9B4D13025FA
+	for <bioinfo@sfbi.fr>; Fri, 11 Apr 2014 09:07:47 +0200 (CEST)
+Received: from ext.lri.fr (ext.lri.fr [129.175.15.4])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mx2.u-psud.fr (MTA) with ESMTPS id 6A92A3021C6
+	for <bioinfo@sfbi.fr>; Fri, 11 Apr 2014 09:07:47 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by ext.lri.fr (Postfix) with ESMTP id 4299740B97
+	for <bioinfo@sfbi.fr>; Fri, 11 Apr 2014 09:07:47 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at lri.fr
+Received: from ext.lri.fr ([127.0.0.1])
+	by localhost (ext.lri.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id C5Th93P1TPIl for <bioinfo@sfbi.fr>;
+	Fri, 11 Apr 2014 09:07:47 +0200 (CEST)
+Received: from smtp-ng.lri.fr (smtp [129.175.3.73])
+	by ext.lri.fr (Postfix) with ESMTP id 1E72940B51
+	for <bioinfo@sfbi.fr>; Fri, 11 Apr 2014 09:07:47 +0200 (CEST)
+Received: from [127.0.0.1] (lri29-235 [129.175.29.235])
+	by smtp-ng.lri.fr (Postfix) with ESMTP id 094B260CF1
+	for <bioinfo@sfbi.fr>; Fri, 11 Apr 2014 09:07:47 +0200 (CEST)
+Message-ID: <534794C6.5010308@u-psud.fr>
+Date: Fri, 11 Apr 2014 09:07:50 +0200
+From: Alain Denise <alain.denise@u-psud.fr>
+Reply-To: Burnier Elisabeth <elisabeth.burnier@u-psud.fr>
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <53469DA5.904@u-psud.fr>
+In-Reply-To: <53469DA5.904@u-psud.fr>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Antivirus: avast! (VPS 140410-1, 10/04/2014), Outbound message
+X-Antivirus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Campagne de recrutement ATER Informatique Paris Sud
+Des postes d'ATER sont mis au concours au département informatique de 
+l'UFR Sciences à l'Université Paris Sud (au moins 7 postes à pourvoir), 
+ils sont largement ouverts aux candidats externes.
+Tous les renseignements ainsi que le dossier à télécharger sont sur le 
+site de l'université :
+http://www.u-psud.fr/fr/recrutements/enseignants/ater.html
+La date limite pour déposer les dossiers est le 27 avril 2014.
+Merci pour la publicité que vous pourrez accorder à cette campagne.
+Pour des renseignements complémentaires contacter Elisabeth Burnier 
+<elisabeth.burnier@u-psud.fr>
+Vous en souhaitant bonne réception.
+Cordialement
+-- 
+Elisabeth Burnier
+secrétariat du Département Informatique
+Bat.650 (PCRI)-bureau 416
+rue Noetzlin
+91405 Orsay Cedex
+Bureau fermé le vendredi
+Tel : 01.69.15.66.30

@@ -1,0 +1,69 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gascuel@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id C49DC26801D
+	for <bioinfo@sfbi.fr>; Tue,  7 Oct 2014 08:30:54 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqYBALyHM1TBMWgenGdsb2JhbABfg2FYzFaIXRYBEQEBAQEBCAsJCRQshEIzDT0WGAMCAQIBWAYCAQEVA4gmnHCkWo9jEQFthDUFnT6BLYNCgm+HVIJPh2RqgQ+BOwEBAQ
+X-IPAS-Result: AqYBALyHM1TBMWgenGdsb2JhbABfg2FYzFaIXRYBEQEBAQEBCAsJCRQshEIzDT0WGAMCAQIBWAYCAQEVA4gmnHCkWo9jEQFthDUFnT6BLYNCgm+HVIJPh2RqgQ+BOwEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,668,1406584800"; 
+   d="scan'208";a="74267006"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by a-mx1.relay.syrhano.net with ESMTP; 07 Oct 2014 08:30:54 +0200
+Received: from [192.168.0.21] (ip-72.net-80-236-38.suresnes.rev.numericable.fr [80.236.38.72])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 896D8A4F2C
+	for <bioinfo@sfbi.fr>; Tue,  7 Oct 2014 08:30:53 +0200 (CEST)
+Message-ID: <5433889D.7010301@lirmm.fr>
+Date: Tue, 07 Oct 2014 08:30:53 +0200
+From: Olivier Gascuel <gascuel@lirmm.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] 2 PhD positions at Zurich
+De la part de Maria Anisimova :
+Two Ph.D. student positions in computational science and phylogenetics
+Two three-year Ph.D. studentships in computational science and 
+phylogenetics are available jointly at the University of Zurich (UZH) 
+and the Zurich University of Applied Sciences (ZHAW). The research 
+project will focus on computational and statistical aspects of the 
+alignment and phylogenetic tree estimation.
+The project is collaboration between the Applied Computational Genomics 
+group of Maria Anisimova (Institute of Applied Simulations, ZHAW) and 
+Manuel Gil in the Bioinformatics and Systems Biology group of Christian 
+von Mering (Institute of Molecular Life Sciences, UZH). Both groups have 
+wide ranging expertise in computational biology. In addition, the 
+candidates will benefit from the group membership in the Swiss Institute 
+of Bioinformatics, providing further training and networking opportunities.
+The successful candidate will have a strong background in computational 
+science, including computational statistics, algorithmics, statistical 
+estimation procedures, and numerical analysis. Fluency in a 
+multi-paradigm programming language like C++ is required. Previous 
+knowledge in phylogenetics is a plus but is not required. The candidate 
+is expected to develop a background in phylogenetics and molecular 
+evolution.
+We are looking for an individual with a masters degree or equivalent, 
+who is highly self-motivated and can work independently. The working 
+language in the team is English. German skills, although helpful for 
+day-to-day life, are not essential. Ideally, the candidate would be able 
+to start on the 1st of February 2015.
+To be considered, please send a single (!) PDF file merged from the 
+following parts to maria.anisimova@zhaw.ch: CV including publication 
+list (if available), a scanned academic transcript (list of grades in 
+university courses), a motivation statement not exceeding two pages, and 
+three references. Please include "JATI2014" in the subject line of your 
+email. The application deadline is the 1st of November 2014, but the 
+candidates will be considered until the positions are filled.
+-- 
+Directeur de Recherche
+Institut de Biologie Computationnelle
+LIRMM-CNRS, UMR 5506 CNRS-UM2
+CC 05016, Campus St Priest
+BAT 5, 860 rue de St Priest
+34095 Montpellier cedex 5 - FRANCE
+04 67 41 85 47 - gascuel@lirmm.fr
+http://www.lirmm.fr/gascuel

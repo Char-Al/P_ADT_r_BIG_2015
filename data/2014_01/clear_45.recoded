@@ -1,0 +1,82 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=0851fdf70=Nicolas.Servant@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id CF83526801D
+	for <bioinfo@sfbi.fr>; Wed, 15 Jan 2014 17:48:08 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgUCAHO71lLBMc0knGdsb2JhbABZg0NWvBYWDgEBAQEBCBQJPII4JgEFCAEBKQcGAjsWGAMCAQIBSw0GAgKIBKdKhFIBBZgbBo4dEQGFDokTgkGMUIEwhRWOfjuBNTk
+X-IronPort-AV: E=Sophos;i="4.95,664,1384297200"; 
+   d="scan'208";a="60315665"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 15 Jan 2014 17:48:08 +0100
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1389804487; x=1421340487;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=2sOC36NqpSxppM8l7fnEYrdoU8+TYUTU9eAlJ0L1N7U=;
+  b=IgGUHNY00yaV8VX4tqHr12lGemio8Wwjnb2j1Z/l0Bhbwdxu3Pv//8Iu
+   YuCo/9PU2fl3AzTtfdR+zl8bWsYPaA==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqAEADy71lIKAgBG/2dsb2JhbABZg0NWvCx0gjgmAQUzBwY9FhgDAgECAUsNBgICzEeOHREBhQ4EiQ+CQYxQgTCFFY5+gXA5
+X-IPAS-Result: AqAEADy71lIKAgBG/2dsb2JhbABZg0NWvCx0gjgmAQUzBwY9FhgDAgECAUsNBgICzEeOHREBhQ4EiQ+CQYxQgTCFFY5+gXA5
+X-IronPort-AV: E=Sophos;i="4.95,664,1384297200"; 
+   d="scan'208";a="21848200"
+Received: from mbxparis01.curie.fr (HELO curie.fr) ([10.2.0.70])
+  by cip01-in.curie.fr with ESMTP; 15 Jan 2014 17:48:06 +0100
+Received: from [10.200.10.122] (10.200.10.122) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.1.289.1; Wed, 15 Jan 2014 17:48:06
+ +0100
+Message-ID: <52D6BBC6.8060207@curie.fr>
+Date: Wed, 15 Jan 2014 17:48:06 +0100
+From: Nicolas Servant <nservant@curie.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20130119 Icedove/10.0.12
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="ISO-8859-1"; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.122]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CDD Ingénieur NGS - Institut Curie
+Bonjour,
+Un poste d'ingénieur en Bioinformatiques / Biostatistiques pour l'analyse des données NGS est ouvert au Centre de Recherche de
+l'Institut Curie (http://www.curie.fr) à Paris.
+Le candidat travaillera au sein de la plate-forme bioinformatique de l'unité U900 de Bioinformatique et Biologie des Systèmes du Cancer (U900
+INSERM - Mines ParisTech - Institut Curie,http://u900.curie.fr), en co-supervision avec l'Unité Génétique et Biologie du Développement (http://ugbdd.curie.fr/).
+Contexte :
+L'Institut Curie est un acteur majeur dans le traitement et la recherche contre le Cancer. Composé à la fois d'un Hôpital et d'un Centre de
+Recherche, l'expertise de l'Institut Curie s'étend de la recherche fondamentale au soin du patient. L'objectif du Centre de Recherche de
+l'Institut Curie est de développer la recherche fondamentale et d'utiliser ces connaissances pour améliorer le diagnostic, le pronostic,
+le traitement des cancers dans le cadre du continuum entre la recherche fondamentale et l'innovation au service du malade.
+L'unité U900 compte près de 80 ingénieurs, chercheurs et étudiants en bioinformatique, biostatistiques et biologie des systèmes
+(mathématiciens, statisticiens, bioinformaticiens, informaticiens, biologistes, physiciens, médecins et bioanalystes).
+Missions :
+L'Institut Curie a aujourd'hui recours à des technologies de séquençage à haut débit (Illumina, Ion Torrent) qui génèrent plusieurs dizaines de
+gigabases de séquences par semaine et nécessitent des compétences et moyens bioinformatiques très importants.
+Au sein de la plate-forme bioinformatique U900, l'Ingénieur en Bioinformatique / Biostatistiques participera :
+- à la définition des stratégies d'analyse des données de grand séquençage,
+- à l'implémentation et à la mise en place des chaînes de traitement d'analyses,
+- aux analyses tertiaires des données en proche collaboration avec l'Unité Génétique et Biologie du Développement.
+Il sera impliqué dans les projets de recherche utilisant les séquenceurs haut débit pour des analyses de type RNA-seq, ChIP-seq, re-séquençage, etc.
+Profil recherché :
+Titulaire d'un diplôme d'ingénieur ou d'un master en biostatistique ou bioinformatique ou d'une thèse, vous disposez des compétences suivantes :
+- Fort intérêt pour le domaine des sciences biologiques.
+- Maîtrise des concepts et outils biostatistiques et bioinformatiques, en particulier ceux utilisés en génomique et pour les analyses de données NGS.
+- Maîtrise de l'environnement linux/unix.
+- Bonne connaissance des langages Perl et R (des connaissances en langage C,C++ seraient un plus).
+- Avoir un bon niveau d'anglais écrit et oral.
+- Avoir un bon sens relationnel, organisé, et consciencieux
+Une première expérience en analyse de données NGS sera appréciée.
+Lieu de travail : Paris (5e)
+Rémunération : Selon profil et expérience
+Adresser vos candidatures (CV, motivation et références par courrier électronique àbcsb68@curie.fr
+-- 
+Nicolas Servant
+Plateforme de Bioinformatique
+Unité 900 : Institut Curie - Inserm - Mines ParisTech
+26, rue d'Ulm - 75248 Paris Cedex 05 - FRANCE
+Email: Nicolas.Servant@curie.fr
+Tel: 01 56 24 69 85
+http://bioinfo.curie.fr/

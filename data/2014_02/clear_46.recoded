@@ -1,0 +1,41 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gagneur@genzentrum.lmu.de>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id A8A7B26801D
+	for <bioinfo@sfbi.fr>; Mon, 17 Feb 2014 12:42:43 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgAEAFX1AVONVC4KmWdsb2JhbABZgz6mdpozFg4BAQEBAQgLCwcUKIMUH26IXgmaX7BmFwSPGoIZD2aBFASZXoUQBY8KOw
+X-IronPort-AV: E=Sophos;i="4.95,860,1384297200"; 
+   d="scan'208";a="54092940"
+Received: from pluto.lmb.uni-muenchen.de ([141.84.46.10])
+  by b-mx1.relay.syrhano.net with ESMTP; 17 Feb 2014 12:42:43 +0100
+Received: from [10.163.241.252] (unknown [10.163.241.252])
+	by pluto.lmb.uni-muenchen.de (Postfix) with ESMTP id C1DE5511844C
+	for <bioinfo@sfbi.fr>; Mon, 17 Feb 2014 12:42:41 +0100 (CET)
+From: Julien Gagneur <gagneur@genzentrum.lmu.de>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 17 Feb 2014 12:42:41 +0100
+Message-Id: <2CCF5EB1-1CE9-4207-B036-387A2758E7BE@genzentrum.lmu.de>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1081)
+X-Mailer: Apple Mail (2.1081)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Systems Genetics and Evolution of non-human (model) organisms
+Dear all,
+you might be interested by the conference "Systems Genetics and Evolution o
+f non-human (model) organisms", May 18th to 22nd, 2014, in the terrific Asc
+ona, Switzerland:
+http://sge2014.epfl.ch/
+The abstract and registration deadline is March 1st.
+Best,
+Julien Gagneur
+Computational Genomics
+Gene Center
+Ludwig-Maximilians-Universit=E4t M=FCnchen
+Feodor-Lynen-Str. 25
+81377 M=FCnchen, Germany
+Phone: +49-89-2180-76742
+http://www.gagneur.genzentrum.lmu.de

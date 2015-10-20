@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=282929c96=virginie.bernard@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id DB51126801D
+	for <bioinfo@sfbi.fr>; Thu, 31 Jul 2014 14:23:50 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlcDABo02lPBMc0knGdsb2JhbABZg2BXAQOCK0nIOIhSFhABAQEBAQgLCQkUKYQWFw8BDQEBBzEYHAIFIQIRAkwNBgICiEIJiBWbOXeFAgEFkmIGgSyNPhEBbYJjgVGbaYcekQA7L4EMOQ
+X-IronPort-AV: E=Sophos;i="5.01,772,1400018400"; 
+   d="scan'208";a="70895979"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 31 Jul 2014 14:23:50 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1406809430; x=1438345430;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=J+F/kHrBlARaafMz7mlO2Ve0uVoT8y+2bapjpCogwAw=;
+  b=qxDzBOwaf2YTcm6pmIaAeIem6Hbxm/4ro+rp0ipQDs8Zxjl1Oir/uWQv
+   zdQv06Uj7YAexTPKMvm/Ran/ZbEoig==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqAJAPg02lMKAgBG/2dsb2JhbABZg2BXAQOCK0nIKQ+IaHeEFhcPARZJHAIFIQIRAkwNBgICiEuIFZwwl3CBLI0+EQFtgmOBUQEEm2SHHpEAaoEMOQ
+X-IPAS-Result: AqAJAPg02lMKAgBG/2dsb2JhbABZg2BXAQOCK0nIKQ+IaHeEFhcPARZJHAIFIQIRAkwNBgICiEuIFZwwl3CBLI0+EQFtgmOBUQEEm2SHHpEAaoEMOQ
+X-IronPort-AV: E=Sophos;i="5.01,772,1400018400"; 
+   d="scan'208";a="28920391"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip01-in.curie.fr with ESMTP; 31 Jul 2014 14:23:49 +0200
+Received: from [10.200.10.123] (10.200.10.123) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.3.174.1; Thu, 31 Jul 2014 14:23:49
+ +0200
+Message-ID: <53DA3554.10704@curie.fr>
+Date: Thu, 31 Jul 2014 14:23:48 +0200
+From: Virginie Bernard <vbernard@curie.fr>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.24) Gecko/20111120 Icedove/3.1.16
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.123]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDI autre] Bioinformaticien
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformaticien
+Type de poste : CDI autre
+Durée du poste :
+Ville : Ploufragan (Saint-Brieuc)
+Nom du contact : Yannick Blanchard
+Email du contact : yannick.blanchard@anses.fr
+Laboratoire : Agence Nationale de Sécurité Sanitaire (ANSES), Unité
+Génétique Virale et Biosécurité
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/bioinformaticien-8

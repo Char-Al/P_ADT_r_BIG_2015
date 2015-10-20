@@ -1,0 +1,93 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gtpb-bounces@igc.gulbenkian.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id A83E926801D
+	for <bioinfo@sfbi.fr>; Fri, 28 Feb 2014 14:12:05 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjABAOyKEFPBiV4Fl2dsb2JhbABag0FLDMIvFg4BAQEBAQgWBzyCJwYBAUMKHg4DAQIGAisdCAMBCxgBNRMFDwiHYQmpOaISjFqEMA+BegSJEoxRglWBM4UYiguFAw
+X-IronPort-AV: E=Sophos;i="4.97,561,1389740400"; 
+   d="scan'208";a="62719951"
+Received: from igcns.igc.gulbenkian.pt ([193.137.94.5])
+  by a-mx1.relay.syrhano.net with ESMTP; 28 Feb 2014 14:11:49 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by igcns.igc.gulbenkian.pt (Postfix) with ESMTP id 4B6F45C1DC;
+	Fri, 28 Feb 2014 13:11:48 +0000 (WET)
+X-Virus-Scanned: Debian amavisd-new at igcns
+Received: from igcns.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igcns.igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 1yN2Tcv5NpTR; Fri, 28 Feb 2014 13:11:48 +0000 (WET)
+Received: from [127.0.1.1] (mx00.igc.gulbenkian.pt [192.168.50.10])
+	by igcns.igc.gulbenkian.pt (Postfix) with ESMTP id BE2365C155;
+	Fri, 28 Feb 2014 13:11:47 +0000 (WET)
+X-Original-To: gtpb@igc.gulbenkian.pt
+Delivered-To: gtpb@igc.gulbenkian.pt
+Received: from localhost (localhost [127.0.0.1])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id BDB242B60DE
+	for <gtpb@igc.gulbenkian.pt>; Fri, 28 Feb 2014 13:10:19 +0000 (WET)
+Received: from mx00.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id eJV-nf38zRd5 for <gtpb@igc.gulbenkian.pt>;
+	Fri, 28 Feb 2014 13:10:19 +0000 (WET)
+Received: from webmail.igc.gulbenkian.pt (webmail.igc.gulbenkian.pt
+	[192.168.50.6])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 1437F2B60DB
+	for <gtpb@igc.gulbenkian.pt>; Fri, 28 Feb 2014 13:10:19 +0000 (WET)
+Received: from localhost (localhost [127.0.0.1])
+	by webmail.igc.gulbenkian.pt (Postfix) with ESMTPA id 0630964C24
+	for <gtpb@igc.gulbenkian.pt>; Fri, 28 Feb 2014 13:10:19 +0000 (WET)
+Received: from a85-139-1-58.cpe.netcabo.pt (a85-139-1-58.cpe.netcabo.pt
+	[85.139.1.58]) by webmail.igc.gulbenkian.pt (Horde Framework) with HTTP;
+	Fri, 28 Feb 2014 13:10:18 +0000
+Message-ID: <20140228131018.88257eiw6efjjwl6@webmail.igc.gulbenkian.pt>
+Date: Fri, 28 Feb 2014 13:10:18 +0000
+From: Pedro Fernandes <pfern@igc.gulbenkian.pt>
+To: gtpb <gtpb@igc.gulbenkian.pt>
+MIME-Version: 1.0
+Content-Disposition: inline
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.6)
+X-Mailman-Approved-At: Fri, 28 Feb 2014 13:11:23 +0000
+X-BeenThere: gtpb@igc.gulbenkian.pt
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: The Gulbenkian Training Programme in Bioinformatics
+	<gtpb.igc.gulbenkian.pt>
+List-Unsubscribe: <https://lists.igc.gulbenkian.pt/mailman/options/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=unsubscribe>
+List-Archive: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb>
+List-Post: <mailto:gtpb@igc.gulbenkian.pt>
+List-Help: <mailto:gtpb-request@igc.gulbenkian.pt?subject=help>
+List-Subscribe: <https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=subscribe>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="iso-8859-1"; Format="flowed"; DelSp="Yes"
+Sender: gtpb-bounces@igc.gulbenkian.pt
+Errors-To: gtpb-bounces@igc.gulbenkian.pt
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Gtpb] GTPB 2014 announcement
+Dear GTPB mailing  list member,
+You may have noticed that GTPB has not started in January as before.
+This was due to my being away from my job for health reasons. All is
+well now so the Programme will be resumed.
+The GTPB programme is about to launch a new package of training
+courses. Some of them are improved versions of courses that we offered
+before, while several others are brand new designs, aiming at
+satisfying the perceived needs of the community of Bioinformatics
+users and developers.
+Please be attentive at the release message and /or to the GTPB website.
+Thank you
+Pedro Fernandes
+--
+Pedro Fernandes
+GTPB Coordinator
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb

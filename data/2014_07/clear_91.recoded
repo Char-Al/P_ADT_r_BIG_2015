@@ -1,0 +1,67 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=282929c96=virginie.bernard@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id E25CC26801D
+	for <bioinfo@sfbi.fr>; Thu, 31 Jul 2014 14:04:56 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvQCAF8w2lPBMc0knGdsb2JhbABZg2BXAQOCdMg4iFIWEAEBAQEBCAsJCRQphC0PAQ0BAQcvAjQCBRYLAgsDAgECAToRDQYCAog+BAmjTneFAgEFkmEGgSyNPhEBbYJjgVGbaYcekQBqgQw5
+X-IronPort-AV: E=Sophos;i="5.01,771,1400018400"; 
+   d="scan'208";a="62456475"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by b-mx1.relay.syrhano.net with ESMTP; 31 Jul 2014 14:04:56 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1406808296; x=1438344296;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=HU35SfZZ4mS1Ji9dMbpqQ6HsCoBFq/BqvoSovcHYGHA=;
+  b=P9XkYwdXZlQrY7SU2I6MYhvvlMaErEQP0WumtZrCGjcD6seQHlB3vY6S
+   SZ9iVZv20eS4xPxkfCAVHL1DaKDcqg==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlYJAAow2lOBrzsk/2dsb2JhbABZgw4BUVcBA4J0yCkPiFIWd4QtDwENAQEHLwI0AgUWCwILAwIBAgE6EQ0GAgKIPg2jTneFAgEFkmEGgSyNPhEBbYJjgVGbaYcejTWDSzsvgQw5
+X-IPAS-Result: AlYJAAow2lOBrzsk/2dsb2JhbABZgw4BUVcBA4J0yCkPiFIWd4QtDwENAQEHLwI0AgUWCwILAwIBAgE6EQ0GAgKIPg2jTneFAgEFkmEGgSyNPhEBbYJjgVGbaYcejTWDSzsvgQw5
+X-IronPort-AV: E=Sophos;i="5.01,771,1400018400"; 
+   d="scan'208";a="28919901"
+Received: from cip02-in.curie.u-psud.fr ([129.175.59.36])
+  by cip01-in.curie.fr with ESMTP; 31 Jul 2014 14:04:55 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1406808295; x=1438344295;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=HU35SfZZ4mS1Ji9dMbpqQ6HsCoBFq/BqvoSovcHYGHA=;
+  b=nUMrsYDqNIxP1PyFB7uPZ5M5MiVPSzdCphAO/EgMjGLaVrNTlQ1dv0KL
+   DZWfScLoAq2axd9yoNJv/2dW65iY/g==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AokIAEUw2lMKAgBG/2dsb2JhbABZg2BXAQOCdMgpD4hod4QtDwEWLzYCBRYLAgsDAgECAToRDQYCAohLpEWXb4EsjT4RAW2CY4FRBZtkhx6RAGqBDDk
+X-IPAS-Result: AokIAEUw2lMKAgBG/2dsb2JhbABZg2BXAQOCdMgpD4hod4QtDwEWLzYCBRYLAgsDAgECAToRDQYCAohLpEWXb4EsjT4RAW2CY4FRBZtkhx6RAGqBDDk
+X-IronPort-AV: E=Sophos;i="5.01,771,1400018400"; 
+   d="scan'208";a="4998762"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip02-in.curie.u-psud.fr with ESMTP; 31 Jul 2014 14:04:55 +0200
+Received: from [10.200.10.123] (10.200.10.123) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.3.174.1; Thu, 31 Jul 2014 14:04:54
+ +0200
+Message-ID: <53DA30E6.2010707@curie.fr>
+Date: Thu, 31 Jul 2014 14:04:54 +0200
+From: Virginie Bernard <vbernard@curie.fr>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.24) Gecko/20111120 Icedove/3.1.16
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.123]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD autre] Gestionnaire de =?UTF-8?Q?donn=C3=A9es?= scientifiques
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Gestionnaire de données scientifiques
+Type de poste : CDD autre
+Durée du poste : 6 mois renouvelable
+Ville : Caen
+Nom du contact : Madame le Professeur GALATEAU SALLE
+Email du contact : galateausalle-f@chu-caen.fr
+Laboratoire : Anatomie - Anapathologie CRN-Mesopath
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/gestionnaire-de-donn%C3%A9es-scientifiques

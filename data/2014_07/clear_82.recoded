@@ -1,0 +1,102 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <nicolas.tchitchek@cea.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5A6E926801D
+	for <bioinfo@sfbi.fr>; Mon, 28 Jul 2014 16:52:51 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: An4BAIBj1lOEqOAInGdsb2JhbABZgmqBTQTLfIdPAYEPFhABAQEBAQgLCQkUKYQFBQxoFwEqGSoTJgEEEwiIOgGXcZ9NhmEXjxuCcA9EJIEbBYo3hi+hNYFGbIFF
+X-IronPort-AV: E=Sophos;i="5.01,749,1400018400"; 
+   d="scan'208";a="62326697"
+Received: from oxalide-out.extra.cea.fr ([132.168.224.8])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 Jul 2014 16:52:50 +0200
+Received: from pisaure.intra.cea.fr (pisaure.intra.cea.fr [132.166.88.21])
+	by oxalide.extra.cea.fr (8.14.2/8.14.2/CEAnet-Internet-out-2.3) with ESMTP id s6SEqnql002044
+	for <bioinfo@sfbi.fr>; Mon, 28 Jul 2014 16:52:50 +0200
+Received: from pisaure.intra.cea.fr (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id C7D0F2061F1
+	for <bioinfo@sfbi.fr>; Mon, 28 Jul 2014 16:55:35 +0200 (CEST)
+Received: from muguet1.intra.cea.fr (muguet1.intra.cea.fr [132.166.192.6])
+	by pisaure.intra.cea.fr (Postfix) with ESMTP id BAF732061CA
+	for <bioinfo@sfbi.fr>; Mon, 28 Jul 2014 16:55:35 +0200 (CEST)
+Received: from EXCAH-B3.intra.cea.fr (excah-b3.intra.cea.fr [132.166.88.88])
+	by muguet1.intra.cea.fr (8.13.8/8.13.8/CEAnet-Intranet-out-1.2) with ESMTP id s6SEqnlu003241
+	for <bioinfo@sfbi.fr>; Mon, 28 Jul 2014 16:52:49 +0200
+Received: from EXDAG0-A1.intra.cea.fr ([fe80::ac4c:b0e6:f68e:69cf]) by
+ EXCAH-B3.intra.cea.fr ([fe80::947a:e02d:e083:3de0%10]) with mapi id
+ 14.03.0174.001; Mon, 28 Jul 2014 16:52:49 +0200
+From: TCHITCHEK Nicolas 241696 <nicolas.tchitchek@cea.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: [Emploi][Stage]_Stage_Master_2_Recherche_-_Meta-analyse_tr
+ anscriptomique_des_gènes_LILR_au_cours_des_interactions_
+ hôte/pathogène
+Thread-Index: Ac+qcz2CXmweqexkQ9aUCsl9t5Ue0A=
+Date: Mon, 28 Jul 2014 14:52:48 +0000
+Message-ID: <1DB4E563CEA52D4484787653974833A6D4AA43@EXDAG0-A1.intra.cea.fr>
+Accept-Language: en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [132.166.88.106]
+x-tm-as-product-ver: SMEX-10.2.0.1135-7.500.1017-20752.007
+x-tm-as-result: No--24.412800-0.000000-31
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] Stage Master 2 Recherche - Meta-analyse transcriptomique des gènes LILR au cours des interactions hôte/pathogène
+Sujet:
+Meta-analyse transcriptomique de l'expression des gènes de la famille LIL
+R au cours des interactions hôte/pathogène.
+Contexte:
+Le système immunitaire joue un rôle essentiel dans la lutte quotidienne
+ contre les agents infectieux. Néanmoins, certains pathogènes sont capa
+bles de contrôler le développement de la réponse immunitaire de l'h
+ôte et de l'envahir. Les mécanismes mis en jeu dans la modulation des r
+éponses immunitaires impliquent les cellules présentatrices d'antigèn
+es professionnelles. Celles-ci peuvent réguler les réponses immunitaire
+s innées et adaptatives à travers la stimulation des récepteurs de la
+ famille LILR (Leukocyte Immunoglobulin-Like Receptors - également appel
+és ILT) présents à leur surface (1). Il a été montré que certai
+ns récepteurs LILR sont la cible de pathogènes tel que le VIH, la dengu
+e ou encore la lèpre. Dans ce cas, le pathogène est capable d'induire u
+ne surexpression des LILR afin d'induire une dysfonction de la réponse im
+munitaire et ainsi lui échapper (2-5).
+Projet:
+L'objectif de ce stage vise à réaliser une méta-analyse des profils d
+'expression des LILR au cours de différentes pathologies infectieuses.
+Dans un premier temps, un travail bibliographique sera à effectuer afin d
+'identifier des données transcriptomiques et éventuellement protéomiq
+ues publiques (NCBI-GEO, EBI-AE, EBI-PRIDE) d'intérêt pour notre étud
+e. Ces données seront très majoritairement issues d'études impliquant
+ des pathologies infectieuses au sein de cohortes de patients ainsi que de 
+modèles d'infection primates non humains. Dans un deuxième temps, le tr
+avail consistera à analyser les profils d'expression des gènes LILR en 
+se basant sur ces données. Le but sera principalement d'identifier les g
+ènes LILR corrélant le plus significativement aux variables phénotypi
+ques pour chacune des études. L'analyse permettra aussi d'identifier les 
+mécanismes biologiques impliquant les gènes LILR et corrélant avec le
+s pathologies. Celle-ci se fera principalement grâce à des scripts R/Bi
+oconducteur. Les enrichissements fonctionnels se feront par l'intermédiai
+re d'Ingenuity Pathway Analysis et d'EnrichR. L'analyse impliquera de par s
+a nature des comparaisons entre des espèces et plateformes différentes.
+Références:
+1 - Anderson KJ & Allen RL, Immunology 127, 8-17 (2009)
+2 - Cosman D et al. Immunity 7, 273-82 (1997)
+3 - Bleharski JR et al. Science 301, 1527-30 (2003)
+4 - Huang J et al J exp med 206, 2959-66 (2009)
+5 - Bashirova A et al. Plos Genetics e1004196 (2014)
+Compétences souhaitées:
+Notions en physiopathologie des organismes supérieurs.
+Notions en bio-informatique et R/Bioconducteur.
+Modalités du stage:
+Stage d'une durée de 6 mois, début du stage entre fin 2014-début 2015.
+Le stage se déroulera dans le Service d'Immuno-Virologie du Commissariat 
+à l'Energie Atomique de Fontenay-aux-Roses.
+Contacts:
+Veuillez faire parvenir un curriculum vitae à :
+Beno=EEt Favier benoit.favier@cea.fr et Nicolas Tchitchek nicolas.tchitchek
+@cea.fr

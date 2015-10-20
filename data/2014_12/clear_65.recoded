@@ -1,0 +1,123 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <chentli.imene@hotmail.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id E928126801D
+	for <bioinfo@sfbi.fr>; Tue, 23 Dec 2014 10:02:39 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsIDACEvmVRBN2+nm2dsb2JhbABbg1gmMoI9R7dyi0GFdAKBFRYBAQEBAREBAQEBAQYLCwkULoQNAQEEDAYLBhUwIQkcAiYCAkcQEwMDAgEBBBQGh3UBFJ0dkR8Bi0iBa45KAYVnAQEBBwEBAQEBARyBIYxEghSCaC6BEwWFJxSjE4QRboJDAQEB
+X-IPAS-Result: AsIDACEvmVRBN2+nm2dsb2JhbABbg1gmMoI9R7dyi0GFdAKBFRYBAQEBAREBAQEBAQYLCwkULoQNAQEEDAYLBhUwIQkcAiYCAkcQEwMDAgEBBBQGh3UBFJ0dkR8Bi0iBa45KAYVnAQEBBwEBAQEBARyBIYxEghSCaC6BEwWFJxSjE4QRboJDAQEB
+X-IronPort-AV: E=Sophos;i="5.07,630,1413237600"; 
+   d="scan'208";a="70187287"
+Received: from blu004-omc4s28.hotmail.com ([65.55.111.167])
+  by b-mx1.relay.syrhano.net with ESMTP; 23 Dec 2014 10:02:39 +0100
+Received: from BLU436-SMTP235 ([65.55.111.137]) by BLU004-OMC4S28.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.22751);
+	 Tue, 23 Dec 2014 01:01:53 -0800
+X-TMN: [CJ3fkP7W52XADMSDcuIY+p2QiBM8bFEW]
+X-Originating-Email: [chentli.imene@hotmail.fr]
+Message-ID: <BLU436-SMTP23541CA6945736DEFC457678F570@phx.gbl>
+Date: Tue, 23 Dec 2014 10:01:48 +0100
+From: =?UTF-8?B?SW3DqG5l?= <chentli.imene@hotmail.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:31.0) Gecko/20100101 Thunderbird/31.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <54992B61.80601@hotmail.fr>
+In-Reply-To: <54992B61.80601@hotmail.fr>
+X-Forwarded-Message-Id: <54992B61.80601@hotmail.fr>
+Content-Type: text/plain; charset="utf-8"; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-OriginalArrivalTime: 23 Dec 2014 09:01:50.0996 (UTC) FILETIME=[17120D40:01D01E8F]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Invitation aux Montpellier Omics Days 2015
+Above in English
+--------------
+Bonjour,
+Nous avons le plaisir, le Comité d'Organisation avec M. Alban
+ Mancheron
+(LIRMM(1)) et Mme Anna-Sophie Fiston-Lavier (ISEM(2)), de vous faire
+part de notre invitation à la troisième (3ème) édit
+ion des Montpellier
+Omics Days MOD2015 qui se tiendra les 9 et 10 février 2015 sur le cam
+pus
+de l'Université de Montpellier 2.
+Cet évènement s'inscrit dans le cadre de la formation 
+=C2" Bioinformatique,
+Connaissances et Données =C2" (BCD) du Master =C2" STIC pour la S
+anté =C2".
+Les MOD2015 sont un rendez-vous pluridisciplinaire où de nombreux
+ingénieurs et chercheurs en biologie, informatique et bioinformatique
+sont conviés pour aborder différentes thématiques autour 
+des Omiques.
+Les objectifs de cet évènement sont de connaïtre les avan
+cées actuelles
+dans le traitement et l'analyse de données biologiques et e
+=CC=81galement
+d'établir un pont communicatif entre les différentes te
+chniques
+d'analyses de ces données et leurs traitements in silico.
+Les MOD2015 sont organisés en deux jours :
+   - le 9 février : une conférence animée par cinq pre=CC
+=81sentations
+scientifiques autour des travaux actuels de recherche. La nouveauté d
+e
+cette édition est l'exposition de posters scientifiques organ
+isée le
+mëme jour pour permettre plus d'échanges entre les diff
+érents acteurs.
+   - le 10 février : un workshop décliné en deux parties 
+est organisé
+pour les biologistes et bioinformaticiens souhaitant s'initier aux
+commandes Linux. La seconde partie consistera à approfondir les
+connaissances en analyse et traitement de données.
+L'appel à soumission pour les présentations scientifiqu
+es, l'exposition
+des posters et le workshop sont accessibles à l'adresse suiva
+nte :
+http://www.lirmm.fr/bcd/MOD2015/
+La participation à cet évènement est entièrement gr
+atuite mais pour des
+raisons d'organisation, l'inscription à la journe=CC
+=81e de conférence ainsi
+qu'aux deux workshops est obligatoire.
+N'hésitez pas à nous contacter pour toute interrogation
+ à l'adresse
+suivante : omicsdays2015@listes.univ-montp2.fr
+Bien cordialement,
+Le Comité d'Organisation MOD2015.
+ï=BF=BC(1) LIRMM : Laboratoire d'Informatique, de Robotique et de
+Microélectronique de Montpellier
+(2) ISEM : Institut des Sciences de l'Évolution de Montpellier
+Dear all,
+We are pleased, the Organisation Committee, with Alban Mancheron
+(LIRMM(1)) and Anna-Sophie Fiston-Lavier (ISEM(2)), to invite you for
+the third edition of Montpellier Omics Days MOD2015 which will be held
+on february 9th and 10th at the Montpellier University.
+This event is part of training =C2" Bioinformatique, Connaissances et
+Données =C2" (BCD) of =C2" STIC pour la Santé =C2" Master
+ degree. MOD2015 is a
+multidisciplinary meeting where many engineers and researchers in
+biology, computer science and bioinformatics are invited to discuss
+various issues around the Omics. The event's aims are to be aware o
+f
+current advances in the biological data processing and analysis and also
+to establish a communicative bridge between different technical analysis
+of these various data and their in silico treatment.
+The MOD2015 are organized in two days :
+   - 9th february : five scientific presentations around the current
+research are held. The novelty of this edition is the scientific posters
+exhibition organized on the same day to allow more interactions between
+the different actors.
+   - 10th february : a two-part workshop is organized for biologists and
+bioinformaticians wishing to learn Linux commands. the second part of
+the workshop is dedicated to enhance the knowledge in data treatments
+and analysis.
+The call for submissions for the scientific presentations, exhibition
+posters and workshop are available at the following address :
+http://www.lirmm.fr/bcd/MOD2015/
+The participation in this event (conferences and the workshop) is free
+and registrations are required.
+Do not hesitate to contact us for any question at :
+omicsdays2015@listes.univ-montp2.fr
+Looking forward seeing you in Montpellier.
+The Organisation Committee MOD2015.

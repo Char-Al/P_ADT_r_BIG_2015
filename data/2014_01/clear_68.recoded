@@ -1,0 +1,61 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Andrey.Kajava@crbm.cnrs.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 4B71D26801D
+	for <bioinfo@sfbi.fr>; Thu, 23 Jan 2014 17:02:37 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AswBAMU84VLBMYQUnGdsb2JhbABbg0SOMwavIBYOAQEBAQEIFAk8gjgmAQU1Cz0WBBQDAgECAVgGAgEBBYgACZpFlk6Ub4tMg1GEIgSYI4ZHjRAwgT8
+X-IronPort-AV: E=Sophos;i="4.95,706,1384297200"; 
+   d="scan'208";a="52840849"
+Received: from mx.montp.cnrs.fr ([193.49.132.20])
+  by b-mx1.relay.syrhano.net with ESMTP; 23 Jan 2014 17:02:21 +0100
+Received: from opale (opale.sic.montp.cnrs.fr [194.57.116.90])
+	by mx.montp.cnrs.fr  with ESMTP id s0NG2KZG012040-s0NG2KZH012040
+	for <bioinfo@sfbi.fr>; Thu, 23 Jan 2014 17:02:20 +0100
+Received: from opale (localhost [127.0.0.1])
+	by opale (Postfix) with ESMTP id 5954C11780C9
+	for <bioinfo@sfbi.fr>; Thu, 23 Jan 2014 17:01:52 +0100 (CET)
+Received: from [10.4.130.99] (pouchkine.crbm.int [10.4.130.99])
+	by opale (Postfix) with ESMTPSA id 065421075FAF
+	for <bioinfo@sfbi.fr>; Thu, 23 Jan 2014 17:01:52 +0100 (CET)
+Message-ID: <52E13D47.8050708@crbm.cnrs.fr>
+Date: Thu, 23 Jan 2014 17:03:19 +0100
+From: "Andrey.Kajava" <Andrey.Kajava@crbm.cnrs.fr>
+Reply-To: Andrey.Kajava@crbm.cnrs.fr
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: ClamAV using ClamSMTP
+X-FEAS-SPF: PASS / PASS ( ip="194.57.116.90", helo="", mailFrom="andrey.kajava@crbm.cnrs.fr" ) ( headerFrom="andrey.kajava@crbm.cnrs.fr" )
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] A young investigator position open at the Institute for Computational
+ Biology (IBC) of Montpellier (France)
+A young investigator position open at the Institute for Computational 
+Biology (IBC) of Montpellier (France)
+We plan to hire a young investigator, typically with a PhD plus some 
+post-doc experience, a good level of publishing, communication 
+abilities, and a taste for multidisciplinary research.  Our project aims 
+at the development and integration of bioinformatics tools for an 
+interdisciplinary project dealing with structural and/or functional 
+annotations of pathogen proteomes.
+We are seeking a high level computer scientist with strong experience in 
+bioinformatics and solid programming skills; knowledge in 3D protein 
+structures and/or statistical learning would be a plus.
+The successful candidate will have good knowledge in one or several of 
+the following topics: statistical learning, hidden Markov models, 
+pattern matching, 3D and geometry algorithmics, protein domains, 
+unstructured regions, tandem repeats, gene ontology.
+The researcher will benefit from an exceptional environment thanks to 
+the presence of numerous leading international researchers. This 
+position is open for up to 4 years with a salary above the French 
+post-doc standard.
+Living at Montpellier: http://www.agropolis.org/english/guide/index.html
+Submit your application by using web-page: 
+http://www.ibc-montpellier.fr/open-positions/young-investigators#wp3-annotation 
+Contacts:
+Laurent Bréhélin (brehelin@lirmm.fr)
+Andrey Kajava (andrey.kajava@crbm.cnrs.fr)

@@ -1,0 +1,27 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id D8F9926801D; Tue, 25 Nov 2014 20:42:48 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: aurelien.barre@u-bordeaux2.fr
+Message-ID: <sympa.1416939521.16911.76@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue, 25 Nov 2014 20:42:48 +0100 (CET)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] M2 - Stage finishing de =?ISO-8859-1?Q?g=E9nomes?=
+Sujet : Extension de la plateforme de génomique comparative MolliGen pour le finishing de génomes
+Lieu : Centre de Bioinformatique de Bordeaux (CBiB), Université de Bordeaux
+Notre laboratoire (le CBiB) participe depuis de nombreuses années au développement et à la maintenance d'une plateforme de génomique comparative dédiée aux mollicutes : MolliGen (http://services.cbib.u-bordeaux2.fr/molligen/). Ces bactéries minimalistes sont particulièrement étudiées pour leur phénomène de virulence ainsi que dans le cadre de la biologie syntétique. L'avènement des nouvelles technologie de séquençage entrainant une forte baisse du cout de séquençage, un grand nombre de nouvelles souches de mollicutes sont en cours de séquençage. L'arrivée de ces nouvelles données NGS nécessite un effort particulier sur le traitement des séquences qui restent très fragmentées après l'étape de reconstruction du génome. L'objectif de ce stage est d'étendre les fonctionnalités de la la plateforme MolliGen en y intégrant le logiciel de finishing MIX, développé localement, pour offrir aux utilisateurs biologistes des génomes les plus complets possible avant les étapes d'annotation et de comparaison des génomes. Ainsi, à la fin de ce stage, il devrait être possible d'assembler les génomes de mollicutes à partir de données de rends et jusqu'à l'étape de finishing et ce de façon automatisée. Durant le stage il sera nécessaire de comprendre le fonctionnement et les besoins du logiciel Mix et de ses étapes de pré-traitement, puis de définir les modalités pour le rendre disponible au travers d'une plateforme web existante. Ce travail s'effectuera au sein d'un laboratoire de bioinformatique (le CBiB) mais aussi en relation étroite avec des utilisateurs pour l'expertise des résultats produits par MIX.
+Profil recherché :
+-Familiarité du système d'exploitation Unix, ligne de commande et script 
+-Solides connaissances en langages de programmation Perl, Python et PHP
+-Bon relationnel
+-Autonomie
+-Aisance en anglais écrit et oral recommandée
+Rémunération : 436 euros.
+Envoi des CV et lettre de motivation, contact : Aurélien BARRE : aurelien.barre@u-bordeaux2.fr et Macha Nikolski : macha@labri.fr 

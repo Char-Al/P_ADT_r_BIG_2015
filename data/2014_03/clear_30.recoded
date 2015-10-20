@@ -1,0 +1,51 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <martin.kuiper@ntnu.no>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id D5A6D26801D
+	for <bioinfo@sfbi.fr>; Sun,  9 Mar 2014 19:43:07 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsIBAIi1HFOB8TjhlWdsb2JhbABag0HCDYEMFg4BAQEBCQsJCRIqgicFHR1RASoSAkIfBwEEG4dxDZ8KsBwXjDWBdYNcgRQElFmZRg
+X-IronPort-AV: E=Sophos;i="4.97,619,1389740400"; 
+   d="scan'208";a="63131281"
+Received: from hylle05.itea.ntnu.no ([129.241.56.225])
+  by a-mx1.relay.syrhano.net with ESMTP; 09 Mar 2014 19:43:07 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by hylle05.itea.ntnu.no (Postfix) with ESMTP id A22DF9A4E25
+	for <bioinfo@sfbi.fr>; Sun,  9 Mar 2014 19:43:05 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at hylle05.itea.ntnu.no
+Received: from NTNU-EXCAS03.win.ntnu.no (ntnu-excas03.itea.ntnu.no [129.241.26.61])
+	by hylle05.itea.ntnu.no (Postfix) with ESMTP id 3C0E49A4DA8
+	for <bioinfo@sfbi.fr>; Sun,  9 Mar 2014 19:43:05 +0100 (CET)
+Received: from WAREHOUSE03.win.ntnu.no ([169.254.3.32]) by
+ NTNU-EXCAS03.win.ntnu.no ([129.241.26.61]) with mapi id 14.03.0174.001; Sun,
+ 9 Mar 2014 19:43:05 +0100
+From: Martin Kuiper <martin.kuiper@ntnu.no>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: competitive call for postdoctoral fellows
+Thread-Index: Ac83siLeHKCVq2gsR4OhqYHIeaP8egEC4w6AAAJhjhA
+Date: Sun, 9 Mar 2014 18:43:04 +0000
+Message-ID: <CEA9AED03879584B91B5148D72F173574805FEFC@WAREHOUSE03.win.ntnu.no>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+X-Ntnu-xOriginatingIp: [193.71.110.99]
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] competitive call for postdoctoral fellows
+Dear all,
+The Faculty of Natural Sciences and Technology at NTNU has set up the FINS 
+initiative to support excellent junior scientists from outside Norway who p
+lan to submit applications for independent research fellowships (such as Ma
+rie Slodowska Curie (MSC) Individual Fellowships, etc.) in order to pursue 
+an academic research career. I am inviting PhDs in semantic web technologie
+s who would like to do postdoctoral work in Norway to apply. More informati
+on can be found on: http://www.ntnu.edu/nt/research/fins and on http://www.
+ntnu.edu/nt/research/fins/biology/kuiper-lab. It would be great if you coul
+d forward this to potentially interested parties.
+Best regards,
+Martin Kuiper

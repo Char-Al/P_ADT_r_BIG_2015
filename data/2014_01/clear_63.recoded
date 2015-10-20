@@ -1,0 +1,70 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Guy.Perriere@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2553126801D
+	for <bioinfo@sfbi.fr>; Thu, 23 Jan 2014 08:35:29 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjYCAPHF4FJS2G8mnGdsb2JhbABbg0SOAq9TFg4BAQEBAQYNCQkUKII4gTxPiDwJmUeQHJssjiV0ghkPZoEUBJlUlBSBaA
+X-IronPort-AV: E=Sophos;i="4.95,704,1384297200"; 
+   d="scan'208";a="60735035"
+Received: from smtp2.tech.numericable.fr ([82.216.111.38])
+  by a-mx1.relay.syrhano.net with ESMTP; 23 Jan 2014 08:35:03 +0100
+Received: from kantkino.home (45.57-226-89.dsl.completel.net [89.226.57.45])
+	by smtp2.tech.numericable.fr (Postfix) with ESMTP id 081F85FD3D
+	for <bioinfo@sfbi.fr>; Thu, 23 Jan 2014 08:34:48 +0100 (CET)
+From: Guy_Perrière <Guy.Perriere@univ-lyon1.fr>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 23 Jan 2014 08:34:48 +0100
+Message-Id: <3BABCCAE-2E63-4251-9311-82073E22A880@univ-lyon1.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1085)
+X-Mailer: Apple Mail (2.1085)
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSCORE: 0
+X-VR-SPAMCAUSE: gggruggvucftvghtrhhoucdtuddrfeejtddrheefgddukecutefuodetggdotefrucfrrhhofhhilhgvmecupfgfoffgtffkveetuefngfenuceurghilhhouhhtmecufedttdenuc
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Workshop Bioinformatique pour la Génomique Environnementale Lyon 27-28 mai
+Bonjour à tous,
+Le workshop "Bioinformatique pour la Génomique Environnementale", organis
+é sous l'égide du Réseau Thématique Pluridisciplinaire en Génomiq
+ue Environnementale (RTP-GE) du CNRS, se déroulera à Lyon les 27 et 28 
+mai 2014. Ce workshop vise à rassembler des chercheurs de différents do
+maines qui utilisent (ou sont désireux d'utiliser) les nouvelles technolo
+gies de séquen=E7age ainsi que les développements les plus récents en
+ bioinformatique, ceci dans le but d'étudier des questions relatives à 
+l'écologie, l'évolution, la biodiversité, la systématique ainsi que
+ la génomique des populations.
+Les thématiques abordées par ce workshop sont les suivantes :
+ - Traitement des données de séquences.
+ - Phylogénie et classification.
+ - Estimation de la biodiversité.
+ - Diversité génomique et analyse de variants.
+ - Métagénomique et métatranscriptomique.
+ - Génomique des populations.
+ - Reconstruction de génomes.
+ - Reconstructions métaboliques.
+ - Modélisation.
+Chacune de ces thématiques pourra faire l'objet d'une session à part en
+tière, ceci en fonction du nombre de contributions correspondantes re=E7u
+es. Trente contributions orales et cent contributions affichées seront re
+tenues.
+Nous vous invitons à vous inscrire et à soumettre un résumé pour un
+e communication orale ou affichée. Les procédures relatives à l'inscr
+iption et à la soumission de résumés sont détaillées dans la sect
+ion "Informations pratiques" du site, qui est accessible à l'adresse :
+http://ge-lyon2014.sciencesconf.org/
+Notez que la langue officielle du workshop est l'anglais. La date de clotur
+e des soumissions est fixée au vendredi 18 avril et la date limite pour l
+es inscriptions est fixée au dimanche 27 avril. Compte-tenu des capacit
+és d'accueil limitées à 450 personnes, nous nous réservons le droit
+ de refuser les inscriptions au delà de ce seuil. Les frais d'inscription
+s s'élèvent à 60 Euros TTC et incluent les déjeuners, pauses café
+ et le cocktail d=EEnatoire du 27 mai.
+Pour le Comité Scientifique du RTP-GE et le Comité de Programme :
+--
+Guy Perrière - Laboratoire BBE - Université Claude Bernard Lyon 1
+43 bd. du 11 Novembre 1918 - 69622 Villeurbanne Cedex - France
+http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html

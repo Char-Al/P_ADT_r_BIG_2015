@@ -1,0 +1,63 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <tobias.verbeke@openanalytics.eu>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7DC8826801D
+	for <bioinfo@sfbi.fr>; Mon, 11 Aug 2014 17:00:19 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjcFAMrZ6FMuEiU9/2dsb2JhbABbgw1SQRYEgnSyTpc/h0wBgRgWd4QKI2gBIgINGQJZAheIRp1EjyuVIBeBLIRVA4Uzg2E7FoJjgVMFkhSYZ4Yvg15qgUc
+X-IronPort-AV: E=Sophos;i="5.01,842,1400018400"; 
+   d="scan'208";a="62842529"
+Received: from mail.openanalytics.eu ([46.18.37.61])
+  by b-mx1.relay.syrhano.net with ESMTP; 11 Aug 2014 17:00:19 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.openanalytics.eu (Postfix) with ESMTP id 8FB4B39CBF1
+	for <bioinfo@sfbi.fr>; Mon, 11 Aug 2014 17:06:17 +0200 (CEST)
+Received: from mail.openanalytics.eu ([127.0.0.1])
+	by localhost (mail.openanalytics.eu [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id R01xLfi8Hf5o for <bioinfo@sfbi.fr>;
+	Mon, 11 Aug 2014 17:06:13 +0200 (CEST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.openanalytics.eu (Postfix) with ESMTP id 6BF8939CBF3
+	for <bioinfo@sfbi.fr>; Mon, 11 Aug 2014 17:06:13 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at mail.openanalytics.eu
+Received: from mail.openanalytics.eu ([127.0.0.1])
+	by localhost (mail.openanalytics.eu [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 4lztQZtWslpS for <bioinfo@sfbi.fr>;
+	Mon, 11 Aug 2014 17:06:13 +0200 (CEST)
+Received: from mail.openanalytics.eu (mail.openanalytics.eu [46.18.37.61])
+	by mail.openanalytics.eu (Postfix) with ESMTP id 2FBC339CBF2
+	for <bioinfo@sfbi.fr>; Mon, 11 Aug 2014 17:06:13 +0200 (CEST)
+Date: Mon, 11 Aug 2014 17:06:12 +0200 (CEST)
+From: Tobias Verbeke <tobias.verbeke@openanalytics.eu>
+To: bioinfo@sfbi.fr
+Message-ID: <750841186.110813.1407769572846.JavaMail.zimbra@openanalytics.eu>
+In-Reply-To: <1301583982.110809.1407769478261.JavaMail.zimbra@openanalytics.eu>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [81.83.177.228]
+X-Mailer: Zimbra 8.0.6_GA_5922 (ZimbraWebClient - FF31 (Linux)/8.0.6_GA_5922)
+Thread-Topic: Job Openings: Data Analyst and Data Scientist at OpenAnalytics (Belgium)
+Thread-Index: rFfEhMKP3puU5A2m8W4EktGaYNe33w=
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Job Openings: Data Analyst and Data Scientist at OpenAnalytics
+ (Belgium)
+We are currently looking to expand our team with the following profiles:
+Data Analyst: MSc / PhD in Computational Biology, Bioinformatics or Statistics with a keen interest in data analysis
+Data Scientist: MSc / PhD in Statistics, Applied Mathematics or Computer Science interested to work on applied data science problems
+A detailed description can be found at
+http://www.openanalytics.eu/jobs
+Kind regards,
+Tobias Verbeke
+-- 
+Tobias Verbeke
+Managing Director
+Open Analytics NV
+Jupiterstraat 20
+2600 Antwerp
+Belgium
+E tobias.verbeke@openanalytics.eu
+M +32 499 36 33 15
+http://www.openanalytics.eu

@@ -1,0 +1,51 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www-data@sfbi.mti.univ-paris-diderot.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 8924826801D
+	for <bioinfo@sfbi.fr>; Wed,  5 Feb 2014 16:40:51 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsYBAHVa8lLC/j2KnGdsb2JhbABZg0SDWLt4WhYOAQEBAQEICwkJFCiCTxAFETMOExECBSECEWGICQmedI8VoTUXgSmMahEBbYJZgUkEnwaNNYE/gXA
+X-IronPort-AV: E=Sophos;i="4.95,787,1384297200"; 
+   d="scan'208";a="61471074"
+Received: from korolev.univ-paris7.fr ([194.254.61.138])
+  by a-mx1.relay.syrhano.net with ESMTP; 05 Feb 2014 16:40:51 +0100
+Received: from duc.rpbs.univ-paris-diderot.fr (duc.mti.univ-paris-diderot.fr [81.194.29.54])
+	by korolev.univ-paris7.fr (8.14.4/8.14.4/relay1/46573) with ESMTP id s15Feoh1007079
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Wed, 5 Feb 2014 16:40:50 +0100
+Received: from sfbi.mti.univ-paris-diderot.fr (sfbi.mti.univ-paris-diderot.fr [81.194.29.2])
+          by duc.rpbs.univ-paris-diderot.fr (8.13.7/jtpda-5.4) with SMTP id s15Fenv5020364
+          for <bioinfo@sfbi.fr>; Wed, 5 Feb 2014 16:40:49 +0100
+Message-Id: <201402051540.s15Fenv5020364@duc.rpbs.univ-paris-diderot.fr>
+Received: by sfbi.mti.univ-paris-diderot.fr (sSMTP sendmail emulation); Wed, 05 Feb 2014 16:43:04 +0100
+From: "www-data" <www-data@sfbi.mti.univ-paris-diderot.fr>
+Date: Wed, 05 Feb 2014 16:43:04 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 0:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (korolev.univ-paris7.fr [194.254.61.138]); Wed, 05 Feb 2014 16:40:50 +0100 (CET)
+X-Miltered: at korolev with ID 52F25B82.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52F25B82.001 from duc.mti.univ-paris-diderot.fr/duc.mti.univ-paris-diderot.fr/null/duc.rpbs.univ-paris-diderot.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Score: MSGID : 52F25B82.001 on korolev.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position in high-throughput sequencing analysis
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Post-doctoral position in high-throughput sequencing  
+analysis
+Type de poste : Post-doc / IR
+Durée du poste : 2 years (with possible extension)
+Ville : Paris
+Nom du contact : Valentina Boeva
+Email du contact : valentina.boeva@curie.fr
+Laboratoire : Institut Curie, Department of Bioinformatics, biostatistics,  
+epidemiology and computational systems biology of cancer
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/post-doctoral-position-high-throughput-sequencing-analysis

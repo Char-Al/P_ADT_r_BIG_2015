@@ -1,0 +1,52 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=28019c4d8=virginie.bernard@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 75DEA26801D
+	for <bioinfo@sfbi.fr>; Tue, 29 Jul 2014 18:01:10 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnIDAHPE11PBMc0knGdsb2JhbABZg2BXAQOCK0nIeIhaFhABAQEBAQgLCQkUKYQWFw8BDQEBBy8CGBwCBRYLAgsDAgECAToRDQYCAohCCYspmzl3hQIBBZI0BoEsjT4RAW2CY4FRAZtQhx6QezsvgQw5
+X-IronPort-AV: E=Sophos;i="5.01,757,1400018400"; 
+   d="scan'208";a="70809788"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 29 Jul 2014 18:01:10 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1406649669; x=1438185669;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=10VXpNgYnuGLpNbHI22sJ68N1xnPoK6m2mJc6cjUFqY=;
+  b=BL+mLTI57W5U3qMgMFYkJLwMcqjIrW3jlmhcfN6ia2BeoLoxDEBsF9N3
+   YGXQiJxiFnspgYjAXyQW6bk1zjlsag==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmQKAJnE11MKAgBG/2dsb2JhbABZg2BXAQOCK0nIeIhwd4QWFw8BFi8aHAIFFgsCCwMCAQIBOhENBgICiEuLKpwwl0KBLI0+EQFtgmOBUQEEm0yHHpB7aoEMOQ
+X-IPAS-Result: AmQKAJnE11MKAgBG/2dsb2JhbABZg2BXAQOCK0nIeIhwd4QWFw8BFi8aHAIFFgsCCwMCAQIBOhENBgICiEuLKpwwl0KBLI0+EQFtgmOBUQEEm0yHHpB7aoEMOQ
+X-IronPort-AV: E=Sophos;i="5.01,757,1400018400"; 
+   d="scan'208";a="28881512"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip01-in.curie.fr with ESMTP; 29 Jul 2014 18:01:08 +0200
+Received: from [10.200.10.123] (10.200.10.123) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.3.174.1; Tue, 29 Jul 2014 18:01:08
+ +0200
+Message-ID: <53D7C544.6070602@curie.fr>
+Date: Tue, 29 Jul 2014 18:01:08 +0200
+From: Virginie Bernard <vbernard@curie.fr>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.24) Gecko/20111120 Icedove/3.1.16
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.123]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDI autre] =?UTF-8?Q?Ing=C3=A9nieur?= bioinformatique
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur bioinformatique
+Type de poste : CDI autre
+Durée du poste :
+Ville : Ile de France
+Nom du contact : Lisa Perchenet
+Email du contact : lisa.perchenet@modisfrance.fr
+Laboratoire : Modis société internationale
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformatique-4

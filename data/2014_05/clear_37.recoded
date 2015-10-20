@@ -1,0 +1,46 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id B520126801D
+	for <bioinfo@sfbi.fr>; Thu, 15 May 2014 18:09:40 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsoBAHfldFOKZqI0nGdsb2JhbABZg1WCd0nCNAGBJw4BAQEBAQgLCQkUKIImAQUMFw8BBREvEQkcAgUWCwICCQMCAQIBOgsTBgIBAYg9DZAZnCCkYBeBKoxCEQFXFoJfgUsBA5lRhmmOIoFBa4EK
+X-IronPort-AV: E=Sophos;i="4.97,1060,1389740400"; 
+   d="scan'208";a="58583757"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 15 May 2014 18:09:39 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s4FG9dLh018886
+	for <bioinfo@sfbi.fr>; Thu, 15 May 2014 18:09:39 +0200 (CEST)
+Message-ID: <5374E6C3.3000306@jouy.inra.fr>
+Date: Thu, 15 May 2014 18:09:39 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1Wky2C-000B54-6D@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1Wky2C-000B54-6D@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1Wky2C-000B54-6D@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 5374E6C3.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5374E6C3.000/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 5374E6C3.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.087 -> S=0.087
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] bioinformaticien  en =?UTF-8?Q?g=C3=A9n=C3=A9tique?=  =?UTF-8?Q?mol=C3=A9culaire?= des tumeurs  solides
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : bioinformaticien  en génétique  moléculaire des
+tumeurs  solides
+Type de poste : CDD Ingénieur
+Durée du poste : 12 mois
+Ville : angers
+Nom du contact : Pr Alain Morel
+Email du contact : alain.morel@ico.unicancer.fr
+Laboratoire : Unité d’Oncopharmacogénétique  INSERM U892
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/bioinformaticien-en-g%C3%A9n%C3%A9tique-mol%C3%A9culaire-des-tumeurs-solides

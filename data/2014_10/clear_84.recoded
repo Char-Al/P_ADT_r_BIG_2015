@@ -1,0 +1,30 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 99D1126801D; Fri, 24 Oct 2014 13:58:17 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: Hugues Roest Crollius <hrc@ens.fr>
+Message-ID: <sympa.1414151699.5355.571@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri, 24 Oct 2014 13:58:17 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Stage M2 en bioinfo =?ISO-8859-1?Q?=E0?= l'ENS Paris
+De la part de Hervé Le Hir. 
+Proposition de stage M2 en analyse bio-informatique
+Titre : 
+Analyse bioinformatique de l'expression des gènes par "Ribosome Profiling"
+Projet :
+Chez les eucaryotes, l'expression des gènes est hautement régulée au niveau post-transcriptionnelle. En effet, la maturation des ARN messagers (ARNm), leur stabilité ainsi que l'efficacité avec laquelle ils sont traduits en protéines sont autant de processus hautement régulés. Le niveau d'expression des ARNm dans différents contextes cellulaires est communément analysé par des approches à large échelle de type RNA-seq. Cependant, le niveau d'ARNm ne constitue pas une information précise sur la quantité de protéines produites. La méthode récente de "Ribosome Profiling" permet de mesurer de manière globale l'efficacité de traduction de chaque ARNm en isolant l'ensemble des fragments d'ARNm protégés par les ribosomes en cours de traduction. Une part importante de cette stratégie nécessite de développer des outils computationnels pour analyser l'ensemble des fragments isolés et séquencés à large échelle (séquençage Illumina).
+L'équipe d'Hervé Le Hir qui utilise et développe cette méthode à l'IBENS s'intéresse à plusieurs protéines de liaison aux ARNm (RBP) susceptibles de moduler l'expression des gènes chez la souris et l'homme. Cette équipe souhaite pour cela étudier par "Ribosome Profiling" le niveau de traduction des ARNm dans divers contextes cellulaires (cellules en cultures exprimant ou non les RBP) et notamment au cours de la différentiation (myogenèse, cellules souches neurales). Des modifications du protocole de "Ribosome Profiling" permettent également de mesurer l'efficacité d'initiation de la traduction, une étape clé de ce processus.
+Le Ribosome Profiling est une technique récente pour laquelle il n'existe pas encore de méthodes standardisées. L'objectif de ce stage sera de mettre au point un pipeline de traitement de données, pour effectuer : (i) le traitement basique des données (contrôle qualité, nettoyage, mapping), (ii) la détection et la caractérisation de régions enrichies, (iii) la quantification de l'efficacité de la traduction par comparaison avec des données de mRNA-seq, (iv) la comparaison entre différentes conditions biologiques ou différentes classes de gènes afin d'identifier des nouveaux modes de régulation. Le pipeline devra être adapté aux particularités des données de Ribosome Profiling, ce qui nécessitera aussi bien d'utiliser des outils existants pour l'analyse de données NGS, que d'adapter et implémenter des méthodes développées dans l'équipe ou évoquées dans la littérature récente.
+Ce stage en bioinformatique sera réalisé sur la plate-forme de bioinformatique de l'IBENS et en cotutelle avec le groupe de recherche d'Hervé Le Hir.
+Contact :
+Envoyer une lettre de motivation, un CV et éventuellement les coordonnées de référents à Hervé LE HIR
+Institut de Biologie de l'Ecole Normale Supérieure
+Section Génomique Fonctionnelle - CNRS UMR8197
+mail : lehir@ens.fr

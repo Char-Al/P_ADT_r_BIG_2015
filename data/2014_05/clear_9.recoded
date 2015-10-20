@@ -1,0 +1,80 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=1968145dd=Emmanuel.Barillot@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2C37826801D
+	for <bioinfo@sfbi.fr>; Tue,  6 May 2014 12:41:18 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjsBANK7aFPBMc0knGdsb2JhbABZg1VYxAuBbRYOAQEBAQEICwkJFCiCXgEFCAEBERUQAjsWGAMCAQIBSw0GAgEBiEEJpxKEVQEFoVcGgl6IZWmCQ4QpmTuUcIFBO4Fy
+X-IronPort-AV: E=Sophos;i="4.97,996,1389740400"; 
+   d="scan'208";a="66326965"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 06 May 2014 12:41:17 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1399372878; x=1430908878;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=prLCzWwi2JX2tMjTxwzQOSAwSBurlWvnLLquPZa6RuM=;
+  b=XBkHiO3lx6vVFMBQkLLaXU1zGCjF3Jgc6Xv31oLMfZ1HCKHcPEIe97kd
+   POAVogJcO+gexgbIWU6jBLtjakHOjg==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqEEANK7aFMKAgBH/2dsb2JhbABZg1VYxAuCA3SCXgEFGxUQPRYYAwIBAgFLDQYCAQGISs0zF4JeiGVpgkOEKQSZN5RwgUGCLQ
+X-IPAS-Result: AqEEANK7aFMKAgBH/2dsb2JhbABZg1VYxAuCA3SCXgEFGxUQPRYYAwIBAgFLDQYCAQGISs0zF4JeiGVpgkOEKQSZN5RwgUGCLQ
+X-IronPort-AV: E=Sophos;i="4.97,996,1389740400"; 
+   d="scan'208";a="27069212"
+Received: from mbxparis02.curie.fr (HELO mail.curie.fr) ([10.2.0.71])
+  by cip01-in.curie.fr with ESMTP; 06 May 2014 12:41:18 +0200
+Received: from u900-bdd-1-171b-6979.curie.fr (10.200.10.145) by mail.curie.Fr
+ (10.2.0.72) with Microsoft SMTP Server (TLS) id 14.3.174.1; Tue, 6 May 2014
+ 12:41:15 +0200
+Message-ID: <5368BC50.8050902@curie.fr>
+Date: Tue, 6 May 2014 12:41:20 +0200
+From: Emmanuel Barillot <Emmanuel.Barillot@curie.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="windows-1252"; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.145]
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] BioNetVisA workshop at ECCB2014: from biological network to data
+ analysis in biology and medicine
+                                             BioNetVisA workshop at ECCB2014
+ From biological network reconstruction to data visualization and 
+analysis in molecular biology and medicine.
+The workshop will take place in Strasbourg, France, on September 7th, 
+2014 as part of the European Conference on Computational Biology ECCB'14
+The abstracts submission for talks and posters is open
+https://sysbio.curie.fr/bionetvisa
+http://www.eccb14.org/program/workshops/bionetvisa
+A travel fellowship for funding participation of young researchers will 
+be available. Priority will be given to selected speakers.
+Scope:
+One day workshop, BioNetVisA will be focused on computational pathway 
+analysis, applications in research, clinics, biotech and beyond.
+The goal of BioNetVisA workshop is to build a discussion around:
+- Approaches for biological knowledge formalisation, data integration 
+and analysis.
+- Compatibility between different methods and biological networks 
+resources available in the field.
+- Applicability for concrete research and clinical projects based on 
+high-throughput data.
+- Accessibility of available tools for wide range of user in every-day 
+standalone application in biological, clinical and biotech labs.
+The workshop is suitable for wide audience as database providers, 
+networks creators, computational and experimental biologists, clinicians 
+and anyone who is interested to be exposed to the different paradigms of 
+network biology and the latest achievements in the field.
+Please spread the word and forward this advertisement to your colleagues.
+If you have any question, contact us at bionetvisa@curie.fr
+BioNetVisA workshop organising committee:
+Inna Kuperstein, Emmanuel Barillot, Andrei Zinovyev (Institut Curie, 
+Paris, France)
+Hiroaki Kitano (Okinawa Institute of Science and Technology Graduate 
+University, RIKEN Center for Integrative Medical Sciences)
+Nicolas Le Novère (Babraham Institute, Cambridge)
+Robin Haw (Ontario Institute for Cancer Research, Toronto)
+Mario Albrecht (University Medicine Greifswald, Greifswald, Germany)
+Benno Schwikowski (Institut Pasteur, France)

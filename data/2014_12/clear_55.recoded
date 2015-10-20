@@ -1,0 +1,92 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=0426d3425d=andrey.frolov@sanofi.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 1F90126801D
+	for <bioinfo@sfbi.fr>; Mon, 15 Dec 2014 10:13:09 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Au0AALyljlTByl8+nGdsb2JhbABahDTJAoNnFgEBAQEBEQEBAQEBCAsJCRQuhA0BAQR0FQIBKiQyJQEBBBsUiBAE0W8BCgEBAR6QD4MAgRMFl3yCXo1OhA6CM34BAQE
+X-IPAS-Result: Au0AALyljlTByl8+nGdsb2JhbABahDTJAoNnFgEBAQEBEQEBAQEBCAsJCRQuhA0BAQR0FQIBKiQyJQEBBBsUiBAE0W8BCgEBAR6QD4MAgRMFl3yCXo1OhA6CM34BAQE
+X-IronPort-AV: E=Sophos;i="5.07,578,1413237600"; 
+   d="scan'208";a="69887471"
+Received: from xspz10k429s.sanofi.com ([193.202.95.62])
+  by b-mx1.relay.syrhano.net with ESMTP; 15 Dec 2014 10:13:08 +0100
+Received: from XSPW10K671F.mailrelay.aventis.com ([168.124.14.75])
+	by xspz10k429s.sanofi.com (8.14.7/8.14.7) with ESMTP id sBF9D5Pn001216
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Mon, 15 Dec 2014 10:13:07 +0100
+Received: from XSPW10A423K.pharma.aventis.com (168.124.192.134) by
+ XSPW10K671F.mailrelay.aventis.com (168.124.14.75) with Microsoft SMTP Server
+ (TLS) id 14.3.210.2; Mon, 15 Dec 2014 10:13:06 +0100
+Received: from XSPW11A673W.pharma.aventis.com (168.124.25.88) by
+ XSPW10A423K.pharma.aventis.com (168.124.192.134) with Microsoft SMTP Server
+ (TLS) id 14.3.210.2; Mon, 15 Dec 2014 10:13:06 +0100
+Received: from XSPW10A405W.pharma.aventis.com ([169.254.6.213]) by
+ XSPW11A673W.pharma.aventis.com ([168.124.25.88]) with mapi id 14.03.0210.002;
+ Mon, 15 Dec 2014 10:13:05 +0100
+From: <Andrey.Frolov@sanofi.com>
+To: <bioinfo@sfbi.fr>
+Thread-Topic: =?Windows-1252?Q?Stage_Master_M2,_modélisation_moléculaire,_Sanofi_R&?
+ =?Windows-1252?Q?D?
+Thread-Index: AdAWKkeKFF35QBeTQlqdUSrWEiVE2gCHP22h
+Date: Mon, 15 Dec 2014 09:13:04 +0000
+Message-ID: <B1D9A60263D80F4A92245B537C27EBBC5ACA275E@XSPW10A405W.pharma.aventis.com>
+References: <B1D9A60263D80F4A92245B537C27EBBC5ACA239D@XSPW10A405W.pharma.aventis.com>
+In-Reply-To: <B1D9A60263D80F4A92245B537C27EBBC5ACA239D@XSPW10A405W.pharma.aventis.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [168.124.10.113]
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:5.13.68,1.0.33,0.0.0000
+ definitions=2014-12-15_01:2014-12-13,2014-12-14,1970-01-01 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0 suspectscore=0 phishscore=0
+ adultscore=0 bulkscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=7.0.1-1402240000 definitions=main-1412150094
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Stage Master M2, =?WINDOWS-1252?Q?modélisation?= =?WINDOWS-1252?Q?moléculaire?=, Sanofi R&D
+Annonce d'ouverture de stage Master M2 (modélisation moléculaire), Sa
+nofi R&D
+Title: Molecular modelling of nanoparticles for drug delivery
+Description:
+Formulation of drugs in nanoparticles is a major research field in pharmace
+utical sciences. The identification of optimal drug   polymer matrix matc
+hes is a critical step in the development of such formulations. The propose
+d internship project is integrated in the establishment of novel in silico 
+approaches in our department to support the design of nanoparticles for dru
+g delivery by molecular modelling. The project requires parameterization of
+ coarse-grain models and modelling amphiphilic co-polymer self-assembly in 
+aqueous media (see e.g. G. Srinivas et al. J. Phys. Chem. B 2004, 108, 8153
+). The successful candidate will use molecular dynamics simulations with Gr
+omacs and Desmond molecular dynamics codes.
+Benefit to internship student:
+Practical experience in small molecule and polymer modelling to support dru
+g-nanoparticle formulation; insight into industrial applied research in a w
+ell-established, experienced team in the department Structure, Design, and 
+Informatics; the results of the project will be published in peer-reviewed 
+journals; the candidate will have an opportunity to interact with people fr
+om Marie-Curie Initial Training Network =93NANODRUG .
+Requirements:
+Master M2 level with knowledge in molecular modelling, computational and ph
+ysical chemistry acquired during university course work and internships; ba
+sic knowledge in programming, scripting, and computing; good scientific Eng
+lish (oral & written communication); autonomous and pro-active mind-set.
+Length of internship, envisioned start & localization:
+6 month starting in January/February 2014; Vitry-sur-Seine. Supervisors: Dr
+. Andrey FROLOV and Dr. Anke STEINMETZ.
+Interested candidates, please, address Curriculum Vitae and letter of motiv
+ation to:
+Mr. Andrey FROLOV, PhD
+Marie Curie postdoctoral fellow (ITN =93NANODRUG )
+Sanofi R&D
+Lead Generation to Compound Realisation
+Structure Design & Informatics
+Centre de recherche Vitry-sur-Seine
+13, quai Jules Guesde, BP 14
+94403 Vitry-sur-Seine Cedex - France
+Tel: +33 (0)1 58 93 33 16
+E-mail : andrey dot frolov at sanofi dot com

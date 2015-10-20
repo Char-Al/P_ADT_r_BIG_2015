@@ -1,0 +1,137 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mthomas@biologie.ens.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 604BA26801D
+	for <bioinfo@sfbi.fr>; Mon,  7 Apr 2014 10:03:11 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlECAA1bQlOBx2AonGdsb2JhbABZFoMrUYMQwRCBIBYOAQEBAQEICwkJFCiCJgEFHQYPATgNEQkcAgUWCAMCAgkDAgECATQREwYCAQEFC4dlCAWNGpwYog4XgSmBNIwbgm+BSQSaD4s/iH4
+X-IronPort-AV: E=Sophos;i="4.97,808,1389740400"; 
+   d="scan'208";a="56630715"
+Received: from nef2.ens.fr ([129.199.96.40])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Apr 2014 10:03:10 +0200
+Received: from biologie.ens.fr (milda.ens.fr [129.199.18.219])
+          by nef2.ens.fr (8.13.6/1.01.28121999) with ESMTP id s37839jl051684
+          for <bioinfo@sfbi.fr>; Mon, 7 Apr 2014 10:03:10 +0200 (CEST)
+X-Envelope-To: <bioinfo@sfbi.fr>
+Received: from localhost (av1.biologie.ens.fr [129.199.18.17])
+	by biologie.ens.fr (Postfix) with ESMTP id B5E1E767
+	for <bioinfo@sfbi.fr>; Mon,  7 Apr 2014 10:03:09 +0200 (CEST)
+X-Virus-Scanned: spam & virus filtering at av1.ens.fr
+X-Spam-Flag: NO
+X-Spam-Score: -11.447
+X-Spam-Level: 
+X-Spam-Status: No, score=-11.447 tagged_above=-9999 required=5
+	tests=[ALL_TRUSTED=-1, AUTHD_RELAY=-8, BAYES_00=-1.9,
+	RP_MATCHES_RCVD=-0.547] autolearn=ham
+Received: from biologie.ens.fr ([IPv6:::ffff:129.199.18.219])
+	by localhost (av1.biologie.ens.fr [::ffff:129.199.18.17]) (amavisd-new, port 10024)
+	with ESMTP id Us5xwH5w5ow7 for <bioinfo@sfbi.fr>;
+	Mon,  7 Apr 2014 10:03:08 +0200 (CEST)
+Received: from csbmac10.ens.fr (csbmac10.ens.fr [129.199.17.105])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	(Authenticated sender: mthomas)
+	by biologie.ens.fr (Postfix) with ESMTPSA id 637797E9
+	for <bioinfo@sfbi.fr>; Mon,  7 Apr 2014 10:03:08 +0200 (CEST)
+Message-ID: <53425BD0.7090404@biologie.ens.fr>
+Date: Mon, 07 Apr 2014 10:03:28 +0200
+From: Morgane Thomas-Chollier <mthomas@biologie.ens.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:17.0) Gecko/20130328 Thunderbird/17.0.5
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <912BC021-0EF2-4DF0-9E7A-DA428FE76060@med.kuleuven.be>
+In-Reply-To: <912BC021-0EF2-4DF0-9E7A-DA428FE76060@med.kuleuven.be>
+X-Enigmail-Version: 1.6
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-3.1.4 (nef2.ens.fr [129.199.96.32]); Mon, 07 Apr 2014 10:03:10 +0200 (CEST)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Call for abstracts: Regulatory Genomics Special Interest Group (RegGenSIG)
+FYI: http://light.ece.ohio.edu/~reggen/2014/
+*Regulatory Genomics Special Interest Group (RegGenSIG)*
+Special Interest Group (SIG) at ISMB 2014 <http://www.iscb.org/ismb2014>
+July 12, 2014, Boston, Massachusetts
+SIG Hours: 8:30 a.m - 6:00 p.m.
+Regulatory genomics involves the study of the genomic 'control system,'
+which determines how, when and where to activate the 'blueprint' encoded
+in the genome. Regulatory genomics is the topic of much research
+activity worldwide. Since computational methods are important in the
+study of gene regulation, the RegGenSIG meeting focuses on
+bioinformatics for regulatory genomics. An important goal of the meeting
+is to foster a collaborative community wherein scientists convene to
+solve difficult research problems in all areas of computational
+regulatory genomics.
+RegGenSIG will include presentations and posters that cover the broad
+spectrum of topics important to regulatory genomics research. The goal
+is to bring together experts in experimental methods and computational
+methods to consider sequence-based reconstruction of regulatory networks
+and prediction of gene expression. Topics to be addressed in the SIG
+include the following:
+ 1. inference of gene regulatory networks;
+ 2. utilization of information pertaining to epigenetics, chromatin
+    structure, and histone modifications;
+ 3. determination of the roles of regulatory RNAs;
+ 4. prediction of transcriptional regulation from RNA-seq data and
+    ChIP-seq data;
+ 5. pattern discovery in sequences; and
+ 6. sequence based modeling of gene expression.
+      CALL FOR EXTENDED ABSTRACTS
+To make an oral presentation at RegGenSIG, extended abstracts should be
+submitted by April 27, 2014 to sinhas@illinois.edu
+<mailto:sinhas@illinois.edu>, including "RegGen Abstract Oral" in the
+subject line. An abstract should be a maximum of 3 pages excluding
+bibliography. Authors will be notified by May 8, 2014.
+      CALL FOR POSTERS
+For poster presentations, authors should submit a 250 word abstract no
+later than May 18, 2014 to sinhas@illinois.edu
+<mailto:sinhas@illinois.edu>, including "RegGen Abstract Poster" in the
+subject line. Authors will be notified no later than May 25, 2014.
+      KEY DATES
+  * April 20, 2014 Due date for extended abstracts (2-3 pages) for oral
+    presentations
+  * May 1, 2014 Author notification for oral presentations
+  * May 18, 2014 Due date for short abstracts (250 words) for poster
+    presentations
+  * May 25, 2014 Author notification for poster presentations
+  * June 6, 2014 Early registration cut-off date
+  * July 12, 2014 RegGenSIG meeting
+*Program Chairs:*
+  * Jason Ernst, UCLA, USA, jason.ernst@ucla.edu
+    <mailto:jason.ernst@ucla.edu>
+  * Saurabh Sinha, University of Illinois, USA, sinhas@illinois.edu
+    <mailto:sinhas@illinois.edu>
+  * Stein Aerts, University of Leuven,
+    Belgium, stein.aerts@med.kuleuven.be
+    <mailto:stein.aerts@med.kuleuven.be>
+  * Morgane Thomas-Chollier, Ecole Normale Superieure,
+    France, mthomas@biologie.ens.fr <mailto:mthomas@biologie.ens.fr>
+*General Chairs:*
+  * Finn Drabløs, Norwegian University of Science and Technology,
+    Norway, finn.drablos@ntnu.no <mailto:finn.drablos@ntnu.no>
+  * Lonnie R. Welch, Ohio University, USA, welch@ohio.edu
+    <mailto:welch@ohio.edu>
+*SIG Advisory Committee:*
+  * Tim Bailey, University of Queensland, Australia
+  * Harmen Bussemaker, Columbia University
+  * Andrea Califano, Columbia University
+  * Julio Collado-Vides, National Autonomous University of Mexico
+  * Laura Elnitski, National Human Genome Research Institute, USA
+  * Ana Teresa Freitas, Technical University of Lisbon, Portugal
+  * Roderic Guigo, Centre for Genomic Regulation, Spain
+  * Alexander Hartemink, Duke University
+  * Manolis Kellis, MIT, USA (pending)
+  * Kathleen Marchal, Professor University of Ghent and K. U. Leuven,
+    Belgium
+  * William Noble, University of Washington (tentative)
+  * Isidore Rigoutsos, Thomas Jefferson University, USA
+  * Sophie Schbath, Institut National de la RecherchÃ© Agronomique, France
+  * Gustavo Stolovitzky, IBM
+  * Gary Stormo, Washington University, USA
+  * Kai Tan, University of Iowa, USA
+  * Andrei Thomas-Tikhonenko, University of Pennsylvania
+  * Esko Ukkonen, University of Helsinki, Finland
+  * Martin Vingron, Max Planck Institute for Molecular Genetics, Germany
+  * Weixiong Zhang, Washington University, USA
+  * Igor Zwir, University of Granada

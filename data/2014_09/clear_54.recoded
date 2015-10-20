@@ -1,0 +1,105 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <stephane.robin@agroparistech.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 53C2026801D
+	for <bioinfo@sfbi.fr>; Thu, 18 Sep 2014 03:45:04 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ai0DADg4GlTBNm8gXGdsb2JhbABhgw1TVwSCfMZBiF0WAQYYCwoGCgoshAojJkIBIgINGQIhJBQCBBOIQgmZeo80ljeBLIsWd4U9gVMFhh+LMpJsh1iKH2qBSIECAQEB
+X-IPAS-Result: Ai0DADg4GlTBNm8gXGdsb2JhbABhgw1TVwSCfMZBiF0WAQYYCwoGCgoshAojJkIBIgINGQIhJBQCBBOIQgmZeo80ljeBLIsWd4U9gVMFhh+LMpJsh1iKH2qBSIECAQEB
+X-IronPort-AV: E=Sophos;i="5.04,543,1406584800"; 
+   d="scan'208";a="73079108"
+Received: from smtp.agroparistech.fr ([193.54.111.32])
+  by a-mx1.relay.syrhano.net with ESMTP; 18 Sep 2014 03:45:03 +0200
+Received: from smtp.agroparistech.fr (smtp [127.0.0.1])
+	by smtp.agroparistech.fr (Postfix) with ESMTP id 630041D83169
+	for <bioinfo@sfbi.fr>; Wed, 17 Sep 2014 07:46:22 +0200 (CEST)
+Received: from zmbp1.agroparistech.fr (zmbp1.agroparistech.fr [193.54.111.137])
+	by smtp.agroparistech.fr (Postfix) with ESMTP id 4E40C1D83147
+	for <bioinfo@sfbi.fr>; Wed, 17 Sep 2014 07:46:22 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by zmbp1.agroparistech.fr (Postfix) with ESMTP id 506B929EC4B
+	for <bioinfo@sfbi.fr>; Wed, 17 Sep 2014 07:46:22 +0200 (CEST)
+X-DSPAM-Class: Spam
+X-DSPAM-Confidence: 0.80
+X-DSPAM-Probability: 1.0000
+X-Spam-Flag: NO
+X-Spam-Score: -2.451
+X-Spam-Level:
+X-Spam-Status: No, score=-2.451 tagged_above=-10 required=6.6
+	tests=[ALL_TRUSTED=-1, BAYES_00=-1.9, RDNS_NONE=0.793,
+	RP_MATCHES_RCVD=-1.344, DSPAM.Spam=1.000] autolearn=ham
+X-DSPAM-Result: Spam
+Received: from zmbp1.agroparistech.fr ([127.0.0.1])
+	by localhost (zmbp1.agroparistech.fr [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id l-ohfMlzsJkB for <bioinfo@sfbi.fr>;
+	Wed, 17 Sep 2014 07:46:16 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by zmbp1.agroparistech.fr (Postfix) with ESMTP id D62DA29EBE6
+	for <bioinfo@sfbi.fr>; Wed, 17 Sep 2014 07:46:16 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at 
+Received: from zmbp1.agroparistech.fr ([127.0.0.1])
+	by localhost (zmbp1.agroparistech.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id fjPMu-waW224 for <bioinfo@sfbi.fr>;
+	Wed, 17 Sep 2014 07:46:16 +0200 (CEST)
+Received: from zmb2.agroparistech.fr (zmb2.agroparistech.fr [193.54.111.88])
+	by zmbp1.agroparistech.fr (Postfix) with ESMTP id BB2D029EC4B
+	for <bioinfo@sfbi.fr>; Wed, 17 Sep 2014 07:46:16 +0200 (CEST)
+Date: Wed, 17 Sep 2014 07:46:16 +0200 (CEST)
+From: =?iso-8859-15?Q?Stéphane?= ROBIN <robin@agroparistech.fr>
+To: bioinfo <bioinfo@sfbi.fr>
+Message-ID: <19776288.27.1410932771336.JavaMail.robin@portdellrobin>
+In-Reply-To: <16286583.25.1410932513282.JavaMail.robin@portdellrobin>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [81.57.150.33]
+X-Mailer: Zimbra 8.0.4_GA_5740 (Zimbra Desktop/7.2.2_11951_Linux)
+Thread-Topic: Change of date: SPMGD'15 in =?utf-8?B?TcO8bmljaCw=?= February 12-13, 2015
+Thread-Index: 4oYoBuAkXEIuwjd9cGA+vUYKI6Euaw=
+X-AV-Checked: ClamAV MX AgroParisTech
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Change of date: SPMGD'15 in =?ISO-8859-15?Q?M=FCnich?=, February 12-13, 2015
+Dear all,
+The 2015 annual workshop on Statistical Methods for Post Genomic Data (SMPG
+D) will take place at Ludwig-Maximilians University (LMU) in Munich, on Feb
+ruary 12-13, 2015. Its aim is to present works from mathematical to applied
+ Statistics, but also new areas in high throughput Biology that could need 
+new statistical developments.
+The key dates are:
+   Abstract submission deadline: 5 December 2015
+   Notification of acceptance: 19 December 2014
+   Registration deadline: 15 January 2015
+This workshop will feature 4 keynote speakers:
+    Wolfgang Huber (European Molecular Biology Laboratory, Heidelberg)
+    Guillaume Filion (Centre of Genomic Regulation, Barcelona)
+    Torsten Hothorn (Universit=C3=A4t Z=C3=BCrich)
+    Sylvain Arlot (=C3=89cole Normale Supérieure, Paris)
+We will also have the following invited sessions on:
+    Single-cell genomics session â=80=93 Chairman: John Marioni (European
+ Bioinformatics Institute, Hinxton)
+    Systems genetics session â=80=93 Chairman: Julien Gagneur (Ludwig-Max
+imilians Universit=C3=A4t, Munich)
+    Epigenomics session
+Registration is free of charge and includes coffee breaks and drinks during
+ the poster session. We welcome submission of abstracts for contributed tal
+ks (15 min. including questions) and posters. These may, but need not to, r
+elate to the invited session topics.
+Steering committee:
+    Sylvie Huet (INRA, MIA, Jouy-en-Josas)
+    Béatrice Laurent-Bonneau (INSA, Toulouse)
+    Franck Picard (CNRS, Université Lyon 1)
+    Stéphane Robin (AgroParisTech, Paris)
+Local committee:
+    Anne-Laure Boulesteix (Ludwig-Maximilians Universit=C3=A4t, Munich)
+    Julien Gagneur (Ludwig-Maximilians Universit=C3=A4t, Munich)
+If you have any other enquiry, feel free to contact us at smpgd15@genzentru
+m.lmu.de.
+--
+-------------------------------------------------------------
+Stéphane ROBIN    INRA (dépt MIA) / AgroParisTech (dépt MMIP)
+16 rue Claude Bernard      F-75231 Paris cedex 05      FRANCE
+www.agroparistech.fr/mia/                        ssbgroup.fr/
+Personal page: www.agroparistech.fr/mia/robin
+tél: (33) (0)1.44.08.72.07         fax: (33) (0)1.44.08.16.66

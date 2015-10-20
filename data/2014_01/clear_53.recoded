@@ -1,0 +1,45 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <etienne.birmele@parisdescartes.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 984EF26801D
+	for <bioinfo@sfbi.fr>; Fri, 17 Jan 2014 17:15:14 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Au8IAJFf2FLBM1Y3WGdsb2JhbABZgwt3vDcWAwEXCwoHFCmCXgEFME00AjInCAEBiASaD49fm2aPHIQiBJ5njn87
+X-IronPort-AV: E=Sophos;i="4.95,674,1384297200"; 
+   d="scan'208";a="52535034"
+Received: from mataram.parisdescartes.fr ([193.51.86.55])
+  by b-mx1.relay.syrhano.net with ESMTP; 17 Jan 2014 17:15:13 +0100
+Received: from localhost (unknown [192.168.253.9])
+	by mataram.parisdescartes.fr (Postfix) with ESMTP id 84DC046401B
+	for <bioinfo@sfbi.fr>; Fri, 17 Jan 2014 17:15:13 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-paris5.fr
+Received: from mataram.parisdescartes.fr ([192.168.253.4])
+	by localhost (fourmilier.univ-paris5.fr [192.168.253.9]) (amavisd-new, port 10024)
+	with ESMTP id bMQ7jg5qmwR9 for <bioinfo@sfbi.fr>;
+	Fri, 17 Jan 2014 17:15:09 +0100 (CET)
+Received: from [172.30.41.40] (wifi-pro-172-30-41-40.wifi.univ-paris5.fr [172.30.41.40])
+	by mataram.parisdescartes.fr (Postfix) with ESMTPSA id 6859A46402E
+	for <bioinfo@sfbi.fr>; Fri, 17 Jan 2014 17:14:42 +0100 (CET)
+Message-ID: <52D956F2.70500@parisdescartes.fr>
+Date: Fri, 17 Jan 2014 17:14:42 +0100
+From: Etienne_Birmelé <etienne.birmele@parisdescartes.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] postes en biostatistique à Paris Descartes
+Bonjour à tous,
+   Deux postes de Maîtres de Conférences en statistiques et statistiques 
+appliquées sont ouverts au concours à l'université Paris Descartes, pour 
+une prise de fonction en septembre 2014. Des applications aux sciences 
+du vivant seront particulièrement appréciées.
+   Les fiches de postes détaillées sont disponibles sur Galaxie ou sur 
+le site du laboratoire MAP5.
+   Les candidats sont appelés à prêter attention à la date précoce de 
+clôture des inscriptions (26 février).
+Merci de diffuser cette information,
+Etienne Birmelé

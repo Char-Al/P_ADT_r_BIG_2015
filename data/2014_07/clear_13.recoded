@@ -1,0 +1,103 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <carpentiersabrina@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 57C2726801D
+	for <bioinfo@sfbi.fr>; Fri,  4 Jul 2014 08:47:14 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmgDADZNtlPRVdiulGdsb2JhbABag19agiZJwzEEgQUIFg8BAQEBBwsLCRIqhBYGER0BGx4DEgMNDwImAiEDAREBBQE1IogLAQMRDZIRjQSDEmqLJ4FygxCPBAoZJw1khW4RAQUOgR6OE4JhgUwFj01likSSGxgphHU7Lw
+X-IronPort-AV: E=Sophos;i="5.01,599,1400018400"; 
+   d="scan'208";a="61265997"
+Received: from mail-qc0-f174.google.com ([209.85.216.174])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Jul 2014 08:47:13 +0200
+Received: by mail-qc0-f174.google.com with SMTP id x13so1130508qcv.5
+        for <bioinfo@sfbi.fr>; Thu, 03 Jul 2014 23:47:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=k2MvBwFpl+cqItIAk7VxoXKxFKMqll3iPbIEVeqntys=;
+        b=TqY8i6FeKW1G0PWZDJL+lIK/OeI6rFBldIchPzQvqsjIu3wOYZTRTnFeMdvn4H6MCA
+         MOMwNXsxmAGbMWeVPZX48KW/y4ipilaLAtddLMuj5akumU8aZxHIffbq8OW6LgbT0Ef6
+         6ao2umA/U1e7anQVp3JplU7vv2vA8doahJKiZCTcvLS95EyT5iOC9une9DazSNP3SPfL
+         jNruZHITzQeek0XlsQAMn7VTVcZ4Byr+lIMCmwYju4slFqooqV4Ce7sElaBquz+sHAW4
+         aAVQmexXgk+rWlN2d7tFXJzIfluq5iXW70JKJyEKM3aqyl3zwq0UTjW2ZXwlNOQD9xYy
+         +GXg=
+X-Received: by 10.224.136.200 with SMTP id s8mr15088656qat.85.1404456432707;
+ Thu, 03 Jul 2014 23:47:12 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.96.195.129 with HTTP; Thu, 3 Jul 2014 23:46:52 -0700 (PDT)
+From: Sabrina CARPENTIER <carpentiersabrina@gmail.com>
+Date: Fri, 4 Jul 2014 08:46:52 +0200
+Message-ID: <CAHb5Eb2KcOUi=JD4s6Yf6enk8SfO7kKXdr59ifyzr68+SReXJQ@mail.gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] INGENIEUR ou POST-DOC EN GENOMIQUE FONCTIONNELLE
+INGENIEUR ou POST-DOC EN GENOMIQUE FONCTIONNELLE
+Contact : bernardm@ciml.univ-mrs.fr
+Durée du contrat : 1 an renouvelable
+Date prévisionnelle démarrage prévue: le 1er septembre 2014,
+ sous
+réserve de constitution du dossier d'embauche
+Audition des candidats : juillet 2014
+Equipe d'accueil:
+Equipe de Bernard et Marie Malissen, Génétique fonctionnelle des
+lymphocytes T et des cellules dendritiques,
+Centre d'immunologie de Marseille-Luminy,
+Parc scientifique et technologique de Luminy, case 906, F-13288
+Marseille Cedex 09
+http://www.ciml.univ-mrs.fr/fr/science/lab-bernard-marie-malissen/pour-tous
+Nature du travail: analyses bio-informatiques de données de puces =C3
+  ADN
+*traitement de données générées au laboratoire et/ou r
+écupération de
+données publiques (GEO, ArrayExpress â=80=A6)
+*pre-processing des données (contrôles qualité et normalisat
+ion)
+*Analyses statistiques pour identification des gènes
+différentiellement exprimés (Limma, VAMPIRE â=80=A6) et des g
+ènes
+étroitement co-régulés, Self organizing Maps (SOM), analyses
+ des
+régions régulatrices des gènes par recherche et/ou déco
+uverte de
+motifs, modélisation de réseaux de gènes, Gene Set Enrichmen
+t Analysis
+(GSEA), clustering hiérarchiquesâ=80=A6
+Qualifications requises impérativement :
+*formation avérée en génomique fonctionnelle, en particulier
+ pour les
+analyses bio-informatiques de données de puces à ADN
+*connaissance du langage R
+* bonne connaissance de l'anglais
+Qualités requises :
+*capacité à travailler en équipe
+*grande rigueur dans l'organisation du travail et dans le stockage 
+des
+résultats des analyses
+*fort investissement dans le travail
+Informations supplémentaires:
+Le travail sera effectué dans le cadre d'un contrat entre le C
+IML et
+Sanofi-Aventis, ce qui permettra l'acquisition d'une exp=C3
+=A9rience de
+travail à l'interface entre la recherche académique et la
+ recherche
+industrielle. Le projet est focalisé sur la caractérisation des
+sous-populations d'immunocytes murins et humains en conditions norm
+ale
+et pathologiques, basée sur des analyses de génomique fonctionnel
+le
+(projet I2HD pour =C2"Innate Immunocytes in Health and Disease=C2"). Le
+projet I2HD repose sur la génération par puce à ADN et lâ
+=80=99analyse
+bio-informatique d'un grand nombre de profils d'expression 
+génétique
+de différentes sous-populations de cellules immunitaires innées, 
+ou de
+tissus, isolés de souris. Le travail sera effectué au sein de l
+'équipe
+et en concertation avec l'équipe de Marc Dalod.

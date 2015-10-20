@@ -1,0 +1,108 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <celine.rouveirol@lipn.univ-paris13.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2612626801D
+	for <bioinfo@sfbi.fr>; Tue,  9 Dec 2014 11:32:58 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnwAAJjPhlTC/qMPl2dsb2JhbABZg1hTBYMFwxiHSgEBAQEBEQEBAQEBCBYHQoQmBg8BBTAFBQIENgIFFgsCCwMCAQIBWAgBARCIKAQFsA2PQpdAgSaSDIFHBZFmhTyBPYo4iWQ+MIJDAQEB
+X-IPAS-Result: AnwAAJjPhlTC/qMPl2dsb2JhbABZg1hTBYMFwxiHSgEBAQEBEQEBAQEBCBYHQoQmBg8BBTAFBQIENgIFFgsCCwMCAQIBWAgBARCIKAQFsA2PQpdAgSaSDIFHBZFmhTyBPYo4iWQ+MIJDAQEB
+X-IronPort-AV: E=Sophos;i="5.07,544,1413237600"; 
+   d="scan'208";a="69652350"
+Received: from gw.lipn.univ-paris13.fr (HELO mail.lipn.univ-paris13.fr) ([194.254.163.15])
+  by b-mx1.relay.syrhano.net with ESMTP; 09 Dec 2014 11:32:44 +0100
+Received: from dyn222.lipn.univ-paris13.fr (dyn222.lipn.univ-paris13.fr [10.10.1.222])
+	(using TLSv1 with cipher ECDHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	(Authenticated sender: rouveirol@lipn.univ-paris13.fr)
+	by mail.lipn.univ-paris13.fr (Postfix) with ESMTPSA id EEE9D2613C1
+	for <bioinfo@sfbi.fr>; Tue,  9 Dec 2014 11:32:42 +0100 (CET)
+Message-ID: <5486CFCB.9060607@lipn.univ-paris13.fr>
+Date: Tue, 09 Dec 2014 11:32:43 +0100
+From: =?UTF-8?B?Q8OpbGluZSBSb3V2ZWlyb2w=?= <rouveirol@lipn.univ-paris13.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Call for papers - MLJ Special issue on Dynamic Networks & Knowledge
+ Discovery
+_________________________________________________________________
+Call for papers - Machine Learning Journal (Springer)
+Special issue on Dynamic Networks & Knowledge Discovery
+http://lipn.fr/mlj-si
+Submission due: 01/03/2015
+_____________________________________________________________________________________
+Modeling and analyzing networks is a major emerging topic in different 
+research areas, such as computational biology, social science, document 
+retrieval, etc. Nowadays, the scientific communities have access to huge 
+volumes of network-structured data, such as social networks, 
+gene/proteins/metabolic networks, sensor networks, peer-to-peer 
+networks. Most often, these data are dynamic, and a  dynamic view of the 
+system allows the time component to play a key role in the comprehension 
+of the evolutionary behavior of the ne twork.
+Handling such data is a major challenge for current research in machine 
+learning and data mining. It has led to the development of recent 
+innovative techniques that consider complex/multi-level networks, 
+time-evolving graphs, heterogeneous information (nodes and links), and 
+requires scalable algorithms that are able to manage huge and complex 
+networks. This special issue, organized after the second DYNAK workshop 
+that recently took place at ECML/PKDD 2014, aims at attracting 
+contributions from both aspects of networks analysis: large real network 
+analysis and modeling and knowledge discovery within those networks. 
+Authors are invited to submit previously unpublished papers, as well as 
+substantially extended versions of papers accepted to the DYNAK workshop 
+or recent Machine Learning and Data Mining major conferences. We are 
+interested in theoretical research and/or applications in any topic 
+related to one or more of the workshop topics. A non‐exhaustive list of 
+topics is given hereafter:
+Methods:
+- Network inference from raw data
+- Graphical models
+- Graph mining algorithms
+- Graph kernel algorithms
+- Relational learning algorithms
+- Matrix/Tensor methods
+- Information retrieval algorithms
+- Bayesian methods
+- Evolutionary clustering
+- Mining heterogenous networks
+- Multiplex network analysis & mining
+- Bisociative information discovery
+- Clustering/Co-clustering/Biclustering
+- Pattern mining with constraints
+- Community detection
+- Social & biological networks analogy
+Applications:
+- Recommender systems
+- System biology : regulatory gene networks, protein-protein 
+interaction, miRNA networks, metabolic networks
+- Social networks: folksonomies, digital libraries, information 
+networks, Social media, collaborative networks
+- Sensor networks: P2P networks, Web, body sensor networks
+Submission:
+  Authors are invited to submit an abstract (2 pages maximum, including 
+major references, see http://lipn.fr/mlj‐si for details) before 
+submitting a full paper. The submission of abstracts is to be done 
+through the easychair submission web site :
+https://www.easychair.org/conferences/?conf=mlj-dynaksi15
+   Abstract will be selected at that stage only on the basis of their 
+relevance to the call. Authors of selected abstracts will be invited to 
+submit a full paper.  All papers will be reviewed following standard 
+reviewing procedures for the Journal. Papers must be prepared in 
+accordance with the Journal guidelines: http://www.springer.com/10994. 
+Instructions for Authors and LaTeX style files can also be found at this 
+site. Manuscripts must be submitted to: http://MACH.edmgr.com. Choose 
+“Dynamic Networks and Knowledge Discovery” as the article type.
+Important dates:
+07/01/2015 : Abstract due
+16/01/2015 : Feedback on abstracts (go, no go)
+01/03/2015 : Submission deadline
+15/06/2015 : First notification
+15/09/2015 : Final version due
+Guest editors:
+Rushed Kanawati, SPC, University of Paris 13, France
+Ruggero G. Pensa, University of Torino, Italy
+Céline Rouveirol, SPC, University of Paris 13, France

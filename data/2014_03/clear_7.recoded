@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 7C3F326801D
+	for <bioinfo@sfbi.fr>; Mon,  3 Mar 2014 17:49:42 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhUBAFuxFFOKZqI0nGdsb2JhbABaFoMrwl8OAQEBAQEICwkJFCiCXgEFES89FhgDAgECAVgGAgEBh3UNnGqvUY52hCIEmDyBMoUYjw8
+X-IronPort-AV: E=Sophos;i="4.97,578,1389740400"; 
+   d="scan'208";a="62837277"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 03 Mar 2014 17:49:42 +0100
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s23Gneqk003181
+	for <bioinfo@sfbi.fr>; Mon, 3 Mar 2014 17:49:40 +0100 (CET)
+Message-ID: <5314B2A4.5050107@jouy.inra.fr>
+Date: Mon, 03 Mar 2014 17:49:40 +0100
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at beta with ID 5314B2A4.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5314B2A4.000/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 5314B2A4.000 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.019 -> S=0.019
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] site de la SFBI indisponible 6-7 mars
+Bonjour,
+la SFBI est en train de migrer son site web www.sfbi.fr sur un nouveau 
+serveur.
+Le site sera donc en principe indisponible de jeudi 6 mars 17h à 
+vendredi 7 mars 11h.
+Merci d'avance pour votre compréhension,
+Sophie Schbath
+Présidente de la SFBI
+-- 
+    ___
+   / _ \\  ,,        Sophie SCHBATH     Sophie.Schbath@jouy.inra.fr
+  /=(_)=\\//
+  \ =(_) (O}           Unite Mathematique, Informatique & Genome (MIG)
+   \_____\\      .--.   INRA - Domaine de Vilvert
+    /=(_)\\\   .'_\/_'.  F-78352 Jouy-en-Josas
+    \____///   '. /\ .'   Tel : +33 1 34 65 28 90
+         ())     "||"      Fax : +33 1 34 65 29 01
+                  || /\
+               /\ ||//\)   http://genome.jouy.inra.fr/~schbath/
+              (/\\||/      http://www.ssbgroup.fr
+     ____________\||/____________________________________________

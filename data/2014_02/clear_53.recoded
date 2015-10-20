@@ -1,0 +1,81 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <slebre@unistra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 7D07526801D
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 16:36:11 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AngBAGrOBFOCT97XnGdsb2JhbAA/GhaDKMFnFg4BAQEBAQgLCQkUKIIqNAEFMAwEPRYYAwIBAgFYBgIBAYgBBAk2nESxEIxygg+EIgSed40cgW8
+X-IronPort-AV: E=Sophos;i="4.97,506,1389740400"; 
+   d="scan'208";a="62244332"
+Received: from mailhost.u-strasbg.fr ([130.79.222.215])
+  by a-mx1.relay.syrhano.net with ESMTP; 19 Feb 2014 16:36:11 +0100
+Received: from mailhost.u-strasbg.fr (localhost [127.0.0.1])
+	by antispam (Postfix) with ESMTP id 7F1CDA0810
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 16:36:09 +0100 (CET)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mr5.u-strasbg.fr
+X-Spam-Level: 
+X-Spam-Status: No, score=-101.5 required=5.0 tests=BAYES_00,USER_IN_WHITELIST
+	autolearn=ham version=3.3.2
+Received: from mailhost.u-strasbg.fr (localhost [127.0.0.1])
+	by antivirus (Postfix) with ESMTP id 70C51A0843
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 16:36:09 +0100 (CET)
+Received: from md14.u-strasbg.fr (md14.u-strasbg.fr [130.79.200.249])
+	by mr5.u-strasbg.fr (Postfix) with ESMTP id 608E9A0810
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 16:36:08 +0100 (CET)
+Received: from ms18.u-strasbg.fr (ms18.u-strasbg.fr [130.79.204.118])
+          by md14.u-strasbg.fr (8.14.3/jtpda-5.5pre1) with ESMTP id s1JFa80W030900
+          ; Wed, 19 Feb 2014 16:36:08 +0100
+Received: from [127.0.0.1] (juv34-3-82-231-30-238.fbx.proxad.net [82.231.30.238])
+	(Authenticated sender: slebre)
+	by ms18.u-strasbg.fr (Postfix) with ESMTPSA id 3A2921FD8E;
+	Wed, 19 Feb 2014 16:36:06 +0100 (CET)
+Message-ID: <5304CF69.5000404@unistra.fr>
+Date: Wed, 19 Feb 2014 16:36:09 +0100
+From: slebre@unistra.fr
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20131118 Thunderbird/17.0.11
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: ClamAV using ClamSMTP
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Stage de Recherche en Bioinformatique =?WINDOWS-1252?Q?=E0?= poursuivre en =?WINDOWS-1252?Q?Th=E8se?=
+Un stage de recherche en bioinformatique (section informatique) à 
+poursuivre en thèse est proposé dans l'équipe BFO du Laboratoire ICube 
+de l'Université de Strasbourg.
+Titre: Codes circulaires: étude combinatoire et modèles stochastiques 
+d'évolution
+Résumé: http://icube-bfo.unistra.fr/fr/img_auth.php/4/48/SujetBT.pdf
+Directeur: Christian Michel, c.michel@unistra.fr
+Co-directeur: Sophie Lèbre, slebre@unistra.fr
+Conditions d'admissibilité:
+- Classement dans les 2 premiers en M2 Informatique ou écoles d'ingénieurs
+- Formation en informatique théorique et mathématiques appliquées
+Si vous êtes intéressé par ce sujet de recherche, merci de constituer un 
+dossier de candidature avec:
+- un CV
+- les notes disponibles du M2 Informatique ou école d'ingénieurs et 
+votre classement (avec le rang/effectif)
+- les notes du M1 Informatique ou école d'ingénieurs et votre classement 
+(avec le rang/effectif)
+- une ou plusieurs lettres de recommandation.
+et de nous contacter.
+Le site: http://dpt-info.u-strasbg.fr/~michel/ vous présente le contexte 
+scientifique.
+La gratification de stage est de 436,05 euros  par mois.
+Bien cordialement.
+-- 
+Sophie Lèbre
+Maître de conférences
+Tél : +33 (0)3 68 85 48 89
+sophie.lebre@icube.unistra.fr
+Université de Strasbourg
+Icube - UMR 7357
+Equipe Bioinformatique théorique, Fouille de données et Optimisation 
+stochastique
+Pôle API
+Bd Sébastien Brant - BP 10413
+F - 67412 Illkirch CEDEX
+http://icube-bfo.unistra.fr/index.php/Sophie_Lebre

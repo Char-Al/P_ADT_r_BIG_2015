@@ -1,0 +1,95 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <ole2001@med.cornell.edu>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 304B726801D
+	for <bioinfo@sfbi.fr>; Mon,  3 Mar 2014 06:03:57 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Am4EAOMLFFPYUvsDm2dsb2JhbABWA4JlXFezQjqNbRYOAQEBAQEGCwsJFCiCLG0aBAFpFycEE4d5AQycM44iAQGadoZdBI5tgh0PZ4EUBJluhUCOZoIq
+X-IronPort-AV: E=Sophos;i="4.97,575,1389740400"; 
+   d="scan'208";a="54764937"
+Received: from mail1.bemta12.messagelabs.com ([216.82.251.3])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Mar 2014 06:03:56 +0100
+Received: from [216.82.250.51:4912] by server-3.bemta-12.messagelabs.com id 10/E8-28096-A3D04135; Mon, 03 Mar 2014 05:03:54 +0000
+X-Env-Sender: ole2001@med.cornell.edu
+X-Msg-Ref: server-16.tower-108.messagelabs.com!1393823032!11820323!3
+X-Originating-IP: [143.104.101.21]
+X-StarScan-Received:
+X-StarScan-Version: 6.9.16; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 20869 invoked from network); 3 Mar 2014 05:03:54 -0000
+Received: from unknown (HELO smtp.nyp.org) (143.104.101.21)
+  by server-16.tower-108.messagelabs.com with AES128-SHA encrypted SMTP; 3 Mar 2014 05:03:54 -0000
+Received: from smtp.nyp.org (10.172.133.188) by NYSGEXED02.nyp.org
+ (10.172.133.181) with Microsoft SMTP Server id 14.3.174.1; Mon, 3 Mar 2014
+ 00:03:48 -0500
+Received: from NYSGMBXB01.a.wcmc-ad.net ([fe80::b86e:8fcf:17af:9d62]) by
+ NYSGCAS01.a.wcmc-ad.net ([::1]) with mapi id 14.03.0158.001; Mon, 3 Mar 2014
+ 00:03:37 -0500
+From: Olivier Elemento <ole2001@med.cornell.edu>
+To: Liste Bioinfo <bioinfo@sfbi.fr>
+Thread-Topic: CSHL Summer Course on Statistical Methods for Functional
+ Genomics
+Thread-Index: AQHPNp3v1xb24mL8UEW27PQUbYSHfw=
+Date: Mon, 3 Mar 2014 05:03:37 +0000
+Message-ID: <BEE07A85-DADC-4638-9B98-A38C790D5EF9@med.cornell.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.172.132.5]
+x-received-by: Exchange
+Content-Type: text/plain; charset="Windows-1252"
+Content-ID: <EE9D5E83CD57D54DA56E263EDE2ED70C@wcmc-ad.net>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-CFilter-Loop: Reflected
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CSHL Summer Course on Statistical Methods for Functional Genomics
+Dear colleagues,
+The registration deadline is approaching (March 15) for the 2014 Summer Cou
+rse on Statistical Methods for Functional Genomics, to be held June 18 - Ju
+ly 1, 2014 at the Cold Spring Harbor Laboratories in Long Island, NY, USA.
+This is an intensive, hands-on course focused on state-of-the-art statistic
+al techniques for genomic data analysis and integration.
+The course features theory lectures, practical applications using R program
+ming and research talks from high-profile scientists. Past faculty speakers
+ have included Christina Leslie, Mark Gerstein, Jason Lieb, John Stam, John
+ Storey and many others.
+Topics will include:
+=95 The R environment for statistical computing and graphics
+=95 Bioconductor packages
+* Reproducible research, Sweave
+=95 Review of basic statistical theory and hypothesis testing
+=95 Experimental design, quality control, and normalization
+=95 High-throughput sequencing technologies
+=95 Expression profiling using RNA-Seq and microarrays
+=95 In vivo protein binding using ChIP-Seq
+=95 High-resolution chromatin footprinting using DNase-Seq
+=95 DNA methylation profiling analysis
+=95 Machine learning in biology
+=95 Integrative analysis of data from parallel assays
+=95 Representations of DNA binding specificity and motif discovery algorith
+ms
+=95 Predictive modeling of gene regulatory networks using machine learning
+=95 Analysis of posttranscriptional regulation, RNA binding proteins, and m
+icroRNAs
+Further details and application procedure are available at http://meetings.
+cshl.edu/courses/2014/c-data14.shtml
+Cheers,
+Olivier Elemento
+---------------------------------------------------------------------------
+----------
+Olivier Elemento, PhD
+Assistant Professor
+Head, Laboratory of Cancer Systems Biology
+Department of Physiology and Biophysics
+Institute for Computational Biomedicine
+Weill Cornell Medical College
+1305 York Avenue, New York, NY, 10021
+Phone: (646) 962-5726 / Cell: (646) 912-5410
+ole2001@med.cornell.edu
+http://physiology.med.cornell.edu/faculty/elemento/lab/
+---------------------------------------------------------------------------
+----------

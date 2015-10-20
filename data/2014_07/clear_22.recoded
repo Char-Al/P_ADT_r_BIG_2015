@@ -1,0 +1,126 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <hubert.charles@insa-lyon.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id AB63C26801D
+	for <bioinfo@sfbi.fr>; Mon,  7 Jul 2014 12:29:50 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjcBAIt1ulOG1rb0nGdsb2JhbABag2DHE4EVFg8BAQEBAQgLCQkUKIQWJgEFMCojGhoCWQYCAQGIPg2TT40EliKSRReOUQEBKYRwBZw+hS+PFoFEgXU
+X-IronPort-AV: E=Sophos;i="5.01,617,1400018400"; 
+   d="scan'208";a="69783561"
+Received: from smtp.insa-lyon.fr ([134.214.182.244])
+  by a-mx1.relay.syrhano.net with ESMTP; 07 Jul 2014 12:29:50 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.insa-lyon.fr (smtp.insa-lyon.fr) with ESMTP id 5F1044006F
+	for <bioinfo@sfbi.fr>; Mon,  7 Jul 2014 12:29:49 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at insa-lyon.fr
+Received: from smtp.insa-lyon.fr ([IPv6:::ffff:127.0.0.1])
+	by localhost (smtp.insa-lyon.fr [::ffff:127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NshWcTxN-Idk for <bioinfo@sfbi.fr>;
+	Mon,  7 Jul 2014 12:29:48 +0200 (CEST)
+Received: from bf2i007.insa-lyon.fr (bf2i007.insa-lyon.fr [134.214.158.64])
+	(using TLSv1 with cipher ECDHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	(Authenticated sender: hcharles)
+	by smtp.insa-lyon.fr (smtp.insa-lyon.fr) with ESMTPSA id C9D573FF34
+	for <bioinfo@sfbi.fr>; Mon,  7 Jul 2014 12:29:48 +0200 (CEST)
+Message-ID: <53BA769C.903@insa-lyon.fr>
+Date: Mon, 07 Jul 2014 12:29:48 +0200
+From: Hubert Charles <hubert.charles@insa-lyon.fr>
+Reply-To: hubert.charles@insa-lyon.fr
+Organization: INSA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Poste ATER (100%) - =?WINDOWS-1252?Q?G=E9nomique?= et transcriptomique - INSA-LYON (dept Biosciences, UMR BF2I) - Date limite de =?WINDOWS-1252?Q?d=E9pot?= des dossiers : 31 juillet
+Bonjour,,
+Un poste d'ATER est ouvert à la rentrée 2014 à l'INSA de Lyon en 
+"Génomique et transcriptomique à haut débit" avec en perspective 
+l'ouverture d'un concours pour un poste de Maître de conférences sur le 
+même domaine (Département Biosciences, UMR BF2I) l'année prochaine. Le 
+descriptif du poste est donné ci-dessous.
+J'attire votre attention sur les délais très courts : les dossiers 
+doivent être déposés à l'administration au plus tard le 31 juillet 
+(http://www.insa-lyon.fr/fr/insa-de-lyon/recrutement/enseignant-chercheur/ater/attache-temporaire-d-enseignement-et-de-recherche). 
+En cette période de vacances, merci de bien mettre les 3 contacts 
+enseignements et recherche en CC dans vos correspondances mail.
+Cordialement,
+H. Charles
+-- 
+Hubert Charles (Pr)
+UMR203 Biologie Fonctionnelle Insectes et Interactions (BF2I),
+FR41, INRA, INSA-Lyon, Bat Louis Pasteur, F-69621 Villeurbanne,
+FRANCE
+tel : 04-72-43-80-85
+Fax : 04-72-43-85-34
+http://bf2i.insa-lyon.fr/
+http://biosciences.insa-lyon.fr/
+Poste: 65 ATER_MCF0561 : Génomique et transcriptomique cellulaire à haut 
+débit
+INSA-Lyon BF2I (http://bf2i.insa-lyon.fr/)
+Quotité : 100%
+Enseignement : Génomique et transcriptomique à haut débit
+Les enseignements porteront sur les techniques d'analyses et 
+d'intégration de données à haut débit (NGS-Next Generation Sequencing et 
+« omiques ») dans les deux filières BB et BiM du département Biosciences 
+(http://biosciences.insa-lyon.fr/), notamment : Expressions des gènes, 
+Mathématiques et informatique du vivant, Bioinformatique et Réseaux 
+biologiques. De part ses compétences, la personne recrutée pourra 
+également s'investir dans d'autres enseignements de bioinformatique du 
+département et plus particulièrement dans le projet iGEM demandeur de 
+modélisation en génomique.
+Le (la) candidat(e) devra posséder une solide formation en 
+biostatistiques et en bioinformatique. Il (elle) devra pouvoir 
+travailler sur des jeux de données issus de la biologie (par exemple 
+l'assemblage de génomes ou l'analyse de transcriptomes) et maîtriser le 
+questionnement biologique sous-jacent aux problèmes technologiques 
+développés en informatique ou en mathématique.
+Contact enseignement/département
+Hubert Charles - 04 72 43 80 85, hubert.charles@insa-lyon.fr
+Recherche : Génomique et transcriptomique des interactions cellulaires
+La recherche portera sur l'utilisation et le développement d'outils et 
+de méthodes d'analyses de données génomiques et transcriptomiques à haut 
+débit dans le cadre de l'étude des interactions cellulaires. Les modèles 
+d'étude de l'UMR BF2I sont les cellules bactériocytaires d'insectes chez 
+le puceron Acyrthosiphon pisum et le charançon Sitophilus oryzae. Ces 
+cellules spécialisées hébergent des bactéries intracellulaires et 
+interagissent avec elles au niveau métabolique et immunitaire. Divers 
+jeux de données transcriptomiques (microarrays et NGS pour l'étude de 
+l'expression d'ARNm et/ou de microARN) ont déjà été produits par l'UMR 
+et sont en cours d'analyse. De même, le laboratoire est engagé dans des 
+programmes de génomique (séquençage et annotation du génome du charançon 
+et de diverses bactéries symbiotiques chez les pucerons). L'UMR affiche 
+la volonté de s'orienter vers la biologie des systèmes et la biologie 
+prédictive. La personne recrutée devra s'impliquer dans ces programmes 
+transversaux pour appliquer et développer des outils et des méthodes 
+d'analyse de données haut-débit. Elle devra intégrer ces données dans 
+les réseaux génétiques, métaboliques et de signalisation cellulaire afin 
+d'étudier l'interactome hôte-symbiote d'une manière systémique et de 
+connaître l'origine homéostasique des cellules bactériocytaires.
+Le(a) candidat(e) devra avoir la capacité de travailler en équipe, tout 
+en faisant preuve d'autonomie. D'excellentes connaissances théoriques et 
+appliquées sont requises dans les domaines de l'analyse de données, de 
+la bioinformatique et de la biologie moléculaire (ex. programmation de 
+script, maîtrise de R, capacité d'analyse des séquences et intégration 
+des données « omiques » dans les réseaux).
+Ce poste viendra renforcer le potentiel de compétences de la plateforme 
+math info du département composé actuellement d'un PR en biologie 
+systémique (BF2I), d'un MC en informatique (CarMeN) et d'un MC en 
+statistiques (MAP). Par ailleurs, BF2I possède un atelier en génomique 
+et transcriptomique composé d'un PR INSA, d'un CR et d'un AI INRA. La 
+personne recrutée viendra renforcer cet atelier. Le partage d'outils et 
+de compétences au sein du département se fera dans ce cadre et pourra 
+être formellement établi avec les équipes qui souhaitent également 
+s'ouvrir à la biologie des systèmes.
+Contact Recherche :
+Abdelaziz Heddi - 04 72 43 88 68, Abdelaziz.Heddi@insa-lyon.fr
+Federica Calevro - 04 72 43 79 88, federica.calevro@insa-lyon.fr
+Mots clés (champ de recherche)
+Biologie Systémique, Génomique, Transcriptomique, Next Generation 
+Sequencing (NGS), Statistiques, Biologie Moléculaire, Physiologie 
+Cellulaire, Insectes, Symbiose Bactériennne Intracellulaire, 
+Bactériocyte, Interactome.

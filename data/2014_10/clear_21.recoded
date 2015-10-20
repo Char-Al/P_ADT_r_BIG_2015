@@ -1,0 +1,77 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <micter2@free.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id BC76826801D
+	for <bioinfo@sfbi.fr>; Wed,  8 Oct 2014 18:14:44 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApMBAF9iNVTUGyoFnGdsb2JhbABfhnVI0GUWAREBAQEBAQYNCQkULIQWFw8BBTogHAIFIQIRAlYDBgIBAYglARiQd40SjzuNHAmHfoEsjzWCYYFUBYYrlxqHZJIOaoJKAQEB
+X-IPAS-Result: ApMBAF9iNVTUGyoFnGdsb2JhbABfhnVI0GUWAREBAQEBAQYNCQkULIQWFw8BBTogHAIFIQIRAlYDBgIBAYglARiQd40SjzuNHAmHfoEsjzWCYYFUBYYrlxqHZJIOaoJKAQEB
+X-IronPort-AV: E=Sophos;i="5.04,678,1406584800"; 
+   d="scan'208";a="65829243"
+Received: from smtp5-g21.free.fr ([212.27.42.5])
+  by b-mx1.relay.syrhano.net with ESMTP; 08 Oct 2014 18:14:44 +0200
+Received: from [192.168.1.31] (unknown [90.58.40.138])
+	(Authenticated sender: micter)
+	by smtp5-g21.free.fr (Postfix) with ESMTPSA id 900F6D48129
+	for <bioinfo@sfbi.fr>; Wed,  8 Oct 2014 18:13:44 +0200 (CEST)
+Message-ID: <543562F3.60404@free.fr>
+Date: Wed, 08 Oct 2014 18:14:43 +0200
+From: =?UTF-8?B?TWljaGHDq2wgVA==?= <micter2@free.fr>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:31.0) Gecko/20100101 Thunderbird/31.1.2
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Offre de CDD
+Bonjour,
+*
+*Vous trouverez ci-dessous une offre de CDD de 2 ans au Laboratoire de 
+Police Scientifique de Lille.
+Il s'agit d'un poste pour un analyste/programmeur, mais ayant une bonne 
+connaissance en génétique.
+Ce poste est à pourvoir avant 2015.
+Pour tout renseignement, me contacter :
+Michaël TERRIER
+michael.terrier@interieur.gouv.fr
+03.20.12.89.46
+*-----------------------------------------------------*
+*Informaticien auLaboratoire de Police Scientifique de Lille*
+L’INPS (Institut National de Police Scientifique) regroupe 5 
+laboratoires répartis sur l'ensemble du territoire (Marseille, Lille, 
+Lyon, Paris et Toulouse).
+Il participe activement à la lutte contre la délinquance de masse et la 
+criminalité organisée.
+Au laboratoire de Lille, la section biologie (35 personnes) assure la 
+majorité des analyses réalisées. A ce titre, elle s'est dotée d'outils 
+informatiques nécessaires à l'automatisation des analyses et des rapports.
+*Description du poste :*
+En relation avec son concepteur, la personne retenue devra se 
+familiariser avec l'application de la production analytique en usage 
+dans la section biologie afin de pouvoir assurer sa maîtrise, le soutien 
+aux utilisateurs (non informaticiens) et le transfert de compétence vers 
+les autres membres de la section informatique du laboratoire.
+*Conditions du contrat :
+*
+  * CDD de 2 ans renouvelable. Régime hebdomadaire 40h30, compensation
+    par 29 jours d'ARTT.
+  * Rémunération en tant qu'agent contractuel de droit public, indexée
+    sur la grille des techniciens de Police Technique et Scientifique
+    (environ 1500 € mensuels nets)
+*Missions confiées :*
+  * s'approprier et documenter le code,
+  * assurer la maintenance et le soutien aux utilisateurs,
+  * rédiger la documentation nécessaire à la mise en œuvre du soutien
+    aux usagers et au transfert de compétences,
+  * concevoir les développements du logiciel, les réaliser, les tester
+    suivant les critères de la norme ISO 17025.
+*Compétences souhaitées :*
+  * être autonome,
+  * savoir travailler en équipe pluridisciplinaire (des connaissances en
+    biologie seraient un plus),
+  * connaître les langages de programmation orienté object (VBNET),
+  * connaître un langage de programmation orienté web (de préférence JAVA),
+  * maîtriser le langage SQL (MySQL et Oracle),
+  * connaître la syntaxe XML.

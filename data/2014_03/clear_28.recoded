@@ -1,0 +1,86 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mthomas@biologie.ens.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 4FB4D26801D
+	for <bioinfo@sfbi.fr>; Wed, 12 Mar 2014 12:43:15 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgkIAFRHIFOBx2Aoamdsb2JhbABaxWYBgR0WDg0JDAYUKoJeAUU9FhgDAgECAVgGAgEBGIddoVaPZ6A7jXCBCYQiBK4ggXE
+X-IronPort-AV: E=Sophos;i="4.97,637,1389740400"; 
+   d="scan'208";a="55234042"
+Received: from nef2.ens.fr ([129.199.96.40])
+  by b-mx1.relay.syrhano.net with ESMTP; 12 Mar 2014 12:43:14 +0100
+Received: from biologie.ens.fr (milda.ens.fr [129.199.18.219])
+          by nef2.ens.fr (8.13.6/1.01.28121999) with ESMTP id s2CBhEPK012344
+          for <bioinfo@sfbi.fr>; Wed, 12 Mar 2014 12:43:14 +0100 (CET)
+X-Envelope-To: <bioinfo@sfbi.fr>
+Received: from localhost (av3.biologie.ens.fr [129.199.21.124])
+	by biologie.ens.fr (Postfix) with ESMTP id 0061891A
+	for <bioinfo@sfbi.fr>; Wed, 12 Mar 2014 12:43:14 +0100 (CET)
+X-Virus-Scanned: spam & virus filtering at av3.ens.fr
+X-Spam-Flag: NO
+X-Spam-Score: -9.547
+X-Spam-Level: 
+X-Spam-Status: No, score=-9.547 tagged_above=-9999 required=5
+	tests=[ALL_TRUSTED=-1, AUTHD_RELAY=-8, RP_MATCHES_RCVD=-0.547]
+	autolearn=ham
+Received: from biologie.ens.fr ([IPv6:::ffff:129.199.18.219])
+	by localhost (av3.biologie.ens.fr [::ffff:129.199.21.124]) (amavisd-new, port 10024)
+	with ESMTP id mhabiyj8AJ7V for <bioinfo@sfbi.fr>;
+	Wed, 12 Mar 2014 12:43:13 +0100 (CET)
+Received: from csbmac10.ens.fr (csbmac10.ens.fr [129.199.17.105])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	(Authenticated sender: mthomas)
+	by biologie.ens.fr (Postfix) with ESMTPSA id 3F162804
+	for <bioinfo@sfbi.fr>; Wed, 12 Mar 2014 12:43:13 +0100 (CET)
+Message-ID: <53204851.9010303@biologie.ens.fr>
+Date: Wed, 12 Mar 2014 12:43:13 +0100
+From: Morgane Thomas-Chollier <mthomas@biologie.ens.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:17.0) Gecko/20130328 Thunderbird/17.0.5
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+X-Enigmail-Version: 1.6
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-3.1.4 (nef2.ens.fr [129.199.96.32]); Wed, 12 Mar 2014 12:43:14 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Hands-on bioinformatics training class at IBENS (Paris)
+Dear colleagues,
+The computational biology and bioinformatics platform at Institut de
+Biologie de l'Ecole Normale Supérieure (IBENS) in Paris is organizing a
+2-days hands-on bioinformatics training class dedicated to biologists
+(targeted audience: wet-lab biologists/researchers). Please forward this
+message around.
+There are still a few places left. The course will be taught in English
+or French, depending on the audience.
+Dates: Tuesday 1st / Wednesday 2nd April
+Day1: Using published high-throuput datasets
+How to access, use and visualize published data?
+Topics:
+- accessing data in GEO from an accession number in a publication
+- determine whether the data are raw data / processed data
+- knowledge of the file standard (BED - BAM - WIG - BEDGRAPH ...)
+- visualisation in UCSC browser
+- ENCODE data
+Day2: Gentle introduction to command-line usage
+How to use the command-line to deal with high-throughput data ?
+Topics:
+- demystifying the command-line (it can be scary, but it's not harmful !)
+- introduction to basic commands
+- inputs / outputs
+- opening big data files (> 1 Go)
+- recipes for various tasks : counting sequences in fasta files,
+selecting columns, specific rows in tabular files
+Price:
+1day 150euros, 2 days 250euros for Labex Memolife members (from IBENS,
+CIRB or ESPCI).
+1day 200euros, 2 days 350euros for other academics
+1day 400euros, 2 days 700euros for industry attendees
+Registration:
+Contact Auguste Genovesio (auguste.genovesio@ens.fr) to register
+Notes:
+Morgane Thomas Chollier will be responsible for this training.
+If you are interested in additional specific topics for future training,
+feel free to contact Auguste Genovesio (auguste.genovesio@ens.fr)

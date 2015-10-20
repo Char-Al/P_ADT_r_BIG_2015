@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id E0A3126801D
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 12:58:36 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmsBAHMza1SKZqI0nGdsb2JhbABbg2NZAYMFizMBvWCIbQEBAQEBEQEBAQEBCAsJCRQuhCwQBRErCA4kAiYCEiwQJIhBDaoFj0uBdIZgh3yGW4EtjnkRAW2CYYFUBYEwtWYBAQEHAQEBAYInbIEPgTwBAQE
+X-IPAS-Result: AmsBAHMza1SKZqI0nGdsb2JhbABbg2NZAYMFizMBvWCIbQEBAQEBEQEBAQEBCAsJCRQuhCwQBRErCA4kAiYCEiwQJIhBDaoFj0uBdIZgh3yGW4EtjnkRAW2CYYFUBYEwtWYBAQEHAQEBAYInbIEPgTwBAQE
+X-IronPort-AV: E=Sophos;i="5.07,409,1413237600"; 
+   d="scan'208";a="77073506"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 18 Nov 2014 12:58:37 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sAIBwZrs029778
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 12:58:35 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id D2C20296BA4
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 12:58:35 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XqhSk-0008VT-VY
+	for bioinfo@sfbi.fr; Tue, 18 Nov 2014 13:00:51 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XqhSk-0008VT-VY@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 18 Nov 2014 13:00:50 +0100
+X-Miltered: at beta with ID 546B346B.006 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 546B346B.006/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 546B346B.006 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.290 -> S=0.387
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] M2 - =?UTF-8?Q?Accessibilit=C3=A9?= =?UTF-8?Q?d=E2=80=99un?= prot  =?UTF-8?Q?=C3=A9ome?= par =?UTF-8?Q?spectrom=C3=A9trie?= de masse
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : M2 - Accessibilité d’un protéome par spectrométrie  
+de masse
+Type de poste : Stage
+Durée du poste : 5 à 6 mois
+Ville : Nantes
+Nom du contact : Guillaume Fertin
+Email du contact : guillaume.fertin@univ-nantes.fr
+Laboratoire : INRA et LINA
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m2-accessibilit%C3%A9-d%E2%80%99un-prot%C3%A9ome-par-spectrom%C3%A9trie-de-masse

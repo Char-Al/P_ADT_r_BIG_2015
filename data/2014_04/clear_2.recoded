@@ -1,0 +1,258 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Laetitia.Marisa@ligue-cancer.net>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id C683926801D
+	for <bioinfo@sfbi.fr>; Tue,  1 Apr 2014 17:18:10 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnkCAIvXOlNcZ1+jdGdsb2JhbABPAQmCZVxXvBOHV4EODgEMFQg8gixTFAQgARUHGQ49JwQRh3wDCZ9Cj2ihexeODAIGAQQFAgFggiQPgXsEjlmeJ4E/QYEoAQEeBhw
+X-IronPort-AV: E=Sophos;i="4.97,773,1389740400"; 
+   d="scan'208";a="64486236"
+Received: from smtp.ligue-cancer.net (HELO ligue-cancer.net) ([92.103.95.163])
+  by a-mx1.relay.syrhano.net with ESMTP; 01 Apr 2014 17:18:09 +0200
+Received: from Internal Mail-Server by pineapp (envelope-from
+	Laetitia.Marisa@ligue-cancer.net) with SMTP; 1 Apr 2014 17:17:50 +0200
+Received: from SV0045.ligue-cancer.net ([fe80::3cd4:7bf9:b1f8:7c9f]) by
+	SV0046.ligue-cancer.net ([::1]) with mapi id 14.03.0174.001; Tue, 1 Apr 2014
+	17:17:50 +0200
+From: Laetitia Marisa <Laetitia.Marisa@ligue-cancer.net>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Postdoctoral position: identification of targetable splicing
+	aberrations in microsatellite instable (MSI) colorectal cancer by
+	RNA-sequencing analysis (Paris, France)
+Thread-Index: AQHPTb2K/6D3Wlx+MEWZnx0TVjCUhQ=
+Date: Tue, 1 Apr 2014 15:17:49 +0000
+Message-ID: <CF609BE7.572DF%laetitia.marisa@ligue-cancer.net>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+user-agent: Microsoft-MacOutlook/14.3.9.131030
+x-originating-ip: [172.16.2.191]
+Content-Type: text/plain; charset="Windows-1252"
+Content-ID: <50169742D144084AA468DE2C9F2C714C@ligue-cancer.net>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoctoral position: identification of targetable splicing
+	aberrations in microsatellite instable (MSI) colorectal cancer by
+	RNA-sequencing analysis (Paris, France)
+[Project Description]
+The aim of the post-doctoral project is to decipher splicing aberrations
+due to microsatellite instability (MSI) in colorectal cancer (CRC) and to
+find out new specific therapeutic targets by analyzing high-throughput RNA
+sequencing (RNA-seq) data of a large cohort of tumors. The entire project
+is detailed below.
+The main missions will be:
+- Genome-guided and denovo transcriptome reconstruction to identify robust
+splicing events (exon skipping, exon fusion...) potentially implicated in
+MSI CRC tumours.
+- Differential splicing analysis between MSI tumours and normal tissues to
+get candidate events significantly associated to MSI cancer.
+- Prioritization of splicing variants based on data support (integration
+with mutation and expression profiles) and disease knowledge will be
+carried out to select the variants which will be experimentally assessed.
+[Research Environment]
+The candidate will be part of the =8CMicrosatellite Instability (MSI) and
+Cancer=B9 team located at the Saint-Antoine Hospital (Paris, 12) and will be
+in strong interaction with the biostatical team of the =8CCartes d=B9Identi
+té
+des Tumeurs=B9(CIT) program (http://cit.ligue-cancer.net). This project will
+be developed in collaboration with the =8CNational Genotyping Center=B9 (CN
+G)
+and the =8CJean Dausset Foundation =AD CEPH.
+[Qualifications]
+Candidates should have:
+- a PhD in bioinformatics/biostatistics or a related domain.
+- a real motivation and extensive expertise in RNA-seq analysis.
+- a good knowledge of molecular biology and in particular of the RNA
+splicing process.
+- experience in processing and analyzing various types of =8C-omics=B9 data.
+- experience in NGS analysis would be a plus, especially in split-read
+mapping, denovo read assembly, transcriptome reconstruction, denovo gene
+fusion detection (Bwa, Tophat, Trinity, AbySS, Cufflinks, ChimeraScan...)
+and isoform abundance estimation and differential splicing analysis
+(DEseq, Cuffdiff...).
+- good programming skills (R, perl/python, Shell/Unix command line).
+[Application]
+Candidates who are interested should send to Dr Alex DUVAL
+(alex.duval(at)inserm.fr):
+1. a short motivation letter
+2. a list of publications
+3. a full CV
+Deadline for applications: May 10, 2014
+[Funding]
+We will apply for a postdoctoral allowance from the Ligue Nationale Contre
+le Cancer
+(http://www.ligue-cancer.net/article/27236_appels-projets-recherche).
+Starting Date: January 2015
+Duration: 3 years
+[Detailed Description of the Research Environment]
+The team =8CMicrosatellite Instability (MSI) and Cancer=B9 was created on
+January 1st, 2006. In 2009, our laboratory joined the Saint-Antoine
+Research Center (UMRS 938, Inserm and Faculty Pierre et Marie Curie,
+Paris). This hospital is internationally recognized for cancer treatment,
+predominantly in the area of gastrointestinal oncology. Since founded, our
+group has built a unique collection of tumor samples and clinical
+databases, entirely dedicated to MSI cancer patients and notably
+colorectal tumors. Together with original biological tools, mouse models
+and techniques that we specifically designed or adapted for the study of
+these malignancies, these resources have allowed us to perform major
+recent advances in understanding the pathophysiology of MSI colon cancer,
+as well as to opening important new clinical perspectives in the field.
+The team=B9s approved by the =8CFrench National League against Cancer=B9 is
+ongoing for the next 3 years.
+5 Selected Publications from the =8CMicrosatellite Instability (MSI) and
+Cancer=B9 Lab (last 5 years) :
+Collura A, Lagrange A, Svrcek M, Marisa L, Buhard O, Guilloux A,
+Wanherdrick K, Dorard C, Taieb A, Saget A, Loh M, Soong R, Zeps N, Platell
+C, Mews A, Iacopetta B, de Thonel A, Seigneuric A, Marcion G, Chapusot C,
+Lepage C, Bouvier AM, Gaub MP, Milano G, Selves J, Senet P, Delarue P,
+Arzouk H, Lacoste C, Coquelle A, Bengrine-lefèvre L, Tournigand C, Lefè
+vre
+JH, Parc Y, Biard DS, Fléjou JF, Garrido C, Duval A. Patients With
+Colorectal Tumors With Microsatellite Instability And Large Deletions In
+Hsp110 T17 Have Improved Response To 5-Fluorouracil-Based Chemotherapy.
+Gastroenterology 2014 146(2) : 401-411.
+Marisa L, de Reyniès A, Duval A, Selves J, Gaub MP, Vescovo L,
+Etienne-Grimaldi MC, Schiappa R, Guenot D, Ayadi M, Kirzin S, Chazal M,
+Fléjou JF, Benchimol D, Berger A, Lagarde A, Pencreach E, Piard F, Elias
+D, Parc Y, Olschwang S, Milano G, Laurent-Puig P, Boige V. PLoS Med. 2013
+May;10(5):e1001453.
+Dorard C, de Thonel A, Collura A, Marisa L, Svrcek M, Lagrange A, Jego G,
+Wanherdrick K, Joly AL, Buhard O, Gobbo J, Penard-Lacronique V, Zouali H,
+Tubacher E, Kirzin S, Selves J, Milano G, Etienne-Grimaldi MC,
+Bengrine-Lefèvre L, Louvet C, Tournigand C, Lefèvre J, Parc Y, Tiret E,
+Fléjou JF, Gaub MP, Garrido C, Duval A. Expression of a mutant HSP110
+sensitized colorectal cancer cells to chemotherapy and improves disease
+prognosis. Nature Med. 2011 17(10) : 1283-9.
+Svrcek M, Buhard O, Colas C, Coulet F, Dumont S, Massaoudi I, Lamri A,
+Hamelin R, Cosnes J, Oliveira C, Seruca R, Gaub MP, Legrain M, Collura A,
+Lascols O, Tiret E, Fléjou JF, Duval A. Methylation tolerance due to
+O6-methylguanine DNA methyltransferase (MGMT) field defect in the colonic
+mucosa : an initiating step in the development of mismatch repair
+deficient colorectal cancers. Gut 2010 59 : 1516-26.
+Chalastanis A, Penard-Lacronique V, Svrcek M, Dewafeux V, Antoine N,
+Buhard O, Dumont S, Fabiani B, Renault I, Tubacher E, Fléjou JF, te Riele
+H, Duval A, Muleris M. Azathioprine-induced carcinogenesis in mice
+according to Msh2 mismatch repair gene status. J. Nat. Cancer Inst. 2010
+102 : 1731-40.
+The =8CTumor Identity Cards=B9 (CIT) program aims at characterizing
+extensively the genetic and epigenetic alterations in a variety of
+cancers. The CIT program is based on a network of researchers and
+clinicians involving over 50 teams from all over France. In the past 10
+years, the CIT bioinformatics group has analyzed more than 10,000 samples
+using a combination of high-throughput omics technologies (SNP, expression
+and methylation arrays, miRNA and exome sequencing), leading to more than
+100 publications (http://cit.ligue-cancer.net/?page_id=3D59). These studies
+provide a basis to enable personalized medicine tailored to the genomic
+characteristics of each tumor. This unique platform in France has a strong
+expertise in bioinformatics and biostatistics, which will be crucial for
+the success of this project.
+[Detailed Description of the Post-Doctoral Project]
+BACKGROUND
+The human tumour phenotype referred to as MSI (Microsatellite Instability)
+is associated with inactivating alterations in MMR genes (Mismatch
+Repair). MSI tumours develop through a distinctive molecular pathway
+characterized by the genetic instability of numerous microsatellite DNA
+repeat sequences throughout the genome. The MSI and MSS types
+(Microsatellite Stable, also referred to as CIN for Chromosomal
+Instability) are mutually exclusive and represent approximately 15% and
+85% of colorectal cancer (CRC), respectively. Clinically, MSI colorectal
+cancers (CRCs) have been reported to be poorly metastatic. They show
+improved survival but bad response to 5-Fluorouracil (5-FU)-based
+chemotherapy. The underlying reasons for these clinical characteristics
+are poorly understood. To date, no specific therapeutic approach for MSI
+colon tumours has been developed that takes into account their specific
+mode of transformation.
+MSI is expected to be oncogenic when it affects repeated sequences that
+have a functional role. These last twenty years, studies from our group
+and others have reported somatic mutations in Small Coding Repeats (SCR)
+located within the sequences of various cancer-related genes in MSI
+tumours (DNA repeats exceeding 8-10 bp in size are not observed in coding
+sequences). These alterations are selected during tumour development when
+they give selective advantage to the tumour cells in which they occur.
+Besides the instability of SCR, MSI also affects Long Non-Coding Repeats
+(LNCR) in cancer cells. Only a few of them are endowed with biological
+activity. An example of this is with pre-mRNA splicing whereby a
+mononucleotidic LNCR is located near the splice junction. To date, this
+area has received very little attention. In our lab, we recently
+identified a mutant of HSP110 (HSP110DE9) lacking the HSP110
+substrate-binding domain in MSI CRC that was generated due to somatic
+deletion in a LNCR (T17 intronic DNA repeat). We showed that the
+shortening of T17 LNCR correlated with increased synthesis of an aberrant
+HSP110 transcript due to exon 9 skipping. HSP110DE9 abrogated the
+chaperone activity and anti-apoptotic function of HSP110 in a
+dominant-negative manner. HSP110DE9 expression also increased the
+sensitivity to anticancer agents. In agreement with these in vitro
+findings, we demonstrated that the survival of patients with MSI CRC was
+positively associated with the increasing size of somatic T17 deletions
+due to MSI in CRC.
+AIMS OF THE POST-DOCTORAL PROJECT
+In this project, we will aim at showing that MSI CRC is a splicing
+pathology by identifying other frequent and clinically relevant splicing
+aberrations in these tumours. Some LNCR may constitute obligatory hot
+spots for insertion/deletion in MSI CRC cell and we hypothesized that
+mutations at their level could be observed in future relevant therapeutic
+targets and have a deleterious impact during tumour development (like with
+HSP110). This last point is novel and original, suggesting that MSI might
+not only constitute an oncogenic force but also a limit for colon cancer
+development (in line with the clinical features of MSI CRCs, see above).
+Our objectives are the following:
+(1) To identify other aberrant splicing events due to MSI in CRC. Overall,
+the aim of this project is to decipher the splicing aberrations due to MSI
+in CRC and to find out new specific therapeutic targets which is an
+important unmet medical need. This study will also help to identify the
+sub-populations of CRC patients that would benefit most from either
+classical or new personalized medicine depending on important somatic
+genetic characteristics of their tumour. High throughput RNA Sequencing
+(RNASeq) of 150 MSI colon tumours and paired adjacent normal mucosa
+obtained from patients of the Saint-Antoine hospital is in progress at the
+CNG (Centre National de Génotypage, France. Financial support: France
+Genomics). Fifty MSS colon tumours and paired adjacent normal mucosa are
+also analysed in the same conditions (controls) as well as a series of 10
+CRC cell lines (5 MSI, 5 MSS). All data will be available and therefore
+ready to be exploited for the present project before September 2014.
+NB: the total sequencing volume expected after RNA sequencing of 300
+paired normal/tumor samples is about 2813 giga bases (Gb).
+(2) To check the functional link between MSI and some of the detected
+aberrant splicing events. About 2000 human genes contain at least one
+intron with LNCR very closely to the AG splice acceptor site at the
+intron-exon junction. A preliminary screen we already performed using exon
+arrays highlighted that at least one hundred were likely to be affected by
+recurrent aberrant splicing events in tumour RNAs (mostly exon skipping;
+experiments performed in a small series of CRC cell lines and primary
+tumours. Unpublished). For retained exon candidates (e.g. those with
+recurrent and specific aberrant profiles in MSI tumour samples as compared
+to controls), allelic profiles of LNCR will be analysed using fluorescence
+genotyping in the panel of MSI and MSS CRC cell lines and primary tumours,
+as well as in control LBLs to assess their polymorphic status. As for
+HSP110, we will then evaluated in each case whether the detected splicing
+aberrations are MSI-driven or not (e.g. due to somatic deletions or
+insertions in tumour DNA, see above our analysis of the T17 of HSP110);
+(3) To identify the splicing events and/or LNCR mutations with clinical
+relevance in MSI CRC patients. This will be done in a large cohort of 458
+MSI CRC patients (frozen and/or paraffin tumour material together with
+clinical data are already available; see our recent publication in the
+field validating the role of HSP110 T17 deletions regarding response to
+chemotherapy in CRC patients);
+(4) Depending on results obtained, functional studies on a small number of
+clinically relevant cancer-related genes whose splicing will be highly
+perturbed due to MSI in cancer cells will be initiated. Like for HSP110,
+we will particularly pay attention to mutant proteins that may constitute
+future promising druggable therapeutic targets in MSI colon tumours.
+--
+Laetitia MARISA
+Programme Cartes d'Identité des Tumeurs (CIT)
+Ligue Nationale Contre le Cancer
+http://cit.ligue-cancer.net
+Tel : +33 1 53 55 25 13
+Fax : +33 1 53 55 25 34
+***************************************************************************
+*********
+This footnote confirms that this email message has been scanned by
+PineApp Mail-SeCure for the presence of malicious code, vandals & computer 
+viruses.
+***************************************************************************
+*********

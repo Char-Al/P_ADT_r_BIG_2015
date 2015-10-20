@@ -1,0 +1,64 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mage@genoscope.cns.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2551E26801D
+	for <bioinfo@sfbi.fr>; Tue, 20 May 2014 14:26:33 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgEBAKpJe1PDU96El2dsb2JhbAA/GoNXqkGDOpgNFg4BAQEBAQgWBzyCOCYBBUA9FgQUAwIBAgFYCAEBiEEJNp5Ns3wXhVWFa4MrhCoEoFKOLoFCOzA
+X-IronPort-AV: E=Sophos;i="4.98,874,1392159600"; 
+   d="scan'208";a="58819673"
+Received: from vulcano.genoscope.cns.fr ([195.83.222.132])
+  by b-mx1.relay.syrhano.net with ESMTP; 20 May 2014 14:26:16 +0200
+Received: from [192.168.249.104] (i0013934.pc.local [192.168.249.104])
+	by vulcano.genoscope.cns.fr (8.13.1/8.13.1/mr-4.2) with ESMTP id s4KCQGsJ014783
+	for <bioinfo@sfbi.fr>; Tue, 20 May 2014 14:26:16 +0200
+Message-ID: <537B49E8.4020300@genoscope.cns.fr>
+Date: Tue, 20 May 2014 14:26:16 +0200
+From: LABGeM MicroScope <mage@genoscope.cns.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Formation réseaux métaboliques bactériens sur la plate-forme MicroScope [29 septembre-1er octobre 2014]
+La prochaine session de formation dédiée à la prédiction, la comparaison 
+et l'annotation des réseaux métaboliques bactériens sur la plate-forme 
+MicroScope («Bacterial metabolic networks prediction, comparison and 
+annotation») aura lieu du Lundi 29 septembre 2014 au Mercredi 1er 
+octobre 2014.
+MicroScope ( https://www.genoscope.cns.fr/agc/microscope/ ) est une 
+plate-forme orientée web dédiée à l'annotation fonctionnelle et à 
+l'analyse comparative de génomes microbiens.Développée par l'équipe 
+bio-informatique du LABGeM ( https://www.genoscope.cns.fr/agc/website/ 
+), dirigée par Claudine Médigue et implantée au Genoscope d'Evry, 
+MicroScope propose des résultats d'annotation syntaxique et 
+fonctionnelle pré-calculés, ainsi qu'un ensemble d'outils d'analyse. 
+L'interface web de la plate-forme a été spécifiquement développée pour 
+assister les annotateurs / curateurs dans leur travail grâce à des 
+données « sequence-based » (prédiction de domaines InterPro), « 
+context-based » ( synténies, prédiction de réseaux métaboliques) et 
+expérimentales (expériences de croissance) dans le but d'assigner la 
+meilleure annotation possible à un produit de gène. De plus, MicroScope 
+propose plusieurs fonctionnalités dédiées à l'exploration de données, 
+par requêtes de mots-clés, par la génomique comparative, les analyses 
+métaboliques, ou des statistiques pré-calculées sur les génomes.
+Cette formation s'adresse aussi bien aux personnes ayant déjà un projet 
+d'annotation sur cette plate-forme et souhaitant approfondir son 
+utilisation à travers l'analyse des réseaux métaboliques bactériens, 
+qu'à celles souhaitant s'initier à la génomique comparative et à 
+l'annotation des voies métaboliques.
+Les informations administratives, les horaires, le lieu et le prix de 
+cette formation sont disponibles sur le site du LABGeM : 
+https://www.genoscope.cns.fr/agc/website/spip.php?article756 .
+Si vous êtes intéressés par cette formation, veuillez remplir le 
+formulaire d'inscription disponible à l'adresse suivante: 
+https://www.genoscope.cns.fr/agc/website/spip.php?page=forma_register&lang=fr&session=2154
+Nos collaborateurs de l'Université d'Evry-Val d'Essonne 
+(http://www.univ-evry.fr) en charge de l'organisation de la formation 
+prendront ensuite contact avec vous afin de vous transmettre le devis, 
+ainsi que la convention de formation.
+Cordialement
+L'équipe LABGeM

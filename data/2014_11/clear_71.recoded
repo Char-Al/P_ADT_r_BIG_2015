@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 0710C26801D
+	for <bioinfo@sfbi.fr>; Tue, 25 Nov 2014 11:59:31 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmoCANJfdFSKZqI0nGdsb2JhbABbg1hXAYI8SIofAbwBhkoCgS4BAQEBAREBAQEBAQgLCQkULoQVFxAFESsIDggcAiYCEiwQJIhADZ0ZjS2PSYFvhlWIH4Y0gS2OaxEBbYJigVUFgS+2LAEBAQEGAQEBAQGCJXaBD4E7AQEB
+X-IPAS-Result: AmoCANJfdFSKZqI0nGdsb2JhbABbg1hXAYI8SIofAbwBhkoCgS4BAQEBAREBAQEBAQgLCQkULoQVFxAFESsIDggcAiYCEiwQJIhADZ0ZjS2PSYFvhlWIH4Y0gS2OaxEBbYJigVUFgS+2LAEBAQEGAQEBAQGCJXaBD4E7AQEB
+X-IronPort-AV: E=Sophos;i="5.07,455,1413237600"; 
+   d="scan'208";a="68922004"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 25 Nov 2014 11:59:30 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sAPAxUSX007691
+	for <bioinfo@sfbi.fr>; Tue, 25 Nov 2014 11:59:30 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 2B993296B94
+	for <bioinfo@sfbi.fr>; Tue, 25 Nov 2014 11:59:30 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XtDsR-0009mX-OA
+	for bioinfo@sfbi.fr; Tue, 25 Nov 2014 12:01:47 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XtDsR-0009mX-OA@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 25 Nov 2014 12:01:47 +0100
+X-Miltered: at beta with ID 54746112.004 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54746112.004/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54746112.004 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.270 -> S=0.363
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Stage] Algorithmique des structures d  =?UTF-8?Q?=E2=80=99ARN?= localement optimales
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Algorithmique des structures d’ARN localement  
+optimales
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Lille
+Nom du contact : Hélène Touzet
+Email du contact : helene.touzet@lifl.fr
+Laboratoire : LIFL
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/algorithmique-des-structures-d%E2%80%99arn-localement-optimales

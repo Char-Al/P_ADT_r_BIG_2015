@@ -1,0 +1,62 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Guy.Perriere@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id D577B26801D
+	for <bioinfo@sfbi.fr>; Tue, 14 Jan 2014 09:07:04 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlgCANzv1FKG1rySnGdsb2JhbABag0O8OBYOAQEBAQEICwkJFCiCOIpCDZsYqiuPJIIZD2aBEwStYQ
+X-IronPort-AV: E=Sophos;i="4.95,657,1384297200"; 
+   d="scan'208";a="52296962"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by b-mx1.relay.syrhano.net with ESMTP; 14 Jan 2014 09:07:04 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 306C8E00A4
+	for <bioinfo@sfbi.fr>; Tue, 14 Jan 2014 09:07:04 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id eXGAPOIN4pFg for <bioinfo@sfbi.fr>;
+	Tue, 14 Jan 2014 09:07:00 +0100 (CET)
+Received: from kantkino.univ-lyon1.fr (kantkino.univ-lyon1.fr [134.214.34.97])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 4393BE0022
+	for <bioinfo@sfbi.fr>; Tue, 14 Jan 2014 09:07:00 +0100 (CET)
+From: Guy_Perrière <Guy.Perriere@univ-lyon1.fr>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 14 Jan 2014 09:07:00 +0100
+Message-Id: <3D0D15A8-8659-4D8D-939D-823F5469941E@univ-lyon1.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1085)
+X-Mailer: Apple Mail (2.1085)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Formation "Analyse des données RNA-Seq et ChIP-Seq pour les biologistes"
+Bonjour à tous,
+Le PRABI (Pôle Rhône-Alpes de Bioinformatique) organise, en partenariat
+ avec FC-3bio, du 11 au 13 février 2014 une formation destinée aux biol
+ogistes et dédiée à l'analyse des données RNA-Seq et ChIP-Seq. Cett
+e formation aura lieu dans les locaux du PRABI, sur le campus de la Doua de
+ l'Université Claude Bernard - Lyon 1.
+Les objectifs de cette formation sont les suivants :
+- Acquérir les connaissances générales sur les méthodes de séquen
+=E7age à haut-débit.
+- Conna=EEtre les caractéristiques des données obtenues dans le cadre d
+e l'analyse du transcriptome (RNA-Seq) et de la régulation des gènes (C
+hIP-Seq).
+- Savoir planifier une expérience simple de type RNA-Seq ou ChIP-Seq en f
+onction de ses objectifs scientifiques et des caractéristiques et contrai
+ntes expérimentales.
+- Conna=EEtre les principales méthodes et outils d'analyse des données 
+RNA-Seq et ChIP-sSq. Pouvoir les mettre en oeuvre dans un cas simple via un
+ serveur  Galaxy.
+- Pouvoir visualiser les résultats dans un navigateur de génome.
+Le programme complet de la formation ainsi qu'un formulaire d'inscription e
+st disponible à l'adresse suivante :
+http://www.fc3bio.fr/Analyse-des-donnees-RNA-seq-et-ChIP-seq-sequencage-hau
+t-debit--a-l-aide-d-outils-orientes-vers-un-public-de-biologistes_a39.html
+Nous restons à votre disposition pour tout renseignement complémentaire.
+--
+Guy Perrière
+Directeur du Pôle Rhône-Alpes de Bioinformatique
+http://www.prabi.fr

@@ -1,0 +1,62 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <samuel.granjeaud@inserm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id E7B2526801D
+	for <bioinfo@sfbi.fr>; Mon, 27 Jan 2014 08:46:39 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: As0BAPwN5lLDYvwlnGdsb2JhbABZg0SDCUq5VoEJFg4BAQEBAQgLCQkUKII4FxVAARkcAgUWCwILAwIBAgFYAQUCAQGIBQmPUZtxnHGBKYtngX0dglmBSQSYJ4EyhH6PHA
+X-IronPort-AV: E=Sophos;i="4.95,727,1384297200"; 
+   d="scan'208";a="60920049"
+Received: from smtp.inserm.fr ([195.98.252.37])
+  by a-mx1.relay.syrhano.net with ESMTP; 27 Jan 2014 08:46:39 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.inserm.fr (SrvInserm) with ESMTP id 5513A168056;
+	Mon, 27 Jan 2014 08:46:39 +0100 (CET)
+X-Virus-Scanned: amavisd-new at inserm.fr
+Received: from smtp.inserm.fr ([195.98.252.37])
+	by localhost (potentille.inserm.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 4bTG5xXIP1JD; Mon, 27 Jan 2014 08:46:39 +0100 (CET)
+Received: from cognac-lmde.crcm.mrs (236-ne1068.marseille.inserm.fr [195.220.68.236])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by smtp.inserm.fr (SrvInserm) with ESMTP id 3651B168078;
+	Mon, 27 Jan 2014 08:46:37 +0100 (CET)
+Message-ID: <52E60EDC.9020109@inserm.fr>
+Date: Mon, 27 Jan 2014 08:46:36 +0100
+From: Samuel Granjeaud <samuel.granjeaud@inserm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.1.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Cc: caroline.vieuille@free.fr
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Formations...
+Bonjour,
+Deux annonces récentes portant sur des formations m'ont interpell=C3
+=A9 :
+http://listes.sfbi.fr/wws/arc/bioinfo/2014-01/msg00065.html
+http://listes.sfbi.fr/wws/arc/bioinfo/2014-01/msg00039.html
+Malgré leur intérêt d'actualité, leur prix sont él
+evés, même pour les
+académiques.
+Concernant R et les statistiques, j'ai suivi des formations réalis=C3
+=A9es
+par AnaStats au cours de ces 5 dernières années (et bien avant). 
+J'ai
+beaucoup apprécié le contenu et la pédagogie. Le prix pour 2
+014 est
+abordable. Le catalogue est disponible sur la page ci-dessous. Les
+intervenant(e)s travaillent fréquemment pour la recherche, milieu dont
+sont issus la plupart. N'hésitez à les contacter.
+http://www.anastats.fr/stats/Formations.htm
+La page de téléchargement propose des outils pratiques.
+http://www.anastats.fr/stats/Telechargement.htm
+En espérant que cela aide certain(e)s à progresser à moindre
+ co=C3"t,
+Samuel
+--
+Samuel GRANJEAUD                   samuel.granjeaud@inserm.fr
+INSERM - CRCM                      Tel: +33  (0)486 97 73 01

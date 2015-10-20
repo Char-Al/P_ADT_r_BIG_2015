@@ -1,0 +1,128 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <ptgm@kdbio.inesc-id.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7126026801D
+	for <bioinfo@sfbi.fr>; Thu, 24 Apr 2014 23:19:12 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvkBAG5+WVOSwSACl2dsb2JhbABZg1VXgw+qIQGYKwgWDgEBAQEBCBYHPIJJBkMBATcPAiYCJBIBBQFOAogmmQODD4wQowgXgSmMWINOgUoEmHmBOI8wGCmEYoFo
+X-IronPort-AV: E=Sophos;i="4.97,921,1389740400"; 
+   d="scan'208";a="57592102"
+Received: from smtp.inesc-id.pt ([146.193.32.2])
+  by b-mx1.relay.syrhano.net with ESMTP; 24 Apr 2014 23:19:11 +0200
+Received: from beth.inesc-id.pt (kdbio.inesc-id.pt [146.193.39.102])
+	by mail.inesc-id.pt (8.13.8/8.13.8) with ESMTP id s3OLJ3IN019430
+	for <bioinfo@sfbi.fr>; Thu, 24 Apr 2014 22:19:03 +0100
+Received: from mail-ie0-f181.google.com (mail-ie0-f181.google.com [209.85.223.181])
+	(authenticated bits=0)
+	by beth.inesc-id.pt (8.14.7/8.14.5) with ESMTP id s3OLJ1or019828
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)
+	for <bioinfo@sfbi.fr>; Thu, 24 Apr 2014 22:19:02 +0100
+Received: by mail-ie0-f181.google.com with SMTP id y20so1109752ier.40
+        for <bioinfo@sfbi.fr>; Thu, 24 Apr 2014 14:19:01 -0700 (PDT)
+X-Received: by 10.42.176.131 with SMTP id be3mr3991459icb.2.1398374341077;
+ Thu, 24 Apr 2014 14:19:01 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.64.23.17 with HTTP; Thu, 24 Apr 2014 14:18:41 -0700 (PDT)
+From: "Pedro T. Monteiro" <ptgm@kdbio.inesc-id.pt>
+Date: Thu, 24 Apr 2014 22:18:41 +0100
+Message-ID: <CAJmzyF1VZa48hXGgaRGmaq6JSdgph=0GrXRWyVp6g5NFgU_OWw@mail.gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.4.1 (mail.inesc-id.pt [146.193.32.2]); Thu, 24 Apr 2014 22:19:03 +0100 (WEST)
+X-Inesc-ID-MailScanner-Information: Please contact the mailserver administrator for more information
+X-Inesc-ID-MailScanner-ID: s3OLJ3IN019430
+X-Inesc-ID-MailScanner: Not scanned: please contact the mailserver administrator for details
+X-Inesc-ID-MailScanner-SpamCheck: not spam, SpamAssassin (not cached,
+	score=-1.9, required 6, autolearn=not spam, BAYES_00 -1.90)
+X-Inesc-ID-MailScanner-From: ptgm@kdbio.inesc-id.pt
+X-Spam-Flag: No
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] DILS2014: Call for Posters and Demos
+Call for Posters and Demos
+10th International Conference on Data Integration in the Life Sciences
+(DILS 2014)
+Lisbon, Portugal July 17-18, 2014
+http://dils2014.inesc-id.pt
+Confirmed invited speakers: Alfonso Valencia, CNIO, Spain and Jonas
+Almeida, UAB, USA
+People registered in DILS2014 can attend the Data Storm Big Data Summer Sch
+ool
+(http://ds3.inesc-id.pt) for free.
+Posters and Demos
+DILS2014 invites the submission of posters and demos to be presented
+in the poster/demo session at the conference. Accepted poster and demo
+descriptions will be published on the conference website and
+distributed at the conference. Poster/demo papers are limited to up to
+4 pages and must be submitted using the EasyChair site, clearly
+specifying the category (poster or demo).
+Important dates
+May 15, 2014 Submission deadline
+June 6, 2014 Notification of acceptance
+July 17-18, 2014:  Conference
+Topics of Interest
+The DILS conference is an interdisciplinary forum on advances in data
+integration, data management and data analysis for the life sciences.
+Researchers and professionals from biology, medicine, computer science
+and engineering are invited to contribute their latest results. Of
+particular interest are topics related to enabling the use of Big Data
+in life science research and applications.
+Topics of interest include, but are not limited to:
+- Big Data Integration for the life sciences
+- Ontology mappings and evolution
+- Large-scale data analysis for the life sciences
+- Architectures and data management techniques for the life sciences
+- Query processing and optimization for biological data
+- Biological data sharing and update propagation
+- Query formulation assistance for scientists
+- Modeling of life sciences data
+- Biomedical data integration issues in eScience
+- Laboratory information management systems in biology (including
+workflow systems)
+- Quality assurance in integrated biological data repositories
+- Biomedical metadata management (including provenance)
+- Mining integrated life sciences data and text resources
+- Standards for biomedical data integration and annotation
+- Scientific results arising from innovative data integration solutions
+- Exposing biomedical data for integration (APIs, Linked Open Data,
+SPARQL endpoints)
+- Creation and use of clinical data repositories
+- Data integration in clinical and translational research
+- Integration of genotypic and phenotypic data
+- Challenges and opportunities with big data in the life sciences
+- Ethical, legal and social issues with biomedical data integration.
+Program Committee Chairs
+Helena Galhardas, Instituto Superior Técnico and INESC-ID, Portugal
+Erhard Rahm, University of Leipzig, Germany
+Program Committee
+Christopher Baker, University of New Brunswick, Canada
+Kenneth J Barker, IBM, USA
+Olivier Bodenreider, NIH, USA
+Jo=C3=A3o Carri=C3=A7o, IMM, Portugal
+James Cimino, National Library of Medicine, USA
+Claudine Chaouiya, IGC, Portugal
+Luis Pedro Coelho, EMBL, Germany
+Sarah Cohen-Boulakia, LRI, University of Paris-Sud 11, France
+Francisco Couto, Faculty of Sciences, University of Lisbon, Portugal
+Alexandre Francisco, Instituto Superior Técnico and INESC-ID, Portugal
+Juliana Freire, NYU-Poly, USA
+Christine Froidevaux, LRI, University of Paris-Sud 11, France
+Hasan Jamil, University of Idaho, USA
+Graham Kemp, Chalmers University of Technology, Sweden
+Toralf Kirsten, University of Leipzig, Germany
+Birgitta K=C3=B6nig-Ries, Institut f=C3=BCr Informatik
+Friedrich-Schiller-Universit=C3=A4t Jena, Germany
+Patrick Lambrix, Link=C3=B6ping University, Sweden
+Adam Lee, University of Maryland and National Library of Medicine, USA
+Mong Li Lee, National University of Singapore, Singapore
+Ulf Leser, Humboldt-Universit=C3=A4t zu Berlin, Germany
+Bertram Ludaescher, University of California, USA
+Sara Madeira, Instituto Superior Técnico and INESC-ID, Portugal
+Paolo Missier, Newcastle University, UK
+Norman Paton, University of Manchester, UK
+Cédric Prusky, CRP Henri Tudor, Luxemburg
+Uwe Scholz, IPK Gatersleben, Germany
+Maria Esther Vidal, Universidad Sim=C3=B3n Bol=C3=ADvar, Venezuela
+Dagmar Waltemath, University of Rostock, Germany

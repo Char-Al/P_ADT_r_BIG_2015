@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5E2FC26801D
+	for <bioinfo@sfbi.fr>; Thu, 27 Nov 2014 10:32:11 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsgBANfudlSKZqI0nGdsb2JhbABbg1dZjSQBukOHawEBAQEBEQEBAQEBCAsJCRQuhCwQBRErCA4kAiYCEiwQJIhADawnj0mBb4Y6iAKGN4EujmsRAW2CYoFVBYEvtjcBAQgBAQEBYIFGboEPgTsBAQE
+X-IPAS-Result: AsgBANfudlSKZqI0nGdsb2JhbABbg1dZjSQBukOHawEBAQEBEQEBAQEBCAsJCRQuhCwQBRErCA4kAiYCEiwQJIhADawnj0mBb4Y6iAKGN4EujmsRAW2CYoFVBYEvtjcBAQgBAQEBYIFGboEPgTsBAQE
+X-IronPort-AV: E=Sophos;i="5.07,468,1413237600"; 
+   d="scan'208";a="69074356"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 27 Nov 2014 10:32:10 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sAR9WA7e029986
+	for <bioinfo@sfbi.fr>; Thu, 27 Nov 2014 10:32:10 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 90C0B296BB5
+	for <bioinfo@sfbi.fr>; Thu, 27 Nov 2014 10:32:10 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XtvT2-0006jx-Pa
+	for bioinfo@sfbi.fr; Thu, 27 Nov 2014 10:34:28 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XtvT2-0006jx-Pa@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 27 Nov 2014 10:34:28 +0100
+X-Miltered: at beta with ID 5476EF9A.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5476EF9A.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5476EF9A.001 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.230 -> S=0.315
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Stage] M2 - =?UTF-8?Q?d=C3=A9veloppement?= des approch  es de =?UTF-8?Q?similarit=C3=A9?= =?UTF-8?Q?s=C3=A9mantique?= et data mining
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : M2 - développement des approches de similarité  
+sémantique et data mining
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Bordeaux
+Nom du contact : Fleur Mougin
+Email du contact : fleur.mougin@u-bordeaux.fr
+Laboratoire : ISPED et LaBRI, Université de Bordeaux
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m2-d%C3%A9veloppement-des-approches-de-similarit%C3%A9-s%C3%A9mantique-et-data-mining

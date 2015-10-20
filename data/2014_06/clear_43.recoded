@@ -1,0 +1,118 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Vincent.Lefort@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 79AAB26801D
+	for <bioinfo@sfbi.fr>; Thu, 12 Jun 2014 16:00:41 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: An0BAH+xmVPBMWgenGdsb2JhbABaFoNJw0+BChYPAQEBAQEGDQkJFCiEFiYBBUAaIxYYAwIBAgENSwYCAQEFiD0JlU2NAa84F4woLIEaR4RuAQOQEYcVgwyGeoZfiTc
+X-IronPort-AV: E=Sophos;i="5.01,465,1400018400"; 
+   d="scan'208";a="60044623"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by b-mx1.relay.syrhano.net with ESMTP; 12 Jun 2014 16:00:40 +0200
+Received: from [193.49.106.21] (meraxes.lirmm.fr [193.49.106.21])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 62C83A4F92;
+	Thu, 12 Jun 2014 16:00:39 +0200 (CEST)
+Message-ID: <5399B286.3020205@lirmm.fr>
+Date: Thu, 12 Jun 2014 16:00:38 +0200
+From: LEFORT Vincent <Vincent.Lefort@lirmm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] CDD - =?WINDOWS-1252?Q?Ing=E9nieurs?= Bioinformatique Evolutive
+Dans  le   cadre  du  workpackage  de   Bioinformatique  Evolutive  de
+l'Institut Français de  Bioinformatique (Infrastructures nationales en
+biologie et santé,  programme Investissements d'Avenir), la plateforme
+de bioinformatique ATGC (http://www.atgc-montpellier.fr/) hébergée par
+le LIRMM  (http://www.lirmm.fr/, Montpellier) recrute  deux ingénieurs
+de recherche en CDD renouvelables pour 18 mois.
+Ils travailleront dans un  environnement stimulant au sein de l'équipe
+MAB    (http://www.lirmm.fr/recherche/equipes/mab)    et   de    l'IBC
+(http://www.ibc-montpellier.fr/)   et  pourront   échanger   avec  les
+ingénieurs du réseau MBI (http://ifb-gs.cnrs.fr/mbi). L'équipe MAB est
+reconnue  internationalement pour  ses recherches  en  phylogénie. Ses
+travaux  ont conduit  à  la  mise en  place  de services  mondialement
+utilisés  en  bioinformatique  évolutive  (par  exemple  phylogeny.fr:
+Dereeper et  al. 2008).  Le logiciel PhyML  (Guindon et  Gascuel 2003;
+Guindon et  al.  2010, http://www.atgc-montpellier.fr/phyml/)  est une
+référence  du domaine  avec plus  de  8000 citations  et des  milliers
+d'utilisateurs à travers le monde.
+En  collaboration  avec  les   chercheurs  et  les  ingénieurs  de  la
+plateforme, les deux ingénieurs recrutés devront:
+1/  Développer le  logiciel PhyML.   L'objectif est  d'implémenter des
+nouvelles fonctionnalités, en particulier:
+- Intégrer les  modèles de  partition et les  modèles de  mélange dont
+   l'utilité  a déjà  été démontrée  (Le et  Gascuel 2008,  2010, 2012,
+   http://www.atgc-montpellier.fr/models/)
+- Implémenter des  méthodes statistiques de sélection  de modèles dans
+    la  lignée  de ModelTest  et  ProtTest  (Posada  et Crandall  1998,
+    Abascal et al.  2005).
+- Implémenter  les  outils permettant  de  reconstruire les  séquences
+   ancestrales à partir des calculs réalisés par PhyML.
+- Développer des interfaces utilisateurs conviviales.
+2/ Développer des  outils pour la phylogénie et  la phylogénomique, en
+particulier:
+- Développer  une interface web  conviviale (dans  le même  esprit que
+   phylogeny.fr)   pour  fournir  un   ensemble  complet   de  méthodes
+   d'inférence d'arbres d'espèces et de gènes (problème des superarbres
+   et  de  la  réconciliation)  comme  par exemple  SDM  (Criscuolo  et
+   al.     2005,    http://www.atgc-montpellier.fr/sdm/),    PhySIC_IST
+   (Scornavacca                et               al.               2008,
+   http://www.atgc-montpellier.fr/physic_ist/) ou Mowgli (Nguyen et al.
+   2013, http://www.atgc-montpellier.fr/Mowgli/).
+- Mettre   en   place   des   outils  pour   visualiser   les   arbres
+   phylogénétiques, dans  le prolongement  de TreeDyn (Chevenet  et al.
+   2006, http://www.treedyn.org/), les  dater en utilisant des méthodes
+   rapides (par exemple r8s, Sanderson et al. 2003), et les interpréter
+   lorsqu'ils   sont   combinés   avec  des   caractères   extrinsèques
+   (écologiques,  géographiques, etc),  notamment dans  le  contexte de
+   l'épidémiologie (Chevenet  et al. 2013) et  de l'écologie (Jousselin
+   et al. 2013).
+De manière plus générale, les ingénieurs apporteront une aide sur tout
+ce  qui  touche  la  bioinformatique évolutive.   Ils  pourront  ainsi
+développer  de nouvelles  interfaces,  mettre en  place  des bases  de
+données, interagir avec les utilisateurs biologistes sur des questions
+ou des analyses particulières.  Ils devront avoir un bon niveau et une
+solide experience  en programmation  C/C++, ainsi que  des compétences
+avérées dans au moins un des domaines suivants:
+- Linux  et  outils de  développement  collaboratif
+- statistiques
+- workflows (Taverna, Galaxy)
+- webs services (WSDL, SOAP)
+Le salaire sera compris entre 2000  et 3000  euros  bruts mensuels, selon le
+niveau de diplômes et l'expérience.
+Les  candidatures  comprenant CV  détaillé,  lettre  de motivation  et
+références  professionnelles (avec  emails de  personnes  à contacter)
+seront adressées en pdf à lefort@lirmm.fr et gascuel@lirmm.fr avant le
+20 juin 2014.
+Références clefs :
+Phylogeny.fr:  robust phylogenetic  analysis  for the  non-specialist.
+Dereeper  A,  Guignon V,  Blanc  G, Audic  S,  Buffet  S, Chevenet  F,
+Dufayard JF,  Guindon S, Lefort V,  Lescot M, Claverie  JM, Gascuel O.
+Nucleic Acids Res. 2008 36(Web Server issue):W465-9.
+New algorithms and methods to estimate maximum-likelihood phylogenies:
+assessing the performance of PhyML 3.0.
+Guindon S, Dufayard  JF, Lefort V, Anisimova M, Hordijk  W, Gascuel O.
+Systematic Biology 2010 59(3):307-21.
+Modeling  Protein   Evolution  with  Several   Amino-Acid  Replacement
+Matrices Depending on Site Rates.
+Le SQ, Dang CC, Gascuel O.
+Molecular Biology and Evolution 2012 29(10):2921-36.
+Reconciliation  and local  gene tree  rearrangement can  be  of mutual
+profit.
+Nguyen TH, Ranwez V, Pointet S, Chifolleau AM, Doyon JP, Berry V.
+Algorithms for Molecular Biology 2013 8(1):12.
+Searching for virus phylotypes.
+Chevenet F, Jung  M, Peeters  M, de Oliveira T, Gascuel O.
+Bioinformatics 2013 29(5):561-70.
+-- 
+Vincent Lefort
+CNRS - LIRMM
+95 rue de la Galera
+34095 - Montpellier Cedex 5 - FRANCE
+Tel: +33 4 67 14 97 62
+http://www.lirmm.fr/~lefort/

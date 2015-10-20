@@ -1,0 +1,46 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 8646526801D
+	for <bioinfo@sfbi.fr>; Thu, 15 May 2014 18:09:54 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsoBAIPldFOKZqI0nGdsb2JhbABZg1WCd0nCNAGBJw4BAQEBAQgLCQkUKIImAQUMFw8BBREvEQkcAgUWCwICCQMCAQIBOgsTBgIBAYg9DZAXnCCkYBeBKoxCEQFXFoJfgUsBA5lRhmmPY4F1
+X-IronPort-AV: E=Sophos;i="4.97,1060,1389740400"; 
+   d="scan'208";a="66844677"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 15 May 2014 18:09:53 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s4FG9qRe018918
+	for <bioinfo@sfbi.fr>; Thu, 15 May 2014 18:09:52 +0200 (CEST)
+Message-ID: <5374E6D0.7020906@jouy.inra.fr>
+Date: Thu, 15 May 2014 18:09:52 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1Wky0L-000B4V-6Y@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1Wky0L-000B4V-6Y@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1Wky0L-000B4V-6Y@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 5374E6D0.002 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5374E6D0.002/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 5374E6D0.002 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.068 -> S=0.068
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] Bioinformaticien
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformaticien
+Type de poste : CDD Ingénieur
+Durée du poste : 18 mois
+Ville : Caen
+Nom du contact : Dr CASTERA Laurent
+Email du contact : l.castera@baclesse.fr
+Laboratoire : Laboratoire de Biologie et de Génétique du Cancer, Centre
+Francois Baclesse
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/bioinformaticien-6

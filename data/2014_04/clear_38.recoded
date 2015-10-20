@@ -1,0 +1,108 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <michel.werner@cea.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 00FF126801D
+	for <bioinfo@sfbi.fr>; Thu, 10 Apr 2014 15:51:37 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ao8BAC2hRlOEp8CRnGdsb2JhbABagmVcV8VKFg4BAQEBAQgLCQkUKIIsZwQHGQEaUxMXEAQTh3wBDJp9sisXjX+EGIEUBI8Dn02CKw
+X-IronPort-AV: E=Sophos;i="4.97,834,1389740400"; 
+   d="scan'208";a="65020475"
+Received: from sainfoin-out.extra.cea.fr ([132.167.192.145])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Apr 2014 15:51:37 +0200
+Received: from pisaure.intra.cea.fr (pisaure.intra.cea.fr [132.166.88.21])
+	by sainfoin.extra.cea.fr (8.14.2/8.14.2/CEAnet-Internet-out-2.3) with ESMTP id s3ADpaJc023311
+	for <bioinfo@sfbi.fr>; Thu, 10 Apr 2014 15:51:36 +0200
+Received: from pisaure.intra.cea.fr (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id 17D5320436A
+	for <bioinfo@sfbi.fr>; Thu, 10 Apr 2014 15:51:38 +0200 (CEST)
+Received: from muguet1.intra.cea.fr (muguet1.intra.cea.fr [132.166.192.6])
+	by pisaure.intra.cea.fr (Postfix) with ESMTP id 0DF9E200CD2
+	for <bioinfo@sfbi.fr>; Thu, 10 Apr 2014 15:51:38 +0200 (CEST)
+Received: from EXCAH-A1.intra.cea.fr (excah-a1.intra.cea.fr [132.166.88.75])
+	by muguet1.intra.cea.fr (8.13.8/8.13.8/CEAnet-Intranet-out-1.2) with ESMTP id s3ADpaH0007775
+	for <bioinfo@sfbi.fr>; Thu, 10 Apr 2014 15:51:36 +0200
+Received: from EXDAG0-A2.intra.cea.fr ([fe80::e9c1:64ba:3cea:5551]) by
+ EXCAH-A1.intra.cea.fr ([fe80::5455:9547:c7e7:4610%11]) with mapi id
+ 14.03.0174.001; Thu, 10 Apr 2014 15:51:36 +0200
+From: WERNER Michel <michel.werner@cea.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Post-doctoral Position in Computational Biology at CEA-Saclay
+Thread-Index: AQHPVMP8+5s8tA6G9kG7G6aGiruTew=
+Date: Thu, 10 Apr 2014 13:51:35 +0000
+Message-ID: <0169A7F7-794F-4C68-96CA-358B570D1141@cea.fr>
+Accept-Language: fr-FR, en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [132.166.88.106]
+x-tm-as-product-ver: SMEX-10.2.0.1135-7.500.1017-20622.002
+x-tm-as-result: No--23.609300-0.000000-31
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+Content-Type: text/plain; charset="Windows-1252"
+Content-ID: <66A86E5D2742C14D95AF17874377637D@cea.fr>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Post-doctoral Position in Computational Biology at CEA-Saclay
+Post-doctoral Position in Computational Biology
+to work on
+Deciphering the mechanisms of transcription and DNA repair using ChIP-Seq a
+nd RNA-Seq.
+A two years and a half year post-doctoral position in computational biology
+ is open at the Integrative Biology and Molecular Genetics Unit (SBIGeM) on
+ the Saclay campus of the CEA. The position is open immediately and will be
+ closed when a suitable candidate is found.
+The position is funded by the Fondation ARC, to work in the laboratory =93T
+ranscriptional Regulation of Genomes  headed by Drs Michel Werner and Jul
+ie Soutourina on the central role of the Mediator complex in the mechanisms
+ of transcription in regulation and DNA repair. The project uses the yeast 
+Saccharomyces cerevisiae and human cells as model systems.
+The post-doctoral fellow will be in charge of an integrative analysis of a 
+range of ChIP-Seq, RNA-Seq and other functional genomics data that offer an
+ excellent opportunity to make an important contribution to our understandi
+ng of the basic mechanisms of transcription initiation. He/she should also 
+have a true interest in the use, and possibly the development, of computati
+onal/statistical approaches for the analysis of these types of data. Key st
+eps of the work will for instance consists in (i) classifying promoters bas
+ed on of ChIP-Seq profiles across an array of experiments (~70) targeting s
+everal proteins in several mutant strains, and (ii) estimating molecular tu
+rnover of protein binding along the genome from time course ChIP-Seq data.
+The successful candidate will have a PhD in computational biology, applied 
+mathematics, or molecular biology with background knowledge in computationa
+l biology and statistics. A prior experience in the analysis of high-throug
+hput DNA sequencing data is strongly recommended. He/she will work closely 
+with the yeast molecular biologists of the lab and with computational biolo
+gists (Drs Pierre Nicolas and Vincent Fromion) of the =93Mathematique Infor
+matique et Génome  laboratory located in the nearby INRA campus of Jouy
+-en-Josas. Both teams have strong and complementary expertise in the analys
+is of high throughput data for functional genomics.
+The laboratory is located southwest of Paris (France). Information can be f
+ound on the web sites of the team http://www-dsv.cea.fr/ibitecs/sbigem/lreg
+e/transcription.
+Interested candidates should contact:
+Dr. Michel Werner	+33-(0)1 6908 9342 / michel.werner@cea.fr or
+Dr. Julie Soutourina	+33-(0)1 6908 5413 / julie.soutourina@cea.fr
+Selected references of the teams:
+-Eyboulet, F., Cibot, C., Eychenne, T., Neil, H., Alibert, O., Werner and M
+. Soutourina, J. (2013) Mediator links transcription and DNA repair by faci
+litating Rad2/XPG recruitment. Genes Dev. 27, 2549-2562.
+-Carrière et al. (2012) Genomic binding of Pol III transcription machiner
+y and relationship with TFIIS transcription factor distribution in mouse em
+bryonic stem cells. Nucl. Acids Res. 40, 270-283.
+-Soutourina, J. et al. (2011) Direct RNA polymérase II   Mediator inter
+action required for transcription in vivo. Science, 331, 1451-1454.
+-Esnault, C. et al. (2008) Mediator-dependent recruitment of TFIIH modules 
+in preinitiation complex. Mol. Cell 31, 337-346.
+-Ghavi-Helm, Y. et al. (2008) Genome-wide location analysis reveals a role 
+of TFIIS in RNA polymerase III transcription. Genes Dev. 22, 1934-1947.
+-Guglielmi, B. et al. (2007) TFIIS elongation factor and Mediator act in co
+njunction during transcription initiation in vivo. Proc. Natl. Acad. Sci. U
+SA 104, 16062-16067.
+-Mirauta, B., Nicolas, P., and Richard, H. (2014) Parseq: reconstruction of
+ microbial transcription landscape from RNA-Seq read counts using state-spa
+ce models. Bioinformatics. Advance online publication.
+-Nicolas, P. et al. (2012) Condition-Dependent Transcriptome Reveals High-L
+evel Regulatory Architecture in Bacillus subtilis. Science. 335. 1099-1103

@@ -1,0 +1,40 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <cecile.fizames@supagro.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id D2B9126801D
+	for <bioinfo@sfbi.fr>; Mon, 28 Apr 2014 17:46:59 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmYBAMh2XlOTYwAenGdsb2JhbABZyicWDgEBAQEBCAsJCRQogmQ1Cz0WGAMCAQIBD0YDBgIBAYgpAxGXGqwCDYZ4F4xBgTYRAW2EIwSVGoICiE2GLIkIgXA
+X-IronPort-AV: E=Sophos;i="4.97,945,1389740400"; 
+   d="scan'208";a="65952900"
+Received: from fagus.supagro.inra.fr ([147.99.0.30])
+  by a-mx1.relay.syrhano.net with ESMTP; 28 Apr 2014 17:46:59 +0200
+Received: from [147.99.6.114] (bpmp-can-bioinfo2.supagro.inra.fr [147.99.6.114])
+	(authenticated bits=0)
+	by fagus.supagro.inra.fr (8.14.3/8.14.3/Debian-5+lenny1) with ESMTP id s3SFkunU020137
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Mon, 28 Apr 2014 17:46:56 +0200
+Message-ID: <535E7799.8020303@supagro.inra.fr>
+Date: Mon, 28 Apr 2014 17:45:29 +0200
+From: Cécile_Fizames <cecile.fizames@supagro.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Miltered: at fagus with ID 535E77F0.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 535E77F0.000/147.99.6.114/bpmp-can-bioinfo2.supagro.inra.fr/[147.99.6.114]/<cecile.fizames@supagro.inra.fr>
+X-j-chkmail-Score: MSGID : 535E77F0.000 on fagus.supagro.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97.3 at fagus
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] 1 year Post-doc Gene Regulatory Network learning
+1 year Post-doc position open in Gene Regulatory Network (GRN) learning (Montpellier FRANCE).
+Mentors Andre Mas (I3M-UM2), Gabriel Krouk (CNRS).
+The computer scientist candidate should have a strong interest and experience in using Math to solve biological problems. Ideally the candidate should be able to transfer R scripts into C or C++ in order to adapt algorithms to very intensive calculation processes.
+Skills in machine learning and/or supervised clustering as well as basic knowledge in GRN will be appreciated.
+Email :andre.mas@univ-montp2.fr,gkrouk@gmail.com  
+For application join before June, 16th : CV + cover letter + 2 letters of recommendation

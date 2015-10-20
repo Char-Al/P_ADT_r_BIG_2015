@@ -1,0 +1,81 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.barbe@insa-toulouse.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id DD13E26801D
+	for <bioinfo@sfbi.fr>; Tue,  4 Feb 2014 12:10:53 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlsBAH3K8FLDUwkjnGdsb2JhbABZwzwWDgEBAQEBCBQJPII4LDwEPRYYAwIBAgFYBgIBAYgFnWOwb48ShCIEnnKPB4FpJA
+X-IronPort-AV: E=Sophos;i="4.95,779,1384297200"; 
+   d="scan'208";a="53422725"
+Received: from frontsmtp1.insa-toulouse.fr ([195.83.9.35])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Feb 2014 12:10:41 +0100
+Received: from i-mel.insa-toulouse.fr ([195.83.9.6])
+	by frontsmtp1.insa-toulouse.fr with esmtp (Exim 4.69)
+	(envelope-from <sophie.barbe@insa-toulouse.fr>)
+	id 1WAdtp-0007my-BO
+	for bioinfo@sfbi.fr; Tue, 04 Feb 2014 12:10:41 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by i-mel.insa-toulouse.fr (Postfix) with ESMTP id DAF7BA695C
+	for <bioinfo@sfbi.fr>; Tue,  4 Feb 2014 12:10:40 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at i-mel.insa-toulouse.fr
+Received: from i-mel.insa-toulouse.fr ([127.0.0.1])
+	by localhost (i-mel.insa-toulouse.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Cb8Q4ubg4-2y for <bioinfo@sfbi.fr>;
+	Tue,  4 Feb 2014 12:10:40 +0100 (CET)
+Received: from [10.2.12.99] (gba-03145.insa-toulouse.fr [10.2.12.99])
+	(Authenticated sender: sbarbe@insa-toulouse.fr)
+	by i-mel.insa-toulouse.fr (Postfix) with ESMTPSA id C521CA3816
+	for <bioinfo@sfbi.fr>; Tue,  4 Feb 2014 12:10:40 +0100 (CET)
+Message-ID: <52F0CAB0.2030302@insa-toulouse.fr>
+Date: Tue, 04 Feb 2014 12:10:40 +0100
+From: Sophie Barbe <sophie.barbe@insa-toulouse.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Stage Master Biologie Computationnelle
+Proposition STAGE : Biologie Computationnelle
+Un stage de Master est proposé dans l'équipe de Catalyse et Ingénie
+rie
+Moléculaire Enzymatiques du Laboratoire d'Ingénierie des Systèmes
+Biologiques et des Procédés (UMR - CNRS 5504 - INRA 792) de l'INSA de
+Toulouse.
+Sujet : "Développement et validation d'outils computationnels de design
+des interactions enzyme-substrat "
+Le projet de stage s'inscrit dans la poursuite des travaux actuels de
+l'équipe et porte sur le développement et la validation de méthodol
+ogies
+computationnelles pour le design d'enzymes. Les nouveaux algorithmes
+proposés visent à prendre en compte la flexibilité, à la fois du
+substrat et de l'enzyme, afin de proposer in fine des techniques de
+criblage virtuel d'enzymes, encore peu développées par rapport à ce
+lles
+dédiées au drug design. Ces approches computationnelles viseront à
+reprogrammer la fonction catalytique des enzymes, afin d'accélérer la
+construction de catalyseurs enzymatiques répondant à des besoins
+biotechnologiques spécifiques, tels qu'une efficacité ou sélectivit
+é
+accrues, une nouvelle spécificité de substrat, =85. Le stage inclura un
+travail d'amélioration des méthodologies computationnelles développ
+ées
+dans l'équipe ainsi qu'un travail d'application sur des systèmes
+enzymatiques modèles.
+Conditions :
+Rémunération: application de la convention pour la rémunération des
+stagiaires
+Prolongement en thèse envisageable
+Laboratoire d'accueil
+Laboratoire d'Ingénierie des Systèmes Biologiques et des Procédés (
+LISBP)
+UMR - CNRS 5504 - INRA 792
+Institut National des Sciences Appliquées
+135 Avenue de Rangueil
+F-31077 Toulouse Cedex 04 France
+Responsable du stage
+Sophie Barbe
+Tél : 05 61 55 99 63
+E-mail : sophie.barbe@insa-toulouse.fr

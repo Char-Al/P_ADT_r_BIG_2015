@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=282929c96=virginie.bernard@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 97B8526801D
+	for <bioinfo@sfbi.fr>; Thu, 31 Jul 2014 17:14:58 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvQCAApd2lPBMc0knGdsb2JhbABZg2BXAQOCdMg8iE8WEAEBAQEBCAsJCRQphC0PAQ0BAQcvAjQCBRYEBwILAwIBAgFLDQYCAohCCaYCd4UCAQWSYAaBLI0+EQFtgmOBUQGbaIcejziBSDsvgQw5
+X-IronPort-AV: E=Sophos;i="5.01,772,1400018400"; 
+   d="scan'208";a="62466717"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by b-mx1.relay.syrhano.net with ESMTP; 31 Jul 2014 17:14:57 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1406819697; x=1438355697;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=Ku8h57cfcc/Fywuv86qmpPW8b5ur6yCPqu4imF5YlNU=;
+  b=kksXZ1GAN3dMrM+MjusUmJ/dtRJhWXQgmntFOpS3iVWVt8R55ChTFE/S
+   AMG3svNHYw3NQEf8WQzfW6ExCaxaMA==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AokIAApd2lMKAgBG/2dsb2JhbABZg2BXAQOCdMgpE4hld4QtDwEWLzYCBRYEBwILAwIBAgFLDQYCAohLpnmXboEsjT4RAW2CY4FRAQSbZIcejziBSGqBDDk
+X-IPAS-Result: AokIAApd2lMKAgBG/2dsb2JhbABZg2BXAQOCdMgpE4hld4QtDwEWLzYCBRYEBwILAwIBAgFLDQYCAohLpnmXboEsjT4RAW2CY4FRAQSbZIcejziBSGqBDDk
+X-IronPort-AV: E=Sophos;i="5.01,772,1400018400"; 
+   d="scan'208";a="28925897"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip01-in.curie.fr with ESMTP; 31 Jul 2014 17:14:57 +0200
+Received: from [10.200.10.123] (10.200.10.123) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.3.174.1; Thu, 31 Jul 2014 17:14:57
+ +0200
+Message-ID: <53DA5D70.5040201@curie.fr>
+Date: Thu, 31 Jul 2014 17:14:56 +0200
+From: Virginie Bernard <vbernard@curie.fr>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.24) Gecko/20111120 Icedove/3.1.16
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.123]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Bioinformatics Understanding genome structure
+ and function: Transcription and epigenetics
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformatics Understanding genome structure and
+function: Transcription and epigenetics
+Type de poste : Post-doc / IR
+Durée du poste :
+Ville : Heidelberg
+Nom du contact : Eileen Furlong
+Email du contact : furlong@embl.de
+Laboratoire : EMBL - Furlong Lab
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/bioinformatics-understanding-genome-structure-and-function-transcription-and-epigenetics

@@ -1,0 +1,63 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <p.geurts@ulg.ac.be>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 9D36826801D
+	for <bioinfo@sfbi.fr>; Sat, 10 May 2014 01:55:44 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjYBAGhqbVOLpSBvnGdsb2JhbABZg1XHRhYOAQEBAQEGDQkJFCg+ggtLBYoeBAmdHq45hUgXi0OBFIIYgxWBFQSEWpYphVKPLGs
+X-IronPort-AV: E=Sophos;i="4.97,1021,1389740400"; 
+   d="scan'208";a="66522322"
+Received: from serv108.segi.ulg.ac.be ([139.165.32.111])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 May 2014 01:55:44 +0200
+Received: (qmail 11461 invoked from network); 10 May 2014 01:55:39 +0200
+Received: from unknown (HELO [10.0.1.5]) (u179884@[85.26.78.51])
+          (envelope-sender <p.geurts@ulg.ac.be>)
+          by serv108.segi.ulg.ac.be (qmail-ldap-1.03) with SMTP
+          for <bioinfo@sfbi.fr>; 10 May 2014 01:55:39 +0200
+From: Pierre Geurts <p.geurts@ulg.ac.be>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <A2987BF3-4234-49F0-8707-18F0642263C4@ulg.ac.be>
+Date: Sat, 10 May 2014 01:55:38 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Call for papers, Nectar track at ECML/PKDD 2014, June 14
+CALL FOR NECTAR TRACK CONTRIBUTIONS AT ECML/PKDD 2014
+http://ecmlpkdd2014.loria.fr/submission/call-for-nectar-track-contributions/
+The European Conference on =93Machine Learning  and =93Principles and Pra
+ctice of Knowledge Discovery in Databases  (ECML-PKDD) provides an intern
+ational forum for the discussion of the latest high-quality research result
+s in all areas related to machine learning and knowledge discovery in datab
+ases and related application domains.
+The goal of the Nectar Track is to offer conference attendees a compact ove
+rview of recent scientific advances at the frontier of machine learning and
+ data mining, as published in related conferences and journals. We invite s
+enior and junior researchers interested in Machine Learning and/or Knowledg
+e Discovery in Databases, to submit summaries of their own work published i
+n the neighboring fields, e.g. artificial intelligence, data analytics, bio
+informatics, games, computational linguistics, computer vision, geoinformat
+ics, health informatics, database theory, human computer interaction, infor
+mation and knowledge management, robotics, pattern recognition, statistics,
+ social network analysis, theoretical computer science, uncertainty in AI 
+  and more.
+Papers summarizing original and/or influential advances in machine learning
+ and data mining are welcome; descriptions of new applications are welcome 
+as well. Note that papers focusing on software implementations should rathe
+r be submitted to the demo track. Papers must be 4 pages and should be form
+atted according to the Author instructions and style files that can be foun
+d at http://www.springer.de/comp/lncs/authors.html
+Papers should be submitted in the CMT submission system (select from the me
+nu the Nectar track).
+https://cmt2.research.microsoft.com/ECMLPKDD2014/
+Submissions must clearly indicate which corresponding original publication(
+s) are presented, and must clearly motivate the relevance of the work in th
+e context of machine learning and data mining.
+Important dates: (all deadlines are at 23:59 of the mentioned date, Pacific
+ Time)
+	=95 Submission deadline: Saturday, June 14
+	=95 Notifications: Friday, June 28
+	=95 Submission of camera ready copies: July 8

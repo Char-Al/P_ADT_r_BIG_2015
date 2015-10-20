@@ -1,0 +1,100 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <marie-dominique.devignes@loria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id A61A526801D
+	for <bioinfo@sfbi.fr>; Fri,  7 Feb 2014 11:56:20 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlUDAAq79FLAhqRof2dsb2JhbABZFoMuV75/gQ0WDgEBCwsKCBQogiwdS1V0BhMJh3wNnGGwLBeOJQcBARs7gi8PgXoEmCuMYYcvgT+BZwkXIg
+X-IronPort-AV: E=Sophos;i="4.95,799,1384297200"; 
+   d="scan'208";a="61585136"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by a-mx1.relay.syrhano.net with ESMTP; 07 Feb 2014 11:56:19 +0100
+X-IronPort-AV: E=Sophos;i="4.95,799,1384297200"; 
+   d="scan'208";a="48153162"
+Received: from zmbs2.inria.fr ([128.93.142.15])
+  by mail3-relais-sop.national.inria.fr with ESMTP; 07 Feb 2014 11:56:19 +0100
+Date: Fri, 7 Feb 2014 11:56:19 +0100 (CET)
+From: Marie-Dominique Devignes <marie-dominique.devignes@loria.fr>
+To: bioinfo <bioinfo@sfbi.fr>
+Message-ID: <86039649.2534940.1391770579530.JavaMail.root@loria.fr>
+In-Reply-To: <1716261733.2531474.1391770014292.JavaMail.root@loria.fr>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [152.81.3.84]
+X-Mailer: Zimbra 7.2.6_GA_2926 (ZimbraWebClient - FF3.0 (Win)/7.2.6_GA_2926)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECCB / JOBIM 2014 : Call for paper OPEN - deadline March 28, 2014 -
+ Strasbourg 7-10 sept 2014
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D
+ ECCB / JOBIM 2014 : 13th European Conference in Computational Biology
+and Journées Ouvertes Biologie Informatique Mathématiques
+ 7-10 September 2014, Strasbourg, France
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D
+ 1st CALL for PAPERS (we apologize for cross-posting !)
+ ******************************************************
+Key dates:
+January 27, 2014  Call for papers open
+March 28, 2014    Submission deadline
+May 23, 2014      Notification of acceptance
+June 9, 2014      Final version due
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+In preparation for ECCB/JOBIM 2014 we invite you to submit original researc
+h papers on any aspect of computational biology and bioinformatics, includi
+ng but not limited to the following areas:
+A: Sequencing and sequence analysis for genomics
+B: Gene expression
+C: Pathways and molecular networks
+D: Computational systems biology
+E: Structural bioinformatics
+F: Evolution and population genomics
+G: Bioinformatics of health and disease
+H: Biological knowledge discovery from data, texts and bio-images
+J: Methods and technologies for computational biology
+See more detailed description of each area on the eccb 2104 web site (eccb1
+4.org)
+Papers submitted for review should represent original, previously unpublish
+ed work. At the time the paper is submitted to ECCB'14, and for the entire 
+review period, the paper should not be under review by any other conference
+ or scientific journal. Submissions will be generally reviewed by three mem
+bers of the Program Committee.
+Accepted original papers will be published as conference proceedings in a s
+pecial online open-access issue of Bioinformatics (Oxford University Press)
+. They will be citable as regular articles and indexed in Medline and ISI.
+Presenters of accepted papers will be given a time slot in the conference s
+chedule to provide a summary and update to their work. At least one author 
+per each successful submission is required to register and present the pape
+r at the conference.
+Instructions for the authors
+Manuscript (up to 7 pages) should be prepared according to the Oxford Unive
+rsity Press Bioinformatics guidelines for original research papers. Word an
+d LaTex templates can be downloaded from:
+http://www.oxfordjournals.org/our_journals/bioinformatics/for_authors/submi
+ssion_online.html
+Online submission (PDF format) must be done through the conference EasyChai
+r submission system.
+https://www.easychair.org/conferences/?conf=3Deccb2014
+Any question on the call for papers should be sent to program@eccb14.org
+Please help spread the word for the strongest possible participation by sha
+ring this mail with your colleagues and collaborators.
+We look forward to welcoming you in Strasbourg in September
+Marie-Dominique Devignes (conference chair)
+Yves Moreau (conference co-chair)
+On behalf of the Proceedings Papers Area Chairs
+http://www.eccb14.org
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Equipe Orpailleur - Bureau B164
+03 83 59 20 65
+LORIA - INRIA Nancy Grand Est
+Campus Scientifique, BP239
+54506 Vandoeuvre les Nancy cedex
+http://www.loria.fr/~devignes
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D

@@ -1,0 +1,69 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=28931b27d=virginie.bernard@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id DBA6726801D
+	for <bioinfo@sfbi.fr>; Thu,  7 Aug 2014 15:43:58 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: An4BAISB41PBMc0kmWdsb2JhbABag19XBIJzyWGIVxYQAQEBAQEICwsHFCmELQ8BDQEBBy8CNAIFFgsCCwMCAQIBSw0GAgKIPgQJrE53hQIBBZFGBoEsjT4RAW2CY4FSnCCHJI9dgUhqgQ05
+X-IronPort-AV: E=Sophos;i="5.01,818,1400018400"; 
+   d="scan'208";a="71186044"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 07 Aug 2014 15:43:58 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1407419038; x=1438955038;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=qn+rTjSheL/Y/qUxj9zT36zz2bMEa61xXPL/dVX1QqE=;
+  b=ctqoRNFjt0vxHI7AasRen8kMMqR81QwaT4xbUIMK0hGhxSY4sGxAVq1q
+   nW6dvzkF91TzXjMo5KALYS8suLNPcQ==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AiMFAFOB41OBrzsk/2dsb2JhbABagw1SVwSCc8lhiFcWd4QtDwENAQEHLwI0AgUWCwILAwIBAgFLDQYCAog+DaxOd4UCAQWRRgaBLI0+EQFtgmOBUpwghySNTIIRgUg7L4ENOQ
+X-IPAS-Result: AiMFAFOB41OBrzsk/2dsb2JhbABagw1SVwSCc8lhiFcWd4QtDwENAQEHLwI0AgUWCwILAwIBAgFLDQYCAog+DaxOd4UCAQWRRgaBLI0+EQFtgmOBUpwghySNTIIRgUg7L4ENOQ
+X-IronPort-AV: E=Sophos;i="5.01,818,1400018400"; 
+   d="scan'208";a="29050447"
+Received: from cip02-in.curie.u-psud.fr ([129.175.59.36])
+  by cip01-in.curie.fr with ESMTP; 07 Aug 2014 15:43:57 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1407419037; x=1438955037;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=qn+rTjSheL/Y/qUxj9zT36zz2bMEa61xXPL/dVX1QqE=;
+  b=AVTNC+OzIg54vNFj2Xh1W1Zax4I1rd0H3aSsr+Q5zdXfj4OD/SerOogg
+   65hcTihM5okooGSCxe4TXQV51Y13rg==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ar8EAFOB41MKAgBG/2dsb2JhbABag19XBIJzyWGIbXeELQ8BFi82AgUWCwILAwIBAgFLDQYCAohLrUWWVIEsjT4RAW2CY4FSBZwbhySPXYFIaoENOQ
+X-IPAS-Result: Ar8EAFOB41MKAgBG/2dsb2JhbABag19XBIJzyWGIbXeELQ8BFi82AgUWCwILAwIBAgFLDQYCAohLrUWWVIEsjT4RAW2CY4FSBZwbhySPXYFIaoENOQ
+X-IronPort-AV: E=Sophos;i="5.01,818,1400018400"; 
+   d="scan'208";a="5026376"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip02-in.curie.u-psud.fr with ESMTP; 07 Aug 2014 15:43:57 +0200
+Received: from [10.200.10.123] (10.200.10.123) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.3.174.1; Thu, 7 Aug 2014 15:43:56
+ +0200
+Message-ID: <53E3829C.3070506@curie.fr>
+Date: Thu, 7 Aug 2014 15:43:56 +0200
+From: Virginie Bernard <vbernard@curie.fr>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.24) Gecko/20111120 Icedove/3.1.16
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.123]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDI autre] INGENIEUR BIOINFORMATICIEN DEVELOPPEMENT DE LIMS
+ MULTI-OMICS  H/F
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : INGENIEUR BIOINFORMATICIEN DEVELOPPEMENT DE LIMS
+MULTI-OMICS H/F
+Type de poste : CDI autre
+Durée du poste :
+Ville : Lyon
+Nom du contact : Dumontet Julie
+Email du contact : julie.dumontet@bioaster.org
+Laboratoire : BIOASTER
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/ingenieur-bioinformaticien-developpement-de-lims-multi-omics-hf

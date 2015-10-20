@@ -1,0 +1,55 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Dave.Ritchie@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 6CAF726801D
+	for <bioinfo@sfbi.fr>; Tue,  4 Mar 2014 11:03:54 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkcCANajFVPAhqRTf2dsb2JhbABaFoMrwmMWDgEBCwsKCBQogjgmAQUbFRA9FhgDAgECAVgGAgEBh3Wcfq9Ujm6CGA+BewSYPIxmiHM
+X-IronPort-AV: E=Sophos;i="4.97,583,1389740400"; 
+   d="scan'208";a="62872303"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by a-mx1.relay.syrhano.net with ESMTP; 04 Mar 2014 11:03:53 +0100
+X-IronPort-AV: E=Sophos;i="4.97,583,1389740400"; 
+   d="scan'208";a="61201268"
+Received: from mobius.loria.fr (HELO [152.81.15.64]) ([152.81.15.64])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-CAMELLIA256-SHA; 04 Mar 2014 11:03:53 +0100
+Message-ID: <5315A50A.4010702@inria.fr>
+Date: Tue, 04 Mar 2014 11:03:54 +0100
+From: Dave Ritchie <Dave.Ritchie@inria.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] MdC en Informatique - LORIA - UMR 7503
+Bonjour à tous et toutes,
+Un poste de Maître de Conférence en informatique est à pouvoir au LORIA 
+- UMR 7503 - Université de Lorraine. À côté de la recherche, ce poste 
+est ciblé au LORIA Départment 5 - Systèmes Complexes et Intelligence 
+Artificielle.
+C'est à noter que ce départment va accueillir une nouvelle équipe-projet 
+Inria (EPI "Capsid", en cours de création) où des propositions de 
+recherche en bioinformatique structurale ou la biologie computationelle 
+seraient particulièrement beinevenue.
+Référence Galaxie = 0542493S - 525 - 27MCF0911.
+LORIA = Laboratoire Lorraine de Recherche en Informatique et ses 
+Applications.
+Capsid = Computational Algorithms for Protein Structures and Interactions.
+Pour des discussions informelles, merci de contacter:
+Dave.Ritchie@inria.fr
+ou
+Marie-Dominique.Devignes@loria.fr
+Bien cordialement,
+-- 
+E: dave.ritchie@inria.fr
+T: +33 3 83 59 30 45
+F: +33 3 83 41 30 79
+P: INRIA Nancy Grand Est, LORIA
+   Equipe Orpailleur, Bureau B166
+   Campus Scientifique, BP239
+   54600 Villers-les-Nancy
+   France
+W: http://www.loria.fr/~ritchied/

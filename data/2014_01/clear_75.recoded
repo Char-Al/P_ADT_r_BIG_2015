@@ -1,0 +1,119 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sergei.grudinin@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id D68AD26801D
+	for <bioinfo@sfbi.fr>; Fri, 24 Jan 2014 15:26:44 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmEGAAF34lLAhqRof2dsb2JhbABQCoNEg1S5NAKBDRYOAQELCwoIFCiCT0oDBTEIAh8HAksnFQSHbA2cKI8RnQKBKY0BBgsBgwYPMTWBFASYJ4EyhT2NHoE/O4E1
+X-IronPort-AV: E=Sophos;i="4.95,712,1384297200"; 
+   d="scan'208";a="60832594"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by a-mx1.relay.syrhano.net with ESMTP; 24 Jan 2014 15:26:44 +0100
+X-IronPort-AV: E=Sophos;i="4.95,713,1384297200"; 
+   d="scan'208";a="46006511"
+Received: from unknown (HELO [192.168.16.11]) ([193.55.47.16])
+  by mail3-relais-sop.national.inria.fr with ESMTP/TLS/AES128-SHA; 24 Jan 2014 15:26:43 +0100
+From: Sergei Grudinin <sergei.grudinin@inria.fr>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <2AE9AC1A-A7FF-4C3B-8114-A2D5FEDBDA1A@inria.fr>
+Date: Fri, 24 Jan 2014 15:26:45 +0100
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.1 \(1827\))
+X-Mailer: Apple Mail (2.1827)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] two Post-Doctoral Research Positions in computational structural biology / structural bioinformatics (INRIA Grenoble)
+Two post-doctoral research positions are open in the framework of the PEPSI
+ (Polynomial Expansions of Protein Structures and Interactions) ANR project
+ (http://pepsi.gforge.inria.fr) at NANO-D group of INRIA Grenoble (http://n
+ano-d.inrialpes.fr).
+The goal of the first position is to develop an exhaustive-search FFT-based
+ method that incorporates a very detailed knowledge-based interaction poten
+tial. This will combine the speed of FFT-accelerated techniques (which are,
+ however, rather inaccurate) with the precision of state-of-the-art scoring
+ functions (which are too slow otherwise). This work will be grounded on th
+e spherical polar Fourier (SPF) correlation FFT docking algorithm developed
+ by our collaborators (Ritchie and Kemp 2000), which operates on potentials
+ expressed in a basis of orthogonal functions. Later, we will express the k
+nowledge-base potential in the Cartesian basis set and utilize a polar/Cart
+esian FFT algorithm.
+The second position is for the development of algorithms for annotating and
+ fitting of electron density maps. Medium resolution cryoEM electron densit
+y maps pose a challenge: at sub-nanometer resolution, =CE=B1-helices become
+ resolvable, and as the resolution improves further, =CE=B2-sheets become d
+iscernible, eventually showing strand separation. In this intermediate (~5-
+10 =C3=85) resolution range, tools for automatic identification and localiz
+ation of secondary structure elements become quite valuable. The first task
+ will be to use supervised learning and exhaustive search techniques to aut
+omatically identify regions inside the map that belong to different structu
+ral traits, =CE=B1-helices or =CE=B2-sheets. Grounded on our recently devel
+oped exhaustiveâ=80=93search FFT-based algorithms for fitting a structure
+ into a density map, the second task deals with symmetry information in the
+ formulation of the fitting problem.
+Desired profile:
+We are looking for creative, passionate and hard-working individuals with e
+xceptional talent for computer science and mathematics. Excellent oral, wri
+tten and interpersonal communication skills are essential (working language
+ will be English â=80=93 knowledge of French is not necessary, but a plus
+).
+Requirements
+	Strong computer science background (knowledge of machine learning is a plu
+s)
+	Strong knowledge of applied math (linear algebra, signal processing, Fouri
+er analysis, polynomial expansions)
+	Strong oral, written and interpersonal communication skills (working langu
+age: English â=80=93 knowing French is a plus)
+	Good knowledge of C++
+	Fair knowledge of parallel computing frameworks (threading libraries and G
+PU)
+	Fair knowledge of structural biology
+	Ability to work independently and with a team
+Benefits
+	Possibility of French courses
+	Help for housing
+	Scientific resident card and help to obtain visa (for both you and your sp
+ouse)
+Salary and duration:
+2,620.84 â=82=AC gross/month for 18 months
+Monthly salary after taxes: around 2,138 â=82=AC (medical insurance inclu
+ded).
+About Grenoble:
+Grenoble is the capital city of the French Alps. Combining the urban life-s
+tyle of southern France with a unique mountain setting, it is ideally situa
+ted for outdoor activities. The Grenoble area is today an important centre 
+of industry and science (second largest in France). Dedicated to an ambitio
+us policy in the arts, the city is host to numerous cultural institutions. 
+With 60,000 students (including 6,000 foreign students), Grenoble is the th
+ird largest student area in France.
+About the NANO-D research group at INRIA:
+The NANO-D group, led by Stephane Redon at INRIA, develops novel multiscale
+, adaptive modeling and simulation methods, which automatically focus compu
+tational resources on the most relevant parts of the nanosystems under stud
+y. All algorithms developed by the group are gathered into SAMSON, an open-
+architecture software platform designed by NANO-D (SAMSON: Software for Ada
+ptive Modeling and Simulation Of Nanosystems).
+During the twentieth century, the development of macroscopic engineering ha
+s been largely stimulated by progress in numerical design and prototyping: 
+cars, planes, boats, and many other manufactured objects are nowadays desig
+ned and tested on computers. Digital prototypes have progressively replaced
+ actual ones, and effective computer-aided engineering tools have helped cu
+t costs and reduce production cycles of these macroscopic systems.
+The twenty-first century is most likely to see a similar development at the
+ atomic scale. Indeed, the recent years have seen tremendous progress in na
+notechnology - in particular in the ability to control matter at the atomic
+ scale. Similar to what has happened with macroscopic engineering, powerful
+ and generic computational tools will be employed to engineer complex nanos
+ystems, through modeling and simulation. The NANO-D group is funded through
+ ANR grants, an ARC grant, and an ERC Starting Grant (http://nano-d.inrialp
+es.fr).
+More info:
+http://pepsi.gforge.inria.fr/open-positions/postdoctoral-position-1/
+http://pepsi.gforge.inria.fr/open-positions/postdoctoral-position-2/
+http://nano-d.inrialpes.fr/openings/
+To apply:
+Send an email to Sergei Grudinin (sergei.grudinin@inria.fr) with:
+	A resume
+	A motivation letter
+	Two recommendation letters

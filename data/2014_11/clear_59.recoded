@@ -1,0 +1,37 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <helene.touzet@lifl.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 52AE426801D
+	for <bioinfo@sfbi.fr>; Wed, 19 Nov 2014 15:28:05 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApUDAIOobFTAhqRTf2dsb2JhbABaFoNNWcwVh0UCgQgWAQEBAQERAQEJDQoIFC6EFSYBBUA9EwMYAwIBAgFYCAEBiD0NrRKmapElhDUFhluYBogqkBgBAQEHAQEBAQGCJmyCSwEBAQ
+X-IPAS-Result: ApUDAIOobFTAhqRTf2dsb2JhbABaFoNNWcwVh0UCgQgWAQEBAQERAQEJDQoIFC6EFSYBBUA9EwMYAwIBAgFYCAEBiD0NrRKmapElhDUFhluYBogqkBgBAQEHAQEBAQGCJmyCSwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,417,1413237600"; 
+   d="scan'208";a="68510221"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by b-mx1.relay.syrhano.net with ESMTP; 19 Nov 2014 15:28:05 +0100
+X-IronPort-AV: E=Sophos;i="5.07,417,1413237600"; 
+   d="scan'208";a="108203423"
+Received: from unknown (HELO belgian.wifi.lifl.fr) ([134.206.19.99])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 19 Nov 2014 15:28:03 +0100
+Message-ID: <546CA8F0.7030503@lifl.fr>
+Date: Wed, 19 Nov 2014 15:28:00 +0100
+From: Helene Touzet <helene.touzet@lifl.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] journée biologie intégrative, 17 décembre, Lille
+bonjour
+La plate-forme de bio-informatique de Lille organise le 17 décembre 
+prochain
+une journée scientifique autour de la biologie intégrative. Le programme et
+le formulaire d'inscription sont disponibles à l'URL:
+http://www.lifl.fr/~touzet/PPF/integrative.html
+Date limite d'inscription: 30 novembre
+bien cordialement,
+Hélène

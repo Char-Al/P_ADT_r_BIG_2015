@@ -1,0 +1,106 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <artigue@genoscope.cns.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5CCAB26801D
+	for <bioinfo@sfbi.fr>; Thu,  9 Oct 2014 18:19:22 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkkCAFG0NlTDU96Il2dsb2JhbABghDm3ZAacBhYBEQEBAQEBCBYHQIQ8AQUzDT0WGAMCAQIBWAYCAQEXiCefKqQZhiCJN4U/AQSYfYw0khA7L4JKAQEB
+X-IPAS-Result: AkkCAFG0NlTDU96Il2dsb2JhbABghDm3ZAacBhYBEQEBAQEBCBYHQIQ8AQUzDT0WGAMCAQIBWAYCAQEXiCefKqQZhiCJN4U/AQSYfYw0khA7L4JKAQEB
+X-IronPort-AV: E=Sophos;i="5.04,685,1406584800"; 
+   d="scan'208";a="65908954"
+Received: from ares.genoscope.cns.fr ([195.83.222.136])
+  by b-mx1.relay.syrhano.net with ESMTP; 09 Oct 2014 18:19:21 +0200
+Received: from [172.16.77.251] ([172.16.77.251])
+	(authenticated bits=0)
+	by ares.genoscope.cns.fr (8.14.4/8.14.4/mr-4.4) with ESMTP id s99GJIvO017561
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO)
+	for <bioinfo@sfbi.fr>; Thu, 9 Oct 2014 18:19:18 +0200
+Message-ID: <5436B57E.5000705@genoscope.cns.fr>
+Date: Thu, 09 Oct 2014 18:19:10 +0200
+From: Francois Artiguenave <artigue@genoscope.cns.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] 2 Postdoctoral Positions at CEA
+The CEA (Commisariat à l'Energie Atomique et aux Energies Alternatives), 
+in order to sustain its research activities on Genetics and Personalized 
+Medicine is initiating a new flagship program at the frontier between 
+biology and information technologies. As part of this iniative, the 
+CEA/DSV/IG/CNG (Institut de Génomique  -  Centre National de Génotypage) 
+and the CEA/DRT/LIST (Direction de la Recherche Technologique  -  Systèmes 
+numériques intelligents) are offering 2 postdoctoral positions to 
+develop computational approaches/pipelines to integrate and analyze 
+large scale genomics data for diagnostic purposes.
+Following recent advances in high throughput sequencing, it is expected 
+that, in the near future, more and more individuals will have their 
+whole genome extracted, stored and analyzed in a routine fashion. 
+Although this perspective is full of promises in terms of personalized 
+preventive and curative medicine, as well as medical research, it raises 
+different technological and methodological challenges to be solved 
+before genome sequencing being a routine diagnostic solution. In this 
+context, the CEA aims to develop a platform to analyze, store and 
+process the genomes able to scale up with the growth of the generated data.
+1/ Post-Doctoral Fellowship: Clinical Genomics:
+The postdoctoral holder will define and participate to the development 
+of an analytical workflow to interpret whole genome sequencing. He will 
+have to:
+- Define an analytical workflow (pipelines) to predict diagnostic status 
+based on sequencing and defined markers. For this task, he will have to 
+explore impact of technological biases on the clinical predictions 
+(sequencing coverage issues, reproducibilty issues) and uncertainty 
+about clinically reportable findings.
+- Build a reference genotype/phenotype knowledge database by integrating 
+and curating different resources (pubmed, HGMD, clinVar, Omim, Cosmics...).
+- Implement, in collaboration with bioinformaticians from the CNG 
+(Centre National de Génotypage, Evry) and mathematicians from the LIST, 
+a full prototype demonstrating robustness, scalability, and security.
+The position is located at Evry (CEA, Centre National de Genotypage). 
+Successful candidates will join a young and multidisciplinary 
+bioinformatics team playing a central role in the development of novel 
+genomics approaches. The postdoc will be engaged into active 
+collaborations with fundamentals (math, statistics, computational) 
+groups located at Palaiseau (about 30 kms).
+We are seeking individuals with a strong background in genomics and/or 
+computer sciences, and expertise with biological data-handling, 
+modeling, and bioinformatics. Additional background in clinical genetics 
+would be appreciated.
+Contacts: François Artiguenave (artigue@cng.fr), Lorène Allano 
+(Lorene.Allano@cea.fr)
+2/ Post-Doctoral Fellowship: Optimized variants calling by integration 
+of supervised and unsupervised methods:
+Detection of variants in the human genome is usually based on mapping of 
+reads on a reference genome. However parts of genomes are very complex 
+and changing for one individual to another and mapping based approach 
+are not sufficient. In this case, it has been proposed to integrate 
+mapping based approaches to assembly based methods [Rimmer14]. This 
+approach is very promising but still presents some limits such as the 
+size of reads to be aligned. An example of unsupervised methods is De 
+Bruijn graph to represent overlapping information in reads. This type of 
+graph could be generalized to several samples into colored De Bruijn 
+Graph [Iqbal12]. These are promising methods but there are still some 
+open questions to apply it in complex zones such as HLA (human leukocyte 
+antigen).
+The position is located at Saclay (CEA LIST). Successful candidates will 
+join a young and multidisciplinary applied mathematics team.
+The postdoc will be engaged into active collaborations with the 
+bioinformatics team of (Centre National de Genotypage) located at Evry 
+(about 30 kms).
+We are seeking PhD in applied Mathematics with a strong background in 
+optimization and graph theory. Additional background in genetics would 
+be appreciated.
+Candidates with a strong qualification and experience can also be 
+eligible to the CEA Enhanced Eurotalents program funded by the European 
+Commission and operated by CEA to promote and to support the mobility of 
+scientists.
+[Rimmer14] Rimmer A et al., (2014) Integrating mapping-, assembly- and 
+haplotype-based approaches for calling variants in clinical sequencing 
+applications.
+[Iqbal12] Iqbal Z, Caccamo M, Turner I, Flicek P, McVean G, (2012) De 
+novo assembly and genotyping of variants using colored de Bruijn graphs.
+Contacts: Lorène Allano (Lorene.Allano@cea.fr), François Artiguenave 
+(artigue@cng.fr

@@ -1,0 +1,71 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <benoukraf@nus.edu.sg>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 8F52726801D
+	for <bioinfo@sfbi.fr>; Fri, 28 Feb 2014 11:06:09 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlABANheEFOJhA4anGdsb2JhbABagmXCToEoDgEBAQEBBg0JCRQogiw6TQQBPisXJwQTCIdxAZsyqVeGNRcEjiCDW4EUBIlIjnGVZQ
+X-IronPort-AV: E=Sophos;i="4.97,561,1389740400"; 
+   d="scan'208";a="54677539"
+Received: from exch-out.nus.edu.sg (HELO imsva08.stf.nus.edu.sg) ([137.132.14.26])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 Feb 2014 11:06:08 +0100
+Received: from imsva08.stf.nus.edu.sg (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 9D34151728
+	for <bioinfo@sfbi.fr>; Fri, 28 Feb 2014 18:05:23 +0800 (SGT)
+Received: from EDG01.stf.nus.edu.sg (unknown [137.132.14.207])
+	by imsva08.stf.nus.edu.sg (Postfix) with ESMTP id 8BB95516F7
+	for <bioinfo@sfbi.fr>; Fri, 28 Feb 2014 18:05:23 +0800 (SGT)
+Received: from MBX05.stf.nus.edu.sg ([fe80::2152:97bd:98c9:da78]) by
+ EDG01.stf.nus.edu.sg ([2002:8984:ecf::8984:ecf]) with mapi; Fri, 28 Feb 2014
+ 18:06:04 +0800
+From: Touati Benoukraf <benoukraf@nus.edu.sg>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Date: Fri, 28 Feb 2014 18:06:05 +0800
+Thread-Topic: (Bio)informatician position at CSI Singapore
+Thread-Index: AQHPNGywu5v1gMV7BUu2gjTjv5/Pdw=
+Message-ID: <FF8753BFDD0CCE478AA1B1CE55BACC660335B628E1@MBX05.stf.nus.edu.sg>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-TM-AS-MML: No
+X-TM-AS-Product-Ver: IMSVA-8.2.0.1679-7.5.0.1017-20536.006
+X-TM-AS-Result: No--15.040-7.0-31-10
+X-imss-scan-details: No--15.040-7.0-31-10
+X-TMASE-Version: IMSVA-8.2.0.1679-7.5.1017-20536.006
+X-TMASE-Result: 10--15.040100-5.000000
+X-TMASE-MatchedRID: X2T2S+OvE/lkFg1xur+/wNqXnIDKNcefdbDiiuB8g42xT6X3XrQLU7ST
+	se6C3KVIzOM3mJUmJl1857K1jReZiE0A064QlQ98iRQ/XCeyjWxCaRopRhtVUPp1plqEbuqxIsO
+	aWU08M/FLi04Vc6hvYZTrbO9zUOWjuvhOCw8ZILQSoQ5JKU/uWGz4Iv3JQnT+zh9nd7xTXgrKcm
+	mcKIUkCgip2Mh9u58g5UIZUyeoxYf6A/0sB/OtR4N5PtYfNshjO1dKD/vsfLSwWQIt5658230tC
+	KdnhB58HOI0tZ7A+B36C0ePs7A07QKmARN5PTKc
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] (Bio)informatician position at CSI Singapore
+We are looking for a Bioinformatician or computer scientist with capabiliti
+es in programming using Perl or Python, C or C++ and Javascript.
+# Research Program:
+This person will be part of a laboratory focused on cancer genetics and wil
+l be involved in the analysis of epigenetics dataset derived from NGS techn
+ologies with a focus in colorectal and gastric cancers.
+# Qualifications and Requirements:
+_The candidate should have a Bachelor or Master in Computer science or Bioi
+nformatics.
+_Advanced capability in programming using Perl/Python and C/C++.
+_Ability to handle large quantitative datasets and analyses.
+_Highly self-motivated, excellent communication skills and strong desire to
+ learn in a dynamic multi-disciplinary research environment.
+_Good understanding of genetics and genomics is a plus.
+To apply, please send your full application including cover letter, CV and 
+the names and addresses of three referees in one pdf document to Touati Ben
+oukraf: benourkaf@nus.edu.sg.
+---
+Touati BENOUKRAF, PhD :: Research Assistant Professor :: Cancer Science Ins
+titute Singapore, National University of Singapore, Centre for Translationa
+l Medicine, 14 Medical Drive, #12-01, Singapore 117599 :: Office phone: 65-
+6516 1025 :: Fax: 65-6873 9664

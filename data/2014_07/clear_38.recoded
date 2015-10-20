@@ -1,0 +1,64 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 8B6E926801D; Mon, 14 Jul 2014 11:56:12 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: rstuder@ebi.ac.uk
+Message-ID: <sympa.1405331409.31817.389@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Mon, 14 Jul 2014 11:56:12 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECCB'14 - Tutorial T05 "Protein Evolution Analysis: on the Use of Phylogenetic Trees"
+ECCB'14 - Tutorial T05 "Protein Evolution Analysis: on the Use of Phylogenetic Trees"
+Tutorial of ECCB 2014, Strasbourg, France.
+September 7th, 2014
+Website:
+http://www.eccb14.org/program/tutorials/pea
+Important dates:
+- ECCB/Tutorial Early registration: May 12 - August 1st, 2014
+- ECCB/Tutorial Late registration: August 2 - August 29, 2014
+- Tutorial date: Sunday, September 7th, 2014.
+ 
+Motivation
+Homologous proteins, that share a common ancestor, can be classified into families. These homologs can be orthologs, that were separated by a speciation event, or paralogs, that were separated by a duplication event. Within a protein family, all members are related by a phylogenetic tree, which consists of a root (the last common ancestor of the protein family), nodes (which are speciation/duplication events), branches (whose lengths correspond to the number of substitutions) and tips (which correspond to modern sequences). The tree is helpful for inferring the evolutionary history of the protein family. For example, we can reconstruct the ancestral sequences at each node of the tree. These ancestral sequences can be used for homology modelling, to reveal the ancestral 3D structures, or synthesised in vitro. Or we can compare trees to reveal similar evolutionary history between protein families (co-evolution). Manipulating tree topologies are complex operations that require tools to perform operations such as reading, pruning, collapsing, rerooting. These operations can be done with programs with graphical user interfaces (GUI). However, in the area of large-scale data, in which hundreds or thousands of trees may be manipulated, it is impractical to use such programs.  To this end, new software/libraries have been developed to deal with such large data sets in an automated manner.
+Goal
+This tutorial will present recent concepts regarding the evolution and adaptation of protein sequences. It will be divided into three sections, in which we will present methods relating to the use of phylogenetic trees to infer protein function. These sections will be 1) using scripts to manipulate trees, 2) using ancestral sequence reconstruction to infer history of a protein family and 3) the detection of coevolution between protein families. Each section will have an introduction explaining the concepts underlying any analysis methods, and a discussion of the power and limitations of different methods and tools used to explore these concepts and which participants will learn how to use during the practical for that section.
+ 
+Outline
+The first part will focus on tools to detect adaptation in protein sequences. It will start with a brief introduction on multiple alignment and phylogenetic trees followed by a more detailed presentation of tools available to estimate selective pressures and detect adaptation in protein sequences with CodeML / PAML. The second part will focus on the reconstruction of ancestral sequences and ancestral structures by homology modelling. The third part will focus on the identification of co-evolution between protein families. The organiser will provide protein datasets, or participants can bring their own sequences. Then, they will be able to use the different programs/libraries in a practical way.
+This tutorial will be in three parts (more info on the website):
+1) Performing phylogenetic analyses with Biopython
+2) Ancestral sequence reconstruction and homology modelling
+3) Studying molecular co-evolution
+Level: Introductory
+Schedule (Sunday, September 7th):
+ Morning session: Performing phylogenetic analyses with Biopython.
+ 9:00 Talk (45min): Performing phylogenetic analyses with Biopython (B. Invergo, EBI)
+ 9:45 Practical (30min): Performing phylogenetic analyses with Biopython (B. Invergo, EBI)
+10:15 Coffee break
+10:45 Practical (1h30): Performing phylogenetic analyses with Biopython (B. Invergo, EBI)
+12:15 Lunch
+Afternoon session: ancestral sequence reconstuction and molecular co-evolution.
+13:15 Talk (30min): Ancestral sequence reconstruction (R. Studer, EBI)
+13:45 Practical (1h30): Ancestral sequence reconstruction (R. Studer, EBI)
+15h:15: Coffee break
+15h45: Talk (30 min): Studying molecular co-evolution (D. Ochoa, EBI)
+16h15: Practical (45min): Studying molecular co-evolution (D. Ochoa, EBI)
+17:00 End
+ 
+Intended audience:
+- Evolutionary biologists, biochemists, computational biologists, structural biologists.
+ 
+Possible prerequisites:
+- Unix command line.
+- We strongly encourage participants to learn the basics of the Python programming language.
+ 
+Organisers:
+Brandon Invergo - EMBL-EBI, Cambridge, UK (invergo [at] ebi.ac.uk)
+David Ochao     - EMBL-EBI, Cambridge, UK (ochoa [at] ebi.ac.uk)
+Romain Studer   - EMBL-EBI, Cambridge, UK (rstuder [at] ebi.ac.uk)

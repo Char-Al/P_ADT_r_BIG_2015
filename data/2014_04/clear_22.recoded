@@ -1,0 +1,46 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pierre.peterlongo@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 85BF626801D
+	for <bioinfo@sfbi.fr>; Mon,  7 Apr 2014 12:33:40 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvACAG1+QlPAhqRof2dsb2JhbABZg0HGExYOAQELCwoIFCiCXgEFQD0TAxgDAgECAVgIAQGHdQQJmXSxMhePDoQiBJhbgTSUPQ
+X-IronPort-AV: E=Sophos;i="4.97,809,1389740400"; 
+   d="scan'208";a="56643561"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Apr 2014 12:33:40 +0200
+X-IronPort-AV: E=Sophos;i="4.97,809,1389740400"; 
+   d="scan'208";a="55956505"
+Received: from sud35-2-82-228-178-160.fbx.proxad.net (HELO cruxy.local) ([82.228.178.160])
+  by mail3-relais-sop.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 07 Apr 2014 12:33:39 +0200
+Message-ID: <53427F02.1000408@inria.fr>
+Date: Mon, 07 Apr 2014 12:33:38 +0200
+From: Pierre Peterlongo <pierre.peterlongo@inria.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Sujet Métagénomique  CJS (Contrat jeune scientifique: thèse+2 ans)
+Bonjour,
+Vous trouverez dans le liens suivant le descriptif d'un sujet CJS 
+tournant autour de la métagénomique avec des approches algorithmiques et 
+statistiques, proposé en co-encadrement par l' INRA - UR MIG (Sophie 
+Schbath), l'INRA AgroParistech (Stéphane Robin) et l'Inria Rennes-equipe 
+Genscale (Pierre Peterlongo).
+<http://team.inria.fr/genscale/job-offers/contrat-jeune-scientifique-these-2-ans/> 
+Développement de méthodes statistiques et algorithmiques en 
+métagénomique comparative 
+<http://team.inria.fr/genscale/job-offers/contrat-jeune-scientifique-these-2-ans/> 
+https://team.inria.fr/genscale/job-offers/contrat-jeune-scientifique-these-2-ans/
+-- 
+Document sans titre
+*Pierre Peterlongo - INRIA* - Research Associate / Chargé de recherche
+http://people.rennes.inria.fr/Pierre.Peterlongo/
+Campus de Beaulieu- Rennes
+35042 Rennes Cedex, France
+Tel : +33 (0)2 99 84 74 59
+Fax : +33 (0)2 99 84 71 71

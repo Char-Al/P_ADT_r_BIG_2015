@@ -1,0 +1,148 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <el-ghazali.talbi@lifl.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id E701826801D
+	for <bioinfo@sfbi.fr>; Tue,  7 Oct 2014 11:30:46 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: An8CACuyM1TAhqRTf2dsb2JhbABfg2FTzFmIZBYBEQEBCwsKCBQshDwBBTAFCz0WGAMCAQIBSw0IAQEQiCoInRWkXY0HiBAFnT6BLYNCikOISIFrO4J5AQEB
+X-IPAS-Result: An8CACuyM1TAhqRTf2dsb2JhbABfg2FTzFmIZBYBEQEBCwsKCBQshDwBBTAFCz0WGAMCAQIBSw0IAQEQiCoInRWkXY0HiBAFnT6BLYNCikOISIFrO4J5AQEB
+X-IronPort-AV: E=Sophos;i="5.04,669,1406584800"; 
+   d="scan'208";a="65720872"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Oct 2014 11:30:46 +0200
+X-IronPort-AV: E=Sophos;i="5.04,669,1406584800"; 
+   d="scan'208";a="99766589"
+Received: from nat-inria-lille-72-gw-01-lne.lille.inria.fr (HELO [10.201.6.125]) ([193.51.235.72])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 07 Oct 2014 11:30:44 +0200
+Message-ID: <5433B2C7.2020005@lifl.fr>
+Date: Tue, 07 Oct 2014 11:30:47 +0200
+From: El-ghazali Talbi <el-ghazali.talbi@lifl.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: El-Ghazali Talbi <talbi@lifl.fr>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CFP MIC'2015 - Save the date
+*******************************************
+   11th Metaheuristics International Conference
+                          MIC'2015
+                     7-10 June, 2015
+                     Agadir, Morocco
+             http://www.lifl.fr/MIC2015
+*******************************************
+Scope of the Conference
+=======================
+The Metaheuristics International Conference (MIC) series was established 
+in 1995 and this is its 11th edition. MIC is the main event focusing on 
+the progress of the area of metaheuristics and their applications. As in 
+previous editions, MIC'2015 will provide an opportunity to the 
+international research community in metaheuristics to discuss recent 
+research results, to develop new ideas and collaborations, and to meet 
+old friends and make new ones in a friendly and relaxed atmosphere.
+MIC'2015 welcomes presentations that cover any aspects of metaheuristic 
+research such as new algorithmic developments, high-impact applications, 
+new research challenges, theoretical developments, implementation 
+issues, and in-depth experimental studies. MIC'2015 strives for a 
+high-quality program that will be completed by a number of invited 
+talks, tutorials, workshops and special sessions.
+Relevant Research Areas
+======================
+MIC'2015 solicits contributions dealing with any aspect of 
+metaheuristics. Typical, but not exclusive, topics of interest are:
+    + Metaheuristic techniques such as tabu search, simulated annealing, 
+iterated local search, variable neighborhood search, memory-based 
+optimization, dynamic local search, evolutionary algorithms, memetic 
+algorithms, ant colony optimization, variable neighborhood search, 
+particle swarm optimization, scatter search, path relinking, etc.
+    + Techniques that enhance the usability and increase the potential 
+of metaheuristic algorithms such as reactive search mechanisms for 
+self-tuning, offline metaheuristic algorithm configuration techniques, 
+algorithm portfolios, parallelization of metaheuristic algorithms, etc.
+    + Empirical and theoretical research in metaheuristics including 
+large-scale experimental analyses, algorithm comparisons, new 
+experimental methodologies, engineering methodologies for metaheuristic 
+algorithms, search space analysis, theoretical insights into properties 
+of metaheuristic algorithms, etc.
+    + High-impact applications of metaheuristics in fields such as 
+bioinformatics, electrical and mechanical engineering, 
+telecommunications, sustainability, business, scheduling and 
+timetabling. Particularly welcome are innovative applications of 
+metaheuristic algorithms that have a potential of pushing research 
+frontiers.
+    + Contributions on the combination of metaheuristic techniques with 
+those from other areas, such as integer programming, constraint 
+programming, machine learning, etc.
+    + Challenging applications areas such as continuous, mixed 
+discrete-continuous, multi-objective, stochastic, or dynamic problems.
+Important Dates
+===============
+Submission deadline             Feb 6, 2015
+Notification of acceptance      March 20, 2015
+Camera ready copy               April 10, 2015
+Early registration              April 10, 2015
+Conference                      June 7-10, 2015
+Submission Details
+==================
+We will accept submissions in three different formats.
+S1) Original research contributions for publication in the conference 
+proceedings of a maximum of 10 pages
+S2) Extended abstracts of work-in-progress and position papers on an 
+important research aspect of a maximum of 3 pages
+S3) High-quality manuscripts that have recently, within the last year, 
+been submitted or accepted for journal publication
+Accepted contributions of categories S1 and S2 will be published in the 
+MIC'2015 conference proceedings. Accepted contributions of category S3 
+will be orally presented at the conference, but not be included into the 
+conference proceedings.
+The submission server is available at http://www.lifl.fr/MIC2015
+Proceedings and publication
+========================
+Accepted papers in categories S1 and S2 will be published in the 
+proceedings that will be available at the conference. In addition, a 
+post-conference special issue of an appropriate journal (confirmation 
+pending) and book (Operations Research / Computer Science Interfaces 
+series of Springer Verlag) is planned to be published. Participants will 
+be invited to submit extended versions of their work for consideration.
+Best Paper Award
+================
+A best paper award will be presented at the conference. Only papers 
+submitted in category S1 will be eligible for the best paper award.
+Conference Location
+===================
+The conference will be held in Agadir, Morocco. Agadir is the top 
+tourist destination in Marocco in the border of the ocean.
+Further Information
+===================
+Up-to-date information will be published on the web site 
+http://www.lifl.fr/MIC2015.
+For information about local arrangements, registration forms, etc., 
+please refer to the above-mentioned web site or contact the organizers.
+MIC'2015 Conference Committee
+=============================
+Conference Chair
+   - El-ghazali Talbi, University of Lille, CNRS, INRIA, France
+Steering committee
+   - Fred Glover, University of Colorado and OptTek Systems, USA
+   - Celso Ribeiro, Universidade Federal Fluminense, Brazil
+   - Éric Taillard, University of Applied Sciences of Western 
+Switzerland, Switzerland
+   - Stefan Voß, University of Hamburg, Germany
+Organization committee chairs
+   - L. Jourdan (Univ. Lille, CNRS, INRIA)
+   - M-E. Marmion (Univ. Lille, CNRS, INRIA)
+   - R. Ellaia (EMI, Rabat, Morocco, Local chair)
+Session/Proceedings chair
+   - F. Yalaoui (UTT, France)
+Tutorial chair
+   - A. Nakib (UPEC, France)
+Publicity chair
+   - G. Danoy (Univ. Luxembourg)
+-- 
+Prof. E-G. Talbi
+Univ. Lille, CNRS, INRIA
+MIC'2015
+7-10 June 2015, Agadir, Morocco
+http://www.lifl.fr/MIC2015

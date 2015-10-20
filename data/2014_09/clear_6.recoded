@@ -1,0 +1,52 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id BEC2126801D
+	for <bioinfo@sfbi.fr>; Wed,  3 Sep 2014 12:01:00 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApoBAG3mBlSKZqI0nGdsb2JhbABag2BXAYJ7xVCIcxABAQEBAQYNCQkUKYQtEAURMw4kAiYCEiw0iEINl3qPL4F0jiWFd4EsjT8RAW2CY4FTBYEtp0iMaGqBD4FAAQEB
+X-IronPort-AV: E=Sophos;i="5.04,456,1406584800"; 
+   d="scan'208";a="63711441"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Sep 2014 12:01:00 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s83A0x15020596
+	for <bioinfo@sfbi.fr>; Wed, 3 Sep 2014 12:00:59 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 5DB94296B97
+	for <bioinfo@sfbi.fr>; Wed,  3 Sep 2014 12:00:59 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XP7Oo-0008uT-Bi
+	for bioinfo@sfbi.fr; Wed, 03 Sep 2014 12:02:46 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XP7Oo-0008uT-Bi@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Wed, 03 Sep 2014 12:02:46 +0200
+X-Miltered: at alpha with ID 5406E6DB.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5406E6DB.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5406E6DB.001 on alpha.jouy.inra.fr : j-chkmail score : X : R=. U=. O=. B=0.242 -> S=0.242
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] RESPONSABLE DEPARTEMENT BIO-INFORMATIQUE
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : RESPONSABLE DEPARTEMENT BIO-INFORMATIQUE
+Type de poste : Post-doc / IR
+Durée du poste : indéterminée
+Ville : Rouen
+Nom du contact : CASTEL Christophe
+Email du contact : christophe.castel@dimensionrh.fr
+Laboratoire : Confidentiel - l'information sera donnée au premier contact
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/responsable-departement-bio-informatique

@@ -1,0 +1,60 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www-data@sfbi.mti.univ-paris-diderot.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 36D1D26801D
+	for <bioinfo@sfbi.fr>; Fri, 17 Jan 2014 16:25:10 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ap4BAJFf2FLC/j2KnGdsb2JhbABZgmpZg1S4SFoWDgEBAQEBCAsJCRQogk8QBREzDhMRAgUhAhFhiAUDCZoGjxGcHReBKYx0EQFtglk1gRQEnnqObIFw
+X-IronPort-AV: E=Sophos;i="4.95,674,1384297200"; 
+   d="scan'208";a="60449862"
+Received: from korolev.univ-paris7.fr ([194.254.61.138])
+  by a-mx1.relay.syrhano.net with ESMTP; 17 Jan 2014 16:25:09 +0100
+Received: from potemkin.univ-paris7.fr (potemkin.univ-paris7.fr [IPv6:2001:660:3301:8000::1:1])
+	by korolev.univ-paris7.fr (8.14.4/8.14.4/relay1/46573) with ESMTP id s0HFP94l010576
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 17 Jan 2014 16:25:09 +0100
+Received: from duc.rpbs.univ-paris-diderot.fr (duc.mti.univ-paris-diderot.fr [81.194.29.54])
+	by potemkin.univ-paris7.fr (8.14.4/8.14.4/relay2/46573) with ESMTP id s0HFP9OK005082
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 17 Jan 2014 16:25:09 +0100
+Received: from sfbi.mti.univ-paris-diderot.fr (sfbi.mti.univ-paris-diderot.fr [81.194.29.2])
+          by duc.rpbs.univ-paris-diderot.fr (8.13.7/jtpda-5.4) with SMTP id s0HFP7mF008394
+          for <bioinfo@sfbi.fr>; Fri, 17 Jan 2014 16:25:07 +0100
+Message-Id: <201401171525.s0HFP7mF008394@duc.rpbs.univ-paris-diderot.fr>
+Received: by sfbi.mti.univ-paris-diderot.fr (sSMTP sendmail emulation); Fri, 17 Jan 2014 16:30:11 +0100
+From: "www-data" <www-data@sfbi.mti.univ-paris-diderot.fr>
+Date: Fri, 17 Jan 2014 16:30:11 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 0:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (korolev.univ-paris7.fr [IPv6:2001:660:3301:8000::1:2]); Fri, 17 Jan 2014 16:25:09 +0100 (CET)
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (potemkin.univ-paris7.fr [194.254.61.141]); Fri, 17 Jan 2014 16:25:09 +0100 (CET)
+X-Miltered: at korolev with ID 52D94B55.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-Miltered: at potemkin with ID 52D94B55.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52D94B55.000 from potemkin.univ-paris7.fr/potemkin.univ-paris7.fr/null/potemkin.univ-paris7.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Enveloppe: 52D94B55.000 from duc.mti.univ-paris-diderot.fr/duc.mti.univ-paris-diderot.fr/null/duc.rpbs.univ-paris-diderot.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Score: MSGID : 52D94B55.000 on korolev.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Score: MSGID : 52D94B55.000 on potemkin.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-j-chkmail-Status: Ham
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Postdoctoral or engineer position in bioinformatics
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Postdoctoral or engineer position in bioinformatics
+Type de poste : Post-doc / IR
+Durée du poste :
+Ville : Lyon - Evry
+Nom du contact : Emilie Chautard
+Email du contact : emilie.chautard@inria.fr
+Laboratoire : Cancer Research Center  of Lyon (INSERM UMR5286 U1052/CNRS) -  
+Institute for Stem Cell Therapy and Exploration of Monogenic diseases  
+(I-Stem) (Inserm/UEVE UMR 861/AFM)
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/postdoctoral-or-engineer-position-bioinformatics

@@ -1,0 +1,107 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=342ff19f7=Nicolas.Servant@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id CECE226801D
+	for <bioinfo@sfbi.fr>; Mon, 29 Sep 2014 10:32:39 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AosBAJUYKVSBrzskmWdsb2JhbABgg2FbygyIXhYBEQEBAQEBCAsLBxQshBYmAQUIAQEpBwYCOxYYAwIBAgFLDQYCAog6qRSFegEFkEcGjzwRAYUihkGHTYgWhwmBYoVwkXA7L4EPOYECAQEB
+X-IPAS-Result: AosBAJUYKVSBrzskmWdsb2JhbABgg2FbygyIXhYBEQEBAQEBCAsLBxQshBYmAQUIAQEpBwYCOxYYAwIBAgFLDQYCAog6qRSFegEFkEcGjzwRAYUihkGHTYgWhwmBYoVwkXA7L4EPOYECAQEB
+X-IronPort-AV: E=Sophos;i="5.04,618,1406584800"; 
+   d="scan'208";a="73745801"
+Received: from cip02-in.curie.u-psud.fr ([129.175.59.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 29 Sep 2014 10:32:40 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1411979559; x=1443515559;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=Fj+8ptsjNdfHybne9pCKiu6bhZbeBS7NGus5Mc60oNs=;
+  b=o0TnN8xiUr63RNp7JdJfcH9aC2T3wV99Z/jSk7Zq4Zu8wEUVIL6pHx3O
+   SiZT6ecB6SSmW7qdK/kC5JuvcNNkew==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqIEAJUYKVQKAgBG/2dsb2JhbABgg2FbygyIdAF7hBYmAQUzBwY9FhgDAgECAUsNBgICyBuPPBEBhSIFhjyHTYgWhwmBYoVwkXBqgQ85gQIBAQE
+X-IPAS-Result: AqIEAJUYKVQKAgBG/2dsb2JhbABgg2FbygyIdAF7hBYmAQUzBwY9FhgDAgECAUsNBgICyBuPPBEBhSIFhjyHTYgWhwmBYoVwkXBqgQ85gQIBAQE
+X-IronPort-AV: E=Sophos;i="5.04,618,1406584800"; 
+   d="scan'208";a="5276770"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip02-in.curie.u-psud.fr with ESMTP; 29 Sep 2014 10:32:38 +0200
+Received: from [10.200.10.122] (10.200.10.122) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.3.174.1; Mon, 29 Sep 2014 10:32:37
+ +0200
+Message-ID: <54291925.7080503@curie.fr>
+Date: Mon, 29 Sep 2014 10:32:37 +0200
+From: Nicolas Servant <nservant@curie.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20130119 Icedove/10.0.12
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="windows-1252"; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.122]
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] CDD =?WINDOWS-1252?Q?Ing=E9nieur?= NGS - Institut Curie
+Bonjour,
+Un poste d'ingénieur en Bioinformatique pour l'analyse des données à 
+haut-débit est ouvert au Centre de Recherche de l'Institut Curie 
+(http://www.curie.fr) à Paris. Le candidat travaillera au sein de la 
+plate-forme bioinformatique de l'unité U900 « Cancer et génome : 
+bioinformatique, biostatistiques et épidémiologie d'un
+système » (U900 INSERM - Mines ParisTech - Institut Curie, 
+http://u900.curie.fr).
+Contexte :
+L'Institut Curie est un acteur majeur dans le traitement et la recherche 
+contre le Cancer. Composé à la fois d'un Hôpital et d'un Centre de 
+Recherche, l'expertise de l'Institut Curie s'étend de la recherche 
+fondamentale au soin du patient. L'objectif du Centre de Recherche de 
+l'Institut Curie est de développer la recherche
+fondamentale et d'utiliser ces connaissances pour améliorer le 
+diagnostic, le pronostic, le traitement des cancers dans le cadre du 
+continuum entre la recherche fondamentale et l'innovation au service du 
+malade. L'unité U900 compte près de 80 ingénieurs, chercheurs et 
+étudiants en bioinformatique, biostatistiques et
+biologie des systèmes (mathématiciens, statisticiens, bioinformaticiens, 
+informaticiens, biologistes, physiciens, médecins et bioanalystes).
+Mission :
+Dans le cadre du projet France Génomique, les plates-formes de 
+bioinformatique sont chargées de mettre à la disposition des 
+utilisateurs une collection de ressources dédiées à l'analyse de données 
+NGS. L'ingénieur recruté sera responsable de l'évaluation et de 
+l'implémentation des méthodes bioinformatiques permettant l'analyse de 
+données NGS, notamment smallRNA-seq, ChIP-seq et methyl-seq.
+Au sein de la plate-forme bioinformatique U900, l'Ingénieur en 
+bioinformatique participera :
+- à la définition des stratégies d'analyse des données de grand séquençage,
+- à l'implémentation et à la mise en place des chaînes de traitement 
+d'analyses,
+- à la maintenance des pipelines et outils d'analyse existant,
+- à la valorisation et au partage des applications développées dans la 
+communauté scientifique (packages distribués, et services en ligne)
+- aux analyses tertiaires des données en collaboration avec les 
+différentes équipes utilisatrices de la plate-forme
+Profil recherché :
+Titulaire d'un diplôme d'ingénieur ou d'un master en bioinformatique, 
+vous disposez des compétences suivantes :
+- Fort intérêt pour le domaine des sciences biologiques et/ou médicales.
+- Maîtrise des concepts et outils bioinformatiques appliqués à l'analyse 
+de données NGS.
+- Maîtrise de l'environnement linux/unix.
+- Bonne connaissance d'un langage de script (Perl et/ou Python), et R 
+(des connaissances en langage C, C++ seraient un plus).
+- Avoir un bon niveau d'anglais écrit et oral.
+- Avoir un bon sens relationnel, organisé, et consciencieux
+Une première expérience en analyse de données NGS ainsi qu'une 
+connaissance de l'environnement Galaxy, seront appréciées.
+Lieu de travail : Paris (5 )
+Rémunération : Selon profil et expérience
+Adresser vos candidatures (CV, motivation et références par courrier 
+électronique à bcsb73@curie.fr
+Cordialement,
+-- 
+Nicolas Servant
+Plateforme de Bioinformatique
+Unité 900 : Institut Curie - Inserm - Mines ParisTech
+26, rue d'Ulm - 75248 Paris Cedex 05 - FRANCE
+Email: Nicolas.Servant@curie.fr
+Tel: 01 56 24 69 85
+http://bioinfo.curie.fr/

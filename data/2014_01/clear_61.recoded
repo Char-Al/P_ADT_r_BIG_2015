@@ -1,0 +1,92 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <stephane.dray@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 6396A26801D
+	for <bioinfo@sfbi.fr>; Tue, 21 Jan 2014 15:22:00 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmMBAN6B3lKG1rySnGdsb2JhbABag0O9UhYOAQEBAQEICwkJFCiCOCYBBTBNFhgDAgECAVgGAgEBiAENmTGrV5E1D4F6BJlUhRWOfw
+X-IronPort-AV: E=Sophos;i="4.95,696,1384297200"; 
+   d="scan'208";a="60631098"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Jan 2014 15:21:59 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 4FA9FE002B
+	for <bioinfo@sfbi.fr>; Tue, 21 Jan 2014 15:21:59 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GfT-FbyxhDQG for <bioinfo@sfbi.fr>;
+	Tue, 21 Jan 2014 15:21:54 +0100 (CET)
+Received: from [134.214.35.4] (umr5558-portablesdray.univ-lyon1.fr [134.214.35.4])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 81F05E0008
+	for <bioinfo@sfbi.fr>; Tue, 21 Jan 2014 15:21:54 +0100 (CET)
+Message-ID: <52DE8281.7080001@univ-lyon1.fr>
+Date: Tue, 21 Jan 2014 15:21:53 +0100
+From: Stéphane_Dray <stephane.dray@univ-lyon1.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.1.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Poste MCU en Eco-Genomique
+ne poste de maître de conférences en "Eco-Génomique : génomique
+fonctionnelle en écologie et évolution" sera prochainement ouvert au
+concours en 2014 à l'Université Lyon1 pour une prise de fonction à la
+rentrée 2014/2015.
+Le poste est rattaché à l'UMR CNRS 5558 Biométrie et Biologie Evolutive
+(LBBE).
+PROFIL RECHERCHE :
+Le LBBE, de par ses activités en Ecologie et Génomique Evolutives, est
+idéalement situé pour développer de nouvelles problématiques à
+l'interface entre Ecologie, Evolution et Génomique. L'objectif du
+recrutement est de faire émerger une compétence en génomique adossée aux
+problématiques écologiques et évolutives du laboratoire. Le/la
+candidat(e) sera un interlocuteur privilégié entre les chercheurs en
+écologie notamment en écologie comportementale et les
+(bio)informaticiens du laboratoire qui
+développent des outils pour l'analyse de données complexes et massives.
+Le/la candidat(e) devra identifier les bases génétiques qui sous-tendent
+l'expression des traits des organismes et leur variation en fonction de
+l'environnement, ainsi que les mécanismes
+de l'adaptation. Une approche populationnelle pourra être envisagée afin
+de mettre en exergue les signatures de la
+sélection naturelle. Ces développements s'appuieront sur des approches
+génomiques et/ou transcriptomique en cours ou en projet au laboratoire
+sur différents systèmes biologiques (organismes modèles ou non).
+L'affectation est ouverte à des thématiques incluant la génétique et la
+génomique du comportement, les interactions hôtes-microorganismes et
+l'épigénétique, sur des modèles insectes. Le/la candidat(e) devra
+posséder une solide
+formation ou expérience en génomique (NGS) et bio-informatique et avoir
+montré son ouverture à des problématiques écologiques et évolutives.
+ENSEIGNEMENT :
+La personne recrutée assurera des enseignements en bioinformatique
+notamment la gestion et l'analyse des données omiques issues des
+nouvelles technologies de séquençage en soutien à l'équipe pédagogique
+de Biométrie et Biologie Evolutive (UMR CNRS 5558). De par ses capacités
+à relier génomique, écologie et évolution, elle participera aux nouveaux
+enseignements dans l'UE « Ecologie et
+Gestion des populations » de L3. Elle développera de nouveaux
+enseignements à l'interface génétique/écologie/évolution dans le cadre
+du parcours « Génétique et Génomique Evolutive » et du parcours Ecologie
+Evolution et Biométrie, UE « Concepts, Outils et méthodes en Evolution »
+(Master Ecoscience, Microbiologie). Elle participera également aux
+enseignements de la mention Biologie de la licence dans les UE
+«Biostatistique et Bioinformatique » (UE de L2 obligatoire dans les
+parcours BOP et MIV, optionnelle pour les autres parcours de Biologie),
+et « Approches Statistiques et Bioinformatique du Vivant » (UE de L3
+optionnelle pour les parcours GBC / Microbiologie / Physiologie).
+Contact :
+Dominique Mouchiroud, PR, DU,Dominique.mouchiroud@univ-lyon1.fr, 04 72
+43 11 67
+ou
+Emmanuel Desouhant,emmanuel.desouhant@univ-lyon1.fr
+-- 
+Stéphane DRAY (stephane.dray@univ-lyon1.fr)
+Laboratoire BBE-CNRS-UMR-5558, Univ. C. Bernard - Lyon I
+43, Bd du 11 Novembre 1918, 69622 Villeurbanne Cedex, France
+Tel: 33 4 72 43 27 57       Fax: 33 4 72 43 13 88
+http://pbil.univ-lyon1.fr/members/dray/

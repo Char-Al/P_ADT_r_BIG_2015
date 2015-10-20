@@ -1,0 +1,157 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Sarah.Cohen_Boulakia@lri.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2FBEB26801D
+	for <bioinfo@sfbi.fr>; Mon, 10 Feb 2014 12:29:20 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuIBAN62+FKBr9RBnGdsb2JhbABZg0TBIxYOAQEBAQEICwkJFCiCLAgCE0IHAQEeBWg/AQQBHQUJAodqDckVjiWDDg+BegSJEZBMlB2BZw
+X-IronPort-AV: E=Sophos;i="4.95,817,1384297200"; 
+   d="scan'208";a="53726332"
+Received: from mx2.u-psud.fr ([129.175.212.65])
+  by b-mx1.relay.syrhano.net with ESMTP; 10 Feb 2014 12:29:19 +0100
+Received: from mx2.u-psud.fr (mx2 [127.0.0.1])
+	by localhost (MTA) with SMTP id 47382302AAB;
+	Mon, 10 Feb 2014 12:29:19 +0100 (CET)
+Received: from ext.lri.fr (ext.lri.fr [129.175.15.4])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mx2.u-psud.fr (MTA) with ESMTPS id A4AEE302AD0;
+	Mon, 10 Feb 2014 12:29:18 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by ext.lri.fr (Postfix) with ESMTP id 85B2340B47;
+	Mon, 10 Feb 2014 12:29:18 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at lri.fr
+Received: from ext.lri.fr ([127.0.0.1])
+	by localhost (ext.lri.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id vQZhqwpn95rO; Mon, 10 Feb 2014 12:29:18 +0100 (CET)
+Received: from SarahSony (lri29-228 [129.175.29.228])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by ext.lri.fr (Postfix) with ESMTPSA id 64CB140B15;
+	Mon, 10 Feb 2014 12:29:18 +0100 (CET)
+From: "Sarah Cohen-Boulakia" <Sarah.Cohen_Boulakia@lri.fr>
+To: <bioinfo@sfbi.fr>, <bull-i3@irit.fr>
+Date: Mon, 10 Feb 2014 12:29:27 +0100
+Message-ID: <037601cf2653$5b7c5650$127502f0$@lri.fr>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: Ac8mUcsyQiSrmJzuQ2uccC/Yd2K8Mw=
+Content-Language: fr
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CFP DILS 2014-Lisbon, Portugal July 17-18, 2014 (deadline March 2nd)
+Final Call for Papers
+10th International Conference on Data Integration in the Life Sciences (DILS
+2014)
+Lisbon, Portugal July 17-18, 2014
+http://dils2014.inesc-id.pt
+Proceedings will appear in Springer LNBI series,
+best papers in Journal of Biomedical Semantics.
+Important dates:
+March 2, 2014: 	  	Firm submission deadline (extended) for
+                        research, industry, application and experience
+papers
+April 4, 2014: 		Notification of acceptance
+May 3, 2014: 		Camera-ready copy due
+May 15, 2014		Poster / Demo submission deadline
+June 6, 2014		Notification of acceptance (poster/demo)
+July 17-18, 2014: 	Conference
+DILS 2014 initially invites three types of papers:
+-	Full research papers (up to 15 pages)
+-	Short research papers (8 pages)
+-	Industry/application/experience papers (8 pages).
+Poster and demonstration papers (up to 4 pages) have a later deadline (May
+15).
+Topics of Interest
+The DILS conference is an interdisciplinary forum on advances in data
+integration, data management and data analysis for the life sciences.
+Researchers and professionals from biology, medicine, computer science and
+engineering are invited to contribute their latest results. Of particular
+interest are topics related to enabling the use of Big Data in life science
+research and applications.
+Topics of interest include, but are not limited to:
+-	Big Data Integration for the life sciences
+-	Ontology mappings and evolution
+-	Large-scale data analysis for the life sciences
+-	Architectures and data management techniques for the life sciences
+-	Query processing and optimization for biological data
+-	Biological data sharing and update propagation
+-	Query formulation assistance for scientists
+-	Modeling of life sciences data
+-	Biomedical data integration issues in eScience
+-	Laboratory information management systems in biology (including
+workflow systems)
+-	Quality assurance in integrated biological data repositories
+-	Biomedical metadata management (including provenance)
+-	Mining integrated life sciences data and text resources
+-	Standards for biomedical data integration and annotation
+-	Scientific results arising from innovative data integration
+solutions
+-	Exposing biomedical data for integration (APIs, Linked Open Data,
+SPARQL endpoints)
+-	Creation and use of clinical data repositories
+-	Data integration in clinical and translational research
+-	Integration of genotypic and phenotypic data
+-	Challenges and opportunities with big data in the life sciences
+-	Ethical, legal and social issues with biomedical data integration.
+Papers are to be prepared using LNCS templates and submitted using the
+EasyChair site:
+ https://www.easychair.org/conferences/?conf=3Ddils2014.
+The proceedings of DILS will be published by Springer in Lecture Notes in
+Bioinformatics.
+The authors of the best papers will be invited to submit an extended version
+of their DILS paper
+for publication in a supplement of the Journal of Biomedical Semantics.
+The extended versions will then go through another fast reviewing process
+and,
+if accepted for publication, there will be a publication fee.
+Posters and Demos:
+DILS2014 also invites the submission of posters and demos to be presented in
+the
+poster/demo session at the conference. The poster/demo abstracts will not be
+included in the DILS 2014 proceedings,
+but will be published in the web site and distributed in the conference.
+The poster/demo abstracts should be submitted using the EasyChair site (up
+to 4 pages),
+clearly specifying the category (poster or demo).
+Important dates for poster/demo abstracts:
+May 15, 2014: Submission deadline
+June 6, 2014: Notification of acceptance.
+Program Committee Chairs
+Helena Galhardas, Instituto Superior Técnico and INESC-ID, Portugal
+Erhard Rahm, University of Leipzig, Germany
+Program Committee
+Christopher Baker, University of New Brunswick, Canada
+Kenneth J Barker, IBM, USA
+Olivier Bodenreider, NIH, USA
+Jo=E3o Carri=E7o, IMM, Portugal
+James Cimino, National Library of Medicine, USA
+Claudine Chaouiya, IGC, Portugal
+Luis Pedro Coelho, EMBL, Germany
+Sarah Cohen-Boulakia, LRI, University of Paris-Sud 11, France
+Francisco Couto, Faculty of Sciences, University of Lisbon, Portugal
+Alexandre Francisco, Instituto Superior Técnico and INESC-ID, Portugal
+Juliana Freire, NYU-Poly, USA
+Christine Froidevaux, LRI, University of Paris-Sud 11, France
+Hasan Jamil, University of Idaho, USA
+Graham Kemp, Chalmers University of Technology, Sweden
+Toralf Kirsten, University of Leipzig, Germany
+Birgitta K=F6nig-Ries, Institut f=FCr Informatik Friedrich-Schiller-Univers
+it=E4t
+Jena, Germany
+Patrick Lambrix, Link=F6ping University, Sweden
+Adam Lee, University of Maryland and National Library of Medicine, USA
+Mong Li Lee, National University of Singapore, Singapore
+Ulf Leser, Humboldt-Universit=E4t zu Berlin, Germany
+Bertram Ludaescher, University of California, USA
+Sara Madeira, Instituto Superior Técnico and INESC-ID, Portugal
+Paolo Missier, Newcastle University, UK
+Norman Paton, University of Manchester, UK
+Cédric Prusky, CRP Henri Tudor, Luxemburg
+Uwe Scholz, IPK Gatersleben, Germany
+Maria Esther Vidal, Universidad Simòn Bol=EDvar, Venezuela
+Dagmar Waltemath, University of Rostock, Germany

@@ -1,0 +1,94 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <nicolas.tchitchek@cea.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 0651226801D
+	for <bioinfo@sfbi.fr>; Mon,  2 Jun 2014 19:22:55 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmQBAA6yjFOEqOAInGdsb2JhbABZgmWBTMJZAYEVFg4BAQEBAQgLCQkUKIInBQxmGQEqQxMmAQQTCIg6AZsUri2FVBeOIYNjgRUEj26HCJgvgUCCLw
+X-IronPort-AV: E=Sophos;i="4.98,958,1392159600"; 
+   d="scan'208";a="67823690"
+Received: from oxalide-out.extra.cea.fr ([132.168.224.8])
+  by a-mx1.relay.syrhano.net with ESMTP; 02 Jun 2014 19:22:54 +0200
+Received: from pisaure.intra.cea.fr (pisaure.intra.cea.fr [132.166.88.21])
+	by oxalide.extra.cea.fr (8.14.2/8.14.2/CEAnet-Internet-out-2.3) with ESMTP id s52HMr2i018152
+	for <bioinfo@sfbi.fr>; Mon, 2 Jun 2014 19:22:53 +0200
+Received: from pisaure.intra.cea.fr (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id C284920406A
+	for <bioinfo@sfbi.fr>; Mon,  2 Jun 2014 19:24:16 +0200 (CEST)
+Received: from muguet2.intra.cea.fr (muguet2.intra.cea.fr [132.166.192.7])
+	by pisaure.intra.cea.fr (Postfix) with ESMTP id B8CE5204056
+	for <bioinfo@sfbi.fr>; Mon,  2 Jun 2014 19:24:16 +0200 (CEST)
+Received: from EXCAH-B1.intra.cea.fr (excah-b1.intra.cea.fr [132.166.88.86])
+	by muguet2.intra.cea.fr (8.13.8/8.13.8/CEAnet-Intranet-out-1.2) with ESMTP id s52HMrSo014293
+	for <bioinfo@sfbi.fr>; Mon, 2 Jun 2014 19:22:53 +0200
+Received: from EXDAG0-A1.intra.cea.fr ([fe80::ac4c:b0e6:f68e:69cf]) by
+ EXCAH-B1.intra.cea.fr ([fe80::b4bb:7f38:ea87:b760%11]) with mapi id
+ 14.03.0174.001; Mon, 2 Jun 2014 19:22:54 +0200
+From: TCHITCHEK Nicolas 241696 <nicolas.tchitchek@cea.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: =?Windows-1252?Q?[Emploi]_Informaticien_pour_le_développement_d'un_sy?
+ =?Windows-1252?Q?stème_de_gestion_de_données_biologiques?
+Thread-Index: Ac9+ha66aaDIT9u/RW2Mia3dvqTzpg=
+Date: Mon, 2 Jun 2014 17:22:52 +0000
+Message-ID: <1DB4E563CEA52D4484787653974833A6D143F2@EXDAG0-A1.intra.cea.fr>
+Accept-Language: en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [132.166.88.106]
+x-tm-as-product-ver: SMEX-10.2.0.1135-7.500.1017-20710.007
+x-tm-as-result: No--25.184300-0.000000-31
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi] Informaticien pour le =?WINDOWS-1252?Q?développement?= =?WINDOWS-1252?Q?d'un?= =?WINDOWS-1252?Q?système?= de gestion de =?WINDOWS-1252?Q?données?= biologiques
+Profil de poste : Informaticien pour le développement d'un système de
+ gestion de données biologiques
+Poste à pourvoir:
+CDD de 2 ans à temps complet ou en alternance
+Commissariat à l'Energie Atomique
+Service d'Immuno-virologie, DSV/iMETI
+18, route du Panorama
+92265 Fontenay-aux-Roses
+Contexte:
+Le service d'immuno-virologie (SIV) développe, au sein de l'Institut 
+des Maladies Emergentes et Thérapies Innovantes (iMETI), des programmes d
+e recherche ayant trait aux interactions virus/hôte. Il s'agit, notamme
+nt, d'étudier les réponses immunes innée et adaptative aux infectio
+ns virales humaines comme le VIH, le virus du Chikungunya ou la grippe dans
+ différents modèles expérimentaux. L'objectif est de mieux comprend
+re ces mécanismes de défense afin de développer de nouvelles straté
+gies de prévention, comme les vaccins.
+L'énorme production de donnes expérimentales nécessite l'utilisat
+ion d'une base de donnes relationnelles qui a été développées au 
+sein du service. Cette base, nommée BATLab, est en développement contin
+u selon les exigences expérimentales. De plus, l'utilisation de BATLab 
+a été licenciée à plusieurs laboratoires Fran=E7ais et sera probabl
+ement licenciée à des laboratoires étrangers.
+Missions:
+Nous souhaitons recruter au sein du laboratoire des " Thérapies Innovan
+tes et Prévention des Infections Virales " du Service d'Immuno-Virolo
+gie, un développeur informaticien. Il aura notamment pour mission le dé
+veloppement du logiciel BATLab sous la direction de notre équipe de bio-i
+nformatique.
+Compétences souhaitées:
+Développeur informatique à temps complet ou en alternance, le candidat 
+devra connaitre et maitriser parfaitement des technologies Web comme PHP5, 
+MySQL, HTML5 (dont CSS, AJAX, Javascript et JQuery) pour le développement
+ de nouveaux modules d'un logiciel déjà développé par le CEA. Il 
+devra également utiliser Java et R pour certains modules et utiliser GIT.
+ De bonnes connaissances en sécurité informatique et un attrait pour la
+ biologie seraient fortement appréciés.
+Formations:
+Diplôme d'informaticien BAC+2 à 5 recherché, à temps complet ou e
+n alternance.
+Contact:
+Veuillez faire parvenir un curriculum vitae et une lettre de motivation à
+ :
+Nicolas Tchitchek: nicolas.tchitchek@cea.fr et Brice Targat: brice.targat@c
+ea.fr

@@ -1,0 +1,57 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id CB34E26801D; Mon, 22 Sep 2014 14:58:59 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: Jacques van Helden <jacques.van-helden@univ-amu.fr>
+Message-ID: <sympa.1411390499.21559.311@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Mon, 22 Sep 2014 14:58:59 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Emploi CDD =?ISO-8859-1?Q?Ing=E9nieur?= Bioinformatique - ChIP-seq France =?ISO-8859-1?Q?G=E9nomique?=
+================================================================
+     Emploi CDD Ingénieur Bioinformatique - ChIP-seq France Génomique
+================================================================
+Durée : CDD 18 mois
+Type de poste: Ingénieur de recherche (IR) ou ingénieur d'études expérimenté (IE)
+Ville : Marseille
+Site : Plate-forme TGML du laboratoire TAGC, Marseille (http://tagc.univ-mrs.fr/)
+Contact : Jacques.van-Helden@univ-amu.fr
+Date recrutement : à partir d'octobre 2014
+Financement : France Génomique
+=====     Description du poste     =====
+Contexte : Ressources bioinformatiques pour l'analyse de données ChIP-seq.
+Dans le cadre du projet France Génomique, les plates-formes de séquençage et de bioinformatique sont chargées de mettre à la disposition des utilisateurs une collection de ressources bioinformatiques pour l'analyse des données de séquençage à haut débit ("Next Generation Sequencing"). Le présent appel se place dans le cadre de la régulation génique (WP2.6), et plus particulièrement du volet ChIP-seq.
+La mission générale de l'ingénieur recruté sera de développer l'accessibilité des ressources bioinformatiques pour l'analyse des données de ChIP-seq (bases de données et outils d'analyse). Ces ressources pourraient également être connectées aux autres ressources permettant d'analyser des données NGS liées à la régulation (en particulier, données RNA-seq).
+Le laboratoire d'accueil (TAGC) regroupe une plate-forme technologique (TGML) qui assure des services à la communauté, ainsi que des chercheurs travaillant dans différents domaines de biologie expérimentale et de bioinformatique. L'analyse de la régulation génétique est un axe transversal aux activités de recherche et aux services du TAGC, qui offrira donc un environnement humain propice au déroulement de la mission.
+=====     Missions     =====
+* recenser les outils existants ;
+* identifier les besoins des utilisateurs, et les manques éventuels ;
+* développer des interfaces conviviales pour des outils existants (en particulier, certains outils de la suite Regulatory Sequence Analysis Tools, développée au sein du laboratoire);
+* faciliter le déploiement des ressources bioinformatiques pour l'analyse de la régulation génétique;
+* développer des chaînes d'analyse combinant ces outils ;
+* documenter les outils et chaînes d'analyse ;
+* préparer du matériel de formation ;
+* mener une étude pilote visant à connecter des outils ChIP-seq via des Web services.
+=====     Profil recherché     =====
+Eléments requis :
+- Double compétence informatique / biologie (niveau Master ou thèse de doctorat).
+- Maîtrise du système opérateur Unix (utilisation, installation, maintenance)
+- Forte expérience de programmation (PERL, Python, standards d'échange de données)
+- Bon niveau de compréhension de l'anglais
+- Expérience en analyse de données à haut débit.
+Eléments souhaités :
+- Connaissance de l'environnement Galaxy (https://usegalaxy.org/).
+- Expérience en développement d'interfaces utilisateurs, API, pipelines d'analyse.
+- Capacités rédactionnelles (rédaction de documentation et matériel didactique).
+=====     Liens     =====
+France Génomique : https://www.france-genomique.org/
+Plate-forme TGML : http://tagc.univ-mrs.fr/tagc/index.php/tgml-facility
+Laboratoire TAGC : http://tagc.univ-mrs.fr/
+Regulatory Sequence Analysis Tools (RSAT) : http://www.rsat.fr/
+Galaxy : https://usegalaxy.org/

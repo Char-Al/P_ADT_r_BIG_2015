@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 6736226801D
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 10:31:30 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Am4BAOBcEVSKZqI0nGdsb2JhbABgg2BXAYJ7xTaIbhABAQEBAQYNCQkUKoQtEAURMw4kAiYCEiw0iEINmmGPNIF0jS2GSYEsjT8RAW2CY4FTBYEutGpqgQ+BQAEBAQ
+X-IPAS-Result: Am4BAOBcEVSKZqI0nGdsb2JhbABgg2BXAYJ7xTaIbhABAQEBAQYNCQkUKoQtEAURMw4kAiYCEiw0iEINmmGPNIF0jS2GSYEsjT8RAW2CY4FTBYEutGpqgQ+BQAEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,504,1406584800"; 
+   d="scan'208";a="64176547"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 11 Sep 2014 10:31:30 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s8B8VTQt028630
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 10:31:29 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 37B7A296B97
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 10:31:29 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XRzod-000DIj-8V
+	for bioinfo@sfbi.fr; Thu, 11 Sep 2014 10:33:19 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XRzod-000DIj-8V@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 11 Sep 2014 10:33:19 +0200
+X-Miltered: at alpha with ID 54115DE1.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54115DE1.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54115DE1.000 on alpha.jouy.inra.fr : j-chkmail score : X : R=. U=. O=. B=0.272 -> S=0.272
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][CDI autre] Bioinformatics Scientist
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformatics Scientist
+Type de poste : CDI autre
+Durée du poste : indéterminée
+Ville : Freiburg, Germany
+Nom du contact : Bruno Zeitouni
+Email du contact : bruno.zeitouni@oncotest.de
+Laboratoire : Oncotest GmbH
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/bioinformatics-scientist

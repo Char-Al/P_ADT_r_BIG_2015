@@ -1,0 +1,63 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <jean-francois.gibrat@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2C94226801D
+	for <bioinfo@sfbi.fr>; Thu, 20 Mar 2014 14:59:01 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApIBAKfzKlOKZqI0nGdsb2JhbABag0HCB4EegS0OAQEBAQEICwkJFCiCJgEFMgEFOQcRLBYECwkDAgECATsKEwgBARiHXQQJ0CMXjGiBGxEBVxaEIgSPV4hwgTKSbYE/gXE
+X-IronPort-AV: E=Sophos;i="4.97,695,1389740400"; 
+   d="scan'208";a="63799959"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 20 Mar 2014 14:59:00 +0100
+Received: from MacBook-Air-de-jean-francois.local (108.26.90.92.rev.sfr.net [92.90.26.108])
+	(authenticated bits=0)
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s2KDwu0u008074
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Thu, 20 Mar 2014 14:58:58 +0100 (CET)
+Message-ID: <532AF427.8070204@jouy.inra.fr>
+Date: Thu, 20 Mar 2014 14:59:03 +0100
+From: jfgibrat <jean-francois.gibrat@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <74707A9659B76B4E94E9DE8BDDA14CBCD59210@MBX01.ad.oak.ox.ac.uk>
+In-Reply-To: <74707A9659B76B4E94E9DE8BDDA14CBCD59210@MBX01.ad.oak.ox.ac.uk>
+X-Forwarded-Message-Id: <74707A9659B76B4E94E9DE8BDDA14CBCD59210@MBX01.ad.oak.ox.ac.uk>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at beta with ID 532AF420.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 532AF420.000/92.90.26.108/108.26.90.92.rev.sfr.net/MacBook-Air-de-jean-francois.local/<jean-francois.gibrat@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 532AF420.000 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.022 -> S=0.022
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Fwd: Please help us find dynamic and knowledgeable individuals who
+ will coordinate training in the UK and across Europe.
+Vous trouverez ci-joint deux propositions de postes pour ELIXIR.
+Dear All,
+Please can you help us to define applicants for these two posts that lie
+at the heart of the ELIXIR-UK project. Obtaining the best people for
+these posts is absolutely essential for the success of the
+training-centred programme of ELIXIR-UK and we hope that they will
+contribute greatly to coordinating the training agenda across Europe too.
+We are committed in ELIXIR-UK to find the best applicants for these
+posts.  We will consider applicants who might bridge between our
+ELIXIR-UK partners by, for example, working remotely from the post's
+host institution, i.e. Oxford.
+Please do send this email on to anyone who might be interested in these
+posts, and feel free to Tweet and repost to Web Sites etc.
+Training Coordinator for Research Science post:
+https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112514 
+<https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112514>
+Training Outreach Manager post:
+https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112532 
+<https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112532>
+(Apologies for the cross-posting).
+Best wishes,
+Chris
+PS Currently these are advertised in the OxUniv website, jobs.ac.uk,
+Nature Online, EURAXESS, and bioinformatics.org. We will also post to
+Goblet and will update the ELIXIR-UK website.

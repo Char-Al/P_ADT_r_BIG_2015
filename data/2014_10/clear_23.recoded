@@ -1,0 +1,55 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 9E18F26801D
+	for <bioinfo@sfbi.fr>; Thu,  9 Oct 2014 10:26:02 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AloBAH1FNlSKZqI0nGdsb2JhbABfg2FYAYMFyDeIcQERAQEBAQEICwkJFCyELRAFESsIDiQCHwcCEiwQJIg+DaFYjzuBdIwhhlKBLI42EQFtgmGBVAWBMLNqWIFFaoEPgTsBAQE
+X-IPAS-Result: AloBAH1FNlSKZqI0nGdsb2JhbABfg2FYAYMFyDeIcQERAQEBAQEICwkJFCyELRAFESsIDiQCHwcCEiwQJIg+DaFYjzuBdIwhhlKBLI42EQFtgmGBVAWBMLNqWIFFaoEPgTsBAQE
+X-IronPort-AV: E=Sophos;i="5.04,683,1406584800"; 
+   d="scan'208";a="74439338"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 09 Oct 2014 10:26:02 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s998Q1K0025291
+	for <bioinfo@sfbi.fr>; Thu, 9 Oct 2014 10:26:01 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id D751B296BA1
+	for <bioinfo@sfbi.fr>; Thu,  9 Oct 2014 10:26:01 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1Xc94s-000BsK-73
+	for bioinfo@sfbi.fr; Thu, 09 Oct 2014 10:28:02 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1Xc94s-000BsK-73@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 09 Oct 2014 10:28:02 +0200
+X-Miltered: at beta with ID 54364699.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54364699.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54364699.000 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.308 -> S=0.407
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] M2 statistique : Evaluation des   performances de =?UTF-8?Q?m=C3=A9thodes?= de =?UTF-8?Q?d=C3=A9tection?= en tem  ps =?UTF-8?Q?r=C3=A9el?= des =?UTF-8?Q?=C3=A9pid=C3=A9mies?= de grippe
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : M2 statistique : Evaluation des performances de  
+méthodes de détection en temps réel des épidémies de grippe
+Type de poste : Stage
+Durée du poste : 5 à 6 mois
+Ville : Paris
+Nom du contact : Clément Turbelin
+Email du contact : recrutement@sentiweb.fr
+Laboratoire : Institut Pierre Louis d'Epidémiologie et de Santé Publique,  
+UMRS 1136, Inserm UPMC, Réseau Sentinelles
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m2-statistique-evaluation-des-performances-de-m%C3%A9thodes-de-d%C3%A9tection-en-temps-r%C3%A9el-des-%C3%A9pid%C3%A9m

@@ -1,0 +1,72 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gascuel@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 9664C26801D
+	for <bioinfo@sfbi.fr>; Thu, 27 Nov 2014 09:03:23 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvkBAHzZdlTBMWgenGdsb2JhbABbFoNBxgSCOYdaFgEBAQEBEQEBAQEBCAsJCRQuhDsBBTAQPRYYAwIBAgFYCAEBiEAJrBamEiCDKIoHgTCCOYQ3BZdMhzWBNT+DGoJ+iBWJDSWBRm4BgkkBAQE
+X-IPAS-Result: AvkBAHzZdlTBMWgenGdsb2JhbABbFoNBxgSCOYdaFgEBAQEBEQEBAQEBCAsJCRQuhDsBBTAQPRYYAwIBAgFYCAEBiEAJrBamEiCDKIoHgTCCOYQ3BZdMhzWBNT+DGoJ+iBWJDSWBRm4BgkkBAQE
+X-IronPort-AV: E=Sophos;i="5.07,468,1413237600"; 
+   d="scan'208";a="77767507"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by a-mx1.relay.syrhano.net with ESMTP; 27 Nov 2014 09:03:23 +0100
+Received: from [192.168.0.21] (ip-72.net-80-236-38.suresnes.rev.numericable.fr [80.236.38.72])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 4B538A4F31
+	for <bioinfo@sfbi.fr>; Thu, 27 Nov 2014 09:03:22 +0100 (CET)
+Message-ID: <5476DAD5.3080800@lirmm.fr>
+Date: Thu, 27 Nov 2014 09:03:33 +0100
+From: Olivier Gascuel <gascuel@lirmm.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Mathematical and Computational Evolutionary Biology, 21-25 June 2015
+ - Porquerolles
+MCEB - Mathematical and Computational Evolutionary Biology
+21-25 June 2015 - Porquerolles Island, South of France.
+Webpage: http://www.lirmm.fr/mceb2015/
+Pre-registration deadline: February 10th
+Notification to applicants: February 28th
+Final list of attendees: April 1st
+Scope: Mathematical and computational tools and concepts form
+an essential basis for modern evolutionary studies. The goal
+of the MCEB conference (at its 7th edition) is to bring together
+scientists with diverse backgrounds to present recent advances
+and discuss open problems in the field of mathematical and
+computational evolutionary biology. The theme of this year's
+edition will be new data, new questions, new methods. New
+generation sequencing techniques have multiplied not just
+the amount, but also the types of genetic data produced,
+giving rise to new questions, and new methodologies to answer
+them. These methodologies are often cross-disciplinary, with
+applications to diverse research topics. General concepts, models,
+methods and algorithms will also be presented and discussed,
+just as during the previous conference editions.
+Where and when: Porquerolles Island, near Hyères, in the
+South of France, 21-25 June 2015.
+Cost: Conference fees including accommodation for four nights,
+meals, coffee breaks, etc., will be between 300 euros  and 630 euros , all
+inclusive, and will vary depending on the room. PhD students
+and postdocs will benefit of the cheapest rooms.
+Keynote speakers (to be completed):
+David Bryant - http://www.maths.otago.ac.nz/~dbryant/
+University of Otago, NZ
+Jukka Corander - http://www.helsinki.fi/bsg/
+Bayesian Statistics Group, University of Helsinki, FI
+Asger Hobolth - http://www.daimi.au.dk/~asger/
+Bioinformatics Research Center (BiRC), Aarhus University, DK
+Philippe Lemey
+https://rega.kuleuven.be/cev/ecv/lab-members/PhilippeLemey.html
+Rega Institute, Clinical and Epidemiological Virology, BE
+Bernard Moret - http://lcbb.epfl.ch/
+Laboratory for Computational Biology and Bioinformatics, EPFL, CH
+Ludovic Orlando - http://lcbb.epfl.ch/
+Center for GeoGenetics, Natural History Museum of Denmark, DK
+Molly Przeworski - http://przeworski.c2b2.columbia.edu/
+Columbia University, New york, USA
+For more information, visit the website at: http://www.lirmm.fr/mceb2015/
+Please forward this announcement.

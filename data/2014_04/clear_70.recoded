@@ -1,0 +1,47 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3199A26801D
+	for <bioinfo@sfbi.fr>; Thu, 17 Apr 2014 21:17:57 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArUDAAgoUFOKZqI0nGdsb2JhbABZg0GDa8BIAwKBPA4BAQEBAQgLCQkUKIImAQUjDwEFES8RJQIFFgsCAgkDAgECAUUTBgIBAYd4BAmocKJ4F4EpjFcRAVcWglmBSQEDmG6WAIFw
+X-IronPort-AV: E=Sophos;i="4.97,880,1389740400"; 
+   d="scan'208";a="57267883"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 17 Apr 2014 21:17:56 +0200
+Received: from MacBook-Air-de-sophie-2.local (bur91-3-82-239-212-158.fbx.proxad.net [82.239.212.158])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s3HJHt7Q027023
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Thu, 17 Apr 2014 21:17:55 +0200 (CEST)
+Message-ID: <535028F2.8070701@jouy.inra.fr>
+Date: Thu, 17 Apr 2014 21:18:10 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1WariD-0008ta-TS@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1WariD-0008ta-TS@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1WariD-0008ta-TS@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 535028E3.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 535028E3.000/82.239.212.158/bur91-3-82-239-212-158.fbx.proxad.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 535028E3.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=# B=0.052 -> S=0.052
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] bioinformatique / bioanalyse
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : bioinformatique / bioanalyse
+Type de poste : Post-doc / IR
+Durée du poste : 30 mois
+Ville : Evry
+Nom du contact : Christophe Battail
+Email du contact : cbattail@cng.fr
+Laboratoire : Centre National de Génotypage
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/bioinformatique-bioanalyse

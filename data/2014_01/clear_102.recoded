@@ -1,0 +1,43 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 0D38C26801D; Fri, 31 Jan 2014 09:26:11 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: comet@unice.fr
+Message-ID: <sympa.1391156530.16507.100@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri, 31 Jan 2014 09:26:11 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre de stage de Master bio-info
+Classification supervisée pour l'analyse en biologie cellulaire 
+Encadrant : Michel Barlaud
+Fonction Professeur Université de Nice-Sophia Antipolis 
+Lieu du stage : 
+Laboratoire I3S  -  Les Algorithmes  -  Bât Euclide B - 06903 Sophia-Antipolis
+Durée : 5-6 mois 
+Contact : Michel  Barlaud 
+  barlaud@i3s.unice.fr 
+  www.i3s.unice.fr/~barlaud/
+Mots clés :
+Machine Learning, Classification supervisée, SVM, Boosting, Biologie Cellulaire
+L'objectif du stage est de développer un logiciel de classification supervisée d'images pour des applications en biologie cellulaire. Les partenaires de ce projet sont l'équipe MediaCoding du Laboratoire I3S (Pr M Barlaud) et l'équipe TIRO en biologie cellulaire (Pr P Pognonec et T Pourcher).
+L'objectif de l'équipe biologie cellulaire est de caractériser la fixation d'une protéine (NIS) dans le cadre de radiothérapies et de traitements préventifs en toxicologie (anti « Fukushima »). L'équipe possède un microscope à haut débit qui génère des millions d'images de cellules. 
+L'équipe MediaCoding du Laboratoire I3S a développé des solutions innovantes de machine learning pour la classification haut débit (large scale). Des descripteurs adaptés à la classification de cellules sont basés sur des modèles de rétine artificielle  [2]. Nous avons récemment développé de nouvelles approches de machine learning basées sur la minimisation de fonctions de coût dans le primal  [3]  (alors que les SVM classiques utilisent la minimisation dans le dual).  
+L'objectif de ce stage est d'optimiser cette nouvelle méthode  [1] et de l'adapter dans un logiciel de classification en biologie cellulaire.
+Les compétences, savoir-faire et aptitudes demandées
+- Master ayant une expérience significative dans les domaines suivants :
+- Notion de Machine Learning : Boosting, SVM
+- Notions de Biologie Cellulaire
+- Langages : C++... Systèmes d'exploitation : Linux, Matlab 
+- Anglais technique lu, écrit, parlé
+[1] Boosting Stochastic Low-Rank Newton Descent for large scale image classification. Wafa BelHajAli, Paolo Piro,  Richard Nock, Michel Barlaud International Journal of Computer Vision.
+[2] Classification of biological cells using bio-inspired descriptors
+Wafa BelHajAli, Paolo Piro, Richard Nock, Thierry Pourcher,Michel Barlaud.  International Conference on Pattern Recognition Tsukuba Science City, JAPAN (2012)
+[3] Boosting k-NN for categorization of natural scenes
+R. Nock, P. Piro, Wafa Bel Haj Ali  F. Nielsen, M. Barlaud
+International Journal of Computer Vision, 100 pp.294-314, 04/07/2012

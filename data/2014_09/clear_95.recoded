@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 84F0D26801D
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 22:13:58 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvgCAO4NK1SKZqI0nGdsb2JhbABgg2FXAYI5SMcsh0cCgSkBEQEBAQEBBg0JCRQshBYXEAURMw4IHAImAhIsECSIPg2Lco0RjzuBdI0phwWBLI4QEQFtgmKBUwWBMLM2AViBRWqBD4E7AQEB
+X-IPAS-Result: AvgCAO4NK1SKZqI0nGdsb2JhbABgg2FXAYI5SMcsh0cCgSkBEQEBAQEBBg0JCRQshBYXEAURMw4IHAImAhIsECSIPg2Lco0RjzuBdI0phwWBLI4QEQFtgmKBUwWBMLM2AViBRWqBD4E7AQEB
+X-IronPort-AV: E=Sophos;i="5.04,629,1406584800"; 
+   d="scan'208";a="73878896"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 30 Sep 2014 22:13:57 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s8UKDu18009148
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 22:13:56 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 3555B296B94
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 22:13:56 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XZ3px-000El7-BD
+	for bioinfo@sfbi.fr; Tue, 30 Sep 2014 22:15:53 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XZ3px-000El7-BD@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 30 Sep 2014 22:15:53 +0200
+X-Miltered: at beta with ID 542B0F04.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 542B0F04.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 542B0F04.001 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.297 -> S=0.395
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?Ing=C3=A9nieur?= bioinformat  icien NGS =?UTF-8?Q?d=C3=A9veloppement?= / diagnostic
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur bioinformaticien NGS développement /  
+diagnostic
+Type de poste : CDD Ingénieur
+Durée du poste : 18 mois
+Ville : Paris 5e
+Nom du contact : Ivan Bièche
+Email du contact : ivan.bieche@curie.fr
+Laboratoire : Institut Curie, Service de Génétique
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformaticien-ngs-d%C3%A9veloppement-diagnostic

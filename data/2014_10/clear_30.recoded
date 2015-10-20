@@ -1,0 +1,71 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <thomas.simonson@polytechnique.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 9B43726801D
+	for <bioinfo@sfbi.fr>; Fri, 10 Oct 2014 17:42:00 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AswBAGH9N1SBaB4PnGdsb2JhbABgg2FYAYI9SL5HiVaHTYEHFgERAQEBAQEICwkJFCyEFhcVPAQBDgscAgUWCwILAwIBAgEJMR4BBQIBAYg6DY9EnE2VBgEBCAIgBIEojjYRAVAdgmGBVAWGLYxTgzuIeoV8kiRqgQ+BOwEBAQ
+X-IPAS-Result: AswBAGH9N1SBaB4PnGdsb2JhbABgg2FYAYI9SL5HiVaHTYEHFgERAQEBAQEICwkJFCyEFhcVPAQBDgscAgUWCwILAwIBAgEJMR4BBQIBAYg6DY9EnE2VBgEBCAIgBIEojjYRAVAdgmGBVAWGLYxTgzuIeoV8kiRqgQ+BOwEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,693,1406584800"; 
+   d="scan'208";a="74555831"
+Received: from mx-b.polytechnique.fr ([129.104.30.15])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Oct 2014 17:41:54 +0200
+Received: from zimbra.polytechnique.fr (zimbra.polytechnique.fr [129.104.69.30])
+	by mx-b.polytechnique.fr (tbp 5.3.2/2.0.7) with ESMTP id s9AFfrtp019201;
+	Fri, 10 Oct 2014 17:41:53 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra.polytechnique.fr (Postfix) with ESMTP id 3301B7200D5;
+	Fri, 10 Oct 2014 17:41:53 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at zimbra.polytechnique.fr
+Received: from zimbra.polytechnique.fr ([127.0.0.1])
+	by localhost (zimbra.polytechnique.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 4yb-YXhsvgvp; Fri, 10 Oct 2014 17:41:49 +0200 (CEST)
+Received: from [129.104.8.175] (zephyr.polytechnique.fr [129.104.8.175])
+	by zimbra.polytechnique.fr (Postfix) with ESMTP id 0B3E6720089;
+	Fri, 10 Oct 2014 17:41:49 +0200 (CEST)
+Message-ID: <5437FE3D.5010100@polytechnique.fr>
+Date: Fri, 10 Oct 2014 17:41:49 +0200
+From: Thomas Simonson <thomas.simonson@polytechnique.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Cc: Thomas Simonson <thomas.simonson@polytechnique.fr>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Stage M2 de dessein computationnel de protéines
+Un stage M2 est proposé dans notre équipe de bioinformatique
+structurale à l'Ecole Polytechnique:
+Dessein computationnel des interactions protéine-ligand
+----------------------------------------------------------
+On s'intéressera à l'ingénierie (in silico) de l'asparaginyl
+-ARNt
+synthétase, avec le but d'obtenir une activité envers des acides
+aminés non-naturels, et éventuellement d'introduire ces acides
+aminés dans le code génétique. On utilisera une méthode
+ générale
+de =C2"dessein computationnel de protéines=C2". La méthode et
+ le logiciel
+ont été développées dans l'équipe et ont permis tr
+ès récemment
+de modifier la stereospecificité d'une autre synthétase. Plus
+généralement, ces méthodes ont de nombreuses applications fo
+ndamentales
+et technologiques. Le stage incluera un travail d'amélioration
+des outils et un travail d'application; les prédictions seront
+testées par les collègues expérimentalistes du laboratoire.
+Financement de thèse envisageable (à travers l'Ecole Doctorale de
+Polytechnique, largement ouverte aux étudiants extérieurs).
+Voir aussi biology.polytechnique.fr/biocomputing et les articles:
+Simonson et al, J Comp Chem, 2013; Polydorides et al, Proteins 2010;
+Schmidt am Busch et al, Plos One 2010, Protein 2009
+Bien cordialement,
+--
+Thomas Simonson -- Department of Biology
+Laboratoire de Biochimie (UMR 7654 du CNRS)
+Ecole Polytechnique; 91128 Palaiseau; France
+phone: +33/1 69 33 48 60  (fax: -- 49 09)
+email: Thomas.Simonson@polytechnique.fr
+http://biology.polytechnique.fr/biocomputing

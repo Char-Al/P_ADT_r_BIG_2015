@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id D59C226801D
+	for <bioinfo@sfbi.fr>; Sun, 21 Dec 2014 20:42:53 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgYBAOwhl1SKZqI0nGdsb2JhbABbg1hYAYMDwzmHFwEBAQEBEQEBAQEBCAsJCRQuhDYQBRErCA4kAh8HAhIsECSILA2pC49EgWyOJ4U/gSGNbxEBbYJSgUEFgSKnLIFnAQEIAQEBAV+BPW6BDIE3AQEB
+X-IPAS-Result: AgYBAOwhl1SKZqI0nGdsb2JhbABbg1hYAYMDwzmHFwEBAQEBEQEBAQEBCAsJCRQuhDYQBRErCA4kAh8HAhIsECSILA2pC49EgWyOJ4U/gSGNbxEBbYJSgUEFgSKnLIFnAQEIAQEBAV+BPW6BDIE3AQEB
+X-IronPort-AV: E=Sophos;i="5.07,618,1413237600"; 
+   d="scan'208";a="78906943"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Dec 2014 20:42:52 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sBLJgpQ7011488
+	for <bioinfo@sfbi.fr>; Sun, 21 Dec 2014 20:42:51 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id C917C296BB4
+	for <bioinfo@sfbi.fr>; Sun, 21 Dec 2014 20:42:51 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1Y2mRK-000F7X-Fw
+	for bioinfo@sfbi.fr; Sun, 21 Dec 2014 20:45:18 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1Y2mRK-000F7X-Fw@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Sun, 21 Dec 2014 20:45:18 +0100
+X-Miltered: at beta with ID 549722BB.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 549722BB.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 549722BB.001 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.295 -> S=0.392
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] M2 - =?UTF-8?Q?D=C3=A9veloppement?= d'un module   logiciel de Biophysique =?UTF-8?Q?Mol=C3=A9culaire?= pour Math  ematica
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : M2 - Développement d'un module logiciel de Biophysique  
+Moléculaire pour Mathematica
+Type de poste : Stage
+Durée du poste : 5-6 mois
+Ville : PARIS
+Nom du contact : Jean COGNET
+Email du contact : jean.cognet@upmc.fr
+Laboratoire : Laboratoire Jean Perrin
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m2-d%C3%A9veloppement-dun-module-logiciel-de-biophysique-mol%C3%A9culaire-pour-mathematica

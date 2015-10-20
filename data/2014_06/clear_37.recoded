@@ -1,0 +1,67 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Nuel.Gregory@math.cnrs.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id F2C0826801D
+	for <bioinfo@sfbi.fr>; Wed, 11 Jun 2014 15:31:15 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApUBAPtYmFPCp9ccnGdsb2JhbABayVkPAQEBAQEICwkJFCiEdWR7iEIEoFOREJxkF41qEQFtgxWBFgSaLYZ2jlCBQoF0
+X-IronPort-AV: E=Sophos;i="5.01,458,1400018400"; 
+   d="scan'208";a="68313904"
+Received: from margauxlyon.mathrice.fr (HELO mailhost.math.cnrs.fr) ([194.167.215.28])
+  by a-mx1.relay.syrhano.net with ESMTP; 11 Jun 2014 15:31:15 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mailhost.math.cnrs.fr (Postfix) with ESMTP id 75BCC4419E
+	for <bioinfo@sfbi.fr>; Wed, 11 Jun 2014 15:31:14 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at math.cnrs.fr
+Received: from mailhost.math.cnrs.fr ([127.0.0.1])
+	by localhost (margaux.math.cnrs.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id pjddclBPwp0f for <bioinfo@sfbi.fr>;
+	Wed, 11 Jun 2014 15:31:10 +0200 (CEST)
+Received: from [10.0.1.4] (webfi.lpma.math.upmc.fr [134.157.65.40])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mailhost.math.cnrs.fr (Postfix) with ESMTP id 9193D4424A
+	for <bioinfo@sfbi.fr>; Wed, 11 Jun 2014 15:31:10 +0200 (CEST)
+From: Gregory Nuel <Nuel.Gregory@math.cnrs.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <A9C58882-167B-4AB7-B185-A69B73E2F8D6@math.cnrs.fr>
+Date: Wed, 11 Jun 2014 15:31:10 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoctoral position in Cancer Genetics of Breast and Ovarian Cancer at Institut Curie / University Paris Descartes
+A 12 months postdoctoral position is offered jointly by the Department of O
+ncogenetics of Institut Curie (Ulm street, Paris) and the department of App
+lied Mathematics of University Paris Descartes (MAP5, Paris). The position 
+will start on October 1st, 2014. Supervision will be jointly ensured by an 
+expert epidemiologist (Nadine Andrieu, DR INSERM) and a biostatistician (Gr
+egory Nuel, DR CNRS). The position is part of a 2 years project called DECU
+RION (Descartes CURIe Oncongenetics) jointly funded by the IRESP (Institut 
+de REcherche en Santé Publique) and the Ligue contre le Cancer. The aim o
+f the project is to develop a new model for assessing individual cancer ris
+k from family history. The mathematical tools involved are: survival analys
+is, Bayesian networks, belief propagation, estimation with partial data (EM
+ algorithm and variants). The postdoc main role will be to support the proj
+ect by adding covariates of interest into the model (ex: breast density, hi
+story of radio-therapy, use of HRT, etc.), but other directions are possibl
+e depending on the applicant skills and motivations. The successful applica
+nt will have a background in probability/statistics and at least some exper
+ience with human genetics applications, programming skills (R software and/
+or C++) being a plus.
+Applications, including a CV, a motivation letter and the contact informati
+on of at least two referees, should be sent by email both to Nadine Andrieu
+ (nadine.andrieu@curie.fr) and Grégory Nuel (nuel@math.cnrs.fr) with as s
+ubject =93DECURION postdoc application'' before August 20th, 2014. Resu
+lts should be available by the beginning of September 2014.
+Best regards,
+GN
+--
+Pr. Grégory Nuel
+DR CNRS, INSMI
+Stochastics and Biology Group (PSB)
+LPMA, UPMC, Sorbonne University
+Paris France

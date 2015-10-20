@@ -1,0 +1,57 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <rivals@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C532126801D
+	for <bioinfo@sfbi.fr>; Wed, 19 Nov 2014 08:49:09 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ap4BAFBKbFTBMWgenGdsb2JhbABAGhaDTVkBgj1IyUSIURYBAQEBAREBAQEBAQgLCQkULoQVFw8BBRErBBocAgUWCwILAwIBAgFYBgIBAYhBCTieJY0nj0uXFIEtj3iCYYFUBYZbkFqHLIFwhhGIB4g6AQoBAQGCJ2yCSwEBAQ
+X-IPAS-Result: Ap4BAFBKbFTBMWgenGdsb2JhbABAGhaDTVkBgj1IyUSIURYBAQEBAREBAQEBAQgLCQkULoQVFw8BBRErBBocAgUWCwILAwIBAgFYBgIBAYhBCTieJY0nj0uXFIEtj3iCYYFUBYZbkFqHLIFwhhGIB4g6AQoBAQGCJ2yCSwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,415,1413237600"; 
+   d="scan'208";a="68470888"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by b-mx1.relay.syrhano.net with ESMTP; 19 Nov 2014 08:49:09 +0100
+Received: from [192.168.23.127] (LCaen-656-1-153-189.w217-128.abo.wanadoo.fr [217.128.83.189])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 602AAA4F4A
+	for <bioinfo@sfbi.fr>; Wed, 19 Nov 2014 08:49:08 +0100 (CET)
+Message-ID: <546C4B72.4010004@lirmm.fr>
+Date: Wed, 19 Nov 2014 08:49:06 +0100
+From: Rivals Eric <rivals@lirmm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] formation bioinformatique NGS
+Bonjour,
+Au printemps 2015, la plateforme ATGC organise une formation en 
+bioinformatique pour l'analyse de données de séquençage haut débit à 
+Montpellier (campus du CNRS route de Mende) :
+http://cnrsformation.cnrs.fr/stage.php?stage=15205
+Dates:  du mardi 24/03/2015 au vendredi 27/03/2015.
+Objectifs :
+- Savoir choisir les outils d'analyse
+- Etre autonome pour effectuer un pipeline d'analyse
+- Comprendre les principes des méthodes d'analyse
+- Savoir manipuler les fichiers de séquences : préparation et filtration
+- Etre capable d'évaluer la qualité des données
+- Savoir analyser avec ou sans génome de référence
+Prérequis
+- Notions de base en informatique : fichiers, répertoire...
+- Notions du système linux et des lignes de commandes
+- Niveau master
+Les inscriptions se font sur le site web de la formation ou auprès de 
+CNRS Formation.
+Pour toute information complémentaire contactez : atgc-hts@lirmm.fr
+bien cordialement
+Eric Rivals
+-- 
+Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
+CNRS Research Director & Head of GDR Bioinformatique Moléculaire
+LIRMM - UMR 5506 & Univ Montpellier 2 (CC 05016)
+860 rue de St Priest - 34095 Montpellier cedex 5 FRANCE
+Tel. (33 or 0 from France) 4 67 41 86 64
+Fax. (33 or 0 from France) 4 67 41 85 00
+http://www.gdr-bim.cnrs.fr

@@ -1,0 +1,114 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <flefevre@genoscope.cns.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id CD19926801D
+	for <bioinfo@sfbi.fr>; Wed, 10 Sep 2014 10:17:50 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AosBAAUJEFTDU96Il2dsb2JhbABZg2BXyieHTIELFhABAQEBAQgWBz6EPAEFOAgBPBYYAwIBAgFVAwEFAgEBGIgqCb0sAReOfAEBKSaEUwWFCgJ6j2uIYYVihzWKGzsvgQ+BQAEBAQ
+X-IPAS-Result: AosBAAUJEFTDU96Il2dsb2JhbABZg2BXyieHTIELFhABAQEBAQgWBz6EPAEFOAgBPBYYAwIBAgFVAwEFAgEBGIgqCb0sAReOfAEBKSaEUwWFCgJ6j2uIYYVihzWKGzsvgQ+BQAEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,497,1406584800"; 
+   d="scan'208";a="64106412"
+Received: from ares.genoscope.cns.fr ([195.83.222.136])
+  by b-mx1.relay.syrhano.net with ESMTP; 10 Sep 2014 10:17:29 +0200
+Received: from [192.168.249.184] (i0012732.pc.local [192.168.249.184])
+	(authenticated bits=0)
+	by ares.genoscope.cns.fr (8.14.4/8.14.4/mr-4.2) with ESMTP id s8A8HSnH032344
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-CAMELLIA256-SHA bits=256 verify=NO);
+	Wed, 10 Sep 2014 10:17:28 +0200
+Message-ID: <54100918.3070702@genoscope.cns.fr>
+Date: Wed, 10 Sep 2014 10:17:28 +0200
+From: Fran=E7ois_Le_Fevre <flefevre@genoscope.cns.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20130307 Thunderbird/17.0.4
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Cc: Claudine_Médigue <cmedigue@genoscope.cns.fr>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] annonce: journée thématique "Bioinformatique microbienne"
+Chers Collègues,
+Vous êtes cordialement invités à la journée thématique "Bioinformatique microbienne" que nous organisons dans le cadre des
+groupes de travail mis en place au sein des infrastructures nationales IFB et FG.
+Cette journée portera sur les développements récents des PFs de bio-informatique dans le domaine de la bioinformatique
+microbienne (données NGS) et de leurs applications. Elle se tiendra le jeudi 25 septembre 2014 dans l'amphi Duclaux de
+l'Institut Pasteur.
+Vous trouverez ci dessous le programme de cette journée.
+L'inscription est sans frais mais obligatoire (contact: AnnieEtienneannie.etienne@pasteur.fr)
+Bien cordialement,
+Claudine Médigue et Philippe Glaser
+======================================
+*MICROBIAL BIOINFORMATICS **
+*Thursday, September the 25th, 2014
+Amphitheatre Emile Duclaux, Institut Pasteur, Paris
+09:30 - 09:35 Introduction
+09:35 -- 10:50
+* Christine POURCEL (IGM/PF eBio, Orsay) "Le serveur CRISPR: une base de
+données et des outils pour l'identification
+et la caractérisation des CRISPRs et des gènes associés" (The CRISPR
+webserver: a database and tools for the identification
+and the characterisation of CRISPRs and their associated genes)
+* Aurélien BARRE (PF CBiB Bordeaux) "L'outil Mix pour le finishing de
+génomes bactériens et la base MolliGen" (The Mix
+tool for bacterial genomes finishing and the MolliGen database)
+* Valentin LOUX (PF MIGALE, Jouy) "Outils pour l'annotation et la
+comparaison de génomes bactériens dans le cadre de la
+plateforme E-Biothon hébergée à l'IDRIS" (Tools for bacterial genomes
+annotation and comparison using the E-Biothon platform
+hosted by IDRIS)
+10:50  - 11:15 Coffee Break
+11:15 - 12:30
+* Jacques VAN HELDEN (TAGC, Marseille) "Accessibilité et
+interopérabilité d'outils et ressources bioinformatiques pour la
+microbiologie" (Accessibility and interoperability of bioinformatics
+tools and resources for microbiology)
+* Claudine MEDIGUE (PF MicroScope, Evry) "le composant PALOMA
+(Polymorphism Analyses in Light Of Massive DNA sequencing) de
+la plateforme MicroScope" (The PALOMA (Polymorphism Analyses in Light Of
+Massive DNA sequencing) component of the MicroScope
+platform)
+* Delphine CAPELA (LIPM, INRA Toulouse), Invited talk: "Transient
+hypermutagenesis accelerates the evolution of legume
+symbionts following horizontal gene transfer »
+12:30  - 13:45 Lunch
+13:45 -- 15:35
+* Todd J. TREANGEN (Univ. Maryland, USA) Invited talk:  to be announced
+* Philippe GLASER (PF Genopole, Institut Pasteur) "Recherche de variants
+dans les génomes bactériens: application à
+l'analyse de clones bactériens épidémiques ou endémique» (Finding
+variants in bacterial genomes: application to the
+analysis of epidemic or endemic clones)
+* Guy PERRIERE (PF PRABI, Lyon) "Identification taxonomique à grande et
+moyenne échelle de séquences procaryotes"
+(large and medium scale taxonomic identification of prokaryotic sequences)
+* Erwan CORRE (PF ABiMS, Roscoff) « microbiologie marine et
+développements en métagénomique » (marime microbial
+and metagenomic developements)
+15:35 - 17:00 TABLE RONDE: quelles formations pour le traitement des
+données NGS ?
+* Jacques VAN HELDEN (TAGC, Marseille) "Adapter les ressources
+bioinformatiques et les formations pour permettre
+aux biologistes d'analyser des milliers de génomes microbiens" (Adapting
+bioinformatics resources and training
+material to enable biologists using thousands of microbial genomes)
+* DISCUSSION
+Registration is free of charge but mandatory Contact: Annie
+Etienne (annie.etienne@pasteur.fr)
+Organisateurs: Philippe GLASER (Institut Pasteur) et Claudine MEDIGUE
+(Genoscope)
+Contact:pglaser@pasteur.fr  -cmedigue@genoscope.cns.fr
+-- 
+--
+François Le Fèvre
+--
+Ingenieur BioInformaticien
+Tel: 33 (0)1 60 87 36 07
+Fax: 33 (0)1 60 87 25 14
+Laboratoire d'Analyses Bioinformatiques pour la Génomique et le Métabolisme -- LABGeM
+CEA / DSV / FAR / IG / Genoscope (French Alternative Energies and Atomic Energy Commission)
+Mail: 2 rue Gaston Cremieux,, CP 5706 91057 Evry, France
+---
+Group website: http://www.genoscope.cns.fr/agc/
+Blog: http://biocamp.blogspot.com
+Personal website : https://sites.google.com/site/synbiocamp/

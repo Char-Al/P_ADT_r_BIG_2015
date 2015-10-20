@@ -1,0 +1,105 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <petitjean.chiral@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C4DEF26801D
+	for <bioinfo@sfbi.fr>; Sun, 12 Oct 2014 19:28:31 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AugCAIC5OlTRVdg2m2dsb2JhbABbg2FYBII6SMcVaIdJAgICfgcWAREBAQEBAQYLCwkULoQDAQEEDAYLBh0BGx4DCgIGAwILDwImAgIbBgEBEQEFARwZCBIIiAcBAxENkUmQL26LMIFygxCIDwoZJw1nhgIMGgEFBAqBHoxXEB2BYg0tgneBVAEEhkGJHhKDD4M7hH+CEUuBH41ThGIYKYUqOy8BgkkBAQE
+X-IPAS-Result: AugCAIC5OlTRVdg2m2dsb2JhbABbg2FYBII6SMcVaIdJAgICfgcWAREBAQEBAQYLCwkULoQDAQEEDAYLBh0BGx4DCgIGAwILDwImAgIbBgEBEQEFARwZCBIIiAcBAxENkUmQL26LMIFygxCIDwoZJw1nhgIMGgEFBAqBHoxXEB2BYg0tgneBVAEEhkGJHhKDD4M7hH+CEUuBH41ThGIYKYUqOy8BgkkBAQE
+X-IronPort-AV: E=Sophos;i="5.04,705,1406584800"; 
+   d="scan'208";a="66060585"
+Received: from mail-qa0-f54.google.com ([209.85.216.54])
+  by b-mx1.relay.syrhano.net with ESMTP; 12 Oct 2014 19:28:30 +0200
+Received: by mail-qa0-f54.google.com with SMTP id i13so3527976qae.41
+        for <bioinfo@sfbi.fr>; Sun, 12 Oct 2014 10:28:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        bh=fRwg/VDo4jqiXUSBEPqqGryQM3vcTw4r2Fb+bfaCrtI=;
+        b=YHH5d0vMUE4NyG5Cp/4pkUAizSl2aFRBbY0O/0rpnaRblSk/Ddvh+iK/EtWbBlIqd5
+         C4MEZrOa3/b+ZTkC7odC6dwtcFERCdLffckH+tLM+swZ2mhtnYkrxwViGodZatsSv74r
+         YCWvtsJ5JyzI/onKJhojQ9mV3GyiMTHJquGqqdG8YqDepKds5Ua9M5x0VTMABg1jlSSb
+         ZRWrF8c8VCETSpS4TE5Ki/2ctBbZJHqiNLpR4RLPqHD5krocMllFuZeCaN+t1lQQ8Q00
+         KgSG7uvQQjoAuzaw7HEnnzaCa6t0aNbeEE16eqmJUsgVsS+/G29RQ6Nam3MS53FWv6rr
+         cVqA=
+MIME-Version: 1.0
+X-Received: by 10.224.120.193 with SMTP id e1mr32675846qar.80.1413134909320;
+ Sun, 12 Oct 2014 10:28:29 -0700 (PDT)
+Received: by 10.140.23.169 with HTTP; Sun, 12 Oct 2014 10:28:29 -0700 (PDT)
+In-Reply-To: <543A9E8D.3040203@univ-rouen.fr>
+References: <543A9E8D.3040203@univ-rouen.fr>
+Date: Sun, 12 Oct 2014 19:28:29 +0200
+Message-ID: <CAEw5oCYXNbA9NDX6pm1dAmMqmEWDeHrPodRoUfJvLamhUYKrmg@mail.gmail.com>
+From: Michel Petitjean <petitjean.chiral@gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: Re: [bioinfo] Open Access Journal à $2000 l'article
+Bonjour.
+Je ne suis pas moderateur, mais je suis d'accord pour ne pas
+repercuter les call for papers des journaux en OA.
+Et je suis partisan aussi de ne pas repercuter les call for papers des
+autres journaux, les publieurs des journaux non OA n'etant a priori
+pas plus desinteresses que ceux des journaux en OA.
+D'ailleurs, certains journaux en OA sont parfaitement honorables.
+D'autre part, c'est bien de citer Hindawi, mais on pourrait aussi
+citer BMC pour les memes raisons (page charge tres elevee):
+http://www.biomedcentral.com/about/apcfaq/howmuch
+Dans son principe, l'OA est une excellente chose, mais il faut
+reconnaitre que c'est souvent pour certains opportunistes un moyen
+simple de se faire de l'argent et laissant la science au second plan.
+Il y a tout un continuum de situations, la separation des publieurs en
+deux categories (serieux ou non) est une approche simpliste.
+Il existe une liste de publieurs et de journaux suspects:
+http://scholarlyoa.com/publishers/
+Cette liste est contestee, ainsi que celui qui la maintient et les
+criteres utilises, mais elle a le merite de montrer l'ampleur du
+probleme et de sensibiliser les auteurs a ce probleme d'importance
+croissante.
+Qui n'a jamais ete contacte pour etre dans le board d'un journal
+recent avec page charge?
+Tout ca, c'est tres souvent du business, meme si ca n'exclut pas
+parfois une demarche honnete de creation d'un journal en OA.
+Et ca n'est pas reserve a la Chine ou a l'Inde: pour revenir a
+l'exemple de BMC, ce n'est pas parce que c'est un publieur US qu'on ne
+doit pas se poser la question a son propos, tout comme pour Hindawi.
+Je laisse chacun se faire une opinion, c'est un debat complexe.
+Michel Petitjean
+MTi, INSERM UMR-S 973, University Paris 7,
+35 rue Helene Brion, 75205 Paris Cedex 13, France.
+Phone: +331 5727 8434; Fax: +331 5727 8372
+E-mail: petitjean.chiral@gmail.com (preferred),
+        michel.petitjean@univ-paris-diderot.fr
+http://petitjeanmichel.free.fr/itoweb.petitjean.html
+Le 12 octobre 2014 17:30, Laurent Mouchard
+<Laurent.Mouchard@univ-rouen.fr> a écrit :
+> Bonjour,
+> La liste bioinfo est depuis son origine, en octobre 1992, accessible =C3
+  toutes et tous gratuitement.
+> Nous n'avons jamais fait payer les annonces publiées par les entrepr
+ises privées ou bien évidemment par les structures de recherche p
+ubliques.
+> Il ne me para=C3=AEt pas raisonnable de faire para=C3=AEtre des annonces 
+pour des journaux open access, des livres open access avec des co=C3"ts d
+e participation par article de l'ordre de $2000 sachant que nous n'avons (e
+n tout cas moi) jamais été rétribué pour le travail de 
+rapporteur.
+> Ce type de mél ne sera donc pas diffusé sur la liste.
+> Bien cordialement,
+> (pour la modératrice et les modérateurs qui sont, je l'esp=C3
+=A8re, d'accord)
+> Laurent
+> PS:
+> 1. http://www.hindawi.com/journals/bmri/si/420450/cfp/
+> 2. http://www.hindawi.com/journals/bmri/apc/
+> 3. http://www.nature.com/news/specials/scipublishing/index.html
+>
+>
+>
+> --
+> http://www.sfbi.fr
+> Archives : http://listes.sfbi.fr/wws/arc/bioinfo

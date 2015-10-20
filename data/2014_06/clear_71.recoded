@@ -1,0 +1,89 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Jean-Philippe.Vert@mines-paristech.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 4F6E026801D
+	for <bioinfo@sfbi.fr>; Fri, 20 Jun 2014 11:27:30 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: An8BALX9o1NWQapCnGdsb2JhbABZg19agm3BbBYPAQEBAQEIFAk8hCcGDwEFMEYCHwcCiTgJnVePI4Z+l0IXgSqIGIRgcYJhgUwEmkOSAoNZgUQ
+X-IronPort-AV: E=Sophos;i="5.01,513,1400018400"; 
+   d="scan'208";a="60494608"
+Received: from fontainebleau.ensmp.fr ([86.65.170.66])
+  by b-mx1.relay.syrhano.net with ESMTP; 20 Jun 2014 11:27:29 +0200
+Received: from webmail.sif.ensmp.fr (webmail.sif [86.65.170.79])
+	by fontainebleau.ensmp.fr (8.13.8/8.13.8) with ESMTP id s5K9RR8a031845
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 20 Jun 2014 11:27:27 +0200
+Received: from 192.168.17.202 ([192.168.17.202]) by
+ webmail.sif.mines-paristech.fr (Horde Framework) with HTTP; Fri, 20 Jun 2014
+ 11:27:27 +0200
+Date: Fri, 20 Jun 2014 11:27:27 +0200
+Message-ID: <20140620112727.Horde.ulbqWhyX6SiwinAslzhMpQ6@webmail.sif.mines-paristech.fr>
+From: Jean-Philippe Vert <Jean-Philippe.Vert@mines-paristech.fr>
+To: bioinfo@sfbi.fr
+Reply-To: Jean-Philippe.Vert@mines-paristech.fr
+User-Agent: Internet Messaging Program (IMP) H5 (6.1.6)
+Content-Type: text/plain; charset=UTF-8; format=flowed; DelSp=Yes
+MIME-Version: 1.0
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-Miltered: at fontainebleau.ensmp.fr with ID 53A3FE7F.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53A3FE7F.000 from webmail.sif/webmail.sif/86.65.170.79/webmail.sif.ensmp.fr/<Jean-Philippe.Vert@mines-paristech.fr>
+X-Scores-Stats: 53A3FE7F.000 B=0.00979 L=0.39113 G=0.00631 Agree    
+X-j-chkmail-Score: MSGID : 53A3FE7F.000 on fontainebleau.ensmp.fr : j-chkmail score : . : R=. U=. O=. B=0.006 -> S=0.006
+X-j-chkmail-Status: Ham
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECCB RADIANT workshop: Analysis of Differential Isoform Usage by
+ RNA-seq: Statistical Methodologies and Open Software
+**CALL FOR ABSTRACT — Deadline June 30***
+ECCB RADIANT Workshop:
+Analysis of Differential Isoform Usage by RNA-seq: Statistical  
+Methodologies and Open Software
+WEB: http://www.eccb14.org/program/workshops/rna-seq
+DATE: 7th September 2014
+VENUE: Palais de la Musique et des Congrès, Place de Bordeaux, 67082  
+Strasbourg, France
+DESCRIPTION
+There are many computational and statistical challenges in the  
+analysis of differential isoform usage by RNA-Seq. The workshop  
+addresses users and method developers who are interested in better  
+understanding the features of current tools and exploring approaches  
+to method benchmarking. The workshop will cover the most important  
+current statistical and computational challenges, including:
+- Statistical characterisation of exon/isoform quantitative variation  
+across samples/conditions
+- Methods for identification of differential exon/isoform usage
+- Methods for transcript discovery in non-model organisms
+- Inference algorithms for large-scale datasets
+- Establishing best practice in method benchmarking
+- Open software and end-to-end pipelines
+— Emerging long-read and small sample technologies, and future perspectives
+The workshop is aimed at computational biologists, statisticians and  
+genome biologists with an interest in data analysis and statistical  
+methods and applications in transcriptomics.
+INVITED SPEAKERS
+David Kreil (University of Warwick and Boku University Vienna)
+Oliver Stegle (EBI)
+Jernej Ule (University College London)
+Alyssa Frazee (John Hopkins Bloomberg School of Public Health)
+Elsa Bernard (Mines Paris Tech and Institut Curie)
+David Rossell (University of Warwick)
+Alejandro Reyes (EMBL)
+Mar Gonzanlez Porta (EBI)
+SUBMISSIONS
+Short abstracts (max. 1500 chars) can be submitted through EasyChair  
+via the RADIANT workshop submission page:
+https://www.easychair.org/conferences/?conf=radiant2014
+Abstract submission deadline: June 30th, 2014
+Notification of acceptance: July 14th, 2014
+ORGANIZING COMMITTEE
+Simon Anders (EMBL)
+Wolfgang Huber (EMBL)
+Magnus Rattray (University of Manchester)
+Mark Robinson (University of Zurich)
+SPONSOR
+http://radiant-project.eu
+RADIANT is funded by the European Union’s Seventh Framework Programme  
+for research, technological development and demonstration under grant  
+agreement no 305626.

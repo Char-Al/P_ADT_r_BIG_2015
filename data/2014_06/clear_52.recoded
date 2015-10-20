@@ -1,0 +1,57 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <stephane.bressanelli@vms.cnrs-gif.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3DFDD26801D
+	for <bioinfo@sfbi.fr>; Sun, 15 Jun 2014 18:10:12 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApoBAKjEnVPUGyoBnGdsb2JhbABag1+qRQaaJhYPAQEBAQEGDQkJFCiECDQBBTwEPRYYAwIBAgFYBgIBAYhCCaE1rUiFY4kwhC0EoT2QIGoB
+X-IronPort-AV: E=Sophos;i="5.01,481,1400018400"; 
+   d="scan'208";a="60174355"
+Received: from smtp1-g21.free.fr ([212.27.42.1])
+  by b-mx1.relay.syrhano.net with ESMTP; 15 Jun 2014 18:10:11 +0200
+Received: from [192.168.0.10] (unknown [88.178.80.201])
+	by smtp1-g21.free.fr (Postfix) with ESMTP id 2DC2C94018E
+	for <bioinfo@sfbi.fr>; Sun, 15 Jun 2014 18:10:11 +0200 (CEST)
+Message-ID: <539DC563.9090704@vms.cnrs-gif.fr>
+Date: Sun, 15 Jun 2014 18:10:11 +0200
+From: Stéphane_Bressanelli <stephane.bressanelli@vms.cnrs-gif.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre de thèse / PhD position
+English version below
+Une thèse portant sur des simulations de dynamiques moléculaires de 
+protéines et capsides virales est financée pour 3 ans (début avant fin 
+2014) au CEA Saclay en région parisienne.
+Description de la thèse à
+http://www.edit.u-psud.fr/sujets_2014/BRESSANELLI_ingenierie_2014.pdf
+A PhD position is open for 3 years, to be filled before the end of 2014, 
+at CEA Saclay in the Paris area. The PhD candidate will apply modelling 
+and molecular dynamics simulations (MD) to the question of Norovirus 
+assembly under the guidance of Yves Boulard (MD, modeling) and Stéphane 
+Bressanelli (Structure analysis, modeling). This computational work will 
+be central in
+1) Determining whether the unexpected NB2 assembly mechanisms (Tresset, 
+JACS 2013) are conserved in human Noroviruses with >50% sequence 
+divergence between genogroups.
+2) Unraveling the role of the N-terminal arms in promoting or delaying 
+protein-protein interactions to direct self-assembly first into the 
+intermediate(s), then into the final capsid.
+3) Assessing likely targets for chemical compounds along the Norovirus 
+assembly pathway(s) by in silico screening.
+Several simulation approaches will be combined: Coarse-grained (package 
+GROMACS) for a faster but less precise exploration followed by all-atom 
+(suite AMBER 12) for the more interesting structures. We will also study 
+hybrid systems with both coarse-grained parts (e.g. the two VP1 rigid 
+domains) and all-atom parts (e.g. the N-terminal arm). The strategy for 
+3) will depend on results in 1) and 2). Combinatory (e.g. Monte Carlo) 
+or more rational (molecular design) approaches will be used at this 
+stage, followed by simulations.
+Contacts:
+stephane.bressanelli@vms.cnrs-gif.fr
+Yves.BOULARD@cea.fr

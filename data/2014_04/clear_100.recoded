@@ -1,0 +1,91 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <anais.baudot@univ-amu.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 906EC26801D
+	for <bioinfo@sfbi.fr>; Mon, 28 Apr 2014 21:45:51 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlQBABWvXlPUGyoEnGdsb2JhbABZgmVwvgiHOYEbFg4BAQEBAQYNCQkUKIImAQUdSwoXUR84GYhCAwnIaBeMMiuBVoJbD2eBFQSFO4lmn3w
+X-IronPort-AV: E=Sophos;i="4.97,945,1389740400"; 
+   d="scan'208";a="57754323"
+Received: from smtp4-g21.free.fr ([212.27.42.4])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 Apr 2014 21:45:50 +0200
+Received: from [IPv6:2a01:e35:8a7a:b4d0:e838:c75f:cddd:64f2] (unknown [IPv6:2a01:e35:8a7a:b4d0:e838:c75f:cddd:64f2])
+	by smtp4-g21.free.fr (Postfix) with ESMTP id AFDF64C806C
+	for <bioinfo@sfbi.fr>; Mon, 28 Apr 2014 21:45:17 +0200 (CEST)
+From: =?windows-1252?Q?BAUDOT_Anaïs?= <anais.baudot@univ-amu.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 28 Apr 2014 21:45:49 +0200
+References: <2460D04E-1BFB-4B2E-B15F-FAC4247C90DD@univ-amu.fr>
+To: bioinfo@sfbi.fr
+Message-Id: <D082C020-36D2-4D2B-AA19-A32A7BF98FA1@univ-amu.fr>
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [ECCB'14] Call for abstracts: Workshop on Disease Comorbidity
+We are pleased to announce the ECCB'14 satellite workshop dedicated to "Com
+putational and Systems Biology for Disease Comorbidities" that will take pl
+ace Sunday, 7th September, 2014, in Strasbourg, France.
+The workshop will be organized around 3 sessions scoping the discovery, the
+ interpretation and the exploitation of disease comorbidities. Key invited 
+speakers will introduce each session and speakers selected from abstract su
+bmissions will broaden the overview of the science currently developed in t
+his field.
+We deeply encourage you to submit abstracts to the workshop here:
+https://www.easychair.org/conferences/?conf=3Dcsbdc2014
+Informations on the workshop can be found here:
+http://www.eccb14.org/program/workshops/csbdc
+Keydates
+Abstract submission deadline: 15th, May 2014
+Workshop: 7th, September 2014
+Looking forward to seeing you in Strasbourg,
+Anaïs Baudot & Alfonso Valencia
+############# Workshop Description
+Disease comorbidity   or multimorbidity   exists if 2 or more disorders
+ affect the same individuals more often than expected by chance. Such co-oc
+currence of diseases are the rule rather than the exception, in particular 
+in ageing populations. Disease comorbidities hence represent a major burden
+ in public health, and greatly affect disease costs and outcomes. But the r
+ecent expansion of large-scale biomedical databases and post-genomics disea
+se-related datasets are now offering an unprecedented avenue for the invest
+igations on comorbidities between human disorders. And Computational and Sy
+stems Biology are undeniable actors of such investigations.
+Session 1: Discovering Disease Comorbidities
+The first session of the workshop will be dedicated to the different approa
+ches that can lead to the detection of comorbidities between disorders, suc
+h as the parsing of clinical and epidemiological data.
+Confirmed speakers:
+S=F8ren Brunak, CBS, Copenhague, Denmark
+Maria Martinez, INSERM, Toulouse, France
+Session 2: Interpreting Disease Comorbidities
+The second session of the workshop will be dedicated to the network-based a
+pproaches developed to interpret at the molecular levels the comorbidities 
+between human disorders. Many data and multi-scale approaches studying the 
+entangled molecular relationships between proteins, diseases and/or phenoty
+pes rely on network representations. Phenotypes proximities between disease
+s can arise from mutations in functionally similar genes, for instance gene
+s coding for proteins involved in the same pathways that are close in a pro
+tein interaction network.
+Confirmed speaker:
+Ioannis Xenarios, SBI, Lausanne, Switzerland
+Session 3: Exploiting Disease Comorbidities
+A major interest for the study of disease comorbidities lies in the therape
+utic road of drug repurposing (or repositioning). The knowledge on disease 
+comorbidities could drive drug repositioning in a more effective way than s
+ystematic screenings. This assumption is the rationale of the last session.
+Confirmed speaker:
+Patrick Aloy, IRB, Barcelona, Spain
+Organizers :
+Anaïs Baudot, CNRS, Marseille, France. Contact: anais.baudot [at] univ-am
+u.fr
+Alfonso Valencia, CNIO, Madrid, Spain
+---------------------------------------------------------
+Anaïs BAUDOT
+I2M, Marseilles Institute of Mathematics
+UMR 7373, Campus de Luminy, Case 907
+13288 Marseille Cedex 9
+France
+anais.baudot@univ-amu.fr
++ 33 4 91 26 96 47

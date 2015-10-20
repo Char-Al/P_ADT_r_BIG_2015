@@ -1,0 +1,74 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <p.geurts@ulg.ac.be>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C1BEC26801D
+	for <bioinfo@sfbi.fr>; Tue, 28 Jan 2014 11:50:14 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApYBAPKK51KLpSBvnGdsb2JhbABaFoMuvFyBYBYOAQEBAQEGDQkJFCiDARQBA4FdiAUNmkinL4dXF48cgw6BFASfGI0egT87
+X-IronPort-AV: E=Sophos;i="4.95,735,1384297200"; 
+   d="scan'208";a="53054974"
+Received: from serv108.segi.ulg.ac.be ([139.165.32.111])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 Jan 2014 11:50:10 +0100
+Received: (qmail 24848 invoked from network); 28 Jan 2014 11:50:09 +0100
+Received: from unknown (HELO [10.9.182.220]) (u179884@[10.9.182.220])
+          (envelope-sender <p.geurts@ulg.ac.be>)
+          by serv108.segi.ulg.ac.be (qmail-ldap-1.03) with SMTP
+          for <bioinfo@sfbi.fr>; 28 Jan 2014 11:50:09 +0100
+From: Pierre Geurts <p.geurts@ulg.ac.be>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <3EA73C43-4F36-4C53-8DDE-B37585BE72C2@ulg.ac.be>
+Date: Tue, 28 Jan 2014 11:50:08 +0100
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.1 \(1827\))
+X-Mailer: Apple Mail (2.1827)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Post-doctoral position in bioimage and bioinformatics for microRNA therapeutics in heart failure
+Job Advertisement: Position at the post-doctoral level for 1 year at the Sy
+stems and Modeling research unit at the GIGA Biomedical Research Center and
+ at the Montefiore Institute of Electrical Engineering and Computer Science
+, at the University of Liège, Belgium.
+Within European FP7 Marie Curie Work Programme coordinated by Prof. dr. S. 
+Heymans (Maastricht University), we are looking for an excellent, highly co
+mpetitive researcher at the post-doctoral level.  He/she should have worked
+ for at least 3 years outside Belgium during the past years.
+Topic : Development & application of machine learning, image analysis, and 
+bioinformatics techniques for high-throughput and high-content  analysis fo
+r microRNA-medicines for Cardiac Metabolic Diseases.
+Keywords: Machine Learning   Image Analysis   Bioimage Informatics - Bi
+oinformatics
+Environment: The GIGA Research Center with excellent research groups in bio
+logy, bioinformatics, and machine learning fields grouped together.
+Project:  The researcher will be working closely with a team of software de
+velopers, researchers in machine learning & bioinformatics, and biologists,
+ to advance high-throughput automated analysis of bioimaging & microRNA dat
+a. The applicant will be involved in the application of existing algorithms
+ and the design of novel algorithms and their large-scale evaluation for ce
+llular image recognition and phenotype quantification to discover novel mic
+roRNAs implicated in heart failure. She/He will have access to a high-perfo
+rmance computing environment and various bioinformatics tools including the
+ inhouse developed Cytomine platform able to process terabytes of imaging d
+ata.
+Capacities & Experiences: Applicants should hold a PhD and have strong know
+ledge in machine learning, bioinformatics and/or computer vision. Programmi
+ng and data analysis skills are also highly desirable. The candidates shoul
+d be highly motivated, with a strong interest in large-scale biomedical app
+lications. A working knowledge of English language is mandatory
+This project is a collaborative project (exchange of people) between Maastr
+icht University (Netherlands), Cenix Biosciences (Dresden, Germany) and Sys
+tMod (GIGA, Liège, Belgium).
+Interested candidates should send a CV,  a brief statement of research and 
+development interests, three relevant publications, and the names and conta
+ct details of two references by e-mail  (with subject =93Postdoc CardiomiR
+ ) to: raphael.maree@ulg.ac.be; p.geurts@ulg.ac.be
+Related links:
+http://www.montefiore.ulg.ac.be/systmod
+http://www.giga.ulg.ac.be
+http://ec.europa.eu/research/participants/portal/page/people?callIdentifier
+=3DFP7-PEOPLE-2012-IAPP
+http://www.cenix.com
+http://www.cytomine.be/
+http://www.montefiore.ulg.ac.be/~maree
+http://www.montefiore.ulg.ac.be/~geurts

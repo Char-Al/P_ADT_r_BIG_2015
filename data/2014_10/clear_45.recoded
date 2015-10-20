@@ -1,0 +1,42 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 67EA526801D; Tue, 14 Oct 2014 16:53:49 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: ranwez@supagro.inra.fr
+Message-ID: <sympa.1413297823.21510.593@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue, 14 Oct 2014 16:53:49 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Formation en bio-informatique (Galaxy) =?ISO-8859-1?Q?=E0?= Montpellier en =?ISO-8859-1?Q?F=E9vrier?= 2015. 
+Bonjour,
+  
+Nous organisons en Février 2015 une nouvelle édition de formation à l'utilisation de Galaxy pour l'analyse de données génomiques. 
+###########################################################
+Intitulé : Analyse bioinformatique de séquences sous Galaxy (9-13 Février 2015)
+Responsables pédagogiques : J.F. Dufayard et V. Ranwez
+###########################################################
+Galaxy est un outil puissant qui permet de créer facilement des « pipelines » d'analyses à l'aide d'une représentation visuelle de ces pipelines. Les objectifs pédagogiques de cette  formation sont :
+i) maîtriser les fonctionnalités de la plateforme bioinformatique Galaxy
+ii) savoir enchaîner de façon pertinente un ensemble de traitements bioinformatiques pour analyser des données de séquences.
+Au-delà des aspects techniques, l'accent sera mis sur le choix des outils pertinents et de leurs paramétrages pour répondre au mieux à un besoin d'analyse. Cette formation s'appuie donc sur un large panel d'intervenants spécialistes des thématiques abordées (e.g. analyse de données NGS, annotation de séquences, prédiction de structure 3D)
+###########################################################
+Compléments d'informations et inscriptions
+###########################################################
+ 
+Pour plus d'information sur cette formations vous pouvez consulter notre affiche au format PDF (https://sites.google.com/site/ranwez/teaching) ainsi que le site de la formation continue de Montpellier SupAgro (http://www.supagro.fr/web/pages/?idl=19&page=375&id_page=502). 
+Cette formation offre un nombre de places limité, il est donc préférable de s'inscrire au plus tôt.
+Pour les inscriptions ou toutes informations sur les tarifs et aspects administratifs vous pouvez contacter Y. Olivier du service formation continue de Montpellier SupAgro (olivier@supagro.inra.fr, 04.99.61.23.56). Pour plus d'information sur le contenu de cette formation vous pouvez contacter :
+J.F. Dufayard, jean-francois.dufayard@cirad.fr.
+ 
+Cordialement,
+Vincent Ranwez
+Professor at Montpellier SupAgro (bat 21, campus de la Gaillarde)
+web site: https://sites.google.com/site/ranwez/
+tel : +33 (0)4 99 61 28 75
+ 

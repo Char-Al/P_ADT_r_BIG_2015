@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <m_raffinot@yahoo.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 14FDF26801D
+	for <bioinfo@sfbi.fr>; Sun, 24 Aug 2014 11:19:17 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnEBAKWt+VNiing1m2dsb2JhbABZg2BXBI1NpDyaN4hWFhABAQEBAQYLCwkUKYN+FyAVARciFWoQAQ4BBgwMiEABAQIRBAmecZEhCYMHgX2HOgEjAwEjA4UsEQYMAgGUEAWLIoYHhCaHAYFRhVc3Y4ppc4RlTIJPAQEB
+X-IronPort-AV: E=Sophos;i="5.04,389,1406584800"; 
+   d="scan'208";a="63239157"
+Received: from nm46.bullet.mail.ne1.yahoo.com ([98.138.120.53])
+  by b-mx1.relay.syrhano.net with ESMTP; 24 Aug 2014 11:19:15 +0200
+Received: from [127.0.0.1] by nm46.bullet.mail.ne1.yahoo.com with NNFMP; 24 Aug 2014 09:19:15 -0000
+Received: from [98.138.100.116] by nm46.bullet.mail.ne1.yahoo.com with NNFMP; 24 Aug 2014 09:16:26 -0000
+Received: from [98.138.226.163] by tm107.bullet.mail.ne1.yahoo.com with NNFMP; 24 Aug 2014 09:16:26 -0000
+Received: from [127.0.0.1] by omp1064.mail.ne1.yahoo.com with NNFMP; 24 Aug 2014 09:16:26 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 154198.74420.bm@omp1064.mail.ne1.yahoo.com
+Received: (qmail 44048 invoked by uid 60001); 24 Aug 2014 09:16:26 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1408871786; bh=WTUFMKh7hlHk4If1G/SlKTIHaLW/788Rd3ijVvDPODs=; h=Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding; b=dv3Yd0Jh5+nYmcmJBkmOi9Pg4Gpp6MfR70UpL+QaJUnQHwtKNXH5eqU8GzQ+G2fvFhZR3Yc/iTqtsLAL3L089rFfc1N1O0Siro1JhOBh8pdhoQY7PmdgYDlloXSCJUFBFloNR8jLPFOlwgMNKr04rfWOEzbQpfJP6RkKypjYq9Q
+X-YMail-OSG: kEqsv14VM1kaqEnFYn2TfHQHHppblMegSl1TQu.Dmf9RR0t
+ q_hPJgkrPxAWc1FcTeVsSWoMQoYov6A0MTizFQAC6szLtgrQwmdqktesfl_s
+ 0vC_LfWKhb9K84R9Kr70Lh9KNsctqxinPN3LBaKkJUAsi7dF.17znuDMlTq_
+ ehtRogoxNR7s.isX1JCnxF1WoxhKLI8w0xeMiPTclIh57MbrEs5CPv2T8F1S
+ fQbvWByij2TNK5BicD3ivOjjWjDVUMGYy429TSWV2aZq5PT.neEdEc.T30Vn
+ ZyL0oC44YK1ihGPlIMLKjYph2H41VTAmRIuwIHQuzomc4ZBHTFW6MzLhXjD.
+ mGFS6p_pJk4JAtOx0CyHRTD2umX369.ncNnM_aEzyMCJmOnzrO91vFOe7ZRy
+ epOyTxtn4EzWMhlBAiAIz6V.LMbIMn7aZEDeAr1AkLHHXBcFEkuncYy4MtDH
+ DlRMYtsYZDDxy8tqLwK5WgjHoWHKQzkhOdtw2CWgnYtwkP.sY9mO7PV9gPxL
+ Y8._yU7UxuIcRAFzo4TEwmvgLRwNp_ASqzWILz4xQPyFy0EvCCL.efOz212Q
+ gGaTapzET_L6QPsRiHH4eYXidmQg3rWeZDbsatrvyff19vQenVMP1cd65zSh
+ KezA-
+Received: from [37.161.201.99] by web121801.mail.ne1.yahoo.com via HTTP; Sun, 24 Aug 2014 02:16:25 PDT
+X-Rocket-MIMEInfo: 002.001,Qm9uam91ciDDoCB0b3VzLAoKdm9pY2kgMiBjb3VycyBlbiBsaWduZSBzdXIgY291cnNlcmEub3JnIHF1aSBjb21tZW7Dp2VudCBiaWVudMO0dCBldCBxdWkgcGV1dmVudCBpbnTDqXJlc3NlciBjZXJ0YWlucyBkJ2VudHJlIHZvdXM6CgpJbnRyb2R1Y3Rpb24gdG8gU3lzdGVtcyBCaW9sb2d5IC0gMiBzZXB0ZW1icmUKCmh0dHBzOi8vd3d3LmNvdXJzZXJhLm9yZy9jb3Vyc2Uvc3lzYmlvCgpCaW9pbmZvcm1hdGljcyBBbGdvcml0aG1zIChQYXJ0IDEpIC0gMTUgU2VwdGVtYnJlCmh0dHBzOi8vd3d3LmNvdXJzZXIBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.201.700
+Message-ID: <1408871785.41431.YahooMailNeo@web121801.mail.ne1.yahoo.com>
+Date: Sun, 24 Aug 2014 02:16:25 -0700
+From: RAFFINOT Mathieu <m_raffinot@yahoo.com>
+Reply-To: RAFFINOT Mathieu <m_raffinot@yahoo.com>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] cours en lignes
+Bonjour à tous,
+voici 2 cours en ligne sur coursera.org qui commen=E7ent bientôt et qui p
+euvent intéresser certains d'entre vous:
+Introduction to Systems Biology - 2 septembre
+https://www.coursera.org/course/sysbio
+Bioinformatics Algorithms (Part 1) - 15 Septembre
+https://www.coursera.org/course/bioinformatics
+Mathieu

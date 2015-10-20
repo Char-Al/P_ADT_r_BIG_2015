@@ -1,0 +1,85 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <christelle.dantec@crbm.cnrs.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id AA55D26801D
+	for <bioinfo@sfbi.fr>; Tue, 21 Oct 2014 08:13:05 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoABAF74RVTCOXRamWdsb2JhbABcg2GDFkjJCYhhFgERAQEBAQEICwsHFCMLhBUXDwFfHAImAl8uiCiTSI0UjzuVGQSBLJIjgVQFkwiSOpIzgzUBAQE
+X-IPAS-Result: AoABAF74RVTCOXRamWdsb2JhbABcg2GDFkjJCYhhFgERAQEBAQEICwsHFCMLhBUXDwFfHAImAl8uiCiTSI0UjzuVGQSBLJIjgVQFkwiSOpIzgzUBAQE
+X-IronPort-AV: E=Sophos;i="5.04,760,1406584800"; 
+   d="scan'208";a="75218004"
+Received: from opale.sic.montp.cnrs.fr ([194.57.116.90])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Oct 2014 08:13:03 +0200
+Received: from opale.sic.montp.cnrs.fr (localhost [127.0.0.1])
+	by opale.sic.montp.cnrs.fr (Postfix) with ESMTP id CFD1D1217F90
+	for <bioinfo@sfbi.fr>; Tue, 21 Oct 2014 08:15:37 +0200 (CEST)
+Received: from [192.168.1.88] (229.197.89.79.rev.sfr.net [79.89.197.229])
+	by opale.sic.montp.cnrs.fr (Postfix) with ESMTPSA id 807D912173AA
+	for <bioinfo@sfbi.fr>; Tue, 21 Oct 2014 08:15:37 +0200 (CEST)
+Message-ID: <1413871981.2302.2.camel@cuauhtemoc>
+From: Christelle Dantec <christelle.dantec@crbm.cnrs.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Date: Tue, 21 Oct 2014 08:13:01 +0200
+Content-Type: text/plain; charset="UTF-8"
+X-Mailer: Evolution 3.10.4-0ubuntu2 
+Mime-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: ClamAV using ClamSMTP
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] =?ISO-8859-1?Q?arr=EAt?= du projet PLUME
+Bonjour à tous,
+comme vous le savez peut-être, Plume (https://www.projet-plume.org/,
+Promouvoir les Logiciels Utiles Maîtrisés et Economiques
+dans l'enseignement supérieur et la recherche ) est depuis quelques mois
+en hibernation, en attente de jours meilleurs, et surtout de la réponse
+définitive de RENATER. Nous venons d'apprendre que malheureusement, il a
+été décidé par RENATER que PLUME ne faisait pas parti des objectifs pour
+lequel RENATER existait, et donc qu'il n'y aurait pas de reprise.
+Devant cette nouvelle, le comité de suivi du projet ne peut que
+constater que PLUME est à l'arrêt sans possibilité de relance à court
+terme. A son niveau, le comité considère qu'il ne peut plus accomplir sa
+mission de suivi : la seule solution est d'acter que PLUME est arrêté et
+d'arrêter également le comité. Le seul acteur restant en piste est donc
+la DSI du CNRS, et plus particulièrement Olivier Porte qui fait partie
+du comité.
+Le futur
+Trois points sont à préciser :
+- la disponibilité des fiches sur PLUME.
+La décision finale revient à la DSI, puisque c'est elle la responsable
+du projet.
+Nous, comité de suivi, souhaitons cependant qu'un délai de six mois soit
+donné aux contributeurs de PLUME afin qu'ils puissent récupérer leurs
+fiches. Passé ce délai nous souhaitons que le serveur soit arrêté (ce
+qui reviendrait à l'arrêter fin Avril 2015), afin de ne pas dégrader
+l'image de la communauté ESR avec des informations non mises à jour et
+de plus en plus obsolètes. Nous souhaitons également que le nom de
+domaine reste réservé par la DSI durant plusieurs années.
+-autres possibilités de « reprise ».
+D'autres pistes de reprise extérieures au CNRS sont actuellement
+initiées, mais elles n'en sont qu'aux premiers contacts. Il n'y a donc
+rien de prévisible à court terme, et ce que pourrait donner cette
+reprise n'est pas pour l'instant imaginable. Olivier Porte en est le
+porteur. Dans ce cadre, la communauté pourrait être de nouveau
+sollicitée bien entendu.
+-l'action école ENVOL.
+Le comité avait entamé des discussions avec DEVLOG pour une éventuelle
+reprise. DEVLOG s'était montré intéressé et participe d'ailleurs à
+l'édition de cette année portée par Dirk Hoffmann de l'IN2P3. Nous
+considérons, en accord avec la DSI, que cette reprise (avec des
+adaptations éventuelles) serait une bonne chose.
+Le comité reste convaincu de la nécessité d'un tel projet, et espère
+qu'un nouveau projet verra le jour. 
+Le comité de suivi
+ 
+ 
+ 
+Laurent Pérochon
+Département QEA
+UMR1273 METAFORT 
+VetAgro Sup, campus agronomique
+89 Avenue de l'Europe
+BP 35 - 63370 Lempdes
++33 (0)4-73-98-69-45
+ 

@@ -1,0 +1,64 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <p.geurts@ulg.ac.be>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 60BCF26801D
+	for <bioinfo@sfbi.fr>; Wed, 23 Jul 2014 00:24:15 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhEDACjjzlOLpSBvnGdsb2JhbABZg2BXAccmhz8EgRUWDwEBAQEBBg0JCRQphCdLBYFmiDkECZlUoAqGRReNO4ItgxiBGAWcdIVzkDtq
+X-IronPort-AV: E=Sophos;i="5.01,712,1400018400"; 
+   d="scan'208";a="62110356"
+Received: from serv108.segi.ulg.ac.be ([139.165.32.111])
+  by b-mx1.relay.syrhano.net with ESMTP; 23 Jul 2014 00:24:15 +0200
+Received: (qmail 17163 invoked from network); 23 Jul 2014 00:24:14 +0200
+Received: from unknown (HELO [10.0.1.5]) (u179884@[85.26.78.51])
+          (envelope-sender <p.geurts@ulg.ac.be>)
+          by serv108.segi.ulg.ac.be (qmail-ldap-1.03) with SMTP
+          for <bioinfo@sfbi.fr>; 23 Jul 2014 00:24:14 +0200
+From: Pierre Geurts <p.geurts@ulg.ac.be>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <82B7D99C-68AA-427E-A4E0-FB313DAB95C3@ulg.ac.be>
+Date: Wed, 23 Jul 2014 00:24:13 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+X-Mailer: Apple Mail (2.1878.6)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Call for participation and posters - MLSB14, Machine Learning in Systems Biology
+[Apologies for cross-postings]
+     Call for Participation and Poster Presentations
+   MLSB14, the eighth International Workshop on
+         Machine Learning in Systems Biology
+                http://www.mlsb.cc
+  Organized in conjunction with ECCB 2014
+            Strasbourg, France, September 6-7, 2014.
+---
+We invite you to join us for the eighth installment of
+	Machine Learning in Systems Biology (MLSB) 2014,
+which will be held as a 2-day ECCB workshop on September 6 and 7 in Strasbo
+urg, France
+The full program of MLSB 2014 can be found online at http://mlsb.cc
+The highlights of MLSB 2014 include five invited talks by
+* Pierre Baldi, UCI University, California, USA
+	Carbon-Based Computing Vs Silicon-Based Computing: A New Theory of Circadi
+an Rhythms Abstract
+* Anne-Laure Boulesteix, Department of Computational Molecular Medecine, IB
+E, Ludwig-Maximilians Universit=E4t M=FCnchen, Germany
+	Title to be announced
+* Karsten Borgwardt, Department of Biosystems Science and Engineering (D-BS
+SE), ETH Z=FCrich
+	Machine Learning for Personalized Medicine Abstract
+* Jean-Loup Faulon, IBSS, CNRS, Genopole, University of Evry, France
+	Using Machine Learning in Synthetic Biology: The Design-Build-Test and Lea
+rn cycle Abstract
+* Nicola Segata, Centre for Integrative Biology, University of Trento, Italy
+	Machine learning challenges in computational meta'omics
+One page abstract can still be submitted through the easychair submission s
+ystem until August, 15 for poster presentation at the workshop:
+http://www.easychair.org/conferences/?conf=3Dmlsb2014
+Please note that the early registration deadline for MLSB/ECCB is August 1,
+ 2014 (for registration visit http://www.eccb14.org/registration).
+We are looking forward to meeting you in Strasbourg!
+Best regards,
+Florence d'Alché-Buc and Pierre Geurts

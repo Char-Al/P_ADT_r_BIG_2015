@@ -1,0 +1,48 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 254D326801D
+	for <bioinfo@sfbi.fr>; Mon,  7 Jul 2014 09:18:25 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: As0AAMhIulOKZqI0nGdsb2JhbABag2CDScNDAYElDwEBAQEBCAsJCRQohAQBBSMPAQURLxElAgUWCwICCQMCAQIBRRMGAgEBiD4NsAeZQReBLI0UEQFXFoJhgUwFmnaHD45+gUSBdQ
+X-IronPort-AV: E=Sophos;i="5.01,616,1400018400"; 
+   d="scan'208";a="61376185"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Jul 2014 09:18:24 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s677IORO004641
+	for <bioinfo@sfbi.fr>; Mon, 7 Jul 2014 09:18:24 +0200 (CEST)
+Message-ID: <53BA49C0.2030101@jouy.inra.fr>
+Date: Mon, 07 Jul 2014 09:18:24 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1X43By-000F0V-4f@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1X43By-000F0V-4f@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1X43By-000F0V-4f@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53BA49C0.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53BA49C0.000/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53BA49C0.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.069 -> S=0.069
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] High-dimensional Prediction Models for Identifying
+ Cancer Driver Mutations
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : High-dimensional Prediction Models for Identifying
+Cancer Driver Mutations
+Type de poste : Post-doc / IR
+Durée du poste : 12 à 18 mois
+Ville : Villejuif
+Nom du contact : josee.marcou@gustaveroussy.fr
+Email du contact : Stefan.MICHIELS@gustaveroussy.fr
+Laboratoire : Biostatistics and Epidemiology Unit of Gustave Roussy Cancer
+Center
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/high-dimensional-prediction-models-identifying-cancer-driver-mutations

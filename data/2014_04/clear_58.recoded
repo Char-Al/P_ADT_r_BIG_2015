@@ -1,0 +1,99 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <regine.vignes_lebbe@upmc.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 40D0726801D
+	for <bioinfo@sfbi.fr>; Wed, 16 Apr 2014 18:47:25 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqgBACOzTlOGnQCQnGdsb2JhbABZg0HFRA4BAQEBAQgLCQkUKII4JgEFQD0WGAMCAQIBWAYCAQEFh3OWcbIwF45/hCIElWqCfIE3hR+PJg
+X-IronPort-AV: E=Sophos;i="4.97,872,1389740400"; 
+   d="scan'208";a="57192646"
+Received: from shiva144.upmc.fr (HELO shiva.upmc.fr) ([134.157.0.144])
+  by b-mx1.relay.syrhano.net with ESMTP; 16 Apr 2014 18:47:24 +0200
+Received: from courriel.upmc.fr (courriel3.reseau.jussieu.fr [134.157.0.194])
+          by shiva.upmc.fr (8.14.4/jtpda-5.5pre1) with ESMTP id s3GGlNqZ026269
+          for <bioinfo@sfbi.fr>; Wed, 16 Apr 2014 18:47:23 +0200 (CEST)
+X-Ids:144
+X-CIds:courriel3
+Received: from [134.157.190.219] (NAT152HDT153.mnhn.fr [192.134.152.153]) (authentified, mech=PLAIN)
+          by courriel.upmc.fr (8.14.5/jtpda-5.5pre1) with ESMTP id s3GGlN1G085246 (version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO)
+          for <bioinfo@sfbi.fr>; Wed, 16 Apr 2014 18:47:23 +0200 (CEST) (envelope-from regine.vignes_lebbe@upmc.fr)
+Message-ID: <534EB41C.9030401@upmc.fr>
+Date: Wed, 16 Apr 2014 18:47:24 +0200
+From: =?windows-1252?Q?R=E9gine_Vignes_Lebbe?= <regine.vignes_lebbe@upmc.fr>
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [offre emploi] [CDD =?WINDOWS-1252?Q?ing=E9nieur?= =?WINDOWS-1252?Q?d=E9veloppeur?=]
+Ingénieur développeur
+CDD minimum 6 mois à un an. Début du contrat immédiat.
+LIEU: Muséum national d'Histoire naturelle, Bâtiment de Géologie ­ 43 
+rue Buffon 75005 Paris
+ACTIVITÉS PRINCIPALES :
+Dans le cadre d'un projet TRAnsmission Sémantique des connaissances de 
+la Systématique vers l'Ecologie,
+nous recherchons un ingénieur en développement. L'objectif du projet est 
+de mettre en place une plateforme
+d'apprentissage permettant d'analyser et d'adapter l'usage des outils 
+d'identification assistée par ordinateur
+développés au sein du laboratoire (logiciels Xper3 http://www.xper3.fr/, 
+Mkey+
+http://www.identificationkey.fr/), dans le cadre du suivi photographique 
+des insectes pollinisateurs, programme
+de science participative SPIPOLL (http://www.spipoll.org/).
+Le candidat retenu devra adapter des interfaces web d'identification à 
+partir de l'existant afin de pouvoir
+enregistrer les démarches d'identification des utilisateurs et mettre en 
+place une boucle de rétro­action capable
+d'adapter le processus d'identification pour minimiser les risques 
+d'erreur. Le candidat travaillera au sein du
+laboratoire Informatique et Systématique, et en interaction avec des 
+biologistes dont une personne chargée de
+l'analyse des données d'usage des interfaces.
+COMPÉTENCES :
+­ Maîtrise des technologies de développements web côté client (Jquery, 
+JSON, CSS).
+­ Maîtrise du langage JAVA/J2EE (Web Services) et/ou PHP.
+­ Connaissance d'un système de gestion de bases de données (MySQL, 
+PostGreSQL)
+­ Maitrise d'un système de gestion de version (Git) et de 
+l'environnement UNIX.
+QUALIFICATIONS :
+­ Diplômé d'un Bac+5 en informatique ou bioinformatique
+­ Une première expérience en développement Java et/ou Javascript est 
+souhaité.
+­ Bonne aptitude au travail en équipe, capacité à communiquer, 
+organisation et rigueur
+­ Avoir un bon esprit de synthèse pour comprendre les problématiques du 
+domaine de recherche.
+­ Un intérêt pour l'informatique appliquée à la biologie est fortement 
+souhaitable.
+SALAIRE :
+De 1800 EUR à 2300 EUR net selon profil
+Envoyez CV et lettre de motivation à :
+­ Régine Vignes Lebbe (responsable équipe) : regine.vignes_lebbe@upmc.fr
+­ avec en copie Florian Causse (chef de projet informatique) : 
+florian.causse@upmc.fr
+-- 
+-------------------------------------------------------------------
+Régine Vignes Lebbe, Professeur UPMC
+Institut de Systématique, Evolution, Biodiversité
+UMR 7205, MNHN, UPMC, CNRS, EPHE
+Laboratoire Informatique & Systématique (http://www.infosyslab.fr )
+http://www.infosyslab.fr
+http://isyeb.mnhn.fr/
+Localisation /building place:
+Bâtiment de Géologie (MNHN)
+43, rue Buffon
+75005 Paris
+Tel 01 40 79 80 61
+Addresse courrier/Postal address :
+MNHN
+CP48
+57 rue Cuvier
+75231 Paris Cedex O5 - France
+-------------------------------------------------------------------

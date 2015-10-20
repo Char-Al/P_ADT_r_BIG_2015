@@ -1,0 +1,71 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mgalle@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 4A6E126801D
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 18:08:31 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuYEAKuG6lJKfVIvlGdsb2JhbABZg0RXqWOTPASBBggWDgEBAQEHCwsJEiqCbAEsDQMNBRBdDAYBBQE1CIdpAxENnCiDCI9lkzAnDVeIMgEFDI8ThCIElECDaIc3iHsYKYFlgnU7
+X-IronPort-AV: E=Sophos;i="4.95,751,1384297200"; 
+   d="scan'208";a="61164236"
+Received: from mail-wg0-f47.google.com ([74.125.82.47])
+  by a-mx1.relay.syrhano.net with ESMTP; 30 Jan 2014 18:08:30 +0100
+Received: by mail-wg0-f47.google.com with SMTP id m15so6888527wgh.14
+        for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 09:08:30 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:from:date:message-id:subject:to:content-type;
+        bh=iwRYvS7S1bIhpkx/kOVyzT5MAk9QzLZ6Da55J+ukXz4=;
+        b=L5/+HStXB+SVlsN+6Ne+ZEK1CWM3wkKz1WKg7V+K8e00ViA+b9IqtRi++eVnOC/Mj2
+         DkiPXwwPqF8ojJZZIFqSBd4u4ivxv28G/yiOjFkj9R7Qubft46BW6S1apowTK46NKAfe
+         d8wAZAsZa64vDe6S6dmLCMvkQQMZdUwCu8GT9kNuAaiYtNRcSIUF/2Sx/L1FgmWRhq0y
+         xgT/BqsQNmuk1gWnhKZQm9Mi7OrmlN/1ss3mZl9mxoOEiHIHAVsw4zIR050pQze8IhnQ
+         64uuR3dhoiVKrVa5UzzOXilal6ZbIPC4IxrmgDzfU3BsfBnxMqNALoGh+UpSqJ20DfTu
+         62Ig=
+X-Received: by 10.194.84.144 with SMTP id z16mr10109222wjy.23.1391101709951;
+ Thu, 30 Jan 2014 09:08:29 -0800 (PST)
+MIME-Version: 1.0
+Sender: mgalle@gmail.com
+Received: by 10.194.27.194 with HTTP; Thu, 30 Jan 2014 09:08:09 -0800 (PST)
+From: Matthias_Gallé <galle@hal.famaf.unc.edu.ar>
+Date: Thu, 30 Jan 2014 18:08:09 +0100
+X-Google-Sender-Auth: XlJduBT25wOG5EELeh-iR2cN5MA
+Message-ID: <CANHP083TeqmBi=EztbDPL6w1Fcth2URsiWJST092XHaS43gWCQ@mail.gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] research internship @ Xerox Research Centre Europe
+An open internship position on a mix of string algorithms, grammatical
+inference and statistical machine learning
+*Description*
+We are looking for a motivated intern for a project involving the use
+of sequential patterns for the inference of grammars.
+The Smallest Grammar Problem is the problem of finding the smallest
+context-free grammars that generates exactly one given sequence. We
+plan to generalize this in order to find grammars which generate a set
+of natural language documents with a strong but hidden structure. This
+structure will then be converted into additional features (through
+tree kernels for example) in our analytics pipeline or alternatively
+as a starting template for existing multilingual authoring tools.
+*Requirements*
+Research-oriented master student or PhD candidate in computer science
+Knowledge of standard text algorithms and data structures
+Knowledge of formal grammars (a course covering the Hopcroft & Ullman
+book or equivalent for example)
+Knowledge in statistical machine learning applied to text is a strong plus
+Fluency in either C, C++ or Java is a plus
+The intern will work closely with researchers in a very international
+environment, and will be strongly encouraged to produce scientific
+publications.
+*Duration*: 5-6 months
+*Start Date*: March-April 2014
+*Application instructions*
+Informal inquiries are welcome and can be made at
+matthias.galle@xrce.xerox.com .
+To submit an application, please send your CV and cover letter to both
+xrce-candidates@xrce.xerox.com and matthias.galle@xrce.xerox.com .
+Ideally, you will also include in your CV people we can contact for
+letters of recommendation.
+link: http://www.xrce.xerox.com/About-XRCE/Internships/Grammatical-Inference-with-sequential-motifs
+--mg

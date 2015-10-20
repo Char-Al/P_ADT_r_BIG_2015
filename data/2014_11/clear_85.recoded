@@ -1,0 +1,32 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 972F526801D; Thu, 27 Nov 2014 11:50:50 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: guillaume.launay@ibcp.fr
+Message-ID: <sympa.1417085047.28065.137@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Thu, 27 Nov 2014 11:50:50 +0100 (CET)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] =?ISO-8859-1?Q?D=E9veloppement?= =?ISO-8859-1?Q?d=92une?= interface web pour la =?ISO-8859-1?Q?pr=E9diction?= et la visualisation des surface =?ISO-8859-1?Q?d=92interaction?= =?ISO-8859-1?Q?prot=E9ine?=:=?ISO-8859-1?Q?prot=E9ine?=
+Responsables de stage : Dr Guillaume Launay et Dr Xavier Robert
+Les protéines jouent un rôle essentiel dans les voies de signalisation intra et inter-cellulaires. La perturbation de ces signaux peut causer l'apparition de cancer ou être mis à profit par des agents infectieux (bactéries, virus) pour leur propre développement. L'étude moléculaire et structurale des interactions protéine:protéine revêt donc un enjeu essentiel pour la compréhension des mécanismes infectieux et le développement de nouvelles stratégies thérapeutiques
+ Les simulations biophysiques réalisées dans l'équipe Bioinformatique Structures et Interactions permettent l'analyse et la prediction de certains complexes protéine-protéine1. Dans ces travaux, le docking protéine-protéine intensif de la protéine étudiée est réalisé à l'aide du logiciel de docking HeX2. Puis, toutes les poses de docking sont repertoriées et leur classification permet l'identification de régions susceptibles de former des interfaces  à la surface de la protéine isolée. Un pipeline bio informatique développé dans notre équipe implémente cette méthode dite de docking arbitraire. 
+L'objectif de ce stage est la construction d'une interface utilisateur pour ce pipeline permettant au biologiste la soumission de protéines et la visualisation de résultats. L'interface devra notamment permettre la visualisation interactive de la représentation tridimensionnelle de la protéine et de ses surfaces d'interaction. Ce service utilisera nos moyens de calcul et communiquera avec le serveur ENDscript5 développé par l'équipe de biocristallographie de l'unité. 
+Les technologies que le stagiaire sera amené à manipuler sont les suivantes:
+&#10063;	WebGL, rendu 3D des protéines
+&#10063;	D34 , représentation graphique des résultats
+&#10063;	La bibliothèque BioJS5, composants JavaScript de bioinformatique
+Références:
+1)	Martin J et Lavery R. Arbitrary protein-protein docking targets biologically relevant interfaces. BMC Biophys. 2012. doi: 10.1186/2046-1682-5-7.
+2)	Ghoorah AW, Smail-Tabbone M, Devignes MD, Ritchie DW. Protein Docking Using Case-Based Reasoning. Proteins: Structure, Function, Bioinformatics. 2013.  doi: 10.1002/prot.24433
+3)	Robert X et Gouet P. Deciphering key features in protein structures with the new ENDscript server. Nucleic Acids Res. 2014, W3240-4. Web Server issue. doi: 10.1093/nar/gku316..
+4)	d3js.org
+5)	http://biojs.net/
+Contact et équipe d'accueil : BMSSI, UMR 5086, Bionformatique: structures et interactions, guillaume.launay@ibcp.fr , +33 (0)4 72 72 29 36
+Gratification: 484 euros mensuels

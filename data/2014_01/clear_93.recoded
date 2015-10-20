@@ -1,0 +1,82 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <claire.nedellec@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id A959C26801D
+	for <bioinfo@sfbi.fr>; Wed, 29 Jan 2014 11:03:45 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ao4BABXR6FKKZqI0nGdsb2JhbABZg0S6G4RTDgEBAQEBCAsJCRQogl4BBTMCBQY9FhgDAgECAV4DARWHbA2aYK5+jh0RAW2EIgSYKIEyklyBP4Fw
+X-IronPort-AV: E=Sophos;i="4.95,741,1384297200"; 
+   d="scan'208";a="61064417"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 29 Jan 2014 11:03:45 +0100
+Received: from Macintosh-9.local (mig140 [138.102.22.140])
+	(authenticated bits=0)
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s0TA3ihW014188
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <bioinfo@sfbi.fr>; Wed, 29 Jan 2014 11:03:44 +0100 (CET)
+Message-ID: <52E8D200.4050908@jouy.inra.fr>
+Date: Wed, 29 Jan 2014 11:03:44 +0100
+From: Claire Nedellec <claire.nedellec@jouy.inra.fr>
+User-Agent: Thunderbird 2.0.0.23 (Macintosh/20090812)
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at beta with ID 52E8D200.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52E8D200.000/138.102.22.140/mig140/Macintosh-9.local/<claire.nedellec@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 52E8D200.000 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.008 -> S=0.008
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Permanent research position in Biomedical Knowledge Extraction from
+ Text, INRA France 
+Bonjour,
+pourrez-vous diffuser l'annonce de poste ci-dessous ? Merci beaucoup,
+Claire Nédellec
+----------------------
+Permanent Research Position in Biomedical Knowledge Extraction from Text
+in Bibliome team (MIG lab. INRA)
+Near Paris, France
+Application deadline: March, 3 2014
+-------------------------
+Bibliome research team in MIG laboratory (Mathematics, Informatics and 
+Genome) at INRA (French Institute for Agronomic Research) has an open 
+permanent position for a junior researcher in Knowledge Extraction from 
+texts in Biology. Bibliome is located in INRA research center in 
+Jouy-en-Josas, near Paris in France.
+This is a permanent position as a public servant for the French State. 
+The benefit package includes health and retirement insurance.
+Bibliome group designs methods for the acquisition and the annotation of 
+semantic knowledge from scientific documents for Information Extraction 
+(e.g. genic interactions), Information Retrieval (e.g. semantic search) 
+and Terminology and Ontology building. It has been pioneer in the field 
+of Information Extraction for Molecular Biology. Its expertise covers 
+all steps of the linguistic analysis by NLP methods and the Knowledge 
+Acquisition by Machine Learning.
+Ideal candidates should have a PhD in Artificial Intelligence and should 
+have several years of experience in Information Extraction (doctoral or 
+post-doctoral) for Knowledge Acquisition with a strong focus on Natural 
+Language Processing (e.g. term and relation extraction, dependency 
+parsing, semantic role labeling), and Machine Learning for NLP (e.g. 
+distributional semantics, dependency path kernel).
+The applicant should have experience in programming and be comfortable 
+in Linux environment. Experiences of applied research to Life Science is 
+an asset.  Prior experience in collecting and integrating linguistic 
+ressources (corpora and lexicon) and tools into pipelines represents an 
+advantage. An advanced level of English (oral and written) is an asset.
+Applications will be accepted until 3 March 2014.
+The starting date will be September-October 2014.
+Interested candidates should contact
+- Claire Nédellec (head of Bibliome research team) for scientific questions
+by email: claire.nedellec@jouy.inra.fr
+- INRA Human Resource Service at concours_chercheurs@paris.inra.fr for 
+any other question.
+* Description of the position at INRA website:
+http://jobs.inra.fr/en/offers/emploi_perm/open-competitions/cr2/?concours=24348&campagne=23129&domaine=&region=&corps=&entite_rattachement=MIA%20Applied%20mathematics%20and%20informatics&discipline=Informatics%20and%20artificial%20intelligence&annonce=14111&annonce_id=0#annonce
+* Instructions for application (Guide for Candidates): 
+http://jobs.inra.fr/eng/offers/emploi_perm/open-competitions/cr2/?campagne=23129&intitule=open+competitions&concours=24348 
+* Bibliome team website: http://bibliome.jouy.inra.fr/index.en.html
+--------------------

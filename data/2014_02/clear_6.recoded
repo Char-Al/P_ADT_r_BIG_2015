@@ -1,0 +1,56 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id C512A26801D; Tue,  4 Feb 2014 01:40:46 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: Yann Ponty <yann.ponty@lix.polytechnique.fr>
+Message-ID: <sympa.1391474203.18160.241@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue,  4 Feb 2014 01:40:46 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Call for Participation 4th Symposium on Biological Data Visualization @ ISMB (July 11-12, 2014)
+We invite you to contribute to one of  the premier international and interdisciplinary events for presenting peer-reviewed scientific work in the field of Biological Data Visualization (BioVis 2014). For the first time, this year the symposium will be held as a special interest group meeting at ISMB in Boston, MA, USA.
+webpage: 
+-------------
+	http://biovis.net
+short facts :
+----------------
+What are the deadlines for 2014?
+	Papers: 	March 1 (full manuscript!)
+	Posters: 	May 24
+	Data Contest: 	May 1
+	Redesign Contest: May 1
+	(all deadlines are 5:00pm PDT)
+What are options to participate?
+	1) Papers: submit high quality research; oral presentation at the symposium; all accepted manuscripts will be available through the IEEE Digital Library and will be considered for publication in BMC Bioinformatics
+	2) Posters: work in progress and preliminary results; submissions consists of a 250 abstract and an image; previously published work from other venues; visualization challenges 
+	3) Data Contest: create a visualization (tool) that helps to identify and understand which rs-fMRI networks, from a large provided dataset, are replicates derived from the same individuals; submit a 2-page extended abstract 
+	4) Redesign Contest: submit a redesigned figure utilizing effective encodings and clear visual communication to display an improved version of a well-known biological data visualization 
+Please refer for details to: http://biovis.net/year/2014/info/cfp
+details:
+-----------
+The rapidly expanding field of biology creates enormous challenges for computational visualization techniques for enabling researchers to gain insight from their large and highly complex data sets.
+The Symposium on Biological Data Visualization (BioVis) is the premier international and interdisciplinary event for all aspects of visualization in biology. The symposium brings together researchers from the visualization, bioinformatics, and biology communities with the purpose of educating, inspiring, and engaging visualization researchers in problems in biological data visualization as well as bioinformatics and biology researchers in state-of-the-art visualization research.
+We are looking for contributions on all aspects of visualization in biology, from molecular to cell, tissue, organism and population biology. Suggested topics include, but are not limited to:
+	* Genome and sequence data, including genomic variation data
+	* Multivariate omics data (transcriptomics, proteomics, metabolomics, etc.)
+	* Phylogenetic data
+	* Biological networks and pathways
+	* Biological Ontologies
+	* Structures (e.g., protein or RNA structures)
+	* Visualization of biological image data, such as microscopy data
+	* Integration of image and omics data for systems biology
+	* Modeling, simulation, and visualization of biological systems
+	* Visualization in neurobiology and developmental biology
+	* Systems and software frameworks for biological visualization
+	* Integration of visualization in biological workflows or collaborative processes
+	* Visualization and visual analytics of integrated biological data sets
+	* Usability of visualization by biologists
+	* Creation and visualization of biological atlases and metadata
+	* Processes for interdisciplinary collaboration between biology and visualization.
+Find more information on http://biovis.net

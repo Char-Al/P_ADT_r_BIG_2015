@@ -1,0 +1,49 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mthomas@biologie.ens.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 109DD26801D
+	for <bioinfo@sfbi.fr>; Wed, 26 Feb 2014 08:51:43 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArICALOcDVOBx2AolWdsb2JhbABZFoMrwnYWDgEBAQEJCwkJEiqCSVs9FhgDAgECAVgGAgEBEIdxDZg/sDWCXIwRhCIEmWiUJA
+X-IronPort-AV: E=Sophos;i="4.97,545,1389740400"; 
+   d="scan'208";a="54561101"
+Received: from nef2.ens.fr ([129.199.96.40])
+  by b-mx1.relay.syrhano.net with ESMTP; 26 Feb 2014 08:51:20 +0100
+Received: from biologie.ens.fr (biologie.ens.fr [129.199.16.22])
+          by nef2.ens.fr (8.13.6/1.01.28121999) with ESMTP id s1Q7pIpb096963
+          for <bioinfo@sfbi.fr>; Wed, 26 Feb 2014 08:51:18 +0100 (CET)
+X-Envelope-To: <bioinfo@sfbi.fr>
+Received: from csbmac10.ens.fr (csbmac10.ens.fr [129.199.17.105]) by biologie.ens.fr (8.14.4/jb-1.1)
+	(authenticated bits=0)
+	id s1Q7pIgs018495 for <bioinfo@sfbi.fr>; Wed, 26 Feb 2014 08:51:18 +0100 (CET)
+Message-ID: <530D9CF9.2080903@biologie.ens.fr>
+Date: Wed, 26 Feb 2014 08:51:21 +0100
+From: Morgane Thomas-Chollier <mthomas@biologie.ens.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:17.0) Gecko/20130328 Thunderbird/17.0.5
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+X-Enigmail-Version: 1.6
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-3.1.4 (nef2.ens.fr [129.199.96.32]); Wed, 26 Feb 2014 08:51:18 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] RegGenSIG 2014 - Call for abstracts
+Regulatory Genomics Special Interest Group (RegGenSIG)
+Special Interest Group (SIG) at ISMB 2014
+July 12, 2014, Boston, MA, USA.
+The RegGenSIG meeting focuses on bioinformatics for regulatory genomics,
+fostering a collaborative community wherein scientists convene to
+discuss difficult research problems in computational regulatory genomics.
+CALL FOR EXTENDED ABSTRACTS
+To make an oral presentation at RegGenSIG, extended abstracts (2-3
+pages) should be submitted by April 20, 2014 to <sinhas@illinois.edu>,
+including "RegGen SIG 2014 - Abstract for oral presentation" in the
+subject line. Authors will be notified by May 1, 2014.
+CALL FOR POSTERS
+For poster presentations, authors should submit a 250 word abstract no
+later than May 18, 2014 to <finn.drablos@ntnu.no>, including "RegGen SIG
+2014 - Abstract for poster presentation" in the subject line. Authors
+will be notified no later than May 25, 2013.
+For more information please see <http://light.ece.ohio.edu/~reggen/2014/>.

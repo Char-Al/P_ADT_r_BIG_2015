@@ -1,0 +1,69 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gascuel@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 161C226801D
+	for <bioinfo@sfbi.fr>; Tue,  6 May 2014 08:56:31 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsIBANGGaFPBMWgenGdsb2JhbABZg1VRxGKBGBYOAQEBAQEICwkJFCiCJgEFODAhLCUPAkYHDAgBAQWIPATNeReLQ4JtKYQ/BJk3hmSGOIkS
+X-IronPort-AV: E=Sophos;i="4.97,995,1389740400"; 
+   d="scan'208";a="58071299"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by b-mx1.relay.syrhano.net with ESMTP; 06 May 2014 08:56:30 +0200
+Received: from [10.200.1.179] (ppp-2-87-11-69.home.otenet.gr [2.87.11.69])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 852D4A4F31;
+	Tue,  6 May 2014 08:56:29 +0200 (CEST)
+Message-ID: <5368879B.30307@lirmm.fr>
+Date: Tue, 06 May 2014 08:56:27 +0200
+From: Olivier Gascuel <gascuel@lirmm.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: ibc-all@lirmm.fr, bioinfo@sfbi.fr
+References: <536802A5.8070108@crg.eu>
+In-Reply-To: <536802A5.8070108@crg.eu>
+X-Forwarded-Message-Id: <536802A5.8070108@crg.eu>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] NGS 2014 à Brcelone - 2 au 4 Juin 2014
+Un message de la part de Cedric Notredame, merci de faire suivre !!
+:::::::::::::::::::::
+Dear colleagues,
+Here is some information a bout a forthcoming meeting in Barcelona,
+Next Generation Sequencing Conference (NGS) 2014
+June 2-4, 2014
+Barcelona, Spain
+http://www.iscb.org/ngs2014
+Hosted by the International Society for Computational Biology (ISCB) and
+the Centre for Genomic Regulation (CRG), the Next Generation Sequencing
+Conference 2014 (NGS 2014) is a dedicated meeting on cutting-edge
+approaches to the processing and analysis of Next Generation Sequencing
+data. The goal of this conference is to bring together bioinformatics
+researchers and biologists facing new high-throughput sequencing
+challenges. The conference will feature presentations showing how
+current platforms can be used to address key biological questions and
+what is the current state of the art for data analysis. Sizeable space
+will also be dedicated to emerging and future trends in high-throughput
+sequencing and their associated computational challenges.
+Topics include:
+State of the art technologies, and technologies under development
+Novel software and algorithms
+Novel applications of NGS technologies in genomics and biology
+Post genome sequencing analysis, including RNA analysis, transcription
+factor binding sites profiling, histone modifications, nucleosome
+positioning, copy number variation, genotyping, RNA structure, dynamics
+of transcription and translation, etc.
+Research breakthroughs based on exhaustive applications of NGS.
+Clinical and translational applications
+Applications to agriculture and biotechnology
+Societal implications: forensic law, sociology research, history, etc.
+Economical impacts
+The conference will also aim to encompass the associated computational
+challenges:
+Novel algorithms, methods and pipelines
+Comparative benchmarks of methods
+Hardware developments specific to NGS
+High performance computing in NGS
+Computation in portable NGS devices, micro- and nano-NGS devices
+Computation during data acquisition

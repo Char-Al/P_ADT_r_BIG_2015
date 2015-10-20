@@ -1,0 +1,35 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id CEC5426801D; Tue, 15 Apr 2014 10:07:57 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: etienne.thevenot@cea.fr
+Message-ID: <sympa.1397549169.4218.231@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue, 15 Apr 2014 10:07:57 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Post-doctoral position in computational mass spectrometry at CEA Saclay (France, Paris area)
+Innovative algorithms and software tools for spectra interpretation and structure elucidation in metabolomics
+   Background
+   The Laboratory for Data Analysis and Smart Systems (LADIS) at CEA (French Alternative Energies and Atomic Energy Commission) has strong expertise in processing and analysis of mass spectrometry (MS) data and has a longstanding partnership with Laboratory of Drug Metabolism (LEMM) which is specialized in LC-MS metabolomics. Together with three INRA platforms (PFEM, BMP and MetaToul at Clermont-Ferrand, Bordeaux and Toulouse, respectively), we develop the bioinformatics tools for MetaboHUB, the national infrastructure in metabolomics and fluxomics (www.metabohub.fr/en). The three main tasks are: 1) developing a Galaxy workflow for data processing, analysis and annotation (in collaboration with the French Institute for Bioinformatics), 2) building a reference database for compounds and spectra (NMR and MS) with the corresponding tools for spectra visualization, matching and interpretation, and 3) managing the data and metadata resulting from the analysis of samples from large cohorts on the four platforms.
+   As metabolomics is increasingly used for biomarker discovery, high-throughput annotation of MS peak signals is critical. Within task 2, the development of efficient algorithms for mass spectra interpretation is tightly coupled to the building of a comprehensive database of high quality spectra. Whereas software tools exist for the determination of the chemical formula (based on mass accuracy, analysis of isotope distribution, etc.), the elucidation of de novo structures (i.e. from unknown compounds) through interpretation of fragmentation spectra (MS/MS) remains challenging due to the chemical diversity of metabolites. Such a task requires the ability to develop efficient combinatorial algorithms and interactive visualization tools in addition to a good knowledge of both the rules of ionization and fragmentation in the gas phase.
+   Project
+   Within the MetaboHUB project, the post holder will develop the software tools to interpret MS/MS spectra and determine the structure of previously uncharacterized compounds. He/she will work with Pr. Jean-Claude Tabet to automate the process of spectrum interpretation by 1) determining the metadata regarding spectrum acquisition to be stored in the database, 2) designing and implementing the algorithms for MS and MS/MS spectra matching, chemical structure elucidation and visualization, and 3) integrating the tools in the MetaboHUB database. In addition, the post holder will contribute to task 3 by benchmarking software tools and architecture solutions for collaborative management of the huge amount of raw and processed data generated simultaneously by the four MetaboHUB platforms.
+   Profile
+   The successful candidate should hold a PhD in cheminformatics, bioinformatics or computer science and have a strong understanding of organic chemistry. The candidate is expected to have experience with Java and C++, with database management systems (MySQL) and with web content management systems (jQuery). The candidate should have presented his/her Ph.D. thesis for less than two years before the starting date and should have a good record of scientific publications.
+   Our offer
+1-year contract (renewable once).
+Net salary: about 2200  euros /month, depending on experience.
+   Application
+Please send your CV and your letter of motivation to:
+Etienne Thévenot
+Laboratory for Data Analysis and Smart Systems
+CEA, Saclay Center, build. 565 (DRT/LIST/DM2I/LADIS)
+F-91191 Gif-sur-Yvette Cedex, France
+Mail: etienne.thevenot@cea.fr
+Website: http://www-centre-saclay.cea.fr/en

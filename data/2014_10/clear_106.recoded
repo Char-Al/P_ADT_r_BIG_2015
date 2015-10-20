@@ -1,0 +1,89 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <y.wurm@qmul.ac.uk>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id E74A026801D
+	for <bioinfo@sfbi.fr>; Fri, 31 Oct 2014 15:08:59 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlYBABSXU1SKJQYGnGdsb2JhbABZA4NiWASCOkjAXIlCh1EeeRYBAQEBAREBAQEBAQgLCQkUIwuEAwEBAwEMBgEQEUoLAgEGHAImAgICMBUQAgQTIogWCQSYWI5SAYEdARlbBScCilMBAXePEoVjAQEIAQEBAQEBHIEtjw85CyiCZjaBHgWGMYxtg0SHFoExPI1xgmGIAWyBSIEDAQEB
+X-IPAS-Result: AlYBABSXU1SKJQYGnGdsb2JhbABZA4NiWASCOkjAXIlCh1EeeRYBAQEBAREBAQEBAQgLCQkUIwuEAwEBAwEMBgEQEUoLAgEGHAImAgICMBUQAgQTIogWCQSYWI5SAYEdARlbBScCilMBAXePEoVjAQEIAQEBAQEBHIEtjw85CyiCZjaBHgWGMYxtg0SHFoExPI1xgmGIAWyBSIEDAQEB
+X-IronPort-AV: E=Sophos;i="5.07,295,1413237600"; 
+   d="scan'208";a="67274376"
+Received: from mail2.qmul.ac.uk ([138.37.6.6])
+  by b-mx1.relay.syrhano.net with ESMTP; 31 Oct 2014 15:08:59 +0100
+Received: from mail-am1lrp0012.outbound.protection.outlook.com ([213.199.154.12] helo=emea01-am1-obe.outbound.protection.outlook.com)
+	by mail2.qmul.ac.uk with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.71)
+	(envelope-from <y.wurm@qmul.ac.uk>)
+	id 1XkCsX-0006no-Ly
+	for bioinfo@sfbi.fr; Fri, 31 Oct 2014 14:08:57 +0000
+Received: from DB4PR07MB252.eurprd07.prod.outlook.com (10.242.231.153) by
+ DB4PR07MB250.eurprd07.prod.outlook.com (10.242.231.148) with Microsoft SMTP
+ Server (TLS) id 15.1.6.9; Fri, 31 Oct 2014 14:08:35 +0000
+Received: from DB4PR07MB252.eurprd07.prod.outlook.com ([10.242.231.153]) by
+ DB4PR07MB252.eurprd07.prod.outlook.com ([10.242.231.153]) with mapi id
+ 15.01.0006.000; Fri, 31 Oct 2014 14:08:35 +0000
+From: Yannick Wurm <y.wurm@qmul.ac.uk>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Londres - Genomique de Pop & transcriptomique abeilles et
+ bourdons
+Thread-Index: AQHP9RQoOmVVC+iEM0OHefA1kOaf5g=
+Date: Fri, 31 Oct 2014 14:08:35 +0000
+Message-ID: <07673A73-1416-48C0-88CB-FFEFABBCC7E5@qmul.ac.uk>
+References: <6E3E9257-FD1F-408C-B512-2CB14DD3DD9C@qmul.ac.uk>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [161.23.168.204]
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:;SRVR:DB4PR07MB250;
+x-forefront-prvs: 03818C953D
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(6009001)(199003)(189002)(51704005)(113854002)(92566001)(229853001)(101416001)(107886001)(31966008)(16601075003)(2351001)(105586002)(106116001)(86362001)(587094005)(76176999)(107046002)(95666004)(50986999)(450100001)(77156002)(21056001)(110136001)(120916001)(54356999)(33656002)(106356001)(4396001)(87936001)(2656002)(46102003)(36756003)(2501002)(122556002)(92726001)(19580405001)(99396003)(74482002)(82746002)(83716003)(64706001)(40100003)(19580395003)(97736003)(66066001)(15975445006)(20776003)(15202345003)(62966003)(104396001)(16193025007);DIR:OUT;SFP:1101;SCL:1;SRVR:DB4PR07MB250;H:DB4PR07MB252.eurprd07.prod.outlook.com;FPR:;MLV:sfv;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <D14CDFE23ACBAA409267D6EBD73D66EE@eurprd07.prod.outlook.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-OriginatorOrg: qmul.ac.uk
+X-QM-Office365: True
+X-QM-Body-MD5: 6e407ad0f3f09ce8d8feb36e02eea1ca (of first 20000 bytes)
+X-Sender-Host-Address: 213.199.154.12
+X-SpamAssassin-Score: -0.0
+X-SpamAssassin-SpamBar: /
+X-SpamAssassin-Report: The QM spam filters have analysed this message to determine if it is
+ spam. We require at least 5.0 points to mark a message as spam.
+ This message scored -0.0 points.
+ Summary of the scoring: 
+ * -0.0 AWL AWL: From: address is in the auto white-list
+X-QM-Scan-Virus: ClamAV says the message is clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Londres - Genomique de Pop & transcriptomique abeilles et bourdons
+Qm9uam91ciDDoCB0b3VzLA0KDQpub3VzIHJlY3J1dG9ucyB1biBwb3N0ZG9j
+IGF2ZWMgdW4gcHJvZmlsIGV2b2x1dGlvbi9iaW9pbmZvL2fDqW7DqXRpcXVl
+IGRlcyBwb3AvZXhwcmVzc2lvbiAodm9pciBjaSBkZXNzb3VzIGV0IGwnYW5u
+b25jZSBodHRwOi8vam9icy5xbXVsLmFjLnVrLzQ5OTcgKQ0KDQpCaWVuIGNv
+cmRpYWxlbWVudCwNCg0KWWFubmljaw0KDQo+IFdlIGFyZSByZWNydWl0aW5n
+IGFuIGV2b2x1dGlvbmFyeS1taW5kZWQgcGVyc29uIHdpdGggc3Ryb25nIHBv
+cHVsYXRpb24gZ2Vub21pY3MgYW5kIGJpb2luZm9ybWF0aWNzIHNraWxscyBm
+b3IgYSAzIHllYXIgcG9zdGRvYyBwb3NpdGlvbiBhbmFseXNpbmcgbGFyZ2Ug
+cG9sbGluYXRvciBnZW5vbWljcyBhbmQgdHJhbnNjcmlwdG9taWNzIGRhdGFz
+ZXRzIHRvIGV4YW1pbmUgcG9sbGluYXRvciBoZWFsdGggYW5kIGltcGFjdCBv
+ZiBwZXN0aWNpZGVzIHVzaW5nIG5vdmVsIG1vbGVjdWxhciBhcHByb2FjaGVz
+LiBUaGlzIGlzIGEgTkVSQy1mdW5kZWQgcG9zaXRpb24gaW4gY29sbGFib3Jh
+dGlvbiB3aXRoIFJpY2hhcmQgR2lsbCwgTmlnZWwgUmFpbmUgYW5kIExhcnMg
+Q2hpdHRrYS4NCj4gDQo+IEZ1bGwgYWQgaXMgb24gUU1VTCdzIEhSIHdlYnNp
+dGU6DQo+IA0KPiAgIGh0dHA6Ly9qb2JzLnFtdWwuYWMudWsvNDk5Nw0KPiAN
+Cj4gQXBwbHkgYnkgTm92ZW1iZXIgMTV0aC4gDQo+IA0KPiBQb3RlbnRpYWwg
+YXBwbGljYW50cyBhcmUgZW5jb3VyYWdlZCB0byBzdWJtaXQgYW4gaW5mb3Jt
+YWwgYXBwbGljYXRpb24gKENWIGFuZCBjb3ZlcmluZyBsZXR0ZXIgb3V0bGlu
+aW5nIHlvdXIgc3VpdGFiaWxpdHkgZm9yIHRoZSBwb3NpdGlvbikgdG8gWWFu
+bmljayBXdXJtICh5Lnd1cm1AcW11bC5hYy51aykgYmVmb3JlIHRoZSBmb3Jt
+YWwgZGVhZGxpbmUuDQoNCg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KWWFubmljayBXdXJtIC0g
+aHR0cDovL3lhbm5pY2sucG91bGV0Lm9yZw0KQW50cywgR2Vub21lcyAmIEV2
+b2x1dGlvbiDii4UgeS53dXJtQHFtdWwuYWMudWsg4ouFIHNreXBlOnlhbm5p
+Y2t3dXJtIOKLhSArNDQgMjA3IDg4MiAzMDQ5DQo1LjAzQSBGb2dnIOKLhSBT
+Y2hvb2wgb2YgQmlvbG9naWNhbCAmIENoZW1pY2FsIFNjaWVuY2VzIOKLhSBR
+dWVlbiBNYXJ5LCBVbml2ZXJzaXR5IG9mIExvbmRvbiDii4UgTWlsZSBFbmQg
+Um9hZCDii4UgRTEgNE5TIExvbmRvbiDii4UgVUsNCg0KDQo

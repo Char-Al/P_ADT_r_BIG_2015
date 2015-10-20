@@ -1,0 +1,48 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Jose.DeAbreuNunes@unige.ch>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 8B6E626801D
+	for <bioinfo@sfbi.fr>; Tue, 11 Nov 2014 12:39:00 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Al8BALL0YVSBwgnam2dsb2JhbABcg2JZAQOCOkjJBwqGelECgTIBAQEBAREBAQEBAQgJCwkULoQVFw8BBQgBAR4aGBwCBSECEQI2BRENBgIBAYg9DZoMm2d4hQUBBZFMBoEtjwURAW2CIA8yEoFClwmHIYd6kC0MAYIna4EPOYEDAQEB
+X-IPAS-Result: Al8BALL0YVSBwgnam2dsb2JhbABcg2JZAQOCOkjJBwqGelECgTIBAQEBAREBAQEBAQgJCwkULoQVFw8BBQgBAR4aGBwCBSECEQI2BRENBgIBAYg9DZoMm2d4hQUBBZFMBoEtjwURAW2CIA8yEoFClwmHIYd6kC0MAYIna4EPOYEDAQEB
+X-IronPort-AV: E=Sophos;i="5.07,360,1413237600"; 
+   d="scan'208";a="76598662"
+Received: from mc5.unige.ch (HELO unige.ch) ([129.194.9.218])
+  by a-mx1.relay.syrhano.net with ESMTP; 11 Nov 2014 12:39:01 +0100
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=unige.ch; s=20140516;
+	h=Content-Transfer-Encoding:Content-Type:Subject:To:MIME-Version:From:Date:Message-ID; bh=qpGoEU8KItnsxlqXKGG2oCHZMlV/q4UzjcjK4/fCrQ8=;
+	b=ez7he3PY/WBoygB+q/ncdWGfRJZIIO17Tkcy5Q5B83fjkz+BLQxmrn7D6EdD15+NRrIPkjagONahNKRmAYzf4htxMSX5QdG89ZFCj37nYpOyoL6avthrWpB6dpm6TDJZgrMIeFTjXPz2jos8cnvrCIP+gXIKp0iKsYjYH1IjduU=;
+Received: from charlie.unige.ch ([10.40.36.22] helo=charlie.isis.unige.ch)
+	by unige.ch stage1 with esmtps 
+	(Exim MailCleaner) 
+	id 1Xo9mk-000D1z-1Q 
+	for <bioinfo@sfbi.fr> 
+	from <Jose.DeAbreuNunes@unige.ch>; Tue, 11 Nov 2014 12:38:58 +0100
+Received: from [129.194.115.160] (129.194.115.160) by outlook.unige.ch
+ (10.40.36.22) with Microsoft SMTP Server (TLS) id 14.3.210.2; Tue, 11 Nov
+ 2014 12:38:58 +0100
+Message-ID: <5461F551.40606@unige.ch>
+Date: Tue, 11 Nov 2014 12:38:57 +0100
+From: JM Nunes <Jose.deAbreuNunes@unige.ch>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="utf-8"; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [129.194.115.160]
+Authentication-Results: localhost; dmarc=none header.from=unige.ch
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre de Post-Doc =?UTF-8?Q?=C3=A0?= Geneve
+Offre de post-doc (une année) à Genève: 
+http://ua.unige.ch/fr/postes/postdoc/AGP20141107/
+Intitulé du poste : Post-doc bio-informatique/implémentation de base de 
+données
+Type de poste : Post-doc
+Durée du poste : 12 mois
+Ville : Genève
+Nom du contact : Alicia Sanchez-Mazas
+Email du contact : alicia.sanchez-mazas@unige.ch
+Laboratoire : Unité d'anthropologie - Dep. Génétique et évolution

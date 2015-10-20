@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5923426801D
+	for <bioinfo@sfbi.fr>; Thu,  2 Oct 2014 11:05:09 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AokBAAsVLVSKZqI0nGdsb2JhbABgg2FZgwLHY4hwAREBAQEBAQYNCQkULIQtEAURKwgOJAImAhIsNIg+DZcWjzuBdI0thn+BLI4YEQFtgmKBUwWBMLM9AYIdaoEPgTsBAQE
+X-IPAS-Result: AokBAAsVLVSKZqI0nGdsb2JhbABgg2FZgwLHY4hwAREBAQEBAQYNCQkULIQtEAURKwgOJAImAhIsNIg+DZcWjzuBdI0thn+BLI4YEQFtgmKBUwWBMLM9AYIdaoEPgTsBAQE
+X-IronPort-AV: E=Sophos;i="5.04,638,1406584800"; 
+   d="scan'208";a="65429649"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 02 Oct 2014 11:04:45 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s9294ixU000083
+	for <bioinfo@sfbi.fr>; Thu, 2 Oct 2014 11:04:44 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id B790C296B94
+	for <bioinfo@sfbi.fr>; Thu,  2 Oct 2014 11:04:44 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XZcLS-000Fn4-K5
+	for bioinfo@sfbi.fr; Thu, 02 Oct 2014 11:06:42 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XZcLS-000Fn4-K5@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 02 Oct 2014 11:06:42 +0200
+X-Miltered: at beta with ID 542D152C.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 542D152C.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 542D152C.000 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=. B=0.292 -> S=0.292
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] M2 Bioinformatique
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : M2 Bioinformatique
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Lyon
+Nom du contact : Pierrick Gautier
+Email du contact : pierrick.gautier@bayer.com
+Laboratoire : Bayer CropScience
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m2-bioinformatique

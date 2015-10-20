@@ -1,0 +1,70 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <claire.nedellec@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 10E1A26801D
+	for <bioinfo@sfbi.fr>; Fri,  5 Sep 2014 11:30:15 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvwBADSCCVSKZqI0nGdsb2JhbAA/GoNgVwG3EpBgaIdIgSMQAQEBAQEGDQkJFCmEFiYBBTMNATwWBBQDAgECAVkFAwGIPg02vTEBF45rEQFQHYQ2BYUKAoEOjCWDL4Z+gVuKWIsKgUhqARN7gUABAQE
+X-IPAS-Result: AvwBADSCCVSKZqI0nGdsb2JhbAA/GoNgVwG3EpBgaIdIgSMQAQEBAQEGDQkJFCmEFiYBBTMNATwWBBQDAgECAVkFAwGIPg02vTEBF45rEQFQHYQ2BYUKAoEOjCWDL4Z+gVuKWIsKgUhqARN7gUABAQE
+X-IronPort-AV: E=Sophos;i="5.04,471,1406584800"; 
+   d="scan'208";a="63842497"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Sep 2014 11:30:14 +0200
+Received: from Macintosh-9.local (mig140 [138.102.22.140])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s859UDjI018351
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Fri, 5 Sep 2014 11:30:13 +0200 (CEST)
+Message-ID: <540982D0.9070903@jouy.inra.fr>
+Date: Fri, 05 Sep 2014 11:30:56 +0200
+From: Claire Nedellec <claire.nedellec@jouy.inra.fr>
+User-Agent: Thunderbird 2.0.0.23 (Macintosh/20090812)
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Cc: Claire Nedellec <claire.nedellec@jouy.inra.fr>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 540982A5.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 540982A5.001/138.102.22.140/mig140/Macintosh-9.local/<claire.nedellec@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 540982A5.001 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.018 -> S=0.018
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] =?WINDOWS-1252?Q?ing=E9nieur?= ou post-doc de 6 mois en annotation =?WINDOWS-1252?Q?s=E9mantique?= =?WINDOWS-1252?Q?d=92information?= textuelle en biologie =?WINDOWS-1252?Q?v=E9g=E9tale?=.
+===================================
+Post-doc ou ingénieur, 6 mois en annotation sémantique de textes
+======================================
+L'équipe Bibliome de l'unité MIG (INRA) recherche un post-doctorant 
+(niveau thèse) ou ingénieur (niveau Master) à temps plein pour une durée 
+de 5 à 6 mois sur l'annotation manuelle et automatique d'articles 
+scientifiques de biologie guidée par un modèle de connaissance dans le 
+cadre du projet DataChallenge conjoint MIG et LIMSI (CNRS). Il est 
+financé par le Center for Data Science (Idex Paris-Saclay).
+La personne engagée coordonnera la finalisation de l'annotation manuelle 
+d'articles de biologie moléculaire par des experts biologistes en vue de 
+la préparation d'une tâche pour un challenge d'extraction automatique 
+d'information à partir de textes. Le domaine concerné est le 
+développement de la graine chez l'arabette (Arabidopsis thaliana). Le 
+modèle de connaissances qui est utilisé pour l'annotation devra être 
+comparé à d'autres modèles proposés pour d'autres espèces (humain, 
+procaryotes). Un modèle de représentation des connaissances unifié 
+pourra être proposé pour la représentation des connaissances du texte 
+qui soit approprié à son utilisation en Biologie des Systèmes.
+Compétences: extraction d'information, annotation manuelle de texte, 
+ingénierie de la connaissance, biologie moléculaire.
+Candidature : envoi du CV et de publications par email.
+Contact : Claire Nédellec (claire.nedellec@jouy.inra.fr) et Robert Bossy 
+(robert.bossy@jouy.inra.fr)
+Lieu de travail : Unité MIG, centre de recherche INRA de Jouy-en-Josas.
+Date de début de contrat : dès que possible
+Rémunération : grille de salaire INRA
+Références:
+   Bibliome : http://genome.jouy.inra.fr/bibliome/
+   CDS : 
+http://www.campus-paris-saclay.fr/index.php/en/Idex-Paris-Saclay/Les-Lidex/Paris-Saclay-Center-for-Data-Science 
+   BioNLP-ST 2013 (tasks GE & GRN): 
+https://sites.google.com/site/bionlpst2013/
+-----------

@@ -1,0 +1,81 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 56D1726801D
+	for <bioinfo@sfbi.fr>; Wed,  5 Feb 2014 12:15:05 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqMBAD4c8lKKZqI0nGdsb2JhbABZFoMuwDsOAQEBAQEICwkJFCiCOCYBBUA9FhgDAgECAVgGAgEBiAEECZ4qsGGPEoQiBJgrgTKUHQ
+X-IronPort-AV: E=Sophos;i="4.95,786,1384297200"; 
+   d="scan'208";a="53485787"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Feb 2014 12:15:04 +0100
+Received: from MacBook-Air-de-sophie-2.local (bur91-3-82-239-212-158.fbx.proxad.net [82.239.212.158])
+	(authenticated bits=0)
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s15BF45x021326
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <bioinfo@sfbi.fr>; Wed, 5 Feb 2014 12:15:04 +0100 (CET)
+Message-ID: <52F21D38.1030205@jouy.inra.fr>
+Date: Wed, 05 Feb 2014 12:15:04 +0100
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at beta with ID 52F21D38.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52F21D38.000/82.239.212.158/bur91-3-82-239-212-158.fbx.proxad.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 52F21D38.000 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=# B=0.029 -> S=0.029
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Cycle de formation "Bioinformatique par la pratique" 2014 (INRA Jouy)
+Bonjour,
+L'unité MIG et sa plateforme MIGALE, de l'INRA de Jouy-en-Josas,
+proposent un certain nombre de modules de formation dans le cadre de
+leur cycle 2014 "Bioinformatique par la pratique".
+http://migale.jouy.inra.fr/?q=formations
+Voici une liste de modules non encore complets :
+* Linux (1j) : 31 mars ou 13 mai ou 2 juin
+* Comparaison de séquences protéiques, recherche d'homologues dans les 
+banques. Application à l'analyse fonctionnelle : attribution d'une 
+fonction aux produits des gènes (2j) : 1&2 avril
+* Initiation à la phylogénie (2j) : 7&8 avril
+* Ressources Ensembl : Biomart et serveurs DAS (1j) : 9 avril
+* Initiation à l'utilisation de Galaxy (1j) : 16 juin
+* Analyse primaire de données issues de séquenceurs nouvelle génération
+(NGS) en version ligne de commande (1j) : 10 avril
+* Analyse primaire de données issues de séquenceurs nouvelle génération
+(NGS) sous Galaxy (1j) : 11 juin ou 17 juin
+* Traitement bioinformatique des données RNA-Seq (1j) : 14 mai
+* Analyse statistique de données RNA-Seq - Recherche des régions
+d'intérêt différentiellement exprimées (1j) : 15 mai
+* Initiation à Perl (2j) : 3&4 juin
+* Perl avancé (1j) : 5 juin
+* Recherche de motifs sur-représentés dans des séquences (1j) : 6 juin
+* Initiation à Python (1j) : 12 juin
+* Python avancé (1j) : 13 juin
+* Edition de métadonnées de contenu pour les textes scientifiques (1j) : 
+19 juin (*EXCLUSIVITE*)
+Les plaquettes descriptives de chacun de ces modules ainsi que les
+tarifs (de 150EUR à 200EURHT selon le nb de jours) et les pré-requis
+sont disponibles sur le site http://migale.jouy.inra.fr/?q=formations.
+Règlement uniquement par bon de commande.
+Pour toute information supplémentaire : formation.migale@jouy.inra.fr
+Cordialement,
+Sophie
+-- 
+    ___
+   / _ \\  ,,        Sophie SCHBATH     Sophie.Schbath@jouy.inra.fr
+  /=(_)=\\//
+  \ =(_) (O}           Unite Mathematique, Informatique & Genome (MIG)
+   \_____\\      .--.   INRA - Domaine de Vilvert
+    /=(_)\\\   .'_\/_'.  F-78352 Jouy-en-Josas
+    \____///   '. /\ .'   Tel : +33 1 34 65 28 90
+         ())     "||"      Fax : +33 1 34 65 29 01
+                  || /\
+               /\ ||//\)   http://genome.jouy.inra.fr/~schbath/
+              (/\\||/      http://www.ssbgroup.fr
+     ____________\||/____________________________________________

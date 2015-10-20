@@ -1,0 +1,100 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <y.wurm@qmul.ac.uk>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id E387626801D
+	for <bioinfo@sfbi.fr>; Fri, 31 Oct 2014 15:25:52 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlYBABGbU1SKJQYGnGdsb2JhbABZA4NiWASCOkjAXIlCh1ECHHkWAQEBAQERAQEBAQEICwkJFCMLhAMBAQMBDAYBEBFKCwIBBgIaAiYCAgIwFRACBBMiiBYJBJhkjlIBgR0BGVsFJwKKUwEBd48VhWMBAQEBAQUBAQEBAQEBAQEBAReBLY8PIRgLFxGCZjaBHgWGMYxtg0SHFoExPI1xgmGIAWwBgUeBAwEBAQ
+X-IPAS-Result: AlYBABGbU1SKJQYGnGdsb2JhbABZA4NiWASCOkjAXIlCh1ECHHkWAQEBAQERAQEBAQEICwkJFCMLhAMBAQMBDAYBEBFKCwIBBgIaAiYCAgIwFRACBBMiiBYJBJhkjlIBgR0BGVsFJwKKUwEBd48VhWMBAQEBAQUBAQEBAQEBAQEBAReBLY8PIRgLFxGCZjaBHgWGMYxtg0SHFoExPI1xgmGIAWwBgUeBAwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,295,1413237600"; 
+   d="scan'208";a="75899844"
+Received: from mail2.qmul.ac.uk ([138.37.6.6])
+  by a-mx1.relay.syrhano.net with ESMTP; 31 Oct 2014 15:25:53 +0100
+Received: from mail-am1lrp0017.outbound.protection.outlook.com ([213.199.154.17] helo=emea01-am1-obe.outbound.protection.outlook.com)
+	by mail2.qmul.ac.uk with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.71)
+	(envelope-from <y.wurm@qmul.ac.uk>)
+	id 1XkD96-0005Dx-Ko
+	for bioinfo@sfbi.fr; Fri, 31 Oct 2014 14:25:47 +0000
+Received: from DB4PR07MB252.eurprd07.prod.outlook.com (10.242.231.153) by
+ DB4PR07MB250.eurprd07.prod.outlook.com (10.242.231.148) with Microsoft SMTP
+ Server (TLS) id 15.1.6.9; Fri, 31 Oct 2014 14:25:43 +0000
+Received: from DB4PR07MB252.eurprd07.prod.outlook.com ([10.242.231.153]) by
+ DB4PR07MB252.eurprd07.prod.outlook.com ([10.242.231.153]) with mapi id
+ 15.01.0006.000; Fri, 31 Oct 2014 14:25:43 +0000
+From: Yannick Wurm <y.wurm@qmul.ac.uk>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Londres - Genomique de Pop & transcriptomique abeilles et
+ bourdons
+Thread-Index: AQHP9RQoOmVVC+iEM0OHefA1kOaf5pxKQvKA
+Date: Fri, 31 Oct 2014 14:25:43 +0000
+Message-ID: <79AE3336-709A-4F36-B13C-EE0F2BA031DC@qmul.ac.uk>
+References: <6E3E9257-FD1F-408C-B512-2CB14DD3DD9C@qmul.ac.uk>
+ <07673A73-1416-48C0-88CB-FFEFABBCC7E5@qmul.ac.uk>
+In-Reply-To: <07673A73-1416-48C0-88CB-FFEFABBCC7E5@qmul.ac.uk>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [161.23.168.204]
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:;SRVR:DB4PR07MB250;
+x-forefront-prvs: 03818C953D
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(6009001)(189002)(51704005)(113854002)(24454002)(199003)(122556002)(2501002)(99396003)(19580405001)(92726001)(2656002)(87936001)(46102003)(36756003)(15975445006)(97736003)(66066001)(19580395003)(64706001)(40100003)(62966003)(20776003)(15202345003)(82746002)(74482002)(83716003)(106116001)(105586002)(86362001)(101416001)(92566001)(2351001)(107886001)(31966008)(16601075003)(120916001)(110136001)(21056001)(4396001)(106356001)(54356999)(33656002)(107046002)(76176999)(587094005)(50986999)(95666004)(77156002)(450100001)(104396001)(16193025007);DIR:OUT;SFP:1101;SCL:1;SRVR:DB4PR07MB250;H:DB4PR07MB252.eurprd07.prod.outlook.com;FPR:;MLV:sfv;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <DFA55388F2DD2942936382D3AC2A980A@eurprd07.prod.outlook.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-OriginatorOrg: qmul.ac.uk
+X-QM-Office365: True
+X-QM-Body-MD5: 5f60bbc4973221ce68e6619199a7cf89 (of first 20000 bytes)
+X-Sender-Host-Address: 213.199.154.17
+X-SpamAssassin-Score: -0.5
+X-SpamAssassin-SpamBar: /
+X-SpamAssassin-Report: The QM spam filters have analysed this message to determine if it is
+ spam. We require at least 5.0 points to mark a message as spam.
+ This message scored -0.5 points.
+ Summary of the scoring: 
+ * -0.7 RCVD_IN_DNSWL_LOW RBL: Sender listed at http://www.dnswl.org/, low
+ *      trust
+ *      [213.199.154.17 listed in list.dnswl.org]
+ *  0.2 AWL AWL: From: address is in the auto white-list
+X-QM-Scan-Virus: ClamAV says the message is clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Re: Londres - Genomique de Pop & transcriptomique abeilles et
+ bourdons
+T3VwcyBkw6lzb2zDqSBqJ2F2YWlzIG1pcyBsZSBtYXV2YWlzIGxpZW4hICAo
+bGUgbGllbiBlc3QgY29ycmlnw6kgY2ktZGVzc291cykNCg0KDQpPbiAzMSBP
+Y3QgMjAxNCwgYXQgMTQ6MDgsIFlhbm5pY2sgV3VybSA8eS53dXJtQHFtdWwu
+YWMudWs+IHdyb3RlOg0KDQo+IEJvbmpvdXIgw6AgdG91cywNCj4gDQo+IG5v
+dXMgcmVjcnV0b25zIHVuIHBvc3Rkb2MgYXZlYyB1biBwcm9maWwgZXZvbHV0
+aW9uL2Jpb2luZm8vZ8OpbsOpdGlxdWUgZGVzIHBvcC9leHByZXNzaW9uICh2
+b2lyIGNpIGRlc3NvdXMgZXQgbCdhbm5vbmNlIGh0dHA6Ly9qb2JzLnFtdWwu
+YWMudWsvNDk5NyApDQo+IA0KPiBCaWVuIGNvcmRpYWxlbWVudCwNCj4gDQo+
+IFlhbm5pY2sNCj4gDQo+PiBXZSBhcmUgcmVjcnVpdGluZyBhbiBldm9sdXRp
+b25hcnktbWluZGVkIHBlcnNvbiB3aXRoIHN0cm9uZyBwb3B1bGF0aW9uIGdl
+bm9taWNzIGFuZCBiaW9pbmZvcm1hdGljcyBza2lsbHMgZm9yIGEgMyB5ZWFy
+IHBvc3Rkb2MgcG9zaXRpb24gYW5hbHlzaW5nIGxhcmdlIHBvbGxpbmF0b3Ig
+Z2Vub21pY3MgYW5kIHRyYW5zY3JpcHRvbWljcyBkYXRhc2V0cyB0byBleGFt
+aW5lIHBvbGxpbmF0b3IgaGVhbHRoIGFuZCBpbXBhY3Qgb2YgcGVzdGljaWRl
+cyB1c2luZyBub3ZlbCBtb2xlY3VsYXIgYXBwcm9hY2hlcy4gVGhpcyBpcyBh
+IE5FUkMtZnVuZGVkIHBvc2l0aW9uIGluIGNvbGxhYm9yYXRpb24gd2l0aCBS
+aWNoYXJkIEdpbGwsIE5pZ2VsIFJhaW5lIGFuZCBMYXJzIENoaXR0a2EuDQo+
+PiANCj4+IEZ1bGwgYWQgaXMgb24gUU1VTCdzIEhSIHdlYnNpdGU6DQo+PiAN
+Cj4+ICBodHRwOi8vd3d3LmpvYnMucW11bC5hYy51ay81MjEzDQo+PiANCj4+
+IEFwcGx5IGJ5IE5vdmVtYmVyIDE1dGguIA0KPj4gDQo+PiBQb3RlbnRpYWwg
+YXBwbGljYW50cyBhcmUgZW5jb3VyYWdlZCB0byBzdWJtaXQgYW4gaW5mb3Jt
+YWwgYXBwbGljYXRpb24gKENWIGFuZCBjb3ZlcmluZyBsZXR0ZXIgb3V0bGlu
+aW5nIHlvdXIgc3VpdGFiaWxpdHkgZm9yIHRoZSBwb3NpdGlvbikgdG8gWWFu
+bmljayBXdXJtICh5Lnd1cm1AcW11bC5hYy51aykgYmVmb3JlIHRoZSBmb3Jt
+YWwgZGVhZGxpbmUuDQo+IA0KPiANCj4gLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KPiBZYW5uaWNr
+IFd1cm0gLSBodHRwOi8veWFubmljay5wb3VsZXQub3JnDQo+IEFudHMsIEdl
+bm9tZXMgJiBFdm9sdXRpb24g4ouFIHkud3VybUBxbXVsLmFjLnVrIOKLhSBz
+a3lwZTp5YW5uaWNrd3VybSDii4UgKzQ0IDIwNyA4ODIgMzA0OQ0KPiA1LjAz
+QSBGb2dnIOKLhSBTY2hvb2wgb2YgQmlvbG9naWNhbCAmIENoZW1pY2FsIFNj
+aWVuY2VzIOKLhSBRdWVlbiBNYXJ5LCBVbml2ZXJzaXR5IG9mIExvbmRvbiDi
+i4UgTWlsZSBFbmQgUm9hZCDii4UgRTEgNE5TIExvbmRvbiDii4UgVUsNCj4g
+DQo+IA0KDQo

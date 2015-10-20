@@ -1,0 +1,105 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <magali.michaut@iscb.org>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 65F7026801D
+	for <bioinfo@sfbi.fr>; Thu, 17 Jul 2014 23:39:21 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoIBABZByFPRVdStlGdsb2JhbABZg2BXxAUMhzsEAoEJFg8BAQEBBwsLCRIrhBYGLgEBJROBFAEFATUJCw6IIAQBCKIUaooxhXkBBZImEQYKjx8/giEPRCSBGJskgUyFSIZ/hChBhHZqAQEB
+X-IronPort-AV: E=Sophos;i="5.01,680,1400018400"; 
+   d="scan'208";a="61916783"
+Received: from mail-wi0-f173.google.com ([209.85.212.173])
+  by b-mx1.relay.syrhano.net with ESMTP; 17 Jul 2014 23:39:20 +0200
+Received: by mail-wi0-f173.google.com with SMTP id f8so7489167wiw.6
+        for <bioinfo@sfbi.fr>; Thu, 17 Jul 2014 14:39:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=iscb.org; s=google;
+        h=from:content-type:content-transfer-encoding:subject:message-id:date
+         :to:mime-version;
+        bh=S2JS8fVefZJRcg6cJCUAfN5RTMf9o0SWJ5K4IAYxUHM=;
+        b=bFiAZCbm8E67sBJ1FTRGdhNLFUlUzHpc+aQ5+TZDP1FJLC7x+g8Px5g5sWriuXilol
+         0uS17L6OoUu8dViUqcLdUQ4ZAv0o4TK07U1NJNNvavbx72TeiU72CoJkJtmg9SmJdMsX
+         Khk8VWc7AKX/JSloUhYavBRRuio98xO2IFYxg
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-type:content-transfer-encoding
+         :subject:message-id:date:to:mime-version;
+        bh=S2JS8fVefZJRcg6cJCUAfN5RTMf9o0SWJ5K4IAYxUHM=;
+        b=Brs6grYEHuXQn2BiGqAPiEoJLJbAxMOVIbFJdhLMPq3KvgCyBAYmmPc5iKJmu3sT4X
+         35Ts7WcyXs5ZX4DImX+uSx8Bf1vpGF73vl63Lf9b8WDXGKOprylgYFJ7fXfy81xDs1as
+         xmnY7WjKWUB+3+zeZpQmhC12QBV8u57uMz/y2yV5kwAO0RMYPkEFCkNQImLr+ToE8GnQ
+         F520Vvm//Q0lva2yTTSj1Q7owgaIUcZtapgQFC45jGQyyEyZYwI35U5Yfr1FEcwnSx9Q
+         MTTrUmUkDahPkbEqwe0ADFxwY5zT8MmF56SDLuyQn3ta7scG7fTkWef/YnAiPDMRwAOe
+         NO+g=
+X-Gm-Message-State: ALoCoQnvJiyeit9km5mPxqIec0MatE8ubT0FuD1glIbiyH4adNxiOh8FubXCFduLx4jfRm31s01H
+X-Received: by 10.180.228.104 with SMTP id sh8mr26313605wic.64.1405633159475;
+        Thu, 17 Jul 2014 14:39:19 -0700 (PDT)
+Received: from [192.168.1.75] (sd440512f.adsl.online.nl. [212.64.81.47])
+        by mx.google.com with ESMTPSA id bp9sm148086wib.7.2014.07.17.14.39.18
+        for <bioinfo@sfbi.fr>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 17 Jul 2014 14:39:18 -0700 (PDT)
+From: Magali Michaut <magali.michaut@iscb.org>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <883E95FD-8051-48A0-B097-AB97CA3CE5EE@iscb.org>
+Date: Thu, 17 Jul 2014 23:39:17 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+X-Mailer: Apple Mail (2.1878.6)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Junior PI satellite meeting @ECCB à Strasbourg (jamais 2 sans 3...)
+Bonjour à tous,
+Même si le titre du message était relativement explicite, l'intention n
+'était pas d'envoyer un message vide...  Donc je retente ma chance aujour
+d'hui.. ;-)
+Après le succès de la journée satellite Junior PI que nous avons orga
+nisée à Berlin l'été dernier pour ISMB/ECCB (http://www.ploscompbio
+l.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003350), nous poursuivon
+s avec une journée JPI à Strasbourg le dimanche 7 septembre pour ECCB'1
+4.
+La journée est articulée autour de présentations courtes et de tables
+ rondes pour discuter de tout ce qui touche à la création et la gestion
+ d'un groupe de recherche (recruter, encadrer, trouver des financements, 
+établir des collaborations, etc..). Plus que des réponses, l'idée est
+ que les participants partagent leurs expériences respectives et établi
+ssent des contacts avec des collègues qui sont à une étape similaire 
+de leur carrière.
+Donc n'hésitez pas à faire passer l'information et à vous inscrire av
+ant la fin du mois.
+Cordialement,
+Magali
+Junior PI meeting @ECCB: still time to register!
+** Registration deadline: August 1 **
+Date of the meeting: 7 September 2014
+http://www.eccb14.org/program/satellite-meetings/jpi
+Transitioning from Post-doc to (junior) PI is a major step in the scientifi
+c career ladder bringing new challenges to the scientist. Key among these c
+hallenges is moving from a single project-based responsibility to being res
+ponsible for the projects of students, technicians, and postdocs. On top of
+ this, the researcher is expected to be a successful grant writer, a human 
+resources manager, an engaging speaker, etc.
+In this meeting we aim to bring together scientists who have recently start
+ed or wish to start their own research group. This meeting will serve as a 
+platform for building a community of junior PIs within the broader field of
+ Computational Biology. The meeting will consist of (scientific!) speed-dat
+ing, short presentations and round-table discussions.
+Speakers:
+Sampsa Hautaniemi, University of Helsinki
+Lennart Martens, Ghent University, VIB
+Oliver Kohlbacher, University of T=FCbingen
+Sebastian Schultheiss, Computomics
+Alice C. McHardy, University Duesseldorf (ECCB keynote)
+=00
+Organizers:
+Virginie Bernard, Curie Institute, Paris, France
+Magali Michaut, Netherlands Cancer Institute, Amsterdam, the Netherlands
+Lennart Martens, Ghent University and VIB, Belgium
+Theodore Alexandrov, University of Bremen, Germany; University of Californi
+a San Diego, USA
+Sponsor: F1000 Research
+We hope to see you in France in September!
+COSI JPI: http://cosi.iscb.org/wiki/JPI:Home
+contact: jpicontact@iscb.org
+ISCB COSIs: http://www.iscb.org/iscb-cosis

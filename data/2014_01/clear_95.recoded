@@ -1,0 +1,50 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www-data@sfbi.mti.univ-paris-diderot.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5351926801D
+	for <bioinfo@sfbi.fr>; Wed, 29 Jan 2014 16:37:21 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqYBANof6VLC/j2KnGdsb2JhbABZg0SDVLo2UhYOAQEBAQEICwkJFCiCTxAFESsIDhMRAgUhAhFhiAkJmx2PEZ8+F4EpjHQRAW2CGQ8xgUkEnwOOcoFw
+X-IronPort-AV: E=Sophos;i="4.95,742,1384297200"; 
+   d="scan'208";a="53138715"
+Received: from korolev.univ-paris7.fr ([194.254.61.138])
+  by b-mx1.relay.syrhano.net with ESMTP; 29 Jan 2014 16:37:20 +0100
+Received: from duc.rpbs.univ-paris-diderot.fr (duc.mti.univ-paris-diderot.fr [81.194.29.54])
+	by korolev.univ-paris7.fr (8.14.4/8.14.4/relay1/46573) with ESMTP id s0TFbK4q024888
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Wed, 29 Jan 2014 16:37:20 +0100
+Received: from sfbi.mti.univ-paris-diderot.fr (sfbi.mti.univ-paris-diderot.fr [81.194.29.2])
+          by duc.rpbs.univ-paris-diderot.fr (8.13.7/jtpda-5.4) with SMTP id s0TFbJcx002050
+          for <bioinfo@sfbi.fr>; Wed, 29 Jan 2014 16:37:19 +0100
+Message-Id: <201401291537.s0TFbJcx002050@duc.rpbs.univ-paris-diderot.fr>
+Received: by sfbi.mti.univ-paris-diderot.fr (sSMTP sendmail emulation); Wed, 29 Jan 2014 16:41:57 +0100
+From: "www-data" <www-data@sfbi.mti.univ-paris-diderot.fr>
+Date: Wed, 29 Jan 2014 16:41:57 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 0:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (korolev.univ-paris7.fr [194.254.61.138]); Wed, 29 Jan 2014 16:37:20 +0100 (CET)
+X-Miltered: at korolev with ID 52E92030.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52E92030.001 from duc.mti.univ-paris-diderot.fr/duc.mti.univ-paris-diderot.fr/null/duc.rpbs.univ-paris-diderot.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Score: MSGID : 52E92030.001 on korolev.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] STAGIAIRE INGENIEUR EN BIOINFORMATIQUE (RESISTOME, ONTOLOGY)
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : STAGIAIRE INGENIEUR EN BIOINFORMATIQUE (RESISTOME,  
+ONTOLOGY)
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Marcy L'Etoile
+Nom du contact : Stéphane Schicklin
+Email du contact : stephane.schicklin@biomerieux.com
+Laboratoire : bioMérieux
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/stagiaire-ingenieur-en-bioinformatique-resistome-ontology

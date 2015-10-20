@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 88E7426801D
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 13:00:40 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArUBAKMza1SKZqI0nGdsb2JhbABbg2NZgwaKGoEZAb1ciHEBAQEBAREBAQEBAQgLCQkULoQsEAURMw4kAiYCEiwQJIhBDal6j0uBdIZgh3yGW4EtjnkRAW2CYYFUBYEwtWYBAQEHAQEBAQGCJmyBD4E8AQEB
+X-IPAS-Result: ArUBAKMza1SKZqI0nGdsb2JhbABbg2NZgwaKGoEZAb1ciHEBAQEBAREBAQEBAQgLCQkULoQsEAURMw4kAiYCEiwQJIhBDal6j0uBdIZgh3yGW4EtjnkRAW2CYYFUBYEwtWYBAQEHAQEBAQGCJmyBD4E8AQEB
+X-IronPort-AV: E=Sophos;i="5.07,409,1413237600"; 
+   d="scan'208";a="68402343"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 18 Nov 2014 13:00:40 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sAIC0dBn002268
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 13:00:39 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 57F3B296BA4
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 13:00:39 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XqhUk-0008W1-FV
+	for bioinfo@sfbi.fr; Tue, 18 Nov 2014 13:02:54 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XqhUk-0008W1-FV@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 18 Nov 2014 13:02:54 +0100
+X-Miltered: at beta with ID 546B34E7.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 546B34E7.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 546B34E7.001 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.317 -> S=0.417
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][PR] Bioinformatien(ne) - =?UTF-8?Q?g=C3=A9nomique?= co  mparative
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformatien(ne) - génomique comparative
+Type de poste : PR
+Durée du poste : Indéterminée
+Ville : Paris
+Nom du contact : Dominique Hordé
+Email du contact : cv@inovarion.com
+Laboratoire : Inovarion
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/bioinformatienne-g%C3%A9nomique-comparative

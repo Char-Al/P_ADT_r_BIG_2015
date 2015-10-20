@@ -1,0 +1,83 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <yasmine.chebaro@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 385D726801D
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 12:07:10 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AucBAGKPBFPRVdi1lGdsb2JhbABPCoM+V61zkxYIFg4BAQEBBwsLCRIqgjg0ARsPDwMSEF0BEQEFASITCIdoAQMRDZw9gwqMXoMOlSsKGScNZIcaEQEFDI18gxIPgXoEmDCBMo8FGCmEWTw
+X-IronPort-AV: E=Sophos;i="4.97,505,1389740400"; 
+   d="scan'208";a="54220295"
+Received: from mail-qc0-f181.google.com ([209.85.216.181])
+  by b-mx1.relay.syrhano.net with ESMTP; 19 Feb 2014 12:07:09 +0100
+Received: by mail-qc0-f181.google.com with SMTP id e9so217192qcy.12
+        for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 03:07:06 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=+nmMe5Sa7zmGFLv2EHCQmpV/alvoyjUqgkBee7Gt1xI=;
+        b=f59e6PADoXf1GPTZtBcC1lcUIdYKwxirNnFxzw+SL29fJRyiRqtn7iuEULbAqXzrPx
+         ZyFfttTr25BJczxEQ7Hap0S+Sn/sIV7EPDj0VCHXKCyIaKTt9w6j1QwNDLY1G5epWduV
+         Xq8oVqTzAA8Wlo34ZGeM5VR/mfmC+eRDBqjo+oB9nm6rcMOXNbKUQTlaT7rxYlCqYd/w
+         UsUSAKBmxwMTveA/g0hZ21hFjBAhnh9ODfjB2Ma+J3njhbtHvUdeqHAhZ6FzRrlCKvjM
+         TNmZmLSOBqJjFWSC+4zrjn2nq3Q4IVbE4lPvJ7errYkZ0yNZuBH1qxZGQrfUURXoNxLP
+         Kl4w=
+X-Received: by 10.224.22.3 with SMTP id l3mr155469qab.103.1392808026445; Wed,
+ 19 Feb 2014 03:07:06 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.96.122.6 with HTTP; Wed, 19 Feb 2014 03:06:46 -0800 (PST)
+From: Yasmine Chebaro <yasmine.chebaro@gmail.com>
+Date: Wed, 19 Feb 2014 11:06:46 +0000
+Message-ID: <CAK7sGGCE1+9S7tgcmhV62P40NPg3KnntuH84fNnMv1qvwjWYJg@mail.gmail.com>
+To: bioinfo <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Post-doctoral researcher in cancer epigenomics
+Post-doctoral researcher in cancer epigenomics
+Gronemeyer Team, Institute of Genetics and Molecular and Cellular
+Biology (IGBMC), Illkirch (C.U. de Strasbourg), FRANCE
+A post-doctoral position is open in the Gronemeyer laboratory at IGBMC
+to work in cancer epigenomics using systems biology approaches.
+This project will involve the generation, analysis and integration of
+genome-wide (epi)genomic data from cancer samples(ChIP-seq, exome-seq,
+RNA-seq).
+Qualification
+We are searching for a highly motivated and career-oriented research
+fellow with a high level of independence a PhD degree in molecular and
+cellular biology.
+Candidates must have a solid experience in chromatin biology, systems
+biology and cancer research. Possessing programming skills and
+experience in bioinformatics would be considered an advantage.
+Place of employment and work
+The Institut de Génétique et Biologie Moléculaire et Cellulaire
+(IGBMC) is an international institute with a strong focus on
+biomedical research, offering an exceptional research and cutting-edge
+platforms located in Illkirch, just outside the city of
+Strasbourg. Strasbourg is an international and cosmopolitan city,
+located in the centre of Europe.
+The Gronemeyer team
+We are multi-national team interested in understanding the mechanisms
+and dynamics of signal transduction, epigenetic (de)regulation and
+chromatin structure, which coordinate global gene expression programs
+in normal and cancer cells. We develop
+technologies and global systems biology approaches to identify
+comprehensive RNA profiles, transcription factor binding sites,
+epigenomes and chromatin interactomes from ultra-small sample sizes,
+and use integrative bioinformatics to identify functional gene "hubs"
+and decision points that dynamically coordinate gene programming. Our
+studies involve a plethora of genome-wide technologies and the
+corresponding development of bioinformatics tools.
+Terms of salary and employment
+A 12-month renewable contract will be established. A competitive
+salary commensurate with the experience and qualifications will be
+offered to the successful candidate. Operating language in the
+laboratory is English. Applications including a cover letter,
+curriculum vitae and the names of two referees should be sent by
+February 28th 2014 to: Dr. Irene Yujnovsky at ireneyuj@igbmc.fr
+Information about the institute and the laboratory can be found at:
+http://www.igbmc.fr/research/department/2/team/21/
+Information about the laboratory's bioinformatics expertise:
+http://archive.igbmc.fr/recherche/Prog_FGC/Eq_HGron/bioinfotools.html

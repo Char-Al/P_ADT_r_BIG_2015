@@ -1,0 +1,89 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <eric.fanchon@imag.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 4B15B26801D
+	for <bioinfo@sfbi.fr>; Fri, 21 Nov 2014 11:18:51 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ar8RAPYQb1SBWB4RnGdsb2JhbABBGoNjWYMGikiYB6NcgTtvh0mBHAEBAQEBEQEBAQEBBg0JCRQuhCwPAQURHxA2AgUEEgQHAgsDAgECAVgGAgEBiD0NOKpVj0uXFoEtjAuCbhEBKkOCYYFUBZc1gXqFMoFwhhGHeokQJoFGbIEPgTwBAQE
+X-IPAS-Result: Ar8RAPYQb1SBWB4RnGdsb2JhbABBGoNjWYMGikiYB6NcgTtvh0mBHAEBAQEBEQEBAQEBBg0JCRQuhCwPAQURHxA2AgUEEgQHAgsDAgECAVgGAgEBiD0NOKpVj0uXFoEtjAuCbhEBKkOCYYFUBZc1gXqFMoFwhhGHeokQJoFGbIEPgTwBAQE
+X-IronPort-AV: E=Sophos;i="5.07,429,1413237600"; 
+   d="scan'208";a="77345065"
+Received: from mx2.imag.fr (HELO rominette.imag.fr) ([129.88.30.17])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Nov 2014 11:18:50 +0100
+Received: from globule.imag.fr (globule.imag.fr [129.88.34.238])
+	by rominette.imag.fr (8.13.8/8.13.8) with ESMTP id sALAImAL030938
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 21 Nov 2014 11:18:48 +0100
+Received: from [152.77.241.248] (souchong.imag.fr [152.77.241.248])
+	(authenticated bits=0)
+	by globule.imag.fr (8.13.8/8.13.8) with ESMTP id sALAInTg016624
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 21 Nov 2014 11:18:49 +0100
+Message-ID: <546F12E4.4030909@imag.fr>
+Date: Fri, 21 Nov 2014 11:24:36 +0100
+From: eric fanchon <eric.fanchon@imag.fr>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:31.0) Gecko/20100101 Thunderbird/31.1.1
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.2 (rominette.imag.fr [129.88.30.17]); Fri, 21 Nov 2014 11:18:48 +0100 (CET)
+X-IMAG-MailScanner-Information: Please contact MI2S MIM  for more information
+X-MailScanner-ID: sALAImAL030938
+X-IMAG-MailScanner: Found to be clean
+X-IMAG-MailScanner-SpamCheck: 
+X-IMAG-MailScanner-From: eric.fanchon@imag.fr
+MailScanner-NULL-Check: 1417169928.62291@/JmQnyXQTCAZu2lNL0OCIw
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] international conference 'Perspectives in Environmental and Systems
+ Biology' (Grenoble, France, April 13-15, 2015) - First announcement
+Grenoble, at the heart of the French Alpes, will host an outstanding 
+international scientific event in the field of systems biology: The 
+conference *Perspectives in Environmental and Systems Biology* will 
+bring together more than 150 scientists from all over the world, 
+including biologists, physicians, health professionals, environmental 
+scientists, and specialists in mathematical and computational modeling. 
+The conference is organized by the Grenoble Federal Research Structure 
+Environmental and Systems Biology on the campus of the University 
+Grenoble Alpes *on April 13-15, 2015*.
+*Perspectives in Environmental and Systems Biology* will emphasize the 
+inter- and cross-disciplinary character of systems biology, and 
+integrate contributions of various classical disciplines ranging from 
+molecular and cellular biology to medicine and ecology, informatics and 
+applied mathematics. It will discuss topics such as multi-scale 
+approaches, the analysis of networks, computational modelling, systems 
+biology in medicine, and synthetic biology. More than 25 distinguished 
+scientists have already accepted to present their view of systems biology.
+Retrieve the conference program on the dedicated website: www.beesy2015.com
+***  Invited speakers
+http://beesy2015.com/speakers_sessions.php
+***  Registration
+Preferential rate before December 31st, 2014: Student: 140 € - Regular: 
+280 €
+The price includes coffee breaks and lunches on April 13, 14 and 15.
+Participation at the Welcome Dinner requires separate registration.
+Registration: http://beesy2015.com/registration.php
+***  Abstract Submission
+Posters will be displayed. In addition, 5 abstracts will be selected for 
+short talks.
+All abstracts must be submitted electronically by February 28th, 2015
+http://beesy2015.com/submission_of_abstract.php
+***  Travel award
+The scientific committee will bestow travel awards for students and 
+postdoctoral fellows for attending the conference as presenting author. 
+Each travel award may be used for waiving registration fee and travel 
+costs and will not exceed 500 €. Application can be made when submitting 
+abstract. Advisors are expected to recommend their trainee by detailing 
+his/her excellent achievements in a separate email to the scientific 
+committee (kcucheval@knoe.fr)
+***  Contact
+SOCIETE K’Noë - BEESY 2015
+15 rue Carnot - 94270 Le Kremlin-Bicetre - FRANCE
+Ph: +33 (0)1 56 20 28 28
+Fax: +33 (0)1 56 20 28 29
+Coordination: Kelly Cucheval kcucheval@knoe.fr
+Information & Subscription: contact@beesy2015.com
+Exhibition & Sponsoring: sponsorship@beesy2015.com
+Abstracts: abstracts@beesy2015.com

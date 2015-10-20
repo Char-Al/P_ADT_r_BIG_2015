@@ -1,0 +1,89 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sokol@insa-toulouse.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id B28BB26801D
+	for <bioinfo@sfbi.fr>; Fri, 11 Apr 2014 14:55:14 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnYBAPPlR1PDUwkjnGdsb2JhbABPCoNBg2XCWRYOAQEBAQEICwkJFCiCTxVANgIFFggDAgsDAgECATQkBgIBAYd8miCPHYVZnSGBKYxneYJZgUkEmhWUQA
+X-IronPort-AV: E=Sophos;i="4.97,842,1389740400"; 
+   d="scan'208";a="56919571"
+Received: from frontsmtp1.insa-toulouse.fr ([195.83.9.35])
+  by b-mx1.relay.syrhano.net with ESMTP; 11 Apr 2014 14:55:02 +0200
+Received: from i-mel.insa-toulouse.fr ([195.83.9.6])
+	by frontsmtp1.insa-toulouse.fr with esmtp (Exim 4.69)
+	(envelope-from <sokol@insa-toulouse.fr>)
+	id 1WYayz-0004nX-E6
+	for bioinfo@sfbi.fr; Fri, 11 Apr 2014 14:55:01 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by i-mel.insa-toulouse.fr (Postfix) with ESMTP id 6858CA94FD;
+	Fri, 11 Apr 2014 14:55:01 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at i-mel.insa-toulouse.fr
+Received: from i-mel.insa-toulouse.fr ([127.0.0.1])
+	by localhost (i-mel.insa-toulouse.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id q8h0twUf2ULd; Fri, 11 Apr 2014 14:55:01 +0200 (CEST)
+Received: from gba-03264.insa-toulouse.fr (gba-03264.insa-toulouse.fr [10.20.26.135])
+	(Authenticated sender: sokol@insa-toulouse.fr)
+	by i-mel.insa-toulouse.fr (Postfix) with ESMTPSA id 56DABA73D3;
+	Fri, 11 Apr 2014 14:55:01 +0200 (CEST)
+Message-ID: <5347E625.6050604@insa-toulouse.fr>
+Date: Fri, 11 Apr 2014 14:55:01 +0200
+From: Serguei Sokol <sokol@insa-toulouse.fr>
+Reply-To: sokol@insa-toulouse.fr
+Organization: insa/inra umr 792
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Postdoctoral fellow in systems metabolism
+Voici une offre de postdoc de la part d'un collègue travaillant en Su
+ède.
+  Postdoctoral fellow in systems metabolism
+/We are seeking a bright and highly motivated computational scientist to de
+velop a platform for metabolic flux analysis at Karolinska Institutet, in c
+lose
+collaboration with experimental scientists./
+Our research group (http://www.nilssonlab.se <http://www.nilssonlab.se>) at
+ Karolinska Institutet combines experimental and computational techniques t
+o study
+the metabolism of live human cells. This is a vibrant area of biomedical re
+search, drive by the rise of common metabolic disorders as well as recent d
+iscoveries
+of metabolic derangements in cancer. We are now seeking a postdoc with stro
+ng computational skills to spearhead the development of methods for metabol
+ic flux
+analysis using isotope tracing and mass spectrometry-based metabolomics.
+The project involves fitting experimental data to large mathematical models
+ of metabolic networks to infer the activity of enzymes in the central meta
+bolism, as
+well as rational design of isotope tracing experiments. This work will be d
+one in close collaboration with experimental scientists, aiming to describe
+ in great
+detail the metabolic phenotypes of human cells in health and disease, in pa
+rticular in models of cancer transformation. One goal is to identify enzyme
+s that may
+be of interest as drug targets. The work will also help establish a platfor
+m for metabolic flux analysis that we envision will become a central resour
+ce for
+metabolism research at Karolinska Institutet.
+The candidate should have a strong background in applied mathematics or phy
+sics, especially in network models / graph theory, mathematical statistics,
+ and
+constrained nonlinear optimization. The candidate should also be adept at p
+rogramming numerical algorithms in languages such as C++, Java and MatLab/M
+athematica.
+The Nilsson Lab is part of the Unit for Computational Medicine, a larger in
+itiative aiming to establish systems biology approaches at Karolinska Insti
+tutet, the
+premier biomedical research institute in Sweden. We work in close collabora
+tion with colleagues at the University of California, San Diego (UCSD) and 
+provide a
+vibrant international research environment with members from a dozen differ
+ent countries.
+For more information, please contact:
+Roland Nilsson
+Assistant Professor, Karolinska Institutet
+roland.nilsson@ki.se <mailto:roland.nilsson%40ki.se>

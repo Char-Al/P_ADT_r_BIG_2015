@@ -1,0 +1,125 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Sacha.Loeve@univ-paris1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id EB9EF26801D
+	for <bioinfo@sfbi.fr>; Wed, 28 May 2014 13:51:07 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtQYAGrNhVPBN2ECY2dsb2JhbABZgmUiHzNYiy6vOoc6gQkWAxgLCQkVJ4J/HwcVJxoaPSQRBASIKgMJs0KiYxeNflSCOw9EgTkEmXSBPoUXinqDUYFC
+X-IronPort-AV: E=Sophos;i="4.98,927,1392159600"; 
+   d="scan'208";a="67578794"
+Received: from mx2.univ-paris1.fr ([193.55.97.2])
+  by a-mx1.relay.syrhano.net with ESMTP; 28 May 2014 13:51:06 +0200
+Received: from smtp.univ-paris1.fr (smtp.univ-paris1.fr [IPv6:2001:660:3305::95])
+	by mx2.univ-paris1.fr (8.14.3/8.14.3/Debian-9.4) with ESMTP id s4SBp3Cm029944
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Wed, 28 May 2014 13:51:03 +0200
+Received: from courrier.univ-paris1.fr (courrier.univ-paris1.fr [193.55.96.75])
+	by smtp.univ-paris1.fr (8.14.4/8.14.4/Debian-4) with ESMTP id s4SBp2h5006229;
+	Wed, 28 May 2014 13:51:03 +0200
+Received: from static-176-183-101-71.ncc.abo.bbox.fr
+	(static-176-183-101-71.ncc.abo.bbox.fr [176.183.101.71]) by
+	courrier.univ-paris1.fr (Horde MIME library) with HTTP; Wed, 28 May 2014
+	13:51:02 +0200
+Message-ID: <20140528135102.ftqhhy21oixwowcg@courrier.univ-paris1.fr>
+X-Priority: 3 (Normal)
+Date: Wed, 28 May 2014 13:51:02 +0200
+From: Sacha Loeve <Sacha.Loeve@univ-paris1.fr>
+To: bioinfo@sfbi.fr
+Cc: loevesacha@yahoo.fr
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset=ISO-8859-15;
+	DelSp="Yes";
+	format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+User-Agent: Internet Messaging Program (IMP) H3 (4.1.3)
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (mx2.univ-paris1.fr [IPv6:2001:660:3311:4000::2]); Wed, 28 May 2014 13:51:03 +0200 (CEST)
+X-up1-MailScanner-Information: For more information, visit http://dsi.univ-paris1.fr/messagerie/faq
+X-up1-MailScanner-ID: s4SBp3Cm029944
+X-up1-MailScanner: Found to be clean
+X-up1-MailScanner-From: sacha.loeve@univ-paris1.fr
+X-Spam-Status: No
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Workshop: Worldviews & Values in Synthetic Biology | 6-7 juin 2014
+	| =?ISO-8859-15?Q?Université?= Paris 1
+	=?ISO-8859-15?Q?Panthéon?=-Sorbonne
+** Worldviews and Values in Synthetic Biology **
+Atelier sciences-humanités sur la biologie de synthèse
+Programme détaillé et argumentaire en anglais :
+http://www.synenergene.eu/event/wvvs-worldviews-and-values-synthetic-biolog
+y-paris-workshop
+L'atelier vise à mieux caractériser les divergences entre les
+multiples cultures techno-épistémiques de la biologie synthétique pou
+r
+éclairer le débat éthique et social. En effet, les programmes de
+recherche en biologie de synthèse témoignent d'un haut degré de
+diversité épistémique, regroupant des approches aussi diverses que
+l'ingénierie métabolique, les recherches sur le génome minimal,
+l'abiogenèse, la bio-informatique, l'évolution dirigée, les
+bio-briques, la xénobiologie, la chimie des protocellules, le design
+des protéines et des approches biophysiques. Actuellement, la
+discipline émergente s'efforce de surmonter ses divisions en
+appliquant le principe opportuniste du " whatever works " (" tout ce
+qui fonctionne est bon à prendre ") pour " rendre la vie plus facile 
+à
+transformer en ingénierie " (" making life easier to engineer "). C
+et
+atelier émet l'hypothèse qu'il pourrait s'avérer socialement plus
+pertinent de mettre les divergences et les " incompossibles " en
+valeur, en tension et en dialogue pour enrichir le débat avec les
+sciences humaines et les publics de la technoscience émergente.
+Quel(s) genre(s) de récits moraux et civiques véhiculent les
+différents programmes de recherche en biologie de synthèse ? Outre les
+avantages cognitifs, pratiques et économiques présumés, quelles
+significations culturelles faut-il associer aux différents projets de
+design du vivant ? Peut-on puiser dans la diversité des voies de
+recherche réunies sous l'égide de la biologie de synthèse pour faire
+émerger des alternatives au face-à-face qui oppose " la " biologie
+synthétique, con=E7ue comme un programme monolithique, au " public ",
+con=E7u comme une entité stable et bien définie ?
+Cet atelier est organisé par le CETCOPRA à l'Université Paris 1
+Panthéon-Sorbonne, en partenariat avec l'Institut f=FCr Ethik und
+Geschichte der Medizin de Freiburg Universit=E4t, dans le cadre du
+programme Européen SYNENERGENE (Synthetic Biology: Engaging with New
+and Emerging Science and Technology in Responsible Governance of the
+Science and Society Relationship) (http://synenergene.eu/ ).
+Il se tiendra en Sorbonne, salle Cavaillès (17 rue de la Sorbonne,
+Escalier C, 1er étage), le vendredi 6 juin de 9h15 à 18h00 et le
+samedi 7 Juin de 9h15 à 13h00.
+* Liste des orateurs :
+Geoff Baldwin (Imperial College London), Gregory Batt (INRIA Le
+Chesnay), Mark A. Bedau (Reed College, Portland), Bernadette
+Bensaude-Vincent (Univ. Paris 1 Sorbonne), Jane Calvert (Univ.
+Edinburgh), Franck Delaplace (Univ. Evry), Marc Delcourt (Global
+Bioenergies), Pascal Ducournau (INSERM, Toulouse), Margret Engelhard
+(Europ=E4ische Akademie GmbH), Thomas Heams (AgroParisTech), Sune Holm
+(Univ. Copenhagen), Alfonso Jaramillo (Univ. Warwick), Ludovic Jullien
+(ENS, Paris), Sacha Loeve (Univ. Paris 1 Sorbonne), Sheref Mansy
+(Univ. Trento), Béatrice de Montera (Univ. Cath. Lyon), Martin M=FCller
+(Humboldt Univ. Berlin), Oliver M=FCller (Univ. Freiburg), Denis Pompon
+(INSA, Toulouse), Benjamin Raimbault (AgroParisTech), Winfried R=F6mer
+(Univ. Freiburg).
+Pr. Bernadette Bensaude-Vincent
+CETCOPRA / Université Paris 1 Panthéon - Sorbonne
+Pr. Joachim Boldt
+Institut f=FCr Ethik und Geschichte der Medizin / Freiburg Universit=E4t
+Sacha Loeve, Ph.D.
+CETCOPRA / Université Paris 1 Panthéon - Sorbonne
+Tobias Eichinger, Ph.D.
+Institut f=FCr Ethik und Geschichte der Medizin / Freiburg Universit=E4t
+http://synenergene.eu
+--
+Sacha Loeve
+Postdoc au CETCOPRA
+Centre d'Etude des Techniques, des COnnaissances et des PRAtiques
+Université Paris 1 Panthéon-Sorbonne - EA 2483, UFR 10 Philosophie
+17 rue de la Sorbonne, 75005 Paris
+(33) 01 40 46 28 37
+sacha.loeve@univ-paris1.fr
+--
+Ce message a ete verifie par MailScanner
+pour des virus ou des polluriels et rien de
+suspect n'a ete trouve.

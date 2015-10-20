@@ -1,0 +1,75 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Guy.Perriere@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2171426801D
+	for <bioinfo@sfbi.fr>; Mon, 24 Mar 2014 13:38:31 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvQCAAMmMFOG1rySnGdsb2JhbABZg0GOOq1ViFAWDgEBAQEBCAsJCRQogjiKNw2cRpAkoR+OI3SCGA9ngRQEmXySboE/gWk
+X-IronPort-AV: E=Sophos;i="4.97,720,1389740400"; 
+   d="scan'208";a="55882528"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by b-mx1.relay.syrhano.net with ESMTP; 24 Mar 2014 13:38:30 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 436C8E0108
+	for <bioinfo@sfbi.fr>; Mon, 24 Mar 2014 13:38:30 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WhMUrneKPDb4 for <bioinfo@sfbi.fr>;
+	Mon, 24 Mar 2014 13:38:26 +0100 (CET)
+Received: from kantkino.univ-lyon1.fr (kantkino.univ-lyon1.fr [134.214.34.97])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 17808E0111
+	for <bioinfo@sfbi.fr>; Mon, 24 Mar 2014 13:38:26 +0100 (CET)
+From: Guy_Perrière <Guy.Perriere@univ-lyon1.fr>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 24 Mar 2014 13:38:26 +0100
+Message-Id: <7C51261A-EF40-4AB3-9110-20C8E57C5AC9@univ-lyon1.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1085)
+X-Mailer: Apple Mail (2.1085)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Rappel : Workshop Bioinformatique pour la Génomique Environnementale Lyon 27-28 mai
+Bonjour à tous,
+Je vous rappelle que le workshop "Bioinformatique pour la Génomique Envir
+onnementale", organisé sous l'égide du Réseau Thématique Pluridisci
+plinaire en Génomique Environnementale (RTP-GE) du CNRS, se déroulera 
+à Lyon les 27 et 28 mai 2014. Ce workshop vise à rassembler des cherche
+urs de différents domaines qui utilisent (ou sont désireux d'utiliser) 
+les nouvelles technologies de séquen=E7age ainsi que les développements
+ les plus récents en bioinformatique, ceci dans le but d'étudier des qu
+estions relatives à l'écologie, l'évolution, la biodiversité, la sy
+stématique ainsi que la génomique des populations.
+Les thématiques abordées par ce workshop sont les suivantes :
+- Traitement des données de séquences.
+- Phylogénie et systématique.
+- Estimation de la biodiversité.
+- Diversité génomique et analyse de variants.
+- Métagénomique et métatranscriptomique.
+- Génomique des populations.
+- Reconstruction de génomes.
+- Reconstructions métaboliques.
+- Modélisation.
+Chacune de ces thématiques pourra faire l'objet d'une session à part en
+tière, ceci en fonction du nombre de contributions correspondantes re=E7u
+es. Trente contributions orales et cent contributions affichées seront re
+tenues.
+Nous vous invitons à vous inscrire et à soumettre un résumé pour un
+e communication orale ou affichée. Les procédures relatives à l'inscr
+iption et à la soumission de résumés sont détaillées dans la sect
+ion "Informations pratiques" du site, qui est accessible à l'adresse :
+http://ge-lyon2014.sciencesconf.org/
+La date de cloture des soumissions est fixée au vendredi 18 avril et la d
+ate limite pour les inscriptions est fixée au dimanche 27 avril.
+Notez que la langue officielle du workshop est l'anglais. Compte-tenu des c
+apacités d'accueil limitées à 450 personnes, nous nous réservons le
+ droit de refuser les inscriptions au delà de ce seuil. Les frais d'inscr
+iptions s'élèvent à 60 Euros TTC et incluent les déjeuners, pauses 
+café et le cocktail d=EEnatoire du 27 mai.
+Pour le Comité Scientifique du RTP-GE et le Comité de Programme :
+--
+Guy Perrière - Laboratoire BBE - Université Claude Bernard Lyon 1
+43 bd. du 11 Novembre 1918 - 69622 Villeurbanne Cedex - France
+http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html

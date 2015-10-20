@@ -1,0 +1,92 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <contact-cit@ligue-cancer.net>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 4151926801D
+	for <bioinfo@sfbi.fr>; Wed, 23 Apr 2014 15:03:21 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjQBACS5V1NcZ1+jnGdsb2JhbABZgmVwV8QzIoENDgEBAQEBCBQJPIInBQx/AREEFVYmAQQTCIg6A5xoskMXjXYQAgEeg1yBFQSVdYMAlgaCKw
+X-IronPort-AV: E=Sophos;i="4.97,912,1389740400"; 
+   d="scan'208";a="65711441"
+Received: from smtp.ligue-cancer.net (HELO ligue-cancer.net) ([92.103.95.163])
+  by a-mx1.relay.syrhano.net with ESMTP; 23 Apr 2014 15:03:20 +0200
+Received: from Internal Mail-Server by pineapp (envelope-from
+	contact-cit@ligue-cancer.net) with SMTP; 23 Apr 2014 14:59:54 +0200
+Received: from SV0045.ligue-cancer.net ([fe80::3cd4:7bf9:b1f8:7c9f]) by
+	SV0046.ligue-cancer.net ([::1]) with mapi id 14.03.0174.001; Wed, 23 Apr
+	2014 14:59:54 +0200
+From: contact-cit <contact-cit@ligue-cancer.net>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: =?Windows-1252?Q?CDI_ _Chef_de_Projet_en_analyse_de_données_génomiq?
+	=?Windows-1252?Q?ues?
+Thread-Index: Ac9e894bBIVhjEgyRsiV5m6S+/S/Yw=
+Date: Wed, 23 Apr 2014 12:59:53 +0000
+Message-ID: <78B409AC7843D248931A15286D8688BB794013@SV0045.ligue-cancer.net>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [172.16.2.92]
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CDI =?WINDOWS-1252?Q? ?= Chef de Projet en analyse de =?WINDOWS-1252?Q?données?= =?WINDOWS-1252?Q?génomiques?
+Bonjour,
+La Ligue nationale contre le cancer, Association loi 1901, reconnue d'uti
+lité publique, finance et pilote depuis 2000 un programme national de g
+énomique des cancers appelé " Cartes d'Identité des Tumeurs=AE 
+" (CIT) (http://cit.ligue-cancer.net). Ce programme vise à caractéris
+er, de fa=E7on exhaustive, les anomalies moléculaires par type de cancer 
+(approches multi-omiques) afin de permettre à terme une prise en charge t
+hérapeutique mieux ciblée des patients. A ce jour, le programme CIT inc
+lut une soixantaine de projets concernant plus de 20 types de cancers, avec
+ une collection de plus de 12 000 tumeurs humaines.
+Dans ce contexte, la Ligue recrute un chef de projet en analyse de donnée
+s génomiques. La personne rejoindra l'équipe du programme CIT, locali
+sée au siège de la Ligue (14 rue Corvisart, 75013 Paris) et composée 
+actuellement de 8 personnes. Elle sera encadrée par le responsable de l
+'équipe Biostatistiques.
+Mission :
+Conduire en parallèle l'analyse bioinformatique et biostatistiques de p
+lusieurs projets de recherche comprenant des données d'expression (RNA,
+ miRNA) et de génomique (CGHarray/SNP, méthylome, exome).
+-	Identifier clairement les objectifs scientifiques et cliniques du projet,
+ prendre connaissance de l'état de l'art, évaluer la pertinence du 
+plan d'expérience par rapport aux objectifs du projet afin d'élabor
+er des stratégies d'analyse adaptées.
+-	Réaliser les analyses et participer activement à leur interprétatio
+n en collaboration avec le porteur de projet.
+-	Participer à la rédaction d'articles scientifiques.
+-	Reporter régulièrement l'avancée des projets à la Direction du 
+programme, au cours de réunions d'équipe, et aux comités départem
+entaux de la Ligue (colloque de la recherche de la Ligue, interventions aup
+rès des comités).
+Profil recherché :
+-	Doctorat en biostatistiques/bioinformatique ou biologie moléculaire ave
+c expérience dans l'analyse des données de génomique haut débit (
+microarray, séquen=E7age,=85).
+-	Connaissance impérative de la programmation en R (notamment librairies 
+Bioconductor).
+La priorité sera donnée aux candidats ayant déjà publié un ou plu
+sieurs articles dans une revue à comité de lecture.
+Aptitudes requises :
+-	Go=FBt pour la recherche et la biologie
+-	Capacité à gérer, en parallèle et de fa=E7on autonome, différen
+ts projets
+-	Aptitude à travailler en équipe
+Nature du contrat :
+Statut cadre, salaire attractif, poste à pourvoir immédiatement.
+Contact :
+Merci d'envoyer votre CV comprenant la liste de vos publications et une l
+ettre de motivation à l'adresse suivante : contact-cit@ligue-cancer.net.
+Comme tous les postes de l'association, ce poste est ouvert aux personnes
+ en situation de handicap.
+***************************************************************************
+*********
+This footnote confirms that this email message has been scanned by
+PineApp Mail-SeCure for the presence of malicious code, vandals & computer 
+viruses.
+***************************************************************************
+*********

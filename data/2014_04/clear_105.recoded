@@ -1,0 +1,119 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <yves.rozenholc@parisdescartes.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id EE76126801D
+	for <bioinfo@sfbi.fr>; Tue, 29 Apr 2014 19:22:02 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjMCAJfeX1OyIOQSfmdsb2JhbABZyTCBGhYOAQELCQwIFCiCOBuBVE8VBogSAxWWT6wSDYY0F4kPgymBQIEMgnaBFQSXII59g2mDXoFBgWg
+X-IronPort-AV: E=Sophos;i="4.97,952,1389740400"; 
+   d="scan'208";a="66027647"
+Received: from mo18.mail-out.ovh.net ([178.32.228.18])
+  by a-mx1.relay.syrhano.net with ESMTP; 29 Apr 2014 19:22:02 +0200
+Received: from 23.mail-out.ovh.net (23.mail-out.ovh.net [91.121.28.222])
+	by mo18.mail-out.ovh.net (Postfix) with SMTP id 3F033FFB3D1
+	for <bioinfo@sfbi.fr>; Tue, 29 Apr 2014 19:22:01 +0200 (CEST)
+Received: (qmail 29651 invoked by uid 503); 29 Apr 2014 15:32:49 -0000
+Received: from 172-184-190-109.dsl.ovh.fr (HELO ?192.168.1.70?) (109.190.184.172)
+  by 23.mail-out.ovh.net with SMTP; 29 Apr 2014 15:32:49 -0000
+From: Yves Rozenholc <yves.rozenholc@parisdescartes.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 29 Apr 2014 19:21:58 +0200
+X-Ovh-Mailout: 178.32.228.18 (mo18.mail-out.ovh.net)
+To: bioinfo@sfbi.fr
+Message-Id: <0AB36416-F8F3-44E3-B9A8-BEBDA07A2A80@parisdescartes.fr>
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Ovh-Tracer-Id: 14276410820707126450
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSCORE: 0
+X-VR-SPAMCAUSE: gggruggvucftvghtrhhoucdtuddrfeejvddrvdejucetufdoteggodetrfcurfhrohhfihhlvgemucfqggfjnecuuegrihhlohhuthemuceftddtnecu
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Ecole =?WINDOWS-1252?Q?Thématique"?= Analyse du =?WINDOWS-1252?Q?Génome?= Tumoral =?WINDOWS-1252?Q?"?= - 12 au 15 mai 2014 - =?WINDOWS-1252?Q?Dernière?= annonce
+!!!!! Encore quelques places encore disponibles !!!!!
+######################################################
+Ecole Thématique " Analyse du Génome Tumoral " édition 2014
+######################################################
+COURS
+Guillaume Assié : Génomique des adénomes, hyperplasies et cancers de 
+la corticosurrénale
+Etienne Birmelé : "Statistical and computational approaches for network i
+nference and comparison. Application to regulation perturbation in cancer"
+Valentina Boeva : "Detection of structural and copy number alterations in c
+ancer genomes using different types of sequencing data"
+Christine Bole-Feysot : "Acquisition données NGS 
+Olivier Delattre : "Panorama des études du génome tumoral"
+Eric Letouzé : "Analyse génomique intégrée et signatures molécula
+ires des processus oncogéniques"
+Patrick Nitschké : "Bases de l'analyse de données NGS 
+David Piquemal : "A blood-based RNA signature in Pancreas cancer treatment"
+Tatiana Popova : "Genomic instability in cancer and cancer predispositions"
+Hugues Richard : "Methods for the analysis of transcriptome sequencing data
+. Applications to the characterization of tumoral cells"
+et
+Charles-André Cuénod : "Apport de l'imagerie moderne pour le traitement
+ personnalisé des cancers 
+AFFILIATION
+Guillaume Assié  - Institut Cochin -INSERM U1016-CNRS 8104- Université 
+Paris Descartes; Service d'Endocrinologie de Cochin - APHP
+Etienne Birmelé - MAP5, UMR CNRS 8145 - Université Paris Descartes
+Valentina Boeva - INSERM U900 - Ecoles des Mines - Institut Curie
+Christine Bole-Feysot - Plateforme Bioinformatique - Université Paris Des
+cartes - "  Imagine " Insitut des Maladies Génétiques
+Charles-André Cuénod - INSERM U970 PARCC - LRI - Université Paris Des
+cartes
+Ollivier Delattre - INSERM U830 - CLCC - Institut Curie
+Eric Letouzé - Ligue Nationale Contre le Cancer
+Patrick Nitschké - Plateforme Bioinformatique - Université Paris Descar
+tes - "  Imagine " Insitut des Maladies Génétiques
+David Piquemal - SKULDTECH
+Tatiana Popova - INSERM U830 - Institut Curie
+Hugues Richard - UMR 7238 CNRS "  Biologie Computationnelle et Quantitati
+ve " - Université Pierre et Marie Curie
+#######################################################
+But : Amener une force vive de chercheurs confirmés et de jeunes chercheu
+rs à se rencontrer autour de cours interdisciplinaires dédiés à l
+'analyse du génome tumoral à développer une culture commune engloba
+nt médecine, biologie, bioinformatique et statistique avec pour cette é
+dition, une mise en avant des NGS.
+Déroulement : L'école propose des cours pédagogiques à destination 
+des non spécialistes assurés par les seniors. Le niveau visé est un n
+iveau de master 2 + avec pour but de permettre à chacun d'acquérir un l
+angage commun, une idée des problèmes et une vision des solutions envis
+agées. Les juniors pourront de plus présenter leurs travaux à travers
+ des exposés (20 minutes + 5 minutes de questions) afin de favoriser la d
+iscussion trans-générationnelle et trans-culturelle.
+Cette école est ouverte aux doctorants, post-doctorants et jeunes (enseig
+nants-) chercheurs mais aussi aux étudiants en fin de master motivés pa
+r la thématique.
+Prise en charge (formation, hébergements, repas, transports Paris <-> Par
+is ) est assurée à 100% par :
+=95 CARPEM Cancer Research for Personalized Medicine
+=95 IUH Saint-Louis Institut Universitaire d'Hématologie de Saint-Louis
+=95 PACRI Projet alliance parisienne des instituts de recherche en cancér
+ologie
+=95 SIRIC Institut Curie
+=95 SOCRATE Institut Gustave Roussy
+Dates : 12 au 15 mai 2014
+Lieu : Les Berges de Seine
+          Les Campus Chateauform'
+          1 rte de Beaulieu
+          77240  Seine-Port
+Départ et retour en car à partir de Paris
+Attention : le nombre de places est limité à 40 jeunes chercheurs, il e
+st important de s'inscrire au plus tôt.
+Inscription : genometumoral@gmail.com
+Cette édition 2014 est mise en place sous l'égide du GIRCI Ile-de-Fra
+nce.
+Comité Scientifique : Ivan Bieche - Laboratoire d'Oncogénétique, In
+stitut Curie /  Ludovic Lacroix - Laboratoire de Recherche Translationnelle
+, Institut Gustave Roussy :  Pierre Laurent Puig - INSERM UMR-S1147, HEGP, 
+Paris Descartes / Franck Letourneur - Plateforme de génomique, Institut C
+ochin /  Sandrine Imbeaud - INSERM, UMR U-674, Institut Universitaire d'H
+ématologie, Paris Descartes /  Tatiana Popova - U830, Institut Curie / Yv
+es Rozenholc - MAP5 UMR CNRS 8145, Université Paris Descartes et INRIA Se
+lect.
+Coordinateur Scientifique :  Yves Rozenholc - MAP5 UMR CNRS 8145, Universit
+é Paris Descartes et INRIA Select.

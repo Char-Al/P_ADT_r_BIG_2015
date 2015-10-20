@@ -1,0 +1,93 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mahendra.mariadassou@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 558B026801D
+	for <bioinfo@sfbi.fr>; Fri,  4 Apr 2014 14:25:05 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtsBADmjPlOKZqI0nGdsb2JhbABXg0GDYcI6DgEBAQEBBg0JCRQogkkGFTAQNgIFFgsCCwMCAQIBWAYCAQEQh2UNnUePHKJmF4Epix+BUXWCWYFJBJRvg2yGUY8ggWc
+X-IronPort-AV: E=Sophos;i="4.97,795,1389740400"; 
+   d="scan'208";a="56530698"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Apr 2014 14:25:04 +0200
+Received: from [138.102.22.208] (mig208 [138.102.22.208])
+	(authenticated bits=0)
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s34CP36t018658
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Fri, 4 Apr 2014 14:25:04 +0200 (CEST)
+Message-ID: <533EA49F.9090600@jouy.inra.fr>
+Date: Fri, 04 Apr 2014 14:25:03 +0200
+From: Mahendra Mariadassou <mahendra.mariadassou@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Miltered: at beta with ID 533EA49F.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 533EA49F.000/138.102.22.208/mig208/[138.102.22.208]/<mahendra.mariadassou@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 533EA49F.000 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.010 -> S=0.010
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECCB 2014 metagenomics workshop: calls and,deadlines
+Hello and sorry for cross-posting
+                  Call for abstracts
+------------------------------------------------------------------
+                          ECCB 2014
+Recent computational advances in metagenomics
+------------------------------------------------------------------
+7th September, 2014,
+Strasbourg, France
+Satellite Workshop of ECCB 201
+http://www.eccb14.org/program/workshops/rcam
+IMPORTANT DATES
+---------------
+Submission Deadline (abstract) 11th May,        2014
+Notification                   27th May,      2014
+Workshop Date                  7th September,  2014
+OBJECTIVES
+----------
+This workshop aims at promoting discussions and collaborations between
+biologists (modelers),  computer scientists and applied-mathematicians
+involved in metagenomics and/or metatranscriptomics studies, either in
+the bioinformatics or statistical aspects of such analysis.
+Metagenomics  studies  refer   to  analyses  based  on high-throughput
+sequencing  of environmental samples  and microbial ecosystems. Both
+marker-gene (16S, 18S, ITS,  ...)  and whole-genome strategies will be
+adressed to  cover a wide  array of question ranging  from quantifying
+the  microbial  diversity in  order  to  find  structuring factors to
+assessing the functional role of microbial communities.
+The workshop will provide  an overview of the state-of-the-art methods
+currently used in metaomics including comparative metagenomics and
+metatranscriptomics.  At the  other end  of the  spectrum, case-studies
+will  illustrate  how  these  methods  produce  insightful biological
+knowledge.
+SCOPE
+-----
+The program of this workshop will consist mainly of presentations of
+refereed
+papers (30 minutes) and  invited talks (50 minutes). Contributions are
+welcomed on all aspects  about bioinformatics and statistical analyses
+of metaomics datasets, including, but not limited to:
+* data reduction
+* comparative metaomics
+* models for community assembly
+* informal methods (that could be candidate to formalization),
+* challenges for tackling the complexity of metaomics datasets
+SUBMISSION
+----------
+Please send the abstract to metagenomics-eccb14@jouy.inra.fr
+All submitted abstracts will be peer-reviewed by the program committee.
+Submitted abstracts should not exceed 2 pages including bibliography,
+Abstracts must be written and presented in English. They may describe
+work that has already been published or that is simultaneously
+submitted  to  a  journal,   conference,  or  workshop with refereed
+proceedings.
+ORGANIZERS
+----------
+* Program Co-Chairs:
+   Sophie Schbath                INRA/MIG, Jouy-en-Josas, France
+   Valentin Loux                 INRA/MIG, Jouy-en-Josas, France
+   Mahendra Mariadassou          INRA/MIG, Jouy-en-Josas, France

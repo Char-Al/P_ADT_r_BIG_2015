@@ -1,0 +1,38 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id E501826801D; Wed,  5 Feb 2014 13:46:24 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: valentina.boeva@gmail.com
+Message-ID: <sympa.1391603862.9268.145@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Wed,  5 Feb 2014 13:46:24 +0100 (CET)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Post-doctoral position in high-throughput sequencing analysis =?ISO-8859-1?Q?=93Bayesian?= approach for indel =?ISO-8859-1?Q?detection=94?= 2 years - Institut Curie =?ISO-8859-1?Q?=96?= Paris France
+The laboratory of Dr Emmanuel Barillot Bioinformatics, biostatistics, epidemiology and computational systems biology of cancer offers the following post-doc project: 
+Bayesian approach for indel detection
+High throughput sequencing (HTS) technologies are now widely used in tumor genetics studies. Although the question of detection of mismatch mutations (single nucleotide polymorphisms and mutations, SNPs and SNVs, respectively) present in the main cell population is nearly solved, the accurate identification of small insertions/deletions (indels) is not yet a solved matter.  
+The aim of this post-doc project is to develop new mathematical and computational methods for the prediction of short insertions and deletions in sequencing data from cancer genomes. The post-doctoral fellow will employ the Bayesian approach to detect small sequence variants present in the tumor genome taking into account information about copy number and allelic status of a region, fraction of subclonal cell population and known polymorphisms of the human genome. The developed approach will be later applied to the breast cancer sequencing data generated in Institut Curie with the aim to classify tumors according to the active DNA repair mechanisms and associate this classification with such clinical data as tumor type, aggressiveness and presence of common gene alterations (amplifications of the ERBB2 gene, BRCA1/2 mutations, etc). The post-doctoral fellow will collaborate with computer scientists, biologists and clinicians from Institut Curie. 
+The successful candidate will be based at Institut Curie, Paris, and will work in collaboration with Valentina Boeva and Emmanuel Barillot.
+We offer
+ - 	An opportunity to work on a complex computational problem that has direct implications in the research against cancer 
+ - 	Exceptional scientific environment in computational biology
+ - 	Collaboration with top leading groups in cancer biology 
+ - 	Workplace in the center of Paris, in the immediate vicinity of the Pantheon and the Luxembourg garden
+Required qualifications
+ - 	PhD degree in Bioinformatics, Applied Mathematics or Computer Science
+ - 	Strong computational and mathematical background
+ - 	Excellent knowledge of statistics and theory of probability
+ - 	Motivation to dig deep into mathematical models
+ - 	Good programming skills
+ - 	Good writing and excellent communication skills
+ - 	Theoretical knowledge of cell biology will be a plus but not required
+Starting date: April 1, 2014 or later
+Duration: 2 years (with possible extension)
+Deadline for applications: March 15, 2014
+Contact: valentina.boeva@curie.fr

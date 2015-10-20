@@ -1,0 +1,139 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gtpb-bounces@igc.gulbenkian.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 52C1926801D
+	for <bioinfo@sfbi.fr>; Tue, 21 Oct 2014 12:32:22 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtUDAOo0RlTBiV4FnGdsb2JhbABcg2FNC7kOBpJ9CodNgScBEQEBAQEBCBQJQoQEBgEBQwoXBw4DAQIGAhwPGgMIAwELGAEhFAESBReIJwnDCwEBCAIghiOIF4F1gl8PRIFCBYskiyOED4MDgTE8hXyKOYY1gUQ8LwEBgkkBAQE
+X-IPAS-Result: AtUDAOo0RlTBiV4FnGdsb2JhbABcg2FNC7kOBpJ9CodNgScBEQEBAQEBCBQJQoQEBgEBQwoXBw4DAQIGAhwPGgMIAwELGAEhFAESBReIJwnDCwEBCAIghiOIF4F1gl8PRIFCBYskiyOED4MDgTE8hXyKOYY1gUQ8LwEBgkkBAQE
+X-IronPort-AV: E=Sophos;i="5.04,761,1406584800"; 
+   d="scan'208";a="75243593"
+Received: from igcns.igc.gulbenkian.pt (HELO mx01.igc.gulbenkian.pt) ([193.137.94.5])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Oct 2014 12:32:22 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id 613AD73320;
+	Tue, 21 Oct 2014 11:32:19 +0100 (WEST)
+X-Virus-Scanned: Debian amavisd-new at igcns
+Received: from mx01.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id G9bIBBwot6+0; Tue, 21 Oct 2014 11:32:19 +0100 (WEST)
+Received: from [127.0.1.1] (mx00.igc.gulbenkian.pt [192.168.50.10])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id 26A6173337;
+	Tue, 21 Oct 2014 11:32:18 +0100 (WEST)
+X-Original-To: gtpb@igc.pt
+Delivered-To: gtpb@igc.pt
+Received: from localhost (localhost [127.0.0.1])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 757EA2B60D7;
+	Tue, 21 Oct 2014 11:28:41 +0100 (WEST)
+Received: from mx00.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 2RefG9U751Mw; Tue, 21 Oct 2014 11:28:37 +0100 (WEST)
+Received: from webmail.igc.gulbenkian.pt (webmail.igc.gulbenkian.pt
+	[192.168.50.6])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 6DC062B60D3;
+	Tue, 21 Oct 2014 11:28:37 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by webmail.igc.gulbenkian.pt (Postfix) with ESMTPA id 55C1661F75;
+	Tue, 21 Oct 2014 11:28:34 +0100 (WEST)
+Received: from fw1dmz.igc.gulbenkian.pt (fw1dmz.igc.gulbenkian.pt
+	[192.168.50.3]) by webmail.igc.gulbenkian.pt (Horde Framework) with
+	HTTP; Tue, 21 Oct 2014 11:28:34 +0100
+Message-ID: <20141021112834.105116xfwk8ns66q@webmail.igc.gulbenkian.pt>
+Date: Tue, 21 Oct 2014 11:28:34 +0100
+From: Pedro Fernandes <pfern@igc.gulbenkian.pt>
+To: bicourses <bicourses@igc.gulbenkian.pt>,
+	research <research@igc.gulbenkian.pt>, gtpb <gtpb@igc.pt>
+MIME-Version: 1.0
+Content-Disposition: inline
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.6)
+X-Mailman-Approved-At: Tue, 21 Oct 2014 11:31:13 +0100
+X-BeenThere: gtpb@igc.gulbenkian.pt
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: The Gulbenkian Training Programme in Bioinformatics
+	<gtpb.igc.gulbenkian.pt>
+List-Unsubscribe: <https://lists.igc.gulbenkian.pt/mailman/options/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=unsubscribe>
+List-Archive: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb>
+List-Post: <mailto:gtpb@igc.gulbenkian.pt>
+List-Help: <mailto:gtpb-request@igc.gulbenkian.pt?subject=help>
+List-Subscribe: <https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=subscribe>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="iso-8859-1"; Format="flowed"; DelSp="Yes"
+Sender: gtpb-bounces@igc.gulbenkian.pt
+Errors-To: gtpb-bounces@igc.gulbenkian.pt
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Gtpb] CSDM14 - Chromosome structure determination using modelling
+ and Hi-C data - Bioinformatics Training Course - Announcement/Reminder
+TRAINING COURSE ANNOUNCEMNT/REMINDER
+The training course CSDM14 is open for applications.
+    IMPORTANT DATES for this Course
+    Deadline for applications: November 15th 2014
+    Notification of acceptance within 72 hours of application
+    Course date: November 25th to November 28th 2014
+http://gtpb.igc.gulbenkian.pt/bicourses/CSDM14/
+CSDM14 - Chromosome structure determination using modelling and Hi-C data
+with Marc Marti-Renom, Davide Baù and Fran=E7ois Serra
+Welcome to the world of using Hi-C data -
+http://www.ncbi.nlm.nih.gov/pubmed/22652625 - in the context of
+discovering genome organization.
+Course description
+The sequence of a genome alone does not carry enough information to
+fully understand how genomic processes are carried out in the cell
+nucleus; to achieve this, the knowledge of the three-dimensional (3D)
+architecture of a genome is necessary. Advances in genomic
+technologies and the development of new analytical methods, such as
+3C-based methods, have allowed getting insights at unprecedented
+resolution into how the genome is organized. Recently, it has been
+shown that chromatin is organized in Topologically Associating Domains
+(TADs), large interaction domains that appear to be conserved among
+different cell types. In this course, participants will learn to use
+TADbit, a software for the analysis and modeling of Hi-C data.
+The course will cover all the aspects of modeling with Hi-C data:
+     Generation of Hi-C contact matrices from raw data (that is,
+iterative mapping of the fastq reads to the reference genome, cleaning
+and normalization)
+     Analysis of Hi-C matrices (Hi-C map visualization, TAD
+identification, experiment comparison, and TAD selection)
+     3D modeling and analysis of TADs
+The 3D module of TADbit is based on a computational module of the
+Integrative Modeling Platform (IMP,
+http://www.integrativemodeling.org) that uses chromosome conformation
+capture data to determine the 3D architecture of genomic domains and
+entire genomes at unprecedented resolutions. Participants can bring-in
+specific biological questions and/or their on data to work on during
+the course. At the end of the course, participants will be familiar
+with the TADbit software, enabling them to fully analyze and model
+Hi-C data.
+Target Audience
+The course is oriented to experimental researchers and
+bioinformaticians at the graduate and post-graduate levels. The last
+edition of this course was attended by people with different
+backgrounds and interested in the genome organization.
+Moreover, Hi-C data have recently been used in metagenomics studies to
+accurately cluster metagenome assembly contigs into groups that
+contain nearly complete genomes of each species.
+It is likely that the participants to this course aim at getting
+involved in generating Hi-C data for chromosome structure
+determination or that they just want to be able to correctly interpret
+and analyze publicly available data.
+The Linux and Programming skills are really only recommended, not essential.
+Thank you for your interest
+Pedro Fernandes
+--
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+----- End forwarded message -----
+----- End forwarded message -----
+_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb

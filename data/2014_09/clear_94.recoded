@@ -1,0 +1,87 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <benoukraf@nus.edu.sg>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 53D5C26801D
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 20:20:35 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApMCACD0KlSJhA4am2dsb2JhbABgg2FYA8okh00CgSMBEQEBAQEBBgsLCRQjCYQFBYEHBAEcDgM8FyYBBBuINgQJmR6fAIZfBI4HgTERAR+DZoEdBZ0vmBCBQ4F7OYECAQEB
+X-IPAS-Result: ApMCACD0KlSJhA4am2dsb2JhbABgg2FYA8okh00CgSMBEQEBAQEBBgsLCRQjCYQFBYEHBAEcDgM8FyYBBBuINgQJmR6fAIZfBI4HgTERAR+DZoEdBZ0vmBCBQ4F7OYECAQEB
+X-IronPort-AV: E=Sophos;i="5.04,628,1406584800"; 
+   d="scan'208";a="65319484"
+Received: from exch-out.nus.edu.sg (HELO imsva08.stf.nus.edu.sg) ([137.132.14.26])
+  by b-mx1.relay.syrhano.net with ESMTP; 30 Sep 2014 20:20:09 +0200
+Received: from imsva08.stf.nus.edu.sg (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 0E1A95187E
+	for <bioinfo@sfbi.fr>; Wed,  1 Oct 2014 02:20:07 +0800 (SGT)
+Received: from EDG04.stf.nus.edu.sg (unknown [137.132.14.245])
+	by imsva08.stf.nus.edu.sg (Postfix) with ESMTP id F3FC45184D
+	for <bioinfo@sfbi.fr>; Wed,  1 Oct 2014 02:20:06 +0800 (SGT)
+Received: from CASHT1.stf.nus.edu.sg (172.25.162.70) by EDG04.stf.nus.edu.sg
+ (137.132.14.245) with Microsoft SMTP Server (TLS) id 8.3.279.5; Wed, 1 Oct
+ 2014 02:20:07 +0800
+Received: from MBX01A.stf.nus.edu.sg ([192.168.89.64]) by
+ CASHT1.stf.nus.edu.sg ([192.168.89.44]) with mapi id 14.03.0195.001; Wed, 1
+ Oct 2014 02:20:06 +0800
+From: Touati Benoukraf <benoukraf@nus.edu.sg>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Special Issue On "Epigenomics Analysis in Cellular Models of
+ Biology and Disease"
+Thread-Index: Ac/c2yk3adf/F5GcQemArWdEGAOHEw=
+Date: Tue, 30 Sep 2014 18:20:06 +0000
+Message-ID: <0029351BBD582140884069ADC94BE64A0717E8@MBX01A.stf.nus.edu.sg>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [88.166.152.9]
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-TM-AS-MML: No
+X-TM-AS-Product-Ver: IMSVA-8.2.0.1679-7.5.0.1018-20986.000
+X-TM-AS-Result: No--10.731-7.0-31-10
+X-imss-scan-details: No--10.731-7.0-31-10
+X-TMASE-Version: IMSVA-8.2.0.1679-7.5.1018-20986.000
+X-TMASE-Result: 10--10.731200-5.000000
+X-TMASE-MatchedRID: uGItYgZ9gf1ixZwY2vp78awOh3D3JSTGtmsMcVX5Nwc9wWQKVyZA2wTt
+	kySSj9RQIUM+EI7fOGP7psjgv3jTHMfeJfU5DGcLoiN8YTmq+cu57wrN/2ZIykYx760ONDcWor/
+	wd5k8F57t3bgyFyR/7wzOXOshqdkBWQVfEd1Iunqvdf2B19ItZd4M6hjzPoNPj3HdoxACYO2/6/
+	cyCTWmI9FnRSABGmDWF/oWw1OGcevk6hzGVYJqnOBKa0pUJhagyTFXR0Y1Ln2+6JnPcppb6UZqp
+	KN3I/kCt3/JiT2URUY7UR1sKCJPqI+DsYOTny83Jhb388hdoo/+paX6bXuNYcXt25YNeIUS9ZH6
+	JEQc3atY+XGpfmaXLMKM4aDBoverypAJNJ1YLhvmqFqd3TBAA8DyPNek9e/amyiLZetSf8kq09C
+	cMmQaRyq2rl3dzGQ1mU6Z6L6zWZTdN1Y0QArr4jP7qhyayXKy7e8lwPr6I6sdLbPddYWABA=
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Special Issue On "Epigenomics Analysis in Cellular Models of
+ Biology and Disease"
+Dear colleagues,
+Let me kindly inform you that BioMed Research International is now welcomin
+g the submission of original research works as well as review articles on "
+Epigenomics Analysis in Cellular Models of Biology and Disease . More inf
+ormation can be found here: http://www.hindawi.com/journals/bmri/si/420450/
+cfp/ .
+BioMed Research International (BMRI) is an open access journal, which means
+ that all published articles are made freely available online without a sub
+scription, and authors retain the copyright of their work. Moreover, all pu
+blished articles will be made available on PubMed Central and indexed in Pu
+bMed at the time of publication. The most recent Impact Factor for BioMed R
+esearch International is 2.706 according to Journal Citation Reports releas
+ed by Thomson Reuters (ISI).
+Manuscript Due: Friday, 20 March 2015
+First Round of Reviews: Friday, 12 June 2015
+Publication Date: Friday, 7 August 2015
+Best regards,
+---
+Touati BENOUKRAF, PhD
+Cancer Science Institute Singapore
+National University of Singapore
+Centre for Translational Medicine
+14 Medical Drive, #12-01
+Singapore 117599
+Office phone: (+65) 6516 1025 :: Fax: (+65) 6873 9664
+________________________________
+Important: This email is confidential and may be privileged. If you are not
+ the intended recipient, please delete it and notify us immediately; you sh
+ould not copy or use it for any purpose, nor disclose its contents to any o
+ther person. Thank you.

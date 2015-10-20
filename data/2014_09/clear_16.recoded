@@ -1,0 +1,48 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id AB53226801D; Fri,  5 Sep 2014 14:33:32 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: bdartigues@yahoo.fr
+Message-ID: <sympa.1409920348.5244.971@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri,  5 Sep 2014 14:33:32 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [bioinfo] Formation Bioinformatique - Analyse avancée de séquences
+Bonjour,
+Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation en Bio-informatique intitulée : "Analyse avancée de séquences" à Bordeaux sur 2 jours (du 6 au 7 novembre 2014):
+Adresse:
+Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle à Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex). Ce campus est situé à proximité du CHU Pellegrin.
+Objectifs:
+1. Maitriser les stratégies et les outils d'annotation de séquences bactériennes
+2. Pouvoir prédire de novo les gènes bactériens
+3. Savoir annoter des ARNs
+4. Maitriser les outils de phylogénie, savoir comment les paramétrer, pouvoir analyser les résultats de logiciels de phylogénie
+Prérequis:
+Avoir suivi la formation "Bioinformatique : initiation" (Réf. 14227, ce catalogue) ou niveau équivalent 
+Programme:
+Jour 1
+Comment annoter un contig avec les outils en ligne, présentation de la stratégie et des outils en ligne pour le faire. L'exemple traité en formation sera celui de génomes bactériens.
+- Les prédicteurs de gènes
+- A partir des CDS, les traduire puis les annoter : blastp ou blastx
+- Recherche de motifs et domaines
+- Environnement pour annoter, allant de la prédiction, à la visualisation de résultats, saisie des annotations et genome browser
+Jour 2
+Les stagiaires vont acquérir des connaissances en phylogénie afin de pouvoir faire le choix, le paramétrage et l'analyse des résultats des programmes de phylogénie.
+- Introduction à la phylogénie et méthodes de reconstruction phylogénétique
+- Orthologues / paralogues
+- Détection de transfert horizontal bactérien
+Cette formation alterne les cours et les TP (50-50 %)
+1 intervenant par sous-groupe de 5 personnes pour les TP 
+Cette formation vise les personnes souhaitant développer des analyses bioinformatique à partir de logiciels en ligne. elle s'adresse aussi bien aux ingénieurs ou chercheurs qu'aux biologistes de formation.
+Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous:
+https://cnrsformation.cnrs.fr/stage.php?stage=14228&axe=62
+Pour toute information complémentaire (public visé, niveau, cout, ...), merci de contacter:
+- Aurélien Barré (aurelien.barre@u-bordeaux.fr)
+- Raluca Uricaru (ruricaru@labri.fr)
+- Benjamin Dartigues (benjamin.dartigues@u-bordeaux.fr) 

@@ -1,0 +1,66 @@
+Return-Path: <Laurent.Mouchard@univ-rouen.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 444B026801D
+	for <bioinfo@sfbi.fr>; Wed, 16 Apr 2014 14:06:57 +0200 (CEST)
+X-IronPort-AV: E=Sophos;i="4.97,872,1389740400"; 
+   d="scan'208";a="65353674"
+Received: from smtp-out-1.univ-rouen.fr (HELO mailhoc.univ-rouen.fr) ([193.52.152.96])
+  by a-mx1.relay.syrhano.net with ESMTP; 16 Apr 2014 14:06:56 +0200
+Received: from [137.73.9.227] (px227.dcs.kcl.ac.uk [137.73.9.227])
+	(using TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mailhoc.univ-rouen.fr (Postfix) with ESMTPSA id A3AA931C
+	for <bioinfo@sfbi.fr>; Wed, 16 Apr 2014 14:06:56 +0200 (CEST)
+Message-ID: <534E7260.3030103@univ-rouen.fr>
+Date: Wed, 16 Apr 2014 14:06:56 +0200
+From: Laurent Mouchard <Laurent.Mouchard@univ-rouen.fr>
+Organization: University of Rouen, France
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <F99C317A-CA82-4E32-8072-194472185470@igr.fr>
+In-Reply-To: <F99C317A-CA82-4E32-8072-194472185470@igr.fr>
+X-Forwarded-Message-Id: <F99C317A-CA82-4E32-8072-194472185470@igr.fr>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+Subject: [bioinfo] Offre de poste :Bio-informaticien/Informaticien(e) Base de =?WINDOWS-1252?Q?donn=E9es?=
+De la part de Jean Loup Huret
+=-=-=
+Intitulé du poste : Bio-informaticien/Informaticien(e) Base de données
+Au sein d'une Base de données/Encyclopédie de Génétique des Cancers
+sur Internet en anglais (45 000 pages dont 9 000 pages de journal scientifique écrites
+par 2 700 auteurs, et 34 000 pages de base de données, 1 million de visites par an
+  à travers le monde)
+Lieu de travail
+Paris
+Missions
+      1- Travail de développeur sur une base de données hybride utilisant les concepts
+         de meta object facilities (MOF) dans une base de données relationnelle en
+         environnement Microsoft avec ISS 7 sur un Windows Server 2008 R2 et avec SQL
+         serveur 2008 R2.
+      2- Travail de développeur en bio-informatique pour l'intégration de
+         nouvelles fonctionnaliés.
+Activités principales
+         Finaliser une base de données existante.
+         Maintenir cette base de données, permettre des évolutions et les conduire.
+         Participer aux développements bio-informatiques.
+Niveau de diplôme requis
+         bac+5 de Biologie/Informatique (diplôme Master 2 avec double compétence).
+Connaissances requises
+         Connaissance des bases de données.
+         Connaissances en bio-informatique.
+         Connaissances générales en biologie et génétique humaine.
+         Anglais lu et écrit exigé.
+Compétences requises
+         En architecture des bases de données.
+Qualités professionnelles
+         Capacité d'écoute et compréhension des besoins des biologistes.
+         Rigueur mathématique.
+         Disposition au travail d'équipe.
+         Autonomie.
+         Enthousiasme.
+         Curiosité intellectuelle (ouverture d'esprit).
+Contacter
+         Jean Loup HURET jean-loup.huret@chu-poitiers.fr double à: jlhuret@univ-poitiers.fr

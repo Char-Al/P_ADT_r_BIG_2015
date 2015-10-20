@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 309C626801D
+	for <bioinfo@sfbi.fr>; Sat, 22 Nov 2014 22:26:48 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsQBADX/cFSKZqI0nGdsb2JhbABcg2NZgwaLBgG+GIgAAQEBAQERAQEBAQEICwkJFC6ELBAFESsIDiQCHwcCEiwQJIhBDac0j06Bc4Y8h3uGPYEtjnwRAW2CY4FVBYEvtjUBAQgBAQEBYYFGd4EPgTwBAQE
+X-IPAS-Result: AsQBADX/cFSKZqI0nGdsb2JhbABcg2NZgwaLBgG+GIgAAQEBAQERAQEBAQEICwkJFC6ELBAFESsIDiQCHwcCEiwQJIhBDac0j06Bc4Y8h3uGPYEtjnwRAW2CY4FVBYEvtjUBAQgBAQEBYYFGd4EPgTwBAQE
+X-IronPort-AV: E=Sophos;i="5.07,438,1413237600"; 
+   d="scan'208";a="68747915"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 22 Nov 2014 22:26:46 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sAMLQk3S029444
+	for <bioinfo@sfbi.fr>; Sat, 22 Nov 2014 22:26:46 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 2C4D6296BA4
+	for <bioinfo@sfbi.fr>; Sat, 22 Nov 2014 22:26:46 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XsIEo-0002Py-Qp
+	for bioinfo@sfbi.fr; Sat, 22 Nov 2014 22:29:02 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XsIEo-0002Py-Qp@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Sat, 22 Nov 2014 22:29:02 +0100
+X-Miltered: at beta with ID 5470FF96.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5470FF96.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5470FF96.000 on beta.jouy.inra.fr : j-chkmail score : XXX : R=. U=. O=# B=0.334 -> S=0.436
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] =?UTF-8?Q?D=C3=A9veloppement?= =?UTF-8?Q?d=E2=80=99un?= module Dr  upal pour la gestion des =?UTF-8?Q?donn=C3=A9es?= de =?UTF-8?Q?g=C3=A9nomes?= d  e plantes
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Développement d’un module Drupal pour la gestion des  
+données de génomes de plantes
+Type de poste : Stage
+Durée du poste : 3 mois (ou +)
+Ville : Montpellier
+Nom du contact : Valentin Guignon
+Email du contact : v.guignon@cgiar.org
+Laboratoire : Bioversity International
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/d%C3%A9veloppement-d%E2%80%99un-module-drupal-pour-la-gestion-des-donn%C3%A9es-de-g%C3%A9nomes-de-plantes

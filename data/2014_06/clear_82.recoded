@@ -1,0 +1,86 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <auguste.genovesio@ens.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 5B4CA26801D
+	for <bioinfo@sfbi.fr>; Tue, 24 Jun 2014 14:05:20 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlIBAG5oqVOBx2AonGdsb2JhbABahybCGhYPAQEBAQEICwkJFCiELQ8BBXYCBSECEQJZBgIBARGILZZ7jyOdfBeBKo1vgmGBTAWWPYsSjm2BRA
+X-IronPort-AV: E=Sophos;i="5.01,537,1400018400"; 
+   d="scan'208";a="69051599"
+Received: from nef2.ens.fr ([129.199.96.40])
+  by a-mx1.relay.syrhano.net with ESMTP; 24 Jun 2014 14:05:16 +0200
+Received: from biologie.ens.fr (milda.ens.fr [129.199.18.219])
+          by nef2.ens.fr (8.13.6/1.01.28121999) with ESMTP id s5OC5GI0020003
+          for <bioinfo@sfbi.fr>; Tue, 24 Jun 2014 14:05:16 +0200 (CEST)
+X-Envelope-To: <bioinfo@sfbi.fr>
+Received: from localhost (av3.biologie.ens.fr [129.199.21.124])
+	by biologie.ens.fr (Postfix) with ESMTP id 2956535B
+	for <bioinfo@sfbi.fr>; Tue, 24 Jun 2014 14:05:16 +0200 (CEST)
+X-Virus-Scanned: spam & virus filtering at av3.ens.fr
+X-Spam-Flag: NO
+X-Spam-Score: -10.91
+X-Spam-Level: 
+X-Spam-Status: No, score=-10.91 tagged_above=-9999 required=5
+	tests=[ALL_TRUSTED=-1, AUTHD_RELAY=-8, BAYES_00=-1.9,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from biologie.ens.fr ([IPv6:::ffff:129.199.18.219])
+	by localhost (av3.biologie.ens.fr [::ffff:129.199.21.124]) (amavisd-new, port 10024)
+	with ESMTP id cjOPrUikzbts for <bioinfo@sfbi.fr>;
+	Tue, 24 Jun 2014 14:05:15 +0200 (CEST)
+Received: from [127.0.0.1] (biocpc02.ens.fr [129.199.18.86])
+	(using TLSv1 with cipher ECDHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	(Authenticated sender: agenoves)
+	by biologie.ens.fr (Postfix) with ESMTPSA id 99C9B85D
+	for <bioinfo@sfbi.fr>; Tue, 24 Jun 2014 14:05:15 +0200 (CEST)
+Message-ID: <53A96977.20102@ens.fr>
+Date: Tue, 24 Jun 2014 14:05:11 +0200
+From: Auguste Genovesio <auguste.genovesio@ens.fr>
+Organization: Ecole Normale Superieure
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.4.3 (nef2.ens.fr [129.199.96.32]); Tue, 24 Jun 2014 14:05:16 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoc/Research Engineer Image Analysis Position Available at Ecole
+ Normale Superieure
+High Throughput Image and Data analysis of cell division orientation
+The Computational Biology & Bioinformatic Platform and the Cell Division 
+and Neurogenesis group (Institut of Biology of Ecole Normale Supérieure) 
+are jointly seeking for a highly motivated post-doctoral researcher or 
+research engineer in image and data analysis.
+The overall goal of this interdisciplinary project is to study the 
+molecular regulation of mitotic spindle orientation in vertebrate cells, 
+with a focus on the Gαi/LGN/NuMA molecular pathway. The lab has set-up a 
+standardized spindle orientation assay in cultured cells in vitro, in 
+order to perform a live RNAi screen for new modulators and effectors of 
+this core pathway. The work will mainly consist in developing a system 
+to perform analysis of thousands of image sequences of cell division 
+generated in the live screen in a fully automated fashion.
+The candidate should hold a PhD degree in computer science and have a 
+good background in image and data analysis (although candidates with a 
+master degree showing promising ability will definitely be interviewed 
+and should not hesitate to apply). A previous experience in a 
+collaborative environment such as a research Institute in Biology would 
+be considered a plus. The candidate should also have a good background 
+in applied mathematics/statistics, a good English level and a perfect 
+knowledge of a programming language such as Python, Java or R.
+The call will close on July 15, 2014. Future candidates will be selected 
+and notified for an interview between July 15th and 31st, 2014. The 
+starting date is October 2014. The position, funded by the Agence 
+Nationale de la Recherche, is initially available for one year, with the 
+possibility of further extension.
+Applicants should send a CV, a motivation letter and contact details of 
+2 references to:
+Auguste Genovesio, auguste.genovesio@ens.fr, Tel : 33 1 44 32 23 54 or
+Xavier Morin, xavier.morin@ens.fr Tel: +33 1 44 32 37 29
+Recent selected references
+- Neuron, 2014, 81(3):505
+- PLoS One. 2013;8(2)
+- Developmental Cell, 2011, 21(1):102
+- The Journal of Cell Biology, 2011. 193(1):141
+- J Biomol Screen. 2011 Oct;16(9)

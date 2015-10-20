@@ -1,0 +1,78 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <cgaspin@toulouse.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id DDD3526801D
+	for <bioinfo@sfbi.fr>; Fri, 28 Mar 2014 09:33:59 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtgBABkzNVOTY2tznGdsb2JhbABZg0HDRIEwDgEBAQEBCAsJCRQogiYBAQQyATUQEQshFg8JAwIBAgFFEwYCAQGHdQ3RVReOGREBVxaEIgSaAIUajxmBcQ
+X-IronPort-AV: E=Sophos;i="4.97,749,1389740400"; 
+   d="scan'208";a="64251577"
+Received: from mx.toulouse.inra.fr (HELO yang.toulouse.inra.fr) ([147.99.107.115])
+  by a-mx1.relay.syrhano.net with ESMTP; 28 Mar 2014 09:33:59 +0100
+Received: from [147.99.96.105] (bardamina.toulouse.inra.fr [147.99.96.105])
+	by yang.toulouse.inra.fr (/8.14.4) with ESMTP id s2S8XuTJ027623
+	for <bioinfo@sfbi.fr>; Fri, 28 Mar 2014 09:33:56 +0100 (CET)
+Message-ID: <533533F4.5060606@toulouse.inra.fr>
+Date: Fri, 28 Mar 2014 09:33:56 +0100
+From: Christine Gaspin <cgaspin@toulouse.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:17.0) Gecko/20130308 Thunderbird/17.0.4
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <533531AE.80900@toulouse.inra.fr>
+In-Reply-To: <533531AE.80900@toulouse.inra.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: 8bit
+X-Miltered: at yang with ID 533533F4.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 533533F4.000/147.99.96.105/bardamina.toulouse.inra.fr/[147.99.96.105]/<cgaspin@toulouse.inra.fr>
+X-j-chkmail-Score: MSGID : 533533F4.000 on yang.toulouse.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.017 -> S=0.017
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at yang
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Re: Colloque "Biologie de =?WINDOWS-1252?Q?Synth=E8se?= et la Biologie des =?WINDOWS-1252?Q?Syst=E8mes?=" =?WINDOWS-1252?Q?=E0?= Toulouse
+Cher(e) Collègue,
+Nous organisons un Colloque à Toulouse dont l'objectif est de faire un
+point sur les deux disciplines que sont la Biologie de Synthèse et la
+Biologie des Systèmes. Ce colloque s'appellera BioSynSys et se déroulera
+sur le site de l'INSA Toulouse, les 2, 3 et 4 Juillet 2014. Vous
+trouverez en pièce jointe l'affiche du colloque que je vous demande de
+partager autour de vous. Nous avons mis en place un site Web
+(http://biosynsys2014.sciencesconf.org/) qui donne des détails sur le
+colloque et permet également de vous y inscrire. Ce site vous permettra
+de déposer une demande pour un poster et d'entrer votre résumé. Il vous
+permettra enfin de procéder au paiement de l'inscription, par carte
+bleue ou par bon de commande. Il sera remis à jour régulièrement pour
+donner des informations supplémentaires. Le montant de l'inscription est
+de 220  euros  HT. Le comité scientifique du colloque est actuellement en
+train de décider des intervenants qui seront invités à donner une
+conférence.
+Le colloque se déroulera sous formes de plusieurs sessions dont vous
+trouverez ci-dessous les intitulés et les modérateurs.
+- Jean-Loup Faulon : Ingénierie des réseaux biologiques et de leur
+régulation
+- Gilles Truan : Ingénierie des protéines et des biocatalyseurs
+- Philippe Soucaille : Ingénierie métabolique
+- Alain Blanchard : Ingénierie des génomes
+- Philippe Marlière : Biologie orthogonale, nanotechnologies,
+intégration vivant/non-vivant
+- Vincent Fromion : Mathématique et modélisation de phénomènes biologiques
+- Philippe Noirot : Biologie intégrative
+- Thierry Magnin : Ethique et nouveaux enjeux de la Biologie de synthèse
+Pouvez-vous diffuser cette annonce le plus largement possible?
+En vous remerciant et en souhaitant vous rencontrer bientôt à Toulouse,
+Cordialement,
+Pour le comité d'organisation,
+Gilles Truan
+-- 
+------------------------------------------------------
+Christine GASPIN
+INRA, UBIA & PF GenoToul Bioinfo
+Chemin de Borde Rouge
+BP52 627
+31326 Castanet Tolosan cedex
+Tel : 33 (0) 5 61 28 52 82
+Fax : 33 (0) 5 61 28 53 35
+email : Christine.Gaspin@toulouse.inra.fr
+------------------------------------------------------

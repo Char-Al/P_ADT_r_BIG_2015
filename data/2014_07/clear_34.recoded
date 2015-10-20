@@ -1,0 +1,92 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <aurelie.siberchicot@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 69F4C26801D
+	for <bioinfo@sfbi.fr>; Fri, 11 Jul 2014 14:48:19 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvEAAODbv1OG1rySnGdsb2JhbABZzG8BgQwWDwEBAQEBCAsJCRQohAQBBQwmAQU8FSwWDwkDAgECAUUTBgIBAYg+xnsXj02EQwWiF5BP
+X-IronPort-AV: E=Sophos;i="5.01,643,1400018400"; 
+   d="scan'208";a="70054313"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by a-mx1.relay.syrhano.net with ESMTP; 11 Jul 2014 14:48:19 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 7BE06E0215
+	for <bioinfo@sfbi.fr>; Fri, 11 Jul 2014 14:48:18 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id my+Bs83S7J7k for <bioinfo@sfbi.fr>;
+	Fri, 11 Jul 2014 14:48:13 +0200 (CEST)
+Received: from [134.214.32.47] (umr5558-etum2-vieira.univ-lyon1.fr [134.214.32.47])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id BCA08E0217
+	for <bioinfo@sfbi.fr>; Fri, 11 Jul 2014 14:48:13 +0200 (CEST)
+Message-ID: <53BFDD0D.6090904@univ-lyon1.fr>
+Date: Fri, 11 Jul 2014 14:48:13 +0200
+From: =?windows-1252?Q?Aur=E9lie_Siberchicot?= <aurelie.siberchicot@univ-lyon1.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <53BFDC84.2000101@univ-lyon1.fr>
+In-Reply-To: <53BFDC84.2000101@univ-lyon1.fr>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Stage M2 =?WINDOWS-1252?Q?Mod=E9lisation?= du Masting - Lyon
+Stage de M2 Recherche (2014-2015), Lyon
+Sujet : Le devenir du masting dans le contexte du changement climatique
+Le masting, caractérisé par des fructifications massives, intermittentes 
+et synchronisées à l'échelle d'une population d'arbres, est une tactique 
+de reproduction très répandue en milieu tempéré dans de nombreux groupes 
+taxonomiques de plantes. Par les fortes fluctuations spatio-temporelles 
+des fructifications qui lui sont associées, le masting est susceptible 
+d'impacter fortement la démographie et l'évolution des espèces 
+consommant cette ressource et, en cascade, la dynamique des communautés 
+forestières. Cependant, les mécanismes proximaux qui sous-tendent le 
+masting sont encore mal compris. Compte tenu des changements climatiques 
+attendus, cette méconnaissance rend impossible toute prédiction relative 
+aux variations d'intensité du masting et à leurs conséquences sur la 
+dynamique de la biodiversité qui lui est associée.
+Le sujet de M2 sera centré sur le chêne, espèce emblématique du masting, 
+qui présente un intérêt à la fois écologique et économique majeur. Il 
+s'inscrit dans un programme de recherche financé par le Ministère en 
+charge de l'écologie (programme Biodiversité et Gestion Forestière) et 
+qui bénéficiera de la collaboration entre le Laboratoire de Biométrie et 
+Biologie Evolutive (UMR CNRS 5558), le laboratoire BioGeCo (UMR INRA, 
+Univ Bordeaux), l'Office National des Forêts (ONF) et l'Office National 
+de la Chasse et de la Faune Sauvage (ONCFS). Ce programme vise à 
+construire des scénarii sur le devenir du masting du chêne et de la 
+biodiversité associée dans le contexte du changement climatique. L'une 
+de nos hypothèses de base est que les patrons de fructification des 
+chênes résultent à la fois de processus endogènes à l'arbre (dynamique 
+énergétique) et du succès de pollinisation qui pourrait être extrêmement 
+sensible à des conditions climatiques qui restent à identifier.
+Dans ce programme, le sujet de M2 visera (1) à étudier l'impact des 
+conditions climatiques sur le succès des émissions polliniques du chêne 
+(analyse croisée de jeu de données polliniques et météorologiques) (2) à 
+construire un modèle mécaniste du masting permettant d'intégrer l'impact 
+des conditions climatiques d'intérêt sur le processus de pollinisation 
+et de proposer des scénarii relatif au masting dans le contexte du 
+changement climatique.
+Durée : 6 mois
+Lieu du stage /établissement : Laboratoire de Biométrie et Biologie 
+Evolutive, Université Lyon1
+Master 2R de rattachement possible : « Ecologie, Génomique, Evolution, 
+Biométrie », Lyon1 ou autre Master
+Encadrement : Samuel Venner, Laboratoire de Biométrie et Biologie 
+Evolutive Lyon1 (LBBE)
+Collaboration : Jean-Michel Gaillard, David Fouchet, Aurélie 
+Siberchicot, Stéphane Dray (LBBE), Sylvain Delzon (BioGeco, Bordeaux), 
+Stefano Focardi (CNR, Italie)
+Profil recherché : des bases en programmation informatique et/ou 
+analyses statistiques seront appréciées
+Contacts : samuel.venner@univ-lyon1.fr
+-- 
+Aurélie SIBERCHICOT
+Ingénieur d'Etudes Statistiques
+04 72 44 85 98 - aurelie.siberchicot@univ-lyon1.fr
+Laboratoire Biométrie et Biologie Evolutive - UMR CNRS 5558
+Université Claude Bernard - Lyon 1
+Bâtiment Grégor Mendel, 43 boulevard du 11 novembre 1918
+69622 Villeurbanne cedex

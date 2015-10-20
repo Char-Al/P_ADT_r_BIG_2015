@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 4A8CB26801D
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 22:21:22 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsABADMDElSKZqI0h2dsb2JhbABgg2BXAYJ7xVWIcxABAQEIDQkHFiqELRAFETMOJAImAhIsECSIQg2ZJY80gXSNKoZNgSyNPxEBbYJjgVMFgS60cWqBD4FAAQEB
+X-IPAS-Result: AsABADMDElSKZqI0h2dsb2JhbABgg2BXAYJ7xVWIcxABAQEIDQkHFiqELRAFETMOJAImAhIsECSIQg2ZJY80gXSNKoZNgSyNPxEBbYJjgVMFgS60cWqBD4FAAQEB
+X-IronPort-AV: E=Sophos;i="5.04,507,1406584800"; 
+   d="scan'208";a="72729575"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 11 Sep 2014 22:21:22 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s8BKLK8M002810
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 22:21:20 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id C767B296B97
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 22:21:20 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XSAtb-000EU6-0i
+	for bioinfo@sfbi.fr; Thu, 11 Sep 2014 22:23:11 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XSAtb-000EU6-0i@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 11 Sep 2014 22:23:11 +0200
+X-Miltered: at alpha with ID 54120440.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54120440.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54120440.000 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.253 -> S=0.342
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?Ing=C3=A9nieur?= administrat  eur =?UTF-8?Q?syst=C3=A8me?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur administrateur système
+Type de poste : CDD Ingénieur
+Durée du poste : 18 mois
+Ville : Gif-sur-Yvette
+Nom du contact : Gibrat Jean-François
+Email du contact : jean-francois.gibrat@france-bioinformatique.fr
+Laboratoire : UMS3601 - IFB-core
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/ing%C3%A9nieur-administrateur-syst%C3%A8me-0

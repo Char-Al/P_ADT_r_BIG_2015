@@ -1,0 +1,38 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 7F41C26801D; Fri,  7 Feb 2014 18:34:53 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: Valentina Boeva <valentina.boeva@gmail.com>
+Message-ID: <sympa.1391794452.2451.902@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri,  7 Feb 2014 18:34:53 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] PhD project in methodology for RNA sequencing data analysis in cancer
+The laboratory of Dr Emmanuel Barillot Bioinformatics, biostatistics, epidemiology and computational systems biology of cancer offers the following PhD project: 
+Analysis of RNA sequencing data in the context on cancer studies
+High throughput sequencing (HTS) technologies are now widely used in tumor genetics studies. HTS allows for identification of mutation events, chromosomal rearrangements, chromatin structure, DNA-protein binding and so on. RNA sequencing (RNA-seq) is one of the most popular HTS applications; it is aimed at quantification of gene expression and detection of abnormal transcripts expressed in tumors. In addition to transcript fusions, we have to be able to identify duplications within gene transcripts, truncated and mis-spliced mRNA. 
+The aim of this PhD project is to develop methodology for RNA-seq data analysis in the context of cancer studies. The PhD student will employ probabilistic graphical models and Bayesian statistics to detect abnormal gene transcripts, assess transcript expression and discover small sequence variants present in the expressed transcripts. The PhD student will collaborate with computer scientists, biologists and clinicians from Institut Curie. 
+The successful candidate will be based at Institut Curie, Paris, and will work in collaboration with Valentina Boeva and Emmanuel Barillot.
+We offer
+ - 	An opportunity to work on a complex computational problem that has direct implications in the research against cancer 
+ - 	Exceptional scientific environment in computational biology
+ - 	Collaboration with top leading groups in cancer biology
+ - 	Workplace in the center of Paris, in the immediate vicinity of the Pantheon and the Luxembourg garden
+Required qualifications
+ - 	Master or Diploma
+ - 	Strong mathematical background
+ - 	Excellent knowledge of statistics and theory of probability
+ - 	Motivation to dig deep into mathematical models
+ - 	Good programming skills
+ - 	Good writing and excellent communication skills
+ - 	Theoretical knowledge of cell biology will be a plus but not required
+Starting date: 1 March 2014 or later
+Duration: 3 years
+Deadline for applications: January 1, 2014
+Contact: valentina.boeva@curie.fr

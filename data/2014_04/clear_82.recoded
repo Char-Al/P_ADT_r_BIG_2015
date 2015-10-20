@@ -1,0 +1,124 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gtpb-bounces@igc.gulbenkian.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7569626801D
+	for <bioinfo@sfbi.fr>; Wed, 23 Apr 2014 16:42:58 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnQPAEvQV1PBiV4Fl2dsb2JhbABZg1VLi1OfAJIyhmlRgTAOAQEBAQEIFgc8gicDAwEBQwoeDgMBAgYCKx0IAwELGAE1EwUWAYgpCc9IjFyBd4I6D4F8BIU4g3WMboJZgTiFI41tgUA8
+X-IronPort-AV: E=Sophos;i="4.97,912,1389740400"; 
+   d="scan'208";a="57517756"
+Received: from igcns.igc.gulbenkian.pt (HELO mx01.igc.gulbenkian.pt) ([193.137.94.5])
+  by b-mx1.relay.syrhano.net with ESMTP; 23 Apr 2014 16:42:57 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id ED4EA63F6E;
+	Wed, 23 Apr 2014 15:42:54 +0100 (WEST)
+X-Virus-Scanned: Debian amavisd-new at igcns
+Received: from mx01.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id C6unJmc+btX5; Wed, 23 Apr 2014 15:42:54 +0100 (WEST)
+Received: from [127.0.1.1] (mx00.igc.gulbenkian.pt [192.168.50.10])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id BE1D963F7A;
+	Wed, 23 Apr 2014 15:42:53 +0100 (WEST)
+X-Original-To: gtpb@igc.gulbenkian.pt
+Delivered-To: gtpb@igc.gulbenkian.pt
+Received: from localhost (localhost [127.0.0.1])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id AC7202B6099
+	for <gtpb@igc.gulbenkian.pt>; Wed, 23 Apr 2014 14:43:16 +0100 (WEST)
+Received: from mx00.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id owh4dWFijN-4 for <gtpb@igc.gulbenkian.pt>;
+	Wed, 23 Apr 2014 14:42:54 +0100 (WEST)
+Received: from webmail.igc.gulbenkian.pt (webmail.igc.gulbenkian.pt
+	[192.168.50.6])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 9FEAA2B608B
+	for <gtpb@igc.gulbenkian.pt>; Wed, 23 Apr 2014 14:42:49 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by webmail.igc.gulbenkian.pt (Postfix) with ESMTPA id AD82466CF3
+	for <gtpb@igc.gulbenkian.pt>; Wed, 23 Apr 2014 14:42:48 +0100 (WEST)
+Received: from fw1dmz.igc.gulbenkian.pt (fw1dmz.igc.gulbenkian.pt
+	[192.168.50.3]) by webmail.igc.gulbenkian.pt (Horde Framework) with
+	HTTP; Wed, 23 Apr 2014 14:42:48 +0100
+Message-ID: <20140423144248.17163bw4c1nnz7fc@webmail.igc.gulbenkian.pt>
+Date: Wed, 23 Apr 2014 14:42:48 +0100
+From: Pedro Fernandes <pfern@igc.gulbenkian.pt>
+To: gtpb <gtpb@igc.gulbenkian.pt>
+MIME-Version: 1.0
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.6)
+X-Mailman-Approved-At: Wed, 23 Apr 2014 15:41:41 +0100
+X-BeenThere: gtpb@igc.gulbenkian.pt
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: The Gulbenkian Training Programme in Bioinformatics
+	<gtpb.igc.gulbenkian.pt>
+List-Unsubscribe: <https://lists.igc.gulbenkian.pt/mailman/options/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=unsubscribe>
+List-Archive: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb>
+List-Post: <mailto:gtpb@igc.gulbenkian.pt>
+List-Help: <mailto:gtpb-request@igc.gulbenkian.pt?subject=help>
+List-Subscribe: <https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=subscribe>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="iso-8859-1"; Format="flowed"; DelSp="Yes"
+Sender: gtpb-bounces@igc.gulbenkian.pt
+Errors-To: gtpb-bounces@igc.gulbenkian.pt
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Gtpb] Fwd: Bioinformatics training course announcement SMLMC14 in
+ Oeiras, Portugal
+             GTPB Announcement
+Applications are open for another Bioinformatics Training course:
+SMLMC14
+Structural Modeling for Large Macromolecular Complexes
+with Joanna Kasprzak and Grzegorz Chojnowski
+    IMPORTANT DATES for this Course
+    Deadline for applications: May 15st 2014
+    Latest notification of acceptance: May 17th 2014
+    Course date: June 11th - June 13th 2014
+Course description
+One of the major challenges in structural biology is to determine the
+structures of macromolecular complexes and to understand their
+function and mechanism of action. However, structural characterisation
+  of macromolecular assemblies is very difficult. To begin addressing
+this problem, we have developed PyRy3D.
+In a nutshell, PyRy3D employs a hybrid computational approach that
+incorporates spatial information from a variety of experimental
+methods into the modelling procedure to build low-resolution models of
+  large macromolecular complexes. The PyRy3D model building procedure
+uses a Monte Carlo approach to sample the solutions-space. It uses
+spatial restraints to define components interacting with each other,
+and a simple scoring function is applied to pack them tightly into
+contours of the entire complex (e.g. cryoEM density maps).
+More details at
+http://gtpb.igc.gulbenkian.pt/bicourses/SMLMC14/
+Thank you for your interest!
+Pedro Fernandes
+GTPB Coordinator
+--
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: SMLMC14_Description
+Type: application/pdf
+Size: 5374259 bytes
+Desc: not available
+URL: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb/attachments/2014
+0423/650d0a2c/attachment.pdf>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: SMLMC14.jpg
+Type: image/jpeg
+Size: 492530 bytes
+Desc: not available
+URL: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb/attachments/2014
+0423/650d0a2c/attachment.jpg>
+_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb

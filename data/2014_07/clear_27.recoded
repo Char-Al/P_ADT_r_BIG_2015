@@ -1,0 +1,67 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Thomas.Schiex@toulouse.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 37AD026801D
+	for <bioinfo@sfbi.fr>; Tue,  8 Jul 2014 17:18:24 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AngBAIoKvFOTY2tznGdsb2JhbABZFoNKhHq6ZodBgSwPAQEBAQEIFAk8hCcbGxgNATwWGAMCAQIBSw0BBQIBAYg+Dck+F45gEQFQhEoFkAmRfJBCaoEL
+X-IronPort-AV: E=Sophos;i="5.01,625,1400018400"; 
+   d="scan'208";a="61475726"
+Received: from mx.toulouse.inra.fr (HELO yang.toulouse.inra.fr) ([147.99.107.115])
+  by b-mx1.relay.syrhano.net with ESMTP; 08 Jul 2014 17:18:23 +0200
+Received: from [147.99.96.104] (hount.toulouse.inra.fr [147.99.96.104])
+	(authenticated bits=0)
+	by yang.toulouse.inra.fr (/8.14.4) with ESMTP id s68FIMVt001584
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT);
+	Tue, 8 Jul 2014 17:18:22 +0200 (CEST)
+Message-ID: <53BC0BBE.6060401@toulouse.inra.fr>
+Date: Tue, 08 Jul 2014 17:18:22 +0200
+From: Thomas Schiex <Thomas.Schiex@toulouse.inra.fr>
+Organization: INRA
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: =22de_Bioinformatique=2C_Société=22 <bioinfo@sfbi.fr>
+Cc: Thomas.Schiex@toulouse.inra.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Miltered: at yang with ID 53BC0BBE.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53BC0BBE.000/147.99.96.104/hount.toulouse.inra.fr/[147.99.96.104]/<Thomas.Schiex@toulouse.inra.fr>
+X-j-chkmail-Score: MSGID : 53BC0BBE.000 on yang.toulouse.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.020 -> S=0.020
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at yang
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Offre de PostDoc - Biologie Structurale - George Mason University
+Transmise par Amarda Shehu.
+---
+Call for Postdoctoral Fellow in Evolutionary Computation and 
+Computational Structural Biology
+George Mason University
+Department of Computer Science
+PIs: Amarda Shehu and Kenneth A De Jong
+We are looking for a highly motivated postdoctoral fellow to lead a 
+research project funded by the National Science Foundation. The project 
+aims to extend the capability of evolutionary algorithms for structural 
+characterization of dynamic multi-basin proteins. The emphasis is on 
+novel algorithm design, but someone with prior experience in protein 
+structure modeling is ideal for the position. The position is for two years.
+Applications are being accepted now and will continue until the position 
+is filled.
+The candidate should have:
+- Ph.D. in Computer Science
+- Prior experience and expertise designing evolutionary algorithms
+- Excellent programming skills in C++
+- Proficiency in Java
+- Proficiency in parallel programming
+- Prior experience with protein and peptide structure modeling
+- Some familiarity with physics-based molecular modeling packages, such 
+asAMBER
+Starting date: flexible
+How to apply: Submit CV andnames and emails of 2-3 references via email 
+to either of the two contacts below
+To apply or for more information, please contact:
+Prof. Amarda Shehu, Computational Biology, amarda@gmu.edu
+Prof. Kenneth A De Jong, Evolutionary Computation, kdejong@gmu.edu
+See also: http://www.cs.gmu.edu/~ashehu/?q=StudentOpenings

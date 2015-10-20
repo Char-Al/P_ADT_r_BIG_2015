@@ -1,0 +1,66 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <tactilofan@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 7670F26801D
+	for <bioinfo@sfbi.fr>; Mon,  8 Sep 2014 10:42:28 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AusCALhqDVTRVdgwm2dsb2JhbABYhDcEgnitYQahawgWEAEBAQEBBgsLCRQqhBwRHQEbGAYDEhAMAwImAiEDAREBBQEUISKICwEDEZZrgxlrizCBcoMQiFwKGScNZoV0AREBBQ6BHoRQiW6CY4FTBZBYa4svkzoYKYNMgUg7LwGCTgEBAQ
+X-IPAS-Result: AusCALhqDVTRVdgwm2dsb2JhbABYhDcEgnitYQahawgWEAEBAQEBBgsLCRQqhBwRHQEbGAYDEhAMAwImAiEDAREBBQEUISKICwEDEZZrgxlrizCBcoMQiFwKGScNZoV0AREBBQ6BHoRQiW6CY4FTBZBYa4svkzoYKYNMgUg7LwGCTgEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,485,1406584800"; 
+   d="scan'208";a="72466705"
+Received: from mail-qa0-f48.google.com ([209.85.216.48])
+  by a-mx1.relay.syrhano.net with ESMTP; 08 Sep 2014 10:42:27 +0200
+Received: by mail-qa0-f48.google.com with SMTP id m5so13454540qaj.7
+        for <bioinfo@sfbi.fr>; Mon, 08 Sep 2014 01:42:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=vf/w5Zeaj4gi1BiuAU0UEJdzu3rDdwA+zkQCiuZKg7k=;
+        b=rbm0IsyBjBAuD3dhxwMTTysxjUF9lGKvgVcLU8E0KyBPr2dFV9NB6imwkKQfO4sGcY
+         EDLDeC03n+uXXGxf54SddrtN208YecKk0XK6D7y1lRkHZls5K9yMSSfaNRCHs2Ijg0v+
+         vYf7QyUAAn4jC26tTQJK1csrk/E/elg9UM4b4ephM6cODPFTxUkVeqtcRoqakwLJmwVk
+         qbxsQpZNRZV/LsqoBgASYvh5nSnr4wD7eWhGL4tTmEm8CE/nYCF9Uy4IKrLoB9Br/f9U
+         rutgAJhVT80fWTjudcmco6/sr5rw5BGnv+pwQQoEAj6Ng1MOH/SynIvEQx324jq4+xyf
+         if7A=
+MIME-Version: 1.0
+X-Received: by 10.140.19.201 with SMTP id 67mr37758236qgh.28.1410165746879;
+ Mon, 08 Sep 2014 01:42:26 -0700 (PDT)
+Received: by 10.140.142.69 with HTTP; Mon, 8 Sep 2014 01:42:26 -0700 (PDT)
+Date: Mon, 8 Sep 2014 10:42:26 +0200
+Message-ID: <CAJf7PRekoFpnoXJEX1+H1yQfRJfZOgXzz=3LrjkLxZG9bVGJyw@mail.gmail.com>
+From: Cyril MONGIS <tactilofan@gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Stage] Internship or Master thesis in bio-image analysis and
+ pipeline development available
+University of Heidelberg
+      The laboratory of Prof. Dr. Michael Knop at the Center for
+Molecular Biology (ZMBH) from the University of Heidelberg in Germany
+is offering positions for motivated students for Master thesis or
+internships (> 3-4 months) with excellent programming skills.
+Interested students with a background in physics, mathematics,
+informatics, bioinformatics or biology are welcome to apply. The
+students will work under supervision of physicists and software
+engineers in close collaboration with biologists. Depending on the
+interest of the student, work related to quantitative high throughput
+microscopic image analysis of biological specimen or microscope
+automation could be offered. Informatics skills and excellent
+knowledge of some computer languages is essential, but time will also
+given to learn new languages, if needed for a project. These can be in
+the area of Image processing and segmentation algorithms (e.g MatLab,
+ImageJ). Instrument automation (LabView), File management
+functionalities to deal with large amounts of imaging data (e.g.
+PYTHON), GUI development (e.g. JAVA).
+What we deliver:
+      The applicant will find a stimulating academic environment with
+biologists, physicists and developers working together on systems
+biology and imaging projects. Our lab features several state of the
+art microscopes and an excellent computing infrastructure that has
+resulted in several high-profile publications. Some funding to allow
+for basic costs of living is available.
+Please send applications to Prof. Michael Knop:
+b.besenbeck@zmbh.uni-heidelberg.de (Subject: Bio-Imaging) or call in
+directly +49-6221/54 4213.

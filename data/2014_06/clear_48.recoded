@@ -1,0 +1,112 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <p.geurts@ulg.ac.be>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 0D6D726801D
+	for <bioinfo@sfbi.fr>; Fri, 13 Jun 2014 09:53:00 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AiMBACetmlOLpSBvnGdsb2JhbABbg1+qPZokFg8BAQEBAQYNCQkUKIQnSwWBDk+ILgMRDaMYqEkNV4UvF4VchWJ7gU+EBoEWBIkfjx0BiRyGNIk7Ow
+X-IronPort-AV: E=Sophos;i="5.01,470,1400018400"; 
+   d="scan'208";a="60082721"
+Received: from serv108.segi.ulg.ac.be ([139.165.32.111])
+  by b-mx1.relay.syrhano.net with ESMTP; 13 Jun 2014 09:52:59 +0200
+Received: (qmail 11976 invoked from network); 13 Jun 2014 09:52:58 +0200
+Received: from unknown (HELO [10.9.176.249]) (u179884@[10.9.176.249])
+          (envelope-sender <p.geurts@ulg.ac.be>)
+          by serv108.segi.ulg.ac.be (qmail-ldap-1.03) with SMTP
+          for <bioinfo@sfbi.fr>; 13 Jun 2014 09:52:58 +0200
+From: Pierre Geurts <p.geurts@ulg.ac.be>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <134E66F5-C8F8-459D-97C3-73FED976BBAF@ulg.ac.be>
+Date: Fri, 13 Jun 2014 09:52:58 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] MLSB 2014: deadline extension and call for posters
+[Apologies for cross-posting]
+UPDATES:
+- Deadline for submission has been extented to ** JUNE 22 **
+- Abstracts for poster presentations can be submitted until ** JULY 13 **
+            Last Call for Contributions
+    MLSB14, the eighth International Workshop on
+          Machine Learning in Systems Biology
+                 http://www.mlsb.cc
+   Organized in conjunction with ECCB 2014
+              Strasbourg, France, September 6-7, 2014.
+     Submission deadlines:
+	  Extended abstracts: June 22
+	  Posters: July 13
+WORKSHOP DESCRIPTION
+MLSB14, the Eighth International Workshop on Machine Learning in
+Systems Biology, is a workshop of the ECCB 2014 conference. It aims to
+contribute to the cross-fertilization between the research in machine
+learning methods and their applications to systems biology by bringing
+together method developers and experimentalists. We are soliciting
+submissions bringing forward methods for discovering complex
+structures (e.g. interaction networks, molecule structures) and
+methods supporting genome-wide data analysis
+Please see the workshop website http://www.mlsb.cc for more details.
+SUBMISSIONS OF EXTENDED ABSTRACTS
+We invite you to submit an extended abstract of up to 4 pages in PDF
+format describing new or very recently published results. Each
+extended abstract must be submitted by *June 22 2014* (extended)
+electronically via the Easychair submission system:
+https://www.easychair.org/conferences/?conf=3Dmlsb2014
+Submissions will be reviewed by the scientific programme
+committee. They will be selected for oral or poster presentation
+according to their originality and relevance to the workshop topics.
+SUBMISSIONS OF POSTER PRESENTATIONS
+We invite you also to apply for poster presentations on topics of
+relevance to the workshop. Each poster presentation should be
+described in a 1 page summary and should be submitted by July 13, 2014
+via the Easychair submission system:
+https://www.easychair.org/conferences/?conf=3Dmlsb2014
+KEY DATES
+- Deadline for submission of extended abstracts: ** June 22, 2014 **
+- Deadline for submission of poster presentations: July 13, 2014
+- Author notification: July 15, 2014
+- Early registration deadline ECCB14: August 2, 2014
+- Workshop: September 6-7, 2014
+CONFIRMED INVITED SPEAKERS
+Pierre Baldi, UCI University, California, USA
+Karsten Borgwardt, Max Planck Institute, Tubingen, Germany
+CONTACT
+For further information, please contact chairsmlsb2014@gmail.com
+CHAIRS
+Florence d'Alché-Buc (University of Evry, France)
+Pierre Geurts (University of Liege, Belgium)
+ORGANIZING COMMITTEE
+Florence d'Alché-Buc (University of Evry, France)
+Markus Heinonen (University of Evry, France)
+Pierre Geurts (University of Liege, Belgium)
+Vân Anh Huynh-Thu (University of Edinburgh, UK)
+Nizar Touleimat (Centre National de génotypage, CEA, Evry, France)
+PROGRAM COMMITTEE
+Florence d'Alché-Buc (University of Evry, France)
+Chloé-Agathe Azencott (CBIO, Mines ParisTech, Institut Curie, INSERM, Fra
+nce)
+Karsten Borgwardt (MPI Tubingen, Germany)
+Sa=9Ao D=9Eeroski (Jo=9Eef Stefan Institute, Slovenia)
+Mohamed Elati (Universite d'Evry, France)
+Pierre Geurts (University of Liège, Belgium)
+Markus Heinonen (University of Evry, France)
+Van Anh Huynh-Thu (University of Edinburgh, UK)
+Ross King (Aberystwyth University, UK)
+Stefan Kramer (University of Mainz, Germany)
+Yves Moreau (Katholieke Universiteit Leuven, Belgium)
+Sach Mukherjee (Netherlands Cancer Institute, Netherlands)
+Mahesan Niranjan (University of Southampton, UK)
+Uwe Ohler (Duke University, USA)
+John Pinney (Imperial College London, UK)
+Simon Rogers (University of Glasgow, UK)
+Juho Rousu (University of Helsinki, Finland)
+Yvan Saeys (University of Ghent, Belgium)
+Peter Sykacek (BOKU University, Austria)
+Nizar Touleimat (Centre National de Genotypage, CEA, France)
+Koji Tsuda (National Institute of Advanced Industrial Science and Technolog
+y, Japan)
+Jean-Philippe Vert (Ecole des Mines de Paris, France)
+Filip Zelezny (Czech Technical University in Prague, Czech Republic)

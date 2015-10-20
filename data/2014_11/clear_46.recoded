@@ -1,0 +1,85 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <abasso@ibisc.univ-evry.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 9210026801D
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 10:29:28 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Av0KADkQa1TD3aKG/2dsb2JhbABbFoJ4VVmCPki1SQaTRohfFgEBAQEBaRSEFRcPAQURKQYaHAIFFgsCCwMCAQIBWAgBAYhBCZxTjSePS5cygS2FDIpsgmGBVAWTYop0gk+FMo54gUcBAQgBAQEBYYFGPDGCSgEBAQ
+X-IPAS-Result: Av0KADkQa1TD3aKG/2dsb2JhbABbFoJ4VVmCPki1SQaTRohfFgEBAQEBaRSEFRcPAQURKQYaHAIFFgsCCwMCAQIBWAgBAYhBCZxTjSePS5cygS2FDIpsgmGBVAWTYop0gk+FMo54gUcBAQgBAQEBYYFGPDGCSgEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,408,1413237600"; 
+   d="scan'208";a="77056962"
+Received: from smtp4.ibisc.univ-evry.fr ([195.221.162.134])
+  by a-mx1.relay.syrhano.net with ESMTP; 18 Nov 2014 10:29:28 +0100
+Received: from [127.0.0.1] (unknown [172.31.5.113])
+	by smtp4.ibisc.univ-evry.fr (Postfix) with ESMTPSA id 304B411A9F
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 10:29:23 +0100 (CET)
+Message-ID: <546B1172.9040807@ibisc.univ-evry.fr>
+Date: Tue, 18 Nov 2014 10:29:22 +0100
+From: Adrien <abasso@ibisc.univ-evry.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Antivirus: avast! (VPS 141117-1, 17/11/2014), Outbound message
+X-Antivirus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] SOUTENANCE DE THESE - LANGAGE DE PRGRAMMATION POUR LA BIOLOGIE SYNTHETIQUE
+ - ADRIEN BASSO BLANDIN
+  Bonjour,
+j'ai le plaisir de vous inviter à ma soutenance de Thèse, intitulée 
+"Conception d’un langage dédié à la conception de fonctions biologiques 
+de synthèse par compilation de spécifications comportementales" qui aura 
+lieu le Mardi 25 novembre 2014 à 14h30 à l'amphithéâtre du batiment 
+IBGBI à Evry (à proximité de Paris)
+laboratoire Ibisc
+Université d'Evry
+IBGBI
+23, Bd de France 91034 - EVRY .
+Plan : https://www.ibisc.univ-evry.fr/acces
+Composition du jury :
+Directeur de thèse :  Franck Delaplace, Professeur au Laboratoire Ibisc.
+Rapporteur : Cédric Lhoussaine, HDR, au laboratoire LIFL
+Rapporteur : Olivier Roux, Professeur au laboratoire IRCCyN
+Examinateur : François Fages, Directeur de recherche à l'INRIA 
+Paris-Rocquencourt
+Examinateur : Jean-Louis Giavitto, Directeur de recherche à l'IRCAM
+Examinateur : Russell Harmer, Chargé de recherche à l'ENS Lyon
+Examinateur : Franck Molina, Directeur de recherche au laboratoire 
+SysDiag CNRS
+Titre :
+Conception d’un langage dédié à la conception de fonctions biologiques 
+de synthèse par compilation de spécifications comportementales
+Mots-clés : Compilation, biologie de synthèse, spécification 
+comportementale, langage.
+Résumé :
+La biologie de synthèse est un domaine émergent en quête d’outils afin de
+formaliser et d’automatiser la caractérisation et la conception de 
+systèmes biologiques.
+Dans ce cadre, nous proposons de définir le langage GUBS (Genetic 
+Unified Behaviour Specification)
+  utilisé pour  spécifier de manière comportementale les systèmes 
+biologiques à synthétiser.
+De cette définition, le compilateur Ggc recherche un assemblage de 
+composants biologiques
+capable de reproduire le comportement spécifié.
+  Gubs est un langage déclaratif que nous pouvons assimiler à un langage 
+de requêtes évolué de recherche
+de comportements décrits par un ensemble de relations causales. Associé 
+à ce langage, le  compilateur Ggc
+sélectionne automatiquement les composants  pour qu’une fois assemblés 
+leur comportement collectif "inclut"
+  celui décrit. La compilation d’une spécification Gubs s’appuie sur le 
+principe d’ACI-Unification en utilisant
+plus généralement un schéma similaire au système de preuve automatique 
+qui permet de garantir formellement
+la correction de cet assemblage.
+Au plaisir de vous y voir nombreux,
+Adrien Basso-Blandin
+-- 
+Adrien Basso-Blandin, Phd Student - Computer Science &  Synthetic biology
+www.ibisc.univ-evry.fr/~abasso
+IBISC Lab   -  IBGBI -  23, boulevard de France - 91037 Evry - FRANCE
+Evry Val d'Essonne University

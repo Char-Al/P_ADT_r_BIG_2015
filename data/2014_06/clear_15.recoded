@@ -1,0 +1,108 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <alban.mancheron@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 1962226801D
+	for <bioinfo@sfbi.fr>; Wed,  4 Jun 2014 17:21:26 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmsBAOw4j1PBMWgenGdsb2JhbABZg1mCe0m/foEXFg4BAQEBAQgLCQkUKII4Fw8BBTwEGhwCBRYEBwILAwIBAgENLR4GAgEBiEIJkAyMfo8ipW4XgSqQJIFLBI93ihyBP4UxhlWHbIFC
+X-IronPort-AV: E=Sophos;i="4.98,973,1392159600"; 
+   d="scan'208";a="67959046"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by a-mx1.relay.syrhano.net with ESMTP; 04 Jun 2014 17:21:25 +0200
+Received: from [193.49.107.31] (spagyrie.lirmm.fr [193.49.107.31])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 79B7CA4F6B
+	for <bioinfo@sfbi.fr>; Wed,  4 Jun 2014 17:21:24 +0200 (CEST)
+Message-ID: <538F3A9F.3090807@lirmm.fr>
+Date: Wed, 04 Jun 2014 17:26:23 +0200
+From: Alban MANCHERON <alban.mancheron@lirmm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20130329 Thunderbird/17.0.5
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Ouverture des inscriptions du master STIC pour la =?UTF-8?Q?Sant=C3=A9?= de Montpellier, =?UTF-8?Q?sp=C3=A9cialit=C3=A9?= =?UTF-8?Q?=C2=AB?= Bioinformatique, Connaissances, =?UTF-8?Q?Donn=C3=A9es?= =?UTF-8?Q?=C2=BB?=
+Ouverture des inscriptions du master STIC pour la Santé de Montpellier
+Présentation de la spécialité "Bioinformatique, Connaissances, Données"
+=======================================================================
+Les inscription pour le Master Sciences et Techniques de l'Information 
+et de la Communication pour la Santé de Montpellier sont ouvertes pour 
+la rentrée 2014.
+Ce master STIC pour la Santé est composé de trois spécialités, dont
+« Bioinformatique, Connaissances, Données » (BCD).
+Cette formation est un partenariat entre les Universités Montpellier 1 
+et Montpellier 2, le CHU de Montpellier et l'Institut Mines-Télécom.
+Objectifs
+=========
+La bioinformatique est utilisée depuis longtemps en biologie pour 
+prédire la fonction des gènes dans les génomes, modéliser et comprendre 
+les grands systèmes biologiques, et en santé pour la recherche de 
+molécules cibles (médicaments, vaccins), pour suivre la progression 
+d'épidémies, pour comprendre le développement de divers maladies 
+(cancer, sida, paludisme, etc.). Les méthodes biotechnologiques 
+fournissent d'importants volumes de données incontournables dans le 
+domaine médical, en agronomie, en biologie, et nécessitant des 
+traitements informatiques de plus en plus poussés. La bioinformatique 
+s'impose aujourd'hui dans ces domaines, tant par la modélisation 
+informatique des données que dans l'amélioration des méthodes visant à 
+les traiter.
+    La spécialité « Bioinformatique, Connaissances, Données » du master 
+STIC pour la Santé forme les étudiants qui souhaitent s'investir dans 
+les problématiques
+à l'interface entre l'informatique, les mathématiques et les sciences du 
+vivant.
+Les modules de cours sont organisés autour des thèmes de la modélisation 
+des objets du vivant (génomes, cellules, systèmes) ; les techniques 
+algorithmiques et statistiques pour analyser ces données ; l'utilisation 
+des outils actuels notamment pour l'aide à la conception, à la 
+compréhension du mode d'action et du développement des médicaments ; les 
+techniques de développement pour concevoir de nouveaux outils 
+(logiciels, bases de données, sites web,...) ; l'élaboration de systèmes 
+d'aide à la décision dédiés aux services de santé (hôpitaux, cliniques, ...)
+Des liens étroits (projets, stages en M1 et M2) sont assurés avec le 
+milieu professionnel en santé (médicaments, vaccins, cancer, maladies 
+épidémiques et endémiques), en environnement, et en agro-alimentaire.
+Débouchés
+=========
+Les débouchés de la spécialité BCD se situent dans le monde de la santé, 
+mais aussi dans le domaine de la biologie végétale, deux secteurs 
+extrêmement bien représentés sur Montpellier. Les métiers visés vont du 
+développement à l'aide à la décision en passant par l'aide à 
+l'utilisation, la spécification de produits ou la maintenance de 
+systèmes informatiques (logiciels, bases de données, sites web,...).
+Les titulaires du diplôme pourront s'intégrer dans des SSII (sociétés de 
+service en Informatique), sociétés d'ingénierie biomédicale, des 
+hôpitaux, des laboratoires de diagnostic ou de recherche.
+Les poursuites d'études en doctorat sont aussi possibles, la spécialité 
+étant étiquetée à la fois Pro et Recherche. La distinction s'effectue en 
+fonction du choix des modules optionnels et des sujets de projets et stages.
+Informations pratiques
+======================
+Le recrutement en M1 est ouvert à différents publics d'étudiants, 
+détenteurs d'une licence dans le domaine STIC (Informatique, Math-Info, 
+Électronique, Physique) ou dans le domaine du Vivant (Biologie, 
+Biochimie, Santé, Écologie, STAPS). Pour l'entrée en M1, le master 
+intègre une mise à niveau selon le profil initial des candidats.
+Le recrutement en M2 est ouvert aux étudiants titulaires d'un Master 1 
+(ou équivalent) dans le domaine STIC ou dans le domaine du vivant.
+La formation est également ouverte à la formation continue.
+Pour obtenir une information plus détaillée, nous vous invitons à 
+consulter les sites suivants ou à nous contacter par courrier électronique :
+http://www.lirmm.fr/BCD/
+Les candidats doivent s'inscrire en ligne sur le site de la Faculté
+des Sciences de l'Université Montpellier II :
+http://candidatures.univ-montp2.fr/
+Nouveauté
+=========
+Un(e) étudiant(e) motivé(e) et désireux(se) d'obtenir, en plus de son 
+diplôme de Master, un diplôme d'Ingénieur d'une des écoles des Mines 
+rattachée à l'Institut Mines-Télécom, pourra suivre un parcours aménagé 
+après acceptation de la commission pédagogique et de l'école sollicitée.
+=======================================================================
+En vous remerciant par avance pour votre aide dans la diffusion de cette 
+offre de formation auprès des étudiants et des établissements concernés.
+Cordialement,
+Alban Mancheron (alban.mancheron@lirmm.fr)
+Responsable de la Spécialité BCD

@@ -1,0 +1,52 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 3674426801D
+	for <bioinfo@sfbi.fr>; Mon, 25 Aug 2014 10:12:08 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArEBAGTv+lOKZqI0nGdsb2JhbABZg2BXAYJ7yVeIfBABAQEBAQgLCQkUKYQtEAURMw4kAiYCEiwQJIhCDZtdjy+BdI1PhHEXgSyNPhEBbYJjgVMFgS20CGqBD4FAAQEB
+X-IronPort-AV: E=Sophos;i="5.04,395,1406584800"; 
+   d="scan'208";a="71736837"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 25 Aug 2014 10:12:07 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s7P8C6wP023343
+	for <bioinfo@sfbi.fr>; Mon, 25 Aug 2014 10:12:06 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id C447C296BA3
+	for <bioinfo@sfbi.fr>; Mon, 25 Aug 2014 10:12:06 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XLpPS-0003nx-1e
+	for bioinfo@sfbi.fr; Mon, 25 Aug 2014 10:13:50 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XLpPS-0003nx-1e@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Mon, 25 Aug 2014 10:13:50 +0200
+X-Miltered: at alpha with ID 53FAEFD6.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53FAEFD6.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 53FAEFD6.001 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.239 -> S=0.326
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?Ing=C3=A9nieur?= d'Etude en   =?UTF-8?Q?Prot=C3=A9omique?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur d'Etude en Protéomique
+Type de poste : CDD Ingénieur
+Durée du poste : 36 mois
+Ville : Poitiers
+Nom du contact : Nicolas Bourmeyster
+Email du contact : nicolas.bourmeyster@univ-poitiers.fr
+Laboratoire : ProteomeUP
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/ing%C3%A9nieur-detude-en-prot%C3%A9omique

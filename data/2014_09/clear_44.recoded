@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id B9B0D26801D
+	for <bioinfo@sfbi.fr>; Mon, 15 Sep 2014 11:36:56 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoUBAM6yFlSKZqI0nGdsb2JhbABgg2BXAYJ7x2mIeBABAQEBAQgLCQkUKoQtEAURMw4kAiYCEiw0iD4NlVmPNIF0jGeGXIEsjT8RAW2CYoFTBYEusl9VgUVqgQ+BOwEBAQ
+X-IPAS-Result: AoUBAM6yFlSKZqI0nGdsb2JhbABgg2BXAYJ7x2mIeBABAQEBAQgLCQkUKoQtEAURMw4kAiYCEiw0iD4NlVmPNIF0jGeGXIEsjT8RAW2CYoFTBYEusl9VgUVqgQ+BOwEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,526,1406584800"; 
+   d="scan'208";a="64367087"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 15 Sep 2014 11:36:57 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s8F9atZN002256
+	for <bioinfo@sfbi.fr>; Mon, 15 Sep 2014 11:36:55 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 8A88D296B97
+	for <bioinfo@sfbi.fr>; Mon, 15 Sep 2014 11:36:55 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XTSkB-0007vi-53
+	for bioinfo@sfbi.fr; Mon, 15 Sep 2014 11:38:47 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XTSkB-0007vi-53@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Mon, 15 Sep 2014 11:38:47 +0200
+X-Miltered: at alpha with ID 5416B337.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5416B337.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5416B337.000 on alpha.jouy.inra.fr : j-chkmail score : X : R=. U=. O=. B=0.195 -> S=0.195
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][CDD autre] Visiting Professor, Computational Biology and/or Bioinformatics
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Visiting Professor, Computational Biology and/or  
+Bioinformatics
+Type de poste : CDD autre
+Durée du poste : 1 an
+Ville : Beirut
+Nom du contact : Faisal Abu-Khzam
+Email du contact : faisal.abukhzam@lau.edu.lb
+Laboratoire : School of Arts and Sciences. Lebanese American University
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/visiting-professor-computational-biology-andor-bioinformatics

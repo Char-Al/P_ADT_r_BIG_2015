@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 39B5326801D
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 15:44:46 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsABAG6zKlSKZqI0nGdsb2JhbABgg2FXgwLHKIhrAREBAQEBAQYNCQkULIQtEAURMw4kAiYCEiwQJIg+DZl8jzuBdI0zhwWBLI4QEQFtgmKBUwWBMKhEinIBWIFFaoEPgTsBAQE
+X-IPAS-Result: AsABAG6zKlSKZqI0nGdsb2JhbABgg2FXgwLHKIhrAREBAQEBAQYNCQkULIQtEAURMw4kAiYCEiwQJIg+DZl8jzuBdI0zhwWBLI4QEQFtgmKBUwWBMKhEinIBWIFFaoEPgTsBAQE
+X-IronPort-AV: E=Sophos;i="5.04,626,1406584800"; 
+   d="scan'208";a="65301451"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 30 Sep 2014 15:44:46 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s8UDii4H003409
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 15:44:44 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id E1092296B94
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 15:44:44 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XYxlK-000EMr-5E
+	for bioinfo@sfbi.fr; Tue, 30 Sep 2014 15:46:42 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XYxlK-000EMr-5E@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 30 Sep 2014 15:46:42 +0200
+X-Miltered: at alpha with ID 542AB3CC.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 542AB3CC.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 542AB3CC.000 on alpha.jouy.inra.fr : j-chkmail score : XXX : R=. U=. O=# B=0.367 -> S=0.472
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][CDI autre] Bioinformaticien / Analyse   de =?UTF-8?Q?donn=C3=A9es?= de =?UTF-8?Q?g=C3=A9nomique?= (microarras, NGS)
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformaticien / Analyse de données de génomique  
+(microarras, NGS)
+Type de poste : CDI autre
+Durée du poste : indéterminée
+Ville : Lyon
+Nom du contact : Catherine Legras-Lachuer
+Email du contact : catherine.lachuer@viroscan3d.com
+Laboratoire : ViroScan3D
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/bioinformaticien-analyse-de-donn%C3%A9es-de-g%C3%A9nomique-microarras-ngs

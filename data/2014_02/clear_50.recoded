@@ -1,0 +1,195 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=1196bb26b=elisabeth.herniou@univ-tours.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 07A1726801D
+	for <bioinfo@sfbi.fr>; Tue, 18 Feb 2014 17:12:52 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApACACGGA1PBNNEyf2dsb2JhbABZgz7ASHgWDgEBCwsKCBQogiwMMAEDAQEBATYBEAFDBE0GDAEEE4gJCakEhFcBBQKeMwEGjh8RAYMGD4F6iRSMJIQqhRUojHMwgT87gTU
+X-IronPort-AV: E=Sophos;i="4.97,502,1389740400"; 
+   d="scan'208";a="62181738"
+Received: from hermes.univ-tours.fr ([193.52.209.50])
+  by a-mx1.relay.syrhano.net with ESMTP; 18 Feb 2014 17:12:51 +0100
+DomainKey-Signature: s=main; d=univ-tours.fr; c=nofws; q=dns;
+  h=X-IronPort-Anti-Spam-Filtered:
+   X-IronPort-Anti-Spam-Result:X-IPAS-Result:Received:
+   Received:X-Virus-Scanned:Received:Received:
+   X-Virus-Scanned:Received:Received:User-Agent:Date:Subject:
+   From:To:Message-ID:Thread-Topic:Thread-Index:Mime-version:
+   Content-type:Content-transfer-encoding;
+  b=CYo/xJrGw5UvYCEUVXDoEqgLrLlFduPZUop/otCHlgNfJaUcMseBcAKp
+   eGMLNVJImEupJx64O9PqXo7ty61w4N+Houv16RUkFmplC6kZ0fiJWWmJL
+   kKXVx8h3PRSTyPiPwliFkXRZ0i1Zbqzb1qQPvrCsvRlQ0gyshxvNpIz2r
+   Y=;
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=univ-tours.fr; i=@univ-tours.fr; q=dns/txt; s=main;
+  t=1392739970; x=1424275970;
+  h=date:subject:from:to:message-id:mime-version:
+   content-transfer-encoding;
+  bh=ztO/GTabGGrJZ+HIbMvT44h+eqmjKvjN+QtGnYk4lbw=;
+  b=1p//S5pQJXvUqEshu6bETKkX+CbIOHsa5n3DzEz/ebpKnGm0fXKGA5AZ
+   dIDzFFH5NrLKUthRBMlEwHgLcbZUJA2q/YY/JdtXjQyYFuWjhQ3m3shs4
+   IAKXTDy4agvK9D1qFmpbCerj27fkupz/wjiB5px348Gj/fvWz1tqBiIVG
+   g=;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqAEAFiGA1MKwQUC/2dsb2JhbABZgz7ASIEOdIIsDDABTgEVLgRNBgwBBBOIEswfjh8RAYMGD4F6BIkQjCSEKoUVKI0jgT+BcA
+X-IPAS-Result: AqAEAFiGA1MKwQUC/2dsb2JhbABZgz7ASIEOdIIsDDABTgEVLgRNBgwBBBOIEswfjh8RAYMGD4F6BIkQjCSEKoUVKI0jgT+BcA
+Received: from unknown (HELO proxy20.zimbra.univ-tours.local) ([10.193.5.2])
+  by hermes2.univ-tours.fr with ESMTP; 18 Feb 2014 17:12:41 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by proxy20.zimbra.univ-tours.local (Postfix) with ESMTP id 63C457DA54
+	for <bioinfo@sfbi.fr>; Tue, 18 Feb 2014 17:12:41 +0100 (CET)
+X-Virus-Scanned: amavisd-new at proxy20.zimbra.univ-tours.local
+Received: from proxy20.zimbra.univ-tours.local ([127.0.0.1])
+	by localhost (proxy20.zimbra.univ-tours.local [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZDfl_SUKzig6 for <bioinfo@sfbi.fr>;
+	Tue, 18 Feb 2014 17:12:41 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by proxy20.zimbra.univ-tours.local (Postfix) with ESMTP id 488237DA55
+	for <bioinfo@sfbi.fr>; Tue, 18 Feb 2014 17:12:41 +0100 (CET)
+X-Virus-Scanned: amavisd-new at proxy20.zimbra.univ-tours.local
+Received: from proxy20.zimbra.univ-tours.local ([127.0.0.1])
+	by localhost (proxy20.zimbra.univ-tours.local [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id lBuVqvedkEOe for <bioinfo@sfbi.fr>;
+	Tue, 18 Feb 2014 17:12:41 +0100 (CET)
+Received: from [10.68.9.51] (unknown [10.68.9.51])
+	by proxy20.zimbra.univ-tours.local (Postfix) with ESMTP id 2D1E37DA54
+	for <bioinfo@sfbi.fr>; Tue, 18 Feb 2014 17:12:41 +0100 (CET)
+User-Agent: Microsoft-Entourage/12.36.0.130206
+Date: Tue, 18 Feb 2014 17:12:40 +0100
+From: Elisabeth Herniou <elisabeth.herniou@univ-tours.fr>
+To: Bioinfo <bioinfo@sfbi.fr>
+Message-ID: <CF294508.1A63E%elisabeth.herniou@univ-tours.fr>
+Thread-Topic: Bourse de =?ISO-8859-1?B?dGjoc2U=?
+ =?ISO-8859-1?B?IGZpbmFuY+ll?=: =?ISO-8859-1?B?IEJpb2RpdmVyc2l06Q==?= et
+ =?ISO-8859-1?B?6XZvbHV0aW9u?= des virus =?ISO-8859-1?B?cHLpc2VudHM=?= dans
+ les =?ISO-8859-1?B?bel0YWfpbm9tZXM=?= animaux
+Thread-Index: Ac8sxD8MqrlnatC3P0mEO7UKIwwOBw=
+Mime-version: 1.0
+Content-type: text/plain;
+	charset="ISO-8859-1"
+Content-transfer-encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Bourse de thèse  financée:
+  Biodiversité et évolution des
+ virus présents dans les
+ métagénomes animaux
+Bonjour à tous,
+Je souhaite attirer votre attention sur une bourse de thèse financée au
+ sein
+de l=B9école doctorale en Santé, Sciences Biologiques et Chimie du Viva
+nt
+(Ecole Doctorale 549, SSBCV) de l=B9Université de Tours.
+http://recherche-valorisation.univ-tours.fr/recherche/offres-d-allocations-d
+octorales-en-sante-sciences-biologiques-et-chimie-du-vivant-ecole-doctorale-
+549-ssbcv-pour-la-rentree-universitaire-2014--390435.kjsp
+Bien cordialement,
+Dr Elisabeth Herniou
+Institut de Recherche sur la Biologie de l=B9Insecte (IRBI)
+Universite de Tours
+Parc Grandmont
+37200 Tours, FRANCE
+E-mail: elisabeth.herniou@univ-tours.fr
+Tel:   +33 247367381
+Fax: +33 247366966
+http://irbi.univ-tours.fr//
+Bourse de Thèse 2014
+1. Encadrement
+            Dr Elisabeth Herniou et Dr Philippe Gayral
+ Unité : IRBI, UMR CNRS 7261 Université Fran=E7ois Rabelais
+Equipe : Evolution des Virus Intégrés et Libres (EVIL),
+Groupe Evolution des Virus Entomopathogènes (EVE)
+            Email de l=B9encadrant : elisabeth.herniou@univ-tours.fr
+<mailto:elisabeth.herniou@univ-tours.fr> & philippe.gayral@univ-tours.fr
+2. Titre de la thèse :
+Biodiversité et évolution des virus présents dans les métagénomes
+ animaux
+3. Résumé :
+Les virus sont des éléments majeurs des systèmes biologiques, qui app
+liquent
+des pressions de sélection sur la physiologie de leurs hôtes et jouent 
+sur
+l=B9équilibre des écosystèmes. Les techniques de séquen=E7age de no
+uvelle
+génération (NGS) ont révélé l=B9extraordinaire diversité virale
+. La
+métaviromique rend possible l=B9étude de l=B9ensemble de la diversité
+ virale au
+sein d=B9un échantillon environnemental. Les analyses bioinformatiques des
+viromes permettent ainsi la découverte de nouveaux virus. Si les viromes
+d=B9organismes modèles commencent à être bien caractérisés, la ma
+jorité des
+viromes demeurent inconnue. A l=B9heure où la mondialisation facilite la
+rencontre entre virus et espèces hôtes potentielles, il apparait
+indispensable de quantifier et d=B9analyser cette biodiversité virale, 
+à la
+source des maladies émergentes importantes.
+Ce sujet de thèse propose de combler en partie nos lacunes sur la
+biodiversité virale par l=B9analyse à grande échelle de données d
+=B9animaux
+non-modèles obtenues par NGS. Le but étant de découvrir et de caract
+ériser
+de nouveaux virus mais également de comprendre leur évolution. En
+collaboration avec l=B9ISEM de Montpellier, l=B9équipe d=B9accueil a obte
+nu par la
+méthode Illumina de 430 transcriptomes, appartenant à 33 groupes
+taxonomiques d=B9animaux sauvages, représentatifs de la diversité des
+métazoaires. Les résultats préliminaires réalisés à partir de s
+eulement 6%
+des données montrent l=B9extraordinaire potentiel de ces transcriptomes p
+our
+la découverte de nouveaux virus et l=B9étude de l=B9évolution virale.
+ Parmi les
+9 virus déjà découverts, nous souhaitons d=B9ores et déjà approfo
+ndir l=B9étude
+d=B9un virus de fourmis proche du Lake Sinaï Virus (LSV, +ssRNA virus non
+assigné). Le LSV, récemment décrit chez l=B9abeille serait potentiell
+ement
+impliqué dans le syndrome d=B9effondrement des colonies. La découverte 
+de
+LSV-like chez les fourmis ouvre de nouvelles perspectives sur la
+transmission de ces virus pouvant avoir une portée en science appliquée.
+Les objectifs de cette thèse sont: 1) de découvrir de nouveaux virus 
+à
+partir de transcriptomes d=B9animaux sauvages non modèles 2) de comprendre
+l=B9écologie et l=B9évolution d=B9un nouveaux virus associé aux fourm
+is.
+Axe 1 : Découverte de nouveaux virus par approche bioinformatique. La
+stratégie à fa=E7on déjà mise en =A6uvre par l=B9équipe d=B9accue
+il pourra être
+utilisée et améliorée. Le pipeline bioinformatique consiste à assem
+bler de
+novo des transcriptomes, détecter des ORFs et rechercher des protéines
+virales homologues. Ceci permet de détecter des génomes viraux. La gé
+nomique
+comparative et la phylogénétique permettent ensuite de définir le
+positionnement taxonomique de ces virus. Le résultat de cette méta-anal
+yse
+donnera une vision globale de la biodiversité virale chez les métazoair
+es.
+Axe 2 : Caractérisation moléculaire et évolutive d=B9un nouveau virus
+ de
+fourmis. La nature virale des séquences LSV-like sera démontrée par la
+caractérisation en microscopie électronique des particules virales. Afi
+n de
+pouvoir étudier la prévalence du virus dans la nature, une méthode de
+détection par PCR sera mise au point. Cette méthode sera complétée 
+par un
+titrage par qPCR afin de mieux évaluer la répartition du virus dans les
+tissus de l=B9hôte. Ces données, replacées dans le contexte des nombr
+eux
+autres virus qui seront découverts dans l=B9axe 1, permettront de retracer
+l=B9histoire coévolutive de ces virus et de leurs hôtes.
+4. Etudiant
+Nous recherchons un(e) étudiant(e) très motivé(e), fortement intére
+ssé(e)
+par la bioinformatique, la biologie évolutive ou la virologie. Une
+expérience dans l'analyse des données NGS est souhaitable.
+Pour candidater, envoyer un CV accompagné de vos bulletin de notes de
+licence et master, une lettre de motivation ainsi que les noms et e-mail de
+3 référents.
+La date limite est le lundi 31 of Mars 2014. Des auditions, de candidats
+présélectionnés le 7 Avril, auront lieu dans la Semaine du 14 au 18 A
+vril.
+Les auditions à l'Ecole Doctorale sont prévues le mardi 13 mai.

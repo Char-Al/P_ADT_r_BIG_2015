@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2654A26801D
+	for <bioinfo@sfbi.fr>; Wed,  3 Sep 2014 16:13:37 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtkBAEghB1SKZqI0nGdsb2JhbABZg2BXAYJ7xVaIahABAQEBAQYNCQkUKYQtEAURMw4kAh8HAhIsECSIQg2YO48vgXSOKIV3gSyNPxEBbYJjgVMFgS2yaYFIaoEPgUABAQE
+X-IronPort-AV: E=Sophos;i="5.04,457,1406584800"; 
+   d="scan'208";a="63727438"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Sep 2014 16:13:36 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s83EDaGM004241
+	for <bioinfo@sfbi.fr>; Wed, 3 Sep 2014 16:13:36 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id EED93296B97
+	for <bioinfo@sfbi.fr>; Wed,  3 Sep 2014 16:13:35 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XPBLH-0009Po-0M
+	for bioinfo@sfbi.fr; Wed, 03 Sep 2014 16:15:23 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XPBLH-0009Po-0M@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Wed, 03 Sep 2014 16:15:23 +0200
+X-Miltered: at alpha with ID 54072210.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54072210.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54072210.000 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.232 -> S=0.317
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Bioanalyst for the anal  ysis of =?UTF-8?Q?=E2=80=9CEpigenetic?= mechanisms in Parkinson D  =?UTF-8?Q?isease=E2=80=9D?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioanalyst for the analysis of “Epigenetic mechanisms  
+in Parkinson Disease”
+Type de poste : Post-doc / IR
+Durée du poste : 18-36 mois
+Ville : Evry
+Nom du contact : Jorg Tost
+Email du contact : tost@cng.fr
+Laboratoire : Laboratory for Epigenetics & Environment, CEA-CNG, Evry
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/bioanalyst-analysis-%E2%80%9Cepigenetic-mechanisms-parkinson-disease%E2%80%9D

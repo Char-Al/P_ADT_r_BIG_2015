@@ -1,0 +1,99 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <marcilio.desouto@univ-orleans.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2137826801D
+	for <bioinfo@sfbi.fr>; Thu, 13 Nov 2014 22:42:48 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AocBAAAlZVTCpx4zmWdsb2JhbABbg2JZAcxsCohzFgEBAQEBEQEBAQEBCAsLBxQuhCYVATUFAkY0YQkLiDEJqy2lWwELAR+NRoJrAREBbYIgD0SBQgWEbzMCgRiNDINFhEyCV4E1g0+TdIFtbIEPgTwBAQE
+X-IPAS-Result: AocBAAAlZVTCpx4zmWdsb2JhbABbg2JZAcxsCohzFgEBAQEBEQEBAQEBCAsLBxQuhCYVATUFAkY0YQkLiDEJqy2lWwELAR+NRoJrAREBbYIgD0SBQgWEbzMCgRiNDINFhEyCV4E1g0+TdIFtbIEPgTwBAQE
+X-IronPort-AV: E=Sophos;i="5.07,380,1413237600"; 
+   d="scan'208";a="68124291"
+Received: from perth.univ-orleans.fr ([194.167.30.51])
+  by b-mx1.relay.syrhano.net with ESMTP; 13 Nov 2014 22:42:46 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by perth.univ-orleans.fr (Postfix) with ESMTP id 5107FA6068
+	for <bioinfo@sfbi.fr>; Thu, 13 Nov 2014 22:42:51 +0100 (CET)
+Received: from perth.univ-orleans.fr ([127.0.0.1])
+	by localhost (perth.univ-orleans.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Ou7S8ZraIlHj for <bioinfo@sfbi.fr>;
+	Thu, 13 Nov 2014 22:42:51 +0100 (CET)
+Received: from univ-orleans.fr (repartiteur.univ-orleans.fr [194.167.30.199])
+	by perth.univ-orleans.fr (Postfix) with ESMTP id 297B8A6041
+	for <bioinfo@sfbi.fr>; Thu, 13 Nov 2014 22:42:51 +0100 (CET)
+Received: from repartiteur.univ-orleans.fr (repartiteur.univ-orleans.fr
+ [194.167.30.199]) by webmailper.univ-orleans.fr (Horde Framework) with
+ HTTP; Thu, 13 Nov 2014 22:42:30 +0100
+Message-ID: <20141113224230.78924y1t5g4thccm@webmailper.univ-orleans.fr>
+Date: Thu, 13 Nov 2014 22:42:30 +0100
+From: Marcilio Pereira De Souto <marcilio.desouto@univ-orleans.fr>
+To: bioinfo@sfbi.fr
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=ISO-8859-1;
+ DelSp="Yes";
+ format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Dynamic Internet Messaging Program (DIMP) H3 (1.1.8)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CFP: IJCNN 2015 Special Session on "Multiple Clusterings"
+*** Apologies for cross-posting ***
+			   Call for Papers
+     IEEE IJCNN 2015 Special Session on "Multiple Clusterings"
+       July 12 - 17, 2015, Killarney, Ireland.
+----------------------------------------------------------
+IMPORTANT DATES
+Paper submission:  January 15th, 2015
+Paper Decision notification: March 15th, 2015
+Camera-ready submission: April 15th, 2015
+Conference Dates: July 12 - 17th, 2015
+----------------------------------------------------------
+*DESCRIPTION*
+Currently, more and more data are collected from multiple sources or  
+represented by multiple views (e.g., text, video, images, biological  
+data, among others). In this context, clustering techniques are often  
+required to be able to provide several possibilities for analyzing the  
+data. As a consequence, in recent years, the interdisciplinary  
+research topic on multiple clusterings has drawn significant attention  
+of the data mining community.
+The research in such a field encompasses those of well-established  
+areas, such as cluster ensemble, multi-objective clustering,  
+multi-view clustering and constraint-based clustering. In this special
+session, we aim at bringing together researchers from these areas to  
+discuss questions in multiple clusterings.
+*TOPICS*
+Papers must present original work or review the state-of-the-art in  
+the following non-exhaustive list of topics:
+- Cluster ensemble
+- Multi-objective clustering
+- Multi-view clustering
+- Constraint-based clustering
+- Semi-supervised clustering
+- Model selection and visualization
+- Applications (e.g., document mining, bioinformatics, marketing,  
+among others)
+*SUBMISSION*
+IMPORTANT: the ** deadline ** for paper submission to special sessions  
+is the same of that of IJCNN 2015, ** January 15th 2015***.
+Prospective authors are invited to submit papers via the IJCNN 2015  
+conference submission system at:
+http://www.ijcnn.org/paper-submission
+Please make sure to select the Special Session "Multiple clusterings"  
+from the "S. SPECIAL SESSION TOPICS" name in the "Main Research topic"  
+drop-down list. Templates and instruction for authors are provided on  
+the IJCNN website.
+All papers submitted to the special sessions will be subject to the  
+same peer-review procedure as regular papers. Accepted papers will be  
+published in the conference proceedings.
+Further information about IJCNN 2015 can be found at http://www.ijcnn.org/
+***********************************************************
+Special Session on "Multiple clusterings" at IJCNN 2015
+*Organizers*
+Prof. Marcilio C. P. de Souto and Dr. Guillaume Cleuziou
+Constraints and Machine Learning (CA) Team
+Laboratoire d'Informatique Fondamentale d'Orléans (LIFO)
+University of Orléans, Orléans, France
+Email: marcilio.desouto@univ-orleans.fr, guillaume.cleuziou@univ-orleans.fr
+Website: https://sites.google.com/site/ijcnnmultipleclusterings/

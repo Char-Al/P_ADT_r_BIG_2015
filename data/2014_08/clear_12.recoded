@@ -1,0 +1,89 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Jean-Philippe.Vert@mines-paristech.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 6198C26801D
+	for <bioinfo@sfbi.fr>; Tue, 12 Aug 2014 17:03:40 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqQCAFEs6lNWQapCnGdsb2JhbABag19YA4J1yjaHPgUDgRQWEAEBAQEBCBQJPYQnBg8BBTABAQECQQImAok4CZ9YjyuBbYUSjx6BLIpxgld1gmOBUwWVQ4Z1gViRTYNwgUiBcA
+X-IronPort-AV: E=Sophos;i="5.01,849,1400018400"; 
+   d="scan'208";a="62876130"
+Received: from fontainebleau.ensmp.fr ([86.65.170.66])
+  by b-mx1.relay.syrhano.net with ESMTP; 12 Aug 2014 17:03:11 +0200
+Received: from webmail.sif.ensmp.fr (webmail.sif.ensmp.fr [86.65.170.79])
+	by fontainebleau.ensmp.fr (8.13.8/8.13.8) with ESMTP id s7CF39a3017299
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Tue, 12 Aug 2014 17:03:09 +0200
+Received: from fbl77-1-88-163-1-215.fbx.proxad.net
+ (fbl77-1-88-163-1-215.fbx.proxad.net [88.163.1.215]) by
+ webmail.sif.mines-paristech.fr (Horde Framework) with HTTP; Tue, 12 Aug 2014
+ 17:03:09 +0200
+Date: Tue, 12 Aug 2014 17:03:09 +0200
+Message-ID: <20140812170309.Horde.-5n2dIbj5XPC85H52Sqc0g6@webmail.sif.mines-paristech.fr>
+From: Jean-Philippe Vert <Jean-Philippe.Vert@mines-paristech.fr>
+To: bioinfo@sfbi.fr
+Reply-To: Jean-Philippe.Vert@mines-paristech.fr
+User-Agent: Internet Messaging Program (IMP) H5 (6.1.7)
+Content-Type: text/plain; charset=UTF-8; format=flowed; DelSp=Yes
+MIME-Version: 1.0
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-Miltered: at fontainebleau.ensmp.fr with ID 53EA2CAD.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53EA2CAD.000 from webmail.sif.ensmp.fr/webmail.sif.ensmp.fr/86.65.170.79/webmail.sif.ensmp.fr/<Jean-Philippe.Vert@mines-paristech.fr>
+X-Scores-Stats: 53EA2CAD.000 B=0.02078 L=0.43147 G=0.01585 Agree    
+X-j-chkmail-Score: MSGID : 53EA2CAD.000 on fontainebleau.ensmp.fr : j-chkmail score : . : R=. U=. O=. B=0.016 -> S=0.016
+X-j-chkmail-Status: Ham
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Machine Learning for Personalized Medicine summer school, Sep
+ 11-19, Institut Curie, Paris
+Call for participation
+2nd Machine Learning for Personalized Medicine (MLPM) summer school
+Sep 11-19, 2014
+Institut Curie, Paris, France
+Information and registration
+http://mlpm.eu/summer-school/summer-school-2014/
+Presentation
+The 2nd MLPM summer school is open to students, researchers and  
+professionals interested in bringing together machine learning and  
+statistical genetics to contribute to the development of data-driven,  
+personalized medicine. The summer school will mix invited talks,  
+scientific lectures and complementary skills courses to educate  
+interdisciplinary experts who will develop and employ the  
+computational and statistical tools that are necessary to enable  
+personalized medical treatment of patients according to their genetic  
+and molecular properties and who are aware of the scientific, clinical  
+and industrial implications of this research.
+Organizers
+Chloé Azencott, Florence Demenais, Jean-Philippe Vert
+Speakers
+Pierre Baldi (UC Irvine)
+Guillaume Bourque (McGill University)
+Joaquin Dopazo (Centro de Investigación Príncipe Felipe)
+Alexander Gerber (Rhine Waal University)
+Fabian Heinemann (Roche Diagnostics)
+David Montaner (Centro de Investigación Príncipe Felipe)
+Bertram Müller-Myhsok (Max Planck Institute of Psychiatry)
+Fernando Pérez Cruz (University Carlos III)
+Gunnar Rätsch (Memorial Sloan Kettering Cancer Center)
+Antonio Artés Rodríguez (University Carlos III)
+Bernhard Schölkopf (Max Planck Institute for Intelligent Systems)
+Mikel Tapia (University Carlos III)
+Volker Tresp (Siemens)
+Gaël Varoquaux (INRIA)
+Patrice Wegener (Max Planck Institute for Biological Cybernetics)
+Chen Yanover (IBM)
+Schedule
+The schedule is available on the web site. The summer school will take  
+place from Sep 11 to Sep 19, with a break from saturday, Sep 13 to  
+monday, Sep 15, for general participants.
+Registration
+Please register directly through the web site. There is a registration  
+fee of 600 euros which covers all lectures, lunches, coffee breaks and  
+two conference dinners.
+Attendance is limited and will be allocated on a  
+first-come-first-served basis.
+Accommodation and transportation
+You will have to arrange accommodation and transportation by yourself.  
+The web sites contains information on how to reach the summer school  
+venue and on local hotels.

@@ -1,0 +1,57 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <ludovic.mallet@uni-muenster.de>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C017E26801D
+	for <bioinfo@sfbi.fr>; Mon, 21 Jul 2014 14:14:57 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmIBACgDzVOAsMARf2dsb2JhbABZg2DGB4dFAYEvDwEBCwsKCBQphAQBBQwmAQVAESwWDwkDAgECAUUTCAEBBRCIKQ2+aBePUhaEMAWiNQWPHIFEaw
+X-IronPort-AV: E=Sophos;i="5.01,700,1400018400"; 
+   d="scan'208";a="62040104"
+Received: from zivm-wwu3-1.uni-muenster.de (HELO zivm-wwu3.uni-muenster.de) ([128.176.192.17])
+  by b-mx1.relay.syrhano.net with ESMTP; 21 Jul 2014 14:14:56 +0200
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgQFACgDzVOAsMCN/2dsb2JhbABZgw5SxgeHRQGBGRZ2hAQBBQwmAQVAESwWDwkDAgECAUUTCAEBBRCIKQ2+aBePUhaEMAWiNQWNGoICgURr
+X-IPAS-Result: AgQFACgDzVOAsMCN/2dsb2JhbABZgw5SxgeHRQGBGRZ2hAQBBQwmAQVAESwWDwkDAgECAUUTCAEBBRCIKQ2+aBePUhaEMAWiNQWNGoICgURr
+X-IronPort-AV: E=Sophos;i="5.01,700,1400018400"; 
+   d="scan'208";a="37970800"
+Received: from secmail.uni-muenster.de ([128.176.192.141])
+  by zivm-relay3.uni-muenster.de with ESMTP; 21 Jul 2014 14:14:55 +0200
+Received: from [128.176.213.103] (EBBALANINE.UNI-MUENSTER.DE [128.176.213.103])
+	by SECMAIL.UNI-MUENSTER.DE (Postfix) with ESMTP id 00926BF402
+	for <bioinfo@sfbi.fr>; Mon, 21 Jul 2014 14:14:55 +0200 (CEST)
+Message-ID: <53CD043F.4070006@uni-muenster.de>
+Date: Mon, 21 Jul 2014 14:14:55 +0200
+From: Ludovic Mallet <ludovic.mallet@uni-muenster.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <53BA769C.903@insa-lyon.fr> <53C93141.7010707@insa-lyon.fr>
+In-Reply-To: <53C93141.7010707@insa-lyon.fr>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre de =?WINDOWS-1252?Q?thèse?=: =?WINDOWS-1252?Q?=C9tude?= de l'origine =?WINDOWS-1252?Q?génétique?= et contraintes =?WINDOWS-1252?Q?évolutives?= des nouveaux,=?WINDOWS-1252?Q?gènes?= codant
+Deux offres de thèse assorties de trois ans de financement sont proposées
+par la "Münster Graduate School of Evolution"
+Un des sujets est proposé par l'équipe /Evolutionary Bioinformatics/ et 
+porte
+sur l'étude de l'origine génétique et contraintes évolutives des nouveaux
+gènes codant à l'échelle des populations.
+*** Attention date limite de candidature : 01 / 08 / 2014 ***
+Le projet joint est porté par :
+Prof. Erich Bornberg-Bauer (Research Group Evolutionary Bioinformatics, 
+Münster)
+Prof. Matthias Löwe (Institute of Mathematical Statistics, Münster)
+Prof. Jürgen Gadau (School of Life Sciences, Arizona State University)
+Appel original + procédure de candidature:
+http://www.uni-muenster.de/Evolution/mgse/jobs/index.shtml
+Laboratoire:
+http://www.bornberglab.org/
+Münster, ville universitaire, massivement cycliste et excellente qualité 
+de vie
+(Première ville mondiale en 2004, Liv-Com Award):
+Conditions:
+*La/Le Candidat(e) ne peut être Allemand. (voir conditions sur le site 
+du DAAD ou MGSE)

@@ -1,0 +1,139 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <jean-francois.gibrat@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id CE95626801D
+	for <bioinfo@sfbi.fr>; Thu, 16 Jan 2014 11:43:45 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsIBALq211KKZqI0nGdsb2JhbABZg0O7X4EoDgEBAQEBCAsJCRQogjgmAQUzAgUGJRgWGAMCAQIBWAYCAQEXh2mZA6sQjh0RASqEZASYIIZFjn6BcA
+X-IronPort-AV: E=Sophos;i="4.95,667,1384297200"; 
+   d="scan'208";a="52446422"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 16 Jan 2014 11:43:45 +0100
+Received: from [138.102.22.133] (mig133 [138.102.22.133])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s0GAhhu6029544
+	for <bioinfo@sfbi.fr>; Thu, 16 Jan 2014 11:43:44 +0100 (CET)
+Message-ID: <52D7B7DF.2060000@jouy.inra.fr>
+Date: Thu, 16 Jan 2014 11:43:43 +0100
+From: "jean-francois.gibrat" <jean-francois.gibrat@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at beta with ID 52D7B7DF.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52D7B7DF.000/138.102.22.133/mig133/[138.102.22.133]/<jean-francois.gibrat@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 52D7B7DF.000 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.010 -> S=0.010
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postes en mobilité à l'Institut Fran=E7ais de Bioinformatique
+*Contexte :
+L'Institut Français de Bioinformatique (IFB) est l'infrastructure
+nationale de service en bioinformatique issue de l'appel à
+propositions « Infrastructure en Biologie Santé » des Investissements
+d'Avenir. L'IFB-core est le noeud national de l'IFB. C'est une unité
+mixte créée début 2013 et située dans le bâtiment de la plate-forme
+Imagif sur le campus CNRS de Gif-sur-Yvette.
+Cette unité doit jouer un rôle crucial dans la mise en place de l'IFB en
+prenant en charge les aspects administratifs et techniques de
+l'infrastructure nationale.
+Afin d'assurer la pérennité de l'infrastructure nationale, il a été
+demandé aux cinq tutelles de l'UMS (CNRS, CEA, INRA, INRIA, INSERM) de
+fournir dix postes permanents pour l'IFB-core. Dans un premier temps
+ces postes doivent être pourvus *en mobilité*. Cette annonce s'adresse
+donc uniquement à des permanents d'un des organismes de recherche
+cités, souhaitant effectuer une mobilité professionnelle.
+L'IFB-core est constituée de deux équipes (cellules) dédiées à :
+  - la communication, formation et valorisation,
+  - la mise en place et la gestion de l'infrastructure informatique
+    nationale de l'IFB et au déploiement d'un Cloud académique sur
+    cette infrastructure.
+Les postes à pourvoir en mobilité sont décrits ci-dessous.
+*Contact :
+Pour plus de renseignements contacter : jean-francois.gibrat@jouy.inra.fr
+*Cinq profils recherchés :
+Pour la cellule Communication, Formation et Valorisation :
+--------------------------------------------------------
+* Ingénieur en charge du site Web : bioinformaticien(ne), niveau IE.
+Missions : Sa tâche consistera dans un premier temps à développer le
+site Web puis à le mettre à jour régulièrement. Il/elle devra pour
+cela maintenir des relations étroites avec ses homologues des centres
+régionaux. La personne recrutée sera fortement impliquée dans le
+déploiement effectif des outils de E-learning développés par la
+cellule. Il/elle participera également au travail de recensement des
+outils bioinformatiques et collections de données disponibles sur
+l'infrastructure IFB (sur le noeud national et les PF
+régionales). Plus particulièrement, son rôle sera d'assurer la partie
+technique d'une activité visant à organiser et mettre à disposition
+une liste complète de ces outils et collection de données ainsi que de
+fournir la documentation associée (avec éventuellement des tutoriels
+créés par les PF). Dans ce cadre, l'objectif, à terme, serait de
+ressusciter le « deambulum » qui existait à INFOBIOGEN et visait à
+donner aux utilisateurs une vue d'ensemble de la bioinformatique et
+une description détaillée des différents outils et collections de
+données utilisés. Une bonne connaissance des techniques de
+publications Web est nécessaire, notamment le CMS Drupal.
+Pour la cellule Infrastructure
+------------------------------
+*Ingénieur « administrateur système » : informaticien(ne) ou
+bioinformaticien(ne) ayant une expérience pratique de l'administration
+de systèmes informatiques complexes, niveau IE/IR.
+Missions : La mission de cet ingénieur sera d'assurer l'administration
+système de l'infrastructure nationale de l'IFB, et d'assurer
+l'interface avec les équipes techniques du centre de calcul national
+hébergeant celle-ci. La personne recrutée, en collaboration avec les
+responsables techniques des PF régionales, devra mettre en place puis
+gérer un environnement informatique permettant aux utilisateurs des PF
+régionales nécessitant des moyens de calcul supplémentaires de
+transiter du noeud régional au noeud national d'une manière la plus
+transparente possible. Cet ingénieur devra donc implémenter la
+politique d'utilisation de l'infrastructure décidée par l'IFB
+(organisation des systèmes de fichiers, quotas, définitions des queues
+pour l'utilisation des machines du cluster, etc.). De bonnes
+connaissances en administration de systèmes Linux, de stockage
+partagés, de réseau et d'infrastructure de calcul type cluster sont
+requises. Des connaissances dans les techniques de virtualisation et
+les systèmes de service d'infrastructure cloud (StratusLab,
+OpenStack,...) existants seront un avantage.
+*Ingénieur en charge du déploiement du Cloud : informaticien(ne) ou
+bioinformaticien(ne) spécialiste des techniques de calcul intensif et
+distribué et des problématiques associées au déploiement d'un Cloud
+pour les sciences du vivant, niveau IE/IR.
+Missions : Il/elle sera responsable, en pratique, de la mise en place
+du Cloud sur l'infrastructure de l'IFB et il/elle en assurera ensuite
+la gestion et l'évolution. L'IFB cherchera à s'impliquer comme
+partenaire, en collaboration avec l'Institut des Grilles et du Cloud
+et IDRIS, dans les initiatives académiques visant à développer des
+Clouds académiques.  L'ingénieur recruté devra s'impliquer étroitement
+dans ces projets et il/elle aura pour tâche de déployer les solutions
+techniques retenues et de les évaluer. De bonnes connaissances des
+techniques de virtualisation, des systèmes de service d'infrastructure
+cloud (StratusLab, OpenStack,...) existants et des stockages associés
+(distribués, mode bloc et objet) sont requises.
+* Deux ingénieurs experts en calcul scientifique : informaticien(ne)s
+ou bioinformaticien(ne)s spécialisé(e)s en calcul scientifique,
+algorithmique, optimisation de codes, niveau IR/IE.
+Missions : Le rôle de ces ingénieurs sera d'aider les utilisateurs à
+tirer le meilleur parti de l'environnement proposé par le noeud
+national. Ils/elles seront également responsable de l'installation et
+de la mise à jour régulière des outils et des collections de données
+utilisés. Cela pourra inclure aussi bien l'aide à la construction de
+machines virtuelles, que l'aide à la parallélisation/distribution du
+code, à la construction de modèles de données adaptés à
+l'environnement de cloud, au portage sur des architectures
+spécialisées (GPU), au choix des algorithmes, à l'utilisation des
+instructions SIMD des processeurs, etc. Ces ingénieurs auront vocation
+à travailler en synergie avec les bioinformaticiens des centres
+régionaux et leurs homologues du centre national de calcul intensif
+hébergeur.
+-- 
+========================================================================
+Jean-Francois Gibrat                    Tel: +33 (1) 34 65 28 97
+Mathematique Informatique et Genome,    Fax: +33 (1) 34 65 29 01
+Institut National de la Recherche       Email: jean-francois.gibrat@jouy.inra.fr
+Agronomique, Domaine de Vilvert,        http://mig.jouy.inra.fr
+78352, Jouy-en-Josas cedex, France
+========================================================================

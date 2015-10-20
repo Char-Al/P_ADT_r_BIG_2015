@@ -1,0 +1,55 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 14C5226801D
+	for <bioinfo@sfbi.fr>; Fri,  5 Sep 2014 18:52:37 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AswBAMDpCVSKZqI0nGdsb2JhbABag2BXAYJ7xhWIZxABAQEBAQYNCQkUKYQtEAURKwgOJAIfBwISLBAkiEINmhaPL4F0jTiGQYEsjT8RAW2CY4FTBYEvsn6BSGqBD4FAAQEB
+X-IPAS-Result: AswBAMDpCVSKZqI0nGdsb2JhbABag2BXAYJ7xhWIZxABAQEBAQYNCQkUKYQtEAURKwgOJAIfBwISLBAkiEINmhaPL4F0jTiGQYEsjT8RAW2CY4FTBYEvsn6BSGqBD4FAAQEB
+X-IronPort-AV: E=Sophos;i="5.04,474,1406584800"; 
+   d="scan'208";a="63872080"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Sep 2014 18:52:37 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s85GqYcg019906
+	for <bioinfo@sfbi.fr>; Fri, 5 Sep 2014 18:52:34 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 1B203296B97
+	for <bioinfo@sfbi.fr>; Fri,  5 Sep 2014 18:52:35 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XPwmE-000ED0-UG
+	for bioinfo@sfbi.fr; Fri, 05 Sep 2014 18:54:22 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XPwmE-000ED0-UG@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Fri, 05 Sep 2014 18:54:22 +0200
+X-Miltered: at alpha with ID 5409EA52.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5409EA52.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5409EA52.001 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.240 -> S=0.327
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Stage] Stage Master 2 : Structure et f  onction des longs ARN non-codant (lncRNAs) impl  =?UTF-8?Q?iqu=C3=A9s?= dans les cancers : Application aux cance  rs canins
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Stage Master 2 : Structure et fonction des longs ARN  
+non-codant (lncRNAs) impliqués dans les cancers : Application aux cancers  
+canins
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Rennes
+Nom du contact : Lavenier Dominique
+Email du contact : lavenier@irisa.fr
+Laboratoire : GenScale/IRISA
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/stage-master-2-structure-et-fonction-des-longs-arn-non-codant-lncrnas-impliqu%C3%A9s-dans-les-can

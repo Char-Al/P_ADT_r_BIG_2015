@@ -1,0 +1,45 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7B99E26801D
+	for <bioinfo@sfbi.fr>; Sun, 30 Mar 2014 11:40:20 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgIDAPXlN1OKZqI0nGdsb2JhbABZg0GDYcACA4EoDgEBAQEBCAsJCRQogk8PAQURLzYCBRYEBwILAwIBAgE6HgYCAQGHdQQJn1SPHKIyF4EpjHQRAW2CWYFJBJhOlCaBQYFw
+X-IronPort-AV: E=Sophos;i="4.97,759,1389740400"; 
+   d="scan'208";a="56220227"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 30 Mar 2014 11:40:20 +0200
+Received: from MacBook-Air-de-sophie-2.local (bur91-3-82-239-212-158.fbx.proxad.net [82.239.212.158])
+	(authenticated bits=0)
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s2U9eILA015079
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Sun, 30 Mar 2014 11:40:19 +0200 (CEST)
+Message-ID: <5337E686.6050904@jouy.inra.fr>
+Date: Sun, 30 Mar 2014 11:40:22 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at beta with ID 5337E682.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5337E682.000/82.239.212.158/bur91-3-82-239-212-158.fbx.proxad.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 5337E682.000 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=## B=0.079 -> S=0.117
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][=?UTF-8?Q?Th=C3=A8se?=] =?UTF-8?Q?Pr=C3=A9diction?= de la =?UTF-8?Q?cin=C3=A9tique?= des inhibiteurs de =?UTF-8?Q?prot=C3=A9ines?= kinases et de leur =?UTF-8?Q?affinit=C3=A9?= par docking flexible.=?UTF-8?Q?=E2=80=8F?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Prédiction de la cinétique des inhibiteurs de 
+protéines kinases et de leur affinité par docking flexible.‏
+Type de poste : Thèse
+Durée du poste : 3 ans
+Ville : Orléans
+Nom du contact : Samia Aci-Sèche
+Email du contact : samia.aci@cnrs-orleans.fr
+Laboratoire : Institut de Chimie Organique et Analytique
+Voir la description complète du poste sur 
+http://www.sfbi.fr/content/prédiction-de-la-cinétique-des-inhibiteurs-de-protéines-kinases-et-de-leur-affinité-par-dock

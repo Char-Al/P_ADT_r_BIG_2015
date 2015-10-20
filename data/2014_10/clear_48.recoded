@@ -1,0 +1,84 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <vincent.henry@omictools.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2BE9E26801D
+	for <bioinfo@sfbi.fr>; Wed, 15 Oct 2014 20:38:56 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: As0BAPa9PlTZRrfFm2dsb2JhbABbg2FYBII6SMh9iGYWAREBAQEBAQYLCwkULoQVFxURIiIFHAImAmASCIg6CZZ/nE2VU4EskiCBVAWWQ4h9lgGCJmqBSIECAQEB
+X-IPAS-Result: As0BAPa9PlTZRrfFm2dsb2JhbABbg2FYBII6SMh9iGYWAREBAQEBAQYLCwkULoQVFxURIiIFHAImAmASCIg6CZZ/nE2VU4EskiCBVAWWQ4h9lgGCJmqBSIECAQEB
+X-IronPort-AV: E=Sophos;i="5.04,726,1406584800"; 
+   d="scan'208";a="66297634"
+Received: from relay5-d.mail.gandi.net ([217.70.183.197])
+  by b-mx1.relay.syrhano.net with ESMTP; 15 Oct 2014 20:38:55 +0200
+Received: from mfilter25-d.gandi.net (mfilter25-d.gandi.net [217.70.178.153])
+	by relay5-d.mail.gandi.net (Postfix) with ESMTP id 09CB441C053;
+	Wed, 15 Oct 2014 20:38:55 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mfilter25-d.gandi.net
+Received: from relay5-d.mail.gandi.net ([217.70.183.197])
+	by mfilter25-d.gandi.net (mfilter25-d.gandi.net [10.0.15.180]) (amavisd-new, port 10024)
+	with ESMTP id 25mud8H56nzZ; Wed, 15 Oct 2014 20:38:53 +0200 (CEST)
+X-Originating-IP: 10.58.1.144
+Received: from webmail.gandi.net (unknown [10.58.1.144])
+	(Authenticated sender: vincent.henry@omictools.com)
+	by relay5-d.mail.gandi.net (Postfix) with ESMTPA id 6649041C07C;
+	Wed, 15 Oct 2014 20:38:53 +0200 (CEST)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Date: Wed, 15 Oct 2014 20:38:53 +0200
+From: vincent.henry@omictools.com
+To: arnaud.desfeux@omictools.com, bioinfo@sfbi.fr
+Message-ID: <88d99adf8d5a839115161d6a1eebe851@omictools.com>
+X-Sender: vincent.henry@omictools.com
+User-Agent: Roundcube Webmail/0.9.5
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Appel à =C2"curateurs=C2" - OMICtools
+OMICtools (omictools.com ; Henry et al., 2014; DATABASE) est une
+metadatabase qui centralise plus de 6000 outils d'analyse liés à 
+la
+bioinformatique existants (ou ayant existé) sur le Web.
+	Nous apportons un effort particulier 1) à la promotion de la
+bioinformatique auprès des spécialistes et des chercheurs ou clin
+iciens
+issus d'autres champs d'expertises gr=C3=A2ce à une interface didactiq
+ue et
+conviviale et 2) à la communication entre les développeurs et les
+utilisateurs, gr=C3=A2ce à des mini-forums associés à chaque
+ outil recensé.
+	Concrètement, OMICtools est un site dont l'intégralité du c
+ontenu est
+(et a pour vocation à rester) accessible gratuitement et sans
+inscription. Après un an d'existence, 1000 spécialistes v
+iennent visiter
+notre site par jour (34% Europe, 33% USA, 30% Asie).
+	OMICtools est reconnu en France entre autre par un lien permanent sur
+la page d'accueil du site biblioinserm. Au niveau international, la base
+de données participe activement au projet récent d'identification
+ des
+ressources. Un projet soutenu par les principaux éditeurs de journaux
+scientifiques. Les 2 premiers articles utilisant les identifiants
+OMICtools viennent d'être publiés.
+	Aujourd'hui, nous souhaiterions ouvrir plus largement notre site dans
+le cadre d'un appel à =C2"curateurs=C2"
+(http://omictools.com/call-for-curators.html). L'objectif est de
+compléter notre équipe de bénévoles avec de nouvelles p
+ersonnes qui
+prendraient en charge une section ou sous-section seul ou à plusieurs 
+en
+fonction de leurs disponibilités.
+	Le but est de créer un consortium avec des personnes partageant notre
+envie de mettre à disposition de la communauté scientifique
+internationale un outil qualitatif et éducationnel autour de la
+bioinformatique.
+	Bien entendu, tous les participants seront associés aux prochains
+articles.
+Nous restons à votre disposition pour toutes questions sur notre proje
+t,
+Bien cordialement,
+Vincent Henry                 et          Arnaud Desfeux
+vincent.henry@omictools.com               arnaud.desfeux@omictools.com
+Coordinateur associé bénévole             Créateur
+                           OMICtools   www.omictools.com

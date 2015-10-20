@@ -1,0 +1,97 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <p.geurts@ulg.ac.be>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id A2B8626801D
+	for <bioinfo@sfbi.fr>; Mon,  2 Jun 2014 14:20:35 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoIBAA1rjFOLpSBvnGdsb2JhbABYg1nEPBYOAQEBAQEGDQkJFCiCSUsFgQ5PiC4DEaBqrVENV4UtF4w8gUKEBoEVBIkLjnwBiQ6GJIktOw
+X-IronPort-AV: E=Sophos;i="4.98,956,1392159600"; 
+   d="scan'208";a="67800931"
+Received: from serv108.segi.ulg.ac.be ([139.165.32.111])
+  by a-mx1.relay.syrhano.net with ESMTP; 02 Jun 2014 14:20:35 +0200
+Received: (qmail 17245 invoked from network); 2 Jun 2014 14:20:34 +0200
+Received: from unknown (HELO [10.9.54.65]) (u179884@[10.9.54.65])
+          (envelope-sender <p.geurts@ulg.ac.be>)
+          by serv108.segi.ulg.ac.be (qmail-ldap-1.03) with SMTP
+          for <bioinfo@sfbi.fr>; 2 Jun 2014 14:20:34 +0200
+From: Pierre Geurts <p.geurts@ulg.ac.be>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <5F289D0A-228F-48C7-8C0C-4B6D31DA0432@ulg.ac.be>
+Date: Mon, 2 Jun 2014 14:20:33 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] 2nd CFP - MLSB14, the 8th Machine Learning in Systems Biology workshop
+[Apologies for cross-posting]
+             2nd Call for contributions
+    MLSB14, the eighth International Workshop on
+          Machine Learning in Systems Biology
+                 http://www.mlsb.cc
+   Organized in conjunction with ECCB 2014
+             Strasbourg, France, September 6-7, 2014.
+          Submission deadline: *** June 11, 2014 ***
+WORKSHOP DESCRIPTION
+MLSB14, the Eighth International Workshop on Machine Learning in
+Systems Biology, is a workshop of the ECCB 2014 conference. It aims to
+contribute to the cross-fertilization between the research in machine
+learning methods and their applications to systems biology by bringing
+together method developers and experimentalists. We are soliciting
+submissions bringing forward methods for discovering complex
+structures (e.g. interaction networks, molecule structures) and
+methods supporting genome-wide data analysis
+Please see the workshop website http://www.mlsb.cc for more details.
+SUBMISSIONS INSTRUCTIONS
+We invite you to submit an extended abstract of up to 4 pages in PDF
+format describing new or very recently published results. Submissions
+will be reviewed by the scientific programme committee. They will be
+selected for oral or poster presentation according to their
+originality and relevance to the workshop topics.
+KEY DATES
+Submission deadline: June 11, 2014
+Author notification: July 15, 2014
+Early registration deadline ECCB14: August 2, 2014
+Workshop: September 6-7, 2014
+CONFIRMED INVITED SPEAKERS
+Pierre Baldi, UCI University, California, USA
+Karsten Borgwardt, Max Planck Institute, Tubingen, Germany
+CONTACT
+For further information, please contact chairsmlsb2014@gmail.com
+CHAIRS
+Florence d'Alché-Buc (University of Evry, France)
+Pierre Geurts (University of Liege, Belgium)
+ORGANIZING COMMITTEE
+Florence d'Alché-Buc (University of Evry, France)
+Markus Heinonen (University of Evry, France)
+Pierre Geurts (University of Liege, Belgium)
+Vân Anh Huynh-Thu (University of Edinburgh, UK)
+Nizar Touleimat (Centre National de génotypage, CEA, Evry, France)
+PROGRAM COMMITTEE
+Florence d'Alché-Buc (University of Evry, France)
+Chloé-Agathe Azencott (CBIO, Mines ParisTech, Institut Curie, INSERM, Fra
+nce)
+Karsten Borgwardt (MPI Tubingen, Germany)
+Sa=9Ao D=9Eeroski (Jo=9Eef Stefan Institute, Slovenia)
+Mohamed Elati (Universite d'Evry, France)
+Pierre Geurts (University of Liège, Belgium)
+Markus Heinonen (University of Evry, France)
+Van Anh Huynh-Thu (University of Edimburgh, UK)
+Ross King (Aberystwyth University, UK)
+Stefan Kramer (University of Mainz, Germany)
+Yves Moreau (Katholieke Universiteit Leuven, Belgium)
+Sach Mukherjee (Netherlands Cancer Institute, Netherlands)
+Mahesan Niranjan (University of Southampton, UK)
+Uwe Ohler (Duke University, USA)
+John Pinney (Imperial College London, UK)
+Simon Rogers (University of Glasgow, UK)
+Juho Rousu (University of Helsinki, Finland)
+Yvan Saeys (University of Ghent, Belgium)
+Peter Sykacek (BOKU University, Austria)
+Nizar Touleimat (Centre National de Genotypage, CEA, France)
+Koji Tsuda (National Institute of Advanced Industrial Science and Technolog
+y, Japan)
+Jean-Philippe Vert (Ecole des Mines de Paris, France)
+Filip Zelezny (Czech Technical University in Prague, Czech Republic)

@@ -1,0 +1,76 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <dominique.zeliszewski@issb.genopole.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 98A4226801D
+	for <bioinfo@sfbi.fr>; Mon,  6 Oct 2014 15:00:42 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvsAAK2RMlTBM0ELl2dsb2JhbABf2UMBEQEBAQEBCBYHQIQWXGeJPZxPpBSNB4NbgxeBHgWGK4xPikSXeiaBRTuCeQEBAQ
+X-IPAS-Result: AvsAAK2RMlTBM0ELl2dsb2JhbABf2UMBEQEBAQEBCBYHQIQWXGeJPZxPpBSNB4NbgxeBHgWGK4xPikSXeiaBRTuCeQEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,664,1406584800"; 
+   d="scan'208";a="74218807"
+Received: from mail.issb.genopole.fr (HELO postman.issb.genopole.fr) ([193.51.65.11])
+  by a-mx1.relay.syrhano.net with ESMTP; 06 Oct 2014 15:00:42 +0200
+Received: from mac-issb.issb.lab (mac-issb.issb.lab [192.168.110.180])
+	by postman.issb.genopole.fr (Postfix) with ESMTPSA id 7347A2002
+	for <bioinfo@sfbi.fr>; Mon,  6 Oct 2014 15:00:05 +0200 (CEST)
+From: Dominique Zeliszewski <dominique.zeliszewski@issb.genopole.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 6 Oct 2014 15:00:40 +0200
+Message-Id: <F0193E6E-CAAF-4CEA-B081-9C54DF914BFF@issb.genopole.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1283)
+X-Mailer: Apple Mail (2.1283)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] aSSB'15 Thematic Research School on "advances in Systems and Synthetic Biology", Strasbourg, 23-27 March 2015
+Dear colleague,
+We are pleased to announce the aSSB'15 Thematic Research School on "advance
+s in Systems and Synthetic Biology - Modelling complex biological systems i
+n the context of genomics". The upcoming session will take place in Strasbo
+urg on 23-27 March 2015. The program includes conferences (listed below), m
+any hands-on tutorials, selected talks by students and postdocs, and poster
+ sessions.
+This cross-disciplinary Thematic School on Systems and Synthetic Biology is
+ the fourteenth edition of a series started in 2002.
+The dedicated website is now open to registration.
+Best wishes,
+The aSSB'15 Scientific Board.
+----------------------------------------
+aSSB'15 speakers and sessions:
+Jacques DEMONGEOT (AGIM, UJF, Grenoble, FR), special guest
+1. Cell modeling
+Albert GOLDBETER (ULB, Bruxelles, BE), keynote speaker
+Laurence CALZONE (Inst. Curie, Paris, FR)
+2. Modeling biological networks
+Nicolas LE NOV=C8RE (Babraham Inst., Cambridge, UK)
+Fran=E7ois FAGES (INRIA, Rocquencourt, FR)
+2. Plant systems and synthetic biology
+Ann OSBOURN (John Innes Centre, Norwich, UK), to be confirmed
+Oliver EBENHOEH (U. Aberdeen, UK)`
+3. Yeast systems and synthetic biology
+Srinivasan CHANDRASEGARAN (Johns Hopkins U., Baltimore, US)
+Damien COUDREUSE (U. Rennes, FR)
+4. Enzyme and metabolic modeling
+Magali REMAUD (Toulouse White Biotech, FR)
+J=FCrgen ZANGHELLINI (ACIB, Graz, AT)
+Art and Biology
+Jens HAUSER (Synth-ethic, Vienna, AT & Paris, FR)
+aSSB SCIENTIFIC BOARD:
+Patrick Amar (U. Paris-Sud, FR)
+Gilles Bernot (U. Nice-Sophia, FR)
+Marie Beurton-Aimar (U. Bordeaux, FR)
+Attila Csikasz-Nagy (Edmund Mach Fundation, S. Michele all'Adige, IT)
+J=FCrgen Jost (MPI-MIS Leipzig, DE)
+Ivan Junier (CRG, Barcelona, ES)
+Marcelline Kaufman (U. Libre de Bruxelles, BE)
+Fran=E7ois Képès (CNRS Evry, FR), Chair
+Pascale Le Gall (Ecole Centrale Paris, FR)
+Sheref Mansy (U. Trento, IT)
+Jean-Pierre Mazat (U. Bordeaux, FR)
+Victor Norris (U. Rouen, FR)
+William Saurin (Sobios, Sophia-Antipolis, FR)
+El Houssine Snoussi (U. Mohammed 5-Souissi, Rabat, MA)
+Ines Thiele (U. Luxembourg, LU)
+Birgit Wiltschi (Austrian Centre of Industrial Biotechnology, Graz, AT)

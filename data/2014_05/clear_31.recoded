@@ -1,0 +1,49 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pashadag@cse.psu.edu>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id BF43426801D
+	for <bioinfo@sfbi.fr>; Wed, 14 May 2014 20:19:40 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ar4BAHGyc1NMYDvzlGdsb2JhbABZg1WsIwEGm0MWDgEBAQEHCwsJEiqCZAgBATYCOxYYAwIBAgFYBgIBAYgpAxGrXoRVAQWaRAhchWMRBoVUiReEKpsShSyPfQ
+X-IronPort-AV: E=Sophos;i="4.97,1053,1389740400"; 
+   d="scan'208";a="66778110"
+Received: from qmta13.westchester.pa.mail.comcast.net ([76.96.59.243])
+  by a-mx1.relay.syrhano.net with ESMTP; 14 May 2014 20:19:39 +0200
+Received: from omta01.westchester.pa.mail.comcast.net ([76.96.62.11])
+	by qmta13.westchester.pa.mail.comcast.net with comcast
+	id 1oj81o0040EZKEL5DuKeih; Wed, 14 May 2014 18:19:38 +0000
+Received: from [130.203.19.49] ([130.203.19.49])
+	by omta01.westchester.pa.mail.comcast.net with comcast
+	id 1uHV1o00i13XwuS3MuHYRe; Wed, 14 May 2014 18:17:36 +0000
+Message-ID: <5373B337.2050202@cse.psu.edu>
+Date: Wed, 14 May 2014 14:17:27 -0400
+From: Paul Medvedev <pashadag@cse.psu.edu>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20140121; t=1400091578;
+	bh=+SOspODNkxnhTFdyOHK81/IqQl2uvD3tm3Td0J1ghGU=;
+	h=Received:Received:Message-ID:Date:From:MIME-Version:To:Subject:
+	 Content-Type;
+	b=KNoJ//6knx7Sn3dP/xhUSb2hAtVgaMCbWMfoNyekP08UaQWSeAunidEs1B9qLlXCx
+	 Ij5jTuRXdhsAViFYIPkJNK6m07oCnjXBJI9dYYcD6kUlZVWUT0VwyCuKP9tHeyD+vL
+	 yR0KYw+BuW2j1BBnkZP8P1+qkTTBeowAIHk3Q9iWXhtL2LYxJrxAqsrrDs2pyoIUcF
+	 goShmkVYW2+3Jk1mxWg+1KnYH7fyjzNPomZ4RZyXpurzEBa0/EUuViLfefs0JWRsqu
+	 QOMczsXe7FWM2rYtJrBwqRd0iMHQBFoesk546hsvz4TRI4UvefRYffVhBTGjCNcXRH
+	 Ss59y9Vuoop2A=
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoc Position in Algorithmic Bioinformatics at Penn State (USA)
+A postdoc position is available in the group of Paul Medvedev at the 
+Pennsylvania State University (USA). The general research area is 
+Bioinformatics with a focus on genome assembly and the detection of 
+genomic structural variation. The ideal candidate will have a strong 
+background in algorithm design and/or programming.
+To apply, please send your CV to Paul Medvedev at pashadag@cse.psu.edu. 
+The start date is flexible.
+For more information about the group and the type of research we do, 
+please visit http://medvedevgroup.com

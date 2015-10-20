@@ -1,0 +1,93 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gaelle.legube@univ-tlse3.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 4458F26801D
+	for <bioinfo@sfbi.fr>; Tue, 28 Jan 2014 09:39:42 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuYBAHFs51LD3DsRnGdsb2JhbABahk1KuViBFBYOAQEBAQEGDQkJFCiCLAwXSCccAg0ZAlkGExuHbo12jGCPEZ9zF4EpjSI7gm+BSQStdA
+X-IronPort-AV: E=Sophos;i="4.95,735,1384297200"; 
+   d="scan'208";a="53043867"
+Received: from smtp2.cict.fr ([195.220.59.17])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 Jan 2014 09:39:29 +0100
+Received: from smtp2.cict.fr (localhost.localdomain [127.0.0.1])
+	by smtp2.cict.fr (8.14.5/8.14.4) with ESMTP id s0S8dS8I028695
+	for <bioinfo@sfbi.fr>; Tue, 28 Jan 2014 09:39:28 +0100
+Received: from ariane.univ-tlse3.fr (ariane.univ-tlse3.fr [195.220.58.4])
+	by smtp2.cict.fr (8.14.5/8.14.5) with ESMTP id s0S8dS3H028691
+	for <bioinfo@sfbi.fr>; Tue, 28 Jan 2014 09:39:28 +0100
+Received: from ariane.univ-tlse3.fr (ariane.univ-tlse3.fr [195.220.58.4])
+	by ariane.univ-tlse3.fr (Postfix) with ESMTP id 3D2135D8041
+	for <bioinfo@sfbi.fr>; Tue, 28 Jan 2014 09:39:28 +0100 (CET)
+Date: Tue, 28 Jan 2014 09:39:28 +0100 (CET)
+From: gaelle legube <gaelle.legube@univ-tlse3.fr>
+To: Liste Bioinfo <bioinfo@sfbi.fr>
+Message-ID: <184303032.17410186.1390898368179.JavaMail.root@univ-tlse3.fr>
+In-Reply-To: <728087675.17409885.1390898332951.JavaMail.root@univ-tlse3.fr>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Zimbra 7.2.4_GA_2900 (ZimbraWebClient - FF3.0 (Win)/7.2.4_GA_2900)
+X-Virus-Scanned: clamav-milter 0.97.3 at smtp2.cict.fr
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Poste MCF Bioinformatique/Biostatistique Toulouse
+Bonjour à tous,
+Veuillez trouver ci dessous une annonce pour un poste de maitre de conf=C3
+=A9rence en Bioinformatique/biostatistique ouvert sur Toulouse
+Merci
+Poste de Ma=C3=AEtre de conférences  en Bio statistique/bioinformatiqu
+e à Toulouse, France
+Un poste de Maitre de Conférence est ouvert à l'universit
+é de Toulouse, en Bioinformatique/Biostatistique pour rejoindre lâ
+=80=99équipe de Ga=C3"lle Legube (Chromatine et réparation de l
+'ADN, membre associé du réseau EpiGenSys), au LBCMCP (Lab
+oratoire de Biologie Cellulaire et Moléculaire du Contrôle de la 
+Prolifération).
+Le poste requiert une expertise poussée en analyse de donnée g=C3
+=A9nomique issue du séquen=C3=A7age haut débit (Next Generation S
+equencing), plus particulièrement issus de ChIP-seq et RNA-seq. Les pr
+ofils enseignement et recherche sont détaillés ci-dessous.
+Enseignement
+La généralisation des approches par des techniques de séquen
+=C3=A7age à haut débit (Next Generation Sequencing) nécessit
+e que les démarches de traitement et d'intégration fonctionnelle 
+ des données soient enseignées à différents niveaux : d
+e la simple utilisation de logiciels à celui de l'explication des conc
+epts et démarches sous-jacents. L'enseignement portera d'une part sur 
+les problématiques inhérentes aux données de type NGS (trait
+ement et analyse), et d'autre part sur leur exploitation et interpréta
+tion en termes d'annotation, de détection de polymorphisme (SNP et CNV
+) et d'analyse de la régulation de l'expression (RNAseq, ChIP-Seq). Le
+(La) MdC recruté(e) interviendra également dans les enseignements
+ de base de bio- statistiques visant à familiariser les étudiants
+ de biologie avec les concepts fondamentaux de statistiques.
+Recherche
+Notre équipe s'intéresse à la fonction de la chromatine dans
+ la réparation des cassures doubles brins de l'ADN (DSB). En effet, de
+ nombreux complexes capables de modifier les histones et de remodeler la ch
+romatine sont recrutés aux niveaux des DSBs, mais cependant, le paysag
+e chromatinien induit autour des DSBs reste encore à ce jour non carac
+térisé. Nous avons récemment mis au point une lignée ce
+llulaire qui permet pour la première fois de caractériser à 
+haute résolution ce paysage chromatinien induit autour des DSBs (Iacov
+oni et al, 2010).
+Nous générons ainsi au laboratoire, par ChIP-seq des cartes qui d
+écrivent la distribution de nombreuse histones modifiées et prot
+éines de la réparation sur le génome autour des DSBs.  L'un 
+des projets majeur de l'équipe consiste à intégrer ces donn
+ées  avec les données publiques, générées par le c
+onsortium ENCODE, visant à décrire la structure de la chromatine 
+dans de nombreux types cellulaire. Le candidat retenu sera en charge de ces
+ analyses de données de séquen=C3=A7age haut débit.  Les can
+didatures doivent être adressées à gaelle.legube@univ-tlse3.
+fr avant le 15 février 2014
+Ga=C3"lle Legube, PhD
+Chromatin and DNA repair group
+Laboratoire de Biologie Cellulaire et Moléculaire du Contrôle de 
+la Prolifération
+CNRS, UMR5088
+118 route de Narbonne
+31062 Toulouse,
+France

@@ -1,0 +1,100 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Aurelie.LAUGRAUD@agresearch.co.nz>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 5190526801D
+	for <bioinfo@sfbi.fr>; Wed, 26 Mar 2014 01:24:18 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmQCAOEdMlPLVIYCnGdsb2JhbABZg0FXvzCDQoEaFg4BAQEBAQYNCQkUKIInBUABAR0MBwgRASpDEyYBBBMIFIdcAQUIkUeacIRVAQWeQhECBI4WJ4NcgRSJHoVenzWBaUI
+X-IronPort-AV: E=Sophos;i="4.97,732,1389740400"; 
+   d="scan'208";a="64092791"
+Received: from mx1.securemx.biz ([203.84.134.2])
+  by a-mx1.relay.syrhano.net with ESMTP; 26 Mar 2014 01:24:06 +0100
+DKIM-Signature: v=1; a=rsa-sha256; d=nz.smxemail.com; s=alpha; c=relaxed/relaxed;
+	q=dns/txt; i=@nz.smxemail.com; t=1395793444;
+	h=From:Sender:Reply-To:Subject:Date:Message-ID:To:Cc;
+	bh=YqDqAwjKkT18d6xnekvt8YAuzBn8D0fKdAY9DxS3pFU=;
+	b=S4Ef5ANcMXdBVNA9v+s5FelCZENaHG2YAqTlsOaYeXzQA8S5QSZBPeVvm/Ull/7J
+	gSdQ9x/5zWiS4w8iUNvS5xfIqxb2vRlRdYx73DkyD/Q0KwdCoAG3WlqIKMOpzjbK
+	88pwlAJNItSGAzLQc4nsQ9FLrbS5RzPO4Z11oOv5eVA=;
+Received: from invexcpv02.agresearch.co.nz ([202.20.102.50])
+	by omr.securemx.biz with ESMTP (using TLSv1
+	with cipher AES128-SHA (128/128 bits))
+	id 53321E24-03AF0C4C@mta1102.omr;
+	Wed, 26 Mar 2014 00:24:04 +0000
+Received: from INVEXCPV01.agresearch.co.nz ([169.254.1.161]) by
+ invexcpv03.agresearch.co.nz ([147.158.130.6]) with mapi id 14.03.0174.001;
+ Wed, 26 Mar 2014 13:24:01 +1300
+From: "Laugraud, Aurelie" <Aurelie.LAUGRAUD@agresearch.co.nz>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Offre d'emploi:  Senior Bioinformatician New Zealand
+Thread-Index: Ac9IiYQM2zim1mHVTJ+fVTKy6lR5XA=
+Date: Wed, 26 Mar 2014 00:24:00 +0000
+Message-ID: <104C0C342C40DA48A4913E05A276EA7D57A0F873@invexcpv01.agresearch.co.nz>
+Accept-Language: fr-FR, en-NZ, en-US
+Content-Language: en-US
+X-MS-Has-Attach:  
+X-MS-TNEF-Correlator:  
+x-originating-ip: [147.158.192.127]
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre d'emploi:  Senior Bioinformatician New Zealand
+Senior Bioinformatician
+AgResearch Grasslands
+AgResearch is a Crown Research Institute with the purpose of enhancing the 
+value, productivity and profitability of New Zealand's agricultural sector.
+  The Bioinformatics team supports scientific research in a range of areas 
+to the benefit of the pastoral agricultural sector.
+We are seeking a highly motivated individual with excellent training and ex
+pertise in Bioinformatics to join our team.  The successful candidate will 
+be responsible for providing Bioinformatics consultancy to a range of scien
+ce projects.  Main duties will involve analysing high throughput/high-dimen
+sional 'omics data from mostly non-model organisms, this includes the desig
+n, development, implementation and testing of bioinformatics pipelines for 
+Next-Gen Sequencing (NGS) data, assembly and expression analysis of NGS dat
+a and contribution towards interpreting the results.  Experience in working
+ with Genotyping by Sequencing data would be advantageous. The ideal candid
+ate will also have some experience or an interest in integrating multi-face
+ted 'omics data to understand underlying systems and biological networks.  
+This is a senior and permanent position.
+The successful applicant will have a PhD or high level postgraduate qualifi
+cation in Bioinformatics (or related field) with at least five years of rel
+ated work experience.  A thorough knowledge of Unix, scripting language (Pe
+rl/Python or similar) and an understanding of biological databases along wi
+th various Bioinformatics tools is required.  This is a highly collaborativ
+e role, where the incumbent will be working alongside scientists on a regul
+ar basis thus requiring a good knowledge of Genetics and Molecular Biology.
+  Strong communication skills, with the ability to effectively articulate c
+omplex, technical information to the clients is highly desirable. Other req
+uirements are good organisational abilities along with excellent interperso
+nal and relationship building skills.
+The position will be based at our Grasslands campus in Palmerston North and
+ will be part of the wider Bioinformatics and Statistics team.  Palmerston 
+North, a university city, is 30 km from the coast, 2 hours from ski fields,
+ and 2 hours from Wellington. The AgResearch Grasslands campus is situated 
+in pleasant rural surroundings with easy access to the central city. The su
+rrounding area offers many outdoor recreational opportunities.
+The position is available immediately and will be open until filled.
+For informal inquiries please contact Dr. Nauman Maqbool (nauman.maqbool@ag
+research.co.nz). Applications including a CV highlighting relevant research
+ experience, a cover letter and contact details of three referees should be
+ submitted online at: https://careers.sciencenewzealand.org.
+Applications not submitted online will not be accepted.
+Thanks
+Aurelie
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Attention: The information contained in this message and/or attachments fro
+m AgResearch Limited is intended only for the persons or entities to which 
+it is addressed and may contain confidential and/or privileged material. An
+y review, retransmission, dissemination or other use of, or taking of any a
+ction in reliance upon, this information by persons or entities other than 
+the intended recipients is prohibited by AgResearch Limited. If you have re
+ceived this message in error, please notify the sender immediately.
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D

@@ -1,0 +1,52 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Vincent.Lefort@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 3FBBD26801D
+	for <bioinfo@sfbi.fr>; Tue,  2 Sep 2014 10:54:00 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aj8CAMeEBVTBMWgenGdsb2JhbAA/GhaDSlcBgnuzSpFDiF0WEAEBAQEBCBQJPYQtFTwENgIFFgsCCwMCAQIBDUsGAgEBiEIJNpUrjy+UVhiBLI4+gmOBUwWRNIQrhn1FhnKHM4oXaoJPAQEB
+X-IronPort-AV: E=Sophos;i="5.04,447,1406584800"; 
+   d="scan'208";a="72126765"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by a-mx1.relay.syrhano.net with ESMTP; 02 Sep 2014 10:54:00 +0200
+Received: from [193.49.106.21] (meraxes.lirmm.fr [193.49.106.21])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 04A86A4F84
+	for <bioinfo@sfbi.fr>; Tue,  2 Sep 2014 10:53:58 +0200 (CEST)
+Message-ID: <540585AC.9050106@lirmm.fr>
+Date: Tue, 02 Sep 2014 10:54:04 +0200
+From: LEFORT Vincent <Vincent.Lefort@lirmm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Formation phylogenie
+Bonjour,
+Nous organisons une formation en phylogenie moleculaire a Montpellier 
+(campus du CNRS route de Mende) sur 5 jours (du 13 au 17 octobre):
+https://cnrsformation.cnrs.fr/stage.php?stage=14134&axe=62
+Objectifs:
+1. acquerir des connaissances theoriques et pratiques en phylogenie 
+moleculaire
+2. etre autonome dans la conduite d'une analyse phylogenetique
+3. maitriser le choix, le parametrage et l'exploitation des resultats 
+des programmes de phylogenie
+Les inscriptions se font sur le site web de la formation ou aupres de 
+CNRS Formation.
+Lors de votre inscription, vous recevrez un questionnaire qui nous 
+permettra d'evaluer votre niveau. Merci de nous le retourner directement 
+(lefort@lirmm.fr gascuel@lirmm.fr).
+Pour toute information complementaire (public vise, niveau, cout, ...), 
+merci de contacter:
+- Olivier Gascuel (gascuel@lirmm.fr)
+- Vincent Lefort (lefort@lirmm.fr)
+-- 
+Vincent Lefort
+CNRS - LIRMM
+95 rue de la Galera
+34095 - Montpellier Cedex 5 - FRANCE
+Tel: +33 4 67 14 97 62
+http://www.lirmm.fr/~lefort/

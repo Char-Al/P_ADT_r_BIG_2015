@@ -1,0 +1,131 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gtpb-bounces@igc.gulbenkian.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7345026801D
+	for <bioinfo@sfbi.fr>; Fri,  5 Sep 2014 17:46:17 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArUSACfaCVTBiV4FhGdsb2JhbABZg2BNCotNpCUCBpkIDIZ3TQQCgR8QAQEBChZEhAUDAwEBQwoeDgMBAgYCKx0IAwELGAE1EwUXiCoJvySFfIQEgz2CC4JED0SBQQWGGoReinaDe4MCgV2FYI9RHoFdPC8BAYJNAQEB
+X-IPAS-Result: ArUSACfaCVTBiV4FhGdsb2JhbABZg2BNCotNpCUCBpkIDIZ3TQQCgR8QAQEBChZEhAUDAwEBQwoeDgMBAgYCKx0IAwELGAE1EwUXiCoJvySFfIQEgz2CC4JED0SBQQWGGoReinaDe4MCgV2FYI9RHoFdPC8BAYJNAQEB
+X-IronPort-AV: E=Sophos;i="5.04,474,1406584800"; 
+   d="scan'208";a="63868969"
+Received: from igcns.igc.gulbenkian.pt (HELO mx01.igc.gulbenkian.pt) ([193.137.94.5])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Sep 2014 17:46:09 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id 2236C6D90B;
+	Fri,  5 Sep 2014 16:46:08 +0100 (WEST)
+X-Virus-Scanned: Debian amavisd-new at igcns
+Received: from mx01.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id xXN2pdi9t5TS; Fri,  5 Sep 2014 16:46:07 +0100 (WEST)
+Received: from [127.0.1.1] (mx00.igc.gulbenkian.pt [192.168.50.10])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id DB4B86D92D;
+	Fri,  5 Sep 2014 16:46:06 +0100 (WEST)
+X-Original-To: gtpb@igc.gulbenkian.pt
+Delivered-To: gtpb@igc.gulbenkian.pt
+Received: from localhost (localhost [127.0.0.1])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 2F31A2B6154;
+	Fri,  5 Sep 2014 14:59:50 +0100 (WEST)
+Received: from mx00.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id fNNjQuob+rom; Fri,  5 Sep 2014 14:59:17 +0100 (WEST)
+Received: from webmail.igc.gulbenkian.pt (webmail.igc.gulbenkian.pt
+	[192.168.50.6])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 903DC2B6162;
+	Fri,  5 Sep 2014 14:58:30 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by webmail.igc.gulbenkian.pt (Postfix) with ESMTPA id 05DA561654;
+	Fri,  5 Sep 2014 14:58:29 +0100 (WEST)
+Received: from fw1dmz.igc.gulbenkian.pt (fw1dmz.igc.gulbenkian.pt
+	[192.168.50.3]) by webmail.igc.gulbenkian.pt (Horde Framework) with
+	HTTP; Fri, 05 Sep 2014 14:58:29 +0100
+Message-ID: <20140905145829.30996brllcqlrurp@webmail.igc.gulbenkian.pt>
+Date: Fri, 05 Sep 2014 14:58:29 +0100
+From: Pedro Fernandes <pfern@igc.gulbenkian.pt>
+To: bicourses <bicourses@igc.gulbenkian.pt>
+MIME-Version: 1.0
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.6)
+X-Mailman-Approved-At: Fri, 05 Sep 2014 16:44:58 +0100
+X-BeenThere: gtpb@igc.gulbenkian.pt
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: The Gulbenkian Training Programme in Bioinformatics
+	<gtpb.igc.gulbenkian.pt>
+List-Unsubscribe: <https://lists.igc.gulbenkian.pt/mailman/options/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=unsubscribe>
+List-Archive: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb>
+List-Post: <mailto:gtpb@igc.gulbenkian.pt>
+List-Help: <mailto:gtpb-request@igc.gulbenkian.pt?subject=help>
+List-Subscribe: <https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=subscribe>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="iso-8859-1"; Format="flowed"; DelSp="Yes"
+Sender: gtpb-bounces@igc.gulbenkian.pt
+Errors-To: gtpb-bounces@igc.gulbenkian.pt
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Gtpb] TA-AFADM14 - Bioinformatics Training Course - Announcement
+                    ANNOUNCEMENT
+    IMPORTANT DATES for TA-AFADM14
+    Deadline for applications: September 26th 2014
+    Notification of acceptance dates:
+         EARLY: Sept 19th 2014 (on special request, see Application)
+         NORMAL: September 26th 2014
+    Course date: October 6th - October 9th 2014
+The Gulbenkian Training Programme in Bioinformatics is pleased to
+announce that the applications for the hands-on Bioinformatics
+training course
+TA-AFADM14
+Transcriptome Assembly, Automatic Annotation and Data Mining
+are now OPEN. Please have a look at our website here:
+http://gtpb.igc.gulbenkian.pt/bicourses/TA-AFADM14/
+Course duration: 4 days
+Course fee: Euro 320.00
+We will have Stefan Goetz and Riccardo Alese Cigliano as instructors.
+This course has already been run here several times with a great deal
+of success, as revealed by very positive feedback reports and
+subsequent recruitment by word of mouth by satisfied attendees.
+Course description:
+This is a combined course in RNA-seq and functional annotation aimed
+at scientists working in next generation sequencing transcriptomics
+who want to extract the best possible information from their data. The
+course covers all aspects of RNA-seq analysis, from quality control,
+to mapping, reconstruction of transcripts and differential expression.
+Participants will learn how to deal with RNA-seq data both in the
+presence and absence of a reference genome.
+The second part of the course is a practical workshop on Blast2GO, the
+most popular framework for functional annotation of sequence data.
+Participants will learn how to generate de novo functional labels,
+such as GO terms and KEGG pathways, for their sequence data and how to
+extract relevant information from these annotations, i.e.
+visualisation and enrichment analysis using the Gene Ontology. This
+part will be based on the use of the Blast2GO application and will
+mainly comprise exercises and practical cases. Participants may bring
+their own data.
+Who should attend? Experimentalists and bioinformaticians working on
+EST, NextGeneration Sequencing and microarray design projects,
+specially (but not exclusively) of non-model species. No programming
+knowledge is required.
+Thank you for your continued interest
+P.Fernandes
+GTPB Coordinator
+--
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: TA-AFADM14.pdf
+Type: application/data
+Size: 3271597 bytes
+Desc: not available
+URL: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb/attachments/2014
+0905/1ca5c133/attachment.pdf>
+_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb

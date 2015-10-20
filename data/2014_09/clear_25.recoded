@@ -1,0 +1,67 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Vincent.Lefort@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 7620426801D
+	for <bioinfo@sfbi.fr>; Tue,  9 Sep 2014 09:35:27 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApcCAMCsDlTBMWgenGdsb2JhbABZg2BXAYJ7tSGRcodMgRMWEAEBAQEBCAsJCRQqhC0VQDYCBRYLAgsDAgECAQ1LBgIBARGIMQmXIY80lgCBLItkgVBHQ4JjgVMBBJFEhC2HAkaGe49VgXtqgk8BAQE
+X-IPAS-Result: ApcCAMCsDlTBMWgenGdsb2JhbABZg2BXAYJ7tSGRcodMgRMWEAEBAQEBCAsJCRQqhC0VQDYCBRYLAgsDAgECAQ1LBgIBARGIMQmXIY80lgCBLItkgVBHQ4JjgVMBBJFEhC2HAkaGe49VgXtqgk8BAQE
+X-IronPort-AV: E=Sophos;i="5.04,491,1406584800"; 
+   d="scan'208";a="72530071"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by a-mx1.relay.syrhano.net with ESMTP; 09 Sep 2014 09:35:26 +0200
+Received: from [193.49.106.21] (meraxes.lirmm.fr [193.49.106.21])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 77658A4F35
+	for <bioinfo@sfbi.fr>; Tue,  9 Sep 2014 09:35:25 +0200 (CEST)
+Message-ID: <540EADC7.9010600@lirmm.fr>
+Date: Tue, 09 Sep 2014 09:35:35 +0200
+From: LEFORT Vincent <Vincent.Lefort@lirmm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Postdoc announcement
+The  ATGC  bioinformatics  platform  (http://www.atgc-montpellier.fr/)
+hosted by LIRMM (http://www.lirmm.fr/,  Montpellier, France) is hiring
+a postdoc/software developer for 18 months, renewable.
+He  will  work  in  a  stimulating environment  within  the  MAB  team
+(http://www.lirmm.fr/recherche/equipes/mab)      and      the      IBC
+(http://www.ibc-montpellier.fr/).The   MAB  team   is  internationally
+recognized for  its contributions to  research in phylogeny.  Its work
+has  led  to   the  development  of  globally   utilized  services  in
+evolutionary   bioinformatics   (e.g.    phylogeny.fr:   Dereeper   et
+al. 2008).  The PhyML software  (Guindon and Gascuel 2003;  Guindon et
+al. 2010)  is a reference in  this field with over  8000 citations and
+thousands of users worldwide.
+In  collaboration with  researchers  and engineers,  the recruit  will
+develop the PhyML software and tools for phylogenomics, including:
+- Partition and  mixture models,  in the line  of (Le et Gascuel 2008,
+   2010, 2012)
+- Statistical methods of model selection, in the line of ModelTest and
+  ProtTest (Posada and Crandall 1998, Abascal et al. 2005).
+- Ancestral sequence reconstruction based on PhyML calculations.
+- Develop  a   user-friendly  web   site  (in   the  same   spirit  as
+  phylogeny.fr) to  provide a  complete set of  species and  genes tree
+  inference methods (supertree and reconciliation problems).
+- Develop tools to visualize phylogenetic trees, date internal nodes ,
+  and integrate  extrinsic characters (ecological,  geographical, etc.)
+  particularly in the context of epidemiology (Chevenet et al. 2013).
+The recruit  must have a  solid experience in C  programming, advanced
+knowledge in evolutionary biology  and bioinformatics, and good skills
+in (some  of): statistics, collaborative development  tools, workflows
+(Taverna, Galaxy) and web services (WSDL, SOAP)
+Montpellier is  a sunny city located  on the south coast  of France on
+the  Mediterranean Sea.  It is  a  university city  with an  important
+cultural and  scientific heritage (for  example the oldest  faculty of
+medicine in  Europe). The  natural attractions around  Montpellier are
+very diverse, which is suitable for many activities including sailing,
+relaxing on the beach, hiking, climbing, canoeing, ...
+Use the web form:  http://ifb-gs.cnrs.fr/open-positions to apply. Your
+application will  include detailled CV, motivation  letter, references
+and publications.
+Contacts:  -  Olivier  Gascuel  (gascuel@lirmm.fr)  -  Vincent  Lefort
+(lefort@lirmm.fr)

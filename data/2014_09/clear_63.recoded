@@ -1,0 +1,108 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <macha@labri.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 208A726801D
+	for <bioinfo@sfbi.fr>; Sun, 21 Sep 2014 12:35:54 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkoDAN2pHlST0giPgGdsb2JhbABfg2FXAclOh019FgERAQELFAc4CIQnHQYBAThOB2gniCoECawwhXoBBZBbBo9pg1KBHYYlj2+CPYRKgWGWD4FFaoJKAQEB
+X-IPAS-Result: AkoDAN2pHlST0giPgGdsb2JhbABfg2FXAclOh019FgERAQELFAc4CIQnHQYBAThOB2gniCoECawwhXoBBZBbBo9pg1KBHYYlj2+CPYRKgWGWD4FFaoJKAQEB
+X-IronPort-AV: E=Sophos;i="5.04,565,1406584800"; 
+   d="scan'208";a="73264706"
+Received: from iona.labri.fr ([147.210.8.143])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Sep 2014 12:35:31 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by iona.labri.fr (Postfix) with ESMTP id E84CF7997;
+	Sun, 21 Sep 2014 12:35:30 +0200 (CEST)
+Authentication-Results: iona.labri.fr (amavisd-new); dkim=pass (1024-bit key)
+	reason="pass (just generated, assumed good)" header.d=labri.fr
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=labri.fr; h
+	x-mailer:mime-version:message-id:subject:subject:date:date
+	:content-transfer-encoding:content-type:content-type:from:from
+	:received:received; s=mail; t=1411295730; x=1413110131; bh=BAwfZ
+	lkB42YpmWsbXh1XiXTZ/yWkK8dOGPzwbMCTqZo=; b=LAH7fkI5UY0QLB8c0ZdeU
+	VZmeXZBvFEkfcBW0/yfkSlWrLRgphtq0KnMQSWvqtBZ+x7yuFdzcKp3KtQYJrnVg
+	gyg+ebyQq8pkDN5HjU+xgiLbVW6repid2CPseXY0yOdX02czFN0ND8kvSdMmxNl0
+	v9D0EmGpZNtCFnXlzV+OVk
+X-Virus-Scanned: amavisd-new at labri.fr
+Received: from iona.labri.fr ([127.0.0.1])
+	by localhost (iona.labri.fr [127.0.0.1]) (amavisd-new, port 10027)
+	with LMTP id Zljw9vliSBTa; Sun, 21 Sep 2014 12:35:30 +0200 (CEST)
+Received: from desire.bouyguesbox.fr (static-176-182-165-179.ncc.abo.bbox.fr [176.182.165.179])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(Client did not present a certificate)
+	by iona.labri.fr (Postfix) with ESMTPSA id A6AA95131;
+	Sun, 21 Sep 2014 12:35:30 +0200 (CEST)
+From: Macha Nikolski <macha@labri.fr>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Date: Sun, 21 Sep 2014 12:35:29 +0200
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Message-Id: <336819AB-C64C-494E-B622-B46B4E8E070D@labri.fr>
+Mime-Version: 1.0 (Mac OS X Mail 6.6 \(1510\))
+X-Mailer: Apple Mail (2.1510)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Call for papers: "Metagenomics profiling : advances in algorithmic approaches and biomedical applications"
+Dear colleagues,
+Let me kindly inform you that Frontiers in Bioengineering and Biotechnology
+ is now welcoming the submission of contributions to a Research Topic title
+d "Metagenomics profiling : advances in algorithmic approaches and biomedic
+al applications" (http://journal.frontiersin.org/ResearchTopic/3144)
+Abstract submission deadline: 27 Feb 2015
+Article submission deadline: 29 May 2015
+Call for Papers
+---------------------
+The microbiome can be actually considered as a human organ, with its own ph
+ysiology and pathology and a collective health that can be damaged when its
+ population structure is altered. The advent of metagenomics using high-thr
+oughput sequencing has revolutionized the analysis of the microbiome, but a
+lso the nature of its related discoveries. For example, many more diseases 
+can now be attributed to viral agents that infect commensals bacteria and t
+he description of these viromes is making huge progresses. Moreover, the eu
+karyotic component of the human microbiome remains relatively unexplored, a
+lthough there is feeling that it can deeply influence pathological and phys
+iological states as well as the ecological and evolutionary principles that
+ govern the microbiota. There are likely many complex interactions between 
+virus, bacterial, archaea, eukaryotic microbiota that influence human healt
+h.
+In this Frontiers in Bioinformatics and Computational Biology Research Topi
+c on Metagenomics, we will discuss the latest advances in bioinformatics al
+gorithms and computational biology case studies that are currently making t
+he state of art of this discipline.
+Bioinformatics analysis typically aims at assessing the composition of samp
+les by identifying, classifying and quantifying their biological diversity,
+ which is a complex task. Since the available taxonomies can differ in both
+ the topology and the adopted names, there is the need to perform assignmen
+ts not only relying on the widely used NCBI taxonomy, but also on other spe
+cific reference taxonomic databases. For example, for the 16S common used d
+atabase are RDP (which contains also fungal 28S and 5.8S information) and G
+reengenes, while for the 18S and 28S a common choice is adopt SILVA (which 
+contains also 16S information), and for the ITS the most commonly adopted d
+atabase is ITSoneDB. Moreover, in the case of viruses, absence of such refe
+rence taxonomies as well as certain mimetism of the host sequence that is t
+ypical of viruses, makes their taxonomic classification particularly challe
+nging from the computational point of view.
+What experimental approaches and analysis pipelines exist for metagenomics?
+ What are the advantages of performing selective analysis of rRNA and when 
+is it better to sequence everything? How is it possible to achieve accurate
+ estimations of the relative abundance of each strains in a sample? How can
+ we annotate or understand the functions of new viral genes? How do we dete
+rmine the role of a newly discovered bacteria in higher order processes? Ho
+w can the metagenomic approach be implemented in a clinical setting? What d
+oes the composition of a host-associated viral community tell us about the 
+health status of its host? How stable is the community composition across t
+ime and space? And of course: what have we already discovered by using meta
+genomics?
+For this Research Topic, we want to collect works ranging from algorithmic 
+methods for metagenomics data analysis to specific microbiome sequencing st
+udies. For this reason, we solicit original research papers from both exper
+imental and bioinformatics groups. Moreover, we will also reserve some spac
+e for reviews and perspectives that address the questions listed above or o
+ther hot topics from the frontiers of the metagenomics field.
+Topic Editors
+-------------------
+Stefano Beretta, Istituto di Tecnologie Biomediche - CNR, Italy
+Ivan Merelli, Institute for Biomedical Technologies, Milan, Italy
+Macha Nikolski, CNRS (Centre de Recherche Scientifique), Bordeaux, France
+Gabriel Valiente, Technical University of Catalonia, Spain

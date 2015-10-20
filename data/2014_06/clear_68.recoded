@@ -1,0 +1,60 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <tahi@ibisc.univ-evry.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id F104126801D
+	for <bioinfo@sfbi.fr>; Wed, 18 Jun 2014 15:11:52 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoUBAEiPoVPD3aJ+l2dsb2JhbABahDnDSIEhDwEBAQEBCBYHPIQ8AUYVgTwRiDXMMBeOCAsRAVAdhC0ErEKFHYF1
+X-IronPort-AV: E=Sophos;i="5.01,499,1400018400"; 
+   d="scan'208";a="60374524"
+Received: from ns-quad.ibisc.univ-evry.fr (HELO newns.evry2.ibisc.univ-evry.fr) ([195.221.162.126])
+  by b-mx1.relay.syrhano.net with ESMTP; 18 Jun 2014 15:11:52 +0200
+Received: from smtp1.ibisc.univ-evry.fr (smtp1.ibisc.univ-evry.fr [195.221.162.131])
+	by newns.evry2.ibisc.univ-evry.fr (Postfix) with ESMTP id 92ED820A1;
+	Wed, 18 Jun 2014 15:11:49 +0200 (CEST)
+Received: from webmail.dmz.ibisc.univ-evry.fr (webmail.dmz.ibisc.univ-evry.fr [172.20.0.82])
+	by smtp1.ibisc.univ-evry.fr (Postfix) with ESMTP id 806E8DB2D;
+	Wed, 18 Jun 2014 15:11:49 +0200 (CEST)
+Received: from 172.20.0.80 (proxying for 82.234.75.183)
+        (SquirrelMail authenticated user tahi)
+        by webmail.dmz.ibisc.univ-evry.fr with HTTP;
+        Wed, 18 Jun 2014 15:11:49 +0200
+Message-ID: <7de354856974bf79779e481a7d476535.squirrel@webmail.dmz.ibisc.univ-evry.fr>
+Date: Wed, 18 Jun 2014 15:11:49 +0200
+From: tahi@ibisc.univ-evry.fr
+To: bioinfo@sfbi.fr
+Cc: tahi@ibisc.fr, bendahm@evry.inra.fr
+User-Agent: SquirrelMail/1.4.21
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CDD en Bioinformatique a l'URGV
+Research assistant position in bioinformatics: Ref. N°Ra.20-10-03.4
+Crop Functional genomics Group
+URGV-INRA, EVRY, FRANCE
+A research assistant positions funded by the ERC Advanced grant program
+are available starting from beginning of 2014 at the Genomic Research Unit
+(URGV-Evry, France) in the group of the crop functional genomics.
+We are looking for a highly motivated research assistant (master level) to
+study the networks of genes controlling unisexual flowers development in
+model and crop species. We seek enthusiastic and highly motivated
+candidates with excellent and proven skills in bioinformatics.  The
+successful candidate should be able to work both independently and
+co-operatively with a team. Applicants should have a strong background in
+bioinformatics.
+The Institute is located in the outskirts of Paris on the Genopole campus
+of Evry.
+Candidates should send a CV, and names and e-mail addresses of three
+referees to Abdel Bendahmane (bendahm@evry.inra.fr);
+Important notice: Please specify in the subject of the email the job
+position (N°Ra.20-10-03.4)
+Related publications:
+-Martin A. et al.,  (2010)     Epigenetics  Jul 22;5(5).
+-Martin A, et al., (2009) NATURE 461:1135-1139
+-Boualem A, et al., (2008) Science 321 :336-338.
+-Macalister CA, et al., (2012)  Nature  Genetics. 44(12):1393-8.

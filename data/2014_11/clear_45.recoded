@@ -1,0 +1,109 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <vincent.daubin@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2773B26801D
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 10:09:29 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoMBAI8La1SG1rySnGdsb2JhbABbg2NZgj5Iv2iJJQKIYxYBAQEBAREBAQEBAQgLCQkULoQVF28cAiYCiTOcWo0nj0uXMoEtgXmKEoYNDzISJIEeBYZGkGaJGosVi0eCKTwwgksBAQE
+X-IPAS-Result: AoMBAI8La1SG1rySnGdsb2JhbABbg2NZgj5Iv2iJJQKIYxYBAQEBAREBAQEBAQgLCQkULoQVF28cAiYCiTOcWo0nj0uXMoEtgXmKEoYNDzISJIEeBYZGkGaJGosVi0eCKTwwgksBAQE
+X-IronPort-AV: E=Sophos;i="5.07,408,1413237600"; 
+   d="scan'208";a="77054493"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by a-mx1.relay.syrhano.net with ESMTP; 18 Nov 2014 10:09:29 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 5D999E00E9
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 10:09:28 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3CYNMnOmD7LR for <bioinfo@sfbi.fr>;
+	Tue, 18 Nov 2014 10:09:24 +0100 (CET)
+Received: from wu-pers-00363.univ-lyon1.fr (wu-pers-00363.univ-lyon1.fr [10.42.193.107])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 4971FE00F1
+	for <bioinfo@sfbi.fr>; Tue, 18 Nov 2014 10:09:24 +0100 (CET)
+From: Vincent Daubin <vincent.daubin@univ-lyon1.fr>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <A2606F60-9DAC-4B2D-87DD-32EC1F8CC1F4@univ-lyon1.fr>
+Date: Tue, 18 Nov 2014 10:09:24 +0100
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 8.0 \(1990.1\))
+X-Mailer: Apple Mail (2.1990.1)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Soutenance de Thèse de Bérénice Batut - 21 Novembre 2014, 14h - INSA de Lyon
+ Bonjour,
+J'ai le plaisir de vous inviter à ma soutenance de thèse de docto
+rat intitulée :
+"=C3=89tude de l'évolution réductive des génomes bactér
+iens par expériences d'évolution in silico et analyses bioinforma
+tiques".
+La soutenance aura lieu le vendredi 21 Novembre 2014, à 14h en salle R
+ené Char à l'INSA de Lyon et le pot qui suivra sera à l'Ante
+nne INRIA de la Doua (B=C3=A2timent CEI2 d'INSAVALOR)
+Le jury sera composé de
+Guillaume Achaz, Ma=C3=AEtre de conférence, UMPC Paris (rapporteur)
+Guillaume Beslon, Professeur, INSA de Lyon (directeur de thèse)
+Michael Blum, Chargé de recherche, CNRS (rapporteur)
+Vincent Daubin, Directeur de recherche, CNRS (membre invité)
+Carole Knibbe, Ma=C3=AEtre de conférence, UCB Lyon (directrice de th
+èse)
+Gabriel Marais, Directeur de recherche, CNRS (directeur de thèse)
+Frédéric Partensky, Directeur de recherche, CNRS (examinateur)
+Olivier Tenaillon, Directeur de recherche, INSERM (examinateur)
+Résumé :
+Selon une vision populaire, l'évolution serait un processus de "progr
+ès" qui s'accompagnerait d'un accroissement de la complexité mol
+éculaire des êtres vivants. Cependant, les programmes de séq
+uen=C3=A7age des génomes ont révélé l'existence d'esp
+èces dont les lignées ont, au contraire, subi une réduction 
+massive de leur génome. Ainsi, chez les cyanobactéries Prochloroc
+occus et Pelagibacteur ubique, certaines lignées ont subi une réd
+uction de 30% de leur génome. Une telle évolution "à rebours
+", dite évolution réductive, avait déjà été o
+bservée pour des bactéries endosymbiotiques, pour lesquelles la s
+élection naturelle n'est pas assez efficace pour éliminer les mut
+ations délétères comme les pertes de gènes. Cela vient 
+notamment du fait que ces bactéries endosymbiotiques subissent, à
+ chaque reproduction de leur hôte, une réduction drastique de leu
+r taille de population. Cette explication semble peu plausible pour des cya
+nobactéries marines comme Prochlorococcus et Pelagibacter, qui ont un 
+mode de vie libre et qui font partie des bactéries les plus abondantes
+ des océans. D'autres hypothèses ont ainsi été propos
+ées pour expliquer cette évolution réductive mais aucune ne 
+semble capable d'expliquer toutes les caractéristiques génomiques
+ observées.
+Dans cette thèse, je me suis intéressé au cas de l'évol
+ution réductive chez Prochlorococcus, pour laquelle de nombreuses s=C3
+=A9quences et données sont disponibles. Deux approches sont utilis=C3
+=A9es pour cette étude : une approche théorique de simulation o
+ù je teste différents scénarios évolutifs pouvant condu
+ire à une évolution réductive et une analyse de différe
+ntes caractéristiques génomiques de Prochlorococcus dans un cadre
+ phylogénétique. La combinaison de ces deux approches permet fina
+lement de proposer une histoire évolutive plausible pour expliquer l'
+évolution réductive de Prochlorococcus.
+Cordialement,
+--
+Bérénice Batut
+---------------------------------------------------------------------------
+--------
+PhD Student in Computational Biology and Bioinformatics
+---------------------------------------------------------------------------
+--------
+Beagle Team (LIRIS)
+Antenne INRIA de la Doua
+B=C3=A2timent CEI-1
+66, bd Niels Bohr
+69603 Villeurbanne Cedex
+---------------------------------------------------------------------------
+-------
+BGE Team (LBBE)
+UMR CNRS 5558 - LBBE
+UCB Lyon 1 - B=C3=A2t. Grégor Mendel
+43, bd du 11 Novembre
+69622 Villeurbanne Cedex
+---------------------------------------------------------------------------
+-------
+http://bebatut.fr

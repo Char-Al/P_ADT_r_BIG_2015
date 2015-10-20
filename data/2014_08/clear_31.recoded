@@ -1,0 +1,55 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 80A9326801D
+	for <bioinfo@sfbi.fr>; Thu, 28 Aug 2014 10:21:31 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArECAFzl/lOKZqI0nGdsb2JhbABbg2BXAYIzSMkpiQUQAQEBAQEICwkJFCmEFhcQBRErCA4IHAIfBwISLBAkiEINjgWNDo8vgXSNOYUNF4EsjT4RAW2CY4FTBYEtsl2BSGqBD4FAAQEB
+X-IronPort-AV: E=Sophos;i="5.04,416,1406584800"; 
+   d="scan'208";a="71899481"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 28 Aug 2014 10:21:31 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s7S8LR44012035
+	for <bioinfo@sfbi.fr>; Thu, 28 Aug 2014 10:21:27 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 02CED296B97
+	for <bioinfo@sfbi.fr>; Thu, 28 Aug 2014 10:21:28 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XMuzA-000AqP-Fb
+	for bioinfo@sfbi.fr; Thu, 28 Aug 2014 10:23:12 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XMuzA-000AqP-Fb@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 28 Aug 2014 10:23:12 +0200
+X-Miltered: at alpha with ID 53FEE687.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53FEE687.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 53FEE687.000 on alpha.jouy.inra.fr : j-chkmail score : X : R=. U=. O=# B=0.154 -> S=0.218
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] [Emploi][Stage] Approche innovante du pilotage   de =?UTF-8?Q?syst=C3=A8mes?= =?UTF-8?Q?d=E2=80=99imagerie?= biologique : =?UTF-8?Q?D=C3=A9velop?=  pement =?UTF-8?Q?d=E2=80=99un?= prototype =?UTF-8?Q?d=E2=80=99interface?= utilisate  ur et de codes =?UTF-8?Q?embarqu=C3=A9s?= =?UTF-8?Q?g=C3=A9n=C3=A9r=C3=A9s?= par =?UTF-8?Q?mod=C3=A9l?=  isation en machine =?UTF-8?Q?d=E2=80=99=C3=A9tats?=.
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Approche innovante du pilotage de systèmes d’imagerie  
+biologique : Développement d’un prototype d’interface utilisateur et de  
+codes embarqués générés par modélisation en machine d’états.
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Rennes
+Nom du contact : Jacques Pécréaux
+Email du contact : jacques.pecreaux@univ-rennes1.fr
+Laboratoire : IGDR (Institute of Genetics and Developmental biology of  
+Rennes) CNRS UMR 6290 - Faculté de Médecine (Univ. Rennes 1)
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/approche-innovante-du-pilotage-de-syst%C3%A8mes-d%E2%80%99imagerie-biologique-d%C3%A9veloppement-d%E2%80%99un-prototyp

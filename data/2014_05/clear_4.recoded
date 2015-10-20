@@ -1,0 +1,76 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Gregory.Kucherov@univ-mlv.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 1E12D26801D
+	for <bioinfo@sfbi.fr>; Mon,  5 May 2014 18:55:39 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmEDADrBZ1NCbwQanGdsb2JhbABZg1XFFwSBGhYOAQEBAQEGDQkJFCiCbBMeCYFQiEEECaZmhFugHBEGjm+DFIEVhF4ClhSFD4ZPiRA
+X-IronPort-AV: E=Sophos;i="4.97,989,1389740400"; 
+   d="scan'208";a="66284597"
+Received: from out2-smtp.messagingengine.com ([66.111.4.26])
+  by a-mx1.relay.syrhano.net with ESMTP; 05 May 2014 18:55:38 +0200
+Received: from compute4.internal (compute4.nyi.mail.srv.osa [10.202.2.44])
+	by gateway1.nyi.mail.srv.osa (Postfix) with ESMTP id 7060221785
+	for <bioinfo@sfbi.fr>; Mon,  5 May 2014 12:55:36 -0400 (EDT)
+Received: from frontend2 ([10.202.2.161])
+  by compute4.internal (MEProxy); Mon, 05 May 2014 12:55:36 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d
+	messagingengine.com; h=from:content-type
+	:content-transfer-encoding:subject:message-id:date:to
+	:mime-version; s=smtpout; bh=xzuXRExnUX4yTndcFg2n8KRsg/s=; b=M2W
+	1GRdVzz0LqZSxu/EDhyArNxp8PFUvezMycAh97kducdkC1UpfCZSRmacjIXRiBZH
+	AhCJit6nvSqZW7bOQU8ShNqJvHAwYgcNYsEZ8VGqxTepWEjS5vLcdTCKtr49c33w
+	b9BbBzo9fQSiT+A8NRIhe8jEejquIkvwgxKvp73c
+X-Sasl-enc: TmDvGSUgv536YgLtbTY/Ns31sIkXw5ynY6A6729RytBi 1399308936
+Received: from mackucherov.univ-mlv.fr (unknown [193.50.159.2])
+	by mail.messagingengine.com (Postfix) with ESMTPA id 04F18680105
+	for <bioinfo@sfbi.fr>; Mon,  5 May 2014 12:55:35 -0400 (EDT)
+From: Gregory Kucherov <Gregory.Kucherov@univ-mlv.fr>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <FE86BB01-D3BF-4D14-B5D3-E5418A4240FC@univ-mlv.fr>
+Date: Mon, 5 May 2014 18:55:33 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] postdoc position on algorithms for NGS data at LIGM Marne-la-Vallée
+We offer a one-year position of
+Postdoctoral Research Fellow
+to work on computational methods and algorithms for processing Next-Generat
+ion
+Sequencing data. This includes algorithms for mapping and assembling NGS re
+ads,
+calling structural variations, representing and working with multiple genom
+ic sequences
+(pan-genomes), and other related problems. Applications to cancer data are 
+particularly
+targeted.
+The position will be funded by the ABS4NGS project which is a French consor
+tium
+including several groups of mathematicians, statisticians, computer scienti
+sts and biologists.
+The postdoctoral fellow will work in the Laboratoire d'Informatique Gaspard
+-Monge (LIGM)
+at the Paris-Est University in Marne-la-Vallée. Specifically, (s)he will 
+a part of the AlgoB group
+specialized in the design of efficient algorithms for various bioinformatic
+s problems.
+Interactions with other partners of the ABS4NGS project are expected.
+The LIGM laboratory is located in the eastern suburb of Paris (~20km) and i
+s conveniently
+connected to downtown Paris by a suburb train (~20min).
+Applicants should have a PhD in computer science or computational biology. 
+Required
+skills include good knowledge in discrete mathematics and algorithms. Skill
+s in programming
+and an aptitude for software experimentation is also expected.
+The starting date is flexible but is expected to be before end 2014.
+Inquiries and applications should be sent to
+Gregory.Kucherov@univ-mlv.fr
+related links:
+AlgoB: http://igm.univ-mlv.fr/AlgoB/
+LIGM (french): http://ligm.u-pem.fr/
+ABS4NGS: https://sites.google.com/site/abs4ngs/

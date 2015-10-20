@@ -1,0 +1,73 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <iryna.nikolayeva@sprint-je.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id C9FC026801D
+	for <bioinfo@sfbi.fr>; Fri,  6 Jun 2014 12:18:21 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ag4CAAKUkVNKfVKzlGdsb2JhbABZg19WxAGBCBYPAQEBAQcLCwkSKoQcVhEvZgEFAU4JiCAFCKESaqpvF4tOgxsdhCsEq2VBhG5qAQ
+X-IronPort-AV: E=Sophos;i="4.98,988,1392159600"; 
+   d="scan'208";a="68075512"
+Received: from mail-we0-f179.google.com ([74.125.82.179])
+  by a-mx1.relay.syrhano.net with ESMTP; 06 Jun 2014 12:18:21 +0200
+Received: by mail-we0-f179.google.com with SMTP id q59so2550110wes.38
+        for <bioinfo@sfbi.fr>; Fri, 06 Jun 2014 03:18:20 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-type:content-transfer-encoding
+         :subject:date:message-id:cc:to:mime-version;
+        bh=MoMyQrgvwzFKdAMua9DMoIivy0CbR3BmBpIU0h0fhtE=;
+        b=ddTJC/VtVSve1xnoJklkwan+oet9nPnA0jb/tV/dsAR6g2XQNGqZumRo0a738fJiN+
+         R/xYu1PbbKmSX6kReeUgOf5kl38qVsGvw/6FfAHXHUNKoO7MsdsQnRNUSNUkVPBC+cpP
+         owj4tNOY9dyBbN1nvDNDX2KuczY+7hb9VxB5bh3xcWhYOjkJfSD1N8vzJIHUlgp9wquA
+         ggMYQSbAjf0E+SynSAZJ9tVkXebwOQj+t2Se02tKyq5/Pn9q2S5rD7Prm8iOPGDtBMAA
+         3I8fqHuES9N7qubErR1YhBgg24g3mry+Nk1Q2Pmly7DZTfFWzX1LLuFolz2rQRAkcOuR
+         gWeA=
+X-Gm-Message-State: ALoCoQkAo8bjjoS693ymffEqMlxYYcaiIpcwbWyEl8HNGYAwmy1v6LzdKidxra8q5HUsw5gzcbr6
+X-Received: by 10.180.8.136 with SMTP id r8mr6466115wia.60.1402049900681;
+        Fri, 06 Jun 2014 03:18:20 -0700 (PDT)
+Received: from bioinf08.montefiore.ulg.ac.be (bioinf08.montefiore.ulg.ac.be. [139.165.11.70])
+        by mx.google.com with ESMTPSA id kr6sm11733245wjb.16.2014.06.06.03.18.19
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 06 Jun 2014 03:18:20 -0700 (PDT)
+From: Iryna Nikolayeva <iryna.nikolayeva@sprint-je.com>
+X-Google-Original-From: Iryna Nikolayeva <iryna.nikolayeva@pasteur.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 6 Jun 2014 12:18:15 +0200
+Message-Id: <9E034889-A8C6-454D-8EB9-990418675415@pasteur.fr>
+Cc: Kristel VanSteen <Kristel.VanSteen@ulg.ac.be>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 6.6 \(1510\))
+X-Mailer: Apple Mail (2.1510)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Capita Selecta in Complex Disease Analysis (CSCDA2014) Announcement
+--- APOLOGIES FOR CROSS-POSTING---
+Dear Friends and Colleagues,
+On behalf of the entire organizing committee, we are glad to announce the t
+hird edition of CAPITA SELECTA IN COMPLEX DISEASE ANALYSIS (CSCDA2014).
+This year's meeting aims to create a broad platform to discuss issues in 
+complex disease analysis, in particular in uncovering population and patien
+t heterogeneity, as well as in data fusion and integration to improve mecha
+nistic insights in rare diseases. Our targeted audience has a background in
+ life sciences, biomedical sciences, statistics, bioinformatics, statistica
+l genetics and medicine, or related disciplines. The mini-conference will e
+xist of two parts: tutorial sessions in the forenoon of November 24, and ke
+ynote speaker sessions, followed by contributed oral and poster presentatio
+ns on November 24   November 26.
+The ABSTRACT SUBMISSION DEADLINE IS JULY 15, 2014. More information about a
+bstract submission and registration details are available on the conference
+ website.
+MARK YOUR AGENDA:
+Date:    24 November   26 November 2014
+Place:   Liège, GIGA, Belgium
+URL:   http://www.statgen.ulg.ac.be/CSCDA2014/cscda2014.html
+We already have an impressive list of confirmed speakers for this edition, 
+and hope to see you in Liège during the fall! Please do feel free to forw
+ard this e-mail correspondence to others who you might think would be inter
+ested in the event.
+With best regards,
+on behalf of the CSCDA2014 Organizing committee,
+Kristel Van Steen and Kristel Sleegers

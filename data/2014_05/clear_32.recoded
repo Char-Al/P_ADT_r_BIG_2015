@@ -1,0 +1,27 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 883EE26801D; Wed, 14 May 2014 23:30:50 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: alvesrco@yahoo.com
+Message-ID: <sympa.1400102861.6408.485@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Wed, 14 May 2014 23:30:50 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECML-PKDD'14 tutorial "The Pervasiveness of Machine Learning in Omics Science"
+Je me permets de vous transmettre ce premier appel à participation pour notre tutorial de ECML-PKDD'14 (Nancy) consacré aux méthodes d'analyse pour les jeux de données OMICS.
+Au plaisir d'y accueillir vos participation!
+Ronnie, Claude & Nicolas
+----------------------------------------------------------------
+                         ECML-PKDD Tutorial
+                      Nancy, 15th September 2014 
+The Pervasiveness of Machine Learning in Omics Science
+       http://ecmlpkdd2014.loria.fr/program/tutorial-list/
+       https://sites.google.com/site/alvesrco/tutorial_ecml_pkdd2014
+---------------- Description -------------------------------
+Biology has become an enormously data-rich subject. Data is generated in many flavors and follows particularities of the omics perspective adopted along experimental studies. For instance, genomics is the field of study dealing with genomes and it is mostly associated with the static view (the genes and where they are placed along the genome). The dynamic view is brought from the transcriptomics perspective, so the gene expression and its regulation. Finally, interactomics is usually associated to gene products, proteins, and their interactions. However it could also be seen as a huge graph network with layers of interaction integrating distinct omics perspectives. Omics science applications of unsupervised and/or supervised machine learning (ML) techniques abound in the literature. In this tutorial, we discuss machine learning on omics data, putting the emphasis on (i) mapping and (ii) learning omics patterns. We consider three main omics data: genomics, transcriptomics and interactomics. For each perspective, we first provide, the biological problem, the data mapping (from a biological problem to a machine learning problem), the core ML methods employed and its implementation in the R language.

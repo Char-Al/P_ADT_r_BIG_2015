@@ -1,0 +1,80 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <alouis@biologie.ens.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 9CF6E26801D
+	for <bioinfo@sfbi.fr>; Wed, 11 Jun 2014 22:36:58 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlEBAAe9mFOBx2AonGdsb2JhbABarwwGmiQWDwEBAQEBCAsJCRQohEIxAQ49EwMEFAMCAQIBWAYCAQGIPgShTJEQnUwXhVyIEIEKhCsBA691gUI
+X-IronPort-AV: E=Sophos;i="5.01,460,1400018400"; 
+   d="scan'208,223";a="68335015"
+Received: from nef2.ens.fr ([129.199.96.40])
+  by a-mx1.relay.syrhano.net with ESMTP; 11 Jun 2014 22:36:57 +0200
+Received: from biologie.ens.fr (milda.ens.fr [129.199.18.219])
+          by nef2.ens.fr (8.13.6/1.01.28121999) with ESMTP id s5BKau4b000804
+          for <bioinfo@sfbi.fr>; Wed, 11 Jun 2014 22:36:56 +0200 (CEST)
+X-Envelope-To: <bioinfo@sfbi.fr>
+Received: from localhost (av1.biologie.ens.fr [129.199.18.17])
+	by biologie.ens.fr (Postfix) with ESMTP id 3D0BA828
+	for <bioinfo@sfbi.fr>; Wed, 11 Jun 2014 22:36:56 +0200 (CEST)
+X-Virus-Scanned: spam & virus filtering at av1.ens.fr
+X-Spam-Flag: NO
+X-Spam-Score: -10.9
+X-Spam-Level: 
+X-Spam-Status: No, score=-10.9 tagged_above=-9999 required=5
+	tests=[ALL_TRUSTED=-1, AUTHD_RELAY=-8, BAYES_00=-1.9] autolearn=ham
+Received: from biologie.ens.fr ([IPv6:::ffff:129.199.18.219])
+	by localhost (av1.biologie.ens.fr [::ffff:129.199.18.17]) (amavisd-new, port 10024)
+	with ESMTP id L8MTkWorwE7m for <bioinfo@sfbi.fr>;
+	Wed, 11 Jun 2014 22:36:55 +0200 (CEST)
+Received: from ldogwf12.local (did75-12-82-236-2-38.fbx.proxad.net [82.236.2.38])
+	(using TLSv1 with cipher ECDHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	(Authenticated sender: alouis)
+	by biologie.ens.fr (Postfix) with ESMTPSA id 725C0815
+	for <bioinfo@sfbi.fr>; Wed, 11 Jun 2014 22:36:55 +0200 (CEST)
+Message-ID: <5398BDE6.5050303@biologie.ens.fr>
+Date: Wed, 11 Jun 2014 22:36:54 +0200
+From: Alexandra Louis <alouis@biologie.ens.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-3.1.4 (nef2.ens.fr [129.199.96.32]); Wed, 11 Jun 2014 22:36:56 +0200 (CEST)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Postdoc/Research Engineer Position in data analysis available at
+ Ecole Normale Superieure, Paris, France
+ From Auguste Genovesio:
+-----------------------
+Data analysis for ependymal cells development
+The Spassky lab and the Computational Biology & Bioinformatic Platform 
+are jointly seeking for a highly motivated post-doctoral researcher or 
+research engineer in data analysis.
+The overall goal of this interdisciplinary project is to reconstruct the 
+chain of morphological and molecular events leading to the 
+differentiation process of neural stem cells into ependymal cells. The 
+work will mainly consist in analyzing image and large dataset of single 
+cell measurements, but will also require an ability to perform 
+functional analysis of differential expression profiles (although a 
+previous experience working with the last is not required).
+The candidate should hold a PhD degree in computer science and have a 
+good background in data analysis (although candidate with a master 
+degree showing promising ability will definitely be interviewed and 
+should not hesitate to apply). A previous experience in a collaborative 
+environment such as a research Institute in Biology would be considered 
+a plus. The candidate should also have a good background in applied 
+mathematics/statistics, a good English level and a perfect knowledge of 
+a programming language such as Python, Java or R.
+Net monthly salary is between 2000 and 2400 euros, depending on previous 
+experience, including health coverage. The call will close on June 30, 
+2014. Future candidates will be selected and notified for an interview 
+between July 1st and 15th, 2014.
+Applicants should send a CV, a motivation letter and contact details of 
+2 references to
+Nathalie Spassky, nathalie.spassky@ens.fr, Tel : 33 1 44 32 23 27
+Auguste Genovesio, auguste.genovesio@ens.fr, Tel : 33 1 44 32 23 54
+Recent selected references:
+GUIRAO B, et al., and SPASSKY N. Nat Cell Biol (2010), 12(4) :341-50.
+AGUILAR A, et al., and SPASSKY N. PNAS (2012) 109(42) :16951-6.

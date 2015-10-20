@@ -1,0 +1,39 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 3B27C26801D; Fri,  5 Sep 2014 14:32:16 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: bdartigues@yahoo.fr
+Message-ID: <sympa.1409920123.5244.100@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri,  5 Sep 2014 14:32:16 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Formation Bioinformatique - Initiation
+Bonjour,
+Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation intitulée : "Initiation à la bioinformatique" à Bordeaux sur 2 jours (du 6 au 7 novembre 2014):
+Adresse:
+Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle à Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex). Ce campus est situé à proximité du CHU Pellegrin.
+Objectifs:
+1. Savoir rechercher les informations dans les banques de données
+2. Maitriser les outils d'analyse de séquences tels que les alignements
+3. Savoir interpréter des résultats pour effectuer une annotation fonctionnelle
+Programme:
+La formation se découpe en 4 modules de 4 heures (2 heures de cours et 2 heures de TP chacuns).
+- L'organisation des banques de données publiques
+- Recherche d'informations dans des banques de données
+- Comparaison de séquences
+- Les familles de protéines et domaines fonctionnels
+- Alignement multiple pour l'inférence de motifs protéiques
+- Annotation fonctionnelle des protéines
+En fin de formation, est prévue une séance d'interaction dédiée aux problèmes particuliers d'analyse de séquence des stagiaires. 
+Cette formation vise les personnes souhaitant développer des analyses bioinformatique à partir de logiciels en ligne. elle s'adresse aussi bien aux ingénieurs ou chercheurs qu'aux biologistes de formation.
+Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous :
+https://cnrsformation.cnrs.fr/stage.php?stage=14227&axe=62
+Pour toute information complémentaire (public visé, niveau, cout, ...), merci de contacter:
+- Aurélien Barré (aurelien.barre@u-bordeaux.fr)
+- Benjamin Dartigues (benjamin.dartigues@u-bordeaux.fr) 

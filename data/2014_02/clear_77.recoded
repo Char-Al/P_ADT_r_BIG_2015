@@ -1,0 +1,74 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gregory.batt@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 98D8426801D
+	for <bioinfo@sfbi.fr>; Tue, 25 Feb 2014 16:03:52 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjMDADawDFPAhqRTf2dsb2JhbAA/GhaDK8M/Fg4BAQsLCggUKII4JgEFQD0WGAMCAQIBWAYCAQGIAQ02lkyPY6AUjGiCGYIZD4F6BJg0jGOIcng
+X-IronPort-AV: E=Sophos;i="4.97,540,1389740400"; 
+   d="scan'208";a="54531681"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by b-mx1.relay.syrhano.net with ESMTP; 25 Feb 2014 16:03:51 +0100
+X-IronPort-AV: E=Sophos;i="4.97,540,1389740400"; 
+   d="scan'208";a="60233387"
+Received: from dhcp-rocq-247.inria.fr (HELO [128.93.62.247]) ([128.93.62.247])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 25 Feb 2014 16:03:51 +0100
+Message-ID: <530CB0EA.5040106@inria.fr>
+Date: Tue, 25 Feb 2014 16:04:10 +0100
+From: Gregory Batt <gregory.batt@inria.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] HDR defense - Gregory Batt - March 7th - Paris Diderot University
+Dear all,
+I am pleased to invite you to my HDR defense entitled "Design, 
+Optimization and Control in Systems and Synthetic Biology".
+The defense will be held on Friday, March 7th at 2pm in the seminar room 
+of the Matière et Systèmes Complexes lab (Condorcet Building, Paris 
+Diderot University).
+http://www.msc.univ-paris-diderot.fr/spip.php?rubrique152&lang=en
+The committee consists of:
+- Reiner Veitia, Institut Jacques Monod, Paris Diderot (Président)
+- Vincent Danos, University of Edinburgh and CNRS/Paris Diderot (Rapporteur)
+- Frédéric Devaux, CNRS/UMPC (Rapporteur)
+- Olivier Gandrillon, CNRS/Lyon1 (Rapporteur)
+- Hidde de Jong, INRIA Grenoble - Rhône-Alpes (Examinateur)
+- Mustafa Khammash, ETH Zurich (Examinateur)
+You are warmly welcome to the reception that will follow the defense.
+Please note that there will also be a seminar from Mustafa Khammash at 
+11am on the same day (MSC seminar room).
+see http://www.bsse.ethz.ch/ctsb/people/people_PI/khammash
+Best regards,
+Gregory
+----------------
+Cher tous,
+J'ai le plaisir de vous inviter à la soutenance de mon HDR intitulée 
+"Design, Optimization and Control in Systems and Synthetic Biology".
+La soutenance aura lieu le vendredi 7 mars à 14h dans la salle de 
+séminaire du laboratoire Matière et Systèmes Complexes de l'Université 
+Paris Diderot (Bâtiment Condorcet, Paris 7).
+http://www.msc.univ-paris-diderot.fr/spip.php?rubrique152&lang=fr
+Elle sera présentée devant un jury composé de :
+- Reiner Veitia, Président, Institut Jacques Monod, Paris Diderot
+- Vincent Danos, Rapporteur, University of Edinburgh and CNRS/Paris Diderot
+- Frédéric Devaux, Rapporteur, CNRS/UMPC
+- Olivier Gandrillon, Rapporteur, CNRS/Lyon1
+- Hidde de Jong, Examinateur, INRIA Grenoble - Rhône-Alpes
+- Mustafa Khammash, Examinateur, ETH Zurich
+J'ai également le plaisir de vous inviter au pot qui suivra.
+Il y aura le même jour à 11h un séminaire de Mustafa Khammash, aussi en 
+salle de séminaire du laboratoire MSC.
+http://www.bsse.ethz.ch/ctsb/people/people_PI/khammash
+Cordialement,
+Gregory
+-- 
+==================================================================
+Gregory Batt                            INRIA, Rocquencourt, France
+                                                   +33 1 39 63 53 77
+Gregory.Batt@inria.fr               http://www-rocq.inria.fr/~batt/
+==================================================================

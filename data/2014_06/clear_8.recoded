@@ -1,0 +1,59 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <dominique.lavenier@irisa.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 6848126801D
+	for <bioinfo@sfbi.fr>; Tue,  3 Jun 2014 08:09:55 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsIDAA9mjVPAhqRTf2dsb2JhbABZg1lRB8JdAYELFg4BAQsLCggUKIImAQUMYB0CATEdVwIXiEII0QgXjh47FoQqBJoAgT6Lf4kqgi0
+X-IronPort-AV: E=Sophos;i="4.98,963,1392159600"; 
+   d="scan'208";a="67842972"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by a-mx1.relay.syrhano.net with ESMTP; 03 Jun 2014 08:09:54 +0200
+From: Dominique Lavenier <dominique.lavenier@irisa.fr>
+X-IronPort-AV: E=Sophos;i="4.98,963,1392159600"; 
+   d="scan'208";a="77689869"
+Received: from zmbs3.inria.fr ([128.93.142.16])
+  by mail2-relais-roc.national.inria.fr with ESMTP; 03 Jun 2014 08:09:54 +0200
+Date: Tue, 3 Jun 2014 08:09:53 +0200 (CEST)
+To: bioinfo@sfbi.fr
+Message-ID: <1786773904.17389553.1401775793926.JavaMail.zimbra@irisa.fr>
+In-Reply-To: <538CEF7E.7020401@jouy.inra.fr>
+References: <E1WrRSY-000BI0-Au@sfbi2013.mti.univ-paris-diderot.fr> <538CEF7E.7020401@jouy.inra.fr>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [131.254.11.201]
+X-Mailer: Zimbra 8.0.6_GA_5922 (ZimbraWebClient - FF29 (Mac)/8.0.6_GA_5922)
+Thread-Topic: KLAST : version =?utf-8?Q?académique?= gratuite
+Thread-Index: 2m8ugelV5DBjt5s+ty8ZtcCDJsvkMw=
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] KLAST : version académique gratuite
+KLAST : version académique gratuite
+KLAST est un nouveau logiciel de recherche de similitudes entre séquences
+,
+optimisé pour la comparaison banque à banque. Il permet des gains d'un
+facteur 5 à 10 par rapport à BLAST, tout en conservant une qualité de
+résultat équivalente. Ces gains peuvent être beaucoup plus élevés
+ si une
+légère perte de sensibilité est acceptée.
+KLAST est issu du programme PLAST initialement développé par
+l'équipe GenScale (Inria-Irisa, Rennes). Par rapport à PLAST, KLAST int
+ègre
+maintenant le traitement des séquences d'ADN, proposant ainsi dans un
+seul logiciel les 5 méthodes de comparaison (klastp, klastx, klastn, ...)
+.
+KLAST est conjointement développé par l'équipe GenScale et la socié
+té
+Korilog dans le cadre du Inria Innovation Lab KoriScale. Une version
+académique gratuite de KLAST est maintenant téléchargeable à partir
+ de
+ce lien : http://koriscale.inria.fr
+--
+Dominique Lavenier                                     lavenier@irisa.fr
+DR CNRS                                           tel (33) 2 99 84 72 17
+GenScale Team Leader                        http://lavenier.net/homepage
+------------------------------------------------------------------------
+INRIA/IRISA                                    Avenue du Général Leclerc
+Campus de Beaulieu                                 35042 Rennes - France

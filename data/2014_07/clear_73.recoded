@@ -1,0 +1,46 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 21D2E26801D
+	for <bioinfo@sfbi.fr>; Thu, 24 Jul 2014 11:34:06 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AigDAG/S0FOKZqI0nGdsb2JhbABZg2BXAYJ3xhKHNwoBgSAQAQEBAQEICwkJFCmEBAEFIw8BBREvESUCBRYEBwICCQMCAQIBOgsTBgIBAYg+DagLl3IXgSyNPREBVxaCYoFOBZszhx2PKIFHaoEM
+X-IronPort-AV: E=Sophos;i="5.01,722,1400018400"; 
+   d="scan'208";a="62177447"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 24 Jul 2014 11:34:05 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s6O9Y3pL025408
+	for <bioinfo@sfbi.fr>; Thu, 24 Jul 2014 11:34:03 +0200 (CEST)
+Message-ID: <53D0D30B.9020905@jouy.inra.fr>
+Date: Thu, 24 Jul 2014 11:34:03 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1XAFQe-0007MO-76@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1XAFQe-0007MO-76@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1XAFQe-0007MO-76@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53D0D30B.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53D0D30B.000/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53D0D30B.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.079 -> S=0.079
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Exploration des =?UTF-8?Q?g=C3=A9nomes?= de champignons symbiotiques forestiers et analyses fonctionnelles de =?UTF-8?Q?donn=C3=A9es?= =?UTF-8?Q?m=C3=A9tatranscriptomi?=ques
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Exploration des génomes de champignons symbiotiques
+forestiers et analyses fonctionnelles de données métatranscriptomiques
+Type de poste : Post-doc / IR
+Durée du poste : 15 mois
+Ville : Champenoux
+Nom du contact : Emmanuelle Morin
+Email du contact : emmanuelle.morin@nancy.inra.fr
+Laboratoire : INRA UMR 1136, Interactions Arbres/Microorganismes (IaM)
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/exploration-des-g%C3%A9nomes-de-champignons-symbiotiques-forestiers-et-analyses-fonctionnelles-de

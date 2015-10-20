@@ -1,0 +1,55 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 6C9E326801D
+	for <bioinfo@sfbi.fr>; Wed,  5 Nov 2014 12:16:40 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkUBAJkGWlSKZqI0nGdsb2JhbABcg2Jagj1Iy0mIegEBAQEBEQEBAQEBCAsJCRQuhBUXEAURKQIIDggcAh8HAhIsECSIQQ2WG40dj0KBdY02hiiBLY8BEQFtgmGBVAWBMLR3AQEBBwEBAQEBXoFFa4EPgTwBAQE
+X-IPAS-Result: AkUBAJkGWlSKZqI0nGdsb2JhbABcg2Jagj1Iy0mIegEBAQEBEQEBAQEBCAsJCRQuhBUXEAURKQIIDggcAh8HAhIsECSIQQ2WG40dj0KBdY02hiiBLY8BEQFtgmGBVAWBMLR3AQEBBwEBAQEBXoFFa4EPgTwBAQE
+X-IronPort-AV: E=Sophos;i="5.07,319,1413237600"; 
+   d="scan'208";a="67574786"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Nov 2014 12:16:40 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sA5BGcM0002643
+	for <bioinfo@sfbi.fr>; Wed, 5 Nov 2014 12:16:39 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 009CA296C01
+	for <bioinfo@sfbi.fr>; Wed,  5 Nov 2014 12:16:38 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1Xlybx-000Fxe-An
+	for bioinfo@sfbi.fr; Wed, 05 Nov 2014 12:18:49 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1Xlybx-000Fxe-An@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Wed, 05 Nov 2014 12:18:49 +0100
+X-Miltered: at beta with ID 545A0716.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 545A0716.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 545A0716.000 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.269 -> S=0.361
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] Conception d'une base de =?UTF-8?Q?donn=C3=A9?=  es relationnelle dans le cadre d'un projet inte  rdisciplinaire sur la =?UTF-8?Q?caract=C3=A9risation?= de la di  =?UTF-8?Q?versit=C3=A9?= des levains naturels
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Conception d'une base de données relationnelle dans le  
+cadre d'un projet interdisciplinaire sur la caractérisation de la diversité  
+des levains naturels
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Gif sur Yvette
+Nom du contact : Yannick De Oliveira
+Email du contact : ydeoliveira@moulon.inra.fr
+Laboratoire : UMR Génétique Végétale - Le Moulon
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/conception-dune-base-de-donn%C3%A9es-relationnelle-dans-le-cadre-dun-projet-interdisciplinaire-su

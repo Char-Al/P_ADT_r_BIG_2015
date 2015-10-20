@@ -1,0 +1,88 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=2503bc016=Emmanuel.Barillot@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id B6A3E26801D
+	for <bioinfo@sfbi.fr>; Sun, 29 Jun 2014 22:53:27 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuoBAMh7sFPBMc0kmWdsb2JhbABag19axlYWDwEBAQEBCAsLBxQohEIIAQERFQkJOzQCNRcNBgIBAYhCqGqFeQEFl14GjySELYoSkFGBRpV7gi4
+X-IronPort-AV: E=Sophos;i="5.01,571,1400018400"; 
+   d="scan'208";a="69368706"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 29 Jun 2014 22:53:27 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1404075206; x=1435611206;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=2jSD2oQWtoPsTE5ICeLxLSipaCC/NC0Pq5BMWjIj+n4=;
+  b=EDs0Z3RpjPvezyvcrZl0trlywZwMBmT4jE9fPF/fiORykLkX+Tz0BQ3X
+   8gI0yvO8ollHfLM3N80hoYTVW8S5wg==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ap8EAJd7sFMKAgBG/2dsb2JhbABag19axmx1hEIbFQlENAI1Fw0GAgEBiEKaPqt4F48khC0Fig2QUYFGkjeDRIIu
+X-IPAS-Result: Ap8EAJd7sFMKAgBG/2dsb2JhbABag19axmx1hEIbFQlENAI1Fw0GAgEBiEKaPqt4F48khC0Fig2QUYFGkjeDRIIu
+X-IronPort-AV: E=Sophos;i="5.01,571,1400018400"; 
+   d="scan'208";a="28212018"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip01-in.curie.fr with ESMTP; 29 Jun 2014 22:53:25 +0200
+Received: from MacBook-Air-de-Emmanuel-M-L-Barillot.local (193.49.205.29) by
+ mail.curie.fr (10.2.0.72) with Microsoft SMTP Server (TLS) id 14.3.174.1;
+ Sun, 29 Jun 2014 22:53:25 +0200
+Message-ID: <53B07CC4.200@curie.fr>
+Date: Sun, 29 Jun 2014 22:53:24 +0200
+From: Emmanuel Barillot <Emmanuel.Barillot@curie.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="ISO-8859-1"; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [193.49.205.29]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoctoral position, Cancer Computational Systems Biology at Institut
+ Curie
+***********************************************************************************
+Postdoctoral position for high-throughput data analysis
+in a Cancer Computational Systems Biology project at Institut Curie 
+(Barillot lab)
+(2 years position with possible extension)
+***********************************************************************************
+A computational biologist/biostatistician position for high-throughput 
+data analysis is open at Institut Curie, Paris (http://www.curie.fr), a 
+major cancer research and treatment institute.
+The successful candidate will work in the Department of "Bioinformatics 
+and Computational Systems Biology of Cancer" (U900 Department, 
+http://u900.curie.fr), a joint Unit from institut Curie, INSERM and 
+Mines ParisTech. The Department comprises 80 persons (biostatisticians, 
+mathematicians, physicians, biologists, physicists and computer 
+scientists) and deals with the integration and computational analysis of 
+large scale data in projects aiming at improving our understanding of 
+tumor progression and developping new therapeutic strategies. The 
+position is open in the "Computational Systems Biology of Cancer" team 
+(http://sysbio.curie.fr ).
+The candidate will work in the frame of a computational systems biology 
+project devoted to understanding how cell signalling networks are 
+governing cancer development and to the answer to therapeutic treatment. 
+In particular, the candidate will analyse high-throughput profiles 
+(next-generation sequencing, microarrays...) of genome structure and 
+expression using biological network databases. The candidate will 
+interact with computational systems biologists from the Department, and 
+in close interaction with biologists and clinicians from institut Curie 
+involved in the partnership.
+We expect the candidate to have a PhD in computational biology, 
+statistics or bioinformatics. The candidate must have a good knowledge 
+in multidimensional data analysis, and be experienced in scientific 
+programming (Matlab, R, Java).
+A strong interest in molecular biology, and in particular signalling in 
+the context of cancer is needed. He/she will have to: understand the 
+biological and clinical questions; define the most appropriate 
+statistical approaches; carry out statistical analyses of high-throuput 
+data (microarray, NGS, etc.); communicate the results in meetings, 
+scientific seminars, conferences and articles.
+Excellent communication skills and team spirit, and a capacity to work 
+in autonomy and deliver results on time are essential.
+The candidate should send in PDF to bcsb70@curie.fr :
+- a letter of motivation,
+- a CV,
+- reprints of their main publications
+- three references with e-mail address and phone number.

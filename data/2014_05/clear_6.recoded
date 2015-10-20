@@ -1,0 +1,98 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <chaouiya@igc.gulbenkian.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 0E06026801D
+	for <bioinfo@sfbi.fr>; Tue,  6 May 2014 00:38:15 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ap0BACASaFPBiV4EnGdsb2JhbABZg1W9ZYhYFg4BAQEBAQgUCTyDFAWBShwTiCkJmHK0UBeLQ2krhDUPRCSBFQSFSY91ilqOBYFAPA
+X-IronPort-AV: E=Sophos;i="4.97,992,1389740400"; 
+   d="scan'208";a="58059401"
+Received: from mx01.igc.gulbenkian.pt ([193.137.94.4])
+  by b-mx1.relay.syrhano.net with ESMTP; 06 May 2014 00:38:14 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id C41C1C61A3
+	for <bioinfo@sfbi.fr>; Mon,  5 May 2014 23:38:12 +0100 (WEST)
+X-Virus-Scanned: Debian amavisd-new at mx01
+Received: from mx01.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id oT1Lu0Z31VQ9 for <bioinfo@sfbi.fr>;
+	Mon,  5 May 2014 23:38:07 +0100 (WEST)
+Received: from mx00.igc.gulbenkian.pt (mx00.igc.gulbenkian.pt [192.168.50.10])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id 253ABC61A2
+	for <bioinfo@sfbi.fr>; Mon,  5 May 2014 23:38:07 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 193C42B6133
+	for <bioinfo@sfbi.fr>; Mon,  5 May 2014 23:38:07 +0100 (WEST)
+Received: from mx00.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id S2MPFazATIHp for <bioinfo@sfbi.fr>;
+	Mon,  5 May 2014 23:38:03 +0100 (WEST)
+Received: from [10.8.0.74] (fw1dmz.igc.gulbenkian.pt [192.168.50.3])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTPSA id 3EF262B6130
+	for <bioinfo@sfbi.fr>; Mon,  5 May 2014 23:38:03 +0100 (WEST)
+From: Claudine Chaouiya <chaouiya@igc.gulbenkian.pt>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <E345A619-BCC6-4A42-B18B-14312B12B645@igc.gulbenkian.pt>
+Date: Mon, 5 May 2014 23:38:05 +0100
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Mime-Version: 1.0 (Mac OS X Mail 6.6 \(1510\))
+X-Mailer: Apple Mail (2.1510)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECCB 2014 tutorial "Computational Tools to Define and Analyse Logical Models of Cellular Networks"
+We are pleased to announce the ECCB'14 tutorial on "Computational Tools to 
+Define and Analyse Logical Models of Cellular Networks" that will take plac
+e Sunday, 7th September, 2014 afternoon, in Strasbourg, France.
+Looking forward to seeing you in Strasbourg,
+C. Chaouiya, T. Cokelaer, T. Helikar and J. Saez-Rodriguez
+---------------------------------------------------------------------------
+---------------
+Tutorial T02 - Logical Modelling and Analysis of Cellular Networks
+             http://www.eccb14.org/program/tutorials/lmcn
+---------------------------------------------------------------------------
+---------------
+------------  Short description ------------
+The logical framework is being increasingly used to model the dynamical beh
+aviour of biological regulatory networks. In this context, a range of compu
+tational tools have been developed to support model definition and analysis
+. These tools reflect the diversity of formalisations covering =93logical m
+odelling  (Boolean, multilevel, deterministic, stochastic, etc.). This tu
+torial aims at providing an overview of this diversity, demonstrating the c
+omplementarity between existing computational tools made possible by a nove
+l exchange format --Systems Biology Markup Language  Qualitative Models (SB
+ML qual). Instructors will provide an overview of existing technology power
+ing efficient qualitative modelling of regulatory and signalling networks. 
+Real biological examples will be used in the proposed tutorial session. Spe
+cifically, presentations will cover the following topics:
+- Brief introduction to logical modelling;
+- Existing software tools and their specificities;
+- SBML qual package, a standard format for model exchange;
+- CellNOpt: a toolbox for creating logic-based models of signal transductio
+n networks, and training them against high-throughput biochemical data (htt
+p://www.cellnopt.org/), overview and short demo;
+- GINsim, a software tool for the definition simulation and analysis of reg
+ulatory and signalling networks (http://www.ginsim.org/), overview and shor
+t demo;
+- The Cell Collective, a platform for collaborative creation and simulation
+ of large-scale Boolean models (http://www.thecellcollective.org/), overvie
+w and short demo.
+Attendees will have access to all the material necessary in order to follow
+/reproduce the various short demonstrations. Speed dating will be organised
+ along the main conference, for one-on-one hands-on training with attendees
+' custom data.
+--------- Target audience ---------
+Students and researchers interested in learning a modelling approach to tac
+kle the complexity of regulatory and signalling networks. This tutorial sho
+uld interest not only new-comers to the field of network modelling, but als
+o those already familiar with a particular tool, willing to learn about com
+plementary approaches. No prior modelling experience is necessary.
+---------- Instructors ---------
+	- Claudine Chaouiya (Instituto Gulbenkian de Ciência, Oeiras Portugal)
+	- Thomas Cokelaer (EMBL-EBI, UK)
+	- Tomas Helikar (University of Nebraska-Lincoln, USA)
+	- Julio Saez-Rodriguez (EMBL-EBI, UK)
+Note that this tutorial is coupled with the workshop "Logical Modelling and
+ Analysis of Cellular Networks", on the previous day (Saturday, September 6
+th, 2014, http://www.eccb14.org/program/workshops/lmacn).

@@ -1,0 +1,143 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <stephane.robin@agroparistech.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 842AB26801D
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 18:10:06 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuYBAKjVKlTBNm8gnGdsb2JhbABWCoNhVwSCfscmiFkWAREBAQEBAQYNCQkULIQKIyYgAQcaAR8DAg0ZAiEwCgQTG4gnCZlDjzuBbZQ4gSyBNYp8gVQRg1uBUwWFFAKBFIkmgh2EOIhvhVuHZ4hpgUVqAQGBRoECAQEB
+X-IPAS-Result: AuYBAKjVKlTBNm8gnGdsb2JhbABWCoNhVwSCfscmiFkWAREBAQEBAQYNCQkULIQKIyYgAQcaAR8DAg0ZAiEwCgQTG4gnCZlDjzuBbZQ4gSyBNYp8gVQRg1uBUwWFFAKBFIkmgh2EOIhvhVuHZ4hpgUVqAQGBRoECAQEB
+X-IronPort-AV: E=Sophos;i="5.04,627,1406584800"; 
+   d="scan'208";a="65312722"
+Received: from smtp.agroparistech.fr ([193.54.111.32])
+  by b-mx1.relay.syrhano.net with ESMTP; 30 Sep 2014 18:09:40 +0200
+Received: from smtp.agroparistech.fr (smtp [127.0.0.1])
+	by smtp.agroparistech.fr (Postfix) with ESMTP id 70F321D83127
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 18:09:40 +0200 (CEST)
+Received: from zmbp2.agroparistech.fr (zmbp2.agroparistech.fr [193.54.111.138])
+	by smtp.agroparistech.fr (Postfix) with ESMTP id 6582C1D83126
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 18:09:40 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by zmbp2.agroparistech.fr (Postfix) with ESMTP id 7AFCB1A7FF6
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 18:09:40 +0200 (CEST)
+X-DSPAM-Class: Spam
+X-DSPAM-Confidence: 0.54
+X-DSPAM-Probability: 1.0000
+X-Spam-Flag: NO
+X-Spam-Score: -2.451
+X-Spam-Level:
+X-Spam-Status: No, score=-2.451 tagged_above=-10 required=6.6
+	tests=[ALL_TRUSTED=-1, BAYES_00=-1.9, RDNS_NONE=0.793,
+	RP_MATCHES_RCVD=-1.344, DSPAM.Spam=1.000] autolearn=ham
+X-DSPAM-Result: Spam
+Received: from zmbp2.agroparistech.fr ([127.0.0.1])
+	by localhost (zmbp2.agroparistech.fr [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id DjgoRau1Vlad for <bioinfo@sfbi.fr>;
+	Tue, 30 Sep 2014 18:09:35 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by zmbp2.agroparistech.fr (Postfix) with ESMTP id 2D2031A7FF9
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 18:09:35 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at 
+Received: from zmbp2.agroparistech.fr ([127.0.0.1])
+	by localhost (zmbp2.agroparistech.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id G7qRZzas8vJS for <bioinfo@sfbi.fr>;
+	Tue, 30 Sep 2014 18:09:35 +0200 (CEST)
+Received: from zmb2.agroparistech.fr (zmb2.agroparistech.fr [193.54.111.88])
+	by zmbp2.agroparistech.fr (Postfix) with ESMTP id 114431A7FF8
+	for <bioinfo@sfbi.fr>; Tue, 30 Sep 2014 18:09:35 +0200 (CEST)
+Date: Tue, 30 Sep 2014 18:09:34 +0200 (CEST)
+From: =?iso-8859-15?Q?Stéphane?= ROBIN <robin@agroparistech.fr>
+To: "bioinfo " <bioinfo@sfbi.fr>
+Message-ID: <3615585.289.1412093370804.JavaMail.robin@portdellrobin>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [172.16.210.179]
+X-Mailer: Zimbra 8.0.4_GA_5740 (Zimbra Desktop/7.2.2_11951_Linux)
+Thread-Topic: Postdoctoral position in Statistics/Bioinformatics/Computer science at AgroParisTech / LBBE (Lyon)
+Thread-Index: GU/fV95OZGwpcvuGcRigEeVpxxCOgg=
+X-AV-Checked: ClamAV MX AgroParisTech
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoctoral position in Statistics/Bioinformatics/Computer science
+ at AgroParisTech / LBBE (Lyon)
+Postdoctoral position in Statistics/Bioinformatics/Computer science at Agro
+ParisTech / LBBE (Lyon)
+Subject: Alternative splicing: On the unicity of the solution to the varian
+t identification problem
+New sequencing technologies can now be applied to the study of mRNA, throug
+h the RNA-seq protocol. These techniques yield large amounts of short reads
+, which then need to be reassembled to identify and quantify the full-lengt
+h mRNAs initially present in the sample. While this problem is simple when 
+there is only one mRNA per gene, it becomes challenging when a gene gives r
+ises to several alternative splicing variants, with different exon content.
+ Recent studies estimate that up to 90% of multi-exon genes in human are al
+ternatively spliced. Hence, what was thought to be once an exception seems 
+in fact to be the rule. Idenfifying and quantifying all the variants of a g
+ene is therefore a major challenge in the field, for which various methods 
+have been proposed, including penalized regression approaches [Li et al., 2
+011, Bernard et al., 2014].
+Unambiguously assigning an expression level to each variant is however not 
+always possible, essentially because sequencing reads are short, and genes 
+may have many (unannotated) variants Lacroix et al. [2008]. In practice, se
+veral sets of variants may give solutions which are equally good in terms o
+f penalized or constrained likelihood. Yet, most methods output only one be
+st solution, without mentionning that there could be other equally good one
+s. This is not satisfactory and could lead to spurious biological conclusio
+ns. The purpose of this post-doc is to carefully analyze the conditions und
+er which a solution is unique and, most importantly, when it is not the cas
+e to characterize the set of solutions and propose possibly unique sub-solu
+tions.
+Context
+The postdoctoral fellow will work either in the UMR 518 AgroParisTech-INRA 
+de Mathématiques et Informatique Appliquees (MIA) in Paris or in the U
+MR CNRS 5558 de Biométrie et de Biologie =C3=89volutive (LBBE) in Lyon
+. Both groups are specialized in statistics and bioinformatics.
+This postdoctoral position is offered in the framework of ABS4NGS ANR proje
+ct https://sites. google.com/site/abs4ngs/. The postdoctoral fellow will th
+us discuss and collaborate with the different partners of this project Inst
+itut Curie and which started at the end of 2012.
+Background
+The applicant should have a strong background in applied statistics, bioinf
+ormatics and/or computer science; typically a PhD in one of these fields. A
+ strong experience in programming is also highly desirable.
+Localization.
+  UMR 518 AgroParisTech-INRA MIA: 16 Rue Claude Bernard, Paris 5=C3
+=A8me, www.agroparistech.fr/mia/
+  UMR CNRS 5558 LBBE: Campus de La Doua - Université Claude Be
+rnard - Lyon 1, 16 rue Raphael Dubois (B=C3=A2timent Grégoire Mendel),
+ Villeurbanne, lbbe.univ-lyon1.fr/
+Salary.
+Depending of the past experience of the applicant: 1968 euros per month (23
+98 euros before taxes) or 2142 euros per month (2611 euros before taxes).Du
+ration.
+The position is for 18 months.
+Contact.
+  MIA 518: Stéphane Robin: robin@agroparistech.fr
+  LBBE: Laurent Jacob: laurent.jacob@univ-lyon1.fr, Vincent Lacroix
+: vincent.lacroix@univ-lyon1.fr
+References
+  Elsa Bernard, Laurent Jacob, Julien Mairal, and Jean-Philippe Ver
+t. Efficient RNA isoform identification and quantification from rna-seq dat
+a with network flows. Bioinformatics, 30(17):2447â=80=932455, 2014. doi: 
+10.1093/bioinformatics/btu317. URL http://dx.doi.org/10.1093/bioinformatics
+/btu317.
+  Vincent Lacroix, Michael Sammeth, Roderic Guig=C3=B3, and Anne Be
+rgeron. Exact transcriptome reconstruction from short sequence reads. In Ke
+ith A. Crandall and Jens Lagergren, editors, Algorithms in Bioinformatics, 
+8th International Workshop, WABI 2008, Karlsruhe, Germany, September 15-19,
+ 2008. Proceedings, volume 5251 of Lecture Notes in Computer Science, pages
+ 50â=80=9363. Springer, 2008. ISBN 978-3-540-87360-0. doi: 10.1007/978-3-
+540-87361-7_5. URL http://dx.doi.org/10.1007/978-3-540-87361-7_5.
+  Jingyi Jessica Li, Ci-Ren Jiang, James B Brown, Haiyan Huang, and
+ Peter J Bickel. Sparse linear modeling of next-generation mrna sequencing 
+(rna-seq) data for isoform discovery and abundance estimation. Proc Natl Ac
+ad Sci U S A, 108(50):19867â=80=9319872, Dec 2011. doi: 10.1073/pnas.1113
+972108. URL http://dx.doi.org/10.1073/pnas.1113972108.
+--
+-------------------------------------------------------------
+Stéphane ROBIN    INRA (dépt MIA) / AgroParisTech (dépt MMIP)
+16 rue Claude Bernard      F-75231 Paris cedex 05      FRANCE
+www.agroparistech.fr/mia/                        ssbgroup.fr/
+Personal page: www.agroparistech.fr/mia/robin
+tél: (33) (0)1.44.08.72.07         fax: (33) (0)1.44.08.16.66

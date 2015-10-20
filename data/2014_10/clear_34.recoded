@@ -1,0 +1,52 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Guy.Perriere@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id EECFC26801D
+	for <bioinfo@sfbi.fr>; Mon, 13 Oct 2014 09:01:04 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AloBAAB4O1SG1rySnGdsb2JhbABbg2FYyw6IYxYBEQEBAQEBCAsJCRQuhH2BVog+DZ8ppFWOHYJFgxeBHgW1LwGCJWoBgkkBAQE
+X-IPAS-Result: AloBAAB4O1SG1rySnGdsb2JhbABbg2FYyw6IYxYBEQEBAQEBCAsJCRQuhH2BVog+DZ8ppFWOHYJFgxeBHgW1LwGCJWoBgkkBAQE
+X-IronPort-AV: E=Sophos;i="5.04,708,1406584800"; 
+   d="scan'208";a="74660196"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by a-mx1.relay.syrhano.net with ESMTP; 13 Oct 2014 09:01:04 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 4880FE014F;
+	Mon, 13 Oct 2014 09:01:04 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 0StH0pvC+LRh; Mon, 13 Oct 2014 09:00:59 +0200 (CEST)
+Received: from umr5558-c02mc85dfd57.univ-lyon1.fr (umr5558-c02mc85dfd57.univ-lyon1.fr [134.214.32.83])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id D8EECE015C;
+	Mon, 13 Oct 2014 09:00:59 +0200 (CEST)
+From: =?windows-1252?Q?Guy_Perrière?= <Guy.Perriere@univ-lyon1.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 13 Oct 2014 09:00:58 +0200
+To: bioinfo@sfbi.fr
+Message-Id: <A7AF2F86-1A6F-4EE4-B742-E70C706B5518@univ-lyon1.fr>
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+X-Mailer: Apple Mail (2.1878.6)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Formations Ade-4 LBBE/PRABI
+Bonjour à tous,
+Deux formations dédiées à la bibliothèque Ade-4 pour R sont organis
+ées par le LBBE (Laboratoire de Biométrie et Biologie Evolutive) en ass
+ociation avec le PRABI (Pôle Rhône-Alpes de Bioinformatique) et Fc-3Bio
+. Ces formations auront lieu :
+- Les 24 et 25 novembre pour la formation intitulée "Ade-4 : Initiation e
+t méthodes de base".
+- Du 8 au 10 décembre pour la formation intitulée "Ade4 : Perfectionnem
+ent et méthodes avancées".
+Les inscriptions se font directement sur le site de Fc-3Bio (http://www.fc3
+bio.fr/forms/Inscription_f2.html) avant le 15 novembre. Pour toutes informa
+tion relative aux stages en question (tarifs, programme, durée, etc.), ut
+ilisez l'adresse : contact@fc3bio.fr.
+Bien cordialement,
+--
+Guy Perrière
+Directeur du Pôle Rhône-Alpes de Bioinformatique
+http://www.prabi.fr

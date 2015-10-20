@@ -1,0 +1,91 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <atheven@cebitec.uni-bielefeld.de>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 4E56B26801D
+	for <bioinfo@sfbi.fr>; Wed, 28 May 2014 16:16:02 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aq8BAPLuhVOBRqBUmWdsb2JhbABZFoNDWIJrpyuCZQGWKR4OAQEBAQEGDQsHFCiCPgsGQwI3DwImAiQSAQUBIiwJiCANonqDEWqLJ6ROF4EqhCuFboI3g1SBSwSZdYE9hRcSilAYKYRqagGBAA
+X-IronPort-AV: E=Sophos;i="4.98,928,1392159600"; 
+   d="scan'208";a="59286135"
+Received: from snape.cebitec.uni-bielefeld.de (HELO smtp-relay.CeBiTec.Uni-Bielefeld.DE) ([129.70.160.84])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 May 2014 16:16:01 +0200
+Received: from localhost (localhost.CeBiTec.Uni-Bielefeld.DE [127.0.0.1])
+	by smtp-relay.CeBiTec.Uni-Bielefeld.DE (Postfix) with ESMTP id 49109934
+	for <bioinfo@sfbi.fr>; Wed, 28 May 2014 16:15:58 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at cebitec.uni-bielefeld.de
+Received: from smtp-relay.CeBiTec.Uni-Bielefeld.DE ([127.0.0.1])
+	by localhost (malfoy.CeBiTec.Uni-Bielefeld.DE [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id Z08oOCTKGRXN for <bioinfo@sfbi.fr>;
+	Wed, 28 May 2014 16:15:56 +0200 (CEST)
+Received: from mail-lb0-f174.google.com (mail-lb0-f174.google.com [209.85.217.174])
+	(using TLSv1 with cipher RC4-SHA (128/128 bits))
+	(No client certificate requested)
+	by smtp-relay.CeBiTec.Uni-Bielefeld.DE (Postfix) with ESMTPSA id 1E1E3933
+	for <bioinfo@sfbi.fr>; Wed, 28 May 2014 16:15:56 +0200 (CEST)
+Received: by mail-lb0-f174.google.com with SMTP id n15so5885148lbi.19
+        for <bioinfo@sfbi.fr>; Wed, 28 May 2014 07:15:55 -0700 (PDT)
+X-Received: by 10.152.170.193 with SMTP id ao1mr31511991lac.27.1401286555452;
+ Wed, 28 May 2014 07:15:55 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.112.9.68 with HTTP; Wed, 28 May 2014 07:15:25 -0700 (PDT)
+From: Annelyse Thevenin <atheven@cebitec.uni-bielefeld.de>
+Date: Wed, 28 May 2014 16:15:25 +0200
+Message-ID: <CAGKEujqy212xADkn2JFSRZCKA8jTxYGGBuMYd=EiHMdOEM3Lxw@mail.gmail.com>
+To: bioinfo <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Call for papers RECOMB-CG 2014
+The Twelfth RECOMB Satellite Conference on Comparative Genomics
+Oct 19-22, 2014
+Cold Spring Harbor Laboratory, New York
+URL: http://meetings.cshl.edu/meetingsregistration_recomb.asp
+Venue: Cold Spring Harbor Laboratory, Cold Spring Harbor, NY.
+The RECOMB-CG satellite workshop brings together leading researchers in
+the mathematical, computational and life sciences to discuss cutting
+edge research in comparative genomics, with an emphasis on computational
+approaches and novel experimental results. The program includes both
+invited speakers and contributed talks.
+* Submission Deadline: June 27, 2014
+* Author Notification: July 25, 2014
+* Final Version Due: August 8, 2014
+* Posters: TBA
+The Twelfth RECOMB-CG will be held in Cold Spring Harbor Laboratory,
+Cold Spring Harbor, New York, USA. We invite high-quality original full
+papers on topics related to comparative genomics. The submitted papers
+must have not been published or under the consideration for publication
+in any other journal or conference with formal proceedings. All accepted
+papers will have to be presented by one on the authors at the
+conference. Accepted papers will be invited to be published in the
+journal BMC Genomics, following the publication policy of the journal.
+Papers are solicited on, but not limited to, the following topics:
+    =C2=B7 population genomics
+    =C2=B7 genome rearrangement,
+    =C2=B7 comparative tools for genome assembly
+    =C2=B7 gene identification and/or annotation
+    =C2=B7 comparison of functional networks
+    =C2=B7 phylogenomics
+    =C2=B7 genome variation
+    =C2=B7 comparative epigenomics
+    =C2=B7 genome evolution
+    =C2=B7 paleogenomics
+    =C2=B7 cancer evolution genomics
+*Conference Chairs*
+Laxmi Parida, IBM Research, USA
+Bud Mishra, NYU, USA
+Gurinder Singh Atwal, CSHL, USA
+*Publication & Web Chairs*
+Filippo Utro, IBM research, USA
+Niina Haiminen, IBM research, USA
+*Steering Committee*
+David Sankoff, Univ. of Ottawa, Canada
+Jens Lagergren, KTH, Sweden
+Aoife McLysaght, Univ. of Dublin, Ireland
+--
+----
+Annelyse Thévenin
+Genome informatics (http://gi.cebitec.uni-bielefeld.de/index.html)
+research group at Bielefeld University (http://www.uni-bielefeld.de)
+Homepage: http://www.cebitec.uni-bielefeld.de/%7Eatheven

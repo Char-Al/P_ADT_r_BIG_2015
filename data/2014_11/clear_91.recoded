@@ -1,0 +1,91 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <soeding@mpibpc.mpg.de>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7348926801D
+	for <bioinfo@sfbi.fr>; Fri, 28 Nov 2014 19:34:43 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtcBAKu/eFSGTAsQnGdsb2JhbABRBwODV1nHNgyGS4EMFgEBAQEBEQEBAQEBCAsJCRQuhHQCgUoTFgOIJwUIrHmlIAEBAQcBAQEBAQEckBkGCwFAKIImD0QkgR8FkmWEZ4c1gTWDWYJ5BYsGhkGBRm4BgQ6BOwEBAQ
+X-IPAS-Result: AtcBAKu/eFSGTAsQnGdsb2JhbABRBwODV1nHNgyGS4EMFgEBAQEBEQEBAQEBCAsJCRQuhHQCgUoTFgOIJwUIrHmlIAEBAQcBAQEBAQEckBkGCwFAKIImD0QkgR8FkmWEZ4c1gTWDWYJ5BYsGhkGBRm4BgQ6BOwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,478,1413237600"; 
+   d="scan'208";a="69200493"
+Received: from fmailer.gwdg.de ([134.76.11.16])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 Nov 2014 19:34:42 +0100
+Received: from [134.76.11.221] (helo=email.gwdg.de)
+	by mailer.gwdg.de with esmtp (Exim 4.80)
+	(envelope-from <soeding@mpibpc.mpg.de>)
+	id 1XuQNN-00025O-JP
+	for bioinfo@sfbi.fr; Fri, 28 Nov 2014 19:34:41 +0100
+Received: from m1161-js.mpibpc.intern (10.208.13.224) by email.gwdg.de
+ (134.76.9.210) with Microsoft SMTP Server (TLS) id 14.3.195.1; Fri, 28 Nov
+ 2014 19:34:41 +0100
+From: "Soeding, Johannes" <soeding@mpibpc.mpg.de>
+Content-Type: text/plain; charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <BF8E1300-7A73-4328-B356-F24D9494C6A8@mpibpc.mpg.de>
+Date: Fri, 28 Nov 2014 19:34:38 +0100
+To: <bioinfo@sfbi.fr>
+MIME-Version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+X-Mailer: Apple Mail (2.1878.6)
+X-Spam-Level: -
+X-Virus-Scanned: (clean) by clamav
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Postdoc in bioinformatics / systems medicine at Max-Planck Institute in =?WINDOWS-1252?Q?G=F6ttingen?=, Germany
+JOB DESCRIPTION
+Atherosclerosis and its medical sequels, coronary artery disease (CAD) and 
+stroke, are expected to become the leading cause of death worldwide by 2020
+. We are looking for a postdoctoral researcher with a background in bioinfo
+rmatics, computational biology, systems medicine, computer science, physics
+, statistics or related fields to investigate the origins of atherosclerosi
+s using a systems-level approach.
+The project is part of the e:AtheroSysMed consortium, which comprises leadi
+ng clinical experts on coronary artery disease (CAD) and stroke, statistica
+l geneticists, epidemiologists and computational biologists. Through our co
+llaborators, we have access to unique data (genotypes, transcription, mass 
+spec, methylation) from large clinical GWA studies on CAD and stroke. We wa
+nt to develop novel methods for statistical modeling and machine learning t
+o analyze these data, integrating them with publicly available functional g
+enomics data. The goal is to identify transcriptional subnetworks that tend
+ to be deregulated in high-risk individuals and that could lead to novel th
+erapeutic or diagnostic targets.
+This project is financed by the German Ministry for Education and Research 
+(BMBF) for 3 years, with the possibility of extension by two years in case 
+of a favorable review of our e:AtheroSysMed consortium. The position is ava
+ilable at the earliest convenience. The salary will be according to Tv=F6D 
+E13 (http://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=3Dtvoed-bun
+d-2014&matrix=3D1).
+DESIRED SKILLS AND EXPERIENCE
+If you are motivated by working to improve the health and quality of life o
+f many, if you are enthusiastic about turning data into insight, if you val
+ue a team of dedicated experts that share the same goals, if you cherish th
+e challenge and independence that a job in research offers, if you are skil
+led and experienced in quantitative data analysis and programming, then we 
+would be very interested to receive your application.
+You will be part of the Computational Biology Group at the Max-Planck Insti
+tute for Biophysical Chemistry. We develop statistical and machine learning
+ methods and software to address questions in biology and biomedicine, see 
+http://www.soeding.genzentrum.lmu.de and https://www.mpibpc.mpg.de/de/soedi
+ng.
+Please send a cover letter briefly summarizing your motivation to apply and
+ why you would fit this project, a Curriculum Vitae, references, a list of 
+publications and study transcripts including grades as a single pdf file to
+ Johannes S=F6ding, soeding@mpibpc.mpg.de
+About the institute and the Max-Planck Society
+The Max-Planck Society is Germany's premier institution for fundamental r
+esearch. For information about our institute, the largest one in the societ
+y, see https://www.mpibpc.mpg.de/en.
+Equal Opportunity Disclaimer: The Max Planck Society seeks to increase the 
+number of women in those areas where they are underrepresented and therefor
+e explicitly encourages women to apply. The Max-Planck society is committed
+ to increasing the number of individuals with disabilities in its workforce
+ and therefore encourages applications from such qualified individuals.
+___________________________________________
+Johannes Soeding
+Computational Biology Group
+Max-Planck Institute for Biophysical Chemistry
+Am Fassberg 11, 37075 Goettingen, Germany
+Tel: +49 551 201-2890
+Fax: +49 551 201 2803
+Email: soeding@mpibpc.mpg.de
+___________________________________________

@@ -1,0 +1,69 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pierre.granouillet@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5F56E26801D
+	for <bioinfo@sfbi.fr>; Thu,  6 Nov 2014 08:49:28 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aj0BAAYnW1TRVd+wlGdsb2JhbABbg2JZBMsdh0yBFQcWAQEBAQERAQEBAQcLCwkSMIQbER0BGx4DEhAPAiYCJAERAQUBPQEZiAkBAxINp2ODIT0xizOBc4MSiTUKGScNaIV/AQUOgR+PPkOCYYFUBYZLjGODRIcelFwYKYUzPC+CSwEBAQ
+X-IPAS-Result: Aj0BAAYnW1TRVd+wlGdsb2JhbABbg2JZBMsdh0yBFQcWAQEBAQERAQEBAQcLCwkSMIQbER0BGx4DEhAPAiYCJAERAQUBPQEZiAkBAxINp2ODIT0xizOBc4MSiTUKGScNaIV/AQUOgR+PPkOCYYFUBYZLjGODRIcelFwYKYUzPC+CSwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,324,1413237600"; 
+   d="scan'208";a="67639363"
+Received: from mail-ie0-f176.google.com ([209.85.223.176])
+  by b-mx1.relay.syrhano.net with ESMTP; 06 Nov 2014 08:49:28 +0100
+Received: by mail-ie0-f176.google.com with SMTP id rd18so2466412iec.35
+        for <bioinfo@sfbi.fr>; Wed, 05 Nov 2014 23:49:26 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=8zh0s2OFxF98KdRlI001xiyvEQk7ymsHxpkU+HFgy/E=;
+        b=eaD0o/2Omad3dhz07r14vNXq+R6UO9sw3HVOe8w7bfxosGXsrROLcAhJv8AK3N/6G2
+         f26BKbQewyWccVA9bveZwFiMkN7uKd3pDBHJtyKm5KPNP9Wlty4eazWbFD3qmVH+Oy+y
+         xLv3GiBxQgUf6Rca5rot0uecOMrKLbOTSoF3p3ekovMzVWbWvfSarTDN8U4jMsQPVnw/
+         eT5gg+tQ4QN+V3kfQA0LzXjg83LKNwvROZIal6/r7jiBHD/luNmNSs6U7FK4OipHMSuh
+         TfoggTHW4Wqvk/rlgR+qL3qPu9P1PxYw/N5InTb9V/4Xquq9VztKInx+kQmVUzOW/V3j
+         xkHg=
+MIME-Version: 1.0
+X-Received: by 10.43.165.66 with SMTP id mv2mr9354909icc.51.1415260166460;
+ Wed, 05 Nov 2014 23:49:26 -0800 (PST)
+Received: by 10.107.150.140 with HTTP; Wed, 5 Nov 2014 23:49:26 -0800 (PST)
+Date: Thu, 6 Nov 2014 08:49:26 +0100
+Message-ID: <CAL98f2novkeXTxbbW+fMkd8i4KN4FmdWZNO2nkqLWXP7BDe6Bw@mail.gmail.com>
+From: Pierre Granouillet <pierre.granouillet@gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] La bio-informatique au sein d'un laboratoire collaboratif lyonnais?
+Bonjour,
+Je rebondis sur un article trouvé sur bioinfo-fr
+(http://bioinfo-fr.net/le-role-de-la-bioinformatique-dans-les-labos-collabo
+ratifs).
+Nous sommes en train de monter une activité biologie au sein de
+Laboratoire Ouvert Lyonnais (http://www.lyonopenlab.org/) qui est un
+lieu dédié au Do It Yourself basé place Louis Chazette =C3
+  Lyon.
+Ce lieu est très fréquenté par une population d'informaticie
+ns. Je
+pense donc qu'il serait intéressant de rencontrer des
+bio-informaticiens de la région (ou de plus loin) afin de discuter de
+projets mêlant les 2 disciplines.
+A titre d'exemple, ces projets pourraient être de la
+micro-formation/information à destination des personnes intéress
+ées ou
+des développements de modules pour des logiciels libres (je pense =C3
+ 
+Galaxy par exemple qui semble de plus en plus demandé par la
+communauté scientifique).
+Si des personnes sont intéressées par ce projets, je les invite 
+à me
+contacter ou à venir nous rencontrer 7 place Chazette à Lyon les 
+mardi
+ou jeudi soirs.
+Bonne soirée.
+Pierre
+--
+Pierre Granouillet
+Tel.: 06 78 96 60 49

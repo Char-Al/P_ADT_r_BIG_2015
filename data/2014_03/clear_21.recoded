@@ -1,0 +1,96 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <nicolas.garcelon@institutimagine.org>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id B911A26801D
+	for <bioinfo@sfbi.fr>; Thu,  6 Mar 2014 17:44:34 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvsBACulGFPU4xEKnGdsb2JhbABag0HBd4EYFg4BAQEBAQYNCQkUKII4PYIBh32fMI9noCcXiRmFHEOCGA9ngRQEkHSEUIk/BY8P
+X-IronPort-AV: E=Sophos;i="4.97,601,1389740400"; 
+   d="scan'208";a="63014851"
+Received: from moutng.kundenserver.de ([212.227.17.10])
+  by a-mx1.relay.syrhano.net with ESMTP; 06 Mar 2014 17:44:34 +0100
+Received: from [10.115.38.108] (vlan38.necker.inserm.fr [193.52.78.68])
+	by mrelayeu.kundenserver.de (node=mreue105) with ESMTP (Nemesis)
+	id 0LyDGX-1XI56S1kgP-015d8T; Thu, 06 Mar 2014 17:44:33 +0100
+From: Nicolas Garcelon <nicolas.garcelon@institutimagine.org>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <3022DD5E-ECA6-4FB3-8CE9-5B7AE1524818@institutimagine.org>
+Date: Thu, 6 Mar 2014 17:44:26 +0100
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Provags-ID: V02:K0:n9z76ZrD3bjRRYyHOKvl7dF+p2UIJ/f6OBfvVSrEPr6
+ m4HtQ2NrgbxMWdD/DAle2cjsp5noQ93MiucO8PZZl2MV+9HmQX
+ J/8AL5qKEe4CnD6/ZGArD78itqcDf3BrSvArNIMk/dzYu3A3Ti
+ QJhhJeLA7SsKx+ftsDGdTodL5g+/alkBD8VK6OhStQ+MWfS6NI
+ Wuvnc9gEF8WlA/hPrtgQ6Q60z7YAi8ju2B9dQbxfncHpWdzW57
+ Va9qgPQPKtopw0R6DEpvcs9rfPAT0DPJ577Jqouone5NACUgFC
+ hH0F/Z46jz/I9O1atxI4YqrmoxRwgGiBvta36akkFg6AuB9HD5
+ leMefDcxYKDo2+EPbbmTf5KJ6ssoiLZKihCisBuQfAgSnP08gm
+ GK2XirdL4VnGQt1MyuabtD5Jmixo4bUwlO6P83XTtKTMhA0jo3
+ RZSap
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Recrutement =?WINDOWS-1252?Q?d'un?= =?WINDOWS-1252?Q?développeur?= Web / PHP - Imagine - institut de =?WINDOWS-1252?Q?génétique?=- Paris
+Recrutement d'un développeur Web / PHP
+L'Institut hospitalo-universitaire (IHU) sur les maladies génétiques - 
+Imagine développe des programmes intégrés de recherche et de soins su
+r les maladies génétiques à l'hôpital Necker - Enfants Malades.
+MISSION ET FONCTIONS
+La plateforme base de données de l'institut Imagine est en charge du d
+éveloppement
+	=95 de bases de données pour les équipes de recherche : constitution d
+e cohortes de patient et analyse des données ;
+	=95 d'un entrepôt de données biomédicales: moteur de recherche et 
+fouille de données ;
+	=95 d'outils transversaux : courbes de croissances, pancartes, etc.
+La montée en charge de la plateforme nécessite le recrutement d'un in
+génieur informatique.
+Le candidat devra être polyvalent sur l'ensemble des développements r
+éalisés par la plateforme.
+Il sera sous la direction du responsable informatique de la plateforme base
+ de données.
+COMPETENCES
+	=95 Ma=EEtrise des langages de programmation (notamment le SQL) en bases d
+e données (Oracle, MySQL) et ma=EEtrise des outils spécialisés dans l
+'administration de ces bases,
+	=95 Ma=EEtrise des langages de programmation : PHP, Perl, Javascript, HTML
+, CSS
+	=95 Bonnes connaissances en système et réseau,
+	=95 Forte capacité d'adaptation aux évolutions technologiques,
+	=95 Expérience en développement d'applications utilisant des bases d
+e données,
+	=95 Connaissance des outils de développement utilisant les technologies 
+du web
+	=95 Aptitudes à l'animation et à la gestion de projets
+	=95 Qualités pédagogiques et capacité à travailler en équipe
+	=95 Capacités rédactionnelles et esprit de synthèse
+	=95 Compétence souhaitée en logiciels de traitement statistique de don
+nées
+	=95 Ma=EEtrise de l'anglais technique
+DIPLOME ET EXPERIENCE
+- Diplôme d'ingénieur ou universitaire informatique-développement/bas
+es de données
+- Expérience significative dans le domaine de qualification (2 ans minimu
+m).
+NATURE DU POSTE
+Début du contrat : dés que possible
+Localisation : Institut Imagine / Hôpital Necker Enfant Malade, Paris 15 
+.
+Salaire et statut à négocier selon le profil et l'expérience
+MODALITES DU RECRUTEMENT
+Le dossier de candidature, comprenant une lettre de motivation manuscrite e
+t un curriculum vitae détaillé, est à adresser, sous la référence
+ Imagine_34, à recrutement@institutimagine.org, avant 15 février 2014.
+CONTACTS
+M. Nicolas Garcelon responsable de la plateforme base de données de l'I
+HU Imagine, nicolas.garcelon@institutimagine.org
+Nicolas Garcelon
+Ingénieur Informatique Médicale
+imagine
+INSTITUT DES MALADIES GENETIQUES
+Tel : 01 71 19 60 12
+Poste Necker : 96 012
+www.institutimagine.org

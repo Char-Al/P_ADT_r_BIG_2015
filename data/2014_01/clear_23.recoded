@@ -1,0 +1,40 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 260A826801D; Wed,  8 Jan 2014 10:11:14 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: yoann.augagneur@univ-rennes1.fr
+Message-ID: <sympa.1389172154.24478.299@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Wed,  8 Jan 2014 10:11:14 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoctoral position in genomics/bio-informatics (NGS) at University of Rennes 1 (France)
+Postdoctoral position in genomics/bio-informatics (NGS) at University of Rennes 1 (France)
+An 18 months-funded position is immediately available for a highly motivated postdoctoral researcher to work in the group of Brice Felden, in the school of pharmacy of the University of Rennes 1 (France). Current research in the lab (INSERM U835) includes the study of bacterial regulatory RNAs and their function. The research unit focuses on the study of Staphylococcus aureus, an opportunistic pathogen responsible for nosocomial infections. 
+Responsibilities:
+The fellow will analyze NGS DNA-seq and RNA-seq data in order to study the transcriptome (with primary interested on RNA regulators) of clinical strains isolated from sepsis and septic shock and to identify the molecular primary targets of Staphylococcal regulatory RNAs (sRNAs) by pulse expression of a sRNA in knock-out strains already available in the lab. The candidate will perform de novo DNA sequencing to map RNA reads onto the genome of each clinical isolates. RNAseq data will be analyzed by differential analysis of data obtained in control conditions versus conditions miming a Staphylococcal infection.
+The candidate will work closely with Dr. Yoann AUGAGNEUR, an Assistant Professor in the department. He will be strongly encouraged to use Galaxy platform or to implement programs onto Galaxy platform for enhanced interaction with other members of the lab which are not familiar with the analysis of NGS data. He will benefit from the proximity of the genomic facility located on the same block. The contract can be extended based on funding available and performance
+Required qualifications:
+-	A Ph.D in bioinformatics, genomics, computer science, RNA skills or other relevant fields.
+-	Must be familiar with existing NGS toolbox (DESEQ etc
+)
+-	Research experience in the field (first-author publications)
+-	Experience in DNA-seq and RNA-seq data
+-	Ability to work independently
+Eligibility criterion:
+The candidate must be foreigner or must have spent at least 12 months outside the country during the last three years. 
+Application to the position:
+Please send the following to both Yoann AUGAGNEUR and Brice felden:
+-	Curriculum vitae, including the names of three references.
+-	A brief statement describing research achievements, motivation and future research goals
+Contact:
+Dr. Yoann AUGAGNEUR : yoann.augagneur@univ-rennes1.fr
+Pr. Brice Felden : brice.felden@univ-rennes1.fr
+Lab website: http://www.biochpharma.univ-rennes1.fr/
+Pubmed: 	-  Felden B
+             -  Augagneur Y

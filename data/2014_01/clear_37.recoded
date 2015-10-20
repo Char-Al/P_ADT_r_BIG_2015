@@ -1,0 +1,81 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Eric.Letouze@ligue-cancer.net>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id E8C3626801D
+	for <bioinfo@sfbi.fr>; Mon, 13 Jan 2014 12:27:50 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuYBADzN01JcZ1+jnGdsb2JhbABagmpZVroLgQMOAQEBAQEIFAk8giwMfwEVaycEE4gFA5psqX0XjhoJAhACAYMFD4F5BIkLpE6BaEI
+X-IronPort-AV: E=Sophos;i="4.95,652,1384297200"; 
+   d="scan'208";a="52246765"
+Received: from smtp.ligue-cancer.net (HELO ligue-cancer.net) ([92.103.95.163])
+  by b-mx1.relay.syrhano.net with ESMTP; 13 Jan 2014 12:27:50 +0100
+Received: from Internal Mail-Server by pineapp (envelope-from
+	Eric.Letouze@ligue-cancer.net) with SMTP; 13 Jan 2014 12:21:36 +0100
+Received: from SV0045.ligue-cancer.net ([fe80::3cd4:7bf9:b1f8:7c9f]) by
+	SV0046.ligue-cancer.net ([::1]) with mapi id 14.03.0174.001; Mon, 13 Jan
+	2014 12:21:35 +0100
+From: Eric_Letouzé <Eric.Letouze@ligue-cancer.net>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: RAPPEL_:_séminaire_CIT_sur_la_génomique_du_cancer_de_l
+	a_vessie_jeudi_16_janvier
+Thread-Index: AQHPEFGetx4l4AjYakmVhWHxU1dg8A=
+Date: Mon, 13 Jan 2014 11:21:34 +0000
+Message-ID: <CEF98AA2.10C54%eric.letouze@ligue-cancer.net>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [172.16.2.167]
+Content-Type: text/plain; charset="iso-8859-1"
+Content-ID: <821025ED8BC40D4CB24BD6F0A1848317@ligue-cancer.net>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] RAPPEL : séminaire CIT sur la génomique du cancer de la vessie jeudi 16 janvier
+Bonjour,
+Le programme Cartes d'Identité des Tumeurs (http://cit.ligue-cancer.net
+<http://cit.ligue-cancer.net/>), piloté par la Ligue contre le cancer,
+organise une série de séminaires de génomique visant à favoriser les
+échanges entre cliniciens, chercheurs, et bioinformaticiens.
+Le quatrième séminaire aura lieu jeudi 16 janvier, à 11h30 au siège
+ de la
+Ligue (14 rue Corvisart, Paris 13).
+Il portera sur le cancer de la vessie et durera environ 1h30, avec 2
+présentations :
+- Avancées récentes en génomique du cancer de la vessie. Apports poss
+ibles
+en clinique.
+par Fran=E7ois Radvanyi, directeur de l'équipe Oncologie Moléculaire 
+à
+l'Institut Curie
+- La voie EGFR : une nouvelle cible thérapeutique potentielle dans le
+traitement d'un sous-groupe agressif de cancer de vessie présentant un
+phénotype basal.
+par Sandra Rebouissou, CR2 INSERM anciennement post-doctorante dans
+l'équipe Oncologie Moléculaire
+Références :
+- Vallot et al.. A novel epigenetic phenotype associated with the most
+aggressive pathway of bladder tumor progression. J Natl Cancer Inst 2011.
+- Rebouissou, Hérault, Letouzé et al. CDKN2A homozygous deletion is
+associated with muscle invasion in FGFR3-mutated urothelial bladder
+carcinoma. J Pathol 2012.
+- Rebouissou et al. EGFR as a therapeutic target for a subset of
+muscle-invasive bladder cancers presenting a basal-like phenotype. Science
+Translational Medicine, in revision.
+Nous espérons vous y voir nombreux !
+--
+Eric LetouzéChef de projet bioanalyse
+Programme Carte d'Identité des Tumeurs (CIT3)
+Ligue Nationale Contre le Cancer
+01.53.55.25.16.
+Pour vous inscrire ou vous désinscrire de la liste de diffusion, envoyer
+un email à : LetouzeE@ligue-cancer.net
+***************************************************************************
+*********
+This footnote confirms that this email message has been scanned by
+PineApp Mail-SeCure for the presence of malicious code, vandals & computer 
+viruses.
+***************************************************************************
+*********

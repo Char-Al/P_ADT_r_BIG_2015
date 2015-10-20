@@ -1,0 +1,55 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id CE79126801D
+	for <bioinfo@sfbi.fr>; Mon,  3 Nov 2014 15:28:46 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApIBABqQV1SKZqI0nGdsb2JhbABcg2JYAYMFywiJAQEBAQEBEQEBAQEBCAsJCRQuhCwQBREzDiQCHwcCEiwQJIhBDaNlj0KBdIwqhjuBLY8BEQFtgmGBVAWBMLRoAQoBAQFfgUVrgQ+BPAEBAQ
+X-IPAS-Result: ApIBABqQV1SKZqI0nGdsb2JhbABcg2JYAYMFywiJAQEBAQEBEQEBAQEBCAsJCRQuhCwQBREzDiQCHwcCEiwQJIhBDaNlj0KBdIwqhjuBLY8BEQFtgmGBVAWBMLRoAQoBAQFfgUVrgQ+BPAEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,308,1413237600"; 
+   d="scan'208";a="76055840"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 03 Nov 2014 15:28:46 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sA3ESjeZ007736
+	for <bioinfo@sfbi.fr>; Mon, 3 Nov 2014 15:28:45 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id B0914296BCB
+	for <bioinfo@sfbi.fr>; Mon,  3 Nov 2014 15:28:45 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XlIel-0009py-9k
+	for bioinfo@sfbi.fr; Mon, 03 Nov 2014 15:30:55 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XlIel-0009py-9k@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Mon, 03 Nov 2014 15:30:55 +0100
+X-Miltered: at beta with ID 5457911D.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5457911D.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5457911D.000 on beta.jouy.inra.fr : j-chkmail score : X : R=. U=. O=# B=0.169 -> S=0.238
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Evaluation/=?UTF-8?Q?caract=C3=A9risa?=  tion des variations d'expression des miRNAs et   du virome dans le contexte de transmission du V  IH par l'allaitement
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Evaluation/caractérisation des variations d'expression  
+des miRNAs et du virome dans le contexte de transmission du VIH par  
+l'allaitement
+Type de poste : Post-doc / IR
+Durée du poste : 2 ans
+Ville : Montpellier
+Nom du contact : Jean-Pierre Molès
+Email du contact : jean-pierre.moles@inserm.fr
+Laboratoire : Inserm U1058
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/evaluationcaract%C3%A9risation-des-variations-dexpression-des-mirnas-et-du-virome-dans-le-context

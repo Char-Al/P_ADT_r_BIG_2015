@@ -1,0 +1,60 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www-data@sfbi.mti.univ-paris-diderot.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 622E426801D
+	for <bioinfo@sfbi.fr>; Fri, 21 Feb 2014 14:00:54 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhcCAGFNB1PC/j2KnGdsb2JhbABZgmVcg1q9a1wWDgEBAQEBCAsJCRQogk8QBREgARIOExECBSECET0kiAYDCZszjxahGReBKYxZEQFtglmBSQSfD407gT+BcA
+X-IronPort-AV: E=Sophos;i="4.97,518,1389740400"; 
+   d="scan'208";a="62365955"
+Received: from korolev.univ-paris7.fr ([194.254.61.138])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Feb 2014 14:00:53 +0100
+Received: from potemkin.univ-paris7.fr (potemkin.univ-paris7.fr [IPv6:2001:660:3301:8000::1:1])
+	by korolev.univ-paris7.fr (8.14.4/8.14.4/relay1/46573) with ESMTP id s1LD0r7w010228
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 21 Feb 2014 14:00:53 +0100
+Received: from duc.rpbs.univ-paris-diderot.fr (duc.mti.univ-paris-diderot.fr [81.194.29.54])
+	by potemkin.univ-paris7.fr (8.14.4/8.14.4/relay2/46573) with ESMTP id s1LD0rM0023447
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 21 Feb 2014 14:00:53 +0100
+Received: from sfbi.mti.univ-paris-diderot.fr (sfbi.mti.univ-paris-diderot.fr [81.194.29.2])
+          by duc.rpbs.univ-paris-diderot.fr (8.13.7/jtpda-5.4) with SMTP id s1LD0pdm006723
+          for <bioinfo@sfbi.fr>; Fri, 21 Feb 2014 14:00:51 +0100
+Message-Id: <201402211300.s1LD0pdm006723@duc.rpbs.univ-paris-diderot.fr>
+Received: by sfbi.mti.univ-paris-diderot.fr (sSMTP sendmail emulation); Fri, 21 Feb 2014 13:57:41 +0100
+From: "www-data" <www-data@sfbi.mti.univ-paris-diderot.fr>
+Date: Fri, 21 Feb 2014 13:57:41 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 0:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (korolev.univ-paris7.fr [IPv6:2001:660:3301:8000::1:2]); Fri, 21 Feb 2014 14:00:53 +0100 (CET)
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (potemkin.univ-paris7.fr [194.254.61.141]); Fri, 21 Feb 2014 14:00:53 +0100 (CET)
+X-Miltered: at korolev with ID 53074E05.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-Miltered: at potemkin with ID 53074E05.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53074E05.000 from potemkin.univ-paris7.fr/potemkin.univ-paris7.fr/null/potemkin.univ-paris7.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Enveloppe: 53074E05.000 from duc.mti.univ-paris-diderot.fr/duc.mti.univ-paris-diderot.fr/null/duc.rpbs.univ-paris-diderot.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Score: MSGID : 53074E05.000 on korolev.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Score: MSGID : 53074E05.000 on potemkin.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-j-chkmail-Status: Ham
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][CDD autre] Datamanager/Gestionnaire de   =?UTF-8?Q?donn=C3=A9es?= =?UTF-8?Q?biom=C3=A9dicales?= =?UTF-8?Q?d=C3=A9butant?= ou =?UTF-8?Q?confirm=C3=A9?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Datamanager/Gestionnaire de données biomédicales  
+débutant ou confirmé
+Type de poste : CDD autre
+Durée du poste : 12 mois
+Ville : PARIS
+Nom du contact : Dr Juliette Djadi-Prat
+Email du contact : urc.emploi@egp.aphp.fr
+Laboratoire : Unité de Recherche Clinique, Hopital européen Georges  
+Pompidou
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/datamanagergestionnaire-de-donn%C3%A9es-biom%C3%A9dicales-d%C3%A9butant-ou-confirm%C3%A9-0

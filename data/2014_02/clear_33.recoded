@@ -1,0 +1,41 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <guillemette.marot@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id BB68626801D
+	for <bioinfo@sfbi.fr>; Mon, 10 Feb 2014 17:07:03 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkgGAMn3+FLAhqRof2dsb2JhbABZFoMuV4MBvDkCAoERFg4BAQsLCggUKIIsI4ELAg0ZAlmIHgQJmXOPFaBcF4EpjSA7FoJZgUkEgT2RUoUcgTKUHYIp
+X-IronPort-AV: E=Sophos;i="4.95,818,1384297200"; 
+   d="scan'208";a="61728259"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Feb 2014 17:07:02 +0100
+X-IronPort-AV: E=Sophos;i="4.95,818,1384297200"; 
+   d="scan'208";a="48503298"
+Received: from zmbs6.inria.fr ([128.93.142.19])
+  by mail3-relais-sop.national.inria.fr with ESMTP; 10 Feb 2014 17:07:02 +0100
+Date: Mon, 10 Feb 2014 17:07:02 +0100 (CET)
+From: Guillemette Marot <guillemette.marot@inria.fr>
+To: bioinfo@sfbi.fr
+Message-ID: <1506019817.3404469.1392048422427.JavaMail.root@inria.fr>
+In-Reply-To: <68704B25-4B46-4859-9E34-E55EFFE7B25E@polytech-lille.fr>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [194.254.118.33]
+X-Mailer: Zimbra 7.2.6_GA_2926 (ZimbraWebClient - FF3.0 (Linux)/7.2.6_GA_2926)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Kernel methods for big data - 31/03 - 02/04, Lille
+Chers collègues,
+Nous avons le plaisir de vous informer que nous organisons un workshop =C3
+  Lille du 31 mars au 2 avril intitulé :
+*Kernel methods for big data*
+Le programme sera composé de 2 mini cours (Arthur Gretton et Jean-Phil
+ippe Vert) ainsi que d'exposés invités.
+L'inscription est gratuite mais obligatoire.
+Vous trouverez le formulaire d'inscription ainsi que le programme s
+ur le site du workshop
+http://math.univ-lille1.fr/~jacques/KernelMethod-Lille-2014.html
+Meilleures Salutations,
+Alain Celisse, Julien Jacques et Guillemette Marot

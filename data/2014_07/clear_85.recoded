@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=28019c4d8=virginie.bernard@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id E692226801D
+	for <bioinfo@sfbi.fr>; Tue, 29 Jul 2014 18:02:25 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtQCAHPE11PBMc0knGdsb2JhbABZg2BXAQOCdMh6iFgWEAEBAQEBCAsJCRQphC0PAQ0BAQcvAjQCBRYLAgsDAgECATsQDQYCAohCCaZid4UCAQWSNAaBLI0+EQFtgmOBUQGbUIcejzOBSDsvgQw5
+X-IronPort-AV: E=Sophos;i="5.01,757,1400018400"; 
+   d="scan'208";a="62375026"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by b-mx1.relay.syrhano.net with ESMTP; 29 Jul 2014 18:02:25 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1406649745; x=1438185745;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=IWAVUV28OY0VWySvl44InU38Tf4HAHjz40hAZ8kB4eY=;
+  b=b+LpFnnITCAHo3E0w0X/QPDArRsQ1DBaNkFdxaDj7YtrLsYmWDJ9TcE0
+   EQuFeyibP5axjgrWV7CQftjYSBHV0w==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApMIAJnE11MKAgBG/2dsb2JhbABZg2BXAQOCdMh6iG53hC0PARYvNgIFFgsCCwMCAQIBOxANBgICiEunWpdCgSyNPhEBbYJjgVEBBJtMhx6PM4FIaoEMOQ
+X-IPAS-Result: ApMIAJnE11MKAgBG/2dsb2JhbABZg2BXAQOCdMh6iG53hC0PARYvNgIFFgsCCwMCAQIBOxANBgICiEunWpdCgSyNPhEBbYJjgVEBBJtMhx6PM4FIaoEMOQ
+X-IronPort-AV: E=Sophos;i="5.01,757,1400018400"; 
+   d="scan'208";a="28881534"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip01-in.curie.fr with ESMTP; 29 Jul 2014 18:02:24 +0200
+Received: from [10.200.10.123] (10.200.10.123) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.3.174.1; Tue, 29 Jul 2014 18:02:24
+ +0200
+Message-ID: <53D7C58F.7090909@curie.fr>
+Date: Tue, 29 Jul 2014 18:02:23 +0200
+From: Virginie Bernard <vbernard@curie.fr>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.24) Gecko/20111120 Icedove/3.1.16
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.123]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Fwd: [Emploi][Post-doc / IR] Bio-based production of phenolic compounds
+ found in berry fruits
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bio-based production of phenolic compounds found in
+berry fruits
+Type de poste : Post-doc / IR
+Durée du poste : 1 - 3 an
+Ville : Lyon
+Nom du contact : Marie-France Sagot
+Email du contact : marie-france.sagot@inria.fr
+Laboratoire : INRIA (Bamboo team)
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/bio-based-production-phenolic-compounds-found-berry-fruits

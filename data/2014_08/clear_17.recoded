@@ -1,0 +1,73 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gascuel@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id A678226801D
+	for <bioinfo@sfbi.fr>; Fri, 22 Aug 2014 08:48:37 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmACADTn9lPBMWgenGdsb2JhbABZg2BYzGGIWhYQAQEBAQEIFAk9PoN+AQU1Cz0WGAMCAQIBWAgBAYhCCZ9EpFaPaYQ2BYUEAoELjz2GeYFXhVaRPYM5AQEB
+X-IronPort-AV: E=Sophos;i="5.04,378,1406584800"; 
+   d="scan'208";a="63179144"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by b-mx1.relay.syrhano.net with ESMTP; 22 Aug 2014 08:48:37 +0200
+Received: from [192.168.0.15] (ip-72.net-80-236-38.suresnes.rev.numericable.fr [80.236.38.72])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 6C4DFA4F4E
+	for <bioinfo@sfbi.fr>; Fri, 22 Aug 2014 08:48:36 +0200 (CEST)
+Message-ID: <53F6E7C6.2010606@lirmm.fr>
+Date: Fri, 22 Aug 2014 08:48:38 +0200
+From: Olivier Gascuel <gascuel@lirmm.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECML-PKDD'14 Tutorial: "The Pervasiveness of Machine Learning in
+ Omics Science"
+De la part de Ronnie Alves:
+Je me permets de vous transmettre cette appel à participation pour notre 
+tutoriel de ECML-PKDD'14 à Nancy consacré aux méthodes d'analyse pour 
+les jeux de données OMICS.
+Au plaisir d'y accueillir vos participations !
+Ronnie, Claude & Nicolas
+----------------------------------------------------------------
+ECML-PKDD Tutorial
+Nancy, 15th September 2014
+The Pervasiveness of Machine Learning in Omics Science
+http://ecmlpkdd2014.loria.fr/program/tutorial-list/
+https://sites.google.com/site/alvesrco/tutorial_ecml_pkdd2014
+---------------- Description -------------------------------
+Biology has become an enormously data-rich subject. Data is generated in 
+many flavors and follows particularities of the omics perspective 
+adopted along experimental studies. For instance, genomics is the field 
+of study dealing with genomes and it is mostly associated with the 
+static view (the genes and where they are placed along the genome). The 
+dynamic view is brought from the transcriptomics perspective, so the 
+gene expression and its regulation. Finally, interactomics is usually 
+associated to gene products, proteins, and their interactions. However 
+it could also be seen as a huge graph network with layers of interaction 
+integrating distinct omics perspectives. Omics science applications of 
+unsupervised and/or supervised machine learning (ML) techniques abound 
+in the literature. In this tutorial, we discuss machine learning on 
+omics data, putting the emphasis on (i) mapping and (ii) learning omics 
+patterns. We consider three main omics data: genomics, transcriptomics 
+and interactomics. For each perspective, we first provide, the 
+biological problem, the data mapping (from a biological problem to a 
+machine learning problem), the core ML methods employed and its 
+implementation in the R language.
+Draft outline:
+:-: Introduction and overview of the omics science
+:-: Machine learning in genomics data  -  foundations, methods and 
+applications
+:-: Machine learning in transcriptomics data  -  foundations, methods and 
+applications
+:-: Machine learning in interactomics data  -  foundations, methods and 
+applications
+:-: Outlook  -  summary and future challenges
+Target audience:
+The target groups are: graduate students with intermediate knowledge in 
+machine learning/data mining; no previous knowledge in omics science is 
+required; research scholars who work on machine learning to support 
+bio-medicine and health care; practitioners that own applications on 
+omics data.

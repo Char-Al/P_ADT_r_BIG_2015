@@ -1,0 +1,116 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <emilie.noguez@biosyl.org>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 3512926801D
+	for <bioinfo@sfbi.fr>; Mon,  8 Sep 2014 10:38:53 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlQBALhqDVTZRrfDnGdsb2JhbABYg2BXBIIwSMZ+iFwWEAEBAQEBCAsJCRQqhAUEDRcVHSkPBRwCJgIhUQgBEYggDAmJTY0RjzSVJ4Esjj6CY4FTBZFDhC2HAoFflzBqAYFHgQcBAQE
+X-IPAS-Result: AlQBALhqDVTZRrfDnGdsb2JhbABYg2BXBIIwSMZ+iFwWEAEBAQEBCAsJCRQqhAUEDRcVHSkPBRwCJgIhUQgBEYggDAmJTY0RjzSVJ4Esjj6CY4FTBZFDhC2HAoFflzBqAYFHgQcBAQE
+X-IronPort-AV: E=Sophos;i="5.04,485,1406584800"; 
+   d="scan'208";a="72466416"
+Received: from relay3-d.mail.gandi.net ([217.70.183.195])
+  by a-mx1.relay.syrhano.net with ESMTP; 08 Sep 2014 10:38:52 +0200
+Received: from mfilter18-d.gandi.net (mfilter18-d.gandi.net [217.70.178.146])
+	by relay3-d.mail.gandi.net (Postfix) with ESMTP id 6387CA8102
+	for <bioinfo@sfbi.fr>; Mon,  8 Sep 2014 10:38:52 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mfilter18-d.gandi.net
+Received: from relay3-d.mail.gandi.net ([217.70.183.195])
+	by mfilter18-d.gandi.net (mfilter18-d.gandi.net [10.0.15.180]) (amavisd-new, port 10024)
+	with ESMTP id WhxE9hUTEcGG for <bioinfo@sfbi.fr>;
+	Mon,  8 Sep 2014 10:38:50 +0200 (CEST)
+X-Originating-IP: 10.58.1.142
+Received: from webmail.gandi.net (unknown [10.58.1.142])
+	(Authenticated sender: emilie.noguez@biosyl.org)
+	by relay3-d.mail.gandi.net (Postfix) with ESMTPA id C235EA80AF
+	for <bioinfo@sfbi.fr>; Mon,  8 Sep 2014 10:38:50 +0200 (CEST)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Date: Mon, 08 Sep 2014 10:38:50 +0200
+From: Emilie NOGUEZ <emilie.noguez@biosyl.org>
+To: bioinfo@sfbi.fr
+Return-Receipt-To: Emilie NOGUEZ <emilie.noguez@biosyl.org>
+Disposition-Notification-To: Emilie NOGUEZ <emilie.noguez@biosyl.org>
+Message-ID: <3b5cdcde979cbd09f8a4156c63bc8923@biosyl.org>
+X-Sender: emilie.noguez@biosyl.org
+User-Agent: Roundcube Webmail/0.9.5
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] SAVE THE DATE : atelier BioSyL "Multiéchelles", vendredi 26/09 à l'ENS Lyon
+Bonjour,
+BioSyL a le plaisir de vous convier à son prochain atelier, le 26
+septembre de 14h à 17h30, à l'ENS Lyon, salle des Thèses, si
+te Jacques
+Monod.
+Cet atelier sera consacré à la MODELISATION MULTI-ECHELLES EN BIO
+LOGIE.
+La biologie connait actuellement une expansion de l'utilisation de 
+la
+modélisation. Pour modéliser des systèmes complexes, deux ty
+pes
+d'approches émergent : la modélisation mono-échelle 
+de tous les éléments
+d'un système et la modélisation "multi-échelles", o
+ù l'on introduit
+explicitement plusieurs échelles caractéristiques du système.
+Qu'est ce que la modélisation multi-échelles ? Quelle pou
+rrait-être son
+utilité en biologie ?
+Cet atelier, destiné à tout chercheur en biologie, a vocation =C3
+ 
+présenter et discuter les problématiques de la modélisation
+multi-échelles : formalisation d'hypothèses à une 
+échelle, motivation
+d'une modélisation multi-échelles, articulation entre deux é
+chelles à
+travers l'exemple d'un modèle, adaptation des modèles =C3
+  la question
+biologique, retour vers l'expérimentation ...
+Après une introduction à la modélisation des systèmes b
+iologiques,
+l'atelier abordera deux types d'exemples de modélisati
+on multi-échelles
+: dynamique des populations dans le cadre de l'hématopoï
+èse, et
+dynamique de la chromatine.
+> Programme :
+14h00 : Tour de table
+Brève présentation des participants et des intervenants, des atte
+ntes et
+des apports possibles
+14h30 : Introduction à la modélisation des systèmes biologiq
+ues
+Arezki BOUDAOUD, Reproduction et Développement des Plantes, Laboratoir
+e
+Joliot-Curie, ENS de Lyon
+15h00 : Introduction à la modélisation multi-échelle illustr
+ée par
+l'hématopoïèse
+Fabien CRAUSTE, Institut Camille Jordan, UCB Lyon I, Equipe-projet INRIA
+Dracula
+15h45 : Pause café
+16h15 : De l'ADN à la structure des chromosomes
+Ralf EVERAERS, Centre Blaise Pascal, Laboratoire de Physique, ENS de
+Lyon
+17h00 :  Discussion générale
+Modérateur :
+Benjamin AUDIT, Laboratoire de Physique, ENS de Lyon
+Plus d'informations sur le BioSyl.org:
+http://www.biosyl.org/news/atelier-multiechelles-en-biologie-ens-lyon
+Plan d'accès :
+http://www.ens-lyon.eu/informations-pratiques/acces-a-l-ens-de-lyon--81546.
+kjsp?RH=3DENS-LYON-FR-PRATIQUE
+Vous pouvez dès à présent vous inscrire sur le Doodle suivan
+t :
+> http://doodle.com/zhsyeeyvw9tbsa2w
+Avec nos meilleures salutations
+Emilie NOGUEZ, BioSyL
+Chargée de développement
+Bat Gregor Mendel (ex 741)
+16, rue Rapha=C3"l Dubois
+69622 Villeurbanne Cedex
+04-72-44-81-90 / 06.17.26.71.18
+emilie.noguez@biosyl.org
+http://www.biosyl.org

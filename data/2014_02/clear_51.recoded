@@ -1,0 +1,115 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <jv_besse@yahoo.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 1210E26801D
+	for <bioinfo@sfbi.fr>; Wed, 19 Feb 2014 09:51:18 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjoCAJFvBFNiilu4lWdsb2JhbABZgz5XCIFEbEq+DBYOAQEBAQcNCQkSKoIgGBcIFQEBAQEUHAYBFxwCJgIhEAEODhETh3ABAQIRBAmPRJsJdlMJgwUBBQKVJgEjAwEjA4gYAQYNgRyMWREBgwYPMYFJiUyFHIlThkA2VYh9cIQzgUkHFwY
+X-IronPort-AV: E=Sophos;i="4.97,504,1389740400"; 
+   d="scan'208";a="54209141"
+Received: from nm24-vm4.bullet.mail.ne1.yahoo.com ([98.138.91.184])
+  by b-mx1.relay.syrhano.net with ESMTP; 19 Feb 2014 09:51:17 +0100
+Received: from [98.138.226.180] by nm24.bullet.mail.ne1.yahoo.com with NNFMP; 19 Feb 2014 08:51:15 -0000
+Received: from [98.138.101.170] by tm15.bullet.mail.ne1.yahoo.com with NNFMP; 19 Feb 2014 08:51:15 -0000
+Received: from [127.0.0.1] by omp1081.mail.ne1.yahoo.com with NNFMP; 19 Feb 2014 08:51:15 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 318137.3762.bm@omp1081.mail.ne1.yahoo.com
+Received: (qmail 14684 invoked by uid 60001); 19 Feb 2014 08:51:15 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.fr; s=s1024; t=1392799875; bh=xJ5UNlK0ZVLOFrdDE2scUaRQ1QV36Lf8O9nAJj3/QtU=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding; b=SFH9Nql77sqJoXLfDc3HplfrKLH7lCD6r3WacwJN50AaDvmzlraKeTjFo7ep53ise1Wr44u0It6R5CoZDeJ3NK41V3KF086bb+o1SWMnjDkFhSo2Zv/aXz8eRk1mAG5Lyy+39i12JRxGtlHZxDP4dHFki1eN0MR+xBP30OPJpAM
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.fr;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=MmPtKoQ8L7aTrA/txnrkaOceIGo0a+Pb9267BujG9iqrPRKNiAOlVFbnHNeeKNwScmJ2mc4iwQHy+Wwa2csukTGJIlQWDCKDOfbgGdWOgDFEWmIdaPsEz2K95dbeGBLgsWws46lKZWFiVgBMGdXejkCX+VyhUAWsE5l2i0sK7fU=;
+X-YMail-OSG: HdceYZcVM1mNsqHcyMVij339AoDQU8JwzCxsxJPAxpBFsMK
+ hNzFFf.j3On3TvkoMcuX4P3mrkUR4y4hg5XEt6QxjD0TJtuN2WNxE2VNhtuF
+ BjIj52uk70OnzYwNCgMBHNf6hQMuCawg2HNcaYWnEz9DU2aZ9WuxOaOcgWZ_
+ H2J6FUubggYNAc83lkJ_d245qUlnbFFlcrvMdOCxkGtcO4BzSOjpRd18wnUt
+ UzQW9RhfEG_VtIJhFmH7fg.gZe2WsQSAm.eGdy.trIHAxfyhVAG2okfCkI79
+ ucMxX_U52oogJ.pYUmyiJO0oqyTuDuICnB_rvx6kaRE21Ofn7dJnVvmnv5GL
+ aLBuGItBW.aGpT.RFznpJsAmqWsfMTLDdwWeTaBustTa2w1jBq1W_z_pN3rI
+ EDaKyhOHgiklzk0e13qRnKIO6zVzARR.5iIcVaIeo7_.6PSf7N5lHo.5o5NG
+ hW17HprhBJZ3uvx0RKNTrhlhMMcwcq8IA9lVfCr69QOhU_Ylg_F.JQIzKIRl
+ 32pGaCRBlVQOIipXWCdcsYDm4AExyFsHnr3KJ0ob7KsmBIM4l2WsV9e.1aRG
+ S__b56a7V8FjxK96ozVnYAlMf
+Received: from [213.190.76.3] by web121304.mail.ne1.yahoo.com via HTTP; Wed, 19 Feb 2014 00:51:15 PST
+X-Rocket-MIMEInfo: 002.001,VHlwZSBkZSBwb3N0ZTogU3RhZ2UgNSBtb2lzCkRhdGUgZGUgZMOpYnV0OiBkw6hzIHF1ZSBwb3NzaWJsZQpWaWxsZTogVG91bG91c2UKTGFib3JhdG9pcmU6IExhYm9yYXRvaXJlcyBQaWVycmUgRmFicmUKQWRyZXNzZTogQ0VOVFJFIERFIFJFQ0hFUkNIRSBFVCBERVZFTE9QUEVNRU5UIFBJRVJSRSBGQUJSRSAzIEFWRU5VRSBIVUJFUlQgQ1VSSUVOwqAKVXJsOiBodHRwOi8vcmgucGllcnJlLWZhYnJlLmNvbS9vZmZyZS1zdGFnZS9iaW9pbmZvcm1hdGljaWVuLXJkLTAKCkRhdGUgZGUgdmFsaWRpdMOpOsKgCkwBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.177.636
+Message-ID: <1392799875.76894.YahooMailNeo@web121304.mail.ne1.yahoo.com>
+Date: Wed, 19 Feb 2014 00:51:15 -0800 (PST)
+From: =?utf-8?B?SsOpcsO0bWUgQkVTU0U=?= <jv_besse@yahoo.fr>
+Reply-To: =?utf-8?B?SsOpcsO0bWUgQkVTU0U=?= <jv_besse@yahoo.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Offre de Stage M2 Toulouse - Prédiction de toxicité
+Type de poste: Stage 5 mois
+Date de début: dès que possible
+Ville: Toulouse
+Laboratoire: Laboratoires Pierre Fabre
+Adresse: CENTRE DE RECHERCHE ET DEVELOPPEMENT PIERRE FABRE 3 AVENUE HUBERT 
+CURIEN=C2 
+Url: http://rh.pierre-fabre.com/offre-stage/bioinformaticien-rd-0
+Date de validité:=C2 
+Lu, 31/03/2014
+Présentation de l'entreprise :
+Groupe
+ pharmaceutique international Fran=C3=A7ais, les Laboratoires Pierre Fabre
+con=C3=A7oivent, produisent et distribuent des produits innovants dans les
+domaines du médicament, de la santé familiale et de la dermo-cosm
+étique.
+Sujet proposé :
+Dans
+ un contexte de Recherche Pharmaceutique (Toxicologie) appliqué au
+projet collaboratif Biointelligence, vous aurez pour mission principale
+la rédaction et l'exécution du plan de validation dâ=80
+=99un outil de
+prédiction de Toxicité.
+Mission
+ 1 : En collaboration avec les toxicologues, le stagiaire aura pour
+mission de définir et de réaliser la validation de l'outi
+l de prédiction
+ dont l'objectif est de permettre le tri des molécules candida
+tes en
+fonction de leur potentiel toxicologique.
+Mission
+ 2 : En fonction de l'avancement de la mission ci dessus, le stagia
+ire
+aura à rechercher, évaluer et mettre en place d'autres outils bio
+informatiques à destination des toxicologues.
+Profil recherché :
+  Diplôme préparé : Université Bac +5
+  Spécialité : Bio informatique
+Compétences
+ requises : Bonnes connaissances en bio informatique et en simulation
+numérique. Anglais scientifique. Des connaissances en Toxicologie et d
+es
+ compétences en méthodes de validation de modèles numér
+iques seraient un
+ plus.
+Caractéristiques
+ du stage :Le stagiaire sera encadré par un bio informaticien de
+l'équipe Informatique de Recherche. Il sera basé au Centr
+e de Recherche
+et de Développement Pierre Fabre situé sur le campus de lâ=80
+=99Oncopole à
+Toulouse. Des déplacements ponctuels seront à prévoir sur Ca
+stres
+(Tarn). Stage rémunéré d'une durée de 5 mois, d
+ébutant au 1er trimestre
+2014.
+Candidatures :
+Seules
+ les candidatures effectuées directement sur le site Pierre Fabre
+http://rh.pierre-fabre.com/offre-stage/bioinformaticien-rd-0 seront
+prises en compte.
+Référence du stage : 15108
+Cette
+ offre n'est pas destinée aux candidats recherchant un contrat en
+alternance, en apprentissage ou un stage non obligatoire dans leur
+cursus.
+Nom du contact:=C2 Jérôme Besse
+Email du contact:=C2 jerome.besse@pierre-fabre.com

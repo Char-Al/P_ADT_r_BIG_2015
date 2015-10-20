@@ -1,0 +1,85 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <raphael.terreux@ibcp.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 838ED26801D
+	for <bioinfo@sfbi.fr>; Thu,  4 Dec 2014 11:43:10 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ap4BAJo5gFTBM6AcnGdsb2JhbABag1hYxlCHNBYBAQEBAREBAQEBAQgUCUKECQgCAhw2AScFaD8BBBMLBYgyr32mSgSQFQEBbIQsBYoihW5egziGNJgRboEMgTkBAQE
+X-IPAS-Result: Ap4BAJo5gFTBM6AcnGdsb2JhbABag1hYxlCHNBYBAQEBAREBAQEBAQgUCUKECQgCAhw2AScFaD8BBBMLBYgyr32mSgSQFQEBbIQsBYoihW5egziGNJgRboEMgTkBAQE
+X-IronPort-AV: E=Sophos;i="5.07,514,1413237600"; 
+   d="scan'208";a="78195030"
+Received: from athena2.ibcp.fr ([193.51.160.28])
+  by a-mx1.relay.syrhano.net with ESMTP; 04 Dec 2014 11:43:10 +0100
+Received: from BISIterreux (ibcp2135.ibcp.fr [193.55.43.135])
+	by athena2.ibcp.fr (Postfix) with ESMTP id 78950214EC2
+	for <bioinfo@sfbi.fr>; Thu,  4 Dec 2014 11:43:04 +0100 (CET)
+From: "raphael terreux" <raphael.terreux@ibcp.fr>
+To: <bioinfo@sfbi.fr>
+Date: Thu, 4 Dec 2014 11:43:01 +0100
+Message-ID: <008501d00faf$13d4c8f0$3b7e5ad0$@ibcp.fr>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdAPrxONEoi7UW/dS/iSKZEFxsBqxA=
+Content-Language: fr
+X-IBCP-MailScanner-Information: Please contact the ISP for more information
+X-IBCP-MailScanner-ID: 78950214EC2.AAEA2
+X-IBCP-MailScanner: Found to be clean
+X-IBCP-MailScanner-From: raphael.terreux@ibcp.fr
+X-Spam-Status: No
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Poste IE Bio info/développeur Lyon Gerland
+Type de contrat : CDD de 18 mois
+Localisation : IBCP, 7 passage du Vercors, LYON
+Descriptif du poste :
+Prabi + (Pôle Rhône-Alpin de BioInformatique (PRABI site de Lyon Gerlan
+d)
+est la composante " protéine et structure " du PRABI qui est le c
+entre
+bioinformatique de Rhône-Alpes labélisé au niveau national (IBISA) et
+ membre
+du réseau RENABI (réseau national des plateformes de bioinformatique). 
+Le
+centre rassemble à ce jour près de 11 équipes sur 4 sites différent
+s. Le
+centre est impliqué dans le projet d'investissement d'avenir (PIA), I
+nstitut
+Fran=E7ais de Bioinformatique (IFB). La composante prabi+ développe depui
+s de
+nombreuses années des outils de bio-informatique en accès Web via sa
+plateforme de services (plus de 20 millions de requêtes depuis sa créat
+ion).
+Nos outils principaux sont :
+=95 NPSA : Outils génériques d'analyse de séquences
+(https://npsa-prabi.ibcp.fr)
+=95 Geno3D : Outil de modélisation automatique par homologie.
+(https://geno3d-prabi.ibcp.fr)
+=95 SuMO : Outil de comparaisons 3D par objet de site actif et de surface
+ de
+protéine. (https://sumo-prabi.ibcp.fr)
+Nous recherchons un Ingénieur(e) d'Etude en Bio-informatique en CDD CNRS
+pour une durée de 18 mois. Le candidat H/F aura un niveau Bac + 3 à Bac
+ + 5,
+sera motivé et autonome. Idéalement, la personne sera en mesure de comm
+encer
+en février 2015. L'ingénieur(e) sera chargé(e) d'y développer d
+es web
+services en bio-informatique structurale ainsi que des nouvelles
+applications en bio-informatique, notamment le logiciel SuMO, sous la
+supervision de l'équipe d'enseignants-chercheurs.
+De solides compétences en programmation (Python) et développement web (
+Html,
+PHP, Ajax, SQL Base de donnée, Apache) sont demandées.
+Des connaissances préalables en biochimie serait un plus.
+Pour candidater, merci d'envoyer un mail de candidature accompagné d'
+un CV à
+raphael.terreux@ibcp.fr
+Pr. Rapha=EBl Terreux
+Contact et équipe d'accueil : BMSSI, UMR 5086, =93Plateforme Prabi+ 
+ ,
+raphael.terreux@ibcp.fr,       +33 (0)4 65 37 29 43
+Rémunération : Salaire suivant grille CNRS IE.

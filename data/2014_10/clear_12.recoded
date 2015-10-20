@@ -1,0 +1,22 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 7E5C026801D; Mon,  6 Oct 2014 16:50:53 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: benoit.durand@anses.fr
+Message-ID: <sympa.1412606515.17625.675@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Mon,  6 Oct 2014 16:50:53 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Stage M2 (6 mois) Anses-LSAn
+Proposition de stage de M2 (6 mois) dans le laboratoire de santé animale de l'ANSES (agence nationale de sécurité sanitaire, de l'alimentation, de l'environnement et du travail). Début de stage souhaité avant juin 2015.
+Mots-clé. Statistique, Analyse de réseaux sociaux, Analyse de jeux de données volumineux, Modélisation, Simulation
+Problématique. Plusieurs études ont analysé le réseau commercial d'échange de bovins en France (les mouvements individuels d'animaux entre opérateurs d'élevage) entre 2005 et 2009, en utilisant les méthodes d'analyse de réseaux sociaux. Ces études ont permis de décrire de façon rétrospective la structure et le fonctionnement du réseau commercial d'échange de bovins, et ce dernier a été par la suite intégré dans des modèles, eux aussi rétrospectifs, de propagation de maladies infectieuses entre élevages de bovins. Au-delà de ces travaux rétrospectifs, il est cependant nécessaire de mettre en oeuvre des études prospectives, par exemple pour analyser quand et comment une maladie pourra être éliminée d'un territoire. L'étude rétrospective du réseau commercial d'échanges de bovins a montré une grande plasticité de ce réseau : les liens vendeur-acheteur établis au cours d'une année donnée n'existent le plus souvent pas l'année suivante. On ne peut donc pas considérer que le réseau d'échanges observé au cours d'une année donnée sera à nouveau observé l'année suivante. 
+Objectif. Proposer un mécanisme de génération aléatoire d'un réseau de ventes de bovins, à des fins de modélisation prospective de la transmission de maladies infectieuses entre élevages de bovins. Le mécanisme proposé prendra en compte des facteurs tels que les caractéristiques des élevages (taille, type) et des animaux échangés (race, âge), ainsi que de la localisation spatiale des acheteurs et vendeurs. 
+Contact: benoit.durand@anses.fr
+Gratification mensuelle: 436,05 euros 

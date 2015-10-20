@@ -1,0 +1,68 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id AD4FE26801D; Fri, 17 Oct 2014 18:00:35 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: mohamed.elati@issb.genopole.fr
+Message-ID: <sympa.1413561536.17862.544@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri, 17 Oct 2014 18:00:35 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Atelier FGG-EGC2015 : 1er appel =?ISO-8859-1?Q?=E0?= communication
+
+Fouille de Grands Graphes : Application à la bio-informatique (FGG-EGC)
+https://sites.google.com/site/fggegc15/
+Luxembourg, 27 janvier 2015, dans le cadre de la conférence EGC'15 
+
+Après le  succès des  premières  éditions  de cet atelier qui s'étaient  déroulées  dans le cadre  d'EGC 2013 et 2014, avec des thématiques ouvertes 
+sur la fouille de grands graphes. Cette  année,  nous  souhaitons  que  l'atelier  soit  plus  centré  sur  les applications 
+en "bio-informatique » et l'etude des réseaux biologiques. 
+Dates importantes :
+Date limite de soumission :   28 novembre 2014 
+Notification aux auteurs :     15 décembre 2014
+Version finale :        5 janvier 2015
+Objectifs et thématiques :
+L'édition  2015  de  l'atelier  fouille  de  grands  graphes  a   pour  but  de  réunir  les  chercheurs  intéressés  par  l'analyse,  la  fouille  et  la  visualisation  
+de  grands  graphes  et  leurs  application dans les problématiques en bio-informatique et biologie des systèmes. 
+Notre ambition est de permettre aux participants d'aborder  les problèmes rencontrés  liés  aux données biologiques et de présenter leurs approches de traitement.
+De façon non limitative, nous sollicitons des communications sur les thématiques suivantes (liste non exhaustive) :
+Analyse et dynamique des grands graphes
+Recherche de communautés
+Clustering de graphes
+Graphes de voisinages
+Analyse des réseaux bipartis
+Recherche des motifs fréquents dans les graphes
+Evolution des graphes et des communautés
+Prédiction des liens
+Comparaison des graphes 
+Propagation de l'influence, flux d'informations
+Modèles graphiques probabilistes
+Analyse conjointe des liens et des attributs
+Applications :
+Biologie des systèmes et réseaux biologiques
+Expression des gènes, les relations de régulation
+Protéomique et interactions
+Voies métaboliques
+Ontologies, génomique fonctionnelle
+Intégration, visualisation et analyse de données « Omique »
+Soumission :
+Les  articles  soumis  ne  doivent  pas  dépasser  6  pages  en  suivant  
+le  format  d'EGC  (voir  http://egc2015.lippmann.lu/fr/conference/soumission/).
+Les soumissions sont à faire via le site easychair (https://easychair.org/conferences/?conf=fggegc2015).
+Organisateurs :
+Lydia Boudjeloud-Assala (LITA - Université de Lorraine)
+Blaise Hanczar (LIPADE -  Université Paris Descartes)
+Mohamed Elati (iSSB - Université Evry Val d'Essonne)
+---------------------------------------------------------------------
+Mohamed Elati
+Maître de Conférences, UEVE
+Institut de Biologie Synthétique et Systémique
+Genopole Campus 1 - Genavenir 6
+5 rue Henri Desbruères - F-91030 ÉVRY cedex
+Tel :  01 69 47 44 43
+http://www.issb.genopole.fr/~elati/

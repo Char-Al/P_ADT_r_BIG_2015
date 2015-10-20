@@ -1,0 +1,70 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <christophe.caron@sb-roscoff.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id A43F026801D
+	for <bioinfo@sfbi.fr>; Sun, 12 Oct 2014 21:31:47 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AosBAAzWOlTBNCfLh2dsb2JhbABbg2FYyn+IWhYBEQEBAQoLCQcWLoQ7AQVAPRYYAwIBAgFYBgIBAYg+nnKkO5BihDUFhkGMP4M7iHqFfIRuiwSCMmqCSgEBAQ
+X-IPAS-Result: AosBAAzWOlTBNCfLh2dsb2JhbABbg2FYyn+IWhYBEQEBAQoLCQcWLoQ7AQVAPRYYAwIBAgFYBgIBAYg+nnKkO5BihDUFhkGMP4M7iHqFfIRuiwSCMmqCSgEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,705,1406584800"; 
+   d="scan'208";a="66063875"
+Received: from mx.sb-roscoff.fr ([193.52.39.203])
+  by b-mx1.relay.syrhano.net with ESMTP; 12 Oct 2014 21:31:47 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mx.sb-roscoff.fr (Postfix) with ESMTP id 09F8D224503
+	for <bioinfo@sfbi.fr>; Sun, 12 Oct 2014 21:31:45 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at mx.sb-roscoff.fr
+Received: from mx.sb-roscoff.fr ([127.0.0.1])
+	by localhost (mx.sb-roscoff.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id tk8Hs5z9utPv for <bioinfo@sfbi.fr>;
+	Sun, 12 Oct 2014 21:31:40 +0200 (CEST)
+Received: from [192.168.1.19] (ARennes-653-1-216-131.w92-139.abo.wanadoo.fr [92.139.63.131])
+	(using TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(Client CN "Christophe Caron", Issuer "CNRS2-Standard" (not verified))
+	by mx.sb-roscoff.fr (Postfix) with ESMTP id DBA0B2244EC
+	for <bioinfo@sfbi.fr>; Sun, 12 Oct 2014 21:31:39 +0200 (CEST)
+Message-ID: <543AD720.9010301@sb-roscoff.fr>
+Date: Sun, 12 Oct 2014 21:31:44 +0200
+From: Christophe Caron <christophe.caron@sb-roscoff.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Galaxy Day : 2 & 3 décembre 2014 / Appel à contributions
+Bonjour,
+Le Groupe de Travail Galaxy-IFB organise pour la deuxième année une 
+animation autour de la plateforme Galaxy. Cette année, nous proposons 
+deux journées ciblant à la fois les communautés 'bio-informaticiens' et 
+'utilisateurs'.
+Ces deux journées auront pour objectif d'exposer les retours
+d'expérience autour de la plateforme Galaxy de laboratoires ou 
+plateformes, sous la forme de présentations de 20 minutes.
+Ces présentations cibleront
+  - 2 décembre : des retours d'expérience d'utilisateurs souhaitant 
+exposer/partager des usages
+  - 3 décembre : des exposés technologiques (nouvel environnement, mise 
+en production d'une plateforme, nouveaux usages/domaines, etc.)
+Si vous souhaitez soumettre une présentation, merci d'envoyer un résumé
+en anglais de 10/20 lignes maximum à ifb.galaxy@sb-roscoff.fr avant le
+31 octobre, avec pour sujet [Galaxy Day].
+Horaires prévisionnels:
+	2 décembre  : 13H30-17H30
+	3 décembre  : 9H30-17H00
+Lieu : Institut Curie / Paris
+Vous pouvez bien sûr faire suivre ce message, notamment à vos 
+communautés d'utilisateurs pour la première demi-journée !
+Pour les membres du Groupe Galaxy IFB
+  URGI, GenoToul, MIGALE, PFEM,  SouthGreen, Institut Curie, ABiMS
+-- 
+Christophe Caron  			
+Station Biologique / Service Informatique et Bio-informatique
+Place Georges Teissier - CS 90074
+29688 Roscoff Cedex
+Analysis and Bioinformatics for Marine Science
+    http://abims.sb-roscoff.fr/
+christophe.caron@sb-roscoff.fr
+tél: +33 (0)2 98 29 25 43 / +33 (0)6 07 83 54 77

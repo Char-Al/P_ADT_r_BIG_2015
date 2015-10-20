@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 6237926801D
+	for <bioinfo@sfbi.fr>; Tue,  9 Dec 2014 07:57:46 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ah8BAJKchlSKZqI0nGdsb2JhbABZg1hYAYMEihgGuHmHSAEBAQEBEQEBAQEBCAsJCRQuhCwQBRErCA4IHAImAhIsECSIOA2iS40kj0KBbYYliViFY4EmjjQRAW2CWYFHBYElqSwBAQEHAQEBAYIcboEMgTcBAQE
+X-IPAS-Result: Ah8BAJKchlSKZqI0nGdsb2JhbABZg1hYAYMEihgGuHmHSAEBAQEBEQEBAQEBCAsJCRQuhCwQBRErCA4IHAImAhIsECSIOA2iS40kj0KBbYYliViFY4EmjjQRAW2CWYFHBYElqSwBAQEHAQEBAYIcboEMgTcBAQE
+X-IronPort-AV: E=Sophos;i="5.07,543,1413237600"; 
+   d="scan'208";a="78367210"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 09 Dec 2014 07:57:46 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sB96vjP8024742
+	for <bioinfo@sfbi.fr>; Tue, 9 Dec 2014 07:57:45 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id BB06A296BB5
+	for <bioinfo@sfbi.fr>; Tue,  9 Dec 2014 07:57:45 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XyEmG-000EUb-71
+	for bioinfo@sfbi.fr; Tue, 09 Dec 2014 08:00:08 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XyEmG-000EUb-71@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 09 Dec 2014 08:00:08 +0100
+X-Miltered: at beta with ID 54869D69.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54869D69.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54869D69.000 on beta.jouy.inra.fr : j-chkmail score : X : R=. U=. O=# B=0.189 -> S=0.264
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Stage] M2: MICRO-=?UTF-8?Q?=C2=AD=E2=80=90VASCULATURE?= SEGM  ENTATION IN MICRO-=?UTF-8?Q?=C2=AD=E2=80=90TOMOGRAPHY?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : M2: MICRO-­‐VASCULATURE SEGMENTATION IN  
+MICRO-­‐TOMOGRAPHY
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Sophia-Antipolis
+Nom du contact : Gregoire Malandain
+Email du contact : gregoire.malandain@inria.fr
+Laboratoire : INRIA/I3S - Equipe Morpheme
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m2-micro-%C2%AD%E2%80%90vasculature-segmentation-micro-%C2%AD%E2%80%90tomography

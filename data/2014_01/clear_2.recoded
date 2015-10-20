@@ -1,0 +1,137 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sylvain.sene@lif.univ-mrs.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C14CE26801D
+	for <bioinfo@sfbi.fr>; Mon,  6 Jan 2014 10:47:35 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AioBAOx6ylKLfBYZl2dsb2JhbABYg0ODCUq2SYEPFg4BAQEBAQgWBzyCOBcPAQU6BgEZHAIFFgQHAgsDAgECAToRDQEFAgEBiACON5txmVGBKY1mgnaBSASrazCBPzs
+X-IronPort-AV: E=Sophos;i="4.95,611,1384297200"; 
+   d="scan'208";a="51856702"
+Received: from platine.lidil.univ-mrs.fr ([139.124.22.25])
+  by b-mx1.relay.syrhano.net with ESMTP; 06 Jan 2014 10:47:35 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by platine.lidil.univ-mrs.fr (Postfix) with ESMTP id 64E6EADA800B;
+	Mon,  6 Jan 2014 10:47:34 +0100 (CET)
+X-Virus-Scanned: amavisd-new at lidil.univ-mrs.fr
+Received: from platine.lidil.univ-mrs.fr ([127.0.0.1])
+	by localhost (platine.lidil.univ-mrs.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AWOKI-5g+UhC; Mon,  6 Jan 2014 10:47:34 +0100 (CET)
+Message-ID: <52CA7BB6.1010901@lif.univ-mrs.fr>
+Date: Mon, 06 Jan 2014 10:47:34 +0100
+From: =?UTF-8?B?U3lsdmFpbiBTZW7DqQ==?= <sylvain.sene@lif.univ-mrs.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo <bioinfo@sfbi.fr>
+Cc: =?UTF-8?B?TmF6aW0gRmF0w6hz?= <nazim.fates@loria.fr>,
+	=?UTF-8?B?U3lsdmE=?= =?UTF-8?B?aW4gU2Vuw6k=?= <sylvain.sene@lif.univ-mrs.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] 2nd appel =?UTF-8?Q?=C3=A0?= contributions TSI : =?UTF-8?Q?num=C3=A9ro?= =?UTF-8?Q?sp=C3=A9cial?= sur le =?UTF-8?Q?r=C3=B4le?= des =?UTF-8?Q?irr=C3=A9gularit=C3=A9s?= dans les automates cellulaires et les =?UTF-8?Q?r=C3=A9seaux?= d'automates
+Bonjour à tous, et tous nos meilleurs vœux pour cette nouvelle année,
+Tout d'abord, nous vous prions de nous excuser pour les éventuelles 
+réceptions multiples.
+Ce message détaille un second appel à contributions pour un numéro 
+spécial pour la revue française Technique et Science Informatiques
+(TSI - http://tsi.revuesonline.com) sur le thème du rôle de
+l'irrégularité dans les automates cellulaires et les réseaux
+d'automates, qui sont largement utilisés dans la modélisation de
+systèmes d'interactions biologiques. Une version PDF de cet appel est
+disponible sur le site de la revue TSI (http://tsi.revuesonline.com,
+dans l'onglet "appel à contribution").
+Comme ce nouvel appel l'indique, la date limite de soumission a été 
+repoussée au 31 mars 2014 mais nous serions reconnaissants à tous ceux 
+qui prévoiraient de participer à ce projet de nous le signaler dès que
+possible.
+Bien entendu, n'hésitez pas à nous contacter pour tout renseignement
+concernant ce projet.
+Bien cordialement,
+Nazim Fatès et Sylvain Sené (les coordonnateurs)
+----------
+========================================================================
+=        *Appel à contributions pour un numéro spécial de TSI*         =
+=                                                                      =
+=           *Automates cellulaires et réseaux d’automates*             =
+=                *le rôle central de l’irrégularité*                   =
+=                                                                      =
+=         (sous la direction de Nazim Fatès et Sylvain Sené)           =
+=                                                                      =
+=             *Date limite de soumission : 31 mars 2014*               =
+========================================================================
+L'informatique jusqu'à présent s'est principalement bâtie sur le modèle
+de la machine de Turing, c'est-à-dire sur la base d'un système
+appliquant des algorithmes de manière déterministe et séquentielle sur
+un espace régulier. Par contraste avec cette approche "classique", un
+autre type d'informatique s'intéresse à la compréhension des systèmes
+où les irrégularités de toutes sortes, loin d'être un obstacle à
+éviter, jouent un rôle constructif dans leur évolution. Des exemples
+sont fournis par les automates cellulaires, les réseaux d'automates
+(réseaux booléens et réseaux multi-valués), qui sont étudiés avec un
+fonctionnement asynchrone ou probabiliste et conduisent à des
+dynamiques complexes en dépit de l'utilisation de règles locales
+simples. On peut étudier comment les perturbations de la structure d'un
+système dynamique discret conduisent à observer des différences de
+comportement avec le système "régulier", ou alors tout simplement
+partir d'un graphe irrégulier de relations entre composants pour
+comprendre comment calculer sur de tels systèmes, comme dans le cas du
+calcul en milieu amorphe.
+Le but de ce numéro est avant tout de faire un tour d'horizon de cette
+thématique et de faire se rencontrer différents points de vue. Nous
+souhaitons donc regrouper les synthèses des travaux, déjà publiés ou
+non, si possible incluant un état de l'art d'un domaine, ainsi que les
+idées pouvant donner lieu à discussion et présentant les défis
+stimulants du domaine.
+THÉMATIQUE
+– Automates cellulaires probabilistes ou asynchrones, non réguliers en
+espace, etc. ;
+– Réseaux d'automates finis (réseaux booléens ou multi-valués, réseaux
+de neurones formels, etc.) ;
+– Systèmes multi-agents réactifs ;
+– Calcul en milieu amorphe ;
+– Systèmes dynamiques sur graphes réguliers ou non.
+Toute autre étude de système discret où l'irrégularité de structure
+joue un rôle central est la bienvenue. Les recherches présentées
+peuvent être analytiques ou expérimentales, mettre en avant la
+modélisation de phénomènes naturels (régulation génétique, interactions
+cellulaires...), les problématiques de simulation, ou la conception
+d'algorithmes novateurs, notamment dans le domaine du calcul
+spatialement distribué.
+COMITÉ DE LECTURE
+- Julio Aracena, Université de Concepción, Concepción, Chili
+- Jacques Demongeot, AGIM, Université Joseph Fourier - Grenoble 1
+- Enrico Formenti, I3S, Université de Nice - Sophia Antipolis
+- Lucas Gérin, Modal'X, Université Paris-Ouest Nanterre La Défense
+- Eric Goles, Université Adolfo Ibañez, Santiago, Chili
+- Luidnel Maignan, LACL, Université Paris Est - Créteil
+- Jean Mairesse, LIAFA, CNRS, Paris
+- Irène Marcovici, LIAFA, Université Denis Diderot - Paris 7
+- Mathilde Noual, I3S, Université de Nice - Sophia Antipolis
+- Damien Regnault, IBISC, Université d'Évry - Val d'Essonne
+- Élisabeth Rémy, IML, CNRS, Marseille
+- Adrien Richard, I3S, CNRS, Nice - Sophia Antipolis
+- Nicolas Schabanel, LIAFA, CNRS, Paris
+- Anne Siegel, IRISA, CNRS, Rennes
+RECOMMANDATIONS AUX AUTEURS
+- Les soumissions doivent respecter la feuille de style de la revue,
+disponible sur le serveur http://tsi.revuesonline.com (ou sur demande
+à : tsi@lavoisier.fr).
+- Selon la politique éditoriale de TSI, les articles de recherche (20 à
+25 pages), d'application (au plus 20 pages) ou de synthèse (au plus 30
+pages) sont acceptés. Ils doivent être en français, sauf si aucun des
+auteurs n'est francophone.
+- Les soumissions sont envoyées au format PDF de préférence. Les
+versions finales sont acceptées au format Word (ou PDF pour les
+articles faits avec Latex).
+- Les articles doivent être soumis en ligne sur le site de la revue
+TSI, en précisant le thème du numéro thématique et en respectant les
+consignes afférentes.
+----------
+-- 
+Sylvain Sené
+Professeur des universités
+Laboratoire d'informatique fondamentale (LIF)
+Parc scientifique et technologique de Luminy
+163, avenue de Luminy - Case 901
+F-13288 Marseille Cedex 9

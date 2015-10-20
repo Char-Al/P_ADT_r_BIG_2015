@@ -1,0 +1,102 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mailingprigent@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id BA24926801D
+	for <bioinfo@sfbi.fr>; Wed,  5 Nov 2014 15:55:42 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsgBAC85WlTRVdowm2dsb2JhbABchDsEgjpI0nYHFgEBAQEBEQEBAQEBBgsLCRQuhBUGER0BGx4DEgMNDwImAiQBEQEFASI1iAkBAxKXeI0dgyE9MYszgXODEYkaChknDWiFawEFDoEfjBWGTYFUBYZLl0WUWhgpg0iBazwvgksBAQE
+X-IPAS-Result: AsgBAC85WlTRVdowm2dsb2JhbABchDsEgjpI0nYHFgEBAQEBEQEBAQEBBgsLCRQuhBUGER0BGx4DEgMNDwImAiQBEQEFASI1iAkBAxKXeI0dgyE9MYszgXODEYkaChknDWiFawEFDoEfjBWGTYFUBYZLl0WUWhgpg0iBazwvgksBAQE
+X-IronPort-AV: E=Sophos;i="5.07,320,1413237600"; 
+   d="scan'208";a="76238488"
+Received: from mail-oi0-f48.google.com ([209.85.218.48])
+  by a-mx1.relay.syrhano.net with ESMTP; 05 Nov 2014 15:55:42 +0100
+Received: by mail-oi0-f48.google.com with SMTP id x69so11973148oia.7
+        for <bioinfo@sfbi.fr>; Wed, 05 Nov 2014 06:55:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=ptTZzOof7kWGom244oj0wR+yRS3VAJf6XZ9SLqD7+XE=;
+        b=A1rlCu+/o9NBJtJhsKEVnSftZ4aPsOkN4VoUJ4Y/4/dGssp67K9sM0NBSoUd0QpO+z
+         LdXgDwR8VxCDZyYEiwmd2iqyoEFa5Th+9hTrpSwgcT3TKhNXlAjPAu46n5acU7bV+BNV
+         HmfwQHg+EVCxEDDdyfABxR+cPa9x4zGcdAE4jucqyzOhJWiauqUVx18eldzCJTyvtweU
+         jRw9PnqIarxDxXwVq80rrwX5etju1hb/T3YRu0KMSp8OErmByGAVFNEFWd7YxF1tebHa
+         uGBnT8jBOif7QCw/aHmakQVOYRQkMIhv3h2hyy1Z+yjuLwEM48a3e0cpbsf+np5NR4Xl
+         B7VQ=
+X-Received: by 10.60.133.170 with SMTP id pd10mr49546295oeb.35.1415199340650;
+ Wed, 05 Nov 2014 06:55:40 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.202.7.11 with HTTP; Wed, 5 Nov 2014 06:55:20 -0800 (PST)
+From: Sylvain Prigent <mailingprigent@gmail.com>
+Date: Wed, 5 Nov 2014 15:55:20 +0100
+Message-ID: <CAF8_MDxw+E4a5CcpsWuaj54OS9u70JVZVuvMPX=sng-kWA3mFA@mail.gmail.com>
+To: bioinfo <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Soutenance de thèse de Sylvain Prigent - 14 novembre 14h00 - INRIA/IRISA Rennes
+Bonjour,
+J'ai le plaisir de vous inviter à la soutenance de ma thèse de
+doctorat intitulée "Complétion combinatoire pour la reconstructio
+n de
+réseaux métaboliques, et application au modèle des algues br
+unes
+Ectocarpus siliculosus" qui aura lieu le vendredi 14 novembre 2014 à
+14h00, salle Métivier à INRIA/IRISA de Rennes, ainsi qu'au
+traditionnel pot qui suivra.
+Le jury sera composé de :
+- Marie Beurton-Aimar, Ma=C3=AEtre de conférences, Université de 
+Bordeaux 2
+(Rapporteure)
+- Hubert Charles, Professeur à l'INSA de Lyon (Rapporteur)
+- Claudine Médigue, Directrice de recherche CNRS, CEA-Genoscope (Rappo
+rteure)
+- Alexander Bockmayr, Professeur, Freie Universit=C3=A4t, Berlin (Examinate
+ur)
+- Arnaud Martin, Professeur, Université de Rennes 1 (Examinateur)
+- Anne Siegel, Directrice de recherche CNRS (Directrice de thèse)
+- Thierry Tonon, Ma=C3=AEtre de conférences UMPC (Co-directeur de th
+èse)
+Résumé :
+Durant cette thèse nous nous sommes attachés au développemen
+t d'une
+méthode globale de création de réseaux métaboliques che
+z des espèces
+biologiques non classiques pour lesquelles nous possédons peu
+d'informations. Classiquement cette reconstruction s'articule en trois
+points : la création d'une ébauche métabolique à partir
+ d'un génome,
+la complétion du réseau et la vérification du résultat 
+obtenu. Nous
+nous sommes particulièrement intéressé au problème d'op
+timisation
+combinatoire difficile que représente l'étape de complétion 
+du réseau,
+en utilisant un paradigme de programmation par contraintes pour le
+résoudre : la programmation par ensemble réponse (ou ASP). Les
+modifications apportées à une méthode préexistante nous
+ ont permis
+d'améliorer à la fois le temps de calcul pour résoudre ce pr
+oblème
+combinatoire et la qualité de la modélisation.
+L'ensemble de ce processus de reconstruction de réseau métaboliqu
+e a
+été appliqué au modèle des algues brunes, Ectocarpus si
+liculosus, nous
+permettant ainsi de reconstruire le premier réseau métabolique ch
+ez
+une macro-algue brune. La reconstruction de ce réseau nous a permis
+d'améliorer notre compréhension du métabolisme de cette esp
+èce et
+d'améliorer l'annotation de son génome.
+Cordialement,
+--
+Sylvain PRIGENT (Doctorant)
+INRIA/IRISA
+=C3=89quipe Dyliss/Symbiose
+Bureau A113
+Campus universitaire de Beaulieu
+35042 RENNES Cedex
+Tel : 02 99 84 22 41

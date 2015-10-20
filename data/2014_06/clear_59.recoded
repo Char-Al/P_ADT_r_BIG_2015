@@ -1,0 +1,48 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 4BA9C26801D
+	for <bioinfo@sfbi.fr>; Tue, 17 Jun 2014 13:16:58 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AloCAJMioFOKZqI0nGdsb2JhbABag1+CfUnAPgMCAYEiDwEBAQEBCAsJCRQohAQBBQwXDwEFES8RCRwCBRYEBwICCQMCAQIBOgsTBgIBAYg+BAmRBpwkni8XgSqMahEBVxaCYYFMAQOaQ5VWgUSBdQ
+X-IronPort-AV: E=Sophos;i="5.01,493,1400018400"; 
+   d="scan'208";a="68645418"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 17 Jun 2014 13:16:57 +0200
+Received: from MacBook-Air-de-sophie-2.local (host-151-250-96-7.reverse.superonline.net [151.250.96.7] (may be forged))
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s5HBGud8025333
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Tue, 17 Jun 2014 13:16:57 +0200 (CEST)
+Message-ID: <53A023AA.2010900@jouy.inra.fr>
+Date: Tue, 17 Jun 2014 13:16:58 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1WwrJE-0009Bm-PC@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1WwrJE-0009Bm-PC@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1WwrJE-0009Bm-PC@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53A023A8.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53A023A8.000/151.250.96.7/[151.250.96.7]/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53A023A8.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.105 -> S=0.126
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=]  =?UTF-8?Q?Ing=C3=A9nieur?=(e) en =?UTF-8?Q?d=C3=A9veloppement?= =?UTF-8?Q?d=E2=80=99applications?=, ARCAD Web-Services et portail national des ressources =?UTF-8?Q?g=C3=A9n=C3=A9tiques?= =?UTF-8?Q?v=C3=A9g=C3=A9tales?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste :  Ingénieur(e) en développement d’applications, ARCAD
+Web-Services et portail national des ressources génétiques végétales
+Type de poste : CDD Ingénieur
+Durée du poste : 10 mois
+Ville : Montpellier
+Nom du contact : Chantal Hamelin
+Email du contact : chantal.hamelin@cirad.fr
+Laboratoire : UMR AGAP
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/ing%C3%A9nieure-en-d%C3%A9veloppement-d%E2%80%99applications-arcad-web-services-et-portail-national-des-ressou

@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 89D6D26801D
+	for <bioinfo@sfbi.fr>; Wed, 10 Dec 2014 13:07:11 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnUBADs2iFSKZqI0nGdsb2JhbABZg1hZgjxIihAFuHWFaAKBLwEBAQEBEQEBAQEBCAsJCRQuhBUXEAURMw4IHAImAhIsNIg4DaMMjSSPQoFthiyJcIVYgSaNexEBbYJZgUcFgSWobQEBAQEGAQEBAQFcgT9tgQyBNwEBAQ
+X-IPAS-Result: AnUBADs2iFSKZqI0nGdsb2JhbABZg1hZgjxIihAFuHWFaAKBLwEBAQEBEQEBAQEBCAsJCRQuhBUXEAURMw4IHAImAhIsNIg4DaMMjSSPQoFthiyJcIVYgSaNexEBbYJZgUcFgSWobQEBAQEGAQEBAQFcgT9tgQyBNwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,552,1413237600"; 
+   d="scan'208";a="78452436"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Dec 2014 13:07:11 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sBAC7Aft014582
+	for <bioinfo@sfbi.fr>; Wed, 10 Dec 2014 13:07:10 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id A1ACB296BB5
+	for <bioinfo@sfbi.fr>; Wed, 10 Dec 2014 13:07:10 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1Xyg5F-0001EL-Gx
+	for bioinfo@sfbi.fr; Wed, 10 Dec 2014 13:09:33 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1Xyg5F-0001EL-Gx@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Wed, 10 Dec 2014 13:09:33 +0100
+X-Miltered: at beta with ID 5488376E.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5488376E.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5488376E.001 on beta.jouy.inra.fr : j-chkmail score : X : R=. U=. O=. B=0.186 -> S=0.186
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Discovering cis-regulatory motifs governing miRNA regulation
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Discovering cis-regulatory motifs governing miRNA  
+regulation
+Type de poste : Post-doc / IR
+Durée du poste :
+Ville : Montpellier
+Nom du contact : Laurent Bréhélin
+Email du contact : brehelin@lirmm.fr
+Laboratoire : LIRMM
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/discovering-cis-regulatory-motifs-governing-mirna-regulation-0

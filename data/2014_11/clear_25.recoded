@@ -1,0 +1,58 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gregory.batt@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id B8F6B26801D
+	for <bioinfo@sfbi.fr>; Wed, 12 Nov 2014 02:33:23 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuYAAOW3YlTAhqRonGdsb2JhbABcFoNMWcw2iG4WAQEBAQERAQEBAQEGDQkJFC6EOwEFQD0UAgQUAwIBAgEPJSQGAgEBFYgTAxKoR5EwjWUNhxqNRoEVgVcRAW2ENQWOS4R0iFSCEoE0g0+KbAOEeIM9AQoBAQE7JoFFPC+BD4E8AQEB
+X-IPAS-Result: AuYAAOW3YlTAhqRonGdsb2JhbABcFoNMWcw2iG4WAQEBAQERAQEBAQEGDQkJFC6EOwEFQD0UAgQUAwIBAgEPJSQGAgEBFYgTAxKoR5EwjWUNhxqNRoEVgVcRAW2ENQWOS4R0iFSCEoE0g0+KbAOEeIM9AQoBAQE7JoFFPC+BD4E8AQEB
+X-IronPort-AV: E=Sophos;i="5.07,365,1413237600"; 
+   d="scan'208";a="67965247"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by b-mx1.relay.syrhano.net with ESMTP; 12 Nov 2014 02:33:23 +0100
+X-IronPort-AV: E=Sophos;i="5.07,365,1413237600"; 
+   d="scan'208";a="87554546"
+Received: from boi78-h03-89-82-247-157.dsl.sta.abo.bbox.fr (HELO [192.168.1.4]) ([89.82.247.157])
+  by mail3-relais-sop.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 12 Nov 2014 02:33:22 +0100
+Message-ID: <5462B8E4.4030807@inria.fr>
+Date: Wed, 12 Nov 2014 02:33:24 +0100
+From: Gregory Batt <gregory.batt@inria.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Synthetic Biology Seminar Engineering Life: Tim Lu (MIT) and Diego
+ di Bernardo (TIGEM) - Nov 14 - Pasteur, Paris
+Dear all,
+There will be a *Synthetic Biology Seminar* on Engineering Life this 
+Friday (Nov 14), at Institut Pasteur (salle Jules Bordet, 25 rue du Dr 
+Roux, Paris):
+- 10h-11h Diego Di Bernardo (TIGEM, Italy): Engineering and control of 
+gene networks
+- 11h-12h Tim Lu (MIT, USA): Accelerating the engineering of life for 
+human health applications
+This seminar will be followed by the *PhD defense of Xavier Duportet* 
+(INRIA/MIT) in amphitéâtre Duclaux (Pasteur):
+14h30 - Developing new tools and platforms for mammalian synthetic 
+biology: from the assembly and chromosomal integration of large genetic 
+circuits to the engineering of artificial intercellular communication 
+systems
+The jury members are Reiner Veitia (IJM CNRS, président), Tim Lu (MIT, 
+rapporteur), Diego Di Bernardo (TIGEM, rapporteur), Didier Mazel 
+(Pasteur, examinateur), Franck Molina (SysDiag CNRS, examinateur), and 
+Gregory Batt (INRIA, directeur de thèse).
+To register to the seminar and/or the defense, please send an email to 
+xavier.duportet@gmail.com and bring an ID. This is mandatory to enter 
+the Pasteur campus.
+Best,
+Gregory
+-- 
+==================================================================
+Gregory Batt                            INRIA, Rocquencourt, France
+                                                   +33 1 39 63 53 77
+Gregory.Batt@inria.fr               http://www-rocq.inria.fr/~batt/
+==================================================================

@@ -1,0 +1,59 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <delphine.ropers@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 51AD826801D
+	for <bioinfo@sfbi.fr>; Mon, 10 Mar 2014 10:25:26 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnYFAK6EHVPAhqRof2dsb2JhbABag0GOL7MVgWoWDgEBCwsKCBQogl4BBUA9FgQUAwIBAgFYCAEBBRABh18ECZ8ahxWNX5syF454ghgPgXsEmEWBMos2hzSBPw
+X-IronPort-AV: E=Sophos;i="4.97,622,1389740400"; 
+   d="scan'208";a="63153749"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Mar 2014 10:25:26 +0100
+X-IronPort-AV: E=Sophos;i="4.97,622,1389740400"; 
+   d="scan'208";a="51963421"
+Received: from chlorobi.inrialpes.fr (HELO [194.199.22.154]) ([194.199.22.154])
+  by mail3-relais-sop.national.inria.fr with ESMTP/TLS/DHE-RSA-CAMELLIA256-SHA; 10 Mar 2014 10:25:25 +0100
+Message-ID: <531D8505.7010103@inria.fr>
+Date: Mon, 10 Mar 2014 10:25:25 +0100
+From: Delphine Ropers <delphine.ropers@inria.fr>
+Reply-To: delphine.ropers@inria.fr
+Organization: INRIA
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20130110 Thunderbird/17.0.2
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] SeMoVi Seminar on Systems Biology: Markus Covert (Stanford University), Monday 31 March, INRIA Grenoble - Rhône-Alpes, Montbonnot
+SEMINAR ANNOUNCEMENT:
+Semovi (Rhonalpin Seminar on Modeling in the Life Sciences)
+Special session on Systems Biology
+INRIA Grenoble - Rhône-Alpes (Montbonnot), March 31, 2014 - 14:00-17:00
+*************************
+Program:
+14:00-15:00 Markus Covert (Stanford University,
+http://covertlab.stanford.edu/) "The whole cell model of Mycoplasma 
+genitalium"
+BBC News: "The virtual cell that simulates life"
+(http://www.bbc.com/news/science-environment-19016772)
+15:00-15:30 Coffee break
+15:30-16:00 Ina Attrée, CEA Grenoble " Multifactorial virulence of 
+Pseudomonas aeruginosa"
+16:00-16:30 Hugues Berry (INRIA Grenoble - Rhône-Alpes, 
+http://www.inrialpes.fr/Berry/) "Location-location-location: the 
+importance of space for intracellular cell biochemistry"
+16:30-17:00 General discussion
+*************************
+Abstracts: http://www.biosyl.org/resources/semovi/semovi-march-31-2014
+*************************
+Location:
+Grand Amphithéâtre, INRIA Grenoble - Rhône-Alpes
+Access:
+http://www.inria.fr/en/centre/grenoble/overview/four-establishments-in-rhone-alpes
+-- 
+Delphine Ropers                         INRIA Grenoble-Rhone-Alpes
+655 avenue de l'Europe, Montbonnot      Tel: (+33) (0)4 76 61 53 72
+38334 Saint-Ismier Cedex, France        Fax: (+33) (0)4 56 52 71 20
+http://ibis.inrialpes.fr/article593.html

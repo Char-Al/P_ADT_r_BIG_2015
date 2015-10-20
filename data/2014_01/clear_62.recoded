@@ -1,0 +1,63 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Andrey.Kajava@crbm.cnrs.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 8922C26801D
+	for <bioinfo@sfbi.fr>; Wed, 22 Jan 2014 16:55:38 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoYBALjo31LBMYQUnGdsb2JhbABAGoNDvUgWDgEBAQEBCBQJPIJeAQU8BD0WGAMCAQIBWAYCAQGIBQk2lmGrXY8ZhCIElS2CdYEyhRWNEIFveA
+X-IronPort-AV: E=Sophos;i="4.95,700,1384297200"; 
+   d="scan'208";a="60704126"
+Received: from mx.montp.cnrs.fr ([193.49.132.20])
+  by a-mx1.relay.syrhano.net with ESMTP; 22 Jan 2014 16:55:37 +0100
+Received: from opale (opale.sic.montp.cnrs.fr [194.57.116.90])
+	by mx.montp.cnrs.fr  with ESMTP id s0MFtasP008433-s0MFtasQ008433
+	for <bioinfo@sfbi.fr>; Wed, 22 Jan 2014 16:55:36 +0100
+Received: from opale (localhost [127.0.0.1])
+	by opale (Postfix) with ESMTP id CEB7611788C4
+	for <bioinfo@sfbi.fr>; Wed, 22 Jan 2014 16:55:08 +0100 (CET)
+Received: from [10.4.130.99] (pouchkine.crbm.int [10.4.130.99])
+	by opale (Postfix) with ESMTPSA id A1536499CA2
+	for <bioinfo@sfbi.fr>; Wed, 22 Jan 2014 16:55:08 +0100 (CET)
+Message-ID: <52DFEA33.1050108@crbm.cnrs.fr>
+Date: Wed, 22 Jan 2014 16:56:35 +0100
+From: "Andrey.Kajava" <Andrey.Kajava@crbm.cnrs.fr>
+Reply-To: Andrey.Kajava@crbm.cnrs.fr
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: ClamAV using ClamSMTP
+X-FEAS-SPF: PASS / PASS ( ip="194.57.116.90", helo="", mailFrom="andrey.kajava@crbm.cnrs.fr" ) ( headerFrom="andrey.kajava@crbm.cnrs.fr" )
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] M1/M2 stages à Montpellier
+M1/M2 stages à Montpellier
+Sujet : Annotation structurale et fonctionnelle du protéomes.
+L'augmentation de la masse de données génomiques disponibles pose de 
+nouveaux défis aux chercheurs : identifier les fonctions moléculaires et 
+cellulaires des millions de séquences protéiques séquencées à ce jour 
+nécessite de mettre en place des approches automatisées basées sur 
+l'analyse de séquence, la structure 3D, l'histoire évolutive, etc. 
+Aujourd'hui, les capacités de séquençage surpassent de loin les 
+capacités à analyser ces données. Notre projet a pour objectif le 
+développement de nouveaux algorithmes et outils informatiques pour 
+mettre en place la chaîne de traitement complexe nécessaire à ces analyses.
+Ces stages se feront en collaboration avec l'Institut de Biologie 
+Computationnelle (IBC http://www.ibc-montpellier.fr/).
+Compétences requises : programmation, algorithmique.  Des connaissances 
+en biologie et/ou statistique sont un plus.
+Les candidatures (CV et lettre de motivation) sont à envoyer en format 
+électronique à:
+Andrey Kajava (andrey.kajava@crbm.cnrs.fr)
+Dr. Andrey Kajava
+Directeur de Recherche
+Equipe : Bioinformatique structurale et modélisation moléculaire
+Centre de Recherches de Biochimie Macromoléculaire, (CRBM)
+UMR 5237 CNRS,  Université Montpellier 1 et 2
+1919 Route de Mende, 34293 Montpellier, Cedex 5, France
+Phone number  33 4 3435 9538 (lab)
+e-mail  andrey.kajava@crbm.cnrs.fr
+http://www.crbm.cnrs.fr/spip.php?rubrique98
+http://bioinfo.montp.cnrs.fr/

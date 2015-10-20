@@ -1,0 +1,77 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <khalid.belkhir@univ-montp2.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 4202026801D
+	for <bioinfo@sfbi.fr>; Fri, 13 Jun 2014 13:50:31 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AiMBAErkmlOiJmXhnGdsb2JhbABQCoNfxGIWDwEBAQEBBg0JCRQohBYmAQV9FhgDAgECAVgIAQGIPg2jMa5viz6BF4ErBXSEKwSbeYU3kBiBbA
+X-IronPort-AV: E=Sophos;i="5.01,471,1400018400"; 
+   d="scan'208";a="60100269"
+Received: from mailhub-out3.univ-montp2.fr ([162.38.101.225])
+  by b-mx1.relay.syrhano.net with ESMTP; 13 Jun 2014 13:50:30 +0200
+Received: from [162.38.181.234] ([162.38.181.234])
+	(authenticated bits=0)
+	by mailhub-out3.univ-montp2.fr (8.14.3/8.14.3) with ESMTP id s5DBoTr5028724
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 13 Jun 2014 13:50:30 +0200
+Message-ID: <539AE585.7090107@univ-montp2.fr>
+Date: Fri, 13 Jun 2014 13:50:29 +0200
+From: khalid Belkhir <khalid.belkhir@univ-montp2.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-UM2username: khalid.belkhir@univ-montp2.fr
+X-Virus-Scanned: clamav-milter 0.98.3 at mailhub-out3.univ-montp2.fr
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] =?WINDOWS-1252?Q?Journ=E9e?= =?WINDOWS-1252?Q?=93biodiversit=E9?= et =?WINDOWS-1252?Q?bioinformatique=94?= - Montpellier 16 septembre 2014
+Bonjour à toutes et à tous,
+La cinquième édition de la journée biodiversité et bioinformatique 
+aura lieu à Montpellier le 16 septembre 2014.
+Les domaines de l'écologie et de l'évolution font de plus en plus appel 
+aux outils bioinformatiques et au calcul intensif pour le traitement et 
+l'analyse de très grands jeux de données (issus du séquençage ou du 
+phénotypage haut-débit, de la construction de bases de données 
+écologiques et climatiques, ...) et à la modélisation de processus complexes.
+L'objectif de cette journée est de réunir des chercheurs manipulant ou 
+développant des outils de bioinformatique ou de modélisation dans les 
+domaines de l'écologie et de l'évolution, afin de discuter et d'échanger 
+sur des aspects conceptuels et techniques liés à ces questions.
+Huit orateurs et oratrices sont invité(e)s
+- Julien Dutheil (Max Planck Institute, Marburg, Allemagne)
+Contrasting patterns of extant and ancient diversity along the Primate X 
+chromosome suggest genomic conflicts and recurrent selective sweeps
+- Gabriel Marais (Laboratoire de Biométrie et Biologie Evolutive, Lyon)
+A cheap and efficient approach to identify sex-linked genes using NGS: 
+applications to the study of dioecious plants
+- Pierre Pudlo (Institut de Mathématiques et Modélisation de Montpellier)
+Problème d'inférence en génétique des populations neutre
+- Denis Roze (Station biologique, Roscoff)
+Reproductive systems and interference between genes
+- Christine Dillmann (Station de génétique végétale, Le Moulon, 
+Université Paris Sud)
+Adaptive landscapes, heredity and the genotype-phenotype map in yeasts
+- Edouardo Rocha (Institut Pasteur, Paris)
+Trade-offs shaping temperate phages as deadly, accommodated, and 
+serviceable pathogens.
+- Sandrine Pavoine (Centre d'Ecologie et des Sciences de la 
+Conservation, MNHM Paris)
+La mesure parfaite de biodiversité existe-t-elle?
+- Sonia Kefi (Institut des Sciences de l'Evolution, Montpellier)
+Conséquences des interactions positives pour le fonctionnement de 
+communautés écologiques complexes
+Programme détaillé et inscription :
+http://kimura.univ-montp2.fr/jbb/
+L'inscription est gratuite mais obligatoire.
+Le nombre de places est limité à 150.
+N'hésitez pas à diffuser l'information.
+Sylvain Glémin
+-- 
+khalid BELKHIR
+Institut des Sciences de l'Evolution
+UM2-CNRS-IRD UMR 5554 - Université de Montpellier II
+Montpellier  (0)4 67 14 3913  fax  (0)4 67 14 4554

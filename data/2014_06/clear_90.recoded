@@ -1,0 +1,115 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <hrc@ens.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 01DC326801D
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 10:12:16 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsQBAGLVq1OBx2AonGdsb2JhbABag1+qfQaSGYhJFg8BAQEBAQgLCQkUKIQWXweKGg2WQJEQnAOFZItZD0QkgRYFsgs
+X-IronPort-AV: E=Sophos;i="5.01,551,1400018400"; 
+   d="scan'208";a="69178368"
+Received: from nef2.ens.fr ([129.199.96.40])
+  by a-mx1.relay.syrhano.net with ESMTP; 26 Jun 2014 10:12:16 +0200
+Received: from biologie.ens.fr (milda.ens.fr [129.199.18.219])
+          by nef2.ens.fr (8.13.6/1.01.28121999) with ESMTP id s5Q8CF72092337
+          for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 10:12:15 +0200 (CEST)
+X-Envelope-To: <bioinfo@sfbi.fr>
+Received: from localhost (av3.biologie.ens.fr [129.199.21.124])
+	by biologie.ens.fr (Postfix) with ESMTP id 4E6FEA6C
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 10:12:15 +0200 (CEST)
+X-Virus-Scanned: spam & virus filtering at av3.ens.fr
+X-Spam-Flag: NO
+X-Spam-Score: -10.91
+X-Spam-Level: 
+X-Spam-Status: No, score=-10.91 tagged_above=-9999 required=5
+	tests=[ALL_TRUSTED=-1, AUTHD_RELAY=-8, BAYES_00=-1.9,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from biologie.ens.fr ([IPv6:::ffff:129.199.18.219])
+	by localhost (av3.biologie.ens.fr [::ffff:129.199.21.124]) (amavisd-new, port 10024)
+	with ESMTP id 5NCe6izYGGli for <bioinfo@sfbi.fr>;
+	Thu, 26 Jun 2014 10:12:14 +0200 (CEST)
+Received: from ldogmac12.ens.fr (ldogmac12.ens.fr [129.199.20.74])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	(Authenticated sender: hrc)
+	by biologie.ens.fr (Postfix) with ESMTPSA id 92D5E890
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 10:12:14 +0200 (CEST)
+From: Hugues Roest Crollius <hrc@ens.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <8E8EBE96-9587-4509-9E51-9AEC06FB6BAC@ens.fr>
+Date: Thu, 26 Jun 2014 10:12:17 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.4.3 (nef2.ens.fr [129.199.96.32]); Thu, 26 Jun 2014 10:12:15 +0200 (CEST)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Concours CNRS =?WINDOWS-1252?Q?Ingénieur?= d'Etude Bioinfo (ENS Paris) 
+Un concours externe est ouvert au CNRS pour le recrutement d'un Ingénie
+ur d'Etude BAP A en Bioinformatique sur la Plateforme de L'Institut de 
+Biologie de l'ENS (IBENS).
+Pour candidater: (attention, inscription au concours en ligne jusqu'au 27
+ juin)
+http://www.dgdr.cnrs.fr/drhita/concoursita/
+Détail du poste à pourvoir:
+Concours N=B0 26
+Délégation organisatrice : Ile-de-France Ouest et Nord (DR 05) (MEUDON)
+Nbre de postes :	1
+Emploi-type :	ingénieur en traitement de données biologiques
+Affectation :	Institut de biologie de l'Ecole Normale Supérieure, PARIS
+Mission :=09
+L'ingénieur aura pour mission la mise en oeuvre des différents outils i
+nformatiques et bioinformatiques nécessaires au stockage, au traitement, 
+à l'analyse et à la visualisation des données de génomique.
+Il/elle aura également pour mission d'assurer au sein de la plateforme de
+ bioinformatique et en concertation avec les plateformes de génomique et 
+le service informatique, la mise en oeuvre d'applications bioinformatiques 
+directement utilisables par les biologistes et la formation de ceux-ci.
+Activités :=09
+- Mettre en place les procédures de recueil et de contrôle des donnée
+s issues du séquen=E7age à très haut débit (ChIP-Seq, BS-seq, RNA-s
+eq, etc')
+- Réaliser le traitement des données visant notamment à l'identificat
+ion des états chromatiniens et des sites de fixation de protéines parti
+culières le long d'un génome ainsi que la caractérisation de différ
+entes classes d'ARN (ARN messagers ; ARN non-codants : miRNA, siRNA, lncRNA
+s ; etc.)
+- Organiser la mise en forme, le stockage des données
+- Assurer, en collaboration avec le service informatique, la maintenance de
+s bases de données créées
+- Assurer la veille scientifique et technique
+- Diffuser et valoriser des résultats sous forme de rapports techniques o
+u d'étude à usage des communautés professionnelles et scientifiques
+- Développer des méthodes d'analyse bioinformatique et statistique
+- Participer à la formation des biologistes aux outils bioinformatiques
+Compétences :=09
+- Formation en bioinformatique
+- Connaissances solides en informatique (ma=EEtrise d'un ou plusieurs langa
+ges de programmation, bases de données) et en bioinformatique (comparaiso
+n de séquences, analyses NGS, programmation R, etc.)
+- Expertise en statistiques et connaissances générales en biologie requ
+ises
+- Expérience nécessaire dans l'analyse de données issues des technolo
+gies à très haut débit (RNA-seq, ChIP-seq, ...)
+- Ma=EEtrise de l'anglais scientifique et technique
+- Expérience interdisciplinaire appréciée (biologie, bioinformatique,
+ informatique, statistique, modélisation, etc.).
+- Etre autonome et assurer la veille technologique sur les domaines de sa c
+ompétence.
+- Former les utilisateurs et les stagiaires sur les outils bioinformatiques
+ développés.
+- Une expérience dans un des domaines suivants sera considérée comme 
+un atout mais n'est pas indispensable: 1) génomique des plantes et plus p
+récisément le modèle Arabidopsis thaliana. 2) CLIPSeq, 3) analyse en 
+génomique fonctionnelle
+- ANGLAIS : Compréhension écrite et orale : niveau 2 Expression écrit
+e et orale : niveau 1
+Contexte :=09
+Le ou la titulaire du poste sera affecté à l'Institut de Biologie de l
+'Ecole Normale Supérieure (IBENS) et sera rattaché à la plateforme 
+de biologie computationnelle et bio-informatique sous la direction du respo
+nsable de la plateforme. Ce service est composé de 4 personnes.
+Il/elle sera en relation étroite avec les groupes de biologie avec lesque
+ls il/elle interagira sur des projets définis en objectif et en temps en 
+collaboration avec les chefs d'équipe impliqués.

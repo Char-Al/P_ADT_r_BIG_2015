@@ -1,0 +1,128 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <nicolas.tchitchek@cea.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id BFF0126801D
+	for <bioinfo@sfbi.fr>; Tue,  2 Sep 2014 09:40:58 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnoBALtzBVSEp8COnGdsb2JhbABWA4JqgVHMNIMfAYELFhABAQEBAQgLCQkUKYQFBQxhBxcBKkMTJgEEG4g6AZVbnmSFIQEXjxwhKIInD0QkgR0FinCGRKJhgUaCNIEHAQEB
+X-IronPort-AV: E=Sophos;i="5.04,447,1406584800"; 
+   d="scan'208";a="63633698"
+Received: from cirse-out.extra.cea.fr ([132.167.192.142])
+  by b-mx1.relay.syrhano.net with ESMTP; 02 Sep 2014 09:40:58 +0200
+Received: from pisaure.intra.cea.fr (pisaure.intra.cea.fr [132.166.88.21])
+	by cirse.extra.cea.fr (8.14.2/8.14.2/CEAnet-Internet-out-2.3) with ESMTP id s827evg5003563
+	for <bioinfo@sfbi.fr>; Tue, 2 Sep 2014 09:40:57 +0200
+Received: from pisaure.intra.cea.fr (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id 61B13200ED4
+	for <bioinfo@sfbi.fr>; Tue,  2 Sep 2014 09:41:09 +0200 (CEST)
+Received: from muguet1.intra.cea.fr (muguet1.intra.cea.fr [132.166.192.6])
+	by pisaure.intra.cea.fr (Postfix) with ESMTP id 589012007F0
+	for <bioinfo@sfbi.fr>; Tue,  2 Sep 2014 09:41:09 +0200 (CEST)
+Received: from EXCAH-A3.intra.cea.fr (excah-a3.intra.cea.fr [132.166.88.77])
+	by muguet1.intra.cea.fr (8.13.8/8.13.8/CEAnet-Intranet-out-1.2) with ESMTP id s827evgP011590
+	for <bioinfo@sfbi.fr>; Tue, 2 Sep 2014 09:40:57 +0200
+Received: from EXDAG0-B0.intra.cea.fr ([fe80::14a:97a9:30e1:c867]) by
+ EXCAH-A3.intra.cea.fr ([fe80::60de:a77e:427d:f7e6%10]) with mapi id
+ 14.03.0174.001; Tue, 2 Sep 2014 09:40:57 +0200
+From: TCHITCHEK Nicolas 241696 <nicolas.tchitchek@cea.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: [Emploi][Stage]_Annotation_automatique_de_populations_cell
+ ulaires_dans_des_profils_cytométriques
+Thread-Index: Ac/GgPW7WoEyyRsXQgeO98/Mrzzc9Q=
+Date: Tue, 2 Sep 2014 07:40:57 +0000
+Message-ID: <1DB4E563CEA52D4484787653974833A6017CA8CA@EXDAG0-B0.intra.cea.fr>
+Accept-Language: en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [132.166.88.106]
+x-tm-as-product-ver: SMEX-10.2.0.1135-7.500.1017-20752.007
+x-tm-as-result: No--19.538300-0.000000-31
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Stage] Annotation automatique de populations cellulaires dans des profils cytométriques
+Sujet:
+Développement et implémentation de nouvelles méthodes computationnell
+es pour l'annotation automatique de populations cellulaires dans des profil
+s cytométriques.
+Contexte:
+La cytométrie en flux et la cytométrie de masse sont des techniques per
+mettant de mesurer simultanément des dizaines de marqueurs inter- et intr
+a- cellulaires pour des centaines de milliers de cellules issues d'échant
+illons biologiques (tissus, prélèvements sanguins, .). Ce type de carac
+térisation est très important, en particulier pour améliorer nos conn
+aissances biologiques du système immunitaire dans les interactions hôte
+s-pathogènes ou au cours d'études de vaccinations.
+Le service d'Immuno-Virologie du Commissariat à l'Energie Atomique à Fo
+ntenay-aux-Roses possède plusieurs instruments de cytométrie de flux et
+ de masse. Chaque année, un grand nombre de profils cytométriques sont 
+acquis et analysés dans le contexte de maladies infectieuses et d'étude
+s de vaccinations. Plusieurs logiciels et méthodes d'analyse de données
+ de cytométrie existent et sont utilisés principalement pour (i) prét
+raiter, filtrer et normaliser les échantillons, (ii) organiser les donn
+ées de manière hiérarchique, et (iii) identifier les cellules partage
+ant les mêmes caractéristiques [1-4].
+Cependant, peu de méthodes et d'outils permettent d'annoter les cellules 
+ou les profils cellulaires en fonction des marqueurs exprimés et non expr
+imés (cellules B, T, NK, B activées, .). Le développement de ces mé
+thodes est une nécessité pour améliorer le traitement et l'analyse de
+ données cytométriques.
+Projet:
+L'objectif de ce stage vise à concevoir et implémenter une ou des mét
+hodes pour l'annotation automatique de populations cellulaires au sein de p
+rofils cytométriques.
+Chaque profil cytométrique correspond à un ensemble de mesures de marqu
+eurs cellulaires pour des centaines de milliers de cellules acquises dans u
+n échantillon biologique. Un profil cytométrique est généralement r
+eprésenté par une matrice de valeurs d'expression où les colonnes cor
+respondent aux différents marqueurs mesurés et où chaque ligne corres
+pond aux mesures pour une cellule donnée.
+Il s'agit d'assigner à chaque cellule ou groupe de cellules un label (cel
+lules B, T, NK, inflammatoires et présentatrices d'anigènes par exemple
+), caractérisant ces fonctions biologiques, en fonction des niveaux d'exp
+ression des marqueurs. Plusieurs approches statistiques et probabilistes is
+sues des domaines de la fouille de données ou de l'apprentissage statisti
+que pourront être explorées. En particulier des approches utilisant la 
+théorie des croyances (Dempster-Shafer) [5] permettront de modéliser de
+s connaissances incertaines.
+Dans un premier temps, il faudra modéliser les différents types cellula
+ires à catégoriser, en se basant sur des descriptions explicites des as
+sociations cellules-marqueurs, ou bien en se basant sur des méthodes d'ap
+prentissage automatique. Dans un deuxième temps, il faudra développer l
+a méthode d'annotation des cellules ou des profils cellulaires. Dans l'id
+éal, cette méthode fournira en plus du résultat de classification un 
+indice de confiance (intervalle de confiance, p-value).
+L'objective sera d'implémenter cette méthode dans un " package R ".
+ En fonction de la vitesse de développement et de mise en place, ces outi
+ls seront insérés dans nos schémas d'analyse et dans notre LIMS (Labo
+ratory Information Management System).
+Les travaux issus de ce stage  seront pris en compte pour une publication s
+cientifique. Ces travaux pourront aussi être poursuivis dans le cadre d'u
+ne thèse dans le service d'ImmunoVirologie du CEA, en fonction de la qual
+ité du candidat et des financements disponibles.
+Références:
+1. C. E. Pedreira, E. S. Costa, Q. Lecrevisse, J. J. M. van Dongen, A. Orfa
+o, Trends in Biotechnology 31, 415-425 (2013).
+2. J. W. Tung et al., Clinics in Laboratory Medicine 27, 453-468 (2007).
+3. H. Tang et al., Nature immunology 11, 608-617 (2010).
+4. P. Qiu et al., Nature Biotechnology 29, 886-891 (2011).
+5. 1. G. Shafer, S. C. Shapiro, Ed. International Journal of Approximate Re
+asoning 21, 1-2 (1976).
+Compétences souhaitées:
+Connaissances solides en machine learning,  dataming, et en analyse de donn
+ées.
+Connaissances solides en informatique et en programmation (C++,Java,Python/
+,R,.).
+Modalités du stage:
+Stage d'une durée de 6 mois, début du stage : fin 2014-début 2015.
+Le stage se déroulera dans le Service d'Immuno-Virologie du Commissariat 
+à l'Energie Atomique à Fontenay-aux-Roses.
+Contacts:
+Veuillez faire parvenir un curriculum vitae à : Nicolas Tchitchek nicolas
+.tchitchek@cea.fr

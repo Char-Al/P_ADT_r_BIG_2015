@@ -1,0 +1,80 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Geraldine.Jean@univ-nantes.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 777D726801D
+	for <bioinfo@sfbi.fr>; Fri, 21 Mar 2014 09:52:59 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuIBANH8K1PBNGdvnGdsb2JhbABZg0G7dohdDgEBAQEBCBQJPII4DG9uBGqHZAmdYbF7FwSPA4IYD2eBFASOdoVnhR6FA48q
+X-IronPort-AV: E=Sophos;i="4.97,702,1389740400"; 
+   d="scan'208";a="55747515"
+Received: from smtptls2-lmb.cpub.univ-nantes.fr (HELO smtp-tls.univ-nantes.fr) ([193.52.103.111])
+  by b-mx1.relay.syrhano.net with ESMTP; 21 Mar 2014 09:52:59 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by smtp-tls.univ-nantes.fr (Postfix) with ESMTP id 737D8401716
+	for <bioinfo@sfbi.fr>; Fri, 21 Mar 2014 09:52:57 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at smtptls1-lmb.cpub.univ-nantes.fr
+Received: from smtp-tls.univ-nantes.fr ([127.0.0.1])
+	by localhost (smtptls2-lmb.cpub.univ-nantes.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id SeaRKtBAA6Ls for <bioinfo@sfbi.fr>;
+	Fri, 21 Mar 2014 09:52:57 +0100 (CET)
+Received: from mac-vailly.lina.sciences.univ-nantes.prive (ipcop.lina.sciences.univ-nantes.fr [193.52.105.131])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by smtp-tls.univ-nantes.fr (Postfix) with ESMTPSA id 50A67401715
+	for <bioinfo@sfbi.fr>; Fri, 21 Mar 2014 09:52:57 +0100 (CET)
+From: Geraldine JEAN <Geraldine.Jean@univ-nantes.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <6600D673-2ABB-4373-B291-EF45E403FF2F@univ-nantes.fr>
+Date: Fri, 21 Mar 2014 09:52:57 +0100
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] =?WINDOWS-1252?Q?Séminaire?= biosticker-LINA du mercredi 26/03/2014 =?WINDOWS-1252?Q?à?= 10h30 au LINA
+Bonjour à tous,
+Pour la prochaine édition du séminaire biosticker, nous vous proposons 
+de nous retrouver au LINA à Nantes le mercredi 26 mars 2014 à 10h30 pou
+r écouter Giuseppe Longo (Centre Cavaillès (CIRPHLES), CNRS & Ecole Nor
+male Supérieure, Paris ) invité par Nicolas Tabareau de l'équipe Asco
+la du LINA.
+Date : 26 Mars 2014 à 10h30
+Lieu : Salle 003 - LINA, Nantes
+Orateur local : Nicolas Tabareau
+Orateur invité : Giuseppe Longo
+Titre : Chance and diversity in biology: comparing complexity and functiona
+l organization
+Résumé :
+The dynamic instability of living systems and the =93superposition  of di
+fferent forms of randomness will be viewed as components of the contingentl
+y changing, or even increasing, organization of life through ontogenesis or
+ evolution. To this purpose, we first survey how classical and quantum phys
+ics define randomness differently. We then discuss why this requires, in ou
+r view, an enriched understanding of the effects of their concurrent presen
+ce in biological systems' dynamics. Biological randomness is then present
+ed as an essential component of the heterogeneous determination and intrins
+ic unpredictability proper to life phenomena, due to the nesting and intera
+ction of many levels of organization, but also as a key component of its st
+ructural stability. We will note as well that increasing organization, whil
+e increasing =93order , induces growing disorder, not only by energy disp
+ersal effects, but also by increasing variability and differentiation. Fina
+lly, we discuss a possible difference between biological complexity and org
+anization, which may provide a tool for understanding some aspects of cance
+r.
+Vous pouvez retrouver toutes les informations sur la page du séminaire (h
+ttp://biosticker.univ-nantes.fr/).
+N'hésitez pas à transmettre ce message aux gens qui pourraient être
+ intéressés.
+Nous vous attendons nombreux !
+Bien cordialement,
+--
+Dr. Géraldine Jean, Associate Professor
+Department of Computer Science
+Combinatorics and Bioinformatics group
+LINA - University of Nantes
+2 rue de la Houssinière
+44322 Nantes - France
+phone: +33 2 51 12 58 04
+web: http://gjean.openics.org

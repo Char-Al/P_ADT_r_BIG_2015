@@ -1,0 +1,112 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <michael.blum@imag.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 511EF26801D
+	for <bioinfo@sfbi.fr>; Sat, 13 Dec 2014 17:57:05 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApcAAItujFSBWB4RnGdsb2JhbABZg1hYs00GiQKJOIcfAQEBAQERAQEBAQEGDQkJFC6EHyYBBTAQLg8WBBQDAgECATQDIQYCAQGIKLFYpV+GAIkQEQGFAAWFH4lQAYJQhTGBCzCCLooWgziBZwEKAQEBXYE9bYEMgTcBAQE
+X-IPAS-Result: ApcAAItujFSBWB4RnGdsb2JhbABZg1hYs00GiQKJOIcfAQEBAQERAQEBAQEGDQkJFC6EHyYBBTAQLg8WBBQDAgECATQDIQYCAQGIKLFYpV+GAIkQEQGFAAWFH4lQAYJQhTGBCzCCLooWgziBZwEKAQEBXYE9bYEMgTcBAQE
+X-IronPort-AV: E=Sophos;i="5.07,571,1413237600"; 
+   d="scan'208";a="69852401"
+Received: from mx2.imag.fr (HELO rominette.imag.fr) ([129.88.30.17])
+  by b-mx1.relay.syrhano.net with ESMTP; 13 Dec 2014 17:57:04 +0100
+Received: from globule.imag.fr (globule.imag.fr [129.88.34.238])
+	by rominette.imag.fr (8.13.8/8.13.8) with ESMTP id sBDGv1Rg024504
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO);
+	Sat, 13 Dec 2014 17:57:01 +0100
+Received: from timc-bcm-09p.local ([66.171.172.33])
+	(authenticated bits=0)
+	by globule.imag.fr (8.13.8/8.13.8) with ESMTP id sBDGv2iS020569
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO);
+	Sat, 13 Dec 2014 17:57:03 +0100
+Message-ID: <548C6FDD.1030705@imag.fr>
+Date: Sat, 13 Dec 2014 17:57:01 +0100
+From: mblum <michael.blum@imag.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Thunderbird/31.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.2 (rominette.imag.fr [129.88.30.17]); Sat, 13 Dec 2014 17:57:01 +0100 (CET)
+X-IMAG-MailScanner-Information: Please contact MI2S MIM  for more information
+X-MailScanner-ID: sBDGv1Rg024504
+X-IMAG-MailScanner: Found to be clean
+X-IMAG-MailScanner-SpamCheck: 
+X-IMAG-MailScanner-From: michael.blum@imag.fr
+MailScanner-NULL-Check: 1419094621.90198@5KnUOm6fKu7xX6SQcr8b6A
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] 4 days left to pre-register to the SMBE Satellite meeting "Investigating
+ biological adaptation with NGS: data and models"
+Chers collègues,
+il ne reste plus que quelques jours pour se pré-inscrire au workshop 
+smbeba 2015.
+...Please scroll down for the English version...
+-------------------------------------------------------------------
+Nous sommes heureux de vous annoncer qu'un workshop, parrainé par la
+société de biologie moléculaire et d'évolution (SMBE), intitulé 
+"Investigating biological adaptation with NGS: data and models", aura
+lieu au hameau de l'Etoile, près de Montpellier du 26 au 29 mai 2015.
+*Date limite de pré-inscription : le 17 décembre*
+**Les frais de participation pourront être offerts à *10 thésard(e)s
+et/ou postdocs *
+       Les objectifs de cette réunion et la liste des conférenciers
+invités sont précisés ci-dessous. Vous trouverez les modalités de 
+préinscription sur le site du workshop: http://smbeba2015.imag.fr
+       En espérant vous y voir nombreux.
+       Le comité scientifique et d'organisation
+       Angela Hancock (Univ. Vienne), Michael Blum (Univ. Grenoble), et
+Renaud Vitalis (INRA Montpellier)
+-------------------------------------------------------------------
+       Dear Colleagues,
+We would like to invite you to join us for the SMBE Satellite Meeting
+*Investigating biological adaptation with NGS: data and models*, which
+will be held from May 26-29, 2015 at 'Hameau de l'étoile', a conference
+center outside of Montpellier in the South of France.
+The pre-registration deadline is December 17.
+Selection will be based on abstracts. If you wish to participate in the
+conference, please send an email to smbeba2015@imag.fr with the subject
+line: 'SMBEBA 2015 pre-registration.' Please do not send attached files
+but rather an email containing the title of you presentation, the names
+of the authors, the preferred mode of communication (talk or poster),
+and the abstract.
+10 PhD or postdoc presenters will be provided with free registration. To
+qualify for this, please include a short motivation statement in your email.
+The conference website is available online (http://smbeba2015.imag.fr). 
+The objectives of the meeting and a list of keynote speakers is given below.
+       We hope to see you there.
+       Michael Blum, Angela Hancock, Renaud Vitalis
+-----
+Aim of the meeting
+Next Generation Sequencing (NGS) has been a driving force in the field
+of evolutionary biology, providing opportunities to reveal the genetic
+architecture of adaptive traits in a wide range of organisms. This
+exciting advance in technology has produced considerable impetus to
+develop methods and tools for data analysis and to extend theoretical
+foundations for modelling adaptive events. To produce a detailed
+understanding of adaptive processes, well-designed studies and sample
+collection, evolutionary models of adaptation, and statistical models to
+detect the genomic signatures of biological adaptation are all
+necessary. This workshop brings together evolutionary biologists along
+the empirical to theoretical continuum to exchange ideas and
+perspectives in a relaxed atmosphere.
+-----
+Keynote speakers
+Adaptation in humans
+Lluis Quintana-Murci (Paris, France)
+John Novembre (Chicago, USA)
+Adaptation in plants
+Jeffrey Ross-Ibarra (UC Davies, USA)
+Tanja Slotte (Stockholm, Sweden)
+Footprints of selection in molecular adaptation
+Nicolas Bierne (Montpellier, France)
+Joachim Hermisson (Vienna, Austria)
+Pleuni Pennings (San Fransisco, USA)
+Genome divergence during ecological speciation
+Samuel Flaxman (Boulder, USA)
+Patrik Nosil (Cambridge, UK)
+Felicity Jones (Tuebingen, Germany)
+Statistical approaches to detect biological adaptation
+Olivier François (Grenoble, France)
+Oscar Gaggiotti (St Andrews, Scotland)

@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 6B40E26801D
+	for <bioinfo@sfbi.fr>; Wed, 10 Dec 2014 13:06:31 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnUBAHw2iFSKZqI0nGdsb2JhbABZg1hZgjxIihAFuHOFagKBLwEBAQEBEQEBAQEBCAsJCRQuhBUXEAURMw4IHAImAhIsECSIOA2jD40kj0KBbYYsiXCFWIEmjXsRAW2CWYFHBYElqG0BAQEBBgEBAQEBAYIabYEMgTcBAQE
+X-IPAS-Result: AnUBAHw2iFSKZqI0nGdsb2JhbABZg1hZgjxIihAFuHOFagKBLwEBAQEBEQEBAQEBCAsJCRQuhBUXEAURMw4IHAImAhIsECSIOA2jD40kj0KBbYYsiXCFWIEmjXsRAW2CWYFHBYElqG0BAQEBBgEBAQEBAYIabYEMgTcBAQE
+X-IronPort-AV: E=Sophos;i="5.07,552,1413237600"; 
+   d="scan'208";a="69712948"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 10 Dec 2014 13:06:32 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sBAC6URY014132
+	for <bioinfo@sfbi.fr>; Wed, 10 Dec 2014 13:06:30 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 5C58D296BD2
+	for <bioinfo@sfbi.fr>; Wed, 10 Dec 2014 13:06:30 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1Xyg4b-0001E3-7Q
+	for bioinfo@sfbi.fr; Wed, 10 Dec 2014 13:08:53 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1Xyg4b-0001E3-7Q@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Wed, 10 Dec 2014 13:08:53 +0100
+X-Miltered: at beta with ID 54883746.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54883746.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54883746.001 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.253 -> S=0.343
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] Bioinformaticien devel  oppeur
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformaticien developpeur
+Type de poste : CDD Ingénieur
+Durée du poste : 6 mois
+Ville : Bruxelles
+Nom du contact : Marianne Rooman
+Email du contact : mrooman@ulb.ac.be
+Laboratoire : BioModélisation, BioInformatique & BioProcédés
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/bioinformaticien-developpeur

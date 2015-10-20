@@ -1,0 +1,130 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pedro.ballester@inserm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 56CB626801D
+	for <bioinfo@sfbi.fr>; Wed, 10 Sep 2014 01:56:48 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuUBAHCSD1TDYvwLnGdsb2JhbABPCoNgV4J8hUeve5F0iFIWEAEBAQEBCAsJCRQqhAglDwEFMwEBBQQXBRwCJgJyCA0EiC0JiweNEY80hn+OdYEsjUWDXIFTBZJCgy+HAoFflzFrAQGCTQEBAQ
+X-IPAS-Result: AuUBAHCSD1TDYvwLnGdsb2JhbABPCoNgV4J8hUeve5F0iFIWEAEBAQEBCAsJCRQqhAglDwEFMwEBBQQXBRwCJgJyCA0EiC0JiweNEY80hn+OdYEsjUWDXIFTBZJCgy+HAoFflzFrAQGCTQEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,494,1406584800"; 
+   d="scan'208";a="72590923"
+Received: from smtpi.inserm.fr ([195.98.252.11])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Sep 2014 01:56:47 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtpi.inserm.fr (SrvInserm) with ESMTP id 77357168368
+	for <bioinfo@sfbi.fr>; Wed, 10 Sep 2014 01:56:47 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at inserm.fr
+Received: from smtpi.inserm.fr ([195.98.252.11])
+	by localhost (potentille.inserm.fr [127.0.0.1]) (amavisd-new, port 10033)
+	with ESMTP id eY8fdiorErLl for <bioinfo@sfbi.fr>;
+	Wed, 10 Sep 2014 01:56:47 +0200 (CEST)
+Received: from lavande.inserm.fr (lavande.inserm.fr [192.168.20.4])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by smtpi.inserm.fr (SrvInserm) with ESMTP id 5AE1E168367
+	for <bioinfo@sfbi.fr>; Wed, 10 Sep 2014 01:56:47 +0200 (CEST)
+Received: from zamia1.inserm.fr (zamia1.inserm.fr [192.168.19.93])
+	by lavande.inserm.fr (Postfix) with ESMTP id 44B7D8F74D
+	for <bioinfo@sfbi.fr>; Wed, 10 Sep 2014 01:56:47 +0200 (CEST)
+Received: from webmail.inserm.fr (localhost.localdomain [127.0.0.1])
+	by zamia1.inserm.fr (Postfix) with ESMTP id 377D327D850
+	for <bioinfo@sfbi.fr>; Wed, 10 Sep 2014 01:56:46 +0200 (CEST)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Wed, 10 Sep 2014 00:56:46 +0100
+From: Pedro Ballester <pedro.ballester@inserm.fr>
+To: bioinfo@sfbi.fr
+Reply-To: pedro.ballester@inserm.fr
+Mail-Reply-To: pedro.ballester@inserm.fr
+Message-ID: <2a8283d54b553f966eb82c7dc1bc834a@inserm.fr>
+X-Sender: pedro.ballester@inserm.fr
+User-Agent: Roundcube Webmail/0.9.5
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Chemoinformatics Scientist =?UTF-8?Q?=E2=80=93?= postdoc announcement
+EMPLOYER	                        Cancer Research Center of Marseille 
+(CRCM)
+RESPONSIBLE TO               	        Dr Pedro Ballester
+CONTRACT                        	Full-time postdoctoral for two years in 
+the first instance
+CLOSING DATE                        	Friday 17 October 2014
+Working environment
+The CRCM is the basic science and translational research unit of the 
+comprehensive cancer centre Institut Paoli Calmettes (IPC). Also 
+affiliated to Inserm, CNRS and Aix-Marseille University, the 250 
+researchers working at the CRCM form a strongly multi-disciplinary 
+research environment characterized by frequent and close collaborations 
+with IPC clinicians. The working language of the CRCM is English. More 
+information about the CRCM is available at 
+http://crcm.marseille.inserm.fr/uploads/media/presentation_CRCM_2014.pdf
+Project
+Predicting all the targets of a molecule is a key problem in drug 
+design. This is exacerbated by the resurgence of phenotypic screening 
+and the growing realisation that the polypharmacology of the drug is 
+crucial to understand its efficacy and side-effects. The post holder 
+will carry out methodology research to improve data-driven 
+polypharmacology prediction. The research will include the development 
+of machine learning techniques tailored to this problem and the use of 
+molecular similarity techniques to relate targets by their ligands. The 
+post holder will also have the opportunity to apply the developed 
+methods to drug leads in collaboration with the drug discovery 
+researchers that designed them at the CRCM, including cancer drug 
+candidates that are currently in Phase III clinical trials. An in silico 
+method to predict the side-effects of a drug from its molecular targets 
+will be also investigated as a part of the project.
+Selection criteria - Essential
+•	A PhD degree with a major focus on computational analysis of 
+experimental data, preferably in an area directly relevant to the 
+project.
+•	Working knowledge of open-source chemoinformatics toolkits (e.g. RDKit 
+or OpenBabel) and medicinal chemistry databases (e.g. ChEMBL, Sider and 
+PubChem), including familiarity with common drug targets and chemical 
+structures.
+•	Hands-on experience in the design and implementation of relational 
+databases using MySQL and/or PostgreSQL.
+•	Previous experience implementing scientific resources as a linux-based 
+webserver.
+•	Demonstrated ability to undertake high quality scientific research.
+•	Genuine interest in learning the basics of cancer biology and drug 
+discovery if not already known.
+Selection criteria - Desirable
+•	A track record of publications relevant to this project will be a 
+strong advantage.
+•	Experience in the application of machine learning to solve real-world 
+problems in the context of biomedical research.
+•	Skilled in the implementation of R scripts for scientific data 
+analysis.
+•	Familiarity with molecular similarity techniques (e.g. 2D 
+fingerprints, USR, USRCAT).
+•	Software engineering skills using C++, C and/or python 
+(numPy/SciPy/scikit-learn) including version control tools such as git 
+or mercurial.
+What we offer
+The successful candidate will receive a net monthly salary in the range 
+€1,934–€2,323 depending on experience. The contract will be for two 
+years in the first instance, with the possibility of a further two-year 
+extension. This is an exciting opportunity for a bright and diligent 
+postdoctoral scientist to apply her or his expertise to a crucial 
+problem in drug design for which there is currently a great interest for 
+tools to tackle it. The post holder will also gain translational 
+research experience in multi-disciplinary collaborations using the 
+developed methods to identify currently unknown targets of CRCM drug 
+leads.
+The successful candidate will be strongly supported to apply for a 
+permanent research scientist position (e.g. Inserm CR2 or CNRS CR2) to 
+be initially held within the Ballester team. In terms of quality of 
+life, the CRCM is located in Marseille and thus the post holder will 
+enjoy living in an exciting multi-cultural city right by the French 
+Mediterranean coast.
+How to apply
+Candidates must send a CV including peer-reviewed publications and a 
+covering letter (maximum two pages) to pedro.ballester@inserm.fr with 
+subject “Chemoinformatics position”. This letter will explain how they 
+meet the essential selection criteria, which desirable selection 
+criteria are also met and how this position would fit in their future 
+career plans. They also have to arrange two references from scientists 
+familiar with their research to be sent directly to 
+pedro.ballester@inserm.fr by the closing date.

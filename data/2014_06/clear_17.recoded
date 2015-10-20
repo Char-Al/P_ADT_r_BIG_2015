@@ -1,0 +1,93 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=225c9f138=Emmanuel.Barillot@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id D081226801D
+	for <bioinfo@sfbi.fr>; Wed,  4 Jun 2014 18:30:38 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmMBAFNJj1OBrzsknGdsb2JhbABZg1lYuzuGaIFeFg4BAQEBAQgUCTyCXgEFCAEBERMCEAI7FhgDAgECAUsNCAEBiD4ECasmhXYBBaB9BoJeiGUBaYJCgh4PRIE5mheWc4It
+X-IronPort-AV: E=Sophos;i="4.98,973,1392159600"; 
+   d="scan'208";a="59640356"
+Received: from cip02-in.curie.u-psud.fr ([129.175.59.36])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Jun 2014 18:30:38 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1401899438; x=1433435438;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=W85Q0uTPRFZRgtXfCQqb35N1q+OQPA66cQG3SAfi5qs=;
+  b=INy7JHCI+Ju7VQ8aDgz28CNOE2TijrrBoq8+gwKCTe7TffT/pjyncxLK
+   kqEMoY2mkRkf9YG4J+yeLt2h7OnDog==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqEEAFNJj1MKAgBG/2dsb2JhbABZg1lYwiOBdHSCXgEFGxMCED0WGAMCAQIBSw0IAQGIQgmce7UTF4JeiGUBaYJChCoEmhOTOYM6gi0
+X-IPAS-Result: AqEEAFNJj1MKAgBG/2dsb2JhbABZg1lYwiOBdHSCXgEFGxMCED0WGAMCAQIBSw0IAQGIQgmce7UTF4JeiGUBaYJChCoEmhOTOYM6gi0
+X-IronPort-AV: E=Sophos;i="4.98,973,1392159600"; 
+   d="scan'208";a="4846408"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip02-in.curie.u-psud.fr with ESMTP; 04 Jun 2014 18:30:38 +0200
+Received: from MacBook-Air-de-Emmanuel-M-L-Barillot.local (193.49.205.29) by
+ mail.curie.fr (10.2.0.72) with Microsoft SMTP Server (TLS) id 14.3.174.1;
+ Wed, 4 Jun 2014 18:30:36 +0200
+Message-ID: <538F49AB.9090709@curie.fr>
+Date: Wed, 4 Jun 2014 18:30:35 +0200
+From: Emmanuel Barillot <Emmanuel.Barillot@curie.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="windows-1252"; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [193.49.205.29]
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] BioNetVisA workshop (ECCB 2014): ABSTRACT SUBMISSION DEADLINE: JUNE
+ 6th
+***********************************************************************************************************
+BioNetVisA workshop (ECCB 2014):
+ From biological network reconstruction to data visualization and 
+analysis in molecular biology and medicine.
+***********************************************************************************************************
+ABSTRACT SUBMISSION DEADLINE: JUNE 6th
+The preliminary scientific program is available:
+http://www.eccb14.org/program/workshops/bionetvisa
+https://sysbio.curie.fr/bionetvisa
+* Venue
+The workshop will take place in Strasbourg, France, on September 7th, 
+2014, 9am-5.30pm as part of the European Conference on Computational 
+Biology (ECCB'14).
+http://www.eccb14.org
+* BioNetVisA keynote speakers
+Tom Freeman (University of Edinburgh, Edinburgh, UK)
+Hiroaki Kitano (Systems Biology Institute, Tokyo, Japan)
+Yosef Yarden (The Weizmann Institut of Science, Rehovot, Israel)
+* BioNetVisA confirmed speakers
+Robin Haw (Ontario Institute for Cancer Research, Toronto, Canada)
+Henning Hermjakob (EMBL-European Bioinformatics Institute, Hinxton, UK)
+Nigel Skinner (Agilent, Santa-Clara, CA, USA)
+Inna Kuperstein (Institut Curie, Paris, France)
+Vladimir Kuznetsov (Bioinformatics Institute, Biopolis Singapore)
+Rune Linding (Technical University of Denmark, Lyngby, Denmark)
+* Topics
+Graphical representation of biological knowledge
+Comprehensive signalling networks
+Molecular interaction and pathway databases
+Networks annotation and curation
+High-throughput data visualisation, analysis and interpretation in the 
+context of networksNetwork modelling
+Basic research and clinical application of biological networks
+* Audience
+The workshop is suitable for wide audience as database providers, 
+networks creators, computational and experimental biologists, biotech, 
+clinicians and anyone who is interested to be exposed
+to the different paradigms of network biology and the latest 
+achievements in the field.
+With best regards,
+BioNetVisA organising comitee:
+Inna Kuperstein (Institut Curie, Paris, France)
+Emmanuel Barillot (Institut Curie, Paris, France)
+Andrei Zinovyev (Institut Curie, Paris, France)
+Hiroaki Kitano (Okinawa Institute of Science and Technology Graduate 
+University, RIKEN Center for Integrative Medical Sciences)
+Nicolas Le Novère (Babraham Institute, Cambridge)
+Robin Haw (Ontario Institute for Cancer Research, Toronto)
+Mario Albrecht (University Medicine Greifswald, Greifswald, Germany)
+Benno Schwikowski (Institut Pasteur, France)

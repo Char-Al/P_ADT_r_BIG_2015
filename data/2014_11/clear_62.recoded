@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7F40526801D
+	for <bioinfo@sfbi.fr>; Sat, 22 Nov 2014 22:24:09 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuoOAAn+cFSKZqI0nGdsb2JhbABcg2NZgwaJbYEZAb4WiAIBAQEBAREBAQEBAQgLCQkULoQsEAURMw4kAiYCEiwQJIhBDaczj06Bc4Y9h3yGPYEtjnwRAW2CY4FVBYEvtjUBAQEHAQEBAYInd4EPgTwBAQE
+X-IPAS-Result: AuoOAAn+cFSKZqI0nGdsb2JhbABcg2NZgwaJbYEZAb4WiAIBAQEBAREBAQEBAQgLCQkULoQsEAURMw4kAiYCEiwQJIhBDaczj06Bc4Y9h3yGPYEtjnwRAW2CY4FVBYEvtjUBAQEHAQEBAYInd4EPgTwBAQE
+X-IronPort-AV: E=Sophos;i="5.07,438,1413237600"; 
+   d="scan'208";a="68747883"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 22 Nov 2014 22:24:08 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sAMLO7Ll028958
+	for <bioinfo@sfbi.fr>; Sat, 22 Nov 2014 22:24:07 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 612AE296BA4
+	for <bioinfo@sfbi.fr>; Sat, 22 Nov 2014 22:24:07 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XsICG-0002Pm-0d
+	for bioinfo@sfbi.fr; Sat, 22 Nov 2014 22:26:24 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XsICG-0002Pm-0d@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Sat, 22 Nov 2014 22:26:24 +0100
+X-Miltered: at beta with ID 5470FEF7.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5470FEF7.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5470FEF7.000 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.253 -> S=0.343
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDI autre] =?UTF-8?Q?Ing=C3=A9nieur?= =?UTF-8?Q?D=C3=A9veloppement?= I  nformatique / Bioinformatique
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur Développement Informatique / Bioinformatique
+Type de poste : CDI autre
+Durée du poste : indéterminée
+Ville : LABEGE
+Nom du contact : Fabien CROZET
+Email du contact : fcrozet@sycomore-tech.com
+Laboratoire : SYCOMORE TECHNOLOGIES
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9veloppement-informatique-bioinformatique

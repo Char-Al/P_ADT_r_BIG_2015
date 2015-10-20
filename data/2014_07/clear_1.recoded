@@ -1,0 +1,59 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 6959E26801D; Tue,  1 Jul 2014 10:51:32 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: Duroux <patrice.duroux@igh.cnrs.fr>
+Message-ID: <sympa.1404204403.7114.847@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue,  1 Jul 2014 10:51:32 +0200 (CEST)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] ECCB'14 Tutorial T03 "IMGT, the Global Reference in Immunogenetics and Immunoinformatics"
+ECCB'14  Tutorial T03
+T03 - IMGT, the Global Reference in Immunogenetics and Immunoinformatics
+Date:Sunday September 7, 2014 (9h-13h)
+Venue:Palais de la Musique et des Congrès, Place de Bordeaux, 67082
+Strasbourg
+Short description:
+IMGT®, the international ImMunoGeneTics information system®
+(http://www.imgt.org) was created in 1989 by the Laboratoire
+d'ImmunoGénétique Moléculaire (LIGM) of the Professors Marie-Paule
+Lefranc and Gérard Lefranc (University Montpellier 2 and CNRS) at
+Montpellier, France. IMGT® is the global reference in immunogenetics and
+immunoinformatics and is the first and, up to now, the only integrated
+information system in immunogenetics and immunoinformatics.
+The aim of the tutorial is to familiarise biologists, bioinformaticians
+and computer scientists involved in immunogenetics and immunoinformatics
+research projects with the IMGT unique approach which bridges the gap
+from genes to 3D structures for immunoglobulin and T cell receptor
+repertoire analysis from fishes to humans, and for antibody engineering
+and humanization.
+This tutorial will start with an overview of the IMGT® system built on
+the IMGT-ONTOLOGY axioms and concepts, and of its major databases. The
+main topics will be presented from sequences to structures and
+exemplified with IMGT/V-QUEST and IMGT/JunctionAnalysis for the analysis
+of nucleotide sequences and the high-throughput version IMGT/HighV-QUEST
+for next generation sequencing (NGS), IMGT/DomainGapAlign for amino acid
+sequences, IMGT/3Dstructure-DB for 3D structures, contact analysis and
+paratope/epitope interactions, and the IMGT/mAb-DB interface with access
+to therapeutical antibodies data.
+Name of the chairs:Véronique Giudicelli & Patrice Duroux
+Contacte-mail:Marie-Paule.Lefranc@igh.cnrs.fr
+Note:bring your on laptop
+Intended audience and possible prerequisites:
+Biologists, bioinformaticians and computer scientists involved in
+immunogenetics and immunoinformatics of
+    the adaptive immune response or in antibody engineering and 
+humanization.
+Presenters:
+Marie-Paule Lefranc, IMGT founder and director, CNRS, Université
+Montpellier 2
+Véronique Giudicelli, PhD, IMGT Bioinformatics manager, CNRS, Université
+Montpellier 2
+Patrice Duroux, PhD, IMGT Informatics manager, CNRS
+Souphatta Sasorith, PhD, IMGT Postdoc, CNRS, Université Montpellier 2

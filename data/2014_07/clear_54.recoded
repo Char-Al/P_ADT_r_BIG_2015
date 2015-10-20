@@ -1,0 +1,62 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <vincent.miele@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 844A426801D
+	for <bioinfo@sfbi.fr>; Thu, 17 Jul 2014 10:52:51 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkgBAEOOx1OG1rySnGdsb2JhbABZg2BXjgy1LIhKFg8BAQEBAQgLCQkUKYQWJgEFfRYYAwIBAgFYBgIBAYg+DaIlliOQS49ohC0FnGmFSJBeag
+X-IronPort-AV: E=Sophos;i="5.01,676,1400018400"; 
+   d="scan'208";a="70297951"
+Received: from cisrsmtp.univ-lyon1.fr ([134.214.188.146])
+  by a-mx1.relay.syrhano.net with ESMTP; 17 Jul 2014 10:52:51 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 76D78E01B8
+	for <bioinfo@sfbi.fr>; Thu, 17 Jul 2014 10:52:50 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp.univ-lyon1.fr
+Received: from cisrsmtp.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8qH7PmpoTIPm for <bioinfo@sfbi.fr>;
+	Thu, 17 Jul 2014 10:52:46 +0200 (CEST)
+Received: from [134.214.33.29] (auvergne.univ-lyon1.fr [134.214.33.29])
+	by cisrsmtp.univ-lyon1.fr (Postfix) with ESMTP id 66D03E01B3
+	for <bioinfo@sfbi.fr>; Thu, 17 Jul 2014 10:52:46 +0200 (CEST)
+Message-ID: <53C78EDE.9060802@univ-lyon1.fr>
+Date: Thu, 17 Jul 2014 10:52:46 +0200
+From: Vincent Miele <vincent.miele@univ-lyon1.fr>
+Reply-To: vincent.miele@univ-lyon1.fr
+Organization: CNRS
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Journée Julia ?
+Bonjour,
+Ci-dessous un message du groupe Calcul qui s'interroge sur l'opportunité 
+d'organiser une journée sur le langage Julia (Julia se positionne comme 
+une alternative à R)....
+http://julialang.org/
+http://juliacon.org/
+En espérant susciter votre intérêt.
+-------- Message original --------
+Nous (= le Groupe calcul) envisageons d'organiser une journée sur le
+langage Julia, probablement en Janvier 2015.
+J'aimerais au préalable faire un sondage quant à l'intérêt
+  porté cette journée. Pourriez-vous m'indiquer:
+-si vous êtes intéressé(e) éventuellement par cette journée,
+-si vous pratiquez ce langage
+-si avez vous des idées d'intervenant.
+Évidemment, si ça ne vous intéresse pas, merci de ne pas répondre
+Merci de  répondre à : tdumont@math.univ-lyon1.fr
+-- 
+Vincent Miele - CNRS
+Laboratoire Biometrie et Biologie Evolutive
+UCB Lyon 1  - Bât. Grégor Mendel
+43 bd du 11 novembre 1918
+69622 Villeurbanne, FRANCE
+tel : +33 (0)4 72 44 85 44   fax : +33 (0)4 72 43 13 88
+http://lbbe.univ-lyon1.fr/-Miele-Vincent-.html
+http://lyoncalcul.univ-lyon1.fr

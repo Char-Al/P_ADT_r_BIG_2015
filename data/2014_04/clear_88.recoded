@@ -1,0 +1,180 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <annerezo@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 4C44C26801D
+	for <bioinfo@sfbi.fr>; Fri, 25 Apr 2014 12:58:17 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkIFANI+WlPRVcCulGdsb2JhbABZg1VXghxJwTQEgQoIFg4BAQEBBwsLCRIqgjgXHQEsAwEJAw0FAw0PAiYCJBIBBQERJBmIFAMRDYpqjHyDD4wQg16YTScNhn0BBQyBHYE0jnKBSgSFOpNLgTiPMxgpgWmCejuBLiQ
+X-IronPort-AV: E=Sophos;i="4.97,926,1389740400"; 
+   d="scan'208";a="65825600"
+Received: from mail-pd0-f174.google.com ([209.85.192.174])
+  by a-mx1.relay.syrhano.net with ESMTP; 25 Apr 2014 12:58:16 +0200
+Received: by mail-pd0-f174.google.com with SMTP id z10so2208618pdj.5
+        for <bioinfo@sfbi.fr>; Fri, 25 Apr 2014 03:58:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=RZqGlyrXsCdNOcRyW/YTiT7w2n+sSJ5bVGgddKXfWbY=;
+        b=BtacjsO7DnkIRVVXlzRwbpOAho4lXpvtCosubOHshxmUCSF19hWubGx3AsB9wC3syJ
+         /sShxsJ0h6cQwCerHKRFons5eEYPTJBY5Skdy7EsrdzZuYGw3xotE5G+lu7LYiYgQtRa
+         ClyZ403j9VfDZiq9WgmYBLt+K71KWwMNtL6h5MKl4K6S2CP9RtW2G3h39CtBJhgg0P9X
+         ljkc0kGL919R/hSglf716lBc6M/q7w3otin8GubAea6OP5TaaQrPLV++9tvmiXQfRoQY
+         yEi39prZzGXimtRIgw7Zu3gaOvzB684DlwIiT1AjZcASgHTZnYuvN9cPogRBESWEpV/k
+         BIRQ=
+MIME-Version: 1.0
+X-Received: by 10.66.164.135 with SMTP id yq7mr7043128pab.126.1398423494400;
+ Fri, 25 Apr 2014 03:58:14 -0700 (PDT)
+Sender: annerezo@gmail.com
+Received: by 10.70.135.101 with HTTP; Fri, 25 Apr 2014 03:58:14 -0700 (PDT)
+Date: Fri, 25 Apr 2014 12:58:14 +0200
+X-Google-Sender-Auth: 3O7Li8htRFRbOdb-tfS8kjd3DhE
+Message-ID: <CAA7cQ7sFm-D=JtKwe8J8tOyO8g5edA17b8ps0Xev54+Ceg6U1Q@mail.gmail.com>
+From: Anne Poupon <anne@rezo.net>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Thèse/PhD] Financement de thèse/PhD funding
+Contact
+Anne Poupon
+Biology and Bioinformatics of Signaling Systems
+Physiologie de la Reproduction et des comportements
+INRA Tours
+http://bios.tours.inra.fr
+Anne.Poupon@tours.inra.fr
+Développement d'une méthode de maturation in silico dâ
+=80=99anticorps
+L'utilisation d'anticorps comme agents thérapeutiques 
+est actuellement
+l'une des pistes les plus prometteuses pour le développement de
+nouveaux traitements dans des maladies très variées. Les réc
+epteurs
+couplés aux protéines G (GPCR) sont impliqués dans la grande
+ majorité
+des processus physiologiques et pathologiques et sont souvent très
+spécifiques du type cellulaire dans lequel ils sont exprimés. A ce
+titre ils sont la cible de près de 40% des médicaments actuelleme
+nt
+sur le marché. Ainsi le développement d'anticorps ciblant
+ des GPCR
+devrait permettre d'aller vers des stratégies thérapeutiq
+ues
+innovantes. Dans un tel processus, la maturation d'anticorps est une
+étape nécessaire pour le développement d'un biom=C3
+=A9dicament quand les
+anticorps obtenus après immunisation ont une affinité insuffisante
+pour leur cible. Actuellement cette maturation se fait par mutagenèse
+aléatoire, et ce processus est long, co=C3"teux et parfois incertain.
+Depuis plusieurs années nous développons une méthode tr=C3
+=A8s performante
+d'amarrage protéine-protéine, basée sur la repr=C3
+=A9sentation des
+structures de protéines par des tessellations de Voronoï, et util
+isant
+des algorithmes d'optimisation numérique pour l'appren
+tissage d'une
+fonction de score à partir d'un ensemble de complexes prot=C3
+=A9iques de
+structure tridimensionnelle connue. Cette méthode permet de prédi
+re, à
+partir des structures tridimensionnelles de deux protéines, la
+structure de l'assemblage, et, dans le cas des complexes antig=C3
+=A8ne/
+anticorps, les épitopes. Ceci a été démontré non s
+eulement sur des
+bases de données, mais également sur des exemples concrets, pour
+lesquels la validation expérimentale a été réalisé
+e. Sur cette base,
+nous avons initié le développement d'une méthode per
+mettant de prédire
+l'affinité entre deux protéines.
+Le premier objectif de la thèse sera de poursuivre ces développem
+ents.
+Il s'agira d'évaluer et de compléter l'en
+semble des algorithmes
+utilisés pour l'apprentissage, ainsi que d'élabor
+er une stratégie
+permettant, à partir des structures des deux partenaires utilisés,
+d'évaluer de manière automatique et systématique l
+'affinité de
+mutants. Cette méthode sera dans un premier temps validée sur des
+complexes pour lesquels l'affinité a été déterm
+inée expérimentalement.
+Nous utiliserons pour cela la banque de données généraliste 
+SKEMPI
+(http://life.bsc.es/pid/mutation_database/).
+Dans un deuxième temps cette méthode sera appliquée, dans le
+ cadre
+plus restreint des complexes anticorps-antigènes, à la maturation
+ in
+silico d'anticorps (Ac) qui seront développés dans les pr
+ojets
+MODUPHAC et GPCRAb (contre des GPCR) et ARTE-2 (anticorps
+anti-gonadotropines). Il s'agira, à partir d'un antico
+rps d'affinité
+modérée, de générer in silico des Ac comportant des mut
+ations, en
+particulier dans les parties variables (CDR), puis de prédire leur
+affinité pour leur antigène (Ag). Les séquences prédite
+s comme ayant
+une meilleure affinité pour l'Ag seront produites et caract=C3
+=A9risées
+expérimentalement, y compris l'activité agoniste ou antag
+oniste.
+Compétences souhaitées
+Pour cette thèse nous recherchons des candidats ayant des
+connaissances en informatique (Linux, C/C++, Perl, méthodes
+d'apprentissage) et des connaissances en biologie (en particulier
+structure des protéines).
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-----------------------------------------------
+Design of a method for in silico maturation of antibodies
+Using antibodies as therapeutic agents is one of the most promising
+leads for the development of new drugs in a wide variety of diseases.
+G-protein coupled receptors (GPCR) are playing key-roles in virtually
+all physiologic and pathologic processes, and are often specific to
+the cellular type they are expressed in. As such they are targeted by
+about 40% of marketed drugs. The development of antibodies targeting
+GPCRs should consequently lead to innovative therapeutic strategies.
+In such a process, antibody maturation is a necessary step leading to
+the development of a new drug if the antibodies obtained after
+immunization have insufficient affinity for their target. At present,
+this maturation is done using random mutagenesis, a time-consuming and
+costly process, which outcome is uncertain.
+During the last years we have been developing a powerful
+protein-protein docking method, based on a representation of protein
+structure using Voronoi tessellation and numerical optimisation
+methods allowing to learn scoring functions from a learning set of
+complexes with known 3D structure. This method allows to predict, from
+the structures of two proteins, the interaction regions (epitope and
+paratope in the particular case of antibody/antigen complexes) and the
+geometry of the complex. The accuracy of this method has been
+validated not only on databases, but also experimentally on complexes
+recently discovered. Based on this method, we have initiated the
+development of a method allowing the prediction of the affinity of the
+complex.
+The first objective will be to pursue these developments. Algorithms
+used for learning docking scoring functions and affinity prediction
+will be evaluated and enriched if necessary. A strategy will then be
+defined for the automated evaluation of the affinity of mutants. This
+method will first be validated on a benchmark of mutants which
+affinity for their partner have been experimentally determined (SKEMPI
+http://life.bsc.es/pid/mutation_database/).
+This method will then be used to improve the affinity of antibodies
+for their targets within different projects our group is involved in:
+MODUPHAC and GPCRAb (antibodies against GPCRs) and ARTE-2 (antibodies
+against gonadotropins). In these projects, we expect to select
+antibodies with medium affinities. The maturation method will be used
+to generate in silico mutants of the antibodies (Ab), especially with
+the variable regions (CDR) and predict their affinity. The mutants
+predicted to have the best affinities will be produced and
+characterized experimentally, including their agonist or antagonist
+activity.
+Skills
+We are looking for candidates with good skills in computer sciences
+(Linux, C/C++, Perl, machine learning) and knowledge in biology
+(especially structural biology)

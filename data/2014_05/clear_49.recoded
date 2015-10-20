@@ -1,0 +1,133 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <r.allmendinger@ucl.ac.uk>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 21D3226801D
+	for <bioinfo@sfbi.fr>; Tue, 20 May 2014 13:20:18 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmQEALg5e1PVx5oPlGdsb2JhbAA/GhaBVgIBgWhYvFWGalGBLw4BAQEBBwsLCRIqgiw6LAIDAh4BPkInBBOIRAEJNp4njioBAYN0nACFWBeNbAoEAwECUII5D0QkgRUEmWCNKIdtgUBtgQEJFyI
+X-IronPort-AV: E=Sophos;i="4.98,873,1392159600"; 
+   d="scan'208";a="67088684"
+Received: from mail-am1lp0015.outbound.protection.outlook.com (HELO emea01-am1-obe.outbound.protection.outlook.com) ([213.199.154.15])
+  by a-mx1.relay.syrhano.net with ESMTP; 20 May 2014 13:20:17 +0200
+Received: from DB3PR01MB0668.eurprd01.prod.exchangelabs.com (25.160.50.140) by
+ DB3PR01MB0667.eurprd01.prod.exchangelabs.com (25.160.50.14) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11; Tue, 20 May 2014 11:20:15 +0000
+Received: from DB3PR01MB0668.eurprd01.prod.exchangelabs.com ([25.160.50.140])
+ by DB3PR01MB0668.eurprd01.prod.exchangelabs.com ([25.160.50.140]) with mapi
+ id 15.00.0944.000; Tue, 20 May 2014 11:20:15 +0000
+From: "Allmendinger, Richard" <r.allmendinger@ucl.ac.uk>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Second CfP: IEEE SSCI Special Session on Optimization Methods
+ in Bioinformatics and Bioengineering
+Thread-Index: AQHPdB14H1G4xZ6RwESMxtoOsCWsqg=
+Date: Tue, 20 May 2014 11:20:14 +0000
+Message-ID: <8B5AE628-5C9C-4CF4-8812-528DAC71FC1B@live.ucl.ac.uk>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [94.173.119.202]
+x-ucllive-sclrule: HASRUN
+x-forefront-prvs: 02176E2458
+x-forefront-antispam-report: SFV:NSPM;SFS:(6009001)(428001)(199002)(189002)(79102001)(50986999)(20776003)(99396002)(83322001)(92566001)(31966008)(74662001)(46102001)(81542001)(80022001)(33656001)(74482001)(74502001)(54356999)(64706001)(16799955002)(19580405001)(76482001)(15202345003)(77982001)(85852003)(83072002)(81342001)(101416001)(15188155005)(92726001)(21056001)(19580395003)(87936001)(83716003)(82746002)(4396001)(15975445006)(86362001)(66066001)(2656002)(217873001);DIR:OUT;SFP:;SCL:1;SRVR:DB3PR01MB0667;H:DB3PR01MB0668.eurprd01.prod.exchangelabs.com;FPR:;MLV:sfv;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+received-spf: None (: ucl.ac.uk does not designate permitted sender hosts)
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=r.allmendinger@ucl.ac.uk; 
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <018957B0A85F884A948A70FC40572BD2@eurprd01.prod.exchangelabs.com>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-OriginatorOrg: ucl.ac.uk
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Second CfP: IEEE SSCI Special Session on Optimization Methods in
+ Bioinformatics and Bioengineering
+[We apologize if you receive multiple copies of this email]
+Special Session on Optimization Methods in Bioinformatics and Bioengineerin
+g (OMBB)
+2014 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2014)
+December 9-12, 2014, Orlando, Florida, USA
+http://www.ucl.ac.uk/~ucberal/SS-OMBB-IEEE_SSCI_2014.html
+Submission deadline: 15 June 2014
+Submission site: http://ieee-cis.org/conferences/ssci2014/upload.php
+Aim and Scope
+Bioinformatics and Bioengineering (BB) are interdisciplinary scientific fie
+lds involving many branches of computer science, engineering, mathematics, 
+and statistics. Bioinformatics is concerned with the development and applic
+ation of computational methods for the modelling, retrieving and analysis o
+f biological data, whilst Bioengineering is the application of engineering 
+techniques to biology so as to create usable and economically viable produc
+ts.
+Bioinformatics and Bioengineering are relatively new fields in which Chilen
+ges and issues can often be formulated as optimization problems subject to 
+multiple conflicting objectives. Such multiobjective optimization problems 
+span from traditional problems, such as the optimization of biochemical pro
+cesses, protein structure alignment and prediction, to more modern problems
+, such as directed evolution, drug design, experimental design, and optimiz
+ation of manufacturing processes, material and equipment.
+The main aim of this special session, which is organized within the SSCI-MC
+DM'14 Symposium, is to bring together both experts and new-comers working o
+n Optimization Methods in Bioinformatics and Bioengineering (OMBB) to discu
+ss new and exciting issues in this area.
+Topics of Interest
+We encourage submission of papers describing new concepts, strategies and c
+hallenges in the area of Bioinformatics and Bioengineering (BB). In additio
+n, we are interested in application papers discussing the power and applica
+bility of these novel methods to real-world problems in BB. You are invited
+ to submit papers that are unpublished original work for this special sessi
+on at SSCI-MCDM'14.
+The topics are, but not limited to, the following
+* Optimization methods for BB problems
+* Novel optimization problems in BB
+* Emerging non-standard problem challenges in BB problems (e.g. missing obj
+ective values, resourcing issues, dynamic changes, many objectives, large-s
+cale, mixed-typed variables, etc.)
+* Closed-loop optimization in BB
+* Interactive multiobjective optimization in BB
+* Predictive fitness landscape design for BB problems
+* Integrating user preferences into multiobjective optimization of BB probl
+ems
+* Handling practicalities in BB problems, such as uncertainty, noise, const
+raints, fixed budget of evaluations, high computational costs, etc.
+* Robustness in the optimization of BB problems
+* Visualization techniques for complex BB problems
+* Adaptation, learning, and anticipation in BB problems
+Submission Instructions
+We welcome original contributions describing ongoing projects or completed 
+work.
+The instructions for authors, and LaTeX and Word templates can be found at
+http://www.ieee-ssci.org/submission.html
+Key Dates
+Paper Submissions due: 15 June 2014
+Notification of Acceptance: 5 September 2014
+Camera-Ready Papers due: 5 October 2014
+Organizers
+Richard Allmendinger, University College London, UK
+Anna Lavygina, Imperial College London, UK
+Sanaz Mostaghim, Otto von Guericke University of Magdeburg, Germany
+Program Committee
+Allmendinger Richard, University College London, UK
+Ashlock Daniel, University of Guelph, Canada
+Blum Christian, University of the Basque Country, Spain
+Branke Juergen, University of Warwick, UK
+Chandra Arjun, University of Oslo, Norway
+Deb Kalyanmoy, Michigan State University, USA
+Divina Federico, Pablo de Olavide University, Spain
+Emmerich Michael, Leiden University, Netherlands
+Farid Suzanne, University College London, UK
+Handl Julia, University of Manchester, UK
+Hubbuch Juergen, Karlsruhe Institute of Technology, Germany
+Knowles Joshua, University of Manchester, UK
+Langdon Bill, University College London, UK
+Lavygina Anna, Imperial College London, UK
+Li Xiaodong, RMIT University, Australia
+Lozano Jose, University of the Basque Country UPV/EHU, Spain
+Mendes Pedro, University of Manchester, UK
+Mostaghim Sanaz,Otto von Guericke University of Magdeburg, Germany
+Papageorgiou Lazaros, University College London, UK
+Rombo Simona, University of Palermo, Italy
+Shukla Pradyumn Kumar, Karlsruhe Institute of Technology, Germany
+Contact
+For further information please contact Richard Allmendinger (r.allmendinger
+@ucl.ac.uk)

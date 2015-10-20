@@ -1,0 +1,27 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 50E2926801D; Tue, 25 Mar 2014 13:04:04 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: celine.scornavacca@univ-montp2.fr
+Message-ID: <sympa.1395748779.23745.542@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Tue, 25 Mar 2014 13:04:04 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] PhD fellowship at the ISEM/CRBM, Montpellier
+A 3-year PhD fellowship is available from October 1st 2014 in Montpellier (France) to study the molecular mechanisms underlying morphological stasis during evolution.
+The question: Evolutionary biology studies mostly focus on the mechanisms driving innovation and adaptation. Morphological features can however remain stable over surprisingly long periods of time, and in spite of extensive genome sequence alterations. Very little is known about the determinants of this morphological robustness to genomic changes, which may involve a careful balance between external selection and internal developmental constraints. It is also not known how morphological stasis can be broken to give rise to new life forms. We are studying this phenomenon using two groups of tunicates (chordates) as models. Ascidian embryos have shown exceptional morphological stability since the Cambrian, over 500 million years ago, despite extreme genome sequence divergence. By contrast, the embryos of thaliaceans, which cause ascidians to be paraphyletic, have undergone a radical morphological change from their ascidian-like ancestors, associated to an ecological transition from sessility to pelagy.
+The project: The aim of the PhD project will be to identify molecular mechanisms underlying ascidian morphological stasis and thaliacean divergence. Morphological evolution is thought to be mostly driven by coding or non-coding changes in the transcriptional gene regulatory networks underlying embryonic development. To shed light on the evolution of such networks, you will use extensive genomic and transcriptomic ascidian and thaliacean datasets to explore the evolutionary forces that shape regulatory proteins and the cis-regulatory sequences driving their expression. The project will mostly involve advanced computational and statistical analysis of existing, unpublished, sequencing data. You will be involved in the precise definition of the project.
+Qualifications: An MSc degree in a relevant field is mandatory. Ideal candidates will be strongly driven for a research career with thorough education and strong interest in evolutionary biology, population genetics and genomics, and potentially developmental biology. Programming skills are expected. Some experience in genomics would be a plus but is not mandatory. Proficiency in English or French is needed.
+Conditions: The PhD training comprises three years of full time research. The successful candidate will be jointly affiliated to the complementary research teams of Emmanuel Douzery (Institute for Evolutionary Biology of Montpellier, ISEM) and Patrick Lemaire (Center for Research in Macromolecular biochemistry, CRBM, Montpellier). The student will be mostly based at ISEM.
+Application: The application should include 1) a one-page description of your education, research interests and motivation for PhD studies, 2) a CV with grades or ranks,  3) Contact information (name, address, email address, and phone number) for at least two referees. The application can be written in English or French and should be sent by e-mail to Emmanuel Douzery (emmanuel.douzery@univ-montp2.fr) and Patrick Lemaire (patrick.lemaire@crbm.cnrs.fr). Applications are open from March 1st 2014 and will remain open until the position is filled.
+Suggested readings:
+Lemaire P.  Evolutionary crossroads in developmental biology: the tunicates, Development, 138(11):2143-52.(2011)
+Tsagkogeorga, G., Turon, X., Galtier, N., Douzery, E. & Delsuc, F. Accelerated evolutionary rate of housekeeping genes in tunicates. Journal of molecular evolution 71, 153 - 67 (2010).
+Sella, G., Petrov, D., Przeworski, M. & Andolfatto, P. Pervasive natural selection in the Drosophila genome? PLoS genetics 5, e1000495 (2009).
+Garfield, D., Haygood, R., Nielsen, W. & Wray, G. Population genetics of cis-regulatory sequences that operate during embryonic development in the sea urchin Strongylocentrotus purpuratus. Evolution & development 14, 152 - 67 (2012).

@@ -1,0 +1,50 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <michael.blum@imag.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 81F8B26801D
+	for <bioinfo@sfbi.fr>; Thu, 13 Nov 2014 11:16:50 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlADAMCDZFSBWB4RnGdsb2JhbABbg2JZuTmTLYkIAQEBAQERAQEBAQEGDQkJFC6EOwEFQD0WBBQDAgECAVgIAQGIPalXpiCGOocMg2uENQWTRwGDRYckgXGWPQEKAQEBOyaBR2yCSwEBAQ
+X-IPAS-Result: AlADAMCDZFSBWB4RnGdsb2JhbABbg2JZuTmTLYkIAQEBAQERAQEBAQEGDQkJFC6EOwEFQD0WBBQDAgECAVgIAQGIPalXpiCGOocMg2uENQWTRwGDRYckgXGWPQEKAQEBOyaBR2yCSwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,376,1413237600"; 
+   d="scan'208";a="76735738"
+Received: from mx2.imag.fr (HELO rominette.imag.fr) ([129.88.30.17])
+  by a-mx1.relay.syrhano.net with ESMTP; 13 Nov 2014 11:16:49 +0100
+Received: from globule.imag.fr (globule.imag.fr [129.88.34.238])
+	by rominette.imag.fr (8.13.8/8.13.8) with ESMTP id sADAGkZ7025552
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO);
+	Thu, 13 Nov 2014 11:16:46 +0100
+Received: from timc-bcm-09p.imag.fr (timc-bcm-09p.imag.fr [152.77.240.216])
+	(authenticated bits=0)
+	by globule.imag.fr (8.13.8/8.13.8) with ESMTP id sADAGls0025756
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO);
+	Thu, 13 Nov 2014 11:16:47 +0100
+Message-ID: <54648511.6010104@imag.fr>
+Date: Thu, 13 Nov 2014 11:16:49 +0100
+From: mblum <michael.blum@imag.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.2 (rominette.imag.fr [129.88.30.17]); Thu, 13 Nov 2014 11:16:46 +0100 (CET)
+X-IMAG-MailScanner-Information: Please contact MI2S MIM  for more information
+X-MailScanner-ID: sADAGkZ7025552
+X-IMAG-MailScanner: Found to be clean
+X-IMAG-MailScanner-SpamCheck: 
+X-IMAG-MailScanner-From: michael.blum@imag.fr
+MailScanner-NULL-Check: 1416478607.91633@3o5U345RAKU/gkKnsxL6Wg
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] SMBEBA 2015: SMBE Satellite meeting "Investigating biological adaptation with NGS: data and models", May 26-29 2015, Hameau de l'=?WINDOWS-1252?Q?étoile?
+Dear colleagues,
+It is my pleasure to announce that a satellite meeting of the society 
+for molecular biology and evolution (SMBE) is going to take place at the 
+Hameau de l'étoile, which is a village close to Montpellier.
+More details about the meeting are available online: 
+http://smbeba2015.imag.fr
+The deadline for pre-registration is December 17, 2014.
+The scientific organizing committee
+Angela Hancock (Univ. Vienna), Michael Blum (Univ. Grenoble), and Renaud 
+Vitalis (INRA Montpellier)

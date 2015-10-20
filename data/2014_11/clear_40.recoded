@@ -1,0 +1,40 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id D50CC26801D; Mon, 17 Nov 2014 16:57:26 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: laura.temime@cnam.fr
+Message-ID: <sympa.1416239798.19441.919@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Mon, 17 Nov 2014 16:57:26 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] offre de stage - =?ISO-8859-1?Q?mod=E9lisation?= en =?ISO-8859-1?Q?=E9pid=E9miologie?=
+SUJET : Modélisation de la transmission de la gastro-entérite en EHPAD : Impact des pratiques d'hygiène de mains
+CONTEXTE / OBJET du STAGE
+Chez les personnes âgées, le risque infectieux est 3 à 5 fois plus élevé que chez l'adulte jeune. Dans les maisons de retraite médicalisées (EHPAD), la maîtrise des infections est donc une réelle préoccupation de santé publique, rendue d'autant plus complexe par la vie en collectivité et les moyens humains qui y sont plus limités qu'à l'hôpital. Les conséquences d'une épidémie en EHPAD peuvent être très importantes, tant sur le plan sanitaire (hospitalisations, décès) qu'économique.
+Pour prévenir ces infections, l'hygiène de mains du personnel comme des résidents et des visiteurs joue un rôle privilégié. Cependant, l'adhérence aux recommandations d'hygiène des mains dans les maisons de retraite reste faible et son potentiel exact pour contrôler le risque infectieux mal compris. Dans ce contexte, le laboratoire « Modélisation, Epidémiologie et Surveillance des Risques Sanitaires » (MESuRS) du Cnam a mis en place depuis avril 2014, en collaboration avec le groupe d'EHPAD Korian, une étude épidémiologique (essai randomisé) afin d'évaluer l'impact de l'hygiène de mains sur la survenue d'épidémies de gastro-entérites aigües (GEA) et d'infections respiratoires aigües en EHPAD. 
+L'objectif du stage est de développer, à partir des données recueillies dans le cadre de cette étude, un modèle mathématique permettant de mieux comprendre la dynamique des épidémies de GEA en EHPAD et d'évaluer différentes stratégies de contrôle.
+DESCRIPTIF du STAGE
+Dans un premier temps, il s'agira de proposer un modèle de la transmission du norovirus (principale cause de GEA chez les personnes âgées) au sein d'un EHPAD, et de développer un programme informatique permettant de le simuler. Ce modèle sera de nature « compartimentale stochastique », répartissant les individus concernés (résidents et personnel) en différents compartiments en fonction de leur statut (non infectés, infectés, immunisés...), et décrivant les flux entre ces compartiments par des probabilités de transition.    
+Le modèle sera alimenté à l'aide des données recueillies dans le cadre de l'étude épidémiologique en cours depuis avril 2014 : effectifs (résidents et personnel, par catégorie), distribution d'âge et de niveau de dépendance chez les résidents, taux d'hospitalisations et de décès... En particulier, le paramétrage s'appuiera sur des audits des pratiques d'hygiène de mains qui ont été réalisés par un observateur extérieur et permettent d'évaluer le nombre de contacts à risque entre résidents et personnel par unité de temps, en fonction du type de personnel.
+Dans un deuxième temps, les prédictions du modèle seront validées à partir d'une comparaison avant/après  intervention des données sur les épidémies de GEA et sur l'adhérence à l'hygiène de mains recueillies au sein de l'étude.
+Enfin, dans un troisième temps, le modèle sera utilisé pour explorer différentes stratégies de contrôle des épidémies de GEA en EHPAD. On pourra par exemple répondre aux questions suivantes :
+-	Quel niveau minimal d'adhérence aux recommandations d'hygiène de mains est requis pour contrôler les épidémies de GEA ?
+-	Quel est l'impact relatif des pratiques d'hygiène de mains des différentes catégories de personnel, des résidents, et des visiteurs ?
+FORMATION / COMPÉTENCES RECHERCHEES
+- Niveau Master 2 ou fin d'études école d'ingénieurs en biomathématique ou bioinformatique
+- Compétences en mathématiques (modélisation) et en informatique (programmation, simulations)
+- Goût pour les applications dans le domaine de la santé
+- Bon niveau d'anglais
+DURÉE
+5 à 6 mois, à partir de février à avril 2015.
+ENCADREMENT, MODALITES PRATIQUES
+Le stage se déroulera au sein au sein du laboratoire « Modélisation, Epidémiologie et Surveillance des Risques Sanitaires » du Conservatoire national des Arts et Métiers (dirigé par le Pr William DAB), sous la responsabilité de Laura Temime, professeur au Cnam. Le stagiaire sera accueilli dans les locaux du laboratoire à Paris 3ème.
+Gratification de stage : 480 euros /mois.
+CONTACT
+Pour candidater, envoyer CV et lettre de motivation à Laura Temime (laura.temime@cnam.fr).

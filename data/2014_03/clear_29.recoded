@@ -1,0 +1,44 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <olivier.collin@irisa.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id D7AFF26801D
+	for <bioinfo@sfbi.fr>; Wed, 12 Mar 2014 14:47:58 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AioCAKxkIFPAhqRTf2dsb2JhbABawmGEJRYOAQELCwoIFCiCOCYBBUA9FhgDAgECAVgIAQGHdaFwsA8XjnmCGA+BewSYRZVb
+X-IronPort-AV: E=Sophos;i="4.97,638,1389740400"; 
+   d="scan'208";a="55241976"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by b-mx1.relay.syrhano.net with ESMTP; 12 Mar 2014 14:47:58 +0100
+From: Olivier Collin <olivier.collin@irisa.fr>
+X-IronPort-AV: E=Sophos;i="4.97,638,1389740400"; 
+   d="scan'208";a="62464758"
+Received: from scroogemcduck.irisa.fr (HELO [131.254.13.29]) ([131.254.13.29])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 12 Mar 2014 14:47:57 +0100
+Message-ID: <5320658D.4090102@irisa.fr>
+Date: Wed, 12 Mar 2014 14:47:57 +0100
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] " Utilisation du Cloud pour la Biologie "  18 mars : ANNULATION
+A cause de l'hospitalisation en urgence de l'organisateur de la journée, 
+le tutoriel  « Utilisation du Cloud pour la Biologie », prévu le 18 mars 
+à Lyon, est reporté à une date ultérieure.
+Nous vous prions de nous excuser pour ce délai bien indépendant de notre 
+volonté. Une date pour nouvelle une session vous sera communiquée 
+ultérieurement. Les personnes déjà inscrites à la session du 18 mars 
+sont pré-inscrites pour la prochaine session à Lyon. A noter que deux 
+sessions seront proposées, à Lyon et à Rennes.
+Merci de votre compréhension,
+Olivier Collin
+-- 
+--------------------------------------------------------
+Olivier Collin - Plate-forme GenOuest
+IRISA-INRIA, Campus de Beaulieu
+35042 Rennes cedex, France
+Tél:   +33 (0) 2 99 84 72 78
+Fax:   +33 (0) 2 99 84 71 71

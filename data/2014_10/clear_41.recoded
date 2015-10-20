@@ -1,0 +1,61 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <dagmar.waltemath@uni-rostock.de>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 19C2726801D
+	for <bioinfo@sfbi.fr>; Tue, 14 Oct 2014 08:07:56 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Am0BABe9PFSLHggMnGdsb2JhbABbg2FYBMwJCodNAoEaFgERAQEBAQEICwkJFCMLhAQFOlEBKhRoAQQbiDYIBaELkTiTPJAUgm4PRCSBHgWFFQKMOoEvgzuHEIEug0aCbYdfglOFUQGCI2wBAQkBgTyBAgEBAQ
+X-IPAS-Result: Am0BABe9PFSLHggMnGdsb2JhbABbg2FYBMwJCodNAoEaFgERAQEBAQEICwkJFCMLhAQFOlEBKhRoAQQbiDYIBaELkTiTPJAUgm4PRCSBHgWFFQKMOoEvgzuHEIEug0aCbYdfglOFUQGCI2wBAQkBgTyBAgEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,714,1406584800"; 
+   d="scan'208";a="66157306"
+Received: from edge01.uni-rostock.de ([139.30.8.12])
+  by b-mx1.relay.syrhano.net with ESMTP; 14 Oct 2014 08:07:56 +0200
+From: Dagmar Waltemath <dagmar.waltemath@uni-rostock.de>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Summer school: whole cell modeling
+Thread-Index: Ac/ndRFt35GscnbNTUONGMdhijN+Rw=
+Date: Tue, 14 Oct 2014 06:07:53 +0000
+Message-ID: <BE8106AF7323A241B5394CEFB3958233F4F8A21D@mbx3.uni-rostock.de>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [139.30.6.53]
+x-pmwin-version: 3.1.3.0, Antivirus-Engine: 3.53.0, Antivirus-Data: 5.04G
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-PMWin-Version: 3.1.3.0, Antivirus-Engine: 3.53.0, Antivirus-Data: 5.04G
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Summer school: whole cell modeling
+Whole-cell modeling summer school
+March 9-13, 2015 | Rostock, Germany
+We are pleased to announce the hackathon-style summer school to be held nex
+t year in Rostock, Germany, with the aim of developing an open version of t
+he Karr et al. whole-cell model (http://www.ncbi.nlm.nih.gov/pubmed/2281789
+8).
+The primary aim for the participants of the summer school is to learn about
+ standards for modelling and simulation in computational biology.  But a se
+condary aim is to enjoy modelling, coding and diagramming the whole-cell mo
+del using openly available software and COMBINE standards (http://co.mbine.
+org).
+An anticipated outcome of the event is a roadmap for future developments ne
+eded in the different standardisation efforts involved in the summer school
+.  Together, we want to answer the important question: "What is missing in 
+today's standards?"  We believe this will help provide guidelines for COMBI
+NE.
+In total, we will accept up to 50 students (PhD to early postdoc level), wh
+o will be fully funded through the Volkswagen Foundation. The application f
+orm is open until the 31st of October.
+Details of the summer school are available from the following website:
+   http://bit.ly/wholecell
+Please consider putting up our poster in your institutions (https://sites.g
+oogle.com/site/vwwholecellsummerschool/documents), and please also feel fre
+e to forward this e-mail to potentially interested colleagues.
+Dagmar Waltemath and Falk Schreiber
+Dagmar Waltemath, Dept. of Systems Biology & Bioinformatics,
+University of Rostock, D-18051 Rostock, Germany
+Web: http://www.sbi.uni-rostock.de/sems
+Skype: dagmar.waltemath

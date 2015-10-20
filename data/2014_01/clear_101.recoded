@@ -1,0 +1,70 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sylvain.sene@lif.univ-mrs.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id BA81C26801D
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 16:56:15 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AigKABl16lKLfBYZnGdsb2JhbABZg0SNO68nAYIjFg4BAQEBAQgUCTyCOCYBBUA9FhgDAgECAUsNCAEBiAGcLa9dk0EErAaBbzs
+X-IronPort-AV: E=Sophos;i="4.95,750,1384297200"; 
+   d="scan'208";a="53207347"
+Received: from platine.lidil.univ-mrs.fr ([139.124.22.25])
+  by b-mx1.relay.syrhano.net with ESMTP; 30 Jan 2014 16:56:14 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by platine.lidil.univ-mrs.fr (Postfix) with ESMTP id 35D23ADA8008
+	for <bioinfo@sfbi.fr>; Thu, 30 Jan 2014 16:56:14 +0100 (CET)
+X-Virus-Scanned: amavisd-new at lidil.univ-mrs.fr
+Received: from platine.lidil.univ-mrs.fr ([127.0.0.1])
+	by localhost (platine.lidil.univ-mrs.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id sG+nZ7hrLJtC for <bioinfo@sfbi.fr>;
+	Thu, 30 Jan 2014 16:56:14 +0100 (CET)
+Message-ID: <52EA7621.2080009@lif.univ-mrs.fr>
+Date: Thu, 30 Jan 2014 16:56:17 +0100
+From: Sylvain_Sené <sylvain.sene@lif.univ-mrs.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postes MCF et PR au LIF - Aix-Marseille
+Bonjour,
+[désolé pour les réceptions multiples]
+5 postes de MCF et PR (CNU 27 section) seront ouverts au concours 2014 à 
+Aix-Marseille avec rattachement recherche au Laboratoire d'Informatique 
+Fondamentale (LIF).
+Des candidatures sur des thématiques de bio-informatique, avec 
+rattachement à l'équipe "Informatique mathématique et dynamique 
+biologique" (IMDB) du LIF, sont les bienvenues. Bien que ces postes 
+soient tous ouverts à l'ensemble des équipes du LIF, certains sont 
+affichés avec une priorité. En ce qui concerne directement IMDB, deux 
+ressortent :
+- le poste MCF du département Informatique et Interactions de l'UFR de 
+Sciences (profil fléché pour l'équipe IMDB),
+- le poste PR du département Informatique et Interactions de l'UFR de 
+Sciences (profil ouvert).
+L'équipe IMDB est une jeune équipe du LIF (créée en septembre 2013) dont 
+les thématiques de recherche se placent à la frontière de l'informatique 
+fondamentale et de la biologie. Elle a pour vocation d'étudier les 
+réseaux d'interactions au sens large au moyen de méthodes issues de 
+l'informatique et des mathématiques discrètes (systèmes dynamiques, 
+complexité, calculabilité). Son domaine d'applications privilégié est la 
+biologie moléculaire, au travers des systèmes d'interactions biologiques 
+complexes (réseaux de régulation génétique, réseaux de propagation 
+d'épidémies...)
+Des profils ayant un ancrage disciplinaire en (bio-)informatique ou en 
+mathématiques intéressés par les aspects fondamentaux et/ou appliqués de 
+la modélisation des systèmes d'interactions biologiques sont 
+particulièrement recherchés.
+Plus de détails sont disponibles sur le site web du LIF : 
+http://www.lif.univ-mrs.fr/
+Bien cordialement,
+S.
+-- 
+Sylvain Sené
+Professeur des universités
+Laboratoire d'informatique fondamentale (LIF)
+Parc scientifique et technologique de Luminy
+163, avenue de Luminy - Case 901
+F-13288 Marseille Cedex 9

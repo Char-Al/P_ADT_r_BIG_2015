@@ -1,0 +1,97 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <p.geurts@ulg.ac.be>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 627BA26801D
+	for <bioinfo@sfbi.fr>; Thu, 17 Apr 2014 23:19:52 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvACAGNEUFOLpSBvnGdsb2JhbABZg0HEOASBKRYOAQEBAQEICwkJFCiCSUsFgQ5Ph2gDEQSZXKtRDVeGFBeMSYVEgRQEiFCOLwGIboV9iQM
+X-IronPort-AV: E=Sophos;i="4.97,881,1389740400"; 
+   d="scan'208";a="57271119"
+Received: from serv108.segi.ulg.ac.be ([139.165.32.111])
+  by b-mx1.relay.syrhano.net with ESMTP; 17 Apr 2014 23:19:51 +0200
+Received: (qmail 27458 invoked from network); 17 Apr 2014 23:19:50 +0200
+Received: from unknown (HELO [10.0.1.5]) (u179884@[85.26.78.51])
+          (envelope-sender <p.geurts@ulg.ac.be>)
+          by serv108.segi.ulg.ac.be (qmail-ldap-1.03) with SMTP
+          for <bioinfo@sfbi.fr>; 17 Apr 2014 23:19:50 +0200
+From: Pierre Geurts <p.geurts@ulg.ac.be>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <8F02040A-FC95-41FC-B772-8CE68190A03F@ulg.ac.be>
+Date: Thu, 17 Apr 2014 23:19:49 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] CFP - MLSB14, the 8th Machine Learning in Systems Biology workshop
+               Call for contributions
+     MLSB14, the eighth International Workshop on
+           Machine Learning in Systems Biology
+                  http://www.mlsb.cc
+    Organized in conjunction with ECCB 2014
+               Strasbourg, France, September 6-7, 2014.
+           Submission deadline: June 11, 2014
+WORKSHOP DESCRIPTION
+Molecular biology and all the biomedical sciences are undergoing a
+true revolution as a result of the emergence and growing impact of a
+series of new disciplines/tools sharing the "-omics" suffix in their
+name. These include in particular genomics, transcriptomics,
+proteomics and metabolomics, devoted respectively to the examination
+of the entire systems of genes, transcripts, proteins and metabolites
+present in a given cell or tissue type.
+The availability of these new, highly effective tools for biological
+exploration is dramatically changing the way one performs research in
+at least two respects. First, the amount of available experimental
+data is not a limiting factor any more; on the contrary, there is a
+plethora of it. Given the research question, the challenge has shifted
+towards identifying the relevant pieces of information and making
+sense out of it (a "data mining" issue). Second, rather than focus on
+components in isolation, we can now try to understand how biological
+systems behave as a result of the integration and interaction between
+the individual components that one can now monitor simultaneously (so
+called "systems biology").
+Taking advantage of this wealth of "omics" information has become a
+condition sine qua non for whoever ambitions to remain competitive in
+molecular biology and in the biomedical sciences in general. Machine
+learning naturally appears as one of the main drivers of progress in
+this context, where most of the targets of interest deal with complex
+structured objects: sequences, 2D and 3D structures or interaction
+networks. At the same time bioinformatics and systems biology have
+already induced significant new developments of general interest in
+machine learning, for example in the context of learning with
+structured data, graph inference, semi-supervised learning, system
+identification, and novel combinations of optimization and learning
+algorithms.
+MLSB14, the Eighth International Workshop on Machine Learning in
+Systems Biology, is a workshop of the ECCB 2014 conference. It aims to
+contribute to the cross-fertilization between the research in machine
+learning methods and their applications to systems biology by bringing
+together method developers and experimentalists. We are soliciting
+submissions bringing forward methods for discovering complex
+structures (e.g. interaction networks, molecule structures) and
+methods supporting genome-wide data analysis
+Please see the workshop website http://www.mlsb.cc for more details.
+SUBMISSIONS INSTRUCTIONS
+We invite you to submit an extended abstract of up to 4 pages in PDF
+format describing new or very recently published results. Submissions
+will be reviewed by the scientific programme committee. They will be
+selected for oral or poster presentation according to their
+originality and relevance to the workshop topics.
+KEY DATES
+Submission deadline: June 11, 2014
+Author notification: July 15, 2014
+Early registration deadline ECCB14: August 2, 2014
+Workshop: September 6-7, 2014
+CHAIRS
+Florence d'Alché-Buc (University of Evry, France)
+Pierre Geurts (University of Liege, Belgium)
+ORGANIZING COMMITTEE
+Florence d'Alché-Buc (University of Evry, France)
+Markus Heinonen (University of Evry, France)
+Pierre Geurts (University of Liege, Belgium)
+Vân Anh Huynh-Thu (University of Edinburgh, UK)
+Nizar Touleimat (Centre National de génotypage, CEA, Evry, France)
+CONTACT
+For further information, please contact chairsmlsb2014@gmail.com

@@ -1,0 +1,114 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Jean-Philippe.Vert@mines-paristech.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7054626801D
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 10:15:25 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Au0AADBZEVRWQapCl2dsb2JhbABgFoNKVwSCeMU2iFgWEAEBAQEBCBYHPoQnBhUuAgUFPAImAnsLB4grCZpjjzSGf45RAReBLIpyhi+BUwWGHY9chwKBYIpFgluEYIN1gUhqgk8BAQE
+X-IPAS-Result: Au0AADBZEVRWQapCl2dsb2JhbABgFoNKVwSCeMU2iFgWEAEBAQEBCBYHPoQnBhUuAgUFPAImAnsLB4grCZpjjzSGf45RAReBLIpyhi+BUwWGHY9chwKBYIpFgluEYIN1gUhqgk8BAQE
+X-IronPort-AV: E=Sophos;i="5.04,504,1406584800"; 
+   d="scan'208";a="64175056"
+Received: from fontainebleau.ensmp.fr ([86.65.170.66])
+  by b-mx1.relay.syrhano.net with ESMTP; 11 Sep 2014 10:15:24 +0200
+Received: from webmail.sif.ensmp.fr (webmail.sif.ensmp.fr [86.65.170.79])
+	by fontainebleau.ensmp.fr (8.13.8/8.13.8) with ESMTP id s8B8FNq2000324
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Thu, 11 Sep 2014 10:15:24 +0200
+Received: from curie-hopital-r.campus-curie.net
+ (curie-hopital-r.campus-curie.net [193.48.227.42]) by
+ webmail.sif.mines-paristech.fr (Horde Framework) with HTTP; Thu, 11 Sep 2014
+ 10:15:23 +0200
+Date: Thu, 11 Sep 2014 10:15:23 +0200
+Message-ID: <20140911101523.Horde.eyVdlYV9nDNB--jBZgX1Yw1@webmail.sif.mines-paristech.fr>
+From: Jean-Philippe Vert <Jean-Philippe.Vert@mines-paristech.fr>
+To: bioinfo@sfbi.fr
+Reply-To: Jean-Philippe.Vert@mines-paristech.fr
+User-Agent: Internet Messaging Program (IMP) H5 (6.1.7)
+Content-Type: text/plain; charset=UTF-8; format=flowed; DelSp=Yes
+MIME-Version: 1.0
+Content-Disposition: inline
+X-Miltered: at fontainebleau.ensmp.fr with ID 54115A1B.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54115A1B.000 from webmail.sif.ensmp.fr/webmail.sif.ensmp.fr/86.65.170.79/webmail.sif.ensmp.fr/<Jean-Philippe.Vert@mines-paristech.fr>
+X-Scores-Stats: 54115A1B.000 B=0.00729 L=0.21702 G=0.00203 Agree    
+X-j-chkmail-Score: MSGID : 54115A1B.000 on fontainebleau.ensmp.fr : j-chkmail score : . : R=. U=. O=. B=0.002 -> S=0.002
+X-j-chkmail-Status: Ham
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Call for papers: NIPS 2014 workshop on Machine Learning in
+ Computational Biology
+NIPS 2014 workshop on Machine Learning in Computational Biology
+----------
+Call for contributions
+     Workshop on Machine Learning in Computational Biology
+                    http://www.mlcb.org
+    A workshop at the Twenty-Seventh Annual Conference on
+     Neural Information Processing Systems (NIPS 2014)
+       Montreal, QC, Canada, December 13, 2014.
+Important dates:
+Oct 22, 2014 : Deadline for submission of extended abstracts
+Nov 4, 2014: Acceptance notification
+Dec 13, 2014: Workshop date
+WORKSHOP DESCRIPTION
+The field of computational biology has seen dramatic growth over
+the past few years, in terms of newly available data, new
+scientific questions and new challenges for learning and
+inference.  In particular, biological data is often relationally
+structured and highly diverse, and thus requires combining multiple
+types of weak evidence from heterogeneous sources. These sources include
+sequenced genomes of a variety of organisms, gene expression data
+from multiple technologies, protein sequence and 3D structural
+data, protein interaction data, gene ontology and pathway
+databases, genetic variation data (such as SNPs), high-content
+phenotypic screening data, and an enormous
+amount of text data in the biological and medical literature. New
+types of scientific and clinical problems require novel
+supervised and unsupervised learning approaches that can use these
+growing resources. Furthermore, next generation sequencing
+technologies are yielding terabyte scale data sets that require
+novel algorithmic solutions.
+The workshop will host presentations of emerging problems and
+machine learning techniques in computational biology.  We encourage
+contributions describing either progress on new bioinformatics
+problems or work on established problems using methods that are
+substantially different from standard approaches. Kernel methods,
+graphical models, semi-supervised approaches, feature selection
+and other techniques applied to relevant bioinformatics problems
+would all be appropriate for the workshop.
+SUBMISSION INSTRUCTIONS
+Researchers interested in contributing should upload an extended
+abstract of 4 pages in PDF format to the MLCB submission web site
+https://easychair.org/conferences/?conf=mlcb2014
+by Oct 22,  2014, 11:59pm (time zone of your choice).
+No special style is required. Authors may use the NIPS style file, but
+are also free to use other styles as long as they use standard font
+size (11 pt) and margins (1 in).
+*Submissions should be suitably anonymized and meet the
+requirements for double-blind reviewing.*
+All submissions will be anonymously peer reviewed and will be
+evaluated on the basis of their technical content.  A strong
+submission to the workshop typically presents a new learning method
+that yields new biological insights, or applies an existing learning
+method to a new biological problem.  However, submissions that improve
+upon existing methods for solving previously studied problems will
+also be considered. Examples of research presented in previous years
+can be found online at http://www.mlcb.org/nipscompbio/previous/.
+The workshop allows submissions of papers that are under review or
+have been recently published in a conference or a journal. This is
+done to encourage presentation of mature research projects that are
+interesting to the community. The authors should clearly state any
+overlapping published work at time of submission.
+INVITED SPEAKERS
+Mark Gerstein (Yale University)
+Anshul Kundaje (Stanford University)
+ORGANIZERS
+Anna Goldenberg (University of Toronto)
+Sara Mostafavi (UBC)
+Oliver Stegle (EMBL-EBI)
+Su-In Lee (University of Washington)
+Martin Renqiang Min (NEC Labs America)
+-- 
+Jean-Philippe Vert
+Cancer computational genomics and bioinformatics
+Mines ParisTech - Institut Curie - INSERM U900
+http://cbio.ensmp.fr/~jvert

@@ -1,0 +1,46 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 1481D26801D
+	for <bioinfo@sfbi.fr>; Tue, 22 Jul 2014 17:39:41 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoAEAOeEzlOKZqI0nGdsb2JhbABYg2BXAYJ3xCOHQQGBJg8BAQEBAQgLCQkUKYQEAQUjDwEFES8RJQIFFgsCAgkDAgECAToLEwYCAQGIPg2oSJcoF4EsjT0RAVcWgmKBTgWbJocVjxyBRGqBDA
+X-IronPort-AV: E=Sophos;i="5.01,710,1400018400"; 
+   d="scan'208";a="62101133"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 22 Jul 2014 17:39:40 +0200
+Received: from [138.102.22.205] (mig205 [138.102.22.205])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s6MFdd7D015303
+	for <bioinfo@sfbi.fr>; Tue, 22 Jul 2014 17:39:39 +0200 (CEST)
+Message-ID: <53CE85BB.1040200@jouy.inra.fr>
+Date: Tue, 22 Jul 2014 17:39:39 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1X9cBP-0003AE-D2@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1X9cBP-0003AE-D2@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1X9cBP-0003AE-D2@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53CE85BB.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53CE85BB.001/138.102.22.205/mig205/[138.102.22.205]/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53CE85BB.001 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.108 -> S=0.108
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?Ing=C3=A9nieur?= en =?UTF-8?Q?d=C3=A9veloppement?= =?UTF-8?Q?d=E2=80=99applications?=, SI =?UTF-8?Q?Distribu=C3=A9?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur en développement d’applications, SI
+Distribué
+Type de poste : CDD Ingénieur
+Durée du poste : 11 mois
+Ville : Versailles
+Nom du contact : Cyril Pommier
+Email du contact : cyril.pommier@versailles.inra.fr
+Laboratoire : INRA-URGI
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/ing%C3%A9nieur-en-d%C3%A9veloppement-d%E2%80%99applications-si-distribu%C3%A9

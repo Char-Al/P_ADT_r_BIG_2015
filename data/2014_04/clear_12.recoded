@@ -1,0 +1,72 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 8936426801D; Wed,  2 Apr 2014 17:33:00 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: carla.piazza@uniud.it
+Message-ID: <sympa.1396452743.405.568@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Wed,  2 Apr 2014 17:33:00 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] FMMB 2014 - second call for papers
+[We apologize if you have received multiple copies of this message]
+&#65279;
+FMMB 2014 - 1st INTL. CONFERENCE ON FORMAL METHODS IN MACRO-BIOLOGY
+  Call for Papers
+  September 22-24, 2014
+  Noumea, New Caledonia
+  http://fmmb2014.sciencesconf.org/
+* AIMS AND SCOPE
+  The purpose of FMMB is to bring together researchers, developers,
+  and students in theoretical computer science, applied mathematics,
+  mathematical and computational biology, interested in studying the
+  application of formal methods to the construction and analysis of
+  models describing biological processes at both micro and macro levels.
+  The topics of interest include (but are not limited to):
+  - representation and analysis of biological systems in formal systems
+    such as:
+      o ordinary and partial differential equation systems,
+      o discrete event systems, infinite state systems,
+      o hybrid discrete-continuous systems, hybrid automata,
+      o cellular automata, multi-agent systems,
+      o stochastic processes, stochastic games,
+      o statistical physics models,
+      o process algebras, process calculi,
+      o rewriting systems, graph grammars,
+  - coupling models and data, inference of models from data,
+  - computability and complexity issues,
+  - modelling and analysis tools, case studies.
+  Application areas particularly solicited include:
+  - environmental biology, ecology, marine science,
+  - agriculture and forestry,
+  - developmental biology, population biology,
+  - epidemiology, medicine,
+  - systems biology, synthetic biology.
+* KEYNOTE SPEAKERS
+  Pieter Collins,  Maastricht University, Netherlands,
+  Saso Dzeroski,   Jozef Stefan Institute, Slovenia,
+  Radu Grosu,      Vienna Technical University, Austria,
+  Steffen Klamt,   Max Planck Institute Magdeburg, Germany,
+  Pietro Lio',     Cambridge University, UK,
+  Hélène Morlon,   Ecole Polytechnique and CNRS, France.
+* PC CO-CHAIRS
+  François Fages,  Inria Paris-Rocquencourt, France,
+  Carla Piazza,    University of Udine, Italy.
+* LOCAL CHAIR
+  Teodor Knapik,   University of New Caledonia.
+* IMPORTANT DATES
+  Submission deadline:    April 25
+  Author notification:    June 4
+  Camera-ready copy due:  June 25
+* SUBMISSION AND PUBLICATION
+  Regular submissions of 12-20 pages or short submissions of 2 pages
+  in LNCS style should be submitted as PDF files via EasyChair
+  https://www.easychair.org/conferences/?conf=fmmb2014 .
+  All accepted papers will be published in a book in the LNBI series of
+  Springer-Verlag. Authors of the most significant contributions will
+  be invited to submit extended versions for a journal special issue.

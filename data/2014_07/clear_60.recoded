@@ -1,0 +1,56 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <hubert.charles@insa-lyon.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 486C926801D
+	for <bioinfo@sfbi.fr>; Fri, 18 Jul 2014 16:37:56 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkgBAO4vyVOG1rb0nGdsb2JhbABZg2DFS4dDAYEIFg8BAQEBAQgLCQkUKYQEAQMCMgEFQBEsFg8JAwIBAgFFEwgBAYg+DbNnkFQXj1IWhDAFnHKFMI80gURqAQ
+X-IronPort-AV: E=Sophos;i="5.01,685,1400018400"; 
+   d="scan'208";a="61954080"
+Received: from smtp.insa-lyon.fr ([134.214.182.244])
+  by b-mx1.relay.syrhano.net with ESMTP; 18 Jul 2014 16:37:55 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.insa-lyon.fr (smtp.insa-lyon.fr) with ESMTP id 499A840097
+	for <bioinfo@sfbi.fr>; Fri, 18 Jul 2014 16:37:54 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at insa-lyon.fr
+Received: from smtp.insa-lyon.fr ([IPv6:::ffff:127.0.0.1])
+	by localhost (smtp.insa-lyon.fr [::ffff:127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id etpljqe32TBd for <bioinfo@sfbi.fr>;
+	Fri, 18 Jul 2014 16:37:53 +0200 (CEST)
+Received: from bf2i050.insa-lyon.fr (bf2i050.insa-lyon.fr [134.214.158.54])
+	(using TLSv1 with cipher ECDHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	(Authenticated sender: hcharles)
+	by smtp.insa-lyon.fr (smtp.insa-lyon.fr) with ESMTPSA id C940A40091
+	for <bioinfo@sfbi.fr>; Fri, 18 Jul 2014 16:37:53 +0200 (CEST)
+Message-ID: <53C93141.7010707@insa-lyon.fr>
+Date: Fri, 18 Jul 2014 16:37:53 +0200
+From: Hubert Charles <hubert.charles@insa-lyon.fr>
+Reply-To: hubert.charles@insa-lyon.fr
+Organization: INSA
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <53BA769C.903@insa-lyon.fr>
+In-Reply-To: <53BA769C.903@insa-lyon.fr>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ATER =?WINDOWS-1252?Q?G=E9nomique?= et transcriptomique =?WINDOWS-1252?Q?=E0?= =?WINDOWS-1252?Q?l=92INSA?= de Lyon (=?WINDOWS-1252?Q?D=E9partement?= Biosciences, UMR BF2I)
+Bonjour,
+Un poste ATER à l'NSA de Lyon (département Biosciences, UMR BF2I) est 
+ouvert en Génomique et transcriptomique :
+http://www.insa-lyon.fr/files/FP_ATER_MCF0561_BS_BF2I.pdf
+Attention deadline de dépot des dossiers le 31 juillet.
+Cordialement,
+H. Charles
+Hubert Charles (Pr)
+UMR203 Biologie Fonctionnelle Insectes et Interactions (BF2I),
+IFR41, INRA, INSA-Lyon, Bat Louis Pasteur, F-69621 Villeurbanne,
+FRANCE
+tel : 04-72-43-80-85
+Fax : 04-72-43-85-34
+http://bf2i.insa-lyon.fr/
+http://biosciences.insa-lyon.fr/

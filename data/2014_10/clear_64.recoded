@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 3694326801D
+	for <bioinfo@sfbi.fr>; Tue, 21 Oct 2014 10:45:54 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArwBAFsXRlSKZqI0nGdsb2JhbABcg2FYAYMFyRKIcQERAQEBAQEICwkJFC6ELBAFETMOJAImAhIsECSIPw2fYI87gXSNAoYpgSyOQxEBbYJhgVQFgTC0EwEBCAEBAQEBgiNqgQ+BPAEBAQ
+X-IPAS-Result: ArwBAFsXRlSKZqI0nGdsb2JhbABcg2FYAYMFyRKIcQERAQEBAQEICwkJFC6ELBAFETMOJAImAhIsECSIPw2fYI87gXSNAoYpgSyOQxEBbYJhgVQFgTC0EwEBCAEBAQEBgiNqgQ+BPAEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,760,1406584800"; 
+   d="scan'208";a="75232217"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 21 Oct 2014 10:45:54 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s9L8jqYO027435
+	for <bioinfo@sfbi.fr>; Tue, 21 Oct 2014 10:45:52 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id DEB45296BA1
+	for <bioinfo@sfbi.fr>; Tue, 21 Oct 2014 10:45:52 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XgV6j-00096n-FA
+	for bioinfo@sfbi.fr; Tue, 21 Oct 2014 10:47:57 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XgV6j-00096n-FA@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 21 Oct 2014 10:47:57 +0200
+X-Miltered: at beta with ID 54461D40.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54461D40.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54461D40.001 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.305 -> S=0.404
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][CDD autre] Bio-informaticien plateform  e de =?UTF-8?Q?g=C3=A9nomique?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bio-informaticien plateforme de génomique
+Type de poste : CDD autre
+Durée du poste : 1 an
+Ville : Lyon
+Nom du contact : Joel Lachuer
+Email du contact : lachuer@univ-lyon1.fr
+Laboratoire : ProfileXpert
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/bio-informaticien-plateforme-de-g%C3%A9nomique

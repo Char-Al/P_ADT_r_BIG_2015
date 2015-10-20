@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 1D80F26801D
+	for <bioinfo@sfbi.fr>; Thu, 13 Nov 2014 14:56:25 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoIBAI63ZFSKZqI0nGdsb2JhbABbg2JZAYMFyWyJAQEBAQEBEQEBAQEBCAsJCRQuhCwQBREzDiQCJgISLDSIQQ2qQI9CgXWNd4ZYgS2PBREBbYJhgVQFgTC1LwEBAQcBAQEBAYInbIEPgTwBAQE
+X-IPAS-Result: AoIBAI63ZFSKZqI0nGdsb2JhbABbg2JZAYMFyWyJAQEBAQEBEQEBAQEBCAsJCRQuhCwQBREzDiQCJgISLDSIQQ2qQI9CgXWNd4ZYgS2PBREBbYJhgVQFgTC1LwEBAQcBAQEBAYInbIEPgTwBAQE
+X-IronPort-AV: E=Sophos;i="5.07,377,1413237600"; 
+   d="scan'208";a="68094600"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 13 Nov 2014 14:56:25 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sADDuMNg024510
+	for <bioinfo@sfbi.fr>; Thu, 13 Nov 2014 14:56:22 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id C2A8D296BA4
+	for <bioinfo@sfbi.fr>; Thu, 13 Nov 2014 14:56:22 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1Xouuy-0006Mh-6I
+	for bioinfo@sfbi.fr; Thu, 13 Nov 2014 14:58:36 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1Xouuy-0006Mh-6I@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Thu, 13 Nov 2014 14:58:36 +0100
+X-Miltered: at beta with ID 5464B886.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5464B886.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5464B886.001 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.140 -> S=0.140
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Systems Biology
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Systems Biology
+Type de poste : Post-doc / IR
+Durée du poste :
+Ville : Göteborg (Sweden)
+Nom du contact : Jens Nielsen
+Email du contact : nielsenj@chalmers.se
+Laboratoire : Chalmers University of Technology
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/systems-biology-2

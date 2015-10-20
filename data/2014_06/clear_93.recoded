@@ -1,0 +1,69 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <jlegrand@moulon.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id C10EF26801D
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 12:33:45 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqIBAD72q1OKZofknGdsb2JhbABAGoNfqn0GmnoPAQEBAQEICwkJFCiEFiYBBToGPRYYAwIBAgFYBgIBAYg+DTaVV60RhWSJOYQtBZpYhn6QNWoBEQ
+X-IronPort-AV: E=Sophos;i="5.01,552,1400018400"; 
+   d="scan'208";a="69193387"
+Received: from mx.versailles.inra.fr (HELO mail01.versailles.inra.fr) ([138.102.135.228])
+  by a-mx1.relay.syrhano.net with ESMTP; 26 Jun 2014 12:33:45 +0200
+Received: from [138.102.114.208] ([138.102.114.208])
+	(authenticated bits=0)
+	by mail01.versailles.inra.fr (/8.14.4) with ESMTP id s5QAXieF009670
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 12:33:44 +0200 (CEST)
+Message-ID: <53ABF715.5080401@moulon.inra.fr>
+Date: Thu, 26 Jun 2014 12:33:57 +0200
+From: Judith Legrand <jlegrand@moulon.inra.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at mail01 with ID 53ABF708.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53ABF708.000/138.102.114.208/[138.102.114.208]/[138.102.114.208]/<jlegrand@moulon.inra.fr>
+X-j-chkmail-Score: MSGID : 53ABF708.000 on mail01.versailles.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.052 -> S=0.064
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at mail01
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] CDD IE Biostatistiques et/ou Bioinformatique
+Recherche IE Biostatistiques et/ou Bioinformatique
+Le développement de projets basés sur des techniques à haut débit 
+nécessite le traitement d'une quantité de données sans cesse croissante, 
+non seulement dans le domaine des « omiques » mais aussi du traitement 
+d'images et de l'enregistrement par data-logger de données 
+physiologiques et environnementales.
+Actuellement l'IDEEV (Institut Diversité Ecologie et Evolution du Vivant 
+- http://www.ideev.u-psud.fr/index.php?lang=fr), Fédération de Recherche 
+du CNRS (FR3284), s'intéresse d'une part à des données de séquençage, de 
+transcriptomique et de protéomique en relation avec des questions liées 
+à l'adaptation, au développement, à la spéciation et à l'évolution, 
+d'autre part à des données comportementales (réseaux entre individus) et 
+environnementales (suivi quotidien de populations d'abeilles ou tour à 
+flux permettant la mesure des échanges de CO2 et de vapeur d'eau entre 
+une forêt de chênes et l'atmosphère).
+Les questions méthodologiques à traiter pourraient concerner :
+1) En biostatistiques, la grande dimension, la structuration de la 
+variabilité, les séquences temporelles ou spatiales, ou encore la prise 
+en compte de l'hétérogénéité des données.
+2) En bioinformatique, le développement de pipelines d'acquisition de 
+données à haut débit ou la construction de bases de données hétérogènes.
+Pour faire face au traitement de ces données massives, nous recherchons 
+un CLD (Contrat Longue Durée) de 16 mois, de niveau IE, à compter du 1er 
+septembre 2014. La personne recrutée sera affectée à l'IDEEV et 
+travaillera sous la direction d'une équipe constituée par des membres 
+des quatre unités fondatrices de l'Institut. Les compétences recherchées 
+sont dans les domaines des biostatistiques et de la bioinformatique. Le 
+projet sur lequel travaillera la personne sera à définir en fonction de 
+ses compétences et de l'adéquation avec les objectifs scientifiques 
+d'équipes de l'IDEEV.
+Date limite de candidature : 15 juillet 2014
+Personnes à contacter :
+Pierre Capy (pierre.capy@legs.cnrs-gif.fr)
+Giraud Tatiana (Tatiana.giraud@u-psud.fr)
+Judith Legrand (judith.legrand@moulon.inra.fr)

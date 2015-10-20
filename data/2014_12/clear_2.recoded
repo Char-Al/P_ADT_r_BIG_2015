@@ -1,0 +1,58 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Nicolas.Galtier@univ-montp2.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 0670C26801D
+	for <bioinfo@sfbi.fr>; Mon,  1 Dec 2014 10:41:38 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtcBAIs2fFSiJmXgnGdsb2JhbABbg1dcgwHDWIdmFgEBAQEBEQEBAQEBCAsJCRQuhCwPAQVVIQImAiFZiDgErR+PRpYXgS6MAYNpgl+BUwWOfYINhEiIX40OhGeDLQwBgiaDNQEBAQ
+X-IPAS-Result: AtcBAIs2fFSiJmXgnGdsb2JhbABbg1dcgwHDWIdmFgEBAQEBEQEBAQEBCAsJCRQuhCwPAQVVIQImAiFZiDgErR+PRpYXgS6MAYNpgl+BUwWOfYINhEiIX40OhGeDLQwBgiaDNQEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,492,1413237600"; 
+   d="scan'208";a="69306140"
+Received: from mailhub-out2.univ-montp2.fr ([162.38.101.224])
+  by b-mx1.relay.syrhano.net with ESMTP; 01 Dec 2014 10:41:40 +0100
+Received: from spidey6webmail.univ-montp2.fr (spidey6webmail.univ-montp2.fr [162.38.101.188])
+	by mailhub-out2.univ-montp2.fr (8.14.3/8.14.3) with ESMTP id sB19fbFM018684
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Mon, 1 Dec 2014 10:41:37 +0100
+Received: from www.roundcub.univ-montp2.fr (localhost [127.0.0.1])
+	by spidey6webmail.univ-montp2.fr (8.14.4/8.14.4) with ESMTP id sB19fb7b022250
+	for <bioinfo@sfbi.fr>; Mon, 1 Dec 2014 10:41:37 +0100
+Received: from nat30-4-78-248-235-18.fbx.proxad.net ([78.248.235.18])
+ via spidey6webmail.univ-montp2.fr ([162.38.101.188])
+ by www.roundcub.univ-montp2.fr
+ with HTTP (HTTP/1.1 POST); Mon, 01 Dec 2014 10:41:36 +0100
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Mon, 01 Dec 2014 10:41:36 +0100
+From: Nicolas GALTIER <Nicolas.Galtier@univ-montp2.fr>
+To: bioinfo@sfbi.fr
+Message-ID: <589bf82913fcc4d428508d3623bc036f@univ-montp2.fr>
+X-Sender: Nicolas.Galtier@univ-montp2.fr
+User-Agent: Roundcube Webmail/0.9.2
+X-Virus-Scanned: clamav-milter 0.98.4 at mailhub-out2.univ-montp2.fr
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] rencontres ALPHY 2015
+*** Appel à communications ***
+Bonjour à tous,
+La réunion ALPHY se tiendra les 11 et 12 mars 2015 à Montpellier.
+Il s'agit d'une réunion annuelle financée par le GDR BIM autour des
+mots clé "phylogénie", "génomique évolutive" et "bioinformatique".
+Les étudiants et jeunes chercheurs sont notamment encouragés à soumettre
+un résumé. Ils trouveront en ALPHY un contexte peu formel et propice
+à la discussion, tout en permettant un tour d'horizon des développements
+récents et des axes émergents sur ces thématiques en France.
+L'inscription est gratuite mais obligatoire. Une part du budget sera
+attribuée au co-financement des missions de jeunes chercheurs qui en
+feraient la demande.
+Date limite de soumission des résumés: 9 février 2015.
+Tous les détails sur:  http://lbbe.univ-lyon1.fr/alphy/
+Venez nombreux!
+L'équipe ALPHY:
+Céline Brochier
+Laurent Duret
+Nicolas Galtier

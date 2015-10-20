@@ -1,0 +1,63 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <audrey.bihouee@univ-nantes.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 39CE626801D
+	for <bioinfo@sfbi.fr>; Tue,  4 Nov 2014 09:59:23 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApcBAMGTWFTBNGdwnGdsb2JhbABcg2JYAYI9SMtVh00CgTYBAQEBAREBAQEBAQgUCUKEAwEEAQwXDwEFQAYLCRwCBRYLAgIJAwIBAgE6CxMIAQGINA0JmTucX5UgIIEtj2oWgmGBVAWPe4ZuiQaFbxiRD4FFPC8BgkoBAQE
+X-IPAS-Result: ApcBAMGTWFTBNGdwnGdsb2JhbABcg2JYAYI9SMtVh00CgTYBAQEBAREBAQEBAQgUCUKEAwEEAQwXDwEFQAYLCRwCBRYLAgIJAwIBAgE6CxMIAQGINA0JmTucX5UgIIEtj2oWgmGBVAWPe4ZuiQaFbxiRD4FFPC8BgkoBAQE
+X-IronPort-AV: E=Sophos;i="5.07,312,1413237600"; 
+   d="scan'208";a="76119584"
+Received: from smtptls1-loi.cpub.univ-nantes.fr (HELO smtp-tls.univ-nantes.fr) ([193.52.103.112])
+  by a-mx1.relay.syrhano.net with ESMTP; 04 Nov 2014 09:59:22 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by smtp-tls.univ-nantes.fr (Postfix) with ESMTP id 8AE644003EB
+	for <bioinfo@sfbi.fr>; Tue,  4 Nov 2014 09:59:22 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at smtptls1-lmb.cpub.univ-nantes.fr
+Received: from smtp-tls.univ-nantes.fr ([127.0.0.1])
+	by localhost (smtptls1-loi.cpub.univ-nantes.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 5_kO68yedprn for <bioinfo@sfbi.fr>;
+	Tue,  4 Nov 2014 09:59:22 +0100 (CET)
+Received: from [172.18.241.11] (merlin-linux.u915.irt.univ-nantes.prive [172.18.241.11])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by smtp-tls.univ-nantes.fr (Postfix) with ESMTPSA id 6E051400FE1
+	for <bioinfo@sfbi.fr>; Tue,  4 Nov 2014 09:59:22 +0100 (CET)
+Message-ID: <5458954F.4060206@univ-nantes.fr>
+Date: Tue, 04 Nov 2014 09:58:55 +0100
+From: =?UTF-8?B?QXVkcmV5IEJpaG91w6ll?= <audrey.bihouee@univ-nantes.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <544921DB.1070308@univ-nantes.fr>
+In-Reply-To: <544921DB.1070308@univ-nantes.fr>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] =?UTF-8?Q?12=C3=A8me?= =?UTF-8?Q?=C3=A9dition?= des Rencontres des plates-formes de Bioinformatique du Grand Ouest (IFB-GO)
+Pour rappel.
+> Bonjour,
+>
+> Comme chaque année les plates-formes de Bio-informatique de 
+> Biogenouest organisent une journée de rencontres.
+> Cette année, pour la 12ème édition de ces rencontres, la journée sera 
+> consacrée *aux données en bio-informatique*.
+>
+> Elle aura lieu le 14 Novembre 2014 à IRISA / INRIA de Rennes
+>
+> Pour plus d'informations : http://registration.genouest.org/?ee=22
+> *La participation à cet événement est gratuite* mais pour des raisons 
+> de logistique l'inscription est obligatoire.
+>
+>
+-- 
+Re: t *Audrey BIHOUEE*
+Plate-forme Bioinformatique BiRD
+Tél. : +33 (0)2 28 08 00 55
+**www.pf-bird.univ-nantes.fr* <http://www.pf-bird.univ-nantes.fr/> **
+*Inserm UMR 1087/CNRS UMR 6291
+IRS-UN - 8 quai Moncousu - BP 70721
+44007 Nantes Cedex 1
+*www.umr1087.univ-nantes.fr* <http://www.umr1087.univ-nantes.fr/>

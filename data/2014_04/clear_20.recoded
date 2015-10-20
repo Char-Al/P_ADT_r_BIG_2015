@@ -1,0 +1,141 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <hao@info.univ-angers.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3AC3B26801D
+	for <bioinfo@sfbi.fr>; Mon,  7 Apr 2014 11:27:47 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aj0EADRvQlPCOa98l2dsb2JhbAA/GhaDK4NhwQkEgTkOAQEBAQEIFgc8gkkGDwEFMAUgIQImAl8TCBECh2IJNplOjxyFWZxRgSmMWxWDToFJBJhbhjoHjW+BQTuBLA
+X-IronPort-AV: E=Sophos;i="4.97,808,1389740400"; 
+   d="scan'208";a="56637847"
+Received: from rproxy.info.univ-angers.fr (HELO smtp.info.univ-angers.fr) ([194.57.175.124])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Apr 2014 11:27:46 +0200
+Received: from webmail.info.univ-angers.fr (unknown [172.20.41.32])
+	by smtp.info.univ-angers.fr (Postfix) with ESMTP id C0F3B2DF05
+	for <bioinfo@sfbi.fr>; Mon,  7 Apr 2014 11:27:45 +0200 (CEST)
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Mon, 07 Apr 2014 11:27:45 +0200
+From: Jin-Kao Hao <hao@info.univ-angers.fr>
+To: <bioinfo@sfbi.fr>
+Organization: University of Angers
+Reply-To: <hao@info.univ-angers.fr>
+Mail-Reply-To: <hao@info.univ-angers.fr>
+Message-ID: <43cb4b60761d610e3796de7bd18be113@info.univ-angers.fr>
+X-Sender: hao@info.univ-angers.fr
+User-Agent: Roundcube Webmail/0.7.1
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] IEEE BIBM 2014 Call for Papers (IEEE International Conference on
+ Bioinformatics and Biomedicine)
+=====Call for Papers========
+2014 IEEE International Conference on Bioinformatics and Biomedicine 
+(BIBM14)
+http://scm.ulster.ac.uk/~bibm/2014/index.html
+Nov 2-5  2014, Belfast, UK
+The IEEE International Conference on Bioinformatics and Biomedicine 
+(BIBM) has established itself as the premier research conference in 
+bioinformatics and biomedicine. IEEE BIBM 2014 provides a leading forum 
+for disseminating the latest research in bioinformatics and health 
+informatics. It brings together academic and industrial scientists from 
+computer science, biology, chemistry, medicine, mathematics and 
+statistics.
+We solicit high-quality original research papers (including significant 
+work-in-progress) in any aspect of bioinformatics and biomedicine. New 
+computational techniques and methods in machine learning; data mining; 
+text analysis; pattern recognition; knowledge representation; databases; 
+data modeling; combinatorics; stochastic modeling; string and graph 
+algorithms; linguistic methods; robotics; constraint satisfaction; data 
+visualization; parallel computation; data integration; modeling and 
+simulation and their application in life science domain are especially 
+encouraged Relevant topics include but are not limited to:
+1.	Genomics and Molecular Structure, Function and Evolution
+a.	Next-Gen Sequencing and Metagenomics
+b.	Evolution, Phylogeny, Comparative  Genomics
+c.	SNPs and haplotype analysis, GWAS
+d.	Protein/RNA Structure, Function and Interactions
+2.	Computational Systems Biology
+a.	Transcriptomics - Microarray Data Analysis
+b.	Gene Regulation, Alternative Splicing, Network/Pathway Analysis
+c.	Proteomics, PTMs, Metabolomics
+d.	Epigenomics, non-coding RNA analysis, DNA methylation analysis
+3.	Medical Informatics and Translational Bioinformatics
+a.	Biomedical Intelligence, Clinical Data Analysis, and Electronic 
+Health Record
+b.	Biomedical Signal/Image Analysis
+c.	Genome-Phenome Analysis
+d.	Biomarker Discovery
+4.	Cross-Cutting Computational Methods and Bioinformatics 
+Infrastructure
+a.	Biomedical Text Mining and Ontologies
+b.	Biological Data Mining and Visualization
+c.	Computational Modeling and Data Integration
+d.	High Performance Computing
+5.	Healthcare Informatics
+a.	Healthcare knowledge representation & reasoning
+b.	Health data acquisition, analysis and mining
+c.	Healthcare information systems
+d.	Clinical Decision Support and Informatics
+INDUSTRIAL Track
+The Industrial Track solicits papers describing implementations of 
+Bioinformatics and Biomedicine solutions relevant to industrial 
+settings. The focus of industry track is on papers that address the 
+practical, applied, or pragmatic or new research challenge issues 
+related to the use of bioinformatics and biomedicine technologies in 
+industry. We accept full papers (up to 8 pages), extended abstracts (2-4 
+pages), as well as short abstracts (1 page, 500 words).
+•	Journal special issues: IEEE BIBM has a tradition to publish selected 
+papers as special issues in highly respected journals. We will publish 
+the special issues publications with 8 journals: IEEE Transactions on 
+NanoBiosceince,  IEEE/ACM Transactions on Bioinformatics and 
+Computational Biology, International Journal of Data Mining and 
+Bioinformatics, ,  Proteomics, BMC Genomics, BMC Bioinformatics, BMC 
+Complementary and Alternative Medicine,  Journal of Network Modeling and 
+Analysis in Health Informatics and Bioinformatics, Methods (In the past 
+BIBM conference, the number of special issues is: BIBM 2013 –9 special 
+issue, BIBM 2012—8 special issues, BIBM 2011—8 special issue,  BIBM 
+2010—7 special issues, BIBM 2009—4 special issue; BIBM 2008—4 special 
+issues)
+•	Student Travel Award: BIBM 2014 will offer as many as possible 
+student travel awards to student authors (including post-doc)  (BIBM 
+2013—40 student travel awards, BIBM 2012 – 30 student travel awards, 
+BIBM 2011—28 student travel awards, BIBM 2010--22 student travel awards, 
+BIBM 2009—16 student travel awards )
+Conference Co-Chairs:
+Prof. Kwang-Hyun Cho, Korea Advanced Institute of Science and 
+Technology, ckh@kaist.ac.kr
+Prof. Yadong Wang, Harbin Institute of Technology, China, 
+ydwang@hit.edu.cn
+Dr. Huiru (Jane) Zheng, University of Ulster, UK, h.zheng@ulster.ac.uk
+Program Co-Chairs:
+Dr. Daniel Berrar, Tokyo Institute of Technology, Japan, 
+berrar.d.aa@m.titech.ac.jp
+Prof. Werner Dubitzky, University of Ulster, UK, 
+w.dubitzky@ulster.ac.uk
+Prof. David Gibert, Brunel University, UK, david.gilbert@brunel.ac.uk
+Prof. Jin-Kao Hao, University of Angers, France, 
+hao@info.univ-angers.fr
+Industry Program Committee Chair
+Dr. Andreas Kremer, Siemens Aktiengesellschaft Oesterreich, Austria, 
+kremer.andreas@siemens.com
+Dr. Paul Wash, Nsilico, Ireland, Paul.Walsh@cit.ie
+BIBM Steering Committee Chair:
+Prof. Xiaohua Tony Hu, Drexel University, USA, thu@cis.drexel.edu
+Paper Submission:
+Please submit a full-length paper (upto 8 page IEEE 2-column format) 
+through the online submission system (you can download the format 
+instruction here 
+(https://wi-lab.com/cyberchair/2014/bibm14/cbc_index.php  for Latex or 
+word). Electronic submissions (in PDF or Postscript format) are 
+required. Selected participants will be asked to submit their revised 
+papers in a format to be specified at the time of acceptance.
+Online Submission:
+https://wi-lab.com/cyberchair/2014/bibm14/cbc_index.php
+Important Dates:
+Electronic submission of full papers: July 10, 2014
+Notification of paper acceptance: Sept 1, 2014
+Camera-ready of accepted papers: Sept 30, 2014
+Conference: Nov 2-5, 2014

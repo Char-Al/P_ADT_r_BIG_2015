@@ -1,0 +1,118 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <vialette@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5D0DD26801D
+	for <bioinfo@sfbi.fr>; Mon, 24 Mar 2014 11:00:25 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgoCALYBMFPRVdwvlGdsb2JhbABZg0FXgj1KuC+ISQgWDgEBAQEHCwsJEiqCOBcdASgBEAMNBQMNBQoCHwcCJBIBBQFQh0oDEQ2PRox8gw2MDoNflnknDYcWAQUMgR2QBg8ygUkEmEqQQhgpgWeBNoE/PA
+X-IronPort-AV: E=Sophos;i="4.97,719,1389740400"; 
+   d="scan'208";a="55871959"
+Received: from mail-pa0-f47.google.com ([209.85.220.47])
+  by b-mx1.relay.syrhano.net with ESMTP; 24 Mar 2014 11:00:24 +0100
+Received: by mail-pa0-f47.google.com with SMTP id lj1so5191718pab.6
+        for <bioinfo@sfbi.fr>; Mon, 24 Mar 2014 03:00:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=RMGr/yAAT4P+OMjtSu53gn8+LSCaityvZdcCmUGfq+U=;
+        b=q6TYMzSn6R19ZdLDNCJCJFXTjRQmyJw9uXjZV0q5JvAXH5hz3Au3EMJooRMMdhbCPi
+         c14C7wdaqMwSGx1dl8KBSjjo/xTarq+T8Vdt002eyBKsgQjXIV/uhmoYFIUQ8CX4onJb
+         5Rf/PGXZnLEYqszObJ6/2+kZigLHsMVSBs+5kU7bYE+ZyWxJqwcGFGxhYyyJgX8T9i0u
+         YOQQt9DbRUKLNUWfEPmlVKGcMoz/Fnp4E7DSYdD1bHPN9hjrH1ZBJc0As8O0b1JbHkOc
+         VVB26g2Yqd6GjwrBDTM7UMsIN+zVZm0OXqiHUpJFrgmCTHZPqqgXAUnRBKph0jeydG/7
+         gwzA=
+X-Received: by 10.66.181.70 with SMTP id du6mr69893157pac.23.1395655222905;
+ Mon, 24 Mar 2014 03:00:22 -0700 (PDT)
+MIME-Version: 1.0
+Sender: vialette@gmail.com
+Received: by 10.68.1.162 with HTTP; Mon, 24 Mar 2014 03:00:02 -0700 (PDT)
+From: Stéphane_Vialette <vialette@univ-mlv.fr>
+Date: Mon, 24 Mar 2014 11:00:02 +0100
+X-Google-Sender-Auth: NqAOEJ93sjUeGir3Q8ApFXA9rys
+Message-ID: <CAK94=R02jm94YVCj9WR_Oz48GZUkPJvb8f355rU_jTzFqKq-SA@mail.gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECOLE DE PRINTEMPS D'INFORMATIQUE THEORIQUE 2014 : Algorithmique pour la bioinformatique, Ile D'Oléron 12-16 mai 2014
+Titre :
+ECOLE DE PRINTEMPS D'INFORMATIQUE THEORIQUE 2014 : Algorithmique pour
+la bioinformatique, Ile D'Oléron 12-16 mai 2014
+          ECOLE DE PRINTEMPS D'INFORMATIQUE THEORIQUE 2014
+               Algorithmique pour la bioinformatique
+                 **** 2=C2=B0 APPEL A PARTICIPATION ****
+            **** Date limite d'inscription : 7 avril ****
+* Les informations et le formulaire d'inscription sont à l'adresse
+http://igm.univ-mlv.fr/AlgoB/EPIT2014/
+                [désolé pour les envois multiples]
+        La Vieille Perrotine, Ile d'Oléron, 12-16 mai 2014
+L'Ecole de Printemps d'Informatique Théorique est une institution
+dans le domaine de l'Informatique Théorique en France. L'Ecole s'est
+développée sous la direction de Maurice Nivat en 1973. Durant ses
+ 39
+ans d'existence, elle a couvert un large spectre des thèmes porteurs
+en informatique théorique et elle représente maintenant le lieu de
+rencontre par excellence pour les nouvelles générations de cherch
+eurs
+du domaine.
+L'édition 2014 sera dédiée à l'algorithmique pour la bi
+oinformatique.
+La bioinformatique est actuellement en plein essor. Née il y a une
+vingtaine d'années et d'abord utilisée pour aligner et comparer d
+es
+séquences d'ADN et de protéines, la bioinformatique a d=C3" fai
+re face
+au défi de l'explosion des connaissances, liées au séquen=C3
+=A7age rapide
+d'un grand nombre de génomes. Vu la quantité d'informations
+disponibles aujourd'hui, les algorithmes de traitement de données
+doivent évoluer rapidement. Cette école se propose d'en aborder
+certains aspects à fort impact.
+Le programme des cours est le suivant :
+* Lundi 12 mai :
+  - 9h-10h30, 11h-12h30 : cours 1 - Alain Denise : Combinatoire et
+  algorithmique de l'ARN (1)
+  - 14h-15h30, 16h-17h30 : cours 2 - Yann Ponty : Combinatoire et
+  algorithmique de l'ARN (2)
+* Mardi 13 mai :
+  - 9h-10h30, 11h-12h30 : cours 3 - Elisabeth Remy - Analyse
+  qualitative de la dynamique des réseaux de régulation via la
+  modélisation logique
+  - 14h-15h30, 16h-17h30 : cours 4 - Celine Scornavacca : Introduction
+  à la phylogénétique et à la phylogénomique
+* Mercredi 14 mai :
+  - 9h-10h30, 11h-12h30 : cours 5 - Xiaodong Wu : The Emerging Areas of
+  Computational Medicine: Problems, Solutions, and Research Trends
+* Jeudi 15 mai :
+  - 9h-10h30, 11h-12h30 : cours 6 - Eric Rivals : Analyse de séquen=C3
+=A7age
+  haut débit : besoins et solutions algorithmiques
+  - 14h-15h30, 16h-17h30 : cours 7 - Gregory Kucherov : Full-text
+  indexes for genomic data
+* Vendredi 16 mai :
+  - 9h-10h30, 11h-12h30 : cours 8 - Eric Tannier : Combinatoire des
+  réarrangements génomiques
+Informations pratiques :
+------------------------
+L'école se tiendra au village vacances La Vieille Perrotine
+(http://www.caes.cnrs.fr/vacances/nos-villages/la-vieille-perrotine).
+Une arrivée est prévue le dimanche 11 mai, et la fin de l'éc
+ole est
+prévue le vendredi 16 mars après le déjeuner. Un transport e
+n bus
+sera mis en place depuis la gare de La Rochelle en fin d'après-midi
+du 11 mai et un retour en bus le 16 en début d'apres-midi.
+La Vieille Perrotine est également accessible par des bus régiona
+ux
+depuis les gares TGV Surgères ou La Rochelle (cars entre Surgères,
+Saintes ou Rochefort jusqu'à Oléron (Le Ch=C3=A2teau d'Oléro
+n, Dolus ou
+Saint-Pierre)); Une liaison maritime entre La Rochelle et Boyardville
+(1,5 km du village) est également possible.
+Les frais d'inscription sont de 375 euros (incluant l'hébergement dans
+ le
+village vacance et les repas).
+Ph. Gambette & S. Vialette

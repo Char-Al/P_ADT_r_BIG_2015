@@ -1,0 +1,47 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2E38D26801D
+	for <bioinfo@sfbi.fr>; Thu, 17 Apr 2014 21:38:09 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApALAOQsUFOKZqI0nGdsb2JhbABZg0GDa4oHtkMDAoE8DgEBAQEBCAsJCRQogiYBBSMPAQURLxElAgUWCwICCQMCAQIBOgsTBgIBAYd4BAmoZ6J5F4EpjFcRAVcWglmBSQSYbpYAgXA
+X-IronPort-AV: E=Sophos;i="4.97,881,1389740400"; 
+   d="scan'208";a="57268359"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 17 Apr 2014 21:38:08 +0200
+Received: from MacBook-Air-de-sophie-2.local (bur91-3-82-239-212-158.fbx.proxad.net [82.239.212.158])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s3HJc7lK029175
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Thu, 17 Apr 2014 21:38:07 +0200 (CEST)
+Message-ID: <53502DAD.6070306@jouy.inra.fr>
+Date: Thu, 17 Apr 2014 21:38:21 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1Was7l-0008wl-Ny@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1Was7l-0008wl-Ny@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1Was7l-0008wl-Ny@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53502D9F.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53502D9F.000/82.239.212.158/bur91-3-82-239-212-158.fbx.proxad.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53502D9F.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=# B=0.074 -> S=0.074
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] Informaticien/Bioinformaticien Plateforme =?UTF-8?Q?IMGT=C2=AE?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Informaticien/Bioinformaticien Plateforme IMGT®
+Type de poste : CDD Ingénieur
+Durée du poste : 24 mois
+Ville : Montpellier
+Nom du contact : Patrice Duroux
+Email du contact : Patrice.Duroux@igh.cnrs.fr
+Laboratoire : IMGT®, the international ImMunoGeneTics information system®
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/informaticienbioinformaticien-plateforme-imgt%C2%AE

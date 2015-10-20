@@ -1,0 +1,99 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <brun@tagc.univ-mrs.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 33CA626801D
+	for <bioinfo@sfbi.fr>; Fri, 13 Jun 2014 10:36:09 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmIBALW3mlOLfEICl2dsb2JhbABAGoNfg0WmcgaZHwGBGw8BAQEBAQgWBzyEBAEFIw8BBTAQESUCBRYLAgIJAwIBAgFFGQMBGIgmDTayEIZ+mDsXgSqEMoZMASwKggQWgl+BTASFXYcAjVmBQ4U3kBg7LwE
+X-IronPort-AV: E=Sophos;i="5.01,470,1400018400"; 
+   d="scan'208";a="60086479"
+Received: from mail-tagc.univ-mrs.fr (HELO tagc.univ-mrs.fr) ([139.124.66.2])
+  by b-mx1.relay.syrhano.net with ESMTP; 13 Jun 2014 10:35:57 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by tagc.univ-mrs.fr (Postfix) with ESMTP id 3144116538
+	for <bioinfo@sfbi.fr>; Fri, 13 Jun 2014 10:35:56 +0200 (CEST)
+Received: from tagc.univ-mrs.fr ([127.0.0.1])
+	by localhost (tagc-webmail.univ-mrs.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id OHj2mR6qxyhO for <bioinfo@sfbi.fr>;
+	Fri, 13 Jun 2014 10:35:39 +0200 (CEST)
+Received: from [10.1.1.135] (unknown [10.1.1.135])
+	by tagc.univ-mrs.fr (Postfix) with ESMTP id BFD5216535
+	for <bioinfo@sfbi.fr>; Fri, 13 Jun 2014 10:35:39 +0200 (CEST)
+Message-ID: <539AB7DB.6060306@tagc.univ-mrs.fr>
+Date: Fri, 13 Jun 2014 10:35:39 +0200
+From: Christine Brun <brun@tagc.univ-mrs.fr>
+Reply-To: brun@tagc.univ-mrs.fr
+User-Agent: Thunderbird 2.0.0.19 (Windows/20081209)
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <01a101cf8554$58558360$09008a20$@embl.de>
+In-Reply-To: <01a101cf8554$58558360$09008a20$@embl.de>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Upcoming deadline for EMBL Conference: Frontiers in Fungal Systems
+ Biology
+On behalf of Anne-Claude Gavin
+------------------------------------------------------
+EMBL Conference: Frontiers in Fungal Systems Biology
+------------------------------------------------------
+The confirmed speakers are:
+Brenda Andrews <http://www.utoronto.ca/andrewslab/homepage.html>, 
+/University of Toronto/
+Wolfgang Baumeister <http://www.biochem.mpg.de/en/rd/baumeister>, /MPI 
+of Biochemistry
+/Martin Beck 
+<http://www.embl.de/research/units/scb/beck/members/index.php?s_personId=CP-60010058>, 
+/EMBL Heidelberg/ 
+Peer Bork 
+<http://www.embl.de/research/units/scb/members/index.php?s_personId=CP-60003241>, 
+/EMBL Heidelberg/
+Alistair Brown <http://www.abdn.ac.uk/ims/research/profiles/al.brown>, 
+/University of Aberdeen/ 
+Anne-Claude Gavin 
+<http://www.embl.de/research/units/scb/gavin/members/index.php?s_personId=CP-60003358>, 
+/EMBL Heidelberg/
+Matthias Heinemann 
+<http://www.rug.nl/research/molecular-systems-biology/>, /University of 
+Groningen/
+Regine Kahmann <http://www.mpi-marburg.mpg.de/kahmann/>, /MPI for 
+Terrestrial Microbiology/
+Edda Klipp <http://www2.hu-berlin.de/biologie/theorybp/>, /Humboldt 
+University Berlin/
+Jens Nielsen <http://www.sysbio.se/>, /Chalmers University of Technology/
+Kiran Raosaheb Patil 
+<http://www.embl.de/research/units/scb/patil/members/index.php?s_personId=CP-60012009>, 
+/EMBL Heidelberg/
+Paola Picotti <http://www.bc.biol.ethz.ch/research/picotti>, /ETH Zurich/
+Markus Ralser <http://www.bioc.cam.ac.uk/people/uto/ralser>, /University 
+of Cambridge/
+Uwe Sauer, , /ETH Zurich/
+Verena Siewers <http://www.sysbio.se/profiles/Verena.html>, /Chalmers 
+University of Technology/
+Nassos Typas 
+<http://www.embl.de/research/units/genome_biology/typas/members/index.php?s_personId=CP-60013460>, 
+/EMBL Heidelberg/
+Johan van Heerden 
+<http://www.ibi.vu.nl/sysbio/doku.php/people/johan_van_heerden>, /Vrije 
+Universiteit Amsterdam/
+Christine Vogel <http://biology.as.nyu.edu/object/ChristineVogel.html>, 
+/New York University/
+The abstract deadline is coming up on 3 July 2014.
+Please find below some further logistical information:
+Agenda The most up-to-date agenda and information regarding the 
+conference can be found on the following webpage 
+http://www.embl.de/training/events/2014/FUN14-01/programme/index.html
+-
+_______________________________________________________
+Anne-Claude Gavin, PhD, Group Leader, Senior Scientist
+European Molecular Biology Laboratory, EMBL
+Meyerhofstrasse 1, D-69117 Heidelberg, Germany
+Tel: +49 6221 387 8816, Fax: +49 6221 387 8519
+e-mail: gavin@embl.de
+----------------------------------
+Christine Brun, PhD
+TAGC Inserm U1090, Université Aix-Marseille, Parc Technologique de Luminy, Case 928, 13288 Marseille cedex 9 France
+Tel: 33 4 91 82 87 12 Fax: 33 4 91 82 87 01
+brun@tagc.univ-mrs.fr

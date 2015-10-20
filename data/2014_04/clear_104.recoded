@@ -1,0 +1,100 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <baaden@smplinux.de>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 8C6A626801D
+	for <bioinfo@sfbi.fr>; Tue, 29 Apr 2014 14:24:32 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ai8DAP2YX1PBMer1l2dsb2JhbABZg1W+FIczBIEiFg4BAQEBAQgWBzyCKmoDSh4WNyoJiDwJlkqyXheMVIQwD2eBFQSVHoNxAZYVOw
+X-IronPort-AV: E=Sophos;i="4.97,951,1389740400"; 
+   d="scan'208";a="57793828"
+Received: from raba.ibpc.fr ([193.49.234.245])
+  by b-mx1.relay.syrhano.net with ESMTP; 29 Apr 2014 14:24:31 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by raba.ibpc.fr (Postfix) with ESMTP id 4924F200181E
+	for <bioinfo@sfbi.fr>; Tue, 29 Apr 2014 14:15:25 +0200 (CEST)
+Received: from raba.ibpc.fr ([127.0.0.1])
+	by localhost (raba.ibpc.fr [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id v7YOEmbH8W-t for <bioinfo@sfbi.fr>;
+	Tue, 29 Apr 2014 14:15:21 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by raba.ibpc.fr (Postfix) with ESMTP id 76599200184B
+	for <bioinfo@sfbi.fr>; Tue, 29 Apr 2014 14:15:21 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at ibpc.fr
+Received: from raba.ibpc.fr ([127.0.0.1])
+	by localhost (raba.ibpc.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id MoBLiDe69W0h for <bioinfo@sfbi.fr>;
+	Tue, 29 Apr 2014 14:15:21 +0200 (CEST)
+Received: from baaden.galaxy.ibpc.fr (lux.lbt.ibpc.fr [172.27.0.151])
+	by raba.ibpc.fr (Postfix) with ESMTP id 65E462001847
+	for <bioinfo@sfbi.fr>; Tue, 29 Apr 2014 14:15:21 +0200 (CEST)
+X-Mailer: exmh version 2.8.0 04/21/2012 with nmh-1.5
+To: bioinfo@sfbi.fr
+From: Marc Baaden <baaden@smplinux.de>
+X-image-url: http://www.baaden.ibpc.fr/m-baaden.gif
+X-url: <http://www.marc-baaden.de>
+X-Face: -Nz&SN]%I8g9WFR#/!fe9se!_G_OndNloj@t+6jrGsoZ<t!|,TdYAQE<N8Yz|X>"z)?an0n
+ P!Nls~*o?u7fy:]1N|^^(KX*uE>Nk{bHaCJ)(hXF~E#5)j.k0n4hgfIzpmn,[VY'\7X:;VOZ\CItIq
+ G!2f8,k2`VLrkXQ:<.3LxEQ'E-;d:A)V#
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 29 Apr 2014 14:25:07 +0200
+Message-Id: <20140429121521.65E462001847@raba.ibpc.fr>
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Seminaire Art Olson - lundi 5 mai 14h00, IBPC
+Chers collegues,
+Le lundi 5 mai a 14h00 se tiendra un seminaire assez "interactif" de
+Art Olson, connu pour son logiciel autodock, du Scripps Research
+Institute a l'IBPC [1].
+ " Interacting with Protein Interactions "
+Biology has become accessible to an understanding of processes that span
+from atom to organism.  As such we now have the opportunity to build a
+spatio-temporal picture of living systems at the molecular level.  In
+our recent work we attempt to create, interact with, and communicate
+physical representations of complex molecular environments.
+I will discuss the challenges and demonstrate three levels of
+interaction with protein interactions: 1) human perceptual and cognitive
+interaction with complex structural information; 2) interaction and
+integration of multiple data sources to construct cellular environments
+at the molecular level; and 3) interaction of software tools that can
+bridge the disparate disciplines needed to explore, analyze and
+communicate a holistic molecular view of living systems.
+In order to increase our understanding and interaction with complex
+molecular structural information we have combined two evolving computer
+technologies, 3D printing and augmented reality. We create custom
+tangible molecular models and track their manipulation with real-time
+video, superimposing text and graphics onto the models to enhance their
+information content and to drive interactive computation.
+We have recently developed automated technologies to construct the
+crowded molecular environment of living cells from structural
+information at multiple scales as well as as bioinformatics information
+on levels of protein expression and other data.  We can populate
+cytoplasm, membranes, and organelles within the same structural volume
+to generate cellular environments that synthesize our current knowledge
+of such systems.
+The communication of complex structural information requires extensive
+scientific knowledge as well as expertise in creating clear
+visualizations.  We have developed a method of combining scientific
+modeling environments with professional grade 3D modeling and animation
+programs such as Maya, Cinema4D and Blender.  This gives both scientists
+and professional illustrators access to the best tools to communicate
+the science and the art of the molecular cell.
+Gillet, A., Sanner, M., Stoffler, D., Olson, A.J. (2005) Tangible
+interfaces for structural molecular biology. Structure:13:483-491.
+Johnson, G.T., Autin, L., Goodsell, D.S., Sanner, M.F., Olson A.J.
+(2011) ePMV Embeds Molecular Modeling into Professional Animation
+Software Environments. Structure 19(3):293-303.
+Le seminaire aura lieu dans la
+Bibliotheque, rez-de-chaussee, IBPC (apres l'accueil a gauche)
+(http://www.baaden.ibpc.fr/howtogo.html.fr)
+Cordialement,
+  Marc Baaden
+[1] http://www-lbt.ibpc.fr/LBT/uploads/File/AnnonceseminaireOlson.pdf
+--
+ ! Faraday Discussion #169 - Molecular Simulations and Visualization !
+http://www.rsc.org/ConferencesAndEvents/RSCConferences/FD/FD169/cfp.asp
+ Dr. Marc Baaden  - Institut de Biologie Physico-Chimique, Paris
+ mailto:baaden@smplinux.de      -      http://www.baaden.ibpc.fr
+ FAX: +33 15841 5026  -  Tel: +33 15841 5176  ou  +33 609 843217

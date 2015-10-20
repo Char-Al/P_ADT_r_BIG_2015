@@ -1,0 +1,73 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <christophe.caron@sb-roscoff.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 05DEF26801D
+	for <bioinfo@sfbi.fr>; Tue, 16 Sep 2014 15:18:18 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsIBAFk3GFTBNCfLgGdsb2JhbABgg2BXux+Pe4hiFgERAQELFAdAhDwBBTEBDi4PFhgDAgECATchBgIBAYg+CZYDpV+MHYNLhDUFklCDNIhlhWiEYYx8aoJKAQEB
+X-IPAS-Result: AsIBAFk3GFTBNCfLgGdsb2JhbABgg2BXux+Pe4hiFgERAQELFAdAhDwBBTEBDi4PFhgDAgECATchBgIBAYg+CZYDpV+MHYNLhDUFklCDNIhlhWiEYYx8aoJKAQEB
+X-IronPort-AV: E=Sophos;i="5.04,534,1406584800"; 
+   d="scan'208";a="72977770"
+Received: from mx.sb-roscoff.fr ([193.52.39.203])
+  by a-mx1.relay.syrhano.net with ESMTP; 16 Sep 2014 15:18:18 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mx.sb-roscoff.fr (Postfix) with ESMTP id 4FF332246B3;
+	Tue, 16 Sep 2014 15:18:17 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at mx.sb-roscoff.fr
+Received: from mx.sb-roscoff.fr ([127.0.0.1])
+	by localhost (mx.sb-roscoff.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Lx3mHG2n0rEh; Tue, 16 Sep 2014 15:18:12 +0200 (CEST)
+Received: from [192.168.4.43] (unknown [193.52.39.1])
+	(using TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(Client CN "Christophe Caron", Issuer "CNRS2-Standard" (not verified))
+	by mx.sb-roscoff.fr (Postfix) with ESMTP id 3DEA3224689;
+	Tue, 16 Sep 2014 15:18:12 +0200 (CEST)
+Message-ID: <54183897.7040706@sb-roscoff.fr>
+Date: Tue, 16 Sep 2014 15:18:15 +0200
+From: Christophe Caron <christophe.caron@sb-roscoff.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] =?WINDOWS-1252?Q?=C9cole?= =?WINDOWS-1252?Q?th=E9matique?= Galaxy4Bioinformatics : 3 au 5 novembre 2014
+Bonjour,
+Le groupe de travail GT-Galaxy de l'IFB, et avec un soutien financier du 
+CNRS, propose une école thématique sur 3 jours, autour des bonnes 
+pratiques d'intégration d'outils sous Galaxy.
+Cette formation s'adresse en premier lieu aux personnes ne disposant pas 
+d'une trop forte expérience dans le domaine d'intégration d'outils sous 
+Galaxy. Des pré-requis sont malgré tout demandés et précisés sur le 
+formulaire de pré-inscription.
+L'école s'articulera autour de plusieurs ateliers :
+- Présentation des concepts de workflows et de l'architecture Galaxy
+- Intégration d'outils
+- « Toolshed »
+- L'API Galaxy
+La  formation se déroulera sur 3 jours à Roscoff, du 3 au 5 novembre 
+2014. Elle sera effectué par plusieurs intervenants issus de plateformes 
+et laboratoires utilisant Galaxy depuis maintenant quelques années.
+Nombre de places : 18
+Participation aux frais d'inscriptions, incluant notamment les frais 
+d'hébergement et de restauration
+  - CNRS : 	 gratuit
+  - Académiques : 200 euros
+  - Privé : 	 1000 euros
+Les frais de déplacement sont à la charge des participants.
+Le programme de la formation, ainsi que d'autres informations, et un 
+formulaire de *pre-inscription*  :
+  http://galaxy4bioinformatics.sb-roscoff.fr/
+Clôture des pré-inscriptions : 30 Septembre 2014
+Pour le GT Galaxy
+-- 
+Christophe Caron  			
+Station Biologique / Service Informatique et Bio-informatique
+Place Georges Teissier - CS 90074
+29688 Roscoff Cedex
+Analysis and Bioinformatics for Marine Science
+    http://abims.sb-roscoff.fr/
+christophe.caron@sb-roscoff.fr
+tél: +33 (0)2 98 29 25 43 / +33 (0)6 07 83 54 77

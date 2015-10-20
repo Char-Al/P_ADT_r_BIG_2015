@@ -1,0 +1,74 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pierre.peterlongo@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 70DC326801D
+	for <bioinfo@sfbi.fr>; Tue, 28 Jan 2014 10:04:00 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmgDAFtx51LAhqRTf2dsb2JhbABag0S+PxYOAQELCwoIFCiCOCYBBTwEPRMDGAMCAQIBWAYCAQGIAQ2aQK8ZjxyEIgSYJ4Eyiy+GfYFv
+X-IronPort-AV: E=Sophos;i="4.95,735,1384297200"; 
+   d="scan'208";a="60991468"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by a-mx1.relay.syrhano.net with ESMTP; 28 Jan 2014 10:04:00 +0100
+X-IronPort-AV: E=Sophos;i="4.95,735,1384297200"; 
+   d="scan'208";a="55183834"
+Received: from cruxy.irisa.fr ([131.254.12.2])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-CAMELLIA256-SHA; 28 Jan 2014 10:03:59 +0100
+Message-ID: <52E77280.2010707@inria.fr>
+Date: Tue, 28 Jan 2014 10:04:00 +0100
+From: Pierre Peterlongo <pierre.peterlongo@inria.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre de stage M1/M2 - Inria Rennes - assemblage =?WINDOWS-1252?Q?metag=E9nomique?=
+Titre:
+Assemblage de multi-metagenomes.
+Résumé:
+Les séquenceurs nouvelles génération (NGS) permettent de lire l'ADN des 
+cellules d'organismes vivants. Ces dernières années, le tarif du 
+séquençage couplé avec l'augmentation vertigineuse de la capacité de 
+production de ces machines ont profondément modifié le paysage de la 
+biologie. Cependant, les séquenceurs ne permettent que la lecture de 
+courtes séquences (appelées des "reads") de centaines de caractères. Le 
+chevauchement de ces séquences, tel un puzzle, permet la reconstruction 
+des génomes initiaux. Cette étape, appelée l'assemblage, consiste à 
+organiser les données dans un graphe ("string graph" ou "de Bruijn 
+Graph") avant de rechercher dans ce graphe des chemins approximant au 
+mieux la séquence originale.
+En outre, cette dernière décennie a vu l'émergence de la métagénomique 
+où le but n'est plus de séquencer un individu mais un milieu (biotope) 
+complet. Dans ce cadre, aux difficultés usuelles de l'assemblage 
+s'ajoutent de nouveaux obstacles dus à l'hétérogénéité des données, les 
+similarités entres génomes séquencés, les inconnues concernant le nombre 
+et la taille des génomes en présence, etc.
+L'objet de ce stage est d'explorer une nouvelle approche pour 
+l'assemblage de métagénomes. Nous nous plaçons dans le cadre où 
+plusieurs metagénomes (multi-métagenomes) sont disponibles et liés par 
+des informations connexes. Dans ce cadre nous chercherons à exploiter 
+l'ensemble des informations disponibles pour proposer de nouvelles 
+méthodes d'assemblage.
+Ce stage réunit des aspects méthodologiques avec des aspects analyse de 
+données. Le/la candidat(e) retenu(e) aura donc un profil en adéquation 
+avec ces besoins.
+Le stage aura lieu à l'Inria de Rennes, dans l'équipe GenScale 
+http://team.inria.fr/genscale, et sera effectué en collaboration avec le 
+Genoscope - Institut de Génomique du CEA.
+Rémunération:
+environ 400  euros  (indemnité standard).
+Durée:
+3à 6 mois
+Contact:
+Informations complémentaires et candidatures: 
+pierre.peterlongo@inria.fr, 02 99 84 74 59
+-- 
+Document sans titre
+*Pierre Peterlongo - INRIA* - Research Associate / Chargé de recherche
+http://people.rennes.inria.fr/Pierre.Peterlongo/
+Campus de Beaulieu- Rennes
+35042 Rennes Cedex, France
+Tel : +33 (0)2 99 84 74 59
+Fax : +33 (0)2 99 84 71 71

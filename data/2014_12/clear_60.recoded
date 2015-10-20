@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id D2BF926801D
+	for <bioinfo@sfbi.fr>; Sun, 21 Dec 2014 20:44:10 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AiUBAJcil1SKZqI0nGdsb2JhbABbg1hYAYI8R8MwhyABAQEBAREBAQEBAQgLCQkULoQfFxAFESsIDggcAh8HAhIsECSILA2baY0kj0SBbI4mhT+BIY1vEQFtglKBQQWBIqcsgWcBAQgBAQEBAV6BPW6BDIE3AQEB
+X-IPAS-Result: AiUBAJcil1SKZqI0nGdsb2JhbABbg1hYAYI8R8MwhyABAQEBAREBAQEBAQgLCQkULoQfFxAFESsIDggcAh8HAhIsECSILA2baY0kj0SBbI4mhT+BIY1vEQFtglKBQQWBIqcsgWcBAQgBAQEBAV6BPW6BDIE3AQEB
+X-IronPort-AV: E=Sophos;i="5.07,618,1413237600"; 
+   d="scan'208";a="70144957"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 21 Dec 2014 20:44:08 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sBLJi5TA012077
+	for <bioinfo@sfbi.fr>; Sun, 21 Dec 2014 20:44:05 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 85F72296BB4
+	for <bioinfo@sfbi.fr>; Sun, 21 Dec 2014 20:44:05 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1Y2mSW-000F7o-6U
+	for bioinfo@sfbi.fr; Sun, 21 Dec 2014 20:46:32 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1Y2mSW-000F7o-6U@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Sun, 21 Dec 2014 20:46:32 +0100
+X-Miltered: at beta with ID 54972305.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54972305.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54972305.000 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.281 -> S=0.376
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] M2 - =?UTF-8?Q?Caract=C3=A9risation?= in silico   du potentiel =?UTF-8?Q?g=C3=A9n=C3=A9tique?= et fonctionnel des es  =?UTF-8?Q?p=C3=A8ces?= =?UTF-8?Q?bact=C3=A9riennes?= de la flore intestinale
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : M2 - Caractérisation in silico du potentiel génétique  
+et fonctionnel des espèces bactériennes de la flore intestinale
+Type de poste : Stage
+Durée du poste : 6 mois
+Ville : Jouy-en-Josas
+Nom du contact : Pons Nicolas
+Email du contact : nicolas.pons@jouy.inra.fr
+Laboratoire : INRA - MetaGenoPolis
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/m2-caract%C3%A9risation-silico-du-potentiel-g%C3%A9n%C3%A9tique-et-fonctionnel-des-esp%C3%A8ces-bact%C3%A9riennes-de-

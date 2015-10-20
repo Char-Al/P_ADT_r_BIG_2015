@@ -1,0 +1,52 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <olivier.sallou@irisa.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 82B1026801D
+	for <bioinfo@sfbi.fr>; Tue,  4 Nov 2014 09:42:00 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArABAHSQWFTAhqRonGdsb2JhbABcg2JZgwXLUQqIbxYBAQEBAREBAQEBAQYNCQkULoQsBEEQNgIFFgsCCwMCAQIBWAgBARWIKA2mUo9ClUCBLY8LdYIgDzISgUIFkyWDRIcYgTGDTY1JhVyCJoFxgUUBAQE
+X-IPAS-Result: ArABAHSQWFTAhqRonGdsb2JhbABcg2JZgwXLUQqIbxYBAQEBAREBAQEBAQYNCQkULoQsBEEQNgIFFgsCCwMCAQIBWAgBARWIKA2mUo9ClUCBLY8LdYIgDzISgUIFkyWDRIcYgTGDTY1JhVyCJoFxgUUBAQE
+X-IronPort-AV: E=Sophos;i="5.07,312,1413237600"; 
+   d="scan'208";a="67474072"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Nov 2014 09:41:59 +0100
+X-IronPort-AV: E=Sophos;i="5.07,312,1413237600"; 
+   d="scan'208";a="86133557"
+Received: from bilbo.irisa.fr (HELO [131.254.16.132]) ([131.254.16.132])
+  by mail3-relais-sop.national.inria.fr with ESMTP; 04 Nov 2014 09:41:59 +0100
+Message-ID: <5458915A.9070200@irisa.fr>
+Date: Tue, 04 Nov 2014 09:42:02 +0100
+From: Olivier Sallou <olivier.sallou@irisa.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] DebianMed annual sprint in Saint Malo 31/01/15 -> 01/02/15
+DebianMed [0] is a team of Debian, the Linux distribution, focusing on
+open source software packaging related to life sciences (medical,
+biology, bioinformatics, ..). Ubuntu is a derivative of Debian, and
+packages in Debian are available in Ubuntu distributions.
+Debian already provides tons of bioinformatics (and other) packages, and
+our goal is to provide more and more software, to ease the installation,
+availability and use of those software for the final user.
+We hold this year our annual sprint in Saint Malo, France, from 31/01/15
+to 01/02/15. Our sprints are a way to collaborate on software packaging
+and Debian future.
+We welcome newcomers willing to learn Debian packaging and/or willing to
+package their bioinformatics software (open source ) to make them
+available in Debian/Ubuntu repositories. Debian developers can help you
+during this week-end to prepare your package (help you, not do it for
+you...). Please note that your software should be open source to be
+eligible.
+This is an informal meeting, not a conference/workshop/..., and it is
+free. Room space is limited, so if you are interested, please let us know.
+More info at:
+https://wiki.debian.org/Sprints/2015/DebianMed2015
+[0] http://en.wikipedia.org/wiki/Debian-Med
+--
+gpg key id: 4096R/326D8438  (keyring.debian.org)
+Key fingerprint =3D 5FB4 6F83 D3B9 5204 6335  D26D 78DC 68DB 326D 8438

@@ -1,0 +1,82 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <petitjean.chiral@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5040226801D
+	for <bioinfo@sfbi.fr>; Wed,  4 Jun 2014 11:03:13 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApoHAFzgjlPRVcArlGdsb2JhbABZg1lYgiNJuBKHcAQCgQgIFg4BAQEBBwsLCRIqgjgGER0BGw0BDwEDCggDDQ8CJgIdBgEBEQEFATUiiAsBAxENkHuQD2qLJ4Fygw2aFgoZJw1khSQRAQUECIEeixKBRQEBTx2CX4FLBI1+iheBeoE/jAGEBRgphGo7LwGBCQ
+X-IronPort-AV: E=Sophos;i="4.98,972,1392159600"; 
+   d="scan'208";a="59609969"
+Received: from mail-qg0-f43.google.com ([209.85.192.43])
+  by b-mx1.relay.syrhano.net with ESMTP; 04 Jun 2014 11:03:12 +0200
+Received: by mail-qg0-f43.google.com with SMTP id 63so15210028qgz.2
+        for <bioinfo@sfbi.fr>; Wed, 04 Jun 2014 02:03:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=W9oI/YFPq55xVfi4bn9bWEkEqzkl+svqI9Ao5NFkgjQ=;
+        b=zmZS3y0MWWdkS3MMEFOd+TToOksZXi9jFyFJ6kWl9jWy0u4lmhUi10jsnwP0mBzS6p
+         nJNvHyqLuHbLbFYNcr1BKgOZp8HsPcijwtRAw7lR6LHVtNp075HF5PyNuGvmHnA9j4WE
+         j1EgfKpb+E1Ty7sRXt7wdZ75aAVgZZdEgKxYO95CaMC+et0bvTxIVzFqKReLi6edwD8e
+         bSeQC3TW90n5Oid4BFWi5aqE27NksZRSBNJArtN8jR9zbvrTO5Jbe/Ni1sg71rmn9WkU
+         LT9f+WVh9nItP3QAbztNjUpW//Fzo3rGJWr/pC0PQArrEWVEMW4D4HaRzaBZTyIT/LjE
+         K40Q=
+MIME-Version: 1.0
+X-Received: by 10.140.92.200 with SMTP id b66mr63889312qge.41.1401872591882;
+ Wed, 04 Jun 2014 02:03:11 -0700 (PDT)
+Received: by 10.140.101.113 with HTTP; Wed, 4 Jun 2014 02:03:11 -0700 (PDT)
+Date: Wed, 4 Jun 2014 11:03:11 +0200
+Message-ID: <CAEw5oCZPtEQ-XNRz3trx-TwWaEWzxM0GRm8W1EwTQnQKfi6qPA@mail.gmail.com>
+From: Michel Petitjean <petitjean.chiral@gmail.com>
+To: bioinfo@sfbi.fr
+Cc: Anne-Claude Camproux <anne-claude.camproux@univ-paris-diderot.fr>,
+	Olivier Taboureau <olivier.taboureau@univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Master ISDD (M1, M2) / Candidatures
+Les candidatures au Master 1 et 2 "In Silico Drug Design" appelé aussi
+"Innovation thérapeutique assistée par ordinateur a l'int
+erface chimie
+biologie" sont ouvertes.
+Ce master forme des professionnels(les) du privé et du public, au
+niveau fran=C3=A7ais mais aussi européen, acteurs de la recherche et d
+e la
+santé publique, à l'aide des approches in silico dans le 
+domaine de
+l'innovation thérapeutique et/ou orientés vers le dé
+veloppement de
+molécules pharmacologiques.
+L'interdisciplinarite et l'internationalisation de ce maste
+r est
+ouvert aux etudiants desireux de travailler a l'interface de la
+chimie, la biologie et l'informatique.
+Ce master acceuille des étudiants de diverses formations initiales
+(universitaires ou ecoles d'ingenieurs) en biochimie, chimie,
+biologie, biologie-informatique, secteur medical, pharmacie, sciences
+bio-médicales.
+Les dossiers de candidatures et toutes les informations utiles sont
+disponibles sur le site:
+http://isddteach.sdv.univ-paris-diderot.fr
+Contact:
+-------------------------------------------------------
+Pr Anne-Claude CAMPROUX
+Bureau 410
+Bioinformatique-MTI
+Université Paris-Diderot
+B=C3=A2timent lamarck 2 4éme étage
+35, rue Hélène Brion 75205 Paris Cedex 13
+tel: 01 57 27 83 77
+fax: 01 57 27 83 97
+mail : anne-claude.camproux@univ-paris-diderot.fr
+---------------------------------------------------------
+Michel Petitjean
+MTi, INSERM UMR-S 973, University Paris 7,
+35 rue Helene Brion, 75205 Paris Cedex 13, France.
+Phone: +331 5727 8434; Fax: +331 5727 8372
+E-mail: petitjean.chiral@gmail.com (preferred),
+            michel.petitjean@univ-paris-diderot.fr
+http://petitjeanmichel.free.fr/itoweb.petitjean.freeware.html

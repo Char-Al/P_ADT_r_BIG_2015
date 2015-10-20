@@ -1,0 +1,139 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <ptgm@kdbio.inesc-id.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 700BF26801D
+	for <bioinfo@sfbi.fr>; Mon, 27 Jan 2014 23:21:32 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjgCAJba5lKSwSACnGdsb2JhbABaFoMuqiUBlCcWDgEBAQEBCBQJPIJJFQEzAQEQPRYYAwIBAgF3AodqBAmaYqw0jjWFFwSYJ4EyhRWGGYhrgWg
+X-IronPort-AV: E=Sophos;i="4.95,731,1384297200"; 
+   d="scan'208";a="53027009"
+Received: from smtp.inesc-id.pt ([146.193.32.2])
+  by b-mx1.relay.syrhano.net with ESMTP; 27 Jan 2014 23:21:31 +0100
+Received: from beth.inesc-id.pt (kdbio.inesc-id.pt [146.193.39.102])
+	by mail.inesc-id.pt (8.13.8/8.13.8) with ESMTP id s0RML8UO007422
+	for <bioinfo@sfbi.fr>; Mon, 27 Jan 2014 22:21:09 GMT
+Received: from [192.168.1.137] (89-181-211-203.net.novis.pt [89.181.211.203])
+	(authenticated bits=0)
+	by beth.inesc-id.pt (8.14.7/8.14.5) with ESMTP id s0RMLMbo014140
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-CAMELLIA256-SHA bits=256 verify=NO);
+	Mon, 27 Jan 2014 22:21:22 GMT
+Message-ID: <52E6DBF4.5040603@kdbio.inesc-id.pt>
+Date: Mon, 27 Jan 2014 22:21:40 +0000
+From: "Pedro T. Monteiro" <ptgm@kdbio.inesc-id.pt>
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.4.1 (mail.inesc-id.pt [146.193.32.2]); Mon, 27 Jan 2014 22:21:09 +0000 (WET)
+X-Inesc-ID-MailScanner-Information: Please contact the mailserver administrator for more information
+X-Inesc-ID-MailScanner-ID: s0RML8UO007422
+X-Inesc-ID-MailScanner: Not scanned: please contact the mailserver administrator for details
+X-Inesc-ID-MailScanner-SpamCheck: not spam, SpamAssassin (not cached,
+	score=-1.9, required 6, autolearn=not spam, BAYES_00 -1.90)
+X-Inesc-ID-MailScanner-From: ptgm@kdbio.inesc-id.pt
+X-Spam-Flag: No
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] DILS 2014 Lisbon - 2nd Call for Papers
+(Please distribute this CFP among your colleagues and students)
+-------------------------------------------------------------------------
+ 10th International Conference on Data Integration in the Life Sciences
+             DILS 2014 - http://dils2014.inesc-id.pt
+                       Lisbon, Portugal
+                       July 17-18, 2014
+-------------------------------------------------------------------------
+*KEY DATES*
+February 7, 2014:  Abstract submission deadline
+February 14, 2014: Paper submission deadline
+April 4, 2014:     Notification of acceptance
+May 3, 2014:       Camera-ready copy due
+May 15, 2014:      Poster/Demo Submission deadline
+June 6, 2014:      Poster/Demo Notification of acceptance
+July 17-18, 2014:  Conference
+*TOPICS OF INTEREST*
+The DILS conference is an interdisciplinary forum on advances in data
+integration, data management and data analysis for the life sciences.
+Researchers and professionals from biology, medicine, computer science
+and engineering are invited to contribute their latest results. Of
+particular interest are topics related to enabling the use of Big Data
+in life science research and applications.
+Topics of interest include, but are not limited to:
+- Big Data Integration for the life sciences
+- Ontology mappings and evolution
+- Large-scale data analysis for the life sciences
+- Architectures and data management techniques for the life sciences
+- Query processing and optimization for biological data
+- Biological data sharing and update propagation
+- Query formulation assistance for scientists
+- Modeling of life sciences data
+- Biomedical data integration issues in eScience
+- Laboratory information management systems in biology (including
+workflow systems)
+- Quality assurance in integrated biological data repositories
+- Biomedical metadata management (including provenance)
+- Mining integrated life sciences data and text resources
+- Standards for biomedical data integration and annotation
+- Scientific results arising from innovative data integration solutions
+- Exposing biomedical data for integration (APIs, Linked Open Data,
+SPARQL endpoints)
+- Creation and use of clinical data repositories
+- Data integration in clinical and translational research
+- Integration of genotypic and phenotypic data
+- Challenges and opportunities with big data in the life sciences
+- Ethical, legal and social issues with biomedical data integration.
+Papers are to be prepared using LNCS templates and submitted using the
+EasyChair site:
+https://www.easychair.org/conferences/?conf=dils2014.
+The proceedings of DILS will be published by Springer in Lecture Notes
+in Bioinformatics.
+The authors of the best papers will be invited to submit an extended
+version of their DILS paper for publication in a supplement of the
+Journal of Biomedical Semantics.
+*Posters and Demos*
+DILS2014 also invites the submission of posters and demos to be
+presented in the poster/demo session at the conference. The poster/demo
+abstracts will not be included in the DILS 2014 proceedings, but will be
+published in the web site and distributed in the conference.  The
+poster/demo abstracts should be submitted using the EasyChair site (up
+to 4 pages), clearly specifying the category (poster or demo).
+Important dates for poster/demo abstracts:
+May 15, 2014: Submission deadline
+June 6, 2014: Notification of acceptance.
+*Program Committee Chairs*
+Helena Galhardas, Instituto Superior Técnico and INESC-ID, Portugal
+Erhard Rahm, University of Leipzig, Germany
+*Program Committee*
+Christopher Baker, University of New Brunswick, Canada
+Kenneth J Barker, IBM, USA
+Olivier Bodenreider, NIH, USA
+João Carriço, IMM, Portugal
+James Cimino, National Library of Medicine, USA
+Claudine Chaouiya, IGC, Portugal
+Luis Pedro Coelho, EMBL, Germany
+Sarah Cohen-Boulakia, LRI, University of Paris-Sud 11, France  
+Francisco Couto, Faculty of Sciences, University of Lisbon, Portugal
+Alexandre Francisco, Instituto Superior Técnico and INESC-ID, Portugal
+Juliana Freire, NYU-Poly, USA
+Christine Froidevaux, LRI, University of Paris-Sud 11, France
+Hasan Jamil, University of Idaho, USA
+Graham Kemp, Chalmers University of Technology, Sweden  
+Toralf Kirsten, University of Leipzig, Germany
+Birgitta König-Ries, Institut für Informatik
+Friedrich-Schiller-Universität Jena, Germany
+Patrick Lambrix, Linköping University, Sweden
+Adam Lee, University of Maryland and National Library of Medicine, USA
+Mong Li Lee, National University of Singapore, Singapore
+Ulf Leser, Humboldt-Universität zu Berlin, Germany
+Bertram Ludaescher, University of California, USA
+Sara Madeira, Instituto Superior Técnico and INESC-ID, Portugal
+Paolo Missier, Newcastle University, UK
+Norman Paton, University of Manchester, UK
+Cédric Prusky, CRP Henri Tudor, Luxemburg
+Uwe Scholz, IPK Gatersleben, Germany  
+Maria Esther Vidal, Universidad Simón Bolívar, Venezuela
+Dagmar Waltemath, University of Rostock, Germany
+-- 
+Pedro T. Monteiro
+INESC-ID, 1000-029, Lisboa, Portugal
+http://kdbio.inesc-id.pt/~ptgm/

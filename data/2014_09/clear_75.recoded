@@ -1,0 +1,38 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id B448B26801D; Thu, 25 Sep 2014 09:28:54 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: celine.vallot@univ-paris-diderot.fr
+Message-ID: <sympa.1411629696.31621.262@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Thu, 25 Sep 2014 09:28:54 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD/Ingénieur] Bioinformatician for the analysis of non-coding RNAs in cancer
+A 2-years Bioinformatics Research Assistant position is
+available in the laboratory of Dr. Claire Rougeulle to study
+long non-coding RNAs in cancer.
+Starting Date: January 2015
+The aim of the project is to systematically identify non-coding transcripts involved in tumor progression using a combination of human tumor samples and cellular models. It is a multi- team effort supported by the French National Alliance for Life and Health Science. The project involves:
+1) Performing primary and secondary analysis of our RNA-seq data (quality control, alignment and differential expression analysis).
+2) Performing de novo identification of long non-coding RNAs with ad hoc algorithms.
+We are seeking strongly motivated, science-driven applicants with Masters in
+informatics/bioinformatics. Applicants should have expertise in computational analyses and capacity to understand/develop scripts in Shell, R, Perl or Python. Expertise in high-throughput sequencing data analysis is a plus. The successful candidate will work in the group of Dr. Claire Rougeulle in the Department of Epigenetics and Cell Fate, at Paris Diderot University in Paris,
+which offers a highly dynamic, international environment.
+To apply, please send :
+-curriculum vitae
+-cover letter outlining your motivation
+-names/contact information of two references.
+Contact Information:
+Claire Rougeulle
+Céline Vallot
+UMR7216 Epigenetics and Cell Fate
+Université Paris Diderot, 35 rue Hélène Brion
+75205 Paris Cedex 13
+Email: claire.rougeulle@univ-paris-diderot.fr ; celine.vallot@univ-paris-diderot.fr
+http://exc.parisepigenetics.com/

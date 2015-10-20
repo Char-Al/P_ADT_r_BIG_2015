@@ -1,0 +1,133 @@
+Return-Path: <Laurent.Mouchard@univ-rouen.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id CE8E526801D
+	for <bioinfo@sfbi.fr>; Wed, 25 Jun 2014 09:04:44 +0200 (CEST)
+X-IronPort-AV: E=Sophos;i="5.01,544,1400018400"; 
+   d="scan'208";a="60735519"
+Received: from smtp-out-2.univ-rouen.fr (HELO mailhoc.univ-rouen.fr) ([193.52.152.97])
+  by b-mx1.relay.syrhano.net with ESMTP; 25 Jun 2014 09:04:45 +0200
+Received: from [10.196.49.16] (sct-13-b0f2-1649.univ-rouen.fr [10.196.49.16])
+	(using TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mailhoc.univ-rouen.fr (Postfix) with ESMTPSA id 64C7F38E
+	for <bioinfo@sfbi.fr>; Wed, 25 Jun 2014 09:04:44 +0200 (CEST)
+Message-ID: <53AA748C.5020402@univ-rouen.fr>
+Date: Wed, 25 Jun 2014 09:04:44 +0200
+From: Laurent Mouchard <Laurent.Mouchard@univ-rouen.fr>
+Organization: University of Rouen, France
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <20140625101142.61E2.2B865397@hgc.jp>
+In-Reply-To: <20140625101142.61E2.2B865397@hgc.jp>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+Subject: [bioinfo] GIW 2014 2nd CFP
+--------------------------------------------------------
+       Call for Papers, Highlights, and Posters
+The 25th International Conference on Genome Informatics
+                (GIW/ISCB-Asia 2014)
+           December 15-17, 2014, Tokyo, Japan
+              http://www.jsbi.org/giw2014/
+--------------------------------------------------------
+The 25th International Conference on Genome Informatics
+(GIW/ISCB-Asia 2014) will be held in Tokyo, Japan on 15-17
+December, 2014. We will have not only the traditional proceedings
+track but also a highlight track this year, and we are happy to
+call for papers, highlight presentations, and posters as below.
+We look forward to your submission and participation, and hope
+to see you in Tokyo.
+Kiyoshi Asai (Conference Co-Chair)
+Paul Horton (Conference Co-Chair)
+Tetsuo Shibuya (PC Co-Chair)
+Chuan Yi Tang (PC Co-Chair)
+=========================================
+Full Paper Submissions (Proceedings Track)
+=========================================
+The aims of the proceedings track are to present recent new results
+of both theoretical and practical research, to show new applications,
+to demonstrate systems, and to indicate directions of future research
+of bioinformatics. Papers in all areas related to works that are
+ultimately devoted to the computational understanding of biological
+systems on a molecular basis will be considered.
+The following journals have agreed to consider GIW/ISCB-Asia 2014
+proceedings track presentations for publication:
+     Bioinformatics
+     IEEE/ACM Transactions on Computational Biology
+     BMC Genomics
+     BMC Systems Biology
+     Journal of Bioinformatics and Computational Biology
+In particular, we plan to compile GIW/ISCB-Asia 2014 associated special
+issues for BMC Genomics/Systems Biology, IEEE/ACM TCB and JBCB. Papers
+must not have been previously published and must not be currently under
+consideration for publication elsewhere. All submissions will be
+peer-reviewed and each accepted paper will be recommended for publication
+in one of the above 5 journals. All papers should be submitted
+electronically in PDF format via:
+https://www.easychair.org/conferences/?conf=giw2014
+In general, you should use the template of the journal whose preferred
+themes are closest to your submission. For example, papers that are more
+algorithmic in nature are slightly preferred at TCBB, papers that are
+more genomics / systems biology modeling in nature best fit BMC Genomics
+/ BMC Systems Biology respectively. Select the button of the journal you
+think your manuscript fit best when you submit your manuscript through
+the submission server. Note that you need to pay publication fees in
+case your manuscript will be selected for publication in BMC Genomics
+or BMC Systems Biology (or in some other cases, such as when selecting
+the open access option for Bioinformatics, so please check the website
+of the relevant journal for more information). Check the button to state
+that you can pay the fee in these cases. Otherwise, your manuscript will
+not be selected for publication in these two journals.
+At least one of the authors of the accepted papers for the Proceedings
+Track are required to make the presentation at the conference, and must
+register and pay to attend the conference.
+For more details, please check:
+    http://www.jsbi.org/giw2014/call-for-papers/
+------------------------------------------------
+Important Dates (Proceedings Track)
+------------------------------------------------
+July 7, 2014 Paper submission deadline
+August 11, 2014 First notification to the authors
+August 18, 2014 Revision due
+August 25, 2014 Final notification to the authors
+September 10, 2014 Camera-ready due
+------------------------------------------------
+===============================================
+Highlight Abstract Submissions (Highlight Track)
+===============================================
+We are happy to introduce the highlight track in the GIW/ISCB-Asia 2014.
+We invite submission of abstracts of already-published full papers, or
+papers accepted for publication, between June 1, 2013 and the highlight
+track abstract submission deadline, August 11, 2014. Publications that
+are in press and already linked on the journal web site by the deadline
+are also eligible for consideration. The highlight track program committee
+members will select the papers to be presented, considering the impact
+of the work on the field and the interest to the audience of the conference,
+in general. The abstract should be in 1-page (at most 2-page)
+in PDF format, and should explain how the work impacts the field.
+Submit the abstract electronically through:
+https://www.easychair.org/conferences/?conf=giw2014
+Accepted presenters for the Highlights Track are required to make the
+presentation themselves, and must register and pay to attend the conference.
+------------------------------------------------------
+Important Dates (Highlight Track)
+------------------------------------------------------
+August 11, 2014 Highlight abstract submission deadline
+September 8, 2014 Notification to the authors
+------------------------------------------------------
+================================
+Poster Submissions (Poster Track)
+================================
+We also call for posters to be presented at the conference. Please submit
+your abstract through:
+https://www.easychair.org/conferences/?conf=giw2014
+Accepted presenters for the Poster Track are required to make the
+presentation themselves, and must register and pay to attend the conference.
+------------------------------------------------
+Important Dates (Poster Track)
+------------------------------------------------
+August 25, 2014 Poster abstract submission deadline
+September 15, 2014 Notification to the authors
+------------------------------------------------

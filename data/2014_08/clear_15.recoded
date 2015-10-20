@@ -1,0 +1,132 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gtpb-bounces@igc.gulbenkian.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id D16E526801D
+	for <bioinfo@sfbi.fr>; Tue, 19 Aug 2014 12:06:31 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArMFAKYg81PBiV4F/2dsb2JhbABZgy0zTQoBi0ejdwEBAQEBAQadFQqIeXeEBQYBAUMKHg4DAQIGAisdCAMBCxgBNRMFF4gqCcFlhXyEA4M9hE8PRIFBBYYRhFWKZYN1gwGBWIVTjVmDXmsBgk4BAQE
+X-IronPort-AV: E=Sophos;i="5.01,893,1400018400"; 
+   d="scan'208";a="71534959"
+Received: from igcns.igc.gulbenkian.pt (HELO mx01.igc.gulbenkian.pt) ([193.137.94.5])
+  by a-mx1.relay.syrhano.net with ESMTP; 19 Aug 2014 12:06:30 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id 51E1D6C5C7;
+	Tue, 19 Aug 2014 11:06:27 +0100 (WEST)
+X-Virus-Scanned: Debian amavisd-new at igcns
+Received: from mx01.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id ZjH3sSs9qKWf; Tue, 19 Aug 2014 11:06:27 +0100 (WEST)
+Received: from [127.0.1.1] (mx00.igc.gulbenkian.pt [192.168.50.10])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id 2495A6C5CC;
+	Tue, 19 Aug 2014 11:06:26 +0100 (WEST)
+X-Original-To: gtpb@igc.gulbenkian.pt
+Delivered-To: gtpb@igc.gulbenkian.pt
+Received: from localhost (localhost [127.0.0.1])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id A73A72B6103
+	for <gtpb@igc.gulbenkian.pt>; Tue, 19 Aug 2014 11:04:21 +0100 (WEST)
+Received: from mx00.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id rqOQ7wXXGgxE for <gtpb@igc.gulbenkian.pt>;
+	Tue, 19 Aug 2014 11:04:16 +0100 (WEST)
+Received: from webmail.igc.gulbenkian.pt (webmail.igc.gulbenkian.pt
+	[192.168.50.6])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 7C7F62B6101
+	for <gtpb@igc.gulbenkian.pt>; Tue, 19 Aug 2014 11:04:16 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by webmail.igc.gulbenkian.pt (Postfix) with ESMTPA id 6FDED60EA0
+	for <gtpb@igc.gulbenkian.pt>; Tue, 19 Aug 2014 11:04:16 +0100 (WEST)
+Received: from 116.43.249.5.rev.vodafone.pt (116.43.249.5.rev.vodafone.pt
+	[5.249.43.116]) by webmail.igc.gulbenkian.pt (Horde Framework) with
+	HTTP; Tue, 19 Aug 2014 11:04:16 +0100
+Message-ID: <20140819110416.296731v4qndetue8@webmail.igc.gulbenkian.pt>
+Date: Tue, 19 Aug 2014 11:04:16 +0100
+From: Pedro Fernandes <pfern@igc.gulbenkian.pt>
+To: gtpb <gtpb@igc.gulbenkian.pt>
+MIME-Version: 1.0
+Content-Disposition: inline
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.6)
+X-Mailman-Approved-At: Tue, 19 Aug 2014 11:05:24 +0100
+X-BeenThere: gtpb@igc.gulbenkian.pt
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: The Gulbenkian Training Programme in Bioinformatics
+	<gtpb.igc.gulbenkian.pt>
+List-Unsubscribe: <https://lists.igc.gulbenkian.pt/mailman/options/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=unsubscribe>
+List-Archive: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb>
+List-Post: <mailto:gtpb@igc.gulbenkian.pt>
+List-Help: <mailto:gtpb-request@igc.gulbenkian.pt?subject=help>
+List-Subscribe: <https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=subscribe>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="iso-8859-1"; Format="flowed"; DelSp="Yes"
+Sender: gtpb-bounces@igc.gulbenkian.pt
+Errors-To: gtpb-bounces@igc.gulbenkian.pt
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Gtpb] ABSTAT14 Advanced Biostatistics training course -
+	announcement
+    REMINDER
+The Gulbenkian Training Programme in Bioinformatics is happy to
+announce that the
+ABSTAT14 -  "Advanced Biostatistics for Bioinformatics Tool Users using R"
+training course is open for applications
+    IMPORTANT DATES for this Course
+    Deadline for applications: September 5th 2014             <=3D=3D=3D=3D
+=3D=3D=3D=3D=3D
+    Latest acceptance notification: September 6th 2014        <=3D=3D=3D=3D
+=3D=3D=3D=3D=3D
+    Course date: September 15th - 18th 2014
+Attendance fee: Euro 320.00
+Course description
+This course is a standalone advanced Biostatistics course that can be
+taken as a continuation of the Introductory Biostatistics for
+Bioinformatics (IBSTAT) course that precedes it in GTPB. It is
+targeted for Biostatistical techniques often employed in analytical
+tools for high throughput data and multivariate data. Participants can
+expect to attend a thorough set of lectures that will reveal the
+conceptual frameworks that are needed to understand the methods.
+Extensive hands-on practice will be the main vehicle for providing the
+skills and user independence. To keep things in context, the course is
+exclusively based on biological examples, worked with Bioinformatics
+tools.
+Care has been taken not to use any proprietary data or software, so
+that the hands-on experience can carry on after the course, providing
+maximum user independence. We will be using custom-built R scripts and
+packages that are available from the CRAN and Bioconductor repositories.
+Methodology
+This intensive course will introduce a relatively high number of
+concepts and methods. To keep it highly practical, we will spend most
+of the time in hands-on sessions.
+- We will focus on each method using examples taken from real world
+Bioinformatics practice.
+- We will then dissect the method, identifying the concepts and
+exploring their interrelationships.
+- The applicability and limitations of each method will be emphasized.
+- The use of the method will be illustrated using appropriate
+Bioinformatics tools and biological data resources.
+------------------------------------------------------------
+Due to the summer period, there will be little time to deal with the
+applications, so the sooner you apply the better and we will do our
+best to make the acceptance process run smoothly. Early acceptance
+decisions will be the rule, not the exceptions, though you can help in
+justifying why you need to know about it in advance (please use the
+appropriate space in the Application Form).
+More details, including APPLICATION instructions can be found under the URL:
+http://gtpb.igc.gulbenkian.pt/bicourses/ABSTAT14/
+Thank you for your interest
+P. Fernandes
+GTPB Coordinator
+--
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb

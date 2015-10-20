@@ -1,0 +1,117 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <paolo.dm.romano@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id D70D526801D
+	for <bioinfo@sfbi.fr>; Thu,  3 Apr 2014 10:11:47 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqQEAOkWPVNTZ0PF/2dsb2JhbABYg0GxR4tNhzWBM3SCSRUBBRYODDcWNAIQAg4VFwgFAgQBAQIFFASHQwEDFQmdVY9tmhQKGScNZIZSF4JciXuBLQsRAS6EYQSLa4sBgW2BNIUdhh4DhUyDMjsxgQQ
+X-IronPort-AV: E=Sophos;i="4.97,785,1389740400"; 
+   d="scan'208";a="56447426"
+Received: from mail.istge.it (HELO clus2.istge.it) ([83.103.67.197])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Apr 2014 10:11:47 +0200
+Received: from [10.2.0.100] ([10.2.0.100])
+	(authenticated bits=0)
+	by clus2.istge.it (8.13.1/8.13.1) with ESMTP id s338CHio032689
+	for <bioinfo@sfbi.fr>; Thu, 3 Apr 2014 10:12:18 +0200
+Message-ID: <533D17AF.80806@gmail.com>
+Date: Thu, 03 Apr 2014 10:11:27 +0200
+From: Paolo Romano <paolo.dm.romano@gmail.com>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.9) Gecko/20100722 Eudora/3.0.4
+MIME-Version: 1.0
+To: SFBI mailing list <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Greylist: Sender succeeded SMTP AUTH authentication, not delayed by milter-greylist-3.0 (clus2.istge.it [10.1.0.11]); Thu, 03 Apr 2014 10:12:18 +0200 (CEST)
+X-Spam-Status: No, score=-2.0 required=5.0 tests=ALL_TRUSTED,
+	RATWARE_GECKO_BUILD autolearn=failed version=3.0.1
+X-Spam-Checker-Version: SpamAssassin 3.0.1 (2004-10-22) on clus2.istge.it
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] NETTAB 2014 & Crystal (cl)Year 2014, October 16-17, 2014, Torino,
+ Italy
+Dear SFBI members,
+in the hope that it can be of your interest, I'm sending you some 
+information on next NETTAB 2014 workshop and its joint meeting "2014: 
+Crystal (cl)Year".
+As you will see, the workshop will be held in Torino, quite near to the 
+French border indeed, from October 16 to 17, 2014, at the Molecular 
+Biotechnology Center (MBC) of the local University.
+The main theme of the NETTAB 2014 is "From high-throughput structural 
+bioinformatics to integrative systems biology".
+Main topics relate to methods, tools, applications, and perspectives on 
+structural bioinformatics, proteomics and integrative systems biology.
+We have already agreed with BMC for the post workshop publication of two 
+supplements of BMC Bioinformatics and of BMC Systems Biology including 
+selected full papers from the workshop.
+A synthesis of the main information is reported here below.
+You will find the complete call for abstracts and much more information 
+in the events' web sites:
+NETTAB 2014: http://www.nettab.org/2014/
+CCY 2014: http://www.nettab.org/2014/CCY/
+I hope you will be interested in submitting and attending.
+Please don't hesitate to ask for any further information.
+Best regards.
+Paolo Romano
+=====
+NETTAB 2014
+*From high-throughput structural bioinformatics to integrative systems
+biology*
+October 15-17, 2014, Molecular Biotechnology Center (MBC), Turin, Italy
+http://www.nettab.org/2014/
+*Keynote Speakers*
+ -  Wolfgang Marwan, Otto-von-Guericke Universität, Magdeburg, Germany
+ -  Ram Samudrala, University of Washington, Seattle, USA
+ -  Torsten Schwede, University of Basel, Switzerland
+ -  Ada Yonath, Weizmann Institute of Science, Rehovot, Israel (Nobel
+Laureate)
+*Important dates*
+ -  Submission of abstracts for oral communications: July 21, 2014
+ -  Submission of abstracts for posters: September 1, 2014
+ -  Early registration deadline: July 31, 2014
+*Instructions for abstract submission*
+Authors are invited to submit abstracts through EasyChair at:
+https://www.easychair.org/conferences/?conf=nettab2014 .
+Abstract length should not exceed 4 pages for oral communications and 2
+pages for posters.
+Accepted abstracts will be printed in the conference proceedings.
+*Post-workshop publication*
+Two special issues will appear as supplements of BMC Bioinformatics and
+of BMC Systems Biology.
+The related Call for papers will be launched shortly after the workshop.
+*Chairs*
+Francesca Cordero (University of Torino, Italy)
+Paolo Romano (IRCCS AOU San Martino, Italy)
+Torsten Schwede (University of Basel, Switzerland)
+*Under the Patronage of* (confirmed only)
+ -  Italian Society of Bioinformatics (BITS)
+ -  Rete Ligure di Bioinformatica (ReLiB)
+====
+*2014: Crystal (cl)Year*
+October 16-17, 2014, Molecular Biotechnology Center (MBC), Turin, Italy
+http://www.nettab.org/2014/CCY/
+*Keynote Speakers*
+ -  Eddy Arnold, Rutgers University, USA
+ -  David Blake, NASA-AMES, USA
+ -  Brian K. Kobilka, Stanford University, USA (Nobel Laureate 2012)
+ -  Paul Steinhardt, Princeton University, USA
+ -  John Walker, MRC Cambridge, UK (Nobel Laureate 1997)
+ -  Ada Yonath, Weizmann Institute, IL (Nobel Laureate 2009)
+*Travel Grants or Free Registrations will be available for Young Scientists*
+*Under the Patronage of*
+ -  Italian Association of Crystallography (AIC)
+ -  European Crystallographic Association (ECA)
+ -  International Union of Crystallography (IUCr)
+-- 
+Paolo Romano
+Bioinformatics Lab, Biopolimers and Proteomics Service
+IRCCS AOU San Martino IST, Genova, Italy
+Email: paolo.dm.romano@gmail.com
+-- 
+You received this message because you are subscribed to the Google 
+Groups "HSCBB" group.
+To unsubscribe from this group and stop receiving emails from it, send 
+an email to hscbb-gr+unsubscribe@googlegroups.com.
+To post to this group, send email to hscbb-gr@googlegroups.com.
+Visit this group at http://groups.google.com/group/hscbb-gr.
+For more options, visit https://groups.google.com/d/optout.

@@ -1,0 +1,51 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www-data@sfbi.mti.univ-paris-diderot.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id D2DAF26801D
+	for <bioinfo@sfbi.fr>; Mon,  6 Jan 2014 17:37:28 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArMBAH/bylLC/j2KnGdsb2JhbABYg0ODU7Z+VhYOAQEBAQEICwkJFCiCTxAFESsIDhMRAgUaBwIRPSSICAmaR48RmVgXgSmNBBEBbYJZgUgEnm+NLIE/gXA
+X-IronPort-AV: E=Sophos;i="4.95,613,1384297200"; 
+   d="scan'208";a="51887141"
+Received: from korolev.univ-paris7.fr ([194.254.61.138])
+  by b-mx1.relay.syrhano.net with ESMTP; 06 Jan 2014 17:37:28 +0100
+Received: from duc.rpbs.univ-paris-diderot.fr (duc.mti.univ-paris-diderot.fr [81.194.29.54])
+	by korolev.univ-paris7.fr (8.14.4/8.14.4/relay1/46573) with ESMTP id s06GbRjM024937
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Mon, 6 Jan 2014 17:37:27 +0100
+Received: from sfbi.mti.univ-paris-diderot.fr (sfbi.mti.univ-paris-diderot.fr [81.194.29.2])
+          by duc.rpbs.univ-paris-diderot.fr (8.13.7/jtpda-5.4) with SMTP id s06GbQ9w026690
+          for <bioinfo@sfbi.fr>; Mon, 6 Jan 2014 17:37:26 +0100
+Message-Id: <201401061637.s06GbQ9w026690@duc.rpbs.univ-paris-diderot.fr>
+Received: by sfbi.mti.univ-paris-diderot.fr (sSMTP sendmail emulation); Mon, 06 Jan 2014 17:42:31 +0100
+From: "www-data" <www-data@sfbi.mti.univ-paris-diderot.fr>
+Date: Mon, 06 Jan 2014 17:42:31 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 0:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (korolev.univ-paris7.fr [194.254.61.138]); Mon, 06 Jan 2014 17:37:27 +0100 (CET)
+X-Miltered: at korolev with ID 52CADBC7.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52CADBC7.000 from duc.mti.univ-paris-diderot.fr/duc.mti.univ-paris-diderot.fr/null/duc.rpbs.univ-paris-diderot.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Score: MSGID : 52CADBC7.000 on korolev.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Stage] =?UTF-8?Q?Strat=C3=A9gies?= =?UTF-8?Q?d=E2=80=99analyses?= de tra  nscriptomes et Applications =?UTF-8?Q?=C3=A0?= =?UTF-8?Q?l=E2=80=99Analyse?= =?UTF-8?Q?d=E2=80=99?=  =?UTF-8?Q?exp=C3=A9riences?= RNA-seq  =?UTF-8?Q?d=E2=80=99Aedes?= albopictus, vec  teur du virus du chikungunya
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Stratégies d’analyses de transcriptomes et  
+Applications à l’Analyse d’expériences RNA-seq  d’Aedes albopictus,  
+vecteur du virus du chikungunya
+Type de poste : Stage
+Durée du poste : 3 à 6 mois
+Ville : Paris 15eme
+Nom du contact : Dauga Catherine
+Email du contact : cdauga@pasteur.fr
+Laboratoire : Institut Pasteur
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/strat%C3%A9gies-d%E2%80%99analyses-de-transcriptomes-et-applications-%C3%A0-l%E2%80%99analyse-d%E2%80%99exp%C3%A9riences-rna-seq-d%E2%80%99

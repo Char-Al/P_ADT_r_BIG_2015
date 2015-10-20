@@ -1,0 +1,196 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Sarah.Cohen_Boulakia@lri.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 9AE8A26801D
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 12:01:06 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmwBAFHdy1KBr9RAnGdsb2JhbABZFoMtu0YWDgEBAQEBCAsJCRQogioCCAICUwkBAQgCEgUbTTAPAQQTCwWHdA2bFalGBI47gn8PgXkEiQukT4Fo
+X-IronPort-AV: E=Sophos;i="4.95,618,1384297200"; 
+   d="scan'208";a="51930295"
+Received: from mx1.u-psud.fr ([129.175.212.64])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Jan 2014 12:01:05 +0100
+Received: from mx1.u-psud.fr (localhost [127.0.0.1])
+	by localhost (MTA) with SMTP id AE3D4302474
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 12:01:05 +0100 (CET)
+Received: from ext.lri.fr (ext.lri.fr [129.175.15.4])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mx1.u-psud.fr (MTA) with ESMTPS id 6FF35301E31
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 12:01:05 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by ext.lri.fr (Postfix) with ESMTP id 63F8140AFE
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 12:01:05 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at lri.fr
+Received: from ext.lri.fr ([127.0.0.1])
+	by localhost (ext.lri.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PX9YDWQlDQh6 for <bioinfo@sfbi.fr>;
+	Tue,  7 Jan 2014 12:01:05 +0100 (CET)
+Received: from SarahSony (lri29-228 [129.175.29.228])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by ext.lri.fr (Postfix) with ESMTPSA id 42E0A40A84
+	for <bioinfo@sfbi.fr>; Tue,  7 Jan 2014 12:01:05 +0100 (CET)
+From: "Sarah Cohen-Boulakia" <Sarah.Cohen_Boulakia@lri.fr>
+To: <bioinfo@sfbi.fr>
+Date: Tue, 7 Jan 2014 12:01:06 +0100
+Message-ID: <014801cf0b97$c3bc79b0$4b356d10$@lri.fr>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: Ac8Ll7MGPKlIxTZiQUexwAXwokIU2A=
+Content-Language: fr
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Sujet stage de M2R - Comparaison de méthodes d'analyse (IBC, Montpellier)
+Bonjour,
+Veuillez trouver ci-dessous un sujet de stage de M2R à l'Institut de
+Biologie Computationnelle de Montpellier.
+Le sujet est aussi disponible à l'adresse suivante :
+https://www.lri.fr/~cohen/IBC/OpenAleaDataflows.pdf
+Merci de me contacter si vous êtes intéressé(e)s.
+Cordialement,
+Sarah Cohen-Boulakia
+*** Conception d'un module de Provenance dans OpenAlea pour l'échange
+ et la
+comparaison de méthodes d'analyse ***
+Encadrants : Sarah Cohen-Boulakia (contact : cohen@lri.fr) et Patrick
+Valduriez
+En collaboration avec Christophe Pradal
+Lieu : Institut de Biologie Computationnelle (IBC), Montpellier
+Rémunération : 436 euros/mois (gratification)
+Contexte
+La taille et la quantité des données scientifiques produites et disponi
+bles
+ont considérablement augmentées au cours des dernières années. En p
+lus de
+devoir être stockées et gérées, la tâche la plus importante réa
+lisée sur ces
+ensembles de données est leur analyse qui met en jeu une série d'outi
+ls
+bioinformatiques complexes et dédiés au domaine d'étude. Une telle 
+analyse
+est typiquement réalisée par l'assemblage d'étapes impliquant une
+ multitude
+de scripts, d'outils et d'algorithmes. Des efforts considérables ont 
+été
+réalisés dans le développement de systèmes et plateformes capables 
+de
+fournir un soutien à l'utilisateur lors de la conception et la gestion 
+de
+telles analyses (appelés " workflow systems " ou " dataflow systems
+ ").
+Certains de ces systèmes ont depuis quelques années des modules de
+provenance, capable de garder la trace précise des lancements
+d'encha=EEnements d'outils effectués, offrant à l'utilisateur la 
+possibilité
+de reproduire ses expériences bioinformatiques et d'accéder à des
+informations relatives à la qualité des résultats obtenus (qualité 
+relative
+à la fiabilité des outils utilisés, des données prises en entrées
+, des types
+de paramètres utilisés etc.).  Face à la multitude de représentatio
+ns
+disponibles pour les données de provenance [MPB10], [ABM+09] une série 
+de
+Provenance Challenges [MLA+08] [SGM11] a été organisée, débouchant 
+sur la
+proposition d'un standard très général de provenance OPM, Open Prov
+enance
+Model [MCF+11].
+OpenAlea [PDB+08] est une plateforme d'analyse, de visualisation et
+modélisation du fonctionnement et de la croissance de l'architecture des
+plantes. Elle offre un point d'accès unique à un ensemble de donnée
+s et
+d'outils d'analyse tout en fournissant aussi à ses utilisateurs la
+possibilité de créer de nouveaux outils (en python) d'analyse et de
+modélisation. Ces différents outils peuvent être utilisés les uns 
+à la suite
+des autres formant ainsi des dataflows ou (workflows scientifiques)
+décrivant une analyse complète. La plateforme compte aujourd'hui plus
+ieurs
+centaines d'utilisateurs.
+L'objectif général de ce stage est de doter OpenAlea d'un module de
+Provenance capable de garder la trace précise de la composition des
+dataflows et des exécutions (outils utilisés, paramètres et données
+ prises
+en entrée et générées). Ce module devra permettre aux utilisateurs 
+de
+conna=EEtre l'évolution d'un dataflow : " quel module a été mod
+ifié ou ajouté
+entre deux versions de ce dataflow ?", " quelles sont les différences
+ entre
+deux dataflows ayant le même but général (ie produisant le même typ
+e de
+donnée) mais ayant été con=E7u par deux équipes/personnes différe
+ntes " ?...
+Ce module devra aussi permettre aux utilisateurs de comprendre mieux les
+résultats différents obtenus par les exécutions d'un même dataflo
+w (rôle du
+paramétrage des outils impliqués dans le dataflow, rôle des données
+d'entrée=85) [BCD+09].
+Les réponses à ces questions doivent pouvoir être considérées à
+ différents
+niveaux de granularité [BCD+08] en fournissant à l'utilisateur des ni
+veaux
+de détails plus ou moins important selon ses souhaits pour ne pas être
+submergé d'informations.
+Travail attendu
+Le but de ce stage est (i) de proposer une représentation concise,
+expressive et capable de prendre en compte des niveaux de granularités de
+provenance différents des dataflows d'OpenAlea et de leurs exécutions
+(compatible avec les standards de provenance) et (ii) d'introduire un
+algorithme efficace de comparaison de ces dataflows et exécutions. Plus
+spécifiquement, les différentes tâches attendues sont les suivantes :
+(1)	Représentation des dataflows (modules et les liens entre les
+modules), représentation des exécutions des dataflows (données consom
+mées et
+produites lors d'une exécution et exécution de modules), définition
+ de la
+relation entre ces représentations (models of computation). Différents
+niveaux de granularité/détail devront pouvoir être considérés dan
+s ces
+représentations.
+(2)	Proposition d'une structure de stockage et d'un format d'échange
+pour les dataflows et leurs exécutions
+(3)	Conception et implémentation d'un algorithme de comparaison de
+dataflows et d'exécutions à divers niveaux de granularités
+(4)	Implémentation du module de provenance et de la fonctionnalité de
+différenciation des dataflows et exécutions dans la plateforme OpenAlea
+Références
+[ABM+09] Anand, M. K., Bowers, S., McPhillips, T., & Lud=E4scher, B. (2009,
+March). Efficient provenance storage over nested data collections. In
+Proceedings of the 12th International Conference on Extending Database
+Technology: Advances in Database Technology (pp. 958-969). ACM.
+[BCD+09] Bao, Z., Cohen-Boulakia, S., Davidson, S. B., Eyal, A., & Khanna,
+S. (2009, March). Differencing provenance in scientific workflows. In Data
+Engineering, 2009. ICDE'09. IEEE 25th International Conference on (pp.
+808-819). IEEE.
+[BCD+08] Biton, O., Cohen-Boulakia, S., Davidson, S. B., & Hara, C. S.
+(2008, April). Querying and managing provenance through user views in
+scientific workflows. In Data Engineering, 2008. ICDE 2008. IEEE 24th
+International Conference on (pp. 1072-1081). IEEE.
+[MCF+11] Moreau, L., Clifford, B., Freire, J., Futrelle, J., Gil, Y., Groth,
+P., & den Bussche, J. V. (2011). The open provenance model core
+specification (v1. 1). Future Generation Computer Systems, 27(6), 743-756.
+[MLA+08] Moreau, L., Lud=E4scher, B., Altintas, I., Barga, R. S., Bowers, S
+.,
+Callahan, S., et al (2008). Special issue: The first provenance challenge.
+Concurrency and computation: practice and experience, 20(5), 409-418.
+[MPB10] Missier, P., Paton, N. W., & Belhajjame, K. (2010, March).
+Fine-grained and efficient lineage querying of collection-based workflow
+provenance. In Proceedings of the 13th International Conference on Extending
+Database Technology (pp. 299-310). ACM.
+[PDB+08] C. Pradal, S. Dufour-Kowalski, F. Boudon, C. Fournier, C. Godin.
+OpenAlea: A visual programming and component-based software platform for
+plant modeling. Functional Plant Biology
+[SGM11] Simmhan, Y., Groth, P., & Moreau, L. (2011). Special Section: The
+third provenance challenge on using the open provenance model for
+interoperability. Future Generation Computer Systems, 27(6), 737-742.
+--
+Sarah Cohen-Boulakia
+Ma=EEtre de conférences
+Laboratoire de Recherche en Informatique
+Université Paris Sud

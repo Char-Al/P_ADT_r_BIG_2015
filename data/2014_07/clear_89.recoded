@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=282929c96=virginie.bernard@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 73D2926801D
+	for <bioinfo@sfbi.fr>; Thu, 31 Jul 2014 12:05:14 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvQCACIU2lPBMc0knGdsb2JhbABZg2BXAQOCdMgliFEWEAEBAQEBCAsJCRQphC0PAQ0BAQcgAQ4CNAIFFgsCCwMCAQIBOhENBgICiEIJo1F3hQIBBZJpBoEsiwGCPREBbYJjgVGbaYcekQA7L4EMOQ
+X-IronPort-AV: E=Sophos;i="5.01,771,1400018400"; 
+   d="scan'208";a="62450707"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by b-mx1.relay.syrhano.net with ESMTP; 31 Jul 2014 12:05:14 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1406801113; x=1438337113;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=QmmvUuT7YhGbeCQAjQfFJrtRgIGa1U0lnOUBSWLqaqs=;
+  b=XvAksm4etz2QMD8A4QxfeqQHk6GS5AYH8i3WQsgfIA1Lht3xf+1CjvPT
+   FNmzhO5hDGzLATc9zulU8Ye5oGkjsw==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AokIAMET2lMKAgBG/2dsb2JhbABZg2BXAQOCdMgUEYhnd4QtDwEWIAEONgIFFgsCCwMCAQIBOhENBgICiEukSJd3gSyLAYI9EQFtgmOBUQEEm2SHHpEAaoEMOQ
+X-IPAS-Result: AokIAMET2lMKAgBG/2dsb2JhbABZg2BXAQOCdMgUEYhnd4QtDwEWIAEONgIFFgsCCwMCAQIBOhENBgICiEukSJd3gSyLAYI9EQFtgmOBUQEEm2SHHpEAaoEMOQ
+X-IronPort-AV: E=Sophos;i="5.01,771,1400018400"; 
+   d="scan'208";a="28917256"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip01-in.curie.fr with ESMTP; 31 Jul 2014 12:05:12 +0200
+Received: from [10.200.10.123] (10.200.10.123) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.3.174.1; Thu, 31 Jul 2014 12:05:12
+ +0200
+Message-ID: <53DA14D8.8050904@curie.fr>
+Date: Thu, 31 Jul 2014 12:05:12 +0200
+From: Virginie Bernard <vbernard@curie.fr>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.24) Gecko/20111120 Icedove/3.1.16
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.123]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD autre] Bioinformaticien/Datamanager =?UTF-8?Q?d=C3=A9butant?= ou =?UTF-8?Q?confirm=C3=A9?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformaticien/Datamanager débutant ou confirmé
+Type de poste : CDD autre
+Durée du poste : 1 an
+Ville : Paris
+Nom du contact : Juliette DJADI-PRAT
+Email du contact : urc.emploi@egp.aphp.fr
+Laboratoire : Unité de Recherche Clinique, Hopital européen Georges
+Pompidou
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/bioinformaticiendatamanager-d%C3%A9butant-ou-confirm%C3%A9

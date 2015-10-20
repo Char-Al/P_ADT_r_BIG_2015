@@ -1,0 +1,73 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gagneur@genzentrum.lmu.de>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 4A5DB26801D
+	for <bioinfo@sfbi.fr>; Wed, 26 Nov 2014 14:00:18 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmsCALfNdVSNVC4KnGdsb2JhbABbg1hYyBYKh1oWAQEBAQERAQEBAQEICwkJFC6EdQEEBRE6NG4DiCgJq3yleQEBAQEdBI4wglgMgiEPRCSBHwWaG4YWhlKLC4YNgXpGgnoBAQE
+X-IPAS-Result: AmsCALfNdVSNVC4KnGdsb2JhbABbg1hYyBYKh1oWAQEBAQERAQEBAQEICwkJFC6EdQEEBRE6NG4DiCgJq3yleQEBAQEdBI4wglgMgiEPRCSBHwWaG4YWhlKLC4YNgXpGgnoBAQE
+X-IronPort-AV: E=Sophos;i="5.07,462,1413237600"; 
+   d="scan'208";a="69016112"
+Received: from pluto.lmb.uni-muenchen.de ([141.84.46.10])
+  by b-mx1.relay.syrhano.net with ESMTP; 26 Nov 2014 14:00:17 +0100
+Received: from juliens-mbp.gcm.genzentrum.lmu.de (juliens-mbp.gcm.genzentrum.lmu.de [10.163.242.24])
+	by pluto.lmb.uni-muenchen.de (Postfix) with ESMTP id 2F497511808F;
+	Wed, 26 Nov 2014 14:00:16 +0100 (CET)
+From: Julien Gagneur <gagneur@genzentrum.lmu.de>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 26 Nov 2014 14:00:14 +0100
+To: bioinfo@sfbi.fr
+Message-Id: <85F21E26-2FD1-4282-A86E-EF734FCD7573@genzentrum.lmu.de>
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+X-Mailer: Apple Mail (2.1878.6)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] PostDoc position, Prof. Theis, Institute of Computational Biology, Munich
+Dear all,
+message from Fabian Theis:
+We are looking for a PostDoc Bioinformatics and/or Biostatistics -  Machi
+ne learning in high-dimensional biological data sets  2014/2585.
+The position is located at the Institute of Computational Biology (Prof. Fa
+bian Theis), a leading research group in the field of bioinformatics and sy
+stems biology. The project will be an interdisciplinary effort with theoret
+ical and computational approaches applied to molecular data from local and 
+international collaboration partners.
+Job Description
+In the project we will develop methods for the statistical analysis and vis
+ualization of single-cell transcriptomics profiles. Hereby we will extend e
+xisting latent variable models in order to account for confounding effects.
+ In a second step, these results will be used to model cellular decisions b
+ased on observed, possibly time-resolved, population distributions. We will
+ apply this to data of differentiating cells in order to gain further insig
+hts into stem cell differentiation processes.
+Your Qualifications
+Applicants should have a PhD in bioinformatics, bio- statistics, mathematic
+s, physics, computer sciences or a related discipline and experience in mac
+hine learning, statistical analyses and programming. Moreover, appli- cants
+ should bring a profound affinity to the biological interpretation of achie
+ved results and be comfortable at interacting with colleagues in an interdi
+sciplinary setting.
+Our Offer
+* Working in an innovative, well-equipped and scientifically stimulating su
+rrounding
+* Further training opportunities
+* Initial short-term employment contract for three years with a standard pu
+blic service salary (TV EntgO Bund EG 13)
+* Moreover, you will be associated to the Department of Mathematics and Bio
+informatics and the Life Science faculty of the Technical University Munich.
+The Helmholtz Zentrum M=FCnchen as holder of the Bavarian Advancement of Wo
+men Prize and of the Total E-Quality Certificate is striving to increase th
+e overall proportion of women on its staff and thus expressly urges qualifi
+ed women to apply.
+We are looking forward to receiving your comprehensive online application (
+cover letter, CV in English, PhD thesis and relevant publications, recommen
+dation letters or con- tact information of professional references).
+http://www.helmholtz-muenchen.de/en/career/job- openings/job/job/2585/index
+.html
+Prof. Dr. Dr. Fabian Theis Phone: +49 (0)89 3187-4030
+Helmholtz Zentrum M=FCnchen
+Deutsches Forschungszentrum f=FCr Gesundheit und Umwelt (GmbH)
+Institute of Computational Biology Ingolst=E4dter Landstr. 1
+D-85764 Neuherberg / M=FCnchen

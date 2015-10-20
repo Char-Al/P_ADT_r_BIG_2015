@@ -1,0 +1,122 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mthomas@biologie.ens.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id A6BE626801D
+	for <bioinfo@sfbi.fr>; Tue, 17 Jun 2014 11:13:10 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjsBADoFoFOBx2AonGdsb2JhbABag1+DRqcXmjQWDwEBAQEBCAsJCRQohC0PATMCEDAGAgUMCgsCCwMCAQIBVQMGAgEBiD4NnXCPI54qF4EqhDmFdIMwgm2BTASFXqo7gUQ
+X-IronPort-AV: E=Sophos;i="5.01,493,1400018400"; 
+   d="scan'208";a="68632152"
+Received: from nef2.ens.fr ([129.199.96.40])
+  by a-mx1.relay.syrhano.net with ESMTP; 17 Jun 2014 11:13:10 +0200
+Received: from biologie.ens.fr (milda.ens.fr [129.199.18.219])
+          by nef2.ens.fr (8.13.6/1.01.28121999) with ESMTP id s5H9D9V5057096
+          for <bioinfo@sfbi.fr>; Tue, 17 Jun 2014 11:13:09 +0200 (CEST)
+X-Envelope-To: <bioinfo@sfbi.fr>
+Received: from localhost (av3.biologie.ens.fr [129.199.21.124])
+	by biologie.ens.fr (Postfix) with ESMTP id 0CE249EF
+	for <bioinfo@sfbi.fr>; Tue, 17 Jun 2014 11:13:09 +0200 (CEST)
+X-Virus-Scanned: spam & virus filtering at av3.ens.fr
+X-Spam-Flag: NO
+X-Spam-Score: -11.551
+X-Spam-Level: 
+X-Spam-Status: No, score=-11.551 tagged_above=-9999 required=5
+	tests=[ALL_TRUSTED=-1, AUTHD_RELAY=-8, BAYES_00=-1.9,
+	RP_MATCHES_RCVD=-0.651] autolearn=ham
+Received: from biologie.ens.fr ([IPv6:::ffff:129.199.18.219])
+	by localhost (av3.biologie.ens.fr [::ffff:129.199.21.124]) (amavisd-new, port 10024)
+	with ESMTP id 6zWyiqg6sdYQ for <bioinfo@sfbi.fr>;
+	Tue, 17 Jun 2014 11:13:08 +0200 (CEST)
+Received: from csbmac10.ens.fr (csbmac10.ens.fr [129.199.17.105])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	(Authenticated sender: mthomas)
+	by biologie.ens.fr (Postfix) with ESMTPSA id 38FED549
+	for <bioinfo@sfbi.fr>; Tue, 17 Jun 2014 11:13:08 +0200 (CEST)
+Message-ID: <53A006A4.8010003@biologie.ens.fr>
+Date: Tue, 17 Jun 2014 11:13:08 +0200
+From: Morgane Thomas-Chollier <mthomas@biologie.ens.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:17.0) Gecko/20130328 Thunderbird/17.0.5
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+X-Enigmail-Version: 1.6
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-3.1.4 (nef2.ens.fr [129.199.96.32]); Tue, 17 Jun 2014 11:13:09 +0200 (CEST)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] ECCB 2014 Tutorial : Analysis of Cis-Regulatory Motifs from High-Throughput
+ Sequence Sets
+ECCB Tutorial T01
+Analysis of Cis-Regulatory Motifs from High-Throughput Sequence Sets
+Date: Saturday Sept 6, 2014
+Place: Forum building of the Faculty of Medicine of Strasbourg
+Time: 9am – 6pm
+Contact e-mail: mthomas@biologie.ens.fr
+More details: http://www.eccb14.org/program/tutorials/cis-r
+How to register: http://www.eccb14.org/registration
+Registration includes lunch & coffee breaks on the day of the workshop
+and the tutorial material (.pdf and/or print). ECCB Tutorial rates: 110
+€ (academic) or 60 € (student)
+----------     Short description     ----------
+This tutorial aims at introducing the theoretical principles and giving
+practical skills to use specialized software tools to extract motifs
+from full-scaled NGS datasets (typically covering tens of Mb).
+---------    Teachers    ----------
+- Jacques van Helden, Aix-Marseille Université (France)
+- Morgane Thomas-Chollier,  Ecole Normale Supérieure (France)
+- Carl Herrmann, University Heidelberg (Germany).
+- Alejandra Medina-Rivera, SickKids Research Institute, Toronto (Canada)
+----------   Description   ----------
+Next Generation Sequencing led to the development of novel methods
+(ChIP-seq, FAIRE-seq, clip-seq, ) to acquire massive data about diverse
+signals involved in genome regulation and function (cis-regulation,
+chromatin conformation, RNA maturation, recombination, replication, ).
+ Extracting relevant information from the raw data requires not only
+specialized software tools, but also a good understanding of their
+principles and parameters.
+In this tutorial we will demonstrate how to analyze ChIP-seq data using
+the Regulatory Sequence Analysis Tools (RSAT, http://www.rsat.eu/), via
+their different ways of access: web-interface, command-line, and
+web-services.
+This tutorial aims at introducing the theoretical principles and giving
+practical skills to use specialized software tools to extract motifs
+from full-scaled NGS datasets (typically covering tens of Mb).
+----------    Contents    ----------
+The tutorial will be organized in 2 half days:
+1) Analysis of cis-regulatory elements with the Regulatory Sequence
+Analysis Tools (RSAT): methods and website utilization
+(http://www.rsat.eu/).
+2) Using RSAT in command-line and via web services (SOAP/WSDL).
+Topics: 	 Motif discovery in NGS peak sets.
+	 Impact of the background models.
+	 Comparison between motifs.
+	 Motif enrichment in peak sequences.
+	 Evaluating the quality of motifs extracted from NGS peaks.
+	 Building control sets to estimate the rates of false positives.
+----------   Topics not covered   ----------
+Other steps for the analysis of ChIP-seq data (e.g. read mapping, peak
+calling, functional enrichment of peaks, other tools for pattern
+discovery and matching).
+----------   Target audience   ----------
+The course is addressed to bioinformaticians and biologists. The
+afternoon will require being familiar with the Unix shell (Linux) and
+basic programming skills (Perl or Python) to implement clients for web
+services.
+----------   In practice   ----------
+* Participants will need to bring their own laptop
+* All command-line programs will be run on the IDB's cloud platform
+(https://idee-b.ibcp.fr/cloud.html) managed by Christophe Blanchet
+(IBCP, Lyon, France). Each participant will be given a (free) account to
+access this cloud and thereby a fully functional virtual machine with RSAT.
+* Wireless internet will be available at the conference venue. In the
+worse case, where the network would become unavailable during the day,
+we would still be able to give a demo on the teacher laptops.
+* An indicative reading list will be available a few weeks before the
+tutorial.
+* The hands-on will be organized in a cookbook mode: we will distribute
+protocols explaining the steps to solve selected test cases.
+* For the practicals, we ensure that there is no need to transfer data
+from the conference room to the servers.
+ ----------------------------------------------------------------

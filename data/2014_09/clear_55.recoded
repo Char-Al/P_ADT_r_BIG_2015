@@ -1,0 +1,73 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <rivals@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C552926801D
+	for <bioinfo@sfbi.fr>; Thu, 18 Sep 2014 07:43:41 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmkCAD9wGlTBMWgenGdsb2JhbABhFoNKVwGCN0jGT4hZFgERAQEBAQEICwkJFCqEFhcPAQURHxAaHAIFFgsCCwMCAQIBOh4GAgEBiD4JjQuNEY80ljKBLI5ogmKBUwWWBYcHh0mEYYJfih9qgkoBAQE
+X-IPAS-Result: AmkCAD9wGlTBMWgenGdsb2JhbABhFoNKVwGCN0jGT4hZFgERAQEBAQEICwkJFCqEFhcPAQURHxAaHAIFFgsCCwMCAQIBOh4GAgEBiD4JjQuNEY80ljKBLI5ogmKBUwWWBYcHh0mEYYJfih9qgkoBAQE
+X-IronPort-AV: E=Sophos;i="5.04,544,1406584800"; 
+   d="scan'208";a="64564948"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by b-mx1.relay.syrhano.net with ESMTP; 18 Sep 2014 07:43:42 +0200
+Received: from [192.168.0.13] (pai34-4-82-240-124-89.fbx.proxad.net [82.240.124.89])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 8F596A4FBD
+	for <bioinfo@sfbi.fr>; Thu, 18 Sep 2014 07:43:38 +0200 (CEST)
+Message-ID: <541A710A.2040600@lirmm.fr>
+Date: Thu, 18 Sep 2014 07:43:38 +0200
+From: Rivals Eric <rivals@lirmm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.1.1
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Workshop SeqBio 2014: annonce et appel =?UTF-8?Q?=C3=A0?= soumission
+Bonjour à tous,
+Nous avons le plaisir de vous inviter à la treizième édition du workshop 
+SeqBio 2014, qui se tiendra à Montpellier sur 2 jours entre les 4 et 6 
+novembre 2014 sur le campus de St Priest.
+L'appel à soumission est ouvert jusqu'au 14 octobre 
+(https://easychair.org/conferences/?conf=sebio2014).
+Les thèmatiques, l'appel à soumission pour présentation orale, et les 
+informations pratiques sont accessibles à
+http://www.gdr-bim.cnrs.fr/seqbio2014
+Les thèmes abordés à SeqBio vont de la combinatoire et de 
+l'algorithmique du texte à leurs applications à l'analyse 
+bio-informatique des séquences biologiques. Voici une liste non 
+exhaustive des sujets :
+- alignement et recherche de similarité
+- recherche, découverte et inférence de motifs ou de répétitions
+- analyse des données de séquençage haut-débit (génomique, RNA-seq, 
+Chip-seq, ...)
+- annotation des génomes, prédiction de gènes
+- haplotypes et polymorphismes
+- génomique comparative
+- signaux de régulation
+- algorithmique du texte
+- structures d'indexation
+- combinatoire et statistiques des mots
+- algorithmique haute performance ou parallèle
+- fouille de textes
+- compression
+Cette réunion pluridisciplinaire commune au GdR Bionformatique 
+Moléculaire (http://www.gdr-bim.cnrs.fr) et Informatique Mathématique 
+(http://www.gdr-im.fr) aborde la bioinformatique des séquences et les 
+aspects computationnels qui lui sont liés, tels que l'algorithmique du 
+texte, la combinatoire, etc. Elle réunit des bioinformaticiens, des 
+biologistes, des informaticiens.
+La participation est financée par les GdR et donc gratuite pour les 
+participants ; l'inscription sera rapidement disponible sur notre site.
+bien cordialement,
+Eric Rivals pour le comité d'organisation (toutes nos excuses pour les 
+doublons)
+-- 
+Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
+CNRS Research Director & Head of GDR Bioinformatique Moléculaire
+LIRMM - UMR 5506
+860 rue de St Priest - 34095 Montpellier cedex 5 FRANCE
+Tel. (33 or 0 from France) 4 67 41 86 64
+Fax. (33 or 0 from France) 4 67 41 85 00
+http://www.gdr-bim.cnrs.fr

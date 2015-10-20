@@ -1,0 +1,90 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <claire.lemaitre@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 3C96A26801D
+	for <bioinfo@sfbi.fr>; Fri,  4 Apr 2014 13:34:03 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgMCABCXPlPAhqRonGdsb2JhbABXg0HEE1GBIBYOAQEBAQEICwkJFCiCOCYBBS8LBj0TAxgDAgECAVgIAQGHdQ2dR7F9F45LhGUEmFuBNIs/iH4
+X-IronPort-AV: E=Sophos;i="4.97,794,1389740400"; 
+   d="scan'208";a="64675066"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by a-mx1.relay.syrhano.net with ESMTP; 04 Apr 2014 13:34:02 +0200
+X-IronPort-AV: E=Sophos;i="4.97,794,1389740400"; 
+   d="scan'208";a="55552388"
+Received: from ponyo.irisa.fr ([131.254.15.127])
+  by mail3-relais-sop.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 04 Apr 2014 13:33:59 +0200
+Message-ID: <533E98A7.7020004@inria.fr>
+Date: Fri, 04 Apr 2014 13:33:59 +0200
+From: Claire Lemaitre <claire.lemaitre@inria.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Proposition de =?WINDOWS-1252?Q?Th=E8se?= CJS INRA - INRIA =?WINDOWS-1252?Q?=E0?= Rennes
+Bonjour,
+Un sujet de thèse en bioinformatique est ouvert à compétition de 
+financement par l'INRA/INRIA en Contrat Jeune Scientifique (CJS) :
+Développement et application d'outils d'analyse métagénomique des 
+communautés microbiennes associées aux insectes
+http://jobs.inra.fr/en/offers/detail/149193
+https://team.inria.fr/genscale/job-offers/these-cjs-inrainria-3plus2-ans/
+* EQUIPES
+INRA UMR1349 Institut de Génétique Environnement et Protection des 
+Plantes (IGEPP), équipe Ecologie et Génétique des Insectes
+INRIA Rennes Bretagne Atlantique, Equipe Genscale
+* RESUME
+La plupart des organismes entretiennent des relations durables avec des 
+micro-organismes. Les avancées permises par la biologie moléculaire, les 
+techniques de séquençage haut débit et les développements 
+bioinformatiques ont mis en lumière une incroyable diversité microbienne 
+qui avait échappé jusque là aux moyens d'investigation traditionnelle. 
+Ces travaux ont également souligné les effets majeurs des 
+micro-organismes sur l'écologie, l'évolution et la santé de leurs hôtes. 
+L'objet de cette thèse est d'explorer sans a priori la diversité 
+(spécifique et intra-spécifique) et la structure des communautés 
+microbiennes de populations du puceron du pois en se basant sur le 
+développement de nouveaux outils bioinformatiques d'assemblage et de 
+détection de variants dans des métagénomes NGS.
+* DISCIPLINES SCIENTIFIQUES
+Informatique: bioinformatique/algorithmique du texte/algorithmique de 
+graphe,
+Biologie: métagénomique microbienne/écologie des interactions/génomique 
+évolutive
+* FINANCEMENT
+Les CJS sont des contrats de thèse de 3 ans suivis d'un renouvellement 
+de deux ans pour réaliser un séjour post-doctoral à l'étranger. Ce sont 
+donc des supports très intéressants pour se préparer à une carrière de 
+chercheur. Les conditions de rémunération sont particulièrement 
+attractives. Avant l'obtention de son diplôme, le doctorant perçoit 2167 
+ euros  (brut mensuel). Après l'obtention du doctorat, il perçoit une 
+rémunération s'élevant à 2398  euros  (brut mensuel).
+* CANDIDATURE
+Les candidats intéressés trouveront les informations sur le détail du 
+profil et sur les modalités de dépôt de dossier sur le site INRA 
+(http://jobs.inra.fr/offers/detail/149193). La date limite de ddépot des 
+dossiers est fixé au 12 mai à 17h.
+Les candidats sont invités à prendre contact au préalable avec :
+- Claire Lemaitre, Inria Rennes, Equipe Genscale
+http://team.inria.fr/genscale/
+claire.lemaitre [at] inria.fr
+- Jean-Christophe Simon, INRA UMR1349 Institut de Génétique 
+Environnement et Protection des Plantes (IGEPP)
+jean-christophe.simon [at] rennes.inra.fr
+N'hésitez à diffuser cette annonce auprès d'étudiants actuellement en M2 
+dans vos équipes.
+Bien cordialement,
+Claire Lemaitre
+-- 
+------------------------------------------------------------
+Claire Lemaitre
+Inria Research Associate
+Genscale Team http://team.inria.fr/genscale/
+INRIA, Campus de Beaulieu,
+35042 Rennes cedex, France
+Tel: +33 (0) 2 99 84 71 16
+http://people.rennes.inria.fr/Claire.Lemaitre/
+------------------------------------------------------------

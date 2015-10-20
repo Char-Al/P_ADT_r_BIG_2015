@@ -1,0 +1,44 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 726EF26801D
+	for <bioinfo@sfbi.fr>; Sun, 23 Mar 2014 17:42:14 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlkBAFsOL1OKZqI0nGdsb2JhbABZg0HDPIEuDgEBAQEBCAsJCRQogjgmAQURLz0WGAMCAQIBWAYCAQGHdQQJnBqxHI4YEQFthCIEmEqVX4Fx
+X-IronPort-AV: E=Sophos;i="4.97,715,1389740400"; 
+   d="scan'208";a="55836655"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 23 Mar 2014 17:42:14 +0100
+Received: from MacBook-Air-de-sophie-2.local (bur91-3-82-239-212-158.fbx.proxad.net [82.239.212.158])
+	(authenticated bits=0)
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id s2NGgDXl006076
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Sun, 23 Mar 2014 17:42:13 +0100 (CET)
+Message-ID: <532F0EE5.5060607@jouy.inra.fr>
+Date: Sun, 23 Mar 2014 17:42:13 +0100
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at beta with ID 532F0EE5.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 532F0EE5.000/82.239.212.158/bur91-3-82-239-212-158.fbx.proxad.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 532F0EE5.000 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=# B=0.044 -> S=0.044
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD Ingénieur] bio-informaticien
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : bio-informaticien
+Type de poste : CDD Ingénieur
+Durée du poste :
+Ville : Limoges
+Nom du contact : Dr. Anne-Sophie LIA
+Email du contact : asliabaldini@unilim.fr
+Laboratoire : Service de Biochimie et de Génétique Moléculaire - CHU Limoges
+Voir la description complète du poste sur 
+http://www.sfbi.fr/content/bio-informaticien

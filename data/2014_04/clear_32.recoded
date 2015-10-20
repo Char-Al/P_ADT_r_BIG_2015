@@ -1,0 +1,58 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Dave.Ritchie@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3B9EA26801D
+	for <bioinfo@sfbi.fr>; Wed,  9 Apr 2014 11:11:33 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AosBAIcNRVPAhqRonGdsb2JhbABZFoMrxECBbxYOAQEBAQEICwkJFCiCXgEFGyU9FhgDAgECAVgGAgEBh3gNmgKxPo8JhCIEmF6Mdoh+
+X-IronPort-AV: E=Sophos;i="4.97,825,1389740400"; 
+   d="scan'208";a="56772159"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by b-mx1.relay.syrhano.net with ESMTP; 09 Apr 2014 11:11:32 +0200
+X-IronPort-AV: E=Sophos;i="4.97,825,1389740400"; 
+   d="scan'208";a="56264030"
+Received: from hardy.loria.fr (HELO [152.81.5.80]) ([152.81.5.80])
+  by mail3-relais-sop.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 09 Apr 2014 11:11:31 +0200
+Message-ID: <53450E8F.7030701@inria.fr>
+Date: Wed, 09 Apr 2014 11:10:39 +0200
+From: Dave Ritchie <Dave.Ritchie@inria.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] projets de thèse à Inria Nancy
+Bonjour à tous et toutes,
+Deux projets de thèse en bioinformatique structurale sont proposés à 
+Inria Nancy, les deux par l'entrée en concurrence:
+Project #1: Multi-Component Protein Assembly Using Dynamic Programming 
+and Distance Constraints.
+http://www.inria.fr/institut/recrutement-metiers/offres/theses/campagne-2014/%28view%29/details.html?id=PGTFK026203F3VBQB6G68LONZ&LOV5=4509&LOV2=4490&LOV28=7838&LG=FR&Resultsperpage=20&nPostingID=8507&nPostingTargetID=14278&option=52&sort=DESC&nDepartmentID=28
+This project is offered through Inria's annual competitive entry 
+recruitment campaign (closing date 4th May 2014). If selected, the 
+successful candidate will be given a salary for three years at the 
+standard Inria doctoral rate. Please follow the above link for more 
+details and to apply on-line. This project is also advertised on the 
+IAEM doctoral school web site (closing date: 01 June 2014 for a doctoral 
+school bursary):
+http://www.adum.fr/as/ed/voirproposition.pl?langue=&site=IAEM&matricule_prop=6418
+Project #2: Large-Scale Exploration of 3D Protein Domain Family Binding 
+Sites.
+This project is offered by competitive entry through the IAEM doctoral 
+school (closing date: 01 June 2014). If selected, the successful 
+candidate will be given a salary for three years at the standard rate:
+http://www.adum.fr/as/ed/voirproposition.pl?langue=&site=IAEM&matricule_prop=6417
+The working languages at Inria Nancy are French and English.
+-- 
+E: dave.ritchie@inria.fr
+T: +33 3 83 59 30 45
+F: +33 3 83 41 30 79
+P: INRIA Nancy Grand Est, LORIA
+   Equipe Orpailleur, Bureau B166
+   Campus Scientifique, BP239
+   54600 Villers-les-Nancy
+   France
+W: http://www.loria.fr/~ritchied/

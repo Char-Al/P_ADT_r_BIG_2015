@@ -1,0 +1,107 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <hao@info.univ-angers.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2511A26801D
+	for <bioinfo@sfbi.fr>; Mon,  7 Apr 2014 11:28:26 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkACAMBuQlPCOa98l2dsb2JhbABZFoMrg2HCRg4BAQEBAQgWBzyCSQYPAQUwAwIgIQIfBwJfEwiHdQmaA48chVmcUYEpkD6BSQSYW4Y6B41vgUE7
+X-IronPort-AV: E=Sophos;i="4.97,808,1389740400"; 
+   d="scan'208";a="64791305"
+Received: from rproxy.info.univ-angers.fr (HELO smtp.info.univ-angers.fr) ([194.57.175.124])
+  by a-mx1.relay.syrhano.net with ESMTP; 07 Apr 2014 11:28:25 +0200
+Received: from webmail.info.univ-angers.fr (unknown [172.20.41.32])
+	by smtp.info.univ-angers.fr (Postfix) with ESMTP id D1D0F2DF05
+	for <bioinfo@sfbi.fr>; Mon,  7 Apr 2014 11:28:24 +0200 (CEST)
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Mon, 07 Apr 2014 11:28:24 +0200
+From: Jin-Kao Hao <hao@info.univ-angers.fr>
+To: <bioinfo@sfbi.fr>
+Organization: University of Angers
+Reply-To: <hao@info.univ-angers.fr>
+Mail-Reply-To: <hao@info.univ-angers.fr>
+Message-ID: <09b5c15113c06be8f7f8c6b88470d640@info.univ-angers.fr>
+X-Sender: hao@info.univ-angers.fr
+User-Agent: Roundcube Webmail/0.7.1
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] IEEE BIBM 2014 Call for Workshop Proposals (IEEE International
+ Conference on Bioinformatics and Biomedicine)
+Call for Workshop Proposals
+2014 IEEE International Conference on Bioinformatics and Biomedicine
+http://scm.ulster.ac.uk/~bibm/2014/index.html
+November 2-5, 2014, Belfast, UK
+=================================================================
+The Program Committees of the 2014 IEEE International Conference on 
+Bioinformatics and Biomedicine (IEEE BIBM 2014) invite proposals for 
+Workshops.  Selected workshops will hold a central position within the 
+larger Conference, which will bring together top academic and industrial 
+researchers from all over the world to exchange cutting edge research 
+ideas in bioinformatics and biomedicine.  Within these fields, workshops 
+at BIBM form crucial focal points for emerging communities and forums 
+for the examination of new ideas.
+Workshop organizers will be responsible for advertising the workshop, 
+forming the program committees, reviewing and selecting the papers, and 
+guaranteeing a high quality worthy of the prestige and breadth of the 
+Conference.  All papers accepted for workshops will be included in the 
+Workshop Proceedings published by the IEEE Computer Society Press, made 
+available at the Conference.
+The workshop organizers will also have the discretion of editing 
+selected papers (after their expansion and revision) into books or 
+special journal issues.  Workshops should cover at least a single 
+session (6 regular papers). The workshop organizers should ensure 
+registration and presence of   authors of accepted papers.
+Workshop Topics
+Each workshop subject will focus on new research challenges and 
+initiatives in Bioinformatics,  Biomedicine and Healthcare Informatics.  
+The workshops should provide an informal and vibrant forum for 
+researchers and industry practitioners to share their research results 
+and practical development experiences in these three fields.  Workshop 
+topics may be narrow, e.g., “reverse-engineering” of  gene regulatory 
+networks from experimental data, computational approaches to drug 
+discovery, mathematical modeling of signaling pathways, analysis of the 
+next-generation sequencing data, oscillations and synchronization of 
+biological rhythms, wireless sensor networks, patient health records, 
+medical signal processing; or broad, e.g., computational proteomics, 
+in-silico diagnosis and prognosis, data mining and machine learning 
+algorithms for biomedical applications, application of network research 
+to biology, emerging technology in healthcare, aging research etc.  
+Prospective workshop organizers
+  are encouraged to contact workshop chairs for feedback.
+Important Dates
+May 1, 2014: Workshop proposal submission due:
+              a proposed workshop announcement is  sent by e-mail to any 
+of the  Workshop Chairs
+May 20, 2014: Notification to workshop proposers
+June 25, 2014: Each workshop organizer sends out Call for Workshops 
+Papers
+Guidelines for Workshop Proposals
+Proposals for 2014 IEEE BIBM Workshops should contain the following 
+components.
+1. Workshop Title (e.g., mathematical modeling of signaling pathways)
+2. Introduction to workshop (a few sentences about the background, 
+importance, purpose, interests, etc. of workshop)
+3. Research topics included in the workshop (list a number of 
+interesting topics or areas covered by workshop)
+4. Important dates (Please do not change the final camera-ready 
+submission date, feel free to adjust other dates)
+Sept 10, 2014: Due date for full workshop papers submission
+Sept 30, 2014: Notification of paper acceptance to authors
+      Oct  10,  2014: Camera-ready of accepted papers
+      Nov 2-5, 2014: Workshops
+5. Program Chairs or co-chairs: (1-3 experts in the research areas of 
+workshop)
+6. Program Committee Members: (at least 5 experts in the research 
+areas)
+7. Invited keynote speakers (optional)
+Workshop Chairs:
+Prof. Jesús Aguilar-Ruiz, Pablo de  Olavide University, Spain, 
+aguilar@upo.es
+Prof. Heather Ruskin, Dublin City University, 
+Ireland,hruskin@computing.dcu.ie
+Dr. Dewar Finlay, University of Ulster, UK, d.finlay@ulster.ac.uk
+Prof. Feng Luo, Clemson University, USA, luofeng@clemson.edu

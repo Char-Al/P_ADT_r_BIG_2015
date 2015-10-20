@@ -1,0 +1,72 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <rivals@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 0CF6B26801D
+	for <bioinfo@sfbi.fr>; Fri, 11 Jul 2014 14:02:48 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvoAAFrRv1PBMWgenGdsb2JhbAA/GhaDSoR8iWOybYhPFg8BAQEBAQgLCQkUKIQ8AQURIwoCPRYYAwIBAgFYBgIBAYhCCTaeD6hAj2OELQWWH4RmgUqFSIZqDIlZag
+X-IronPort-AV: E=Sophos;i="5.01,642,1400018400"; 
+   d="scan'208,223";a="61647285"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by b-mx1.relay.syrhano.net with ESMTP; 11 Jul 2014 14:02:47 +0200
+Received: from [193.49.107.60] (pc-rivals.lirmm.fr [193.49.107.60])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 6CD85A4F7C
+	for <bioinfo@sfbi.fr>; Fri, 11 Jul 2014 14:02:44 +0200 (CEST)
+Message-ID: <53BFD264.2000405@lirmm.fr>
+Date: Fri, 11 Jul 2014 14:02:44 +0200
+From: Rivals Eric <rivals@lirmm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] PhD Position in Saarbr=FCcken
+ From Dr Tobias Marschall
+The newly established Algorithms for Computational Genomics group headed 
+by Tobias Marschall is looking for highly motivated PhD students.
+The group is affiliated with the Center for Bioinformatics at Saarland 
+University and the Max Planck Institute for Informatics in Saarbrücken, 
+Germany. We develop algorithms and statistical methods for computational 
+genomics. In particular, we work on methods to analyze high-throughput 
+sequencing data to study genetic diversity, epigenetics, and cancer. On 
+the one hand, we develop the required theoretical foundations in 
+algorithmic statistics, combinatorial optimization, and sequence 
+algorithms and, on the other hand, we apply the resulting methods in 
+collaboration with biomedical researchers to gain biological insights. 
+Topics addressed in the group range from algorithms for low level data 
+processing to questions of population genetics. Some examples of current 
+projects can be found at http://compgen.mpi-inf.mpg.de/research.php.
+The successful applicant will have:
+  * a master level degree in computer science, bioinformatics, 
+mathematics or a related field,
+  * interest in developing algorithms,
+  * good programming skills,
+  * interest in working in an interdisciplinary setting.
+Saarbrücken is one of the best and largest hubs for Computer Science in 
+Europe. The Computer Science research landscape includes two Max Planck 
+Institutes, the Center for Bioinformatics, the German Research Center 
+for Artificial Intelligence and the Cluster of Excellence on Multimodal 
+Computing and Interaction. We count some 70 professors/group leaders, 
+around 180 postdocs and 350 PhD students in Computer Science. The 
+successful applicant will be given the opportunity to contribute to the 
+success of this vibrant research environment.
+Applications should include a motivation letter, a CV, copies of 
+relevant certificates, a publication list (if any) and contact details 
+of one to three references. We also appreciate a link to your 
+bachelor/master thesis, if available. Send your application as a single 
+PDF to Tobias Marschall (t.marschall@mpi-inf.mpg.de). We consider 
+applications until the position is filled. All applications arriving 
+until *July 21* will receive full consideration.
+For questions, please contact Tobias Marschall
+(t.marschall@mpi-inf.mpg.de).
+-- 
+Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
+CNRS Research Director & Head of GDR Bioinformatique Moléculaire
+LIRMM - UMR 5506 - CC 06 001
+95 Rue de la Galéra - 34095 Montpellier cedex 5 FRANCE
+Tel. (33 or 0 from France) 4 67 41 86 64
+Fax. (33 or 0 from France) 4 67 41 85 00
+http://www.gdr-bim.cnrs.fr

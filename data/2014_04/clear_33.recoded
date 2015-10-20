@@ -1,0 +1,97 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <alexandre.mejat@ens-lyon.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 848CC26801D
+	for <bioinfo@sfbi.fr>; Wed,  9 Apr 2014 16:33:43 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtkDAABZRVOMTTMClWdsb2JhbABZg0GDGEq5S4cvBAKBIBYOAQEBAQkLCQkSKoImAQUMF0geCRQIAiYCAh8qDhmHfI4DnBmiFheBKYxhEQEqQ4IYDzI1gRQEjwOWUYh+gXA
+X-IronPort-AV: E=Sophos;i="4.97,826,1389740400"; 
+   d="scan'208";a="56794013"
+Received: from jabiru.ens-lyon.fr ([140.77.51.2])
+  by b-mx1.relay.syrhano.net with ESMTP; 09 Apr 2014 16:33:43 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by jabiru.ens-lyon.fr (Postfix) with ESMTP id CCE7DA3BAD
+	for <bioinfo@sfbi.fr>; Wed,  9 Apr 2014 16:33:42 +0200 (CEST)
+X-Virus-Scanned: by amavisd-new-2.7.1 (20120429) (Debian) at ens-lyon.fr
+Received: from jabiru.ens-lyon.fr ([127.0.0.1])
+	by localhost (jabiru.ens-lyon.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id dJkhJmTefrTA for <bioinfo@sfbi.fr>;
+	Wed,  9 Apr 2014 16:33:42 +0200 (CEST)
+Received: from dhcp-182-116.ens-lyon.fr (dhcp-182-116.ens-lyon.fr [140.77.182.116])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(Client did not present a certificate)
+	by jabiru.ens-lyon.fr (Postfix) with ESMTPS id 2311EA3B78
+	for <bioinfo@sfbi.fr>; Wed,  9 Apr 2014 16:33:42 +0200 (CEST)
+From: Alexandre MEJAT <alexandre.mejat@ens-lyon.fr>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 9 Apr 2014 16:33:41 +0200
+References: <C25F2164-E2B6-4780-B05F-AF5F117B72F3@ens-lyon.fr>
+To: bioinfo@sfbi.fr
+Message-Id: <BCCE837A-9BFE-4AFA-8252-CD982851E7BE@ens-lyon.fr>
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre de Post doctorat (3 ans) disponible immédiatement
+Bonjour,
+Mon équipe dispose d'un financement de 3 ans pour une bourse p
+ost-doctorale disponible immédiatement et financée par l'
+ANR. Vous trouverez les informations ci dessous. Le projet visant à in
+tégrer de nombreuses données genome wide au cours de la diff=C3
+=A9renciation musculaire, le ou la candidat(e) recherchée devra maitri
+ser les analyses bio-informatiques.
+N'hésitez pas à diffuser cette offre à vos contacts,
+ étudiants et collègues.
+Merci d'avance,
+Alexandre MEJAT
+â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 â
+=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80
+ â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 
+â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 â
+=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80
+ â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 
+â=80 â=80 â=80 â=80 â=80 
+POST DOCTORAL POSITION AVAILABLE 
+Title : Acetylcholine Receptor gene coregulation by long distance interacti
+ons
+A three-year post-doctoral position is available in the â=80=9CMuscle Nuc
+lear Architectureâ=80=9D team at the Laboratory of Molecular Biology of t
+he Cell (UMR CNRS 5239 - ENS Lyon).
+Project: The long-term goal of the proposed project is to address how genom
+e organization changes during muscle differentiation and how these changes 
+affect genome function, using Acetylcholine Receptor gene regulation as a m
+odel. This program combines cell biology (muscle differentiation), imaging 
+(immunofluorescence and FISH), and high-throughput genome-wide approaches (
+RNA-seq, ChIP-seq and Chromosome Conformation Capture).
+Funding is provided for three years by an ANR (French National Research Age
+ncy) grant available immediatly.
+Requirements: We are looking for a highly motivated postdoctoral research f
+ellow to lead a project focused on three dimensional nuclear organization a
+nd muscle differentiation. Candidates with a background in molecular and ce
+ll biology, as well as those experienced in high-throughput genome-wide dat
+a analysis, are encouraged to apply. Expertise on mouse models will be posi
+tively considered.
+Location: The team belongs to the Laboratory of Molecular Biology of the Ce
+ll (http://www.ens-lyon.fr/LBMC), located in Lyon, in the Gerland district,
+ in the heart of a highly dynamic campus providing all the technical facili
+ties required for the project.
+Interested applicants should email curriculum vitae, a brief statement of r
+esearch interests and names of three references to Alexandre Mejat (alexand
+re.mejat@ens-lyon.fr).
+See Mejat lab website: http://www.lmna.fr
+â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 â
+=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80
+ â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 
+â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 â
+=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80
+ â=80 â=80 â=80 â=80 â=80 â=80 â=80 â=80 
+Alexandre MEJAT, PhD
+Group Leader - Nuclear Architecture Team
+Laboratory of Molecular Biology of the Cell
+Ecole Normale Supérieure de Lyon
+46 Allée d'Italie
+69363 LYON cedex 07
+Tel: +33 4 72 72 81 70
+alexandre.mejat@ens-lyon.fr

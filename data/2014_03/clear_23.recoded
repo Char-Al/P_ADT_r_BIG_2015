@@ -1,0 +1,180 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <marie-dominique.devignes@loria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 5530326801D
+	for <bioinfo@sfbi.fr>; Fri,  7 Mar 2014 09:43:56 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AogCABiGGVPAhqRof2dsb2JhbABag0FXwSqBEBYOAQELCwoIFCiCJQEBBAEMEUsWCwIBECEdTQoCBBMJh2gIBAmzfps9F44DBwEBGzuCLg+BewSWV4FqgTKUJ4FnCRci
+X-IronPort-AV: E=Sophos;i="4.97,606,1389740400"; 
+   d="scan'208";a="63042245"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by a-mx1.relay.syrhano.net with ESMTP; 07 Mar 2014 09:43:56 +0100
+X-IronPort-AV: E=Sophos;i="4.97,606,1389740400"; 
+   d="scan'208";a="51636294"
+Received: from zmbs2.inria.fr ([128.93.142.15])
+  by mail3-relais-sop.national.inria.fr with ESMTP; 07 Mar 2014 09:43:55 +0100
+Date: Fri, 7 Mar 2014 09:43:54 +0100 (CET)
+From: Marie-Dominique Devignes <marie-dominique.devignes@loria.fr>
+Reply-To: INFO ECCB'14 <info@eccb14.org>
+To: bioinfo <bioinfo@sfbi.fr>
+Message-ID: <283510793.6603737.1394181834984.JavaMail.zimbra@loria.fr>
+In-Reply-To: <883848786.6600327.1394181401173.JavaMail.zimbra@loria.fr>
+References: <883848786.6600327.1394181401173.JavaMail.zimbra@loria.fr>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [90.84.144.68]
+X-Mailer: Zimbra 8.0.6_GA_5922 (ZimbraWebClient - FF27 (Win)/8.0.6_GA_5922)
+Thread-Topic: ECCB 2014: 1st call for poster and 2nd call for papers
+Thread-Index: 0JCXBgduHexjF+0CcQ0/SGW2WpLfEOpN61C/
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Fwd: ECCB 2014: 1st call for poster and 2nd call for papers
+Apologizes for cross-posting !!!
+----- Mail transféré -----
+> De: "Marie-Dominique Devignes" <marie-dominique.devignes@loria.fr>
+> =C0: "info-eccb2014" <info@eccb14.org>
+> Envoyé: Vendredi 7 Mars 2014 09:36:41
+> Objet: ECCB 2014: 1st call for poster and 2nd call for papers
+>
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D
+> ECCB 2014 : 13th European Conference in Computational Biology
+> 7-10 September 2014, Strasbourg, France
+> http://www.eccb14.org
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D
+>
+> *********************
+> 1st CALL for POSTERS
+> *********************
+>
+> The organizers of ECCB'14 invite you to present a poster at the 13th Euro
+pean
+> Conference on Computational Biology:
+>
+> Key dates:
+>
+> March 7, 2014    Call for Poster Abstracts Opens
+> June 2, 2014     Poster Abstract Submission Deadline
+> July 4, 2014     Poster Acceptance Notification
+>
+> We will welcome high-quality research posters in any aspect of computatio
+nal
+> biology, related to the following areas:
+>
+> A: Sequencing and sequence analysis for genomics
+> B: Gene expression
+> C: Pathways and molecular networks
+> D: Computational systems biology
+> E: Structural bioinformatics
+> F: Evolution and population genomics
+> G: Bioinformatics of health and disease
+> H: Biological knowledge discovery from data, texts and bio-images
+> J: Methods and technologies for computational biology
+>
+> A description of each area is available at eccb14.org
+>
+> Posters should report a scientific result, technique or application. Post
+ers
+> should not represent advertisements for commercial products.
+>
+> The abstract must be submitted in plain text, and must be no longer than 
+3000
+> characters including spaces (~ 500 words)
+>
+> Submitted abstracts will be reviewed by the poster selection committee and
+> notification of acceptance will be provided to the corresponding author no
+> later than July 4th, 2014.
+>
+> At least one author per each successful submission is required to register
+> and present the poster at the conference.
+>
+> Submission of poster abstracts must be done via Easy Chair at:
+> https://www.easychair.org/conferences/?conf=3Dposter-eccb2014
+> (*Please note that this website is not the same used for paper submission
+s*).
+>
+> Questions on this Call for Posters should be sent to poster@eccb14.org
+>
+> ********************
+> 2nd CALL for PAPERS
+> ********************
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D
+> Key dates:
+>
+> March 28, 2014     Submission deadline
+> May 23, 2014       Notification of acceptance
+> June 9, 2014       Final version due
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D
+>
+> The organizers of ECCB'14 invite you to to submit original research paper
+s on
+> any aspect of computational biology and bioinformatics, including but not
+> limited to the following areas:
+>
+> A: Sequencing and sequence analysis for genomics
+> B: Gene expression
+> C: Pathways and molecular networks
+> D: Computational systems biology
+> E: Structural bioinformatics
+> F: Evolution and population genomics
+> G: Bioinformatics of health and disease
+> H: Biological knowledge discovery from data, texts and bio-images
+> J: Methods and technologies for computational biology
+>
+> See more detailed description of each area on eccb14.org
+>
+> Papers submitted for review should represent original, previously unpubli
+shed
+> work. At the time the paper is submitted to ECCB'14, and for the entire
+> review period, the paper should not be under review by any other conferen
+ce
+> or scientific journal. Submissions will be generally reviewed by three
+> members of the Program Committee.
+> Accepted original papers will be published as conference proceedings in a
+> special online open-access issue of Bioinformatics (Oxford University
+> Press). They will be citable as regular articles and indexed in Medline a
+nd
+> ISI.
+> Presenters of accepted papers will be given a time slot in the conference
+> schedule to provide a summary and update to their work.
+>
+> At least one author per each successful submission is required to register
+> and present the paper at the conference.
+>
+> Instructions for the authors
+> Manuscript (up to 7 pages) should be prepared according to the Oxford
+> University Press Bioinformatics guidelines for original research papers.
+> Word and LaTex templates can be downloaded from:
+> http://www.oxfordjournals.org/our_journals/bioinformatics/for_authors/sub
+mission_online.html
+>
+> Online submission (PDF format) must be done through the conference EasyCh
+air
+> submission system.
+> https://www.easychair.org/conferences/?conf=3Deccb2014
+>
+> Any question on the call for papers should be sent to program@eccb14.org
+>
+> Please help spread the word for the strongest possible participation by
+> sharing this mail with your colleagues and collaborators.
+>
+> We look forward to welcoming you in Strasbourg in September
+>
+> Marie-Dominique Devignes (conference chair)
+> Yves Moreau (conference co-chair)
+> On behalf of the Proceedings Papers Area Chairs
+> http://www.eccb14.org
+>
+>
+>

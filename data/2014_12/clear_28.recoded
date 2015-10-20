@@ -1,0 +1,57 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Jean-Francois.GIBRAT@france-bioinformatique.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 2EB6926801D
+	for <bioinfo@sfbi.fr>; Mon,  8 Dec 2014 16:58:39 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnIBAFbKhVTBMQPBnGdsb2JhbABahDTLcwMCgTEWAQEBAQERAQEBAQEICwkJFC6EFSYBBUE8FhgDAgECAUsNAQUCAQGIONYYAQEIAgEfj1oRAVAdhCAFnRKPaT4wAYELOX4BAQE
+X-IPAS-Result: AnIBAFbKhVTBMQPBnGdsb2JhbABahDTLcwMCgTEWAQEBAQERAQEBAQEICwkJFC6EFSYBBUE8FhgDAgECAUsNAQUCAQGIONYYAQEIAgEfj1oRAVAdhCAFnRKPaT4wAYELOX4BAQE
+X-IronPort-AV: E=Sophos;i="5.07,539,1413237600"; 
+   d="scan'208";a="69620820"
+Received: from smtp1.cnrs.fr ([193.49.3.193])
+  by b-mx1.relay.syrhano.net with ESMTP; 08 Dec 2014 16:58:38 +0100
+Received: from CNCH02WVP.core-res.rootcore.local (10.247.60.12) by
+ smtp1.cnrs.fr (172.27.123.3) with Microsoft SMTP Server (TLS) id 14.3.158.1;
+ Mon, 8 Dec 2014 16:58:30 +0100
+Received: from ifb28.france-bioinformatique.fr (172.27.123.2) by smtp.cnrs.fr
+ (10.247.60.12) with Microsoft SMTP Server (TLS) id 14.3.158.1; Mon, 8 Dec
+ 2014 16:58:37 +0100
+Message-ID: <5485CBE3.3010309@france-bioinformatique.fr>
+Date: Mon, 8 Dec 2014 17:03:47 +0100
+From: Jean-Francois Gibrat <jean-francois.gibrat@france-bioinformatique.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Cc: Dayde <michel.dayde@irit.fr>, <frederic.suter@cc.in2p3.fr>
+Content-Type: text/plain; charset="windows-1252"; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [172.27.123.2]
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Programme e-biothon
+Chers collègues,
+Le CNRS et IBM dans le cadre du projet e-biothon mettent à disposition 
+de la communauté des sciences du vivant la machine BlueGene/P localisée 
+à l'IDRIS (16 000 coeurs, puissance crête cumulée 56 Tflops, 8To mémoire 
+centrale, 200 To de disques). Cette machine peut fonctionner aussi bien 
+dans son mode classique HPC (High Performance Computing), c'est-à-dire 
+en permettant des échanges d'informations entre processeurs grâce à des 
+interconnexions à faible latence et grande bande passante (programmation 
+type MPI), qu'en mode HTC (High Throughput Computing) où les programmes 
+utilisés sont parallélisés par les données (cas « embarassingly parallel »).
+Les personnes intéressées par l'utilisation de cette machine sont priées 
+de faire parvenir une proposition d'une page maximum à Michel Daydé 
+(Michel.Dayde@irit.fr) et Frédéric Suter (frederic.suter@cc.in2p3.fr) 
+décrivant leur projet scientifique et ses caractéristiques techniques 
+avant le 15 janvier.
+-- 
+=========================================================================
+Jean-Francois Gibrat
+Institut Francais de Bioinformatique,
+UMS3601 IFB-core, bat. 21
+CNRS, 2 Av. de la Terrasse
+91190 Gif-sur-Yvette, France
+Tel: +33 (1) 69 82 46 70
+Email: jean-francois.gibrat@france-bioinformatique.fr
+=========================================================================

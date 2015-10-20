@@ -1,0 +1,48 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gascuel@lirmm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 1119B26801D
+	for <bioinfo@sfbi.fr>; Sun,  5 Oct 2014 08:09:41 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aj0BAPrfMFTBMWgemWdsb2JhbABfg2FYyy6IVhYBEQEBAQEBCAsLBxQshDwBBTAQPRYYAwIBAgEPSQYCAQESiBQDFQmaS50RDYcwjhSCToQ1BZstghGBLYNCgm+HUQOCT4dkagGCSQEBAQ
+X-IPAS-Result: Aj0BAPrfMFTBMWgemWdsb2JhbABfg2FYyy6IVhYBEQEBAQEBCAsLBxQshDwBBTAQPRYYAwIBAgEPSQYCAQESiBQDFQmaS50RDYcwjhSCToQ1BZstghGBLYNCgm+HUQOCT4dkagGCSQEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,658,1406584800"; 
+   d="scan'208";a="65587058"
+Received: from kirkenes.lirmm.fr ([193.49.104.30])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Oct 2014 08:09:41 +0200
+Received: from [192.168.0.21] (ip-72.net-80-236-38.suresnes.rev.numericable.fr [80.236.38.72])
+	by kirkenes.lirmm.fr (Postfix) with ESMTPSA id 07B36A4F27
+	for <bioinfo@sfbi.fr>; Sun,  5 Oct 2014 08:09:39 +0200 (CEST)
+Message-ID: <5430E0A3.4020909@lirmm.fr>
+Date: Sun, 05 Oct 2014 08:09:39 +0200
+From: Olivier Gascuel <gascuel@lirmm.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] 2015 course on computational molecular evolution
+Une très bonne école à l'EBI, 13-24/04/2015
+-------- Message original --------
+Sujet:     [come2014] 2015 course on computational molecular evolution
+Date :     Sat, 04 Oct 2014 12:34:39 +0200
+De :     Alexandros Stamatakis <alexandros.stamatakis@gmail.com>
+Pour :     come2014@googlegroups.com
+Applications are now open for the 7th summer school on computational
+molecular evolution organized by Nick Goldman, Aidan Budd, Ziheng Yang,
+Laura Emery and myself. The application deadline is November 14.
+For further info please visit:
+http://www.wellcome.ac.uk/Education-resources/Courses-and-conferences/Advanced-Courses-and-Scientific-Conferences/Advanced-Courses/WTX049272.htm
+Please, forward this to your friends and colleagues.
+-- 
+Directeur de Recherche
+Institut de Biologie Computationnelle
+LIRMM-CNRS, UMR 5506 CNRS-UM2
+CC 05016, Campus St Priest
+BAT 5, 860 rue de St Priest
+34095 Montpellier cedex 5 - FRANCE
+04 67 41 85 47 - gascuel@lirmm.fr
+http://www.lirmm.fr/gascuel

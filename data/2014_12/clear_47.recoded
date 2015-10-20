@@ -1,0 +1,89 @@
+Return-Path: <Laurent.Mouchard@univ-rouen.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 0D82E26801D
+	for <bioinfo@sfbi.fr>; Fri, 12 Dec 2014 01:27:38 +0100 (CET)
+X-IronPort-AV: E=Sophos;i="5.07,560,1413237600"; 
+   d="scan'208";a="78531766"
+Received: from smtp-out-4.univ-rouen.fr (HELO mailhoc.univ-rouen.fr) ([193.52.152.99])
+  by a-mx1.relay.syrhano.net with ESMTP; 12 Dec 2014 01:27:19 +0100
+Received: from [192.168.0.11] (unknown [83.158.164.20])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mailhoc.univ-rouen.fr (Postfix) with ESMTPSA id BBD3F563
+	for <bioinfo@sfbi.fr>; Fri, 12 Dec 2014 01:27:18 +0100 (CET)
+Message-ID: <548A3665.6010204@univ-rouen.fr>
+Date: Fri, 12 Dec 2014 01:27:17 +0100
+From: Laurent Mouchard <Laurent.Mouchard@univ-rouen.fr>
+Organization: University of Rouen, France
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:31.0) Gecko/20100101 Thunderbird/31.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+Subject: [bioinfo] Liste bioinfo : choses et autres
+Bonsoir à toutes et tous,
+1. Historique
+2. Envoi des offres d'emploi, stages etc
+3. Possibilité de passer en mode digest
+=-=
+1. Historique
+Cela fait 22 ans que la liste bioinfo@... existe.
+Sa création remonte à l'automne 1992, à la suite d'une réunion bioinfo 
+organisée à l'IMAG de Grenoble. La liste de participants à cette réunion 
+(environ 80 personnes) a servi à constituer une base d'adresses. Il y 
+avait alors quelques messages par mois, sans site www.
+Cette liste a permis, depuis sa création, de fédérer la communauté, à un 
+certain (j'espère bon) nombre de personnes de trouver un emploi, et la 
+constitution de la Société Française de Bio-Informatique.
+La diffusion d'une annonce sur cette liste est gratuite, que ce soit 
+pour les individus, les organismes publics ou les entreprises.
+La liste bioinfo@sfbi.fr contient aujourd'hui un peu plus de 5300 noms, 
+tou(te)s ne sont pas bioinformaticien(ne)s mais ont cet intérêt en 
+commun. Il y a quelques départs à la retraite et changement de 
+thématique de temps en temps, et l'arrivée d'étudiants ou de chercheurs 
+régulièrement.
+=-=
+2. Envoi des offres d'emploi, stages etc
+Voici le mél type que vous pourriez recevoir si vous postez une annonce 
+directement sur la liste bioinfo :
+ > Bonjour,
+ >
+ > merci d'avoir utilisé la liste de diffusion de la SFBI pour diffuser 
+votre offre d'emploi/thèse/stage.
+ >
+ > Néanmoins, pour votre prochaine annonce, nous vous demandons de la 
+saisir directement sur
+ > le site web de la SFBI 
+(http://www.sfbi.fr/content/comment-d%C3%A9poser-une-offre-demploi)
+ > ce qui aura pour double effet :
+ > * de la publier sur le site avec toutes les autres offres d'emploi en 
+bioinformatique,
+ > * de la poster automatiquement sur la liste de diffusion bioinfo@sfbi.fr
+ >
+ > Merci d'avance.
+Nous sommes depuis quelques années une modératrice et deux modérateurs, 
+cela nous demande pas mal de travail malgré tout et cela en plus de 
+notre travail de tous les jours. Nous souhaitons avoir à envoyer ce mél 
+le moins souvent possible, nous vous demandons par conséquent de bien 
+vouloir faire cet effort.
+C'est un peu moins souple que par le passé, mais cela permet à l'annonce 
+d'être plus largement diffusée.
+Nous faisons ou allons faire tout notre possible pour supprimer 
+l'annonce lorsque le poste est pourvu (nous sommes en train de voir 
+comment faire la même chose sur l'archivage de la liste de diffusion).
+L'autre avantage est que les objets des méls sont marqués 
+[bioinfo][Emploi][etc...], ce qui permet à ceux qui ne sont pas 
+intéressés de les filtrer vers la corbeille.
+=-=
+3. Possibilité de passer en mode digest
+Certain(e)s d'entre vous m'ont fait la remarque qu'il y avait beaucoup 
+de messages sur la liste depuis quelques temps, je vous inciterais, si 
+cela vous dérange, à vous connecter sur le serveur de listes.
+Sélectionnez dans le menu de gauche "Options d'abonné" puis passez le 
+"Mode de réception" en digest. Vous recevrez un mél par semaine, avec 
+tout dedans, le samedi matin.
+Voilà,
+Sur ce, nous vous souhaitons à toutes et tous une bonne fin de semaine,
+(pour la modératrice et les modérateurs) Laurent

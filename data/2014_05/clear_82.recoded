@@ -1,0 +1,90 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <anthony.mathelier@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id CB0FC26801D
+	for <bioinfo@sfbi.fr>; Wed, 28 May 2014 18:07:38 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: An4BAPwIhlPRVdwslWdsb2JhbABZg1nEChYOAQEBAQcNCQkSKoI4BiABBQgBGwoSAgMSEBYWGAMCAQIBEREBBQEvBgIBAR6ICwEDEQWjQYMRao0Zgw2ZJAoZJw1khG0RAQUMjmOEKgSKIo9TgT2FLoZMg39BhQhM
+X-IronPort-AV: E=Sophos;i="4.98,928,1392159600"; 
+   d="scan'208";a="59293724"
+Received: from mail-pa0-f44.google.com ([209.85.220.44])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 May 2014 18:07:37 +0200
+Received: by mail-pa0-f44.google.com with SMTP id ld10so11314992pab.3
+        for <bioinfo@sfbi.fr>; Wed, 28 May 2014 09:07:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=+U4u5FAzBzy6aKwjjf3vknHdFEAX4617oD87F3IzA/A=;
+        b=MRvL0c7GBRXm0hNAGUW4KopoJrBNG91FkPwXWGBd6jruWZX+djLypFkwQvu9Xv6dKU
+         yUtoY7l9di71HsZ9e2Q/5M0P0OmDr9xh65SaugTrVd0L6yhCp98Ngexo9KHWxBoxUdeB
+         +ZzJsWvo6ihc+c1sTW58H3tZdR2Z4jjrHftDflU5VblrNmgco5BXH8hh0sGqJmV50O4U
+         JMRDQZJsbt9pEvkNNTWDm53pDxg4nvuHKm59n/Y7qnaxvBAhVjxJL9Dksz9QawKCKlvK
+         8YVX7TIfuYneHtErgUjc6PVlXE2C5t+3idRv8uxwoXbPCeRHfmBufxOMJH+74zpwjInf
+         R2Bw==
+X-Received: by 10.66.164.5 with SMTP id ym5mr853770pab.50.1401293256005;
+        Wed, 28 May 2014 09:07:36 -0700 (PDT)
+Received: from [137.82.44.139] (ip139.cmmt.ubc.ca. [137.82.44.139])
+        by mx.google.com with ESMTPSA id vn13sm14801931pab.8.2014.05.28.09.07.34
+        for <bioinfo@sfbi.fr>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 28 May 2014 09:07:35 -0700 (PDT)
+Message-ID: <538609C6.7080907@gmail.com>
+Date: Wed, 28 May 2014 09:07:34 -0700
+From: Anthony Mathelier <anthony.mathelier@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][=?WINDOWS-1252?Q?Th=E8se?=] Transcriptional regulation of miRNAs
+Title: Deciphering microRNA regulation and processing using Cap Analysis 
+of Gene Expression (CAGE) and small RNA-sequencing data
+Location: Wyeth Wasserman laboratory, Centre for Molecular Medicine and 
+Therapeutics, University of British Columbia, Vancouver, BC, Canada.
+Contacts: wyeth@cmmt.ubc.ca, amathelier@cmmt.ubc.ca
+Description:
+MicroRNAs are a class of endogenous ~18-25nt-long RNAs involved in 
+post-transcriptional regulation. Their expression must be accurately 
+controlled as they play crucial functions in cell physiology. 
+Deregulation are often associated with diseases such as cancers. A 
+better understanding of their mode of regulation/deregulation, notably 
+at the transcriptional level, is required. We propose to further our 
+understanding of the transcriptional regulation of microRNAs. This 
+project is part of an international collaboration with the IGMM 
+(Institut de Génétique Moleculaire de Montpellier, France, 
+http://www.igmm.cnrs.fr/) and the FANTOM consortium (RIKEN institute, 
+Japan, http://fantom.gsc.riken.jp/5/).
+As part of the international FANTOM5 consortium, the Wasserman lab has 
+access to cap analysis gene expression (CAGE), small RNA-sequencing 
+(sRNA-seq), and RNA-sequencing experiments derived data sets from 
+hundreds of human samples. Moreover, in collaboration with the IGMM, we 
+have access to methods for the targeted analysis of microRNAs and 
+associated transcriptional regulations. In combining the data, we have 
+an unprecedented opportunity to better understand how microRNAs are 
+regulated and processed. The information will allow to construct 
+metaregulation networks that recapitulate inter-molecular and functional 
+interactions between transcription factors, microRNAs and target genes.
+The PhD candidate will focus on the development and application of 
+computational methods for the analysis of promoters for microRNAs and 
+clusters of microRNAs. Specifically, these methods will use multiple 
+linear regression models or alike applied to CAGE and (s)RNA-seq data to 
+better understand microRNAs' transcriptional regulation. The work will 
+expose the student to computational approaches for the management, 
+analysis, and interpretation of genome-scale data. The student will work 
+within an interactive team environment with international 
+collaborations. Finally, the successful candidate will be provided with 
+the opportunity to stay 3 months at the IGMM in Montpellier, France, as 
+part of our collaboration (funded by the French Embassy in Canada).
+-- 
+Anthony Mathelier, PhD
+Deputy Group Leader
+Dr. Wyeth W. Wasserman's Lab
+Centre for Molecular Medicine and Therapeutics (CMMT)
+University of British Columbia | Child & Family Research Institute
+980 West 28th Avenue, Room 3109 | V5Z 4H4, Vancouver, BC, Canada
+amathelier@cmmt.ubc.ca
+http://mathelierweb.com/bioinfo/

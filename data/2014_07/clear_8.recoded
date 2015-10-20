@@ -1,0 +1,47 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id DC24F26801D
+	for <bioinfo@sfbi.fr>; Thu,  3 Jul 2014 13:34:58 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmgCAIU+tVOKZqI0nGdsb2JhbABag1+DScMpAwIBgR0PAQEBAQEICwkJFCiEBAEFIw8BBREvESUCBRYLAgIJAwIBAgE6CxMGAgEBiD4ECaw6m3UXgSyNFBEBVxaCYYFMBZptl0+BdQ
+X-IronPort-AV: E=Sophos;i="5.01,595,1400018400"; 
+   d="scan'208";a="61226223"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Jul 2014 13:34:58 +0200
+Received: from MacBook-Air-de-sophie-2.local (ASt-Lambert-151-1-15-161.w82-120.abo.wanadoo.fr [82.120.109.161])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s63BYuRj002926
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Thu, 3 Jul 2014 13:34:57 +0200 (CEST)
+Message-ID: <53B53FE0.3020807@jouy.inra.fr>
+Date: Thu, 03 Jul 2014 13:34:56 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1X2fGu-0002Yd-C7@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1X2fGu-0002Yd-C7@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1X2fGu-0002Yd-C7@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53B53FE0.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53B53FE0.000/82.120.109.161/ASt-Lambert-151-1-15-161.w82-120.abo.wanadoo.fr/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53B53FE0.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=# B=0.093 -> S=0.093
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] =?UTF-8?Q?Ing=C3=A9nieur?= bioinformaticien
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur bioinformaticien
+Type de poste : CDD Ingénieur
+Durée du poste : 10 mois
+Ville : Chappes (près de Clermont-Ferrand)
+Nom du contact : Lénaïck JEHANNIN
+Email du contact : rh@biogemma.com
+Laboratoire : Biogemma
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformaticien-5

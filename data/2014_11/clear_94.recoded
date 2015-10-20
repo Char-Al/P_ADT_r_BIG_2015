@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7B37F26801D
+	for <bioinfo@sfbi.fr>; Fri, 28 Nov 2014 22:14:24 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvYBAGPleFSKZqI0nGdsb2JhbABbg1dYAY0kAbloh3ABAQEBAREBAQEBAQgLCQkULoQsEAURMw4kAiYCEiw0iEANrHuPRoFthiuHd4V+gS6OaxEBbYJfgVMFgS6yJQEBAQcBAQEBAYIkboENgToBAQE
+X-IPAS-Result: AvYBAGPleFSKZqI0nGdsb2JhbABbg1dYAY0kAbloh3ABAQEBAREBAQEBAQgLCQkULoQsEAURMw4kAiYCEiw0iEANrHuPRoFthiuHd4V+gS6OaxEBbYJfgVMFgS6yJQEBAQcBAQEBAYIkboENgToBAQE
+X-IronPort-AV: E=Sophos;i="5.07,478,1413237600"; 
+   d="scan'208";a="69205762"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 Nov 2014 22:14:07 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sASLE6vQ000309
+	for <bioinfo@sfbi.fr>; Fri, 28 Nov 2014 22:14:06 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 8F7AC296CE8
+	for <bioinfo@sfbi.fr>; Fri, 28 Nov 2014 22:14:06 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XuStt-000Blz-Bx
+	for bioinfo@sfbi.fr; Fri, 28 Nov 2014 22:16:25 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XuStt-000Blz-Bx@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Fri, 28 Nov 2014 22:16:25 +0100
+X-Miltered: at beta with ID 5478E59E.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5478E59E.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 5478E59E.000 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.105 -> S=0.105
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] domain annotation
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : domain annotation
+Type de poste : Post-doc / IR
+Durée du poste : 3.5 years
+Ville : Paris
+Nom du contact : Alessandra Carbone
+Email du contact : Alessandra.Carbone@lip6.fr
+Laboratoire : Laboratory of Computational and Quantitative Biology
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/domain-annotation

@@ -1,0 +1,135 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gtpb-bounces@igc.gulbenkian.pt>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id DD00926801D
+	for <bioinfo@sfbi.fr>; Mon, 29 Sep 2014 20:23:11 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlwlAJ2iKVTBiV4F/2dsb2JhbABgg2FNCgGLVapCBpNxCodKAoEuAXuEBQYBAUMKHg4DAQIGAisdCAMBCxgBNRMFF4gmCb9LhhKHeYRRD0SBQQWLE4sMgj6BSIMCgWOFcI4Lg2Q8LwGCSQEBAQ
+X-IPAS-Result: AlwlAJ2iKVTBiV4F/2dsb2JhbABgg2FNCgGLVapCBpNxCodKAoEuAXuEBQYBAUMKHg4DAQIGAisdCAMBCxgBNRMFF4gmCb9LhhKHeYRRD0SBQQWLE4sMgj6BSIMCgWOFcI4Lg2Q8LwGCSQEBAQ
+X-IronPort-AV: E=Sophos;i="5.04,621,1406584800"; 
+   d="scan'208";a="65239115"
+Received: from igcns.igc.gulbenkian.pt (HELO mx01.igc.gulbenkian.pt) ([193.137.94.5])
+  by b-mx1.relay.syrhano.net with ESMTP; 29 Sep 2014 20:23:11 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id C6A5870D92;
+	Mon, 29 Sep 2014 19:23:08 +0100 (WEST)
+X-Virus-Scanned: Debian amavisd-new at igcns
+Received: from mx01.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id S1G52qEXT4W5; Mon, 29 Sep 2014 19:23:08 +0100 (WEST)
+Received: from [127.0.1.1] (mx00.igc.gulbenkian.pt [192.168.50.10])
+	by mx01.igc.gulbenkian.pt (Postfix) with ESMTP id 97B0170D57;
+	Mon, 29 Sep 2014 19:23:07 +0100 (WEST)
+X-Original-To: gtpb@igc.gulbenkian.pt
+Delivered-To: gtpb@igc.gulbenkian.pt
+Received: from localhost (localhost [127.0.0.1])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 2EC3C2B6129
+	for <gtpb@igc.gulbenkian.pt>; Mon, 29 Sep 2014 18:32:24 +0100 (WEST)
+Received: from mx00.igc.gulbenkian.pt ([127.0.0.1])
+	by localhost (igc.gulbenkian.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id rbeKa8eHUDfs for <gtpb@igc.gulbenkian.pt>;
+	Mon, 29 Sep 2014 18:32:19 +0100 (WEST)
+Received: from webmail.igc.gulbenkian.pt (webmail.igc.gulbenkian.pt
+	[192.168.50.6])
+	by mx00.igc.gulbenkian.pt (Postfix) with ESMTP id 06C9C2B612C
+	for <gtpb@igc.gulbenkian.pt>; Mon, 29 Sep 2014 18:32:19 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by webmail.igc.gulbenkian.pt (Postfix) with ESMTPA id E953A60E64
+	for <gtpb@igc.gulbenkian.pt>; Mon, 29 Sep 2014 18:32:18 +0100 (WEST)
+Received: from fw1dmz.igc.gulbenkian.pt (fw1dmz.igc.gulbenkian.pt
+	[192.168.50.3]) by webmail.igc.gulbenkian.pt (Horde Framework) with
+	HTTP; Mon, 29 Sep 2014 18:32:18 +0100
+Message-ID: <20140929183218.14846wlugsieexlu@webmail.igc.gulbenkian.pt>
+Date: Mon, 29 Sep 2014 18:32:18 +0100
+From: Pedro Fernandes <pfern@igc.gulbenkian.pt>
+To: gtpb <gtpb@igc.gulbenkian.pt>
+MIME-Version: 1.0
+Content-Disposition: inline
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.6)
+X-Mailman-Approved-At: Mon, 29 Sep 2014 19:22:10 +0100
+X-BeenThere: gtpb@igc.gulbenkian.pt
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: The Gulbenkian Training Programme in Bioinformatics
+	<gtpb.igc.gulbenkian.pt>
+List-Unsubscribe: <https://lists.igc.gulbenkian.pt/mailman/options/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=unsubscribe>
+List-Archive: <https://lists.igc.gulbenkian.pt/mailman/private/gtpb>
+List-Post: <mailto:gtpb@igc.gulbenkian.pt>
+List-Help: <mailto:gtpb-request@igc.gulbenkian.pt?subject=help>
+List-Subscribe: <https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb>,
+	<mailto:gtpb-request@igc.gulbenkian.pt?subject=subscribe>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="iso-8859-1"; Format="flowed"; DelSp="Yes"
+Sender: gtpb-bounces@igc.gulbenkian.pt
+Errors-To: gtpb-bounces@igc.gulbenkian.pt
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Gtpb] HP
+                    ANNOUNCEMENT
+The Gulbenkian Training Programme in Bioinformatics is pleased to
+announce that the applications for the hands-on Bioinformatics
+training course
+HPND14
+Hunting for Promoters with NGS data
+are now OPEN. Please have a look at our website here:
+http://gtpb.igc.gulbenkian.pt/bicourses/HPND14/
+We will have Edgar Wingender and Philip Stegmaier as instructors.
+  Course description:
+This course is set-up to review the basic principles of gene
+regulation and the corresponding bioinformatic problems. It will start
+with the computational prediction of promoters and distant enhancers
+and will deal with the analysis of the structure of such regions by
+identifying binding sites for transcription factors. The most
+intriguing parts of genomes, still not completely understood, are the
+gene regulatory regions â=80=93 mostly promoters and enhancers. A complet
+e
+annotation of a newly sequenced genome has to address the
+identification of these regions in addition to the classical task of
+finding genes in terms of coding regions. Regulatory regions define
+when, where and under what conditions genes become active and, thus,
+are part of the fundamental function of a gene. In this course, we
+will overview some of the experimental methods such as next generation
+sequencing (NGS) techniques for genome-wide epigenetic analysis such
+as ChIP-seq, which have revolutionized our ways for studying the gene
+regulatory mechanisms. The attendees will learn about several
+techniques of finding promoters and enhancers and the principles on
+which these methods are based on. In the "hands on" exercises, several
+analytical tools will be introduced and the results critically
+evaluated to assess their reliability.
+Objectives:
+The course will consist of lectures that lay out the conceptual
+framework as needed and and "hands on" exercises, which will provide
+the practical insight on the use of the methods, gradually, in order
+to produce skills that can be used with a relatively high degree of
+independence. Participants will learn how to set-up some of the
+programs, and use publicly available servers for more complex
+analytical jobs, in an informed fashion, so that they fully understand
+the output generated and how its quality can be assessed. Participants
+will also learn the novel principles of organization of gene
+regulatory regions, which will help them to interpret their results of
+genomic and transcriptomic studies.
+Thank you for your continued interest
+P.Fernandes
+GTPB Coordinator
+--
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+--
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb

@@ -1,0 +1,129 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <djacob@u-bordeaux2.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id F2B4B26801D
+	for <bioinfo@sfbi.fr>; Tue, 24 Jun 2014 12:28:15 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApMBAP9RqVOT0tcTnGdsb2JhbABag1+CfkmnUwaZNYEHFg8BAQEBAQgLCQkUKIQWFw8BBTEBCh4UCAIFFgsCCwMCAQIBNwMeBgICiD4ECYoDjQKPI519F4EqhDmINxEBKoMkgUwElz+KCpAqaoEL
+X-IronPort-AV: E=Sophos;i="5.01,537,1400018400"; 
+   d="scan'208";a="69045496"
+Received: from v-zimmta01.u-bordeaux.fr ([147.210.215.19])
+  by a-mx1.relay.syrhano.net with ESMTP; 24 Jun 2014 12:28:15 +0200
+Received: from v-zimmta01.u-bordeaux.fr (localhost [127.0.0.1])
+	by v-zimmta01.u-bordeaux.fr (Postfix) with ESMTP id 759E0D1
+	for <bioinfo@sfbi.fr>; Tue, 24 Jun 2014 12:28:14 +0200 (CEST)
+Received: from mtaout02.u-bordeaux2.fr (mtaout02.u-bordeaux2.fr [193.51.8.87])
+	by v-zimmta01.u-bordeaux.fr (Postfix) with ESMTP id 68287D0
+	for <bioinfo@sfbi.fr>; Tue, 24 Jun 2014 12:28:14 +0200 (CEST)
+Received: from [147.100.103.179] (unknown [147.100.103.179])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by mtaout02.u-bordeaux2.fr (Postfix) with ESMTPSA id 726F933
+	for <bioinfo@sfbi.fr>; Tue, 24 Jun 2014 12:27:58 +0200 (CEST)
+Message-ID: <53A952BF.3060302@u-bordeaux2.fr>
+Date: Tue, 24 Jun 2014 12:28:15 +0200
+From: Daniel Jacob <djacob@u-bordeaux2.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0 SeaMonkey/2.26.1
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: ClamAV using ClamSMTP
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] CDD =?UTF-8?Q?Ing=C3=A9nieur?= Informaticien ou Bioinformaticien =?UTF-8?Q?=C3=A0?= INRA Villenave d'Ornon
+[Par avance, désolée pour les réceptions multiples éventuelles]
+Bonjour,
+Voici une offre de CDD pour un ingénieur Informaticien ou 
+Bioinformaticien à INRA UMR 1332 Biologie du Fruit, Villenave d'Ornon,
+dans le cadre d'un projet Infrastructure d'Avenir MetaboHub.
+Si cela vous intéresse, merci de me contacter:
+daniel.jacob@bordeaux.inra.fr
+Cordialement,
+Daniel Jacob
+INRA UMR 1332 Biologie du Fruit
+Annonce en ligne sur SFBI: 
+http://www.sfbi.fr/content/bioinformaticien-developpement-dapplications-web
+--------------------------------------------------------------------------
+Type de poste:  CDD Ingénieur CDD
+Durée du poste:  18 mois
+Date de début:  Lu, 01/09/2014
+Ville:  Villenave d'Ornon (33)
+Laboratoire:  INRA UMR 1332 Biologie du Fruit
+Adresse:  Centre INRA Bordeaux-Aquitaine Bât. IBVM, 71, av. Edouard 
+Bourlaux CS 20032 -33882 Villenave d'Ornon Cedex France
+Date limite de candidature:  Je, 31/07/2014
+Nom du contact: Daniel Jacob
+Email du contact: daniel.jacob@bordeaux.inra.fr
+Url: http://www.metabohub.fr
+Date de validité: Ma, 30/09/2014
+Description du contexte:
+Le lieu de travail sera situé sur le site de l'INRA de Bordeaux 
+(http://www.bordeaux-aquitaine.inra.fr/) au sein de la Plate-forme 
+métabolomique de Bordeaux (PMB) (http://www.cgfb.u-bordeaux2.fr.fr) dans 
+le cadre du projet national MetaboHUB.
+Le projet français MetaboHUB vise à créer une infrastructure nationale 
+de la métabolomique qui place la France parmi les leaders européens des 
+services de recherche de pointe dans la métabolomique et fluxomique. 
+Cette infrastructure fournira des outils et des services pour les 
+équipes de recherche universitaires et les partenaires industriels dans 
+les domaines de la nutrition et de la santé, de l'agriculture, de 
+l'environnement et des biotechnologies. MetaboHUB abordera les grandes 
+tendances et les défis énumérés dans la Stratégie nationale pour la 
+recherche et les priorités de l'innovation en sciences de la vie. Pour 
+plus d'informations consultez le site web: http://www.metabohub.fr/
+Description du poste :
+Dans le cadre du WorkPackage 3 MetaboHUB (bioinformatique), l'objectif 
+sera de concevoir et de construire une interface ergonomique et 
+conviviale pour le traitement et la visualisation des spectres RMN. Les 
+algorithmes liés aux traitements sont déjà écrtis ou sont en cours de 
+mise au point. La personne recrutée devra prendre en charge l'écriture 
+de caractéristiques techniques (déclaration de portée), en lien avec les 
+partenaires répartis du projet, puis sa conception et son 
+implementation. Dans un second temps, il (elle) sera également impliquer 
+dans la structure d'une base de données de composés chimiques de 
+référence et plus particulièrement les aspects concernant la RMN. La 
+personne travaillera localement avec un bio-informaticien et sera en 
+contact avec tous les membres du Workpackage Bioinformatique de MetaboHub.
+Les missions principales du poste impliqueront de:
+Etablir les spécifications et la modélisation des axes les plus 
+importants (en UML),
+Adapter éventuellement les outils choisis pour qu’ils répondent au 
+besoin du projet,
+Définir et mettre en place une architecture logicielle intégrant 
+l’ensemble de façon appropriée,
+Développer une interface ergonomique et conviviale pour le traitement et 
+la visualisation des spectres RMN, facilement utilisable par des 
+biologistes.
+Tout au long du projet, une documentation importante sera rédigée afin 
+de permettre une utilisation et une évolution ultérieures aisées.
+Formation souhaitée:
+   Master, diplôme d'ingénieur ou thèse, en bioinformatique ou informatique
+Expérience:
+   De 2 à 5 ans d’expérience environ; débutant accepté si stages 
+significatifs.
+Compétences nécessaires :
+Maîtrise d'un langage objet (JAVA, Python, C++, ou autre),
+Maîtrise des concepts liés au development Web (HTML5, CSS, JavaScript, 
+AJAX),
+Connaissances en modélisation UML,
+Connaissances en bases de données.
+Compétences souhaitées:
+Connaissances d'un ou plusierus frameworks: jQuery, Bootstrap, cakePHP
+Connaissances en architecture logicielle
+Connaissances en métabolomique ou très fort attrait dans ce domaine,
+Bonne connaissance de l’environnement Unix/Linux
+Aptitudes personnelles :
+Rigueur
+Capacité à rendre compte et autonomie
+Aptitude au travail en équipe
+Envie de transmettre son savoir, d’assurer la pérennité, la maintenance 
+de son travail par autrui
+Goût pour la modélisation, l’écriture de spécifications, de documentations
+Salaire brut:
+   De 1972 euros / mois à 2833 euros / mois en fonction de la 
+qualification et de l'expérience du candidat, et suivant les grilles 
+salariales de l'INRA
+Pour candidater, envoyer lettre de motivation et CV à : 
+daniel.jacob@bordeaux.inra.fr

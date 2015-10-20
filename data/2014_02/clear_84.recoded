@@ -1,0 +1,49 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id D3D0E26801D; Thu, 27 Feb 2014 15:44:53 +0100 (CET)
+To: bioinfo@sfbi.fr
+From: remi.kazma@gmail.com
+Message-ID: <sympa.1393511917.9220.496@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Thu, 27 Feb 2014 15:44:53 +0100 (CET)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] PhD position in Statistical Genetics at the CNG
+The French National Center for Genotyping (www.CNG.fr/en) and the Inserm U1078 lab propose a PhD position in Statistical Genetics to study rare variants and gene-environment interactions in complex human diseases. A summary can be found below and further details about the project can be provided for interested candidates.
+Applications will go through a competitive recruitment process, called Irtelis, which will fund up to 20 PhD fellowships for a duration of 3 years starting end of 2014 at the Life Science Division of the French Alternative Energies and Atomic Energy Commission (www.CEA.fr/english-portal). 
+Deadline for online application is Friday 21 of March, 2014, at noon CET (my guess!).
+Then an ad-hoc committee will preselect applicants who will be invited from May 21 to 23 at the Saclay research center of CEA (near Paris) for:
+- an interview with a panel of distinguished scientists (from CEA and affiliated universities),
+- an informal chat with prospective PhD supervisors (poster session).
+For non-local participants, low-cost travel expenses and accommodation will be covered by the DSV.
+Successful candidates will be notified by Friday 23 of May, 2014.
+The web page containing all the necessary information (PhD projects and application form) is available at: www-dsv.cea.fr/en/phd-program/program-presentation
+Please, contact me if you would like to discuss this opportunity further (kazma@cng.fr or remi.kazma@gmail.com).
+Rémi Kazma
+Statistical Genetics @ CNG
+***
+Summary
+Genome-wide association studies have identified many associations between common variants and complex diseases. However, these only explain a limited amount of the genetic variability of these diseases. Two hypotheses often suggested to explain this include the association with rare variants and gene-environment interactions. The hypothesis of association with rare variants lies in the idea that a large number of rare variants located in a gene or a genomic region would harbor alleles that increase the risk of developing the studied disease, moderately to importantly. New sequencing technologies will allow the large scale identification of rare variants and consequently to test this hypothesis on large samples. Several methods based on the aggregation of multiple variants have been proposed to analyze rare variants. Yet, none of these methods have proposed to analyze interactions between these rare variants and environmental factors. In a first study,  we showed how a joint test of the association with a set of rare variants and of their interactions with an environmental factor can be more powerful than a standard test of genetic association alone. However, several methodological developments are needed. The aim of this thesis is to develop and evaluate the properties of statistical methods for analyzing gene-environment interactions involving rare variants. Moreover, the CNG plays a central role in the international genetic community. This will provide many opportunities to illustrate these methods in real data applications.
+========================
+========================
+========================
+Le Centre National de Génotypage (www.CNG.fr) propose un sujet de thèse en Génétique Statistique portant sur l'étude des variants rares et des interactions gène-environnement dans les maladies complexes humaines. Un résumé se trouve ci-dessous et de plus amples détails sont disponibles pour des candidats intéressés.
+Les candidatures se feront via un processus de recrutement compétitif, appelé Irtelis, qui financera 20 bourses de thèse de 3 ans à partir de la fin 2014 au Département des Sciences de la Vie du Commissariat à l'Énergie Atomique et aux Énergies Alternatives (www.CEA.fr). 
+La date limite de dépôt des candidatures est fixée au vendredi 21 mars 2014 à midi.
+Ensuite, un jury ad-hoc présélectionnera les candidats qui seront invités du 21 au 23 mai 2014 au centre de recherche de Saclay du CEA (près de Paris) pour:
+- une audition devant un jury constitué de scientifiques du CEA et des écoles doctorales partenaires,
+- une rencontre informelle avec les directeurs de thèses proposant des sujets (session de posters).
+Pour les candidats n'habitant pas la région parisienne, les frais de transport "low-cost" et les frais d'hébergement seront pris en charge par la DSV.
+Les candidats lauréats seront informés le vendredi 23 mai 2014.
+La page web contenant toutes les informations utiles (sujets de thèses et formulaire de candidature) est: www-dsv.cea.fr/en/phd-program/program-presentation
+N'hésitez pas à me contacter si vous voulez discutez plus en détail de cette opportunité (kazma@cng.fr ou remi.kazma@gmail.com).
+Rémi Kazma
+Statistical Genetics @ CNG
+***
+Résumé
+Les études d'associations pangénomiques ont identifié de nombreuses associations entre variants fréquents et maladies complexes. Cependant, celles-ci n'expliquent qu'une part limitée de la variabilité génétique de ces maladies. Deux hypothèses souvent suggérées pour expliquer cela sont l'association avec des variants rares et les interactions gène-environnement. L'hypothèse d'association avec des variants rares repose sur l'idée qu'un grand nombre de variants rares localisées dans un gène ou une région génomique présenteraient des allèles conférant un risque modéré à important de développer la maladie étudiée. Les nouvelles technologies de séquençage vont permettre d'identifier ces variants rares à grande échelle et donc de tester cette hypothèse sur de grands échantillons. De nombreuses méthodes fondées sur l'agrégation de multiples variants ont été proposées pour analyser les variants rares. Cependant, aucune de ces méthodes n'a jusque-là proposé d'analyser des interactions entre ces variants et des facteurs environnementaux. Dans une première étude, nous avons montré qu'un test conjoint de l'association avec un groupe de variants rares et de leurs interactions avec un facteur environnemental peut être plus puissant qu'un test standard d'association génétique seul. Toutefois, de nombreux autres développements méthodologiques sont nécessaires. L'objectif de cette thèse est de développer et d'évaluer les propriétés de méthodes statistiques pour analyser les interactions de variants rares avec des facteurs environnementaux à l'aide de simulations. Par ailleurs, le CNG est un acteur central du paysage de la génétique internationale, ce qui permettra d'illustrer ces méthodes par des applications sur des données réelles.

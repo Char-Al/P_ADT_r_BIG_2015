@@ -1,0 +1,33 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 6901926801D; Fri, 26 Sep 2014 12:23:32 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: malba@imim.es
+Message-ID: <sympa.1411726895.26687.863@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri, 26 Sep 2014 12:23:32 +0200 (CEST)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Postdoctoral position in Evolutionary Genomics (Barcelona)
+M.Mar Albà lab, 
+Program in Biomedical Informatics (GRIB), IMIM-UPF, Barcelona
+evolutionarygenomics.imim.es
+Short project description
+Antimicrobial peptides (AMPs) are short proteins produced by a wide range of organisms that have the capacity to kill bacteria (Wiesner and Vilcinskas 2010). They are a promising alternative to classical therapeutic antibiotics, as bacteria have not developed highly effective resistance mechanisms to these natural substances (Peschel and Sahl 2006).
+Due to their short size (&#8764;12-50 amino acids), AMPs are difficult to detect by genome annotation efforts or high througput proteomics. The aim of this project is to discover and characterize new AMPs in the human genome using deep RNA sequencing (RNA-seq) and apropriate in silico approaches. Putative AMPs will be identifed using measurements based on the codon usage bias (Ruiz-Orera et al., 2014) and sequence-based AMP activity prediction (Torrent, Di Tommaso, et al. 2012). Using comparative genomics we will search for adaptive substitutions that may have increased AMP activity the over time (Gayà-Vidal and Albà, 2014). Finally, promising candidates will be experimentally validated.
+Gayà-Vidal M and Albà MM. 2014. Uncovering adaptive evolution in the human lineage. BMC Genomics 15: 599.
+Ruiz-Orera J, Messeguer X, Subirana JA, Albà MM. 2014. Long non-coding RNAs as a source of new peptides. eLife Sep 16;3. 
+Torrent M, Di Tommaso P, Pulido D, Nogués MV, Notredame C, Boix E, Andreu D. 2012. AMPA: an automated web server for prediction of protein antimicrobial regions. Bioinformatics 28: 130 - 1.
+Qualifications 
+Candidates should have a PhD in Biology, Biotechnology or related subjects, and a solid publication record. Programming skills and experience with high throughput data is highly recommended.  
+The successful applicant will be funded by the TECNIOSPRING programme sponsored by the European Union (Marie Curie Actions) and the Catalan Government. The requirements for this call are the following: 1. At least four years of postdoctoral work or eight years of equivalent experience, 2. Some experience in applied research or technology transfer (directly or by having participated in projects that included companies, patents, etc.) and, 3. Not have lived in Spain for more than twelve months in a two years period before the call. 
+The position is for two years, annual gross salary 44.000 Euros.
+How to apply
+To apply please send a short presentation letter, your CV and the name of two referees by email to Mar Albà (malba@imim.es).
+Deadline is 17th October 2014.
+For more details on this project visit our web page: evolutionarygenomics.imim.es

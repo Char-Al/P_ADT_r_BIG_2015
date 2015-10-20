@@ -1,0 +1,35 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <helene.touzet@lifl.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 9362426801D
+	for <bioinfo@sfbi.fr>; Fri, 24 Jan 2014 14:15:02 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnAGAKNm4lLAhqRof2dsb2JhbABaFoMutD+ISQKBDBYOAQELCwoIFCiCOCYBBUA9EwMYAwIBAgFYCAEBiAENnBOsEo8phCIEmCeGb45d
+X-IronPort-AV: E=Sophos;i="4.95,712,1384297200"; 
+   d="scan'208";a="60827753"
+Received: from mail3-relais-sop.national.inria.fr ([192.134.164.104])
+  by a-mx1.relay.syrhano.net with ESMTP; 24 Jan 2014 14:15:02 +0100
+X-IronPort-AV: E=Sophos;i="4.95,712,1384297200"; 
+   d="scan'208";a="45996581"
+Received: from unknown (HELO belgian.wifi.lifl.fr) ([134.206.19.99])
+  by mail3-relais-sop.national.inria.fr with ESMTP/TLS/DHE-RSA-CAMELLIA256-SHA; 24 Jan 2014 14:14:59 +0100
+Message-ID: <52E26753.1090204@lifl.fr>
+Date: Fri, 24 Jan 2014 14:14:59 +0100
+From: Helene Touzet <helene.touzet@lifl.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] journée protéomique, 3 février
+bonjour
+nous organisons le 3 février à Lille une journée scientifique
+sur le thème "La protéomique à l'ère du tout omique".
+Le programme préliminaire et le formulaire d'inscription sont
+disponibles à
+http://www.lifl.fr/~touzet/PPF/proteomique.html
+cordialement,
+Hélène

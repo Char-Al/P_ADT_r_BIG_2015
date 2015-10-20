@@ -1,0 +1,83 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Laurent.Vuillon@univ-savoie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5CFC426801D
+	for <bioinfo@sfbi.fr>; Fri, 17 Oct 2014 17:19:13 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AiEDAIQyQVTBMH5JnGdsb2JhbABbg2FYBItcwGKIZBYBEQEBAQEBCAsJCRQuhBVcTRoaHSARE4hDCag2pDgMHASKMIJbiBQFlkaHEoExg0aHZYdng2gmgUVqgksBAQE
+X-IPAS-Result: AiEDAIQyQVTBMH5JnGdsb2JhbABbg2FYBItcwGKIZBYBEQEBAQEBCAsJCRQuhBVcTRoaHSARE4hDCag2pDgMHASKMIJbiBQFlkaHEoExg0aHZYdng2gmgUVqgksBAQE
+X-IronPort-AV: E=Sophos;i="5.04,739,1406584800"; 
+   d="scan'208";a="66433420"
+Received: from dsi-mta-out.univ-savoie.fr ([193.48.126.73])
+  by b-mx1.relay.syrhano.net with ESMTP; 17 Oct 2014 17:19:12 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by dsi-mta-out.univ-savoie.fr (Postfix) with ESMTP id 2F8D4422E8
+	for <bioinfo@sfbi.fr>; Fri, 17 Oct 2014 17:19:12 +0200 (CEST)
+Received: from dsi-mta-out.univ-savoie.fr ([127.0.0.1])
+	by localhost (dsi-mta-out.univ-savoie.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id XVePXcAGovMu for <bioinfo@sfbi.fr>;
+	Fri, 17 Oct 2014 17:19:12 +0200 (CEST)
+Received: from dsi-mail-msa1.univ-savoie.fr (dsi-mail-msa1.univ-savoie.fr [193.48.126.83])
+	by dsi-mta-out.univ-savoie.fr (Postfix) with ESMTP id 1DD35422E3
+	for <bioinfo@sfbi.fr>; Fri, 17 Oct 2014 17:19:12 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by dsi-mail-msa1.univ-savoie.fr (Postfix) with ESMTP id 17FDF14097
+	for <bioinfo@sfbi.fr>; Fri, 17 Oct 2014 17:19:12 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at dsi-mail-msa1.univ-savoie.fr
+Received: from dsi-mail-msa1.univ-savoie.fr ([127.0.0.1])
+	by localhost (dsi-mail-msa1.univ-savoie.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id syzagaMbWNnL for <bioinfo@sfbi.fr>;
+	Fri, 17 Oct 2014 17:19:12 +0200 (CEST)
+Received: from webmail.univ-savoie.fr (webmail.univ-savoie.fr [193.48.126.51])
+	by dsi-mail-msa1.univ-savoie.fr (Postfix) with ESMTP id 0666C14082
+	for <bioinfo@sfbi.fr>; Fri, 17 Oct 2014 17:19:12 +0200 (CEST)
+Received: by webmail.univ-savoie.fr (Postfix, from userid 33)
+	id F25FE2078; Fri, 17 Oct 2014 17:19:11 +0200 (CEST)
+Received: from AGrenoble-552-1-289-68.w92-129.abo.wanadoo.fr
+ (AGrenoble-552-1-289-68.w92-129.abo.wanadoo.fr [92.129.192.68]) by
+ webmail.univ-savoie.fr (Horde Framework) with HTTP; Fri, 17 Oct 2014
+ 17:19:11 +0200
+Message-ID: <20141017171911.97354azuhhb17er3@webmail.univ-savoie.fr>
+Date: Fri, 17 Oct 2014 17:19:11 +0200
+From: Laurent.Vuillon@univ-savoie.fr
+To: bioinfo <bioinfo@sfbi.fr>
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=ISO-8859-1;
+ DelSp="Yes";
+ format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.7)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] TAGp-2014 Conference on "Evolution and Complexity", 4th and 5th of
+ December 2014, at Bourget-du-Lac (Rhône-Alpes)
+Dear Colleagues
+We are organizing the TAGp-2014 (Theoretical Approaches for the Genome
+and the proteome), a two days meeting on the 4th and 5th of December
+2014, at Bourget-du-Lac, France (Alpes). The topic is "Evolution and
+Complexity".
+This is an interdisciplinary meeting with scientists from mathematics,
+physics, computer science and biology.
+The speakers are
+1) Juli Pereto, University of Valencia, Valencia
+2) Deiter Braun, Ludwig Maximilians University, Munchen
+3) Pierre Borgnat, ENS-Lyon
+4) Paul Sorba, Fédération MSIF, Laboratory of theoretical Physics of
+Annecy le Vieux
+5) Bernadette Charron-Bost, LIX, Palaiseau
+6) Carole Knibbe, LIRIS, Lyon
+7) Sergei Grudinin, NANO-D,Grenoble
+To register or get information, please go to
+https://indico.in2p3.fr/event/9888/
+We have some fellowship for the young scientists who would like to
+present their work. To apply submit a short CV and an abstract to
+?claire.lesieur@agim.eu; laurent.vuillon@univ-savoie.fr ?.
+Thanks and looking forward seeing you in Bourget-du-Lac
+Claire Lesieur
+Laurent Vuillon
+Mounia Achoch
+Rodrigo Dorantes-Gilardi
+Virginie Malaval

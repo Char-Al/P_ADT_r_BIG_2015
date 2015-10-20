@@ -1,0 +1,90 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <amaya.pelozuelo@univ-tlse3.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 8D98B26801D
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 11:16:00 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsQBALPjq1PD3DspnGdsb2JhbABag1+qfQaaZBYPAQEBAQEICwkJFCiEFiYBBX0WGAMCAQIBWAgBAYg+BJYPliKWcYVkiDoRAW2ELQWXSJpDgXU
+X-IronPort-AV: E=Sophos;i="5.01,552,1400018400"; 
+   d="scan'208";a="60818003"
+Received: from smtp1.cict.fr ([195.220.59.41])
+  by b-mx1.relay.syrhano.net with ESMTP; 26 Jun 2014 11:15:59 +0200
+Received: from smtp1.cict.fr (localhost.localdomain [127.0.0.1])
+	by smtp1.cict.fr (8.14.5/8.14.4) with ESMTP id s5Q9Fxa3013415
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 11:15:59 +0200
+Received: from MacBook-Pro-de-Amaia.local (edb-5121.ups-tlse.fr [130.120.205.121])
+	(authenticated bits=0)
+	by smtp1.cict.fr (8.14.5/8.14.5) with ESMTP id s5Q9Fx4i013405
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NO)
+	for <bioinfo@sfbi.fr>; Thu, 26 Jun 2014 11:15:59 +0200
+Message-ID: <53ABE4D0.1020504@univ-tlse3.fr>
+Date: Thu, 26 Jun 2014 11:16:00 +0200
+From: Amaia Iribar-Pelozuelo <amaya.pelozuelo@univ-tlse3.fr>
+Reply-To: amaya.pelozuelo@univ-tlse3.fr
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: clamav-milter 0.97.3 at smtp1.cict.fr
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] =?WINDOWS-1252?Q?Ing=E9nieur?= d'=?WINDOWS-1252?Q?=E9tude?= en Bioinformatique
+Type de poste: CDD Ingénieur d'étude
+Durée du poste: 12 mois
+Ville: Toulouse
+Laboratoire: Évolution et Diversité Biologique UMR5174
+Adresse: Laboratoire Évolution et Diversité Biologique UMR 5174, 
+Université Paul Sabatier, bât 4R1, 118 route de Narbonne, 31062 Toulouse
+Nom du contact: Jérôme CHAVE
+Email du contact: jerome.chave <arobase>univ-tlse3.fr
+Date de validité: 10/07/14
+Description du poste:
+L'ingénieur d'étude aura pour mission la mise en oeuvre des différents 
+outils nécessaire au stockage, au traitement, à l'analyse et à la 
+visualisation des données issues de séquençage à haut débit dans le 
+cadre de l'étude moléculaire de la diversité du vivant et la 
+reconstruction de génomes d'organelles. Il/elle aura également pour 
+mission de conseiller et former le personnel du laboratoire d'accueil et 
+des membres du labex CEBA aux outils bioinformatiques disponibles.
+Activités principales :
+Analyser des données issues de séquençage haut débit (séquençage massif 
+d'amplicons issus d'ADN environnemental, séquençage de génomes en shotgun)
+Assurer le stockage et la gestion des données en lien avec le service 
+informatique du laboratoire
+Gérer et maintenir des bases de référence locales de séquences
+Former les biologistes aux outils bioinformatiques
+Assurer la veille scientifique et technique
+Assister dans le choix et la réalisation d'analyses de données de 
+séquençage adaptées
+Compétences requises :
+Diplôme d'Ingénieur ou Master en bioinformatique
+Maîtrise de l'environnement Linux
+Connaissances en programmation (C++, python, PHP, R ...)
+Expérience significative dans l'analyse de données issues des 
+technologies de séquençage à très haut débit
+Notions solides de statistique
+Maîtrise de l'anglais scientifique et technique
+Capacité à interagir avec des personnes ayant des thématiques diverses 
+(Recherche : biologie évolutive, écologie ; Informatique)
+Expérience de bioinformatique dans un laboratoire de biologie souhaitée
+Sens de l'organisation, méthode et rigueur
+Autonomie et bonne capacité de communication et d'adaptation
+Nature d'emploi : CDD CNRS à temps complet 12 mois renouvelable, poste à 
+pourvoir le 1er octobre 2014.
+Niveau de qualification: bac+5 (niveau Master).
+Rémunération : d'après les grilles de salaire du CNRS, selon profil et 
+expérience.
+Contacts :
+Pour tout question complémentaire : Jérôme Chave, jerome.chave 
+<arobase>univ-tlse3.fr
+Modalités de candidature : envoyer un email contenant CV et lettre de 
+motivation avec en-tête « Poste IE bioinformatique EDB-CEBA ». Cet email 
+doit comporter uniquement deux fichiers PDF en courrier attaché et avec 
+les noms suivants : NOM_Prenom_CV_IEbioinfoEDB.pdf et 
+NOM_Prenom_motivation_IEbioinfoEDB.pdf
+Envoi des candidatures à amaya.pelozuelo<arobase>univ-tlse3.fr
+Date limite de candidature le 10 juillet 2014 inclus ou tant que le 
+poste reste vacant

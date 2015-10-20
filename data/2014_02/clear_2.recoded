@@ -1,0 +1,70 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <benoukraf@nus.edu.sg>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 1EC2426801D
+	for <bioinfo@sfbi.fr>; Mon,  3 Feb 2014 03:28:05 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Am4BAEP+7lKJhA4Zm2dsb2JhbABagmu/RoEYDgEBAQEBCAkLCRQogiw6UQE+QicEEwiHfQGcM6c5iFwXjliDXIEUBIlHinuDaJVb
+X-IronPort-AV: E=Sophos;i="4.95,769,1384297200"; 
+   d="scan'208";a="53337663"
+Received: from exch-out.nus.edu.sg (HELO imsva07.stf.nus.edu.sg) ([137.132.14.25])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Feb 2014 03:28:04 +0100
+Received: from imsva07.stf.nus.edu.sg (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 6473D338063
+	for <bioinfo@sfbi.fr>; Mon,  3 Feb 2014 10:27:00 +0800 (SGT)
+Received: from EDG02.stf.nus.edu.sg (unknown [137.132.14.244])
+	by imsva07.stf.nus.edu.sg (Postfix) with ESMTP id 56AFA338055
+	for <bioinfo@sfbi.fr>; Mon,  3 Feb 2014 10:27:00 +0800 (SGT)
+Received: from MBX05.stf.nus.edu.sg ([fe80::2152:97bd:98c9:da78]) by
+ EDG02.stf.nus.edu.sg ([2002:8984:ef4::8984:ef4]) with mapi; Mon, 3 Feb 2014
+ 10:28:01 +0800
+From: Touati Benoukraf <benoukraf@nus.edu.sg>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Date: Mon, 3 Feb 2014 10:28:00 +0800
+Thread-Topic: Bioinformatician position at CSI Singapore
+Thread-Index: AQHPIIeOv/ocA1Cuf06MDzGKEjo4ig=
+Message-ID: <FF8753BFDD0CCE478AA1B1CE55BACC660333AD326D@MBX05.stf.nus.edu.sg>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-TM-AS-MML: No
+X-TM-AS-Product-Ver: IMSVA-8.2.0.1679-7.5.0.1017-20478.004
+X-TM-AS-Result: No--15.776-7.0-31-10
+X-imss-scan-details: No--15.776-7.0-31-10
+X-TMASE-Version: IMSVA-8.2.0.1679-7.5.1017-20478.004
+X-TMASE-Result: 10--15.775800-5.000000
+X-TMASE-MatchedRID: X2T2S+OvE/mODqckZq8CB5iQuumHzHs9vNbtadWE9eB7o9a3dm0EmARz
+	AqIXyDTDYIPlIzxi9UXoFqZ7HmutPZ+YevDk3A7R4+BMcTk3E2kL6OZP7dNw30hEDfw/93BuzW2
+	aB1gHHZOabNoYojBQdjv6onawOXno9J2dIG8qVfp/Obj75G328f4Tv2b0QtTAwShx6BL+Uyiz5L
+	Ih2+IOfKANamSpMq+hsX2AKASV7+Elcl36glLS0UsvpJ9XUFGNzuTRrZo6LNBwUSK4/EeOxX0tC
+	KdnhB58HOI0tZ7A+B36C0ePs7A07QKmARN5PTKc
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Bioinformatician position at CSI Singapore
+Dr. H. Phillip Koeffler, Professor of Medicine and Senior Principal Investi
+gator at Cancer Science Institute in Singapore is looking for a bright, ene
+rgetic individual with superior bioinformatics skill in order to interact w
+ith approximately 10 post-docs and 4 Ph.D. students, each of them are doing
+ massively parallel sequencing of various tumors, RNA-Seq, Chip-Seq, RNA ar
+ray as well as combing the bioinformatics literature for hot leads. There i
+s no doubt that this individual will be extremely productive being a co-aut
+hor on numerous manuscripts.
+Qualifications and Requirements:
+_The candidate should have a Bachelor or Master degree. in Computational Bi
+ology,Bioinformatics, Genetics or a related field.
+_Advanced capability and research experience with a biostatistical package 
+such as R/bioconductor and a scripting language such as Perl/bioPerl or Pyt
+hon/bioPython.
+_Scientific background, good understanding of genetics and genomics.
+_Ability to handle large quantitative datasets and analyses.
+_Familiarity with genomic data, tools, and datasets.
+To apply, please send your full application including cover letter, CV and 
+the names and addresses of two referees in one pdf document to Dr. H. Phill
+ip Koeffler: phillip_koeffler@nuhs.edu.sg and Miss Geraldine Leong E-Ling: 
+csilelg@nus.edu.sg

@@ -1,0 +1,67 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=387339da5=alban.lermine@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 26A5226801D
+	for <bioinfo@sfbi.fr>; Thu, 13 Nov 2014 18:35:27 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AocBABvrZFTBMc0kmWdsb2JhbABbg2JZBMxxiHAWAQEBAQERAQEBAQEICwsHFCMLhAQFQAEBOBEBKlYmAQQbiD0JuV6FfQEFkTgGkD2EC4EehlWMeIszAowyizwBgig9MAGBBkGBAwEBAQ
+X-IPAS-Result: AocBABvrZFTBMc0kmWdsb2JhbABbg2JZBMxxiHAWAQEBAQERAQEBAQEICwsHFCMLhAQFQAEBOBEBKlYmAQQbiD0JuV6FfQEFkTgGkD2EC4EehlWMeIszAowyizwBgig9MAGBBkGBAwEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,378,1413237600"; 
+   d="scan'208";a="76776269"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 13 Nov 2014 18:35:26 +0100
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1415900126; x=1447436126;
+  h=from:to:subject:date:message-id:
+   content-transfer-encoding:mime-version;
+  bh=DGmZv9JTvyCC1hYTlpaJqCBMmYuUp9aepul030eY+e8=;
+  b=XZStjJqPy94gPO66Te4y4qbGQviMygIC4H5ifjq62vGlxniWz9G6zd5t
+   B3l3OwAtBbMfh2skUWKyYLpcxWiO2w==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArUEABvrZFQKAgBG/2dsb2JhbABbg2JZBMxxh08CgTUBAQEBAXILhAQFgQsBKlYmAQQbiEbRH5A9JoNlgR4FhlCMeIszAowyjWVtAYEGQYEDAQEB
+X-IPAS-Result: ArUEABvrZFQKAgBG/2dsb2JhbABbg2JZBMxxh08CgTUBAQEBAXILhAQFgQsBKlYmAQQbiEbRH5A9JoNlgR4FhlCMeIszAowyjWVtAYEGQYEDAQEB
+X-IronPort-AV: E=Sophos;i="5.07,378,1413237600"; 
+   d="scan'208";a="31064499"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip01-in.curie.fr with ESMTP; 13 Nov 2014 18:35:23 +0100
+Received: from MBXPARIS02.recherche.curie.fr ([169.254.2.134]) by
+ mbxparis01.recherche.curie.fr ([169.254.1.20]) with mapi id 14.03.0174.001;
+ Thu, 13 Nov 2014 18:33:28 +0100
+From: Lermine Alban <alban.lermine@curie.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: Galaxy Day 2014 - Ouverture des inscriptions
+Thread-Index: Ac//Z+8RSxKXLAVwS1eHrcGBmcY1SA=
+Date: Thu, 13 Nov 2014 17:33:27 +0000
+Message-ID: <C58E44138EE6674A84A79A196CB885A3919DF76F@mbxparis02.recherche.curie.fr>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.2.0.62]
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Galaxy Day 2014 - Ouverture des inscriptions
+Bonjour,
+Le Groupe de Travail Galaxy-IFB (http://www.ifb-galaxy.org/index.html) orga
+nise une journée d'animation autour de la plateforme Galaxy le mercredi 3
+ décembre à Paris (Institut Curie).
+Cette journée permettra à la communauté d'exposer des retours d'exp
+ériences autour de la plateforme Galaxy.
+Les inscriptions sont ouvertes et gratuites (limitées à 90 personnes).
+Le programme, le formulaire d'inscription  ainsi que toutes les informati
+ons pratiques sont disponibles via l'url:
+http://www.ifb-galaxy.org/GALAXYDAYS2014.html
+La date limite des inscriptions est le 21 novembre.
+Le groupe de travail IFB-Galaxy,
+URGI, GenoToul, MIGALE, PFEM,  SouthGreen, ABiMS, Institut Curie
+--
+Alban Lermine
+Unité 900: INSERM - Mines ParisTech - Institut Curie
+" Bioinformatics and Computational Systems Biology of Cancer"
+11-13 rue Pierre et Marie Curie (1er étage) - 75005 Paris - France
+Tel: +33 (0) 1 56 24 69 84

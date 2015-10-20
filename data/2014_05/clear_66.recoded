@@ -1,0 +1,58 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <jean-paul.bouchet@avignon.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 972C926801D
+	for <bioinfo@sfbi.fr>; Fri, 23 May 2014 19:53:15 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmUBAKCJf1OTZELVnGdsb2JhbABag1nGIg4BAQEBAQgLCQkUKII4JgEFQA8uFggQAwIBAgEJKyQGAgKIPQ2jb7QuFwSOa4QqBJsvhS6GTYdngUI
+X-IronPort-AV: E=Sophos;i="4.98,895,1392159600"; 
+   d="scan'208";a="59044536"
+Received: from mx.sophia.inra.fr (HELO pac-sp-mail.paca.inra.fr) ([147.100.66.213])
+  by b-mx1.relay.syrhano.net with ESMTP; 23 May 2014 19:53:15 +0200
+Received: from [147.100.68.7] (avilin07.avignon.inra.fr [147.100.68.7])
+	(authenticated bits=0)
+	by pac-sp-mail.paca.inra.fr (/8.14.4) with ESMTP id s4NHrDhB028261
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT);
+	Fri, 23 May 2014 19:53:13 +0200 (CEST)
+Message-ID: <537F8B07.9070304@avignon.inra.fr>
+Date: Fri, 23 May 2014 19:53:11 +0200
+From: Jean-Paul Bouchet <jean-paul.bouchet@avignon.inra.fr>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.16) Gecko/20121215 Icedove/3.0.11
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at pac-sp-mail with ID 537F8B09.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 537F8B09.000/147.100.68.7/avilin07.avignon.inra.fr/[147.100.68.7]/<jean-paul.bouchet@avignon.inra.fr>
+X-j-chkmail-Score: MSGID : 537F8B09.000 on pac-sp-mail.paca.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.017 -> S=0.017
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at pac-sp-mail
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Ouverture en mobilité d'un poste d'ingénieur d'études en bioinformatique à l'INRA (Avignon)
+Dans le cadre de la campagne de mobilité des ingénieurs et techniciens 
+au titre de l'année 2015, l'INRA vient d'ouvrir un poste d'ingénieur 
+d'études en bioinformatique à l'UR de Génétique et Amélioration des 
+Fruits et Légumes <http://w3.avignon.inra.fr/gafl> à Avignon.
+Ce poste est ouvert :
+- aux fonctionnaires de l'INRA, qui souhaitent effectuer une mobilité 
+interne ou une réintégration en 2015
+- aux fonctionnaires de la fonction publique d'Etat, territoriale ou 
+hospitalière et aux fonctionnaires des Etats membres de l'Union 
+Européenne, qui souhaitent un accueil en détachement à l'INRA
+Le profil du poste et les informations sur la procédure sont en ligne 
+sur le site de l'INRA :
+<http://jobs.inra.fr/offers/emploi_perm/mobilite-it/?campagne=23130&intitule=concours&concours=113825>
+La date limite de dépôt des dossiers de candidature est le 03 juillet 2014.
+J'invite les candidates et candidats intéressés à prendre contact 
+rapidement avec moi.
+Jean-Paul Bouchet
+Institut National de la Recherche Agronomique - Centre de Provence Alpes 
+Côte d'Azur
+UR 1052 <http://w3.avignon.inra.fr/gafl> - Génétique et Amélioration des 
+Fruits et Légumes
+Domaine Saint-Maurice - CS 60094 - F-84143 Montfavet cedex - France
+Courriel : <mailto:Jean-Paul.Bouchet@avignon.inra.fr>
+Téléphone : 04 3272 2723

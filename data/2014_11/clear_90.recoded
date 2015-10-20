@@ -1,0 +1,77 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <franck.delaplace@ibisc.univ-evry.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 1806E26801D
+	for <bioinfo@sfbi.fr>; Thu, 27 Nov 2014 14:47:27 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtgAAK0qd1TD3aKGl2dsb2JhbABbFoNBWYI8xH4Kh1gWAQEBAQERAQEBAQEIFgdChBUXDwEFESsEDwscAgUWCwILAwIBAgEJMRENBgIBAYhACZ8UjS2PSZZVBIEqkgsPMhKBQwWfAYgMkFkMYoFGbgGBBySBHgEBAQ
+X-IPAS-Result: AtgAAK0qd1TD3aKGl2dsb2JhbABbFoNBWYI8xH4Kh1gWAQEBAQERAQEBAQEIFgdChBUXDwEFESsEDwscAgUWCwILAwIBAgEJMRENBgIBAYhACZ8UjS2PSZZVBIEqkgsPMhKBQwWfAYgMkFkMYoFGbgGBBySBHgEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,469,1413237600"; 
+   d="scan'208";a="77802523"
+Received: from smtp4.ibisc.univ-evry.fr ([195.221.162.134])
+  by a-mx1.relay.syrhano.net with ESMTP; 27 Nov 2014 14:47:26 +0100
+Received: from [192.168.1.17] (AMontsouris-651-1-251-241.w92-163.abo.wanadoo.fr [92.163.82.241])
+	by smtp4.ibisc.univ-evry.fr (Postfix) with ESMTPSA id F39BC11B31
+	for <bioinfo@sfbi.fr>; Thu, 27 Nov 2014 14:47:22 +0100 (CET)
+Message-ID: <54772B6B.7060505@ibisc.univ-evry.fr>
+Date: Thu, 27 Nov 2014 14:47:23 +0100
+From: Franck Delaplace <franck.delaplace@ibisc.univ-evry.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.2.0
+MIME-Version: 1.0
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] STAGE M2 - Analyse de =?UTF-8?Q?mod=C3=A8les?= =?UTF-8?Q?bool=C3=A9ens?= des =?UTF-8?Q?r=C3=A9seaux?= biologiques  - IBISC - EVRY GENOPOLE
+PROPRIETES DES FORMES CANONIQUES DES RESEAUX BOOLEENS
+Les réseaux Booléens sont des modèles discrets de systèmes dynamiques 
+fondés  sur l'évolution d'états booléens. Deux composants sont utilisés 
+pour la description: La fonction d'évolution et le mode. La fonction 
+d'évolution calcule la transition de l'état par rapport à un mode. A 
+partir de ces éléments, la dynamique est représentée par un système de 
+transition étiqueté, appelé modèle, où tous les chemins / trajectoires 
+sont calculées par  applications itérées de la fonction de l'évolution 
+sur tous les états. Le mode est  paramètre régissant la politique de 
+mise à jour de l'état  qui détermine les  agents ayant une évolution 
+synchrone de leur état. Les réseaux Booléens sont utilisés pour la 
+modélisation biologique afin d'étudier les propriétés de  régulation des 
+gènes et des réseaux de transduction du signal. La validation empirique 
+des modèles est basée sur l'hypothèse que les équilibres de la dynamique 
+booléenne caractérisent les signatures moléculaires de phénotypes observés.
+Objectif de recherche:
+Des réseaux Booléens différents peuvent révéler des dynamiques 
+similaires, bien que leur définition diffère. La similitude est 
+formalisée par un isomorphisme sur les modèles: deux réseaux sont 
+dynamiquement équivalents si et seulement si leur modèle est isomorphe. 
+Par conséquent, à partir d'un réseau booléen nous pouvons en déduire une 
+représentation canonique dont la dynamique est isomorphe à l'original. 
+Schématiquement, la représentation canonique simplifie le réseau tout en 
+préservant sa dynamique. La simplification de la structure facilite 
+potentiellement la recherche de propriétés concernant la dynamique de 
+ces réseaux et pourrait constituer un moyen de découvrir de nouvelles 
+propriétés. Durant ce stage  plusieurs questions seront étudiées:
+-  fixer les critères d'une représentation canonique pertinente,
+- déterminer l'algorithme de calcul de la forme canonique d'un réseau,
+  - déduire des propriétés portant sur la dynamique et plus 
+spécifiquement sur les conditions d'apparition d'équilibres stables ou 
+oscillatoires.
+Ce projet est soutenu par l'anr (projet synbiotic).
+Responsable
+Franck Delaplace
+https://www.ibisc.univ-evry.fr/~delapla/
+franck.delaplace@ibisc.fr
+Tarek Melliti
+https://www.ibisc.univ-evry.fr/~tmelliti/
+tmelliti@ibisc.fr
+Lieu du stage : IBISC laboratory
+IBGBI 23, boulevard de France
+91037 Evry
+Evry Val d'Essonne University
+-- 
+Franck Delaplace - Director of IBISC Lab.
+www.ibisc.univ-evry.fr/~delapla
+Phone: +33 (0)1.64.85.35.10
+IBISC Lab - IBGBI 23, boulevard de France - 91037 Evry - FRANCE
+Evry Val d'Essonne University

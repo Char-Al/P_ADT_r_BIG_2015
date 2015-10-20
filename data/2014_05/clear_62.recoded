@@ -1,0 +1,43 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 107FE26801D
+	for <bioinfo@sfbi.fr>; Thu, 22 May 2014 22:39:13 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqEDAC5gflOKZqI0nGdsb2JhbABZg1mDQooaoCeWfAMCAYEjDgEBAQEBCAsJCRQogiYBBSMPAQURLxElAgUWCwICCQMCAQIBOgsTBgIBAYg9BAmxaqUaF4EqjEIRAVcWgl+BSwSZcZZggXU
+X-IronPort-AV: E=Sophos;i="4.98,889,1392159600"; 
+   d="scan'208";a="58989297"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 22 May 2014 22:39:01 +0200
+Received: from MacBook-Air-de-sophie-2.local ([93.158.13.74])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s4MKcwNw021358
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Thu, 22 May 2014 22:39:00 +0200 (CEST)
+Message-ID: <537E6067.2040003@jouy.inra.fr>
+Date: Thu, 22 May 2014 22:39:03 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1WnZjz-0008kF-0M@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1WnZjz-0008kF-0M@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1WnZjz-0008kF-0M@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] =?UTF-8?Q?Ing=C3=A9nieurs?= Bioinformatique =?UTF-8?Q?=C3=A9volutive?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieurs Bioinformatique évolutive
+Type de poste : Post-doc / IR
+Durée du poste : 18 mois
+Ville : Montpellier
+Nom du contact : Gascuel Olivier
+Email du contact : gascuel@lirmm.fr
+Laboratoire : LIRMM
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/ing%C3%A9nieurs-bioinformatique-%C3%A9volutive

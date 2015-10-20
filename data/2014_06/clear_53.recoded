@@ -1,0 +1,146 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Simon.Degivry@toulouse.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 14F1526801D
+	for <bioinfo@sfbi.fr>; Mon, 16 Jun 2014 00:11:54 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlsBAMcZnlOTY2tznGdsb2JhbABag1/FCg8BAQEBAQgLCQkUKIN7LBsbFAEFBQY9FhgDAgECAVgIAQEQhWKCTAQJoTKWIZcRF4xvgRoZg2GBPQSFXpYohTeQIA
+X-IronPort-AV: E=Sophos;i="5.01,482,1400018400"; 
+   d="scan'208";a="68528877"
+Received: from mx.toulouse.inra.fr (HELO yang.toulouse.inra.fr) ([147.99.107.115])
+  by a-mx1.relay.syrhano.net with ESMTP; 16 Jun 2014 00:11:53 +0200
+Received: from [192.168.0.7] (AToulouse-256-1-48-147.w90-38.abo.wanadoo.fr [90.38.239.147])
+	(authenticated bits=0)
+	by yang.toulouse.inra.fr (/8.14.4) with ESMTP id s5FMB840004566
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Mon, 16 Jun 2014 00:11:09 +0200 (CEST)
+Message-ID: <539E19FB.4050803@toulouse.inra.fr>
+Date: Mon, 16 Jun 2014 00:11:07 +0200
+From: Simon Degivry <Simon.Degivry@toulouse.inra.fr>
+Reply-To: Simon de Givry <degivry@toulouse.inra.fr>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:17.0) Gecko/20130330 Thunderbird/17.0.5
+MIME-Version: 1.0
+To: destinataires inconnus: ;
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Miltered: at yang with ID 539E19FC.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 539E19FC.000/90.38.239.147/AToulouse-256-1-48-147.w90-38.abo.wanadoo.fr/[192.168.0.7]/<Simon.Degivry@toulouse.inra.fr>
+X-j-chkmail-Score: MSGID : 539E19FC.000 on yang.toulouse.inra.fr : j-chkmail score : . : R=. U=. O=## B=0.006 -> S=0.008
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at yang
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] WCB '14: Last call for papers
+------------------------------------------------------------
+LAST CALL FOR PAPERS
+------------------------------------------------------------
+WCB 2014
+10th Workshop on Constraint-Based Methods for Bioinformatics
+http://cp2014.a4cp.org/workshops/bioinfo14
+Co-located with 20th International Conference on Principles
+and Practice of Constraint Programming
+September 8, Lyon, France
+Submissions deadline: June 30
+Notification to Authors: July 9 (for CP Early Registration)
+                          & July 28 (complete reviews)
+------------------------------------------------------------
+Technical Description
+---------------------
+During  the last  years, Biology  has become  a source  of challenging
+problems for the entire field  of Computer Science in general, and for
+the  areas  of  computational  logic  and  constraint  programming  in
+particular. Successful approaches to these problems are likely to have
+significant  applications  in  several  fields of  research,  such  as
+medicine, agriculture, industry,  etc. Several successful applications
+of the  Logic and  Constraint Programming paradigms  in Bioinformatics
+have been carried  out in the last years, in  the area of phylogenetic
+tree  reconstruction, in  haplotype inference,  in  proteins structure
+prediction,  in  RNA secondary  structure  prediction,  and in  system
+biology, just  to cite  a few. The  workshop aims at  exchanging ideas
+between researchers  and collecting, if  possible, new problems  to be
+faced in the next future by our community.
+Workshop Format
+---------------
+WCB'14  is  the  10-th  of   a  series  of  consecutive  Workshops  on
+Constraint-Based Methods for  Bioinformatics. Previous editions of WCB
+were co-located  with various important  international conferences, as
+reported below:
+- WCB'05: co-located with ICLP-CP 2005 in Sitges
+- WCB'06: co-located with CP 2006 in Nantes
+- WCB'07: co-located with ICLP 2007 in Porto
+- WCB'08: co-located with CPAIOR 2008 in Paris
+- WCB'09: co-located with CP 2009 in Lisbon
+- WCB'10: co-located with FLOC 2010 in Edinburgh
+- WCB'11: co-located with CP 2011 in Perugia
+- WCB'12: co-located with ICLP 2012 in Budapest
+- WCB'13: co-located with CP 2013 in Uppsala
+Details about last-year WCB'13 can be found at 
+http://cp2013.a4cp.org/workshops/wcb
+Paper Submission
+----------------
+The  topic of  interest are  all those  concerning  bioinformatics and
+constraints  and related  (SAT/ASP/Logic  Programming/ILP) techniques,
+such as:
+- RNA prediction and motif search
+- protein structure and functional prediction
+- genetic linkage analysis and haplotype inference
+- pedigree reconstruction and diagnosis
+- genomic selection design
+- gene regulatory network inference and analysis
+- biochemical network simulation and visualization
+- solvers for problems in biology
+- metabolic pathway analysis
+- DNA sequence assembly
+- contig scaffolding
+- multiple sequence alignment
+- machine learning and big data
+- ontologies
+- constraint databases
+- logical interfaces to relational databases
+- web services
+- databases integration and federation
+- RDF graphs and tools
+Submitted papers can be:
+- Full papers describing new research results
+- Extended Abstracts concerning original (unpublished) results.
+- Abstracts describing ongoing work.
+- System descriptions (with demos at the workshop).
+- Summaries of already accepted or recently published papers/results.
+- Well-motivated proposals of bioinformatics problems for constraint
+   based methods.
+Submitted papers should be 3-15 pages long in the LNCS format.
+Submissions are managed through EasyChair
+https://www.easychair.org/conferences/?conf=wcb14
+Important dates
+---------------
+- Paper Submission Dealine     June 30
+- Notification to Authors      July 9 (for CP Early Registration)
+                                & July 28 (complete reviews)
+- Final Version                August 18
+- Workshop Date                September 8
+Invited Speaker
+---------------
+- Graham Kemp, Chalmers University, Sweden
+Workshop Organizers
+-------------------
+- Nicos Angelopoulos, Imperial College, London, UK
+- Simon de Givry, MIAT INRA, Toulouse, France
+Program Committee
+-----------------
+- Pedro Barahona, Universidade Nova de Lisboa, Portugal
+- Alexander Bockmayr, Freie Universitat Berlin, Germany
+- Mats Carlsson, SICS AB, Uppsala, Sweden
+- Agostino Dovier, Universita degli Studi di Udine, Italy
+- Francois Fages, INRIA Paris-Rocquencourt, France
+- Arun Konagurthu, Monash University, Australia
+- David Lesaint, University of Angers, France
+- Ines Lynce, INESC-ID, Lisbon, Portugal
+- Nigel Martin, Birkbeck College, UK
+- Chris Mungall, Lawrence Berkeley National Laboratory, CA, USA
+- Alessandro Dal Palu, Universita degli Studi di Parma, Italy
+- Enrico Pontelli, New Mexico State University, USA
+- Sylvain Soliman, INRIA France
+- Sebastian Will, University Leipzig, Germany
+- Matthias Zytnicki, MIAT INRA, Toulouse, France

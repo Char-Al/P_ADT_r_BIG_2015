@@ -1,0 +1,64 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <christophe.caron@sb-roscoff.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 7F91F26801D
+	for <bioinfo@sfbi.fr>; Tue,  1 Apr 2014 14:40:25 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArMCAP+yOlPBNCfLa2dsb2JhbABZg0HFPxYODQsJBxMrgjgmAQVAPRYEFAMCAQIBWAYCAQGHeQmfULIFF48NhCIEmgmFHI1bgUE
+X-IronPort-AV: E=Sophos;i="4.97,772,1389740400"; 
+   d="scan'208";a="64473566"
+Received: from mx.sb-roscoff.fr ([193.52.39.203])
+  by a-mx1.relay.syrhano.net with ESMTP; 01 Apr 2014 14:40:25 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mx.sb-roscoff.fr (Postfix) with ESMTP id 06F4D2245C9
+	for <bioinfo@sfbi.fr>; Tue,  1 Apr 2014 14:40:24 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at mx.sb-roscoff.fr
+Received: from mx.sb-roscoff.fr ([127.0.0.1])
+	by localhost (mx.sb-roscoff.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Vz80lCwtkiUI for <bioinfo@sfbi.fr>;
+	Tue,  1 Apr 2014 14:40:19 +0200 (CEST)
+Received: from [192.168.4.43] (unknown [193.52.39.1])
+	(using TLSv1 with cipher DHE-RSA-AES128-SHA (128/128 bits))
+	(Client CN "Christophe Caron", Issuer "CNRS2-Standard" (not verified))
+	by mx.sb-roscoff.fr (Postfix) with ESMTP id DEDD9224590
+	for <bioinfo@sfbi.fr>; Tue,  1 Apr 2014 14:40:19 +0200 (CEST)
+Message-ID: <533AB3B3.8000404@sb-roscoff.fr>
+Date: Tue, 01 Apr 2014 14:40:19 +0200
+From: Christophe Caron <christophe.caron@sb-roscoff.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Cycle de formation "Bioinformatique Initiation" 2014  (Plateforme ABiMS / Institut Fran=E7ais de Bio-informatique - Grand Ouest)
+Bonjour,
+le cycle 2014 de formation en Bio-informatique de la plateforme ABiMS 
+est ouvert. Les cours sont dispensés par la plateforme, mais aussi par 
+des formateurs avec qui nous collaborons.
+Si vous êtes intéressé(e) par l'un des modules ci-dessous, vous pouvez 
+vous *pré-inscrire* et disposer de plus d'informations en ligne :
+                   http://abims.sb-roscoff.fr/formation
+* Linux initiation (1j)
+* Linux avancé (1j)
+* Linux scripting (1j)
+* Cluster (1j)
+* R Initiation (1j)
+* R Avancé (1j)
+* Galaxy initiation (1j)
+* Galaxy RNAseq de novo/avec référence & cleaning (2j)
+* Galaxy : initiation à la phylogénie (1j)
+Les frais d'inscriptions sont indiqués sur le site, et n'hésitez pas si 
+vous avez des questions à envoyer un message à
+                    abims.formation@sb-roscoff.fr
+Cordialement
+La plateforme ABiMS
+-- 
+Christophe Caron  			
+Station Biologique / Service Informatique et Bio-informatique
+Place Georges Teissier - CS 90074 - 29688 Roscoff Cedex
+Analysis and Bioinformatics for Marine Science
+    http://abims.sb-roscoff.fr/
+tél: +33 (0)2 98 29 25 43 / +33 (0)6 07 83 54 77

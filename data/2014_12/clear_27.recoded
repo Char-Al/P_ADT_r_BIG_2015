@@ -1,0 +1,63 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <emmanuelle.genin@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id DD94526801D
+	for <bioinfo@sfbi.fr>; Mon,  8 Dec 2014 11:17:22 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AisCAPF5hVTRVdgtm2dsb2JhbABag1hYBII5SMMZhg8CgSYHFgEBAQEBEQEBAQEBBgsLCRQuhBUGCwYdATkDDQUDDQ8CJgIkEgEFAVeIBAMSDaF4jSSDJT0xiy+EcYpvJw2GGwEBBA6BGotug1aCWYFHBYRSAo5whhuRURIlgXCBGD2BYj4wgkMBAQE
+X-IPAS-Result: AisCAPF5hVTRVdgtm2dsb2JhbABag1hYBII5SMMZhg8CgSYHFgEBAQEBEQEBAQEBBgsLCRQuhBUGCwYdATkDDQUDDQ8CJgIkEgEFAVeIBAMSDaF4jSSDJT0xiy+EcYpvJw2GGwEBBA6BGotug1aCWYFHBYRSAo5whhuRURIlgXCBGD2BYj4wgkMBAQE
+X-IronPort-AV: E=Sophos;i="5.07,537,1413237600"; 
+   d="scan'208";a="78328866"
+Received: from mail-qa0-f45.google.com ([209.85.216.45])
+  by a-mx1.relay.syrhano.net with ESMTP; 08 Dec 2014 11:17:22 +0100
+Received: by mail-qa0-f45.google.com with SMTP id x12so3119513qac.32
+        for <bioinfo@sfbi.fr>; Mon, 08 Dec 2014 02:17:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=6jj5/gLH38JN6l6X9DKeynh2MTJpPH26038ErQKmmkI=;
+        b=WsbftRxMbV23e3Mlh04RPGxsInfvLSnvaLgmFQJHRSMlj7LH8DuwfRlhQDahPCLS9D
+         E9EzKVqXlgOIA9EoGuwjR36NSgG+1hqKQdiWmRH/+NDtQP4xR43nt+uiF4M5ZsYl97K2
+         /HERvfZy+pu27L7qts0aO9ESFOOgkvX8G/sCSXLmamsslNa9ud+cj+a6LMdCahoxZmXO
+         XSE0HQg9Gvre0K14Y5LaI+f7OtXk4XSM1ULzsD8/zx44kafV7nA9mgdzW3uorgHw7Pk+
+         tm8UXmmI3zMj8y6XFeyKRwF+JTPi39igZH5ih0hmTeG0hwnGCsGZdDWiW0vpBJmLyDj0
+         wNMA=
+MIME-Version: 1.0
+X-Received: by 10.140.94.117 with SMTP id f108mr49077928qge.50.1418033841115;
+ Mon, 08 Dec 2014 02:17:21 -0800 (PST)
+Sender: emmanuelle.genin@gmail.com
+Received: by 10.140.104.48 with HTTP; Mon, 8 Dec 2014 02:17:21 -0800 (PST)
+Date: Mon, 8 Dec 2014 11:17:21 +0100
+X-Google-Sender-Auth: n9PKjE--N76t7yP9hI4ToukSUCI
+Message-ID: <CANUFNA+vWvgmqMXA1-_nW+QewP-zspNjMhBNCx44tJMY2RshWQ@mail.gmail.com>
+From: Emmanuelle Genin <emmanuelle.genin@inserm.fr>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] EMGM 2015 - Call for abstract and early-bird registratiâ=80=8Bon
+Dear colleagues,
+The abstract submission and early-bird registration for the 43rd
+European Mathematical Genetics Meeting are now open.
+The meeting will take place April 16-17, 2015 in Brest, France.
+You will find information on the venue and links for abstract
+submission and registration on our website:
+https://sites.google.com/site/emgmbrest/
+Important deadlines:
+- for abstract submission: January 31st, 2015
+- for early-bird registration: February 22nd, 2015
+All abstracts presenting methodological works in genetics, genetic
+epidemiology, population and evolutionary genetics are welcome.
+Abstracts will be published in the April issue of Human Heredity.
+Looking forward to seeing you in Brest,
+--
+Emmanuelle Génin
+Inserm U1078, Génétique, Génomique fonctionnelle et Biotechn
+ologies
+46 rue Félix Le Dantec
+CS 51819
+29218 BREST CEDEX 2
+Tel 02.98.22.34.08

@@ -1,0 +1,40 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <helene.chiapello@toulouse.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 7A54226801D
+	for <bioinfo@sfbi.fr>; Sat, 29 Mar 2014 11:27:40 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhAHAPKfNlOTY2tznGdsb2JhbABZg0GNXLV4AQEBgSsOAQEBAQEICwkJFCiCOCYBBTAQPRYYAwIBAgEvHQwIAQGHdQTRXpM+BKU8iHg
+X-IronPort-AV: E=Sophos;i="4.97,755,1389740400"; 
+   d="scan'208";a="64321928"
+Received: from mx.toulouse.inra.fr (HELO yang.toulouse.inra.fr) ([147.99.107.115])
+  by a-mx1.relay.syrhano.net with ESMTP; 29 Mar 2014 11:27:33 +0100
+Received: from new-host.home (ASt-Lambert-151-1-18-110.w82-120.abo.wanadoo.fr [82.120.239.110])
+	(authenticated bits=0)
+	by yang.toulouse.inra.fr (/8.14.4) with ESMTP id s2TARS97008591
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT);
+	Sat, 29 Mar 2014 11:27:28 +0100 (CET)
+Message-ID: <5336A015.8020403@toulouse.inra.fr>
+Date: Sat, 29 Mar 2014 11:27:33 +0100
+From: Hélène_Chiapello <helene.chiapello@toulouse.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr, bioinformaticiens@listes.inra.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at yang with ID 5336A010.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 5336A010.000/82.120.239.110/ASt-Lambert-151-1-18-110.w82-120.abo.wanadoo.fr/new-host.home/<helene.chiapello@toulouse.inra.fr>
+X-j-chkmail-Score: MSGID : 5336A010.000 on yang.toulouse.inra.fr : j-chkmail score : . : R=. U=. O=## B=0.067 -> S=0.080
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at yang
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECCB 2014
+Bonjour à tous
+Pour information, la date limite de soumission des articles pour la 
+conférence ECCB 2014
+a été décallée au 6 avril 2014.
+Pour plus d'infos, voir http://www.eccb14.org/key-dates
+Hélène

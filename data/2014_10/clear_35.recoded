@@ -1,0 +1,384 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Thomas.BURGER@cea.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 861BB26801D
+	for <bioinfo@sfbi.fr>; Mon, 13 Oct 2014 10:44:14 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AswBAHKPO1SEp8COnGdsb2JhbABbDoJddlgEukyPYmiHTQKBGBYBEQEBAQEBCAsJCRQuhAQFDEgUBQUHEgEYEkMCERMTAQQBDQUIiCIDEQEMvGwNMIY5AQEBAQEBAQECAQEBAQEBAQEBAQEXjhOBRTwLJoM0gR4BBIUVAgNvhReGXIQ/hH8BAgODdYpqgmmKC0BsAYFHgQIBAQE
+X-IPAS-Result: AswBAHKPO1SEp8COnGdsb2JhbABbDoJddlgEukyPYmiHTQKBGBYBEQEBAQEBCAsJCRQuhAQFDEgUBQUHEgEYEkMCERMTAQQBDQUIiCIDEQEMvGwNMIY5AQEBAQEBAQECAQEBAQEBAQEBAQEXjhOBRTwLJoM0gR4BBIUVAgNvhReGXIQ/hH8BAgODdYpqgmmKC0BsAYFHgQIBAQE
+X-IronPort-AV: E=Sophos;i="5.04,708,1406584800"; 
+   d="scan'208";a="74670673"
+Received: from cirse-out.extra.cea.fr ([132.167.192.142])
+  by a-mx1.relay.syrhano.net with ESMTP; 13 Oct 2014 10:44:13 +0200
+Received: from pisaure.intra.cea.fr (pisaure.intra.cea.fr [132.166.88.21])
+	by cirse.extra.cea.fr (8.14.2/8.14.2/CEAnet-Internet-out-2.3) with ESMTP id s9D8hwOA021220;
+	Mon, 13 Oct 2014 10:43:58 +0200
+Received: from pisaure.intra.cea.fr (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id CB67620BA74;
+	Mon, 13 Oct 2014 10:45:10 +0200 (CEST)
+Received: from muguet1.intra.cea.fr (muguet1.intra.cea.fr [132.166.192.6])
+	by pisaure.intra.cea.fr (Postfix) with ESMTP id 982D020BD1E;
+	Mon, 13 Oct 2014 10:45:10 +0200 (CEST)
+Received: from EXCAH-B1.intra.cea.fr (excah-b1.intra.cea.fr [132.166.88.86])
+	by muguet1.intra.cea.fr (8.13.8/8.13.8/CEAnet-Intranet-out-1.2) with ESMTP id s9D8hvKZ028505;
+	Mon, 13 Oct 2014 10:43:57 +0200
+Received: from EXDAG0-B3.intra.cea.fr ([fe80::d0da:1b48:7560:ee73]) by
+ EXCAH-B1.intra.cea.fr ([fe80::b4bb:7f38:ea87:b760%11]) with mapi id
+ 14.03.0174.001; Mon, 13 Oct 2014 10:43:57 +0200
+From: BURGER Thomas 232477 <Thomas.BURGER@cea.fr>
+To: "lg390@cam.ac.uk" <lg390@cam.ac.uk>,
+	"a.kinani@dcmr.polytechnique.fr" <a.kinani@dcmr.polytechnique.fr>,
+	"adeline.mauries@ibpc.fr" <adeline.mauries@ibpc.fr>,
+	"amna.klich@chu-lyon.fr" <amna.klich@chu-lyon.fr>,
+	"amoussa@uae.ac.ma" <amoussa@uae.ac.ma>,
+	"anais.baudot@univmed.fr" <anais.baudot@univmed.fr>,
+	"Anna.Niarakis@gmail.com" <Anna.Niarakis@gmail.com>,
+	"anne-laure.bulteau@univ-pau.fr" <anne-laure.bulteau@univ-pau.fr>,
+	MAILLARD Antoine 218154 <antoine.maillard@cea.fr>,
+	AlainPERRET <aperret@genoscope.cns.fr>,
+	"Armelle.Buzy@sanofi.com" <Armelle.Buzy@sanofi.com>,
+	ALPHA-BAZIN__Béatrice <beatrice.alpha-bazin@cea.fr>,
+	"benno@pasteur.fr" <benno@pasteur.fr>,
+	"bernard.lyan@clermont.inra.fr" <bernard.lyan@clermont.inra.fr>,
+	"bessem.brahim@hotmail.fr" <bessem.brahim@hotmail.fr>,
+	"binta.dieme@etu.univ-tours.fr" <binta.dieme@etu.univ-tours.fr>,
+	"blandine.madjihounoum@etu.univ-tours.fr" <blandine.madjihounoum@etu.univ-tours.fr>,
+	"brice.bouyssiere@univ-pau.fr" <brice.bouyssiere@univ-pau.fr>,
+	"brun@tagc.univ-mrs.fr" <brun@tagc.univ-mrs.fr>,
+	"bull-i3@irit.fr" <bull-i3@irit.fr>,
+	"c.absalon@ism.u-bordeaux1.fr" <c.absalon@ism.u-bordeaux1.fr>,
+	"carine.arnaudguilhem@univ-pau.fr" <carine.arnaudguilhem@univ-pau.fr>,
+	"carlos.afonso@univ-rouen.fr" <carlos.afonso@univ-rouen.fr>,
+	"caroline.truntzer@clipproteomic.fr" <caroline.truntzer@clipproteomic.fr>,
+	"catherine.mercier@chu-lyon.fr" <catherine.mercier@chu-lyon.fr>,
+	"ccarapito@unistra.fr" <ccarapito@unistra.fr>,
+	"charlene.granier@hei.fr" <charlene.granier@hei.fr>,
+	"charles.pineau@univ-rennes1.fr" <charles.pineau@univ-rennes1.fr>,
+	"chavant@igbmc.fr" <chavant@igbmc.fr>,
+	"chloe.friguet@univ-ubs.fr" <chloe.friguet@univ-ubs.fr>,
+	"Christian.Rolando@univ-lille1.fr" <Christian.Rolando@univ-lille1.fr>,
+	"Christine.Froidevaux@lri.fr" <Christine.Froidevaux@lri.fr>,
+	JUNOT Christophe <Christophe.JUNOT@cea.fr>,
+	"christophe.marchand@ibpc.fr" <christophe.marchand@ibpc.fr>,
+	"claire.lopez@clermont.inra.fr" <claire.lopez@clermont.inra.fr>,
+	"claudia.cioli.c@gmail.com" <claudia.cioli.c@gmail.com>,
+	"csanterre@isipca.fr" <csanterre@isipca.fr>,
+	"damarys.loew@curie.fr" <damarys.loew@curie.fr>,
+	"darii.kat@gmail.com" <darii.kat@gmail.com>,
+	"delphine.pflieger@univ-evry.fr" <delphine.pflieger@univ-evry.fr>,
+	"delsuc@igbmc.fr" <delsuc@igbmc.fr>,
+	"dominique.harakat@univ-reims.fr" <dominique.harakat@univ-reims.fr>,
+	"donia.essaid@u-psud.fr" <donia.essaid@u-psud.fr>,
+	"edith.nicol@polytechnique.edu" <edith.nicol@polytechnique.edu>,
+	"emmanuel.geneste@u-bordeaux.fr" <emmanuel.geneste@u-bordeaux.fr>,
+	"Emmanuelle.Meudec@supagro.inra.fr" <Emmanuelle.Meudec@supagro.inra.fr>,
+	"etienne.birmele@genopole.cnrs.fr" <etienne.birmele@genopole.cnrs.fr>,
+	"fabricebray@yahoo.fr" <fabricebray@yahoo.fr>,
+	"frederic.aubriet@univ-lorraine.fr" <frederic.aubriet@univ-lorraine.fr>,
+	"frederique.lisacek@isb-sib.ch" <frederique.lisacek@isb-sib.ch>,
+	"gaillard@sb-roscoff.fr" <gaillard@sb-roscoff.fr>,
+	"garcia@ijm.univ-paris-diderot.fr" <garcia@ijm.univ-paris-diderot.fr>,
+	"gilles.ohanessian@polytechnique.edu" <gilles.ohanessian@polytechnique.edu>,
+	"giovanni.chiappetta@espci.fr" <giovanni.chiappetta@espci.fr>,
+	"gonzalez@ipbs.fr" <gonzalez@ipbs.fr>,
+	"gregory.nuel@parisdescartes.fr" <gregory.nuel@parisdescartes.fr>,
+	"guillaume.van-der-rest@u-psud.fr" <guillaume.van-der-rest@u-psud.fr>,
+	"Hidde.de-Jong@inria.fr" <Hidde.de-Jong@inria.fr>,
+	"iman.haddad@espci.fr" <iman.haddad@espci.fr>,
+	"info@sfeap.fr" <info@sfeap.fr>,
+	"Irena.Rusu@univ-nantes.fr" <Irena.Rusu@univ-nantes.fr>,
+	"isa@icsn.cnrs-gif.fr" <isa@icsn.cnrs-gif.fr>,
+	"jean-christophe.thalabar@mi.parisdescartes.fr" <jean-christophe.thalabar@mi.parisdescartes.fr>,
+	"jean-daniel.fekete@inria.fr" <jean-daniel.fekete@inria.fr>,
+	"jean-luc.wolfender@unige.ch" <jean-luc.wolfender@unige.ch>,
+	"joel.lemaire@u-psud.fr" <joel.lemaire@u-psud.fr>,
+	"Joelle.VINH@espci.fr" <Joelle.VINH@espci.fr>,
+	"julia.chamot-rooke@polytechnique.edu" <julia.chamot-rooke@polytechnique.edu>,
+	"kaissi.ouafae@gmail.com" <kaissi.ouafae@gmail.com>,
+	"laurent.chavatte@univ-pau.fr" <laurent.chavatte@univ-pau.fr>,
+	"laurent.duval@ifpen.fr" <laurent.duval@ifpen.fr>,
+	GERFAULT Laurent 177684 <laurent.gerfault@cea.fr>,
+	GUYON Laurent 217719 <laurent.guyon@cea.fr>,
+	"laurent.tichit@univ-amu.fr" <laurent.tichit@univ-amu.fr>,
+	"Laurent.Trilling@imag.fr" <Laurent.Trilling@imag.fr>,
+	"ldebrauw@toulouse.inra.fr" <ldebrauw@toulouse.inra.fr>,
+	Liste GRE DSV-iRTSV-BGE <ListeGRE-DSV-iRTSV-BGE@zephyr.cea.fr>,
+	"liste-proml@lri.fr" <liste-proml@lri.fr>,
+	"lstuani@genoscope.cns.fr" <lstuani@genoscope.cns.fr>,
+	"luc.camoin@inserm.fr" <luc.camoin@inserm.fr>,
+	SIGNOR Luca <luca.signor@ibs.fr>,
+	"marc.bonneu@u-bordeaux2.fr" <marc.bonneu@u-bordeaux2.fr>,
+	"Maria-Cecilia.Arias@univ-lille1.fr" <Maria-Cecilia.Arias@univ-lille1.fr>,
+	"Markus.Mueller@isb-sib.ch" <Markus.Mueller@isb-sib.ch>,
+	"mathilde.farenc@etu.univ-rouen.fr" <mathilde.farenc@etu.univ-rouen.fr>,
+	"meryam.taghi@parisdescartes.fr" <meryam.taghi@parisdescartes.fr>,
+	"mh.devier@epoc.u-bordeaux1.fr" <mh.devier@epoc.u-bordeaux1.fr>,
+	"mohamed.elati@issb.genopole.fr" <mohamed.elati@issb.genopole.fr>,
+	"monsarat@ipbs.fr" <monsarat@ipbs.fr>,
+	"Nicolas.Thierry-Mieg@imag.fr" <Nicolas.Thierry-Mieg@imag.fr>,
+	"nolwenn.prache@gmail.com" <nolwenn.prache@gmail.com>,
+	"obadias.mivumbi@ias.u-psud.fr" <obadias.mivumbi@ias.u-psud.fr>,
+	"Olivier.Langella@moulon.inra.fr" <Olivier.Langella@moulon.inra.fr>,
+	"oscar.hernandez@u-psud.fr" <oscar.hernandez@u-psud.fr>,
+	"pascale.leproux@parisdescartes.fr" <pascale.leproux@parisdescartes.fr>,
+	"patrick.mayeux@inserm.fr" <patrick.mayeux@inserm.fr>,
+	"patrick.poullet@curie.fr" <patrick.poullet@curie.fr>,
+	"philippe.maitre@u-psud.fr" <philippe.maitre@u-psud.fr>,
+	"philippe.marin@igf.cnrs.fr" <philippe.marin@igf.cnrs.fr>,
+	"GRANGEAT Pierre  100249" <pierre.grangeat@cea.fr>,
+	"pierre.lechat@pasteur.fr" <pierre.lechat@pasteur.fr>,
+	"richard.cole@upmc.fr" <richard.cole@upmc.fr>,
+	"roland.thissen@obs.ujf-grenoble.fr" <roland.thissen@obs.ujf-grenoble.fr>,
+	"salma.mesmoudi@gmail.com" <salma.mesmoudi@gmail.com>,
+	"samuel.granjeaud@inserm.fr" <samuel.granjeaud@inserm.fr>,
+	"sandra.mounicou@univ-pau.fr" <sandra.mounicou@univ-pau.fr>,
+	"sarah.cianferani@unistra.fr" <sarah.cianferani@unistra.fr>,
+	"schiltz@ipbs.fr" <schiltz@ipbs.fr>,
+	"sfeap@listes.univ-rennes1.fr" <sfeap@listes.univ-rennes1.fr>,
+	"shakir.shakir@espci.fr" <shakir.shakir@espci.fr>,
+	"sophie.bourcier@polytechnique.edu" <sophie.bourcier@polytechnique.edu>,
+	"sophie.liuu@espci.fr" <sophie.liuu@espci.fr>,
+	"spiro_khoury@yahoo.com" <spiro_khoury@yahoo.com>,
+	"stephane.bouchonnet@dcmr.polytechnique.fr" <stephane.bouchonnet@dcmr.polytechnique.fr>,
+	"tessier@nantes.inra.fr" <tessier@nantes.inra.fr>,
+	"Thierry.Jouenne@univ-rouen.fr" <Thierry.Jouenne@univ-rouen.fr>,
+	"vandors@unistra.fr" <vandors@unistra.fr>,
+	"veronique.hourdel@pasteur.fr" <veronique.hourdel@pasteur.fr>,
+	"yburnod@gmail.com" <yburnod@gmail.com>,
+	"zivy@moulon.inra.fr" <zivy@moulon.inra.fr>,
+	"bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Cc: "Bisson Gilles <gilles.bisson@imag.fr> (gilles.bisson@imag.fr)" <gilles.bisson@imag.fr>,
+	"renaud.blanch@imag.fr" <renaud.blanch@imag.fr>,
+	"Sylvain Bouveret <sylvain.bouveret@imag.fr> (sylvain.bouveret@imag.fr)" <sylvain.bouveret@imag.fr>
+Thread-Topic: Prospectom 2014: Dead-Line extension !
+Thread-Index: Ac/mwRUhRwBaWst0ShKeLjo/mpC56g=
+Date: Mon, 13 Oct 2014 08:43:56 +0000
+Message-ID: <74CD13E3727CB2418EF46F56D5BCEDCC1B2C4618@EXDAG0-B3.intra.cea.fr>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [132.166.88.106]
+x-tm-as-product-ver: SMEX-10.2.0.1135-7.500.1017-20752.007
+x-tm-as-result: No--33.854000-0.000000-31
+x-tm-as-user-approved-sender: Yes
+x-tm-as-user-blocked-sender: No
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Prospectom 2014: Dead-Line extension !
+Bonjour à tous,
+En raison d congrès HUPO à Madrid la semaine dernière, plusieurs part
+icipants ont demandé un report de dates limites. C'est pourquoi nous vous
+ proposons:
+- de soumettre avant le 20 octobre
+- de vous inscrire (gratuit mais obligatoire) avant le 1ier novembre
+au plaisir de vous revoir à Grenoble,
+Thomas
+--
+Thomas Burger - CNRS Researcher, PhD
+https://sites.google.com/site/thomasburgerswebpage/
+iRTSV-BGE (Univ. Grenoble Alpes - CNRS - CEA - INSERM)
+CEA de Grenoble - Bât. 42b      | Tel.  : +33 4 38 78 22 72
+17 avenue des Martyrs           | Sec.  : +33 4 38 78 39 97
+38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51
+Exploring the Dynamics of Proteomes : http://edyp.fr/
+De : BURGER Thomas 232477
+Envoyé : mardi 30 septembre 2014 18:27
+=C0 : 'lg390@cam.ac.uk'; 'a.kinani@dcmr.polytechnique.fr'; 'adeline.mauri
+es@ibpc.fr'; 'amna.klich@chu-lyon.fr'; 'amoussa@uae.ac.ma'; 'anais.baudot@u
+nivmed.fr'; 'Anna.Niarakis@gmail.com'; 'anne-laure.bulteau@univ-pau.fr'; 'a
+ntoine.maillard@ibs.fr'; 'aperret@genoscope.cns.fr'; 'Armelle.Buzy@sanofi.c
+om'; ALPHA-BAZIN Béatrice; 'benno@pasteur.fr'; 'bernard.lyan@clermont.inr
+a.fr'; 'bessem.brahim@hotmail.fr'; 'binta.dieme@etu.univ-tours.fr'; 'blandi
+ne.madjihounoum@etu.univ-tours.fr'; 'brice.bouyssiere@univ-pau.fr'; 'brun@t
+agc.univ-mrs.fr'; 'bull-i3@irit.fr'; 'c.absalon@ism.u-bordeaux1.fr'; 'carin
+e.arnaudguilhem@univ-pau.fr'; 'carlos.afonso@univ-rouen.fr'; 'caroline.trun
+tzer@clipproteomic.fr'; 'catherine.mercier@chu-lyon.fr'; 'ccarapito@unistra
+.fr'; 'charlene.granier@hei.fr'; 'charles.pineau@univ-rennes1.fr'; 'chavant
+@igbmc.fr'; 'chloe.friguet@univ-ubs.fr'; 'Christian.Rolando@univ-lille1.fr'
+; 'Christine.Froidevaux@lri.fr'; JUNOT Christophe; 'christophe.marchand@ibp
+c.fr'; 'claire.lopez@clermont.inra.fr'; 'claudia.cioli.c@gmail.com'; 'csant
+erre@isipca.fr'; 'damarys.loew@curie.fr'; 'darii.kat@gmail.com'; 'delphine.
+pflieger@univ-evry.fr'; 'delsuc@igbmc.fr'; 'dominique.harakat@univ-reims.fr
+'; 'donia.essaid@u-psud.fr'; 'edith.nicol@polytechnique.edu'; 'emmanuel.gen
+este@u-bordeaux.fr'; 'Emmanuelle.Meudec@supagro.inra.fr'; 'etienne.birmele@
+genopole.cnrs.fr'; 'fabricebray@yahoo.fr'; 'frederic.aubriet@univ-lorraine.
+fr'; 'frederique.lisacek@isb-sib.ch'; 'gaillard@sb-roscoff.fr'; 'garcia@ijm
+.univ-paris-diderot.fr'; 'gilles.ohanessian@polytechnique.edu'; 'giovanni.c
+hiappetta@espci.fr'; 'gonzalez@ipbs.fr'; 'gregory.nuel@parisdescartes.fr'; 
+'guillaume.van-der-rest@u-psud.fr'; 'Hidde.de-Jong@inria.fr'; 'iman.haddad@
+espci.fr'; 'info@sfeap.fr'; 'Irena.Rusu@univ-nantes.fr'; 'isa@icsn.cnrs-gif
+.fr'; 'jean-christophe.thalabar@mi.parisdescartes.fr'; 'jean-daniel.fekete@
+inria.fr'; 'jean-luc.wolfender@unige.ch'; 'joel.lemaire@u-psud.fr'; 'Joelle
+.VINH@espci.fr'; 'julia.chamot-rooke@polytechnique.edu'; 'kaissi.ouafae@gma
+il.com'; 'laurent.chavatte@univ-pau.fr'; 'laurent.duval@ifpen.fr'; GERFAULT
+ Laurent 177684; GUYON Laurent 217719; 'laurent.tichit@univ-amu.fr'; 'Laure
+nt.Trilling@imag.fr'; 'ldebrauw@toulouse.inra.fr'; Liste GRE DSV-iRTSV-BGE;
+ 'liste-proml@lri.fr'; 'lstuani@genoscope.cns.fr'; 'luc.camoin@inserm.fr'; 
+SIGNOR Luca; 'marc.bonneu@u-bordeaux2.fr'; 'Maria-Cecilia.Arias@univ-lille1
+.fr'; 'Markus.Mueller@isb-sib.ch'; 'mathilde.farenc@etu.univ-rouen.fr'; 'me
+ryam.taghi@parisdescartes.fr'; 'mh.devier@epoc.u-bordeaux1.fr'; 'mohamed.el
+ati@issb.genopole.fr'; 'monsarat@ipbs.fr'; 'Nicolas.Thierry-Mieg@imag.fr'; 
+'nolwenn.prache@gmail.com'; 'obadias.mivumbi@ias.u-psud.fr'; 'Olivier.Lange
+lla@moulon.inra.fr'; 'oscar.hernandez@u-psud.fr'; 'pascale.leproux@parisdes
+cartes.fr'; 'patrick.mayeux@inserm.fr'; 'patrick.poullet@curie.fr'; 'philip
+pe.maitre@u-psud.fr'; 'philippe.marin@igf.cnrs.fr'; GRANGEAT Pierre 100249;
+ 'pierre.lechat@pasteur.fr'; 'richard.cole@upmc.fr'; 'roland.thissen@obs.uj
+f-grenoble.fr'; 'salma.mesmoudi@gmail.com'; 'samuel.granjeaud@inserm.fr'; '
+sandra.mounicou@univ-pau.fr'; 'sarah.cianferani@unistra.fr'; 'schiltz@ipbs.
+fr'; 'sfeap@listes.univ-rennes1.fr'; 'shakir.shakir@espci.fr'; 'sophie.bour
+cier@polytechnique.edu'; 'sophie.liuu@espci.fr'; 'spiro_khoury@yahoo.com'; 
+'stephane.bouchonnet@dcmr.polytechnique.fr'; 'tessier@nantes.inra.fr'; 'Thi
+erry.Jouenne@univ-rouen.fr'; 'vandors@unistra.fr'; 'veronique.hourdel@paste
+ur.fr'; 'yburnod@gmail.com'; 'zivy@moulon.inra.fr'
+Cc : Bisson Gilles <gilles.bisson@imag.fr> (gilles.bisson@imag.fr); renau
+d.blanch@imag.fr; Sylvain Bouveret <sylvain.bouveret@imag.fr> (sylvain.bouv
+eret@imag.fr)
+Objet : Prospectom 2014: plus que 10 jours pour soumettre !
+Ouverture des soumissions pour l'Atelier PROSPECTOM 19, 20 et 21 Novembre 2
+014 - Grenoble
+********************************************************
+Etude visuelle et interactive des protéomes par apprentissage statistique
+ et intégration des bases de données et de connaissances spectrométri
+ques et " omiques ".
+********************************************************
+http://prospectom.liglab.fr/atelier-2014
+https://easychair.org/conferences/?conf=3Dprospectom2014
+Suite au succès de l'atelier Prospectom 2012, nous  proposons une secon
+de édition de cet atelier destinée à la protéomique computationnell
+e.
+Contexte et objectifs
+*********************
+L'analyse du protéome, ou protéomique, vise à séquencer, identifier
+ et quantifier de manière systématique l'ensemble des protéines expri
+mées dans un système biologique (organite, cellule, tissu, etc.), afin 
+d'appréhender son fonctionnement global. Pour se faire, il est nécessai
+re d'avoir recours aux développements les plus récents de la biologie d
+es systèmes, de la spectrométrie, mais aussi de la bio-informatique, de
+ l'apprentissage automatique et de la visualisation de données.
+En dépit des progrès considérables accomplis au cours de la dernièr
+e décennie en chromatographie et en spectrométrie de masse, permettant
+  la mise en place de méthodes d'analyse " à haut débit " (High
+ Throughput Analysis), la cartographie complète des protéomes doit fair
+e actuellement face à des verrous scientifiques et technologiques majeurs
+, relevant de l'informatique, et des statistiques. En effet, la complexit
+é des données d'origine protéomique est telle, que leur gestion autom
+atisée soulève de nouvelles questions fondamentales en apprentissage au
+tomatique (l'absence de vérité terrain rend difficile l'usage de benchm
+arks, les méthodes incrémentales ou semi-supervisées doivent être f
+avorisées), en fouille de données ou en analyse visuelle (quel modèle
+ ou représentation privilégier ?), en traitement du signal (comment g
+érer les fortes non-linéarités ?), en étude des réseaux sociaux (
+prise en compte de la multiplicité des relations dans les complexes prot
+éiques), en ingénierie des connaissance (interopérabilité entre les
+ points de vue génomique, protéomique, métabolomique, etc.). Dans ce 
+contexte, la protéomique est à même de proposer une partie des défi
+s qui demain amèneront l'état de l'art de ces champs à évoluer.
+Cet atelier, qui se déroule dans le cadre de l'appel MASTODONS " Grande
+s masses de données scientifiques " de la Mission Interdisciplinaire de
+ CNRS, a pour objectif  de favoriser la structuration d'une communauté 
+scientifique fran=E7aise autour des enjeux de la protéomique computationn
+elle.
+Programme de l'atelier
+**********************
+Le mercredi 19 novembre après-midi sera consacré  à deux tutoriels 
+(3h avec une pause médiane). Les participants pourront s'inscrire en fonc
+tion des places disponibles :
+* Laurent Gatto (Cambridge Center for Proteomics, Cambridge) An introductio
+n to R/BioConductor for computational proteomics
+* Caroline Truntzer (Clinical Proteomic Platform, Dijon) Introduction aux b
+iostatistiques pour la découverte de biomarqueurs Les jeudi 20 et vendred
+i 21 novembre seront consacrés à :
+* Des conférences sur différents thèmes connexes à la protéomique
+ computationnelle (liste des conférenciers invités ci-dessous)
+* Des sessions thématiques dans lesquelles les participants pourront pr
+ésenter leurs travaux via des communications orales ou des posters
+* Un groupe de travail sur la visualisation de données en protéomique
+Conférenciers invités
+*********************
+* Analyse protéomique :
+Yohann COUTE ( INSERMnserm, EDyP, Grenoble) : Défis de la protéomique q
+uantitative label-free
+* Mesure en spectrométrie :
+Mar-André DELSUC (CNRS, IGBMC, Strasbourg) : Big data et traitement de do
+nnées en Spectrométrie de Masse, le projet MesureHD
+* Big data :
+Sihem AMER-YAHIA (CNRS, LIG, Grenoble) : Big User Health Data Management
+*  Apprentissage automatique :
+Jean-Philippe VERT (Institut Curie, Ecole des Mines, Paris) : Machine Learn
+ing for personalized medicine
+* Visual analytics :
+David AUBER (LaBRI, Bordeaux) : Visualisation interactive de données avec
+ Tulip. Application aux réseaux biologiques
+Participation et appels à contribution
+**************************************
+La participation à l'atelier PROSPECTOM est gratuite sous réserve d 'in
+scription (avant le 20 octobre). L'inscription permet d'assister aux 2 tuto
+riels, aux 5 séminaires invités, ainsi qu'aux sessions thématiques et
+ au groupe de travail sur la visualisation.
+Par ailleurs, afin de faciliter les échanges et la mise en place de proje
+ts collaboratifs, les contributions sont encouragées. Ces contributions p
+ourront être soit un résumé d'une page ou d'un article court de 2 à
+ 4 pages (donnant lieu à présentation orale) soit à un poster. La dat
+e de soumission est fixée au 10 octobre (https://easychair.org/conference
+s/?conf=3Dprospectom2014) 2014. Voici une liste (non exhaustive) des thèm
+es de l'atelier :
+* Caractérisation du signal spectral
+* Nature des spectres non assignés par les outils d'identification
+* Méthodes de démultiplexages de spectre pour la DIA (Data Independant 
+Acquisition)
+* Comparaison/reproductibilité/ fiabilité des outils d'identification e
+t de quantification
+* Amélioration des méthodes Target/Decoy
+* Estimation du FDR pour les protéines (Identification et quantification 
+différentielle)
+* Combinaisons d'outils d'identification
+* Métrique, similarité et distances entre spectres (théoriques ou exp
+érimentaux)
+* Normalisation/imputation de données
+* Tests statistiques pour la protéomique
+* Extraction de structures saillantes dans les grands graphes
+* Réseaux multi-capacités / multi-valuées
+* Simplification de grands graphes, recherche de communautés
+* Interopérabilité des bases de données " omics "
+* Ontologies, standardisations, vocabulaires contrôlés
+* Caractérisation des jeux de donnés "omics"
+* Taxonomies de tâches
+* Applications de techniques d'analyse visuelle aux problèmes "omics"
+* Description d'outils de visualisation
+* Outils d'exploration de grands réseaux
+* Etc.
+Dates importantes
+*****************
+* Soumission des contributions : avant le vendredi 10 octobre 2014
+* Inscriptions : avant le lundi 20 octobre 2014
+* PROSPECTOM 2014 : 19 novembre (tutoriels), 20 novembre et 21 novembre 201
+4 (à Grenoble)
+Organisateurs et contacts
+*************************
+* Thomas Burger (CNRS, EDyP) : thomas.burger@cea.fr
+* Gilles Bisson (CNRS, LIG/AMA) : gilles.bisson@imag.fr
+* Christophe Bruley (CEA, EDyP) : christophe.bruley@cea.fr
+* Renaud Blanch (Université Grenoble-Alpes, LIG/IIHM) : renaud.blanch@ima
+g.fr
+* Sylvain Bouveret          (Université Grenoble-Alpes,
+ LIG/STEAMER) : sylvain.bouveret@imag.fr
+* Yves Vandenbrouck (CEA, EDyP) : yves.vandenbrouck@cea.fr Laboratoires por
+teurs : Le Laboratoire d'Informatique de Grenoble (LIG, UMR 5217) et le lab
+oratoire d'Etude de la Dynamique des Protéomes (iRTSV - CEA de Grenoble, 
+FR 3425)
+http://prospectom.liglab.fr/atelier-2014
+https://easychair.org/conferences/?conf=3Dprospectom2014
+--
+Thomas Burger - CNRS Researcher, PhD
+https://sites.google.com/site/thomasburgerswebpage/
+iRTSV-BGE (Univ. Grenoble Alpes - CNRS - CEA - INSERM)
+CEA de Grenoble - Bât. 42b      | Tel.  : +33 4 38 78 22 72
+17 avenue des Martyrs           | Sec.  : +33 4 38 78
+ 39 97
+38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51  
+Exploring the Dynamics of Proteomes : http://edyp.fr/

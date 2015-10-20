@@ -1,0 +1,124 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <vialette@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 29C3926801D
+	for <bioinfo@sfbi.fr>; Mon,  7 Apr 2014 16:20:21 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ah0EAG2zQlPRVdwslGdsb2JhbABZFoMrV4JASsEKBIEcCBYOAQEBAQcLCwkSKoI4Fx0BKAEQAw0FAw0FCgIfBwIkEgEFAVCHSgMRDY0pjHyDDowOg1+XACcNhmsRAQUMgR2QPoFJBJhbjHODXRgpgWeBOIFBOw
+X-IronPort-AV: E=Sophos;i="4.97,810,1389740400"; 
+   d="scan'208";a="56659867"
+Received: from mail-pa0-f44.google.com ([209.85.220.44])
+  by b-mx1.relay.syrhano.net with ESMTP; 07 Apr 2014 16:20:19 +0200
+Received: by mail-pa0-f44.google.com with SMTP id bj1so6813827pad.17
+        for <bioinfo@sfbi.fr>; Mon, 07 Apr 2014 07:20:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=m8Wu03gATJ0sMhUSvQEolADxwp0vHijz0u307ak1s0g=;
+        b=LFQWw7AhUaokhdJOmM7IPMSjHRcg5U+TGv+/+CMLRBIi3xPbNasf5U4CZsQrBk70Ws
+         SG8q8AOPB7RaEYooXQ/KQA2Dtp4JW6fWuMcqYGDl+0R1kOennUs6j3ScjsJ5dJOevlde
+         AUub7M9QN8Tez0cz3HCRcDbTtKQj8r+Vm4Ihu4NTwCYpm4chMZF6X+10IBADXKp3Ct2U
+         osxZ5A58Wi3PSdsESV4U3bajyhMoPKDPQOlettOk8IXYqUhTu2xES+TFlygOv6G6jjIx
+         2KakI6zUT+LlgRUvTWFV8ELBk1krjdizgiNaaCUMD5Q2KcGE3WpYr4wrZVSN+CmrTekK
+         qsyg=
+X-Received: by 10.68.248.7 with SMTP id yi7mr31453145pbc.31.1396880418631;
+ Mon, 07 Apr 2014 07:20:18 -0700 (PDT)
+MIME-Version: 1.0
+Sender: vialette@gmail.com
+Received: by 10.68.1.162 with HTTP; Mon, 7 Apr 2014 07:19:58 -0700 (PDT)
+From: Stéphane_Vialette <vialette@univ-mlv.fr>
+Date: Mon, 7 Apr 2014 16:19:58 +0200
+X-Google-Sender-Auth: VSmXh6JgekdKQfNktrKMoaeUll4
+Message-ID: <CAK94=R36u5NP=S8m6aJ72a5HcuCRBdRxsQ9y7QtP=40Qsr+L+g@mail.gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] ECOLE DE PRINTEMPS D'INFORMATIQUE THEORIQUE 2014 : Algorithmique pour la bioinformatique, Ile D'Oléron 12-16 mai 2014
+ECOLE DE PRINTEMPS D'INFORMATIQUE THEORIQUE 2014 : Algorithmique pour
+la bioinformatique, Ile D'Oléron 12-16 mai 2014
+          ECOLE DE PRINTEMPS D'INFORMATIQUE THEORIQUE 2014
+               Algorithmique pour la bioinformatique
+                 **** DERNIER APPEL A PARTICIPATION ****
+                       **** Date limite d'inscription : 9 avril ****
+* Les informations et le formulaire d'inscription sont à l'adresse
+http://igm.univ-mlv.fr/AlgoB/EPIT2014/
+                [désolé pour les envois multiples]
+        La Vieille Perrotine, Ile d'Oléron, 12-16 mai 2014
+L'Ecole de Printemps d'Informatique Théorique est une institution
+dans le domaine de l'Informatique Théorique en France. L'Ecole s'est
+développée sous la direction de Maurice Nivat en 1973. Durant ses
+ 39
+ans d'existence, elle a couvert un large spectre des thèmes porteurs
+en informatique théorique et elle représente maintenant le lieu de
+rencontre par excellence pour les nouvelles générations de cherch
+eurs
+du domaine.
+L'édition 2014 sera dédiée à l'algorithmique pour la bi
+oinformatique.
+La bioinformatique est actuellement en plein essor. Née il y a une
+vingtaine d'années et d'abord utilisée pour aligner et comparer d
+es
+séquences d'ADN et de protéines, la bioinformatique a d=C3" fai
+re face
+au défi de l'explosion des connaissances, liées au séquen=C3
+=A7age rapide
+d'un grand nombre de génomes. Vu la quantité d'informations
+disponibles aujourd'hui, les algorithmes de traitement de données
+doivent évoluer rapidement. Cette école se propose d'en aborder
+certains aspects à fort impact.
+Le programme des cours est le suivant :
+* Lundi 12 mai :
+  - 9h-10h30, 11h-12h30 : cours 1 - Alain Denise : Combinatoire et
+  algorithmique de l'ARN (1)
+  - 14h-15h30, 16h-17h30 : cours 2 - Yann Ponty : Combinatoire et
+  algorithmique de l'ARN (2)
+* Mardi 13 mai :
+  - 9h-10h30, 11h-12h30 : cours 3 - Elisabeth Remy - Analyse
+  qualitative de la dynamique des réseaux de régulation via la
+  modélisation logique
+  - 14h-15h30, 16h-17h30 : cours 4 - Celine Scornavacca : Introduction
+  à la phylogénétique et à la phylogénomique
+* Mercredi 14 mai :
+  - 9h-10h30, 11h-12h30 : cours 5 - Xiaodong Wu : The Emerging Areas of
+  Computational Medicine: Problems, Solutions, and Research Trends
+* Jeudi 15 mai :
+  - 9h-10h30, 11h-12h30 : cours 6 - Eric Rivals : Analyse de séquen=C3
+=A7age
+  haut débit : besoins et solutions algorithmiques
+  - 14h-15h30, 16h-17h30 : cours 7 - Gregory Kucherov : Full-text
+  indexes for genomic data
+* Vendredi 16 mai :
+  - 9h-10h30, 11h-12h30 : cours 8 - Eric Tannier : Combinatoire des
+  réarrangements génomiques
+Informations pratiques :
+------------------------
+L'école se tiendra au village vacances La Vieille Perrotine
+(http://www.caes.cnrs.fr/vacances/nos-villages/la-vieille-perrotine).
+Une arrivée est prévue le dimanche 11 mai, et la fin de l'éc
+ole est
+prévue le vendredi 16 mars après le déjeuner. Un transport e
+n bus
+sera mis en place depuis la gare de La Rochelle en fin d'après-midi
+du 11 mai et un retour en bus le 16 en début d'apres-midi.
+La Vieille Perrotine est également accessible par des bus régiona
+ux
+depuis les gares TGV Surgères ou La Rochelle (cars entre Surgères,
+Saintes ou Rochefort jusqu'à Oléron (Le Ch=C3=A2teau d'Oléro
+n, Dolus ou
+Saint-Pierre)); Une liaison maritime entre La Rochelle et Boyardville
+(1,5 km du village) est également possible.
+Les frais d'inscription sont de 375 euros (incluant l'hébergement dans
+ le
+village vacance et les repas).
+Ph. Gambette & S. Vialette
+--
+Stéphane Vialette (http://igm.univ-mlv.fr/~vialette)
+LIGM - Université Paris-Est Marne-la-Vallée
+5 Bd Descartes, Champs sur marne,
+77454 Marne la vallée cedex 2, France
+tel: (+33) 1 60 95 77 49
+fax: (+33) 1 60 95 77 55

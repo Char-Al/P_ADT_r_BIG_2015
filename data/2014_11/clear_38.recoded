@@ -1,0 +1,94 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <jeanfrancois.dufayard@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id B5A0126801D
+	for <bioinfo@sfbi.fr>; Fri, 14 Nov 2014 16:14:12 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsoBABcbZlTRVdyzm2dsb2JhbABbg2NZBII6SMl2DIhmBxYBAQEBAREBAQEBAQYLCwkULoQVBhEdATkDDQUDDQ8CJgIkEgEFATUiiAoDEg2eKo0mgyI9MYs7hQWKLicNhn4BBQ6BH40ngmuCIA8yEoFCBYUlApF7gkuEX4E0PYMXj3cYKYF1gQwBCwGCKTwwgksBAQE
+X-IPAS-Result: AsoBABcbZlTRVdyzm2dsb2JhbABbg2NZBII6SMl2DIhmBxYBAQEBAREBAQEBAQYLCwkULoQVBhEdATkDDQUDDQ8CJgIkEgEFATUiiAoDEg2eKo0mgyI9MYs7hQWKLicNhn4BBQ6BH40ngmuCIA8yEoFCBYUlApF7gkuEX4E0PYMXj3cYKYF1gQwBCwGCKTwwgksBAQE
+X-IronPort-AV: E=Sophos;i="5.07,386,1413237600"; 
+   d="scan'208";a="76847618"
+Received: from mail-vc0-f179.google.com ([209.85.220.179])
+  by a-mx1.relay.syrhano.net with ESMTP; 14 Nov 2014 16:14:11 +0100
+Received: by mail-vc0-f179.google.com with SMTP id le20so3724274vcb.10
+        for <bioinfo@sfbi.fr>; Fri, 14 Nov 2014 07:14:10 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=bvy0I3eg2mORW+nsYxgPpsZ9eHCPUkHwn9edNG3nyK8=;
+        b=AXJW9L3JJElszb5/50YM0N/FZZB0ZS+KjTtn84tUQrl3FEzrLXLFPtM1o/PZnnTdhe
+         ClHAMKmbOCrH5JtNa4aFvyb6pC6ljxA0Dp1MYFwn0qd2HAxReMpCVQfdJS9d7oUvRy0V
+         Jcb+XuDzIaXn7ZQ/M/ChgcFIXhNvB2he6GLsi0MoXyQJKBav+LHWNZ9IqgUWvqOPrxfV
+         WrHWUtAnpP4I7VyrVefsfoKeJNM1fMbv03u0IzjVW2bQ6bezskL0VAq4oxC69gXYpKWL
+         yFfYvYz9zs73Bb1XSoSD8OwdnixfS+liaejvbhlLHubTuDGkPToAEWwaZFykOzNWDnLa
+         F0FQ=
+X-Received: by 10.220.147.72 with SMTP id k8mr71534vcv.67.1415978050483; Fri,
+ 14 Nov 2014 07:14:10 -0800 (PST)
+MIME-Version: 1.0
+Sender: jeanfrancois.dufayard@gmail.com
+Received: by 10.31.129.7 with HTTP; Fri, 14 Nov 2014 07:13:50 -0800 (PST)
+From: Jean=2DFran=C3=A7ois_Dufayard <jean-francois.dufayard@cirad.fr>
+Date: Fri, 14 Nov 2014 16:13:50 +0100
+X-Google-Sender-Auth: LqgH_T5gZQiCy-CdHCYA_jxsqvk
+Message-ID: <CA+RWo+dmpviie2ZQqqHaSjRMHi-sP6Pg6a9p=wHr8p1=dNa6QA@mail.gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Post-doctoral position in comparative genomics
+A bioinformatics post=C2=ADdoctoral position is available for 18 months, at
+CIRAD in Montpellier, starting in January 2015.
+Keywords: comparative genomics, phylogeny, data integration,
+functional conservation.
+Context:
+This position is proposed by the â=80=9CBiomass For the Futureâ=80=9D p
+roject,
+funded by the French program â=80=9CInvestissement d'Avenirâ=80
+=9D. This project
+aims to develop new dedicated varieties and cropping systems for
+sustainable production of lignocellulosic biomass, working on sorghum
+and miscanthus, and using maize as a model. Full project website
+available here:
+http://www.biomassforthefuture.org/en/project/presentation
+The postdoc fellow will be hosted at CIRAD, in the Data Integration
+bioinformatics team of the AGAP research unit:
+http://umr=C2=ADagap.cirad.fr/en/equipes=C2=ADscientifiques/integration=C2
+=ADde=C2=ADdonnees/contexte=C2=ADet=C2=ADenjeu
+Position description:
+We need a bioinformatician with strong experience in comparative
+genomics. The main objective is to provide reliable prediction of
+functional conservation between maize, miscanthus and sorghum genes.
+The main idea is to study systematically gene families, and to
+integrate several heterogeneous data: phylogeny, synteny, expression
+levels, and so on. This work implies both methodological developments
+and careful biological data analyses.
+This position implies many collaborations with scientists working on
+information systems about (i) phylogenomics and gene familiesand (ii)
+syntenic regions, ancestral gene content and order reconstruction. The
+candidate will also interact with different members of the Institute
+of Computational Biology (http://www.ibc-montpellier.fr).
+We need someone proficient in programming (at least one of the
+language: Java, Python, Perl, C++...), and easy with standard
+comparative genomic tools (e.g. HMMer, MAFFT, PhyML,SynMap, AGORA).
+Web programming proficiency (PHP, Javascriptâ=80=A6), database management,
+and statistical notions would be appreciated.
+If you have any questions, please contact: jean=C2=ADfrancois.dufayard@cira
+d.fr
+--
+Jean-Fran=C3=A7ois Dufayard
+CIRAD-BIOS
+UMR Amélioration Génétique et Adaptation des Plantes mé
+diterranéennes
+et tropicales
+Equipe "Intégration des données"
+TA A-108/03
+Avenue Agropolis
+34398 Montpellier Cedex 5
+France
+Tel : (33) 4 67 61 56 31
+Fax : (33) 4 67 61 56 05
+e-mail : jean-francois.dufayard@cirad.fr
+http://sites.google.com/site/jeanfrancoisdufayard/Home

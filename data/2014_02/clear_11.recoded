@@ -1,0 +1,112 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <vialette@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 5B8CA26801D
+	for <bioinfo@sfbi.fr>; Wed,  5 Feb 2014 11:45:21 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArgCAA8V8lLRVdwulGdsb2JhbABZFoMuV4I3SrxFCBYOAQEBAQcLCwkSKoI4Fx0BKAEQAw0FAw0PAh8HAiQSAQUBiCYDEQ2RNIxogwqMC4NclBknDYkfAQUMgR2QAg8xgUkEmCuMYYNTGCmBZYE2gT87
+X-IronPort-AV: E=Sophos;i="4.95,786,1384297200"; 
+   d="scan'208";a="53483791"
+Received: from mail-pa0-f46.google.com ([209.85.220.46])
+  by b-mx1.relay.syrhano.net with ESMTP; 05 Feb 2014 11:45:20 +0100
+Received: by mail-pa0-f46.google.com with SMTP id rd3so201178pab.19
+        for <bioinfo@sfbi.fr>; Wed, 05 Feb 2014 02:45:19 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=yiZ+Hm3bkziqS6gMd3erLpHz93leVwb+SSapU1FyAG4=;
+        b=svUNwBlY5n57iw7HEg0XaoyrvvukC3zUl7v/bKO33dGbzwrGYO2B4xCNp9LlIGF32D
+         r2ZqCLZQ7b0xBC2ziMbMdJjhrqR+7f/GmP9wsigZNS3lLeaf1XcH4h8vL6T8npnkTyLy
+         m3Fr8KtxLw5kWqFZteXaWSbDAyml5A88iAEalvHvn8mY2GH9GWpuxP5yaZYOqmXx67zd
+         ljZ2tQSTtLshxFvnTkeyQtOdMnFm7r7jPk9A7F5YYIp2kJ4ptLELxYBKJeH+h3g/60Ii
+         0fVlgHK1YMznlRJLIRGdlrA4dKdgeAGoFg1GgGamVN7IgxgJaIl7R4JLH/nDorf5Xr/F
+         i5Dg=
+X-Received: by 10.66.248.227 with SMTP id yp3mr913853pac.116.1391597119165;
+ Wed, 05 Feb 2014 02:45:19 -0800 (PST)
+MIME-Version: 1.0
+Sender: vialette@gmail.com
+Received: by 10.69.0.6 with HTTP; Wed, 5 Feb 2014 02:44:59 -0800 (PST)
+From: Stéphane_Vialette <vialette@univ-mlv.fr>
+Date: Wed, 5 Feb 2014 11:44:59 +0100
+X-Google-Sender-Auth: OLE_nQ2K8NilkbfLdzSvz_jFXJE
+Message-ID: <CAK94=R06Jfwsh4A9h4Mb_7Py0K1-tRsb2m6HJwxQy0xK8u-50w@mail.gmail.com>
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] ECOLE DE PRINTEMPS D'INFORMATIQUE THEORIQUE 2014: Algorithmique pour la bioinformatique, La Vieille Perrotine, Ile d'Oléron, 12-16 mai 2014
+        ECOLE DE PRINTEMPS D'INFORMATIQUE THEORIQUE 2014
+              Algorithmique pour la bioinformatique
+                 **** APPEL A PARTICIPATION ****
+* Les informations et le formulaire d'inscription sont à l'adresse
+http://igm.univ-mlv.fr/AlgoB/EPIT2014/
+               [désolé pour les envois multiples]
+       La Vieille Perrotine, Ile d'Oléron, 12-16 mai 2014
+L'Ecole de Printemps d'Informatique Théorique est une institution
+dans le domaine de l'Informatique Théorique en France. L'Ecole s'est
+développée sous la direction de Maurice Nivat en 1973. Durant ses
+ 39
+ans d'existence, elle a couvert un large spectre des thèmes porteurs
+en informatique théorique et elle représente maintenant le lieu de
+rencontre par excellence pour les nouvelles générations de cherch
+eurs
+du domaine.
+L'édition 2014 sera dédiée à l'algorithmique pour la bi
+oinformatique.
+La bioinformatique est actuellement en plein essor. Née il y a une
+vingtaine d'années et d'abord utilisée pour aligner et comparer d
+es
+séquences d'ADN et de protéines, la bioinformatique a d=C3" fai
+re face
+au défi de l'explosion des connaissances, liées au séquen=C3
+=A7age rapide
+d'un grand nombre de génomes. Vu la quantité d'informations
+disponibles aujourd'hui, les algorithmes de traitement de données
+doivent évoluer rapidement. Cette école se propose d'en aborder
+certains aspects à fort impact :
+- Next-generation sequencing (2 cours)
+- ARN (2 cours)
+- Génomique comparative (1 cours)
+- Phylogénie (1 cours)
+- Réseaux de régulation (1 cours)
+- Radiothérapie (1 cours)
+Orateurs :
+- Alain Denise (LRI, Université Paris-Sud)
+- Gregory Kucherov (LIGM, Université Paris-Est Marne-la-Vallée)
+- Yann Ponty (LIX, Ecole Polytechnique)
+- Elisabeth Remy (IML, Aix Marseille Université)
+- Eric Rivals (LIRMM, Université Montpellier 2)
+- Céline Scornavacca (ISEM, Université Montpellier 2)
+- Eric Tannier (LBBE, Université Lyon 1)
+- Xiaodong Wu (Dept. of Electrical and Computer Engineering &
+ Dept. of Radiation Oncology, the University of Iowa)
+Informations pratiques :
+------------------------
+L'école se tiendra au village vacances La Vieille Perrotine
+(http://www.caes.cnrs.fr/vacances/nos-villages/la-vieille-perrotine).
+Une arrivée est prévue le dimanche 11 mai, et la fin de l'éc
+ole est
+prévue le vendredi 16 mars après le déjeuner. Un transport e
+n bus
+sera mis en place depuis la gare de La Rochelle en fin d'après-midi
+du 11 mai et un retour en bus le 16 en début d'apres-midi.
+La Vieille Perrotine est également accessible par des bus régiona
+ux
+depuis les gares TGV Surgères ou La Rochelle (cars entre Surgères,
+Saintes ou Rochefort jusqu'à Oléron (Le Ch=C3=A2teau d'Oléro
+n, Dolus ou
+Saint-Pierre)); Une liaison maritime entre La Rochelle et Boyardville
+(1,5 km du village) est également possible.
+Les frais d'inscription prévisionnels sont de 375 euros en chambre
+double, incluant hébergement et repas.
+Ph. Gambette & S. Vialette
+--
+Stéphane Vialette (http://igm.univ-mlv.fr/~vialette)
+LIGM - Université Paris-Est Marne-la-Vallée
+5 Bd Descartes, Champs sur marne,
+77454 Marne la vallée cedex 2, France
+tel: (+33) 1 60 95 77 49
+fax: (+33) 1 60 95 77 55

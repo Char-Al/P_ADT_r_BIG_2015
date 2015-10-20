@@ -1,0 +1,48 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <christelle.dantec@crbm.cnrs.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id A5D8526801D
+	for <bioinfo@sfbi.fr>; Thu, 10 Jul 2014 17:45:22 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnQBANa0vlPCOXRanGdsb2JhbABZg2CDAEm8OYdGgQ4WDwEBAQEBCBQJPIQWFw8BRhkcAiYCVR2IRgmSJ5wnmSgTBIEsim2DKx2CYYFMBaIPhDqMETuBMyQ
+X-IronPort-AV: E=Sophos;i="5.01,638,1400018400"; 
+   d="scan'208";a="70002399"
+Received: from opale.sic.montp.cnrs.fr ([194.57.116.90])
+  by a-mx1.relay.syrhano.net with ESMTP; 10 Jul 2014 17:45:08 +0200
+Received: from opale.sic.montp.cnrs.fr (localhost [127.0.0.1])
+	by opale.sic.montp.cnrs.fr (Postfix) with ESMTP id 8AD3277F90A;
+	Thu, 10 Jul 2014 17:45:06 +0200 (CEST)
+Received: from [10.4.158.29] (asklepios14.crbm.int [10.4.158.29])
+	by opale.sic.montp.cnrs.fr (Postfix) with ESMTPSA id 6326B53AB73;
+	Thu, 10 Jul 2014 17:45:06 +0200 (CEST)
+Message-ID: <1405007151.2532.12.camel@Lemaire-E6510>
+From: Christelle Dantec <christelle.dantec@crbm.cnrs.fr>
+To: bioinfo@sfbi.fr
+Cc: envol2014@services.cnrs.fr
+Date: Thu, 10 Jul 2014 17:45:51 +0200
+Content-Type: text/plain; charset="UTF-8"
+X-Mailer: Evolution 3.6.4-0ubuntu1 
+Mime-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: ClamAV using ClamSMTP
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Fwd:  Formation ENVOL 2014 : Tests et Validation]
+-------- Message transféré --------
+De: Dirk Hoffmann <hoffmann@cppm.in2p3.fr>
+Chers collègues,
+Le projet PLUME a initié une série de formations ENVOL (Formation pour le 
+dEveloppemeNt et la ValOrisation des Logiciels en environnement de recherche) 
+depuis 2008. L'édition 2014, co-organisée par le CNRS (avec PLUME, la DSI, 
+devLOG et des laboratoires), INRA, VetAgro-Sup et Inria, se nomme :
+        "ENVOL 2014 - Méthodes de test et validation des logiciels"
+et aura lieu du 18 au 21 novembre 2014 à la Londe les Maures.
+Toutes les informations pratiques, le contenu du programme et un lien vers le 
+formulaire d'inscription sont en ligne :
+        https://www.projet-plume.org/envol-2014
+avec la date limite 15 septembre pour les inscriptions. Mais ne vous laissez 
+pas méprendre par les vacances ! :-)
+Cordialement
+                                                Pour le comité d'organisation,
+                                                Dirk Hoffmann

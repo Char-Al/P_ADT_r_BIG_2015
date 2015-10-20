@@ -1,0 +1,53 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 0FD7926801D
+	for <bioinfo@sfbi.fr>; Mon, 17 Nov 2014 17:42:08 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Av4EAKwkalSKZqI0nGdsb2JhbABbg2NZAYI9SIpmgSoBvQiHSgKBMwEBAQEBEQEBAQEBCAsJCRQuhBUXEAURMw4IHAImAhIsECSIQQ2fSI0mj0uBdYZGhyuGVYEtjxMRAW2CYYFUBYEwtV0BAQEBBgEBAQEBgidsgQ+BPAEBAQ
+X-IPAS-Result: Av4EAKwkalSKZqI0nGdsb2JhbABbg2NZAYI9SIpmgSoBvQiHSgKBMwEBAQEBEQEBAQEBCAsJCRQuhBUXEAURMw4IHAImAhIsECSIQQ2fSI0mj0uBdYZGhyuGVYEtjxMRAW2CYYFUBYEwtV0BAQEBBgEBAQEBgidsgQ+BPAEBAQ
+X-IronPort-AV: E=Sophos;i="5.07,404,1413237600"; 
+   d="scan'208";a="77013277"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 17 Nov 2014 17:42:07 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sAHGg61I014349
+	for <bioinfo@sfbi.fr>; Mon, 17 Nov 2014 17:42:06 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 553FE296BA4
+	for <bioinfo@sfbi.fr>; Mon, 17 Nov 2014 17:42:06 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XqPPZ-0005dO-6B
+	for bioinfo@sfbi.fr; Mon, 17 Nov 2014 17:44:21 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XqPPZ-0005dO-6B@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Mon, 17 Nov 2014 17:44:21 +0100
+X-Miltered: at beta with ID 546A255E.002 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 546A255E.002/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 546A255E.002 on beta.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.256 -> S=0.347
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] =?UTF-8?Q?Impl=C3=A9mentation?= de base   de =?UTF-8?Q?donn=C3=A9es?=
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Implémentation de base de données
+Type de poste : Post-doc / IR
+Durée du poste : 1 an
+Ville : Genève
+Nom du contact : Alicia Sanchez-Mazas
+Email du contact :  alicia.sanchez-mazas@unige.ch
+Laboratoire : Unité d'anthropologie - Dep. Génétique et évolution
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/impl%C3%A9mentation-de-base-de-donn%C3%A9es

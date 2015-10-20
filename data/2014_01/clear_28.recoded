@@ -1,0 +1,78 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <alexandre.brochard@inserm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 3748726801D
+	for <bioinfo@sfbi.fr>; Thu,  9 Jan 2014 10:03:30 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqgBAD1lzlLDYvwlnGdsb2JhbABZg0O7JxYOAQEBAQEGDQkJFCiCOCwxAQpBNAJZBgIBAYgEmwSqB440AQFshCEEmBeGLheND4FvgXA
+X-IronPort-AV: E=Sophos;i="4.95,630,1384297200"; 
+   d="scan'208";a="59943357"
+Received: from smtp.inserm.fr ([195.98.252.37])
+  by a-mx1.relay.syrhano.net with ESMTP; 09 Jan 2014 10:03:29 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.inserm.fr (SrvInserm) with ESMTP id 8966D1680CE
+	for <bioinfo@sfbi.fr>; Thu,  9 Jan 2014 10:03:28 +0100 (CET)
+X-Virus-Scanned: amavisd-new at inserm.fr
+Received: from smtp.inserm.fr ([195.98.252.37])
+	by localhost (potentille.inserm.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id XromLJxMrRMC for <bioinfo@sfbi.fr>;
+	Thu,  9 Jan 2014 10:03:28 +0100 (CET)
+Received: from [10.33.3.21] (unknown [195.221.149.134])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by smtp.inserm.fr (SrvInserm) with ESMTP id 6B4991680B7
+	for <bioinfo@sfbi.fr>; Thu,  9 Jan 2014 10:03:27 +0100 (CET)
+Message-ID: <52CE65DF.40605@inserm.fr>
+Date: Thu, 09 Jan 2014 10:03:27 +0100
+From: Brochard Alexandre <alexandre.brochard@inserm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] stage en bioinformatique Neurocentre Magendie
+Bonjour,
+La plateforme Bioinformatique de l'unité Inserm U862 propose 1 stage
+rémunéré d'une durée de 4 à 6 mois.
+LIEU DE TRAVAIL:
+Neurocentre Magendie, Unité Inserm U862, Plateforme de Bioinformatique
+146 rue Léo Saignat 33077 Bordeaux Cedex
+http://neurocentre-magendie.fr/
+CONTEXTE SCIENTIFIQUE:
+Le Neurocentre Magendie est un centre Inserm multidisciplinaire consacré
+à une étude intégrée des neurosciences depuis les pathologies
+neurologiques et du comportement jusqu'aux mécanismes cellulaires et
+moléculaires du fonctionnement des cellules du système nerveux. En
+particulier l'activité de recherche du Neurocentre Magendie vise à
+comprendre la physiopathologie de la plasticité neuronale.
+DUREE DU STAGE: entre 4 à 6 mois (à partir de mi-Février 2014)
+FORMATION SOUHAITEE:
+Master Bioinformatique (M1 ou M2) ou Bac+3 en Informatique,
+connaissances en Design Web/CSS, Python/PHP et MySQL
+SUJET DU STAGE: Plusieurs sujets possibles
+1-Développer un outil d'alimentation automatique de la base de données
+de publications scientifiques
+2-Créer une nouvelle interface web pour le site web du Neurocentre Magend
+ie
+3-Réaliser différents outils web sur l'intranet du neurocentre: banque
+de CV, interface de gestion des ordres de mission
+4-Créer une interface d'analyse de séquences biologiques
+regroupant/implémentant la plupart des outils d'analyse existant
+5-Développer un outil de gestion, de stockage et de suivi des demandes
+de génotypage
+MONTANT DES INDEMNITES:
+Le montant de la gratification due au stagiaire est fixé à 436.05 euros
+par mois (35h hebdomaires).
+Laboratoire : Neurocentre Magendie Unité Inserm U862
+146 rue Léo Saignat 33077 Bordeaux, France
+CONTACT:
+Alexandre Brochard   Responsable du Service Bioinformatique
+Neurocentre Magendie Unité Inserm U862
+146 rue Léo Saignat 33077 Bordeaux, France
+alexandre.brochard@inserm.fr
+Merci d'envoyer vos CV et lettre de motivation par mail
+Bien Cordialement,
+Alexandre Brochard

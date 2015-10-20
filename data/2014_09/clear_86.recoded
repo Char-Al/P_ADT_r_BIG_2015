@@ -1,0 +1,45 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 9824526801D; Mon, 29 Sep 2014 16:34:32 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: bdartigues@gmail.com
+Message-ID: <sympa.1412001019.13322.675@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Mon, 29 Sep 2014 16:34:32 +0200 (CEST)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Formation Bioinformatique - Fouille de données et analyses NGS avec le langage R
+Bonjour,
+Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation en Bio-informatique intitulée : "Fouille de données et analyses NGS avec le langage R" à Bordeaux sur 4 jours (du lundi 13/10/2014 au jeudi 16/10/2014). Il reste encore quelques places disponibles donc n'hésitez pas à vous inscrire !
+Adresse:
+Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex). Ce campus est situé à proximité du CHU Pellegrin.
+Objectifs:
+1. Savoir manipuler et visualiser de grands ensembles de données biologiques
+2. Analyser et aligner des séquences venant de reads NGS
+3. Déterminer les ANRs messagers différentiellement exprimés à l'aide de données RNA-Seq
+4. Enrichir les résultats en utilisant des bases de connaissances
+Prérequis:
+Avoir des bases d'utilisation de ligne de commande 
+Programme:
+ Cette formation introduira le langage R, les techniques de fouille et de visualisation de données, ainsi que les paquetages Bioconductor permettant l'analyse de données issues du séquençage nouvelle génération.
+- Le langage R et ses commandes essentielles
+- Les formats de fichiers, la lecture et l'écriture de données tabulées
+- Les outils de manipulation et de transformation de grands tableaux
+- Les outils d'annotation et de conversion d'identifiant biologiques (biomart)
+- Les outils de visualisation de données
+- Brève introduction aux techniques NGS
+- L'alignement de séquences NGS
+- L'analyse d'expression différentielle (paquetage edgeR)
+- Les techniques d'enrichissement (DAVID, GO, SPIA)
+-Dernière demi-journée consacrée à un atelier pédagogique d'analyse et de réflexion sur les données apportées par les stagiaires
+Cette formation sera organisée en courtes présentations (20 % du temps) suivies de travaux pratiques basés sur des jeux de données réels (80 % du temps). 
+Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous:
+http://cnrsformation.cnrs.fr/stage.php?stage=14284
+Pour toute information complémentaire (public visé, niveau, cout, ...), merci de contacter:
+- Aurélien Barré (aurelien.barre@u-bordeaux.fr)
+- Hayssam Soueidan (massyah@gmail.com)

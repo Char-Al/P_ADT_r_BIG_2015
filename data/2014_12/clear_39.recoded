@@ -1,0 +1,64 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <damien.eveillard@univ-nantes.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 3624326801D
+	for <bioinfo@sfbi.fr>; Tue,  9 Dec 2014 17:11:04 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AiEBAGseh1TBNGdunGdsb2JhbABZFoNCWII9SMBkgi8Kh0YBAQEBAREBAQEBAQgUCUKEFRdFCx8cAiYCiS4JoxqNJI9ClyIBH4Emi12CYXWCGw4wESGBFQWRZoZJMIIvggSNSz2BYSVJAYECgUABAQE
+X-IPAS-Result: AiEBAGseh1TBNGdunGdsb2JhbABZFoNCWII9SMBkgi8Kh0YBAQEBAREBAQEBAQgUCUKEFRdFCx8cAiYCiS4JoxqNJI9ClyIBH4Emi12CYXWCGw4wESGBFQWRZoZJMIIvggSNSz2BYSVJAYECgUABAQE
+X-IronPort-AV: E=Sophos;i="5.07,545,1413237600"; 
+   d="scan'208";a="69671802"
+Received: from smtptls1-lmb.cpub.univ-nantes.fr (HELO smtp-tls.univ-nantes.fr) ([193.52.103.110])
+  by b-mx1.relay.syrhano.net with ESMTP; 09 Dec 2014 17:11:03 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by smtp-tls.univ-nantes.fr (Postfix) with ESMTP id DB334C054C6
+	for <bioinfo@sfbi.fr>; Tue,  9 Dec 2014 17:11:02 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at smtptls1-lmb.cpub.univ-nantes.fr
+Received: from smtp-tls.univ-nantes.fr ([127.0.0.1])
+	by localhost (smtptls1-lmb.cpub.univ-nantes.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 1zGmrdU_47_s for <bioinfo@sfbi.fr>;
+	Tue,  9 Dec 2014 17:11:02 +0100 (CET)
+Received: from mac-eveillard.lina.sciences.univ-nantes.prive (ipcop.lina.sciences.univ-nantes.fr [193.52.105.131])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by smtp-tls.univ-nantes.fr (Postfix) with ESMTPSA id BFE81C04C2D
+	for <bioinfo@sfbi.fr>; Tue,  9 Dec 2014 17:11:02 +0100 (CET)
+From: Damien Eveillard <damien.eveillard@univ-nantes.fr>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <88124B9C-4AD5-4D58-B953-C8639F0382D3@univ-nantes.fr>
+Date: Tue, 9 Dec 2014 17:11:03 +0100
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 8.1 \(1993\))
+X-Mailer: Apple Mail (2.1993)
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Computational Methods in Systems Biology 2015, Nantes, September 16-18 2015
+Dear all,
+We are very pleased to announce that the 13th International Conference on C
+omputational Methods in Systems Biology (CMSB 2015) will be organized in Na
+ntes, France by Jérémie Bourdon (Université de Nantes) & Oli
+vier Roux (Ecole Centrale de Nantes), on September 16-18 2015.
+CMSB 2015 will be a great opportunity to hear about the latest research on 
+the analysis of biological systems, networks, and data. The conference aims
+ to bring together computer scientists, biologists, mathematicians, enginee
+rs, and physicists interested in a system-level understanding of biological
+ processes. The entire event will be held at La Cité Nantes Event Cent
+er (~2 hours from Paris by train).
+The key dates are:
+- Paper abstract submission 13th April 2015
+- Paper submission deadline 20th April 2015
+- Paper notification 8th June 2015
+- Poster submission deadline 22th June 2015
+More details can be found here
+http://cmsb2015.sciencesconf.org
+Please note that a limited number of travel stipends will be available for 
+students and postdocs.
+See you there,
+Sincerely,
+Damien Eveillard PhD
+Ass. Professor, Computational Biology group
+LINA - UMR 6241, CNRS, EMN, Université de Nantes
+TEL: +33 2 51 12 59 85
+http://pagesperso.lina.univ-nantes.fr/~eveillard-d

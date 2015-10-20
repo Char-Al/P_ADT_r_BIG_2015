@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id F074526801D
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 19:16:09 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmEBAP4pE1SKZqI0h2dsb2JhbABgg2BXAYJ7xXmIcxABAQEIDQkHFiqELRAFETMOJAImAhIsNByIJg2Yb480gXSNQ4ZUgSyNPxEBbYJjgVMFgS6zNIFIaoEPgUABAQE
+X-IPAS-Result: AmEBAP4pE1SKZqI0h2dsb2JhbABgg2BXAYJ7xXmIcxABAQEIDQkHFiqELRAFETMOJAImAhIsNByIJg2Yb480gXSNQ4ZUgSyNPxEBbYJjgVMFgS6zNIFIaoEPgUABAQE
+X-IronPort-AV: E=Sophos;i="5.04,514,1406584800"; 
+   d="scan'208";a="64276345"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 12 Sep 2014 19:16:09 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s8CHG8ae006139
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 19:16:08 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id 8B355296B97
+	for <bioinfo@sfbi.fr>; Fri, 12 Sep 2014 19:16:08 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XSUTv-000GY2-3s
+	for bioinfo@sfbi.fr; Fri, 12 Sep 2014 19:17:59 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XSUTv-000GY2-3s@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Fri, 12 Sep 2014 19:17:59 +0200
+X-Miltered: at alpha with ID 54132A58.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 54132A58.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 54132A58.000 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.138 -> S=0.138
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Developer of training material for bioinformatics and systems biology
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Developer of training material for bioinformatics and  
+systems biology
+Type de poste : Post-doc / IR
+Durée du poste : 24 mois
+Ville : Cambridge, UK
+Nom du contact : Simon Andrews
+Email du contact : simon.andrews@babraham.ac.uk
+Laboratoire : Babraham Institute
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/developer-training-material-bioinformatics-and-systems-biology

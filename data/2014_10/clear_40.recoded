@@ -1,0 +1,104 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <baaden@smplinux.de>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 736A026801D
+	for <bioinfo@sfbi.fr>; Tue, 14 Oct 2014 01:42:18 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlsBACxiPFTBMer1nGdsb2JhbABbg2FYyzkGh1GBGxYBEQEBAQEBCBQJQoQVXAEBSx4WNyEJiEKgfaQ8DAEfjQeCbQEBKUOCIA9EJIEeBZY7gkKETQGBapY1gWs7L4EPgTsBAQE
+X-IPAS-Result: AlsBACxiPFTBMer1nGdsb2JhbABbg2FYyzkGh1GBGxYBEQEBAQEBCBQJQoQVXAEBSx4WNyEJiEKgfaQ8DAEfjQeCbQEBKUOCIA9EJIEeBZY7gkKETQGBapY1gWs7L4EPgTsBAQE
+X-IronPort-AV: E=Sophos;i="5.04,714,1406584800"; 
+   d="scan'208";a="74725482"
+Received: from raba.ibpc.fr ([193.49.234.245])
+  by a-mx1.relay.syrhano.net with ESMTP; 14 Oct 2014 01:42:18 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by raba.ibpc.fr (Postfix) with ESMTP id 07850200181A
+	for <bioinfo@sfbi.fr>; Tue, 14 Oct 2014 01:13:46 +0200 (CEST)
+Received: from raba.ibpc.fr ([127.0.0.1])
+	by localhost (raba.ibpc.fr [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id xwg9odWszBvG for <bioinfo@sfbi.fr>;
+	Tue, 14 Oct 2014 01:13:45 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by raba.ibpc.fr (Postfix) with ESMTP id 939C52001F79
+	for <bioinfo@sfbi.fr>; Tue, 14 Oct 2014 01:13:45 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at ibpc.fr
+Received: from raba.ibpc.fr ([127.0.0.1])
+	by localhost (raba.ibpc.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 6R1svEtj7MrS for <bioinfo@sfbi.fr>;
+	Tue, 14 Oct 2014 01:13:45 +0200 (CEST)
+Received: from baaden.galaxy.ibpc.fr (unknown [172.27.0.151])
+	by raba.ibpc.fr (Postfix) with ESMTP id 75F262001F43
+	for <bioinfo@sfbi.fr>; Tue, 14 Oct 2014 01:13:45 +0200 (CEST)
+X-Mailer: exmh version 2.8.0 04/21/2012 with nmh-1.5
+To: bioinfo@sfbi.fr
+From: Marc Baaden <baaden@smplinux.de>
+X-image-url: http://www.baaden.ibpc.fr/m-baaden.gif
+X-url: <http://www.marc-baaden.de>
+X-Face: -Nz&SN]%I8g9WFR#/!fe9se!_G_OndNloj@t+6jrGsoZ<t!|,TdYAQE<N8Yz|X>"z)?an0n
+ P!Nls~*o?u7fy:]1N|^^(KX*uE>Nk{bHaCJ)(hXF~E#5)j.k0n4hgfIzpmn,[VY'\7X:;VOZ\CItIq
+ G!2f8,k2`VLrkXQ:<.3LxEQ'E-;d:A)V#
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 14 Oct 2014 01:42:17 +0200
+Message-Id: <20141013231345.75F262001F43@raba.ibpc.fr>
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] infos congrès SFB2014 à  Guéthary du 10-13 novembre
+Chers collègues,
+Merci de prendre note des informations ci-dessous relatives au
+prochain congrès de la Société Fran=E7aise de Biophysique qui aura
+lieu à Guéthary du 10 au 13 novembre (http://sfb2014.sciencesconf.org/):
+- la date limite pour vous inscrire sans supplément et soumettre
+un résumé pour une contribution affichée ou orale est repoussée au
+15 Octobre, c'est à dire aujourd'hui :))
+- le programme des conférences invitées ci-dessous n'attend plus qu'à
+être complété par vos contributions!
+Pour les bio-informaticiens et modélisateurs en particulier il y aura
+Syma Khalid et très certainement Toby Allen (information encore
+officieuse), tous deux orateurs de premier renom.
+- le centre de Guéthary peut accueillir les participants dès le
+dimanche 9 novembre (les habitations seront disponibles à partir
+de 16h) en demi-pension (d=EEner, nuit et petit-déje=FBner) au tarif de
+62 euro en chambre double et 74 euro en single. Pour en bénéficier
+ou pour toute demande particulière relative à votre séjour,
+contacter Laurence Salomé par mail à laurence.salome@ipbs.fr.
+Au plaisir de vous retrouver à Guéthary,
+Pour le comité scientifique,
+  Marc Baaden
+Programme
+R Phillips: The Other Bohr and Biology's Greatest Model
+Cellular assemblies
+P-F Lenne: Mesoscopic origins of cell behaviors during tissue
+           morphogenesis
+V Studer: Investigating axonal guidance with engineered
+          microenvironments
+Lipid Biophysics
+S Khalid and R Oda
+Membranes and proteins
+F Pincet: SNARE protein cooperativity for membrane fusion and
+          pore expansion studied with nanodiscs
+S Veatch: Phases and fluctuations in cell plasma membranes
+Molecular recognition
+M Ringkjobing Jensen: Characterisation of intrinsically disordered
+                      proteins and their functional, dynamic complexes
+                      using NMR spectroscopy
+H Rezaei: Prion quasi-species and molecular basis of structural
+          information transference
+Nucleic Acids and their interactions
+M Nolmann: 3D folding mechanisms of higher-order chromatin domains
+C Tisné: Biophysical studies of RNA-protein complexes
+Protein complexes
+E Boeri-Erba: Investigating  homo- and hetero-protein complexes
+              using native MS
+P Schultz: Structure, function and assembly of the TFIID and SAGA
+            transcriptional co-activators
+Round table "Physicists meet biologists"
+A Bancaud: Investigation of chromosome structure in living yeast by
+           fluorescence microscopy
+J-F Berret: Particles and nanowires in interaction with living cells:
+            from fundamentals to applications
+--
+ Dr. Marc Baaden  - Institut de Biologie Physico-Chimique, Paris
+ mailto:baaden@smplinux.de      -      http://www.baaden.ibpc.fr
+ FAX: +33 15841 5026  -  Tel: +33 15841 5176  ou  +33 609 843217

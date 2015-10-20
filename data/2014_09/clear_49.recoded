@@ -1,0 +1,55 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 548A426801D
+	for <bioinfo@sfbi.fr>; Tue, 16 Sep 2014 18:39:11 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtcBADdnGFSKZqI0nGdsb2JhbABgg2BXAYIzSMg2iHcBEQEBAQEBCAsJCRQqhBYXEAURMw4IHAImAhIsECSIPg2JKY0RjzSBdI1EhmWBLI09EQFtgmKBUwWBLrJmVYFFaoEPgTsBAQE
+X-IPAS-Result: AtcBADdnGFSKZqI0nGdsb2JhbABgg2BXAYIzSMg2iHcBEQEBAQEBCAsJCRQqhBYXEAURMw4IHAImAhIsECSIPg2JKY0RjzSBdI1EhmWBLI09EQFtgmKBUwWBLrJmVYFFaoEPgTsBAQE
+X-IronPort-AV: E=Sophos;i="5.04,535,1406584800"; 
+   d="scan'208";a="64475198"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 16 Sep 2014 18:39:10 +0200
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s8GGd9lW004802
+	for <bioinfo@sfbi.fr>; Tue, 16 Sep 2014 18:39:09 +0200 (CEST)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id BCF5C296B97
+	for <bioinfo@sfbi.fr>; Tue, 16 Sep 2014 18:39:09 +0200 (CEST)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XTvoL-0009KK-RK
+	for bioinfo@sfbi.fr; Tue, 16 Sep 2014 18:41:01 +0200
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XTvoL-0009KK-RK@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Tue, 16 Sep 2014 18:41:01 +0200
+X-Miltered: at alpha with ID 541867AD.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 541867AD.000/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 541867AD.000 on alpha.jouy.inra.fr : j-chkmail score : XX : R=. U=. O=# B=0.289 -> S=0.385
+X-j-chkmail-Status: Unsure
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][CDD =?UTF-8?Q?Ing=C3=A9nieur?=] Analyse de =?UTF-8?Q?donn=C3=A9es?= NG  S de cross-link et ribosome profiling
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Analyse de données NGS de cross-link et ribosome  
+profiling
+Type de poste : CDD Ingénieur
+Durée du poste : 12
+Ville : Paris
+Nom du contact : Christophe Malabat
+Email du contact : christophe.malabat@pasteur.fr
+Laboratoire : Institut Pasteur - Unité de Génétique des Interactions  
+Macromoléculaires
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/analyse-de-donn%C3%A9es-ngs-de-cross-link-et-ribosome-profiling

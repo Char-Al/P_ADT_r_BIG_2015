@@ -1,0 +1,52 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=2830c3295=virginie.bernard@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 1377326801D
+	for <bioinfo@sfbi.fr>; Fri,  1 Aug 2014 08:39:21 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjMCAHY121PBMc0knGdsb2JhbABbg19XAQOCdMkXiFAWEAEBAQEBCAsJCRQphC0PAQ0BAQcvAjQCBRYLAgsDAgECAUsNBgICiEIJshh3hQIBBZJ8BoEsjT4RAW2CY4FSAZt5hyGRAjsvgQw5
+X-IronPort-AV: E=Sophos;i="5.01,778,1400018400"; 
+   d="scan'208";a="62510522"
+Received: from cip01-in.curie.fr ([193.49.205.36])
+  by b-mx1.relay.syrhano.net with ESMTP; 01 Aug 2014 08:39:20 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1406875160; x=1438411160;
+  h=message-id:date:from:mime-version:to:subject:
+   content-transfer-encoding;
+  bh=tHjjWqGRt7oxC5KNwVPJCmmWJj+0i8mgczOSRpoaleA=;
+  b=A/k7OjWM3vI9/V1EwP4Na40+ACCaCATxlTo4mZrU4YHAQMQbM9TsG/Ha
+   0ypsPWQ/p/ejr7bT0xaJ6cG90XJGtg==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Al0JANY121MKAgBG/2dsb2JhbABbg19XAQOCdMkXiGZ3hC0PARYvNgIFFgsCCwMCAQIBSw0GAgKIS7MMmAqBLI0+EQFtgmOBUgEEm3WHIZECaoEMOQ
+X-IPAS-Result: Al0JANY121MKAgBG/2dsb2JhbABbg19XAQOCdMkXiGZ3hC0PARYvNgIFFgsCCwMCAQIBSw0GAgKIS7MMmAqBLI0+EQFtgmOBUgEEm3WHIZECaoEMOQ
+X-IronPort-AV: E=Sophos;i="5.01,778,1400018400"; 
+   d="scan'208";a="28938671"
+Received: from mbxparis01.curie.fr (HELO mail.curie.fr) ([10.2.0.70])
+  by cip01-in.curie.fr with ESMTP; 01 Aug 2014 08:39:01 +0200
+Received: from [10.200.10.123] (10.200.10.123) by mail.curie.Fr (10.2.0.72)
+ with Microsoft SMTP Server (TLS) id 14.3.174.1; Fri, 1 Aug 2014 08:39:00
+ +0200
+Message-ID: <53DB3604.3010102@curie.fr>
+Date: Fri, 1 Aug 2014 08:39:00 +0200
+From: Virginie Bernard <vbernard@curie.fr>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.24) Gecko/20111120 Icedove/3.1.16
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [10.200.10.123]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD autre] Bioinformatician/informatician in proteogenomics
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Bioinformatician/informatician in proteogenomics
+Type de poste : CDD autre
+Durée du poste : 2 ans
+Ville : Louvain
+Nom du contact : Sebastien Carpentier
+Email du contact : sebastien.carpentier@kuleuven.be
+Laboratoire : KU Leuven
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/bioinformaticianinformatician-proteogenomics

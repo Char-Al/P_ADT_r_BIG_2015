@@ -1,0 +1,143 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Jean-Francois.GIBRAT@france-bioinformatique.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id ADC8226801D
+	for <bioinfo@sfbi.fr>; Sun, 14 Dec 2014 14:36:44 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvsAANSRjVTBMQPBnGdsb2JhbABag1hYBMVMBocJFgEBAQEBEQEBAQEBCAsJCRQuhB8mAQUxAQECSBYYAwIBAgFLCgMGAgEBiCwJq0SlIiCPEBEBgwQMQIEwBYUfg3aTRotNhA89MIEMOX4BAQE
+X-IPAS-Result: AvsAANSRjVTBMQPBnGdsb2JhbABag1hYBMVMBocJFgEBAQEBEQEBAQEBCAsJCRQuhB8mAQUxAQECSBYYAwIBAgFLCgMGAgEBiCwJq0SlIiCPEBEBgwQMQIEwBYUfg3aTRotNhA89MIEMOX4BAQE
+X-IronPort-AV: E=Sophos;i="5.07,575,1413237600"; 
+   d="scan'208";a="78612725"
+Received: from smtp1.cnrs.fr ([193.49.3.193])
+  by a-mx1.relay.syrhano.net with ESMTP; 14 Dec 2014 14:36:45 +0100
+Received: from CNCH01WVP.core-res.rootcore.local (10.247.60.11) by
+ smtp1.cnrs.fr (172.27.123.3) with Microsoft SMTP Server (TLS) id 14.3.158.1;
+ Sun, 14 Dec 2014 14:36:40 +0100
+Received: from macbookair-cdcf.jouy.inra.fr (172.27.123.5) by smtp.cnrs.fr
+ (10.247.60.11) with Microsoft SMTP Server (TLS) id 14.3.158.1; Sun, 14 Dec
+ 2014 14:36:42 +0100
+Message-ID: <548D93B7.6020007@france-bioinformatique.fr>
+Date: Sun, 14 Dec 2014 14:42:15 +0100
+From: Jean-Francois Gibrat <jean-francois.gibrat@france-bioinformatique.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset="ISO-8859-1"; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Originating-IP: [172.27.123.5]
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Poste de responsable de cellule à l'IFB-core en mobilité
+Le noeud national de l'Institut Français de Bioinformatique (IFB-core)
+souhaite recruter, *en mobilité*, le(a) responsable de sa cellule 
+Communication, Formation et Valorisation.
+Ce poste s'adresse donc à un(e) CR/DR d'un des instituts de tutelle de
+l'IFB (CNRS, CEA, INRA, INRIA, INSERM) qui serait intéressé(e) par cette 
+fonction (cf. la description du poste ci-dessous).
+L'IFB-core est une UMS localisée sur le campus CNRS de Gif-sur-Yvette.
+Il est possible, pour la personne recrutée de travailler, dans une large 
+mesure, d'une manière délocalisée.
+Dans ce cas, un certain nombre d'aller-retour entre le lieu de résidence 
+et le noeud national sont à envisager.
+Si vous êtes intéressé(e) par ce poste, veuillez envoyer un message à :
+jean-francois.gibrat@france-bioinformatique.fr
+---------------------------------------------------------------------
+*Contexte*
+L'Institut Français de Bioinformatique (IFB) est une infrastructure
+nationale de service en bioinformatique issue de l'appel à propositions
+« Infrastructures Nationales en Biologie et Santé » du programme des
+« Investissements d'Avenir ».
+La mission de l'IFB est de fournir les ressources de base et des
+services en bioinformatique à la communauté nationale des sciences de
+la vie. Cette mission se décline en plusieurs activités dont les
+principales sont :
+   * L'appui aux équipes de recherche des sciences de la vie en termes :
+       o d'accompagnement de projets scientifiques ;
+       o de formation des utilisateurs (en utilisant des technologies de
+         e-learning)
+   * La mise en place d'une infrastructure informatique dédiée à la
+     gestion et au traitement des données produites par les sciences de
+     la vie, s'appuyant sur le déploiement d'un Cloud académique.
+   * Une action effective de relais entre la communauté des sciences du
+     vivant (et ses problématiques) et la communauté recherche en
+     bioinformatique et informatique (promotion des développements
+     technologiques innovants à l'interface).
+   * La participation active aux travaux de l'infrastructure européenne
+     ELIXIR (l'IFB est le *noeud français* d'ELIXIR).
+L'IFB est constitué de plus d'une vingtaine de plates-formes de
+bio-informatique regroupées en six centres régionaux couvrant
+l'ensemble  du territoire national. Pour assurer une mise en place
+efficace de l'infrastructure, nous avons fait une demande de création
+d'un hub national, l'IFB-core. L'UMS 3601 -- IFB-core a été créée par
+le CNRS en 2013. Ce hub :
+   * fournit un appui technique et administratif à l'IFB
+   * assure la coordination technique entre les PF (organisation des
+     groupes de travail, des défis informatiques, des réunions
+     techniques, etc.)
+   * met en place la politique scientifique de l'IFB et assure la
+     dissémination des actions
+   * met en place et gère l'infrastr. informatique nationale de l'IFB
+   * organise et structure un programme de formation national basé sur
+     des technologies de e-learning
+   * joue un rôle d'interface en fournissant un point d'entrée unique aux
+     différents partenaires de l'IFB : les tutelles, la communauté des
+     sciences de la vie,  la communauté bioinformatique française, la
+     communauté bioinformatique européenne (via participation à ELIXIR)
+Pour remplir les tâches assignées au hub, nous avons fait la demande
+auprès des cinq tutelles de l'IFB de postes de permanents affectés à
+l'IFB-core en mobilité.
+L'IFB-core est constituée de deux cellules : la cellule « Communication, 
+Formation  et Valorisation »
+et la cellule « Infrastructure ». L'organigramme de l'unité et les 
+missions des cellules sont disponibles sur le site web :
+http://www.france-bioinformatique.fr.
+*Responsable de la cellule « Communication, Formation et Valorisation* :
+bioinformaticien(ne) ou biologiste (ayant une bonne connaissance des
+problématiques liées à l'analyse des données biologiques) intéressé(e)
+par la diffusion des connaissances, niveau DR/CR
+Missions : Sa tâche consistera à superviser les diverses activités de
+la cellule CFV qui sont résumées dans son intitulé.
+Le(a) candidat(e) aura la charge essentielle d'assurer la plus large
+dissémination possible des activités de l'IFB. Une partie importante de
+cette action de communication passera par la création, la gestion et la
+mise à jour régulière d'un site web qui constituera le point d'accès
+principal à la communauté des plates-formes (PF) de bioinformatique
+françaises. Ce site web devra fournir un panorama complet et actualisé
+des services et de l'expertise offerts par les PF de l'IFB et permettra
+aux membres de la communauté des sciences de la vie de faire remonter
+en un point unique leurs besoins d'appui pour leurs projets, ou leurs
+questions.
+Le(a) candidat(e) devra aussi participer activement à l'animation de la
+communauté bioinformatique en pilotant la mise en place d'outils
+collaboratifs associés au site web (en intranet) et en s'investissant
+dans la coordination des actions menées par l'IFB : organisation des
+appels à propositions de l'IFB, des défis (compétitions organisées à
+destination de la communauté recherche en informatique et
+bioinformatique et visant à s'attaquer à un problème particulier, par
+exemple l'assemblage de lectures longues produites par les nouvelles
+machines de 3^e génération), organisation de séminaires et ateliers
+visant à promouvoir le transfert de savoir-faire entre PF, diffusion
+d'informations, collecte de statistiques de l'activité des PF, etc.
+Le(a) responsable de la cellule prendra en charge la structuration et
+le renforcement de l'offre de formation des PF de l'IFB en s'appuyant
+sur des technologies d'E-learning. Il/elle animera le groupe de travail
+consacré au recensement des formations faites par les PF régionales, à
+l'établissement d'un programme national de formations et à son
+déploiement grâce à des technologies d'E-learning. Il/elle supervisera
+l'installation d'une plate-forme nationale d'E-learning à l'IFB-core et
+établira les collaborations nécessaires avec des laboratoires
+spécialisés dans ce domaine. Il/elle sera le/la correspondant/e
+français/e du groupe de travail consacré à la formation d'ELIXIR
+(piloté par le noeud britannique) et devra interagir étroitement avec
+ses homologues des autres noeuds nationaux.
+-- 
+========================================================================
+Jean-Francois Gibrat
+Institut Francais de Bioinformatique,
+UMS3601 IFB-core, bat. 21
+CNRS, 2 Av. de la Terrasse
+91190 Gif-sur-Yvette, France
+Tel: +33 (1) 69 82 46 70
+Email: jean-francois.gibrat@france-bioinformatique.fr
+========================================================================

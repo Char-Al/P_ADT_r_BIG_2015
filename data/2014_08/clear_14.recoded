@@ -1,0 +1,48 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sophie.schbath@jouy.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 90E4926801D
+	for <bioinfo@sfbi.fr>; Wed, 13 Aug 2014 19:09:52 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqgCAH6b61OKZqI0nGdsb2JhbABag19XAYJ5smyXSoc/AwIBgSoQAQEBAQEICwkJFCmEBAEFIw8BBREvESUCBRYLAgIJAwIBAgE6CxMGAgEBiD4ECbEalUUXgSyNPhEBVxaCY4FTBZIYiiGMGop6gUhqgQ8
+X-IronPort-AV: E=Sophos;i="5.01,857,1400018400"; 
+   d="scan'208";a="62917406"
+Received: from mx.jouy.inra.fr (HELO alpha.jouy.inra.fr) ([138.102.162.52])
+  by b-mx1.relay.syrhano.net with ESMTP; 13 Aug 2014 19:09:35 +0200
+Received: from MacBook-Air-de-sophie-2.local (a8199-adsl1.pck.nerim.net [80.65.227.132])
+	(authenticated bits=0)
+	by alpha.jouy.inra.fr (/8.14.4) with ESMTP id s7DH9XeW025936
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES128-SHA bits=128 verify=NOT)
+	for <bioinfo@sfbi.fr>; Wed, 13 Aug 2014 19:09:34 +0200 (CEST)
+Message-ID: <53EB9BDE.6050901@jouy.inra.fr>
+Date: Wed, 13 Aug 2014 19:09:50 +0200
+From: Sophie Schbath <sophie.schbath@jouy.inra.fr>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+References: <E1XHc2q-0003yU-0o@sfbi2013.mti.univ-paris-diderot.fr>
+In-Reply-To: <E1XHc2q-0003yU-0o@sfbi2013.mti.univ-paris-diderot.fr>
+X-Forwarded-Message-Id: <E1XHc2q-0003yU-0o@sfbi2013.mti.univ-paris-diderot.fr>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Miltered: at alpha with ID 53EB9BCD.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 53EB9BCD.001/80.65.227.132/a8199-adsl1.pck.nerim.net/MacBook-Air-de-sophie-2.local/<sophie.schbath@jouy.inra.fr>
+X-j-chkmail-Score: MSGID : 53EB9BCD.001 on alpha.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.094 -> S=0.094
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at alpha
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][CDD autre] =?UTF-8?Q?Ing=C3=A9nieur?=(e) d'=?UTF-8?Q?=C3=A9tude?= en =?UTF-8?Q?d=C3=A9veloppement?= d'applications en web service
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Ingénieur(e) d'étude en développement d'applications
+en web service
+Type de poste : CDD autre
+Durée du poste : 6 mois
+Ville : Lyon
+Nom du contact : Catherine LEIGH
+Email du contact : catherine.leigh@irstea.fr
+Laboratoire : IRSTEA
+Voir la description complète du poste sur
+http://www.sfbi.fr/content/ing%C3%A9nieure-d%C3%A9tude-en-d%C3%A9veloppement-dapplications-en-web-service

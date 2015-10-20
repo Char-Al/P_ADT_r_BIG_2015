@@ -1,0 +1,50 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www-data@sfbi.mti.univ-paris-diderot.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 1452F26801D
+	for <bioinfo@sfbi.fr>; Fri, 14 Feb 2014 13:49:14 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AokBAIkP/lLC/j2KnGdsb2JhbABZgz6DWbxlZBYOAQEBAQEGDQkJFCiCTxAFETMOExECBSECEWGICQmXc48VoXwXgSmMbhEBbYJZgUkEnwaOd4Fw
+X-IronPort-AV: E=Sophos;i="4.95,844,1384297200"; 
+   d="scan'208";a="53984537"
+Received: from korolev.univ-paris7.fr ([194.254.61.138])
+  by b-mx1.relay.syrhano.net with ESMTP; 14 Feb 2014 13:49:13 +0100
+Received: from duc.rpbs.univ-paris-diderot.fr (duc.mti.univ-paris-diderot.fr [81.194.29.54])
+	by korolev.univ-paris7.fr (8.14.4/8.14.4/relay1/46573) with ESMTP id s1ECnC8m009211
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <bioinfo@sfbi.fr>; Fri, 14 Feb 2014 13:49:12 +0100
+Received: from sfbi.mti.univ-paris-diderot.fr (sfbi.mti.univ-paris-diderot.fr [81.194.29.2])
+          by duc.rpbs.univ-paris-diderot.fr (8.13.7/jtpda-5.4) with SMTP id s1ECnBKX020700
+          for <bioinfo@sfbi.fr>; Fri, 14 Feb 2014 13:49:11 +0100
+Message-Id: <201402141249.s1ECnBKX020700@duc.rpbs.univ-paris-diderot.fr>
+Received: by sfbi.mti.univ-paris-diderot.fr (sSMTP sendmail emulation); Fri, 14 Feb 2014 13:48:24 +0100
+From: "www-data" <www-data@sfbi.mti.univ-paris-diderot.fr>
+Date: Fri, 14 Feb 2014 13:48:24 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 0:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.7 (korolev.univ-paris7.fr [194.254.61.138]); Fri, 14 Feb 2014 13:49:12 +0100 (CET)
+X-Miltered: at korolev with ID 52FE10C8.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52FE10C8.001 from duc.mti.univ-paris-diderot.fr/duc.mti.univ-paris-diderot.fr/null/duc.rpbs.univ-paris-diderot.fr/<www-data@sfbi.mti.univ-paris-diderot.fr>
+X-j-chkmail-Score: MSGID : 52FE10C8.001 on korolev.univ-paris7.fr : j-chkmail score : . : R=. U=. O=. B=0.000 -> S=0.000
+X-j-chkmail-Status: Ham
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Postdoctoral Position Bioinformatics / Systems Biology
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Postdoctoral Position Bioinformatics / Systems Biology
+Type de poste : Post-doc / IR
+Durée du poste :
+Ville : Santiago (Chile)
+Nom du contact : Dr. Luis F. Larrondo
+Email du contact : llarrondo@bio.puc.cl
+Laboratoire : Millennium Nucleus in Fungal Integrative and Synthetic Biology  
+(MN-FIBS)
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/postdoctoral-position-bioinformatics-systems-biology

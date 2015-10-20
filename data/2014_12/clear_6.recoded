@@ -1,0 +1,54 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <www@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2421B26801D
+	for <bioinfo@sfbi.fr>; Mon,  1 Dec 2014 18:23:54 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqkCAMKjfFSKZqI0nGdsb2JhbABbg1dYAYMEih8BuTyHSQEBAQEBEQEBAQEBCAsJCRQuhCwQBREkDw4kAh8HAhIsNIhADa5hj0WBbYYyiE2GF4ErjmIRAW2CX4FTBYEusUIBAQgBAQEBYIFFboENgToBAQE
+X-IPAS-Result: AqkCAMKjfFSKZqI0nGdsb2JhbABbg1dYAYMEih8BuTyHSQEBAQEBEQEBAQEBCAsJCRQuhCwQBREkDw4kAh8HAhIsNIhADa5hj0WBbYYyiE2GF4ErjmIRAW2CX4FTBYEusUIBAQgBAQEBYIFFboENgToBAQE
+X-IronPort-AV: E=Sophos;i="5.07,495,1413237600"; 
+   d="scan'208";a="78057647"
+Received: from mx.jouy.inra.fr (HELO beta.jouy.inra.fr) ([138.102.162.52])
+  by a-mx1.relay.syrhano.net with ESMTP; 01 Dec 2014 18:23:53 +0100
+Received: from adm3.jouy.inra.fr (adm3 [138.102.22.4])
+	by beta.jouy.inra.fr (/8.14.4) with ESMTP id sB1HNqkX025997
+	for <bioinfo@sfbi.fr>; Mon, 1 Dec 2014 18:23:52 +0100 (CET)
+Received: from sfbi2013.mti.univ-paris-diderot.fr (sfbi [138.102.22.67])
+	by adm3.jouy.inra.fr (Postfix) with ESMTP id A06BC296CE8
+	for <bioinfo@sfbi.fr>; Mon,  1 Dec 2014 18:23:52 +0100 (CET)
+Received: from www by sfbi2013.mti.univ-paris-diderot.fr with local (Exim 4.80)
+	(envelope-from <www@www.sfbi.fr>)
+	id 1XvUjk-000Gc7-FQ
+	for bioinfo@sfbi.fr; Mon, 01 Dec 2014 18:26:12 +0100
+To: bioinfo@sfbi.fr
+X-PHP-Originating-Script: 1000:mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Errors-To: admin@sfbi.fr
+Sender: admin@sfbi.fr
+From: admin@sfbi.fr
+Message-Id: <E1XvUjk-000Gc7-FQ@sfbi2013.mti.univ-paris-diderot.fr>
+Date: Mon, 01 Dec 2014 18:26:12 +0100
+X-Miltered: at beta with ID 547CA428.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 547CA428.001/138.102.22.4/adm3/adm3.jouy.inra.fr/<www@sfbi.fr>
+X-j-chkmail-Score: MSGID : 547CA428.001 on beta.jouy.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.067 -> S=0.067
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at beta
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] [Emploi][Post-doc / IR] Statistical and machine learning methods and software to address questions in biology and biomedicine
+Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
+Intitulé du poste : Statistical and machine learning methods and software to  
+address questions in biology and biomedicine
+Type de poste : Post-doc / IR
+Durée du poste : 3 years
+Ville : Goettingen
+Nom du contact : Johannes Soeding
+Email du contact :  soeding@mpibpc.mpg.de
+Laboratoire : Max-Planck Institute for Biophysical Chemistry
+Voir la description complète du poste sur  
+http://www.sfbi.fr/content/statistical-and-machine-learning-methods-and-software-address-questions-biology-and-biomedic

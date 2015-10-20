@@ -1,0 +1,112 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <nathalie.bertrand@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id F268226801D
+	for <bioinfo@sfbi.fr>; Wed, 11 Jun 2014 14:24:27 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjUOAEBJmFPAhqRTf2dsb2JhbABag1+CfEm5DogCBIELFg8BAQsLCggUKIQWF0YBKBwCJgJfCgmIQgQJkyuNAY8jnk8XgSqMNYNpNoEWBJchgwyXCA
+X-IronPort-AV: E=Sophos;i="5.01,458,1400018400"; 
+   d="scan'208";a="59970494"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by b-mx1.relay.syrhano.net with ESMTP; 11 Jun 2014 14:24:27 +0200
+X-IronPort-AV: E=Sophos;i="5.01,458,1400018400"; 
+   d="scan'208";a="79523803"
+Received: from nat.umh.ac.be (HELO sanbernardo.umons.ac.be) ([193.190.193.1])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/AES128-SHA; 11 Jun 2014 14:24:26 +0200
+From: Nathalie Bertrand <nathalie.bertrand@inria.fr>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <B4237A98-5E85-4222-9EE6-044B555EA8EA@inria.fr>
+Date: Wed, 11 Jun 2014 14:26:13 +0200
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Mime-Version: 1.0 (Mac OS X Mail 6.6 \(1510\))
+X-Mailer: Apple Mail (2.1510)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Prix de thèse Gilles Kahn 2014
++++   Prix de thèse Gilles Kahn 2014,
++++   patronné par l'Académie des Sciences et décerné p
+ar la SiF
++++   http://www.societe-informatique-de-france.fr/recherche/prix-de-these-
+gilles-kahn/
++++   Date limite de candidature : 14 septembre 2014.
+Le prix de la Société Informatique de France (SiF, anciennement S
+pecif) a été créé en 1998 pour récompenser chaque 
+année une excellente thèse en Informatique. Gilles Kahn qui a pr
+ésidé les trois premiers jurys du prix était convaincu de l
+'intérêt de promouvoir les jeunes talents les plus promet
+teurs de notre discipline. En son honneur, le prix a pris depuis 2007 le no
+m de Prix de thèse Gilles Kahn et est patronné par l'Acad
+émie des Sciences qui rend ainsi hommage à un de ses membres =C3
+=A9minents.
+La SiF souhaite par ce prix promouvoir toutes les facettes de l'inf
+ormatique, des travaux fondamentaux aux travaux appliqués ayant donn
+é lieu à transfert industriel, de ceux réalisés dans le
+s grands centres à ceux réalisés dans des centres plus modes
+tes. L'objectif de ce prix est de dynamiser et de motiver de jeunes
+ chercheurs en les récompensant, et de faire conna=C3=AEtre à l
+'ensemble de la communauté informatique d'excellents t
+ravaux de recherche. Un jury d'universitaires et de chercheurs, pr
+ésidé par Michel Riveill, sélectionnera parmi les thèse
+s soutenues au cours de l'année universitaire celle qui recevr
+a ce prix. En outre, le jury pourra également distinguer, s'il
+ le souhaite, au plus deux accessits.
+La remise oï=AC=83cielle du prix se fera début de l'ann=C3
+=A9e 2015 au cours d'une cérémonie associant la SiF et l
+'Académie des Sciences. =C3=80 cette occasion, le récipie
+ndaire se verra remettre un chèque de 1500 euros et chacun des autres 
+lauréats éventuels un chèque de 500 euros. Tous seront =C3
+=A9galement invités à présenter leurs travaux à lâ=80
+=99ensemble de la communauté scientifique. Sous réserve de rempli
+r les conditions de candidature, les lauréats au prix de thèse Gi
+lles Kahn seront considérés comme candidats à la nomination 
+par Inria pour le prix Cor Baayen de l'ERCIM.
+Les critères pris en compte par le jury pour sélectionner les lau
+réats sont notamment l'originalité des résultats, l
+'originalité du domaine et des méthodes utilisées, l
+'importance et l'impact des résultats obtenus, et bien
+ évidemment la qualité de la rédaction puisqu'il s'agit de r
+écompenser non seulement un travail mais surtout une thèse.
+En 2013, sous la présidence de Michel Riveill et avec l'assist
+ante de Nathalie Bertrand, secrétaire du prix, le jury était cons
+titué de Xavier Allamigeon (prix 2010), Béatrice Bérard, Hug
+ues Berry, Nathalie Bertrand, André Chailloux (prix 2011), Hubert Como
+n, Mathieu Feuillet (prix 2012), Cyril Gavoille, Patrick Girard, Jacques-Ol
+ivier Lachaud, Pierre Marquis, Amedeo Napoli, Jean Ponce, Michel Riveill, C
+laudia Roncancio, Olivier H. Roux, Pierre Sens, Christine Solnon, Ye-Qiong 
+Song, Juan-Manuel Torres Moreno et Hélène Touzet. Comme câ=80
+=99est l'usage, le jury sera partiellement renouvelé pour le p
+rix 2014, le jury étant totalement renouvelé tous les trois ans.
+=3D=3D=3D   Calendrier
+* 15 juillet 2014 : ouverture de l'interface web de soumission
+* 14 septembre 2014 : date limite de dépôt des candidatures
+* 1 décembre 2014 : notiï=AC=81cation des résultats
+* début 2015 : remise oï=AC=83cielle du prix lors de l'Assem
+blée Générale de la SIF
+=3D=3D=3D   Interface web de candidature
+http://prix-sif.inria.fr/
+=3D=3D=3D   Dossier de candidature
+Peut candidater tout étudiant ayant soutenu son doctorat d'inf
+ormatique dans une école ou université fran=C3=A7aise entre le 1e
+r septembre 2013 et le 31 ao=C3"t 2014. Toute candidature devra être
+ explicitement soutenue par le directeur de thèse ou un des co-directe
+urs. Il n'est pas permis à un même encadrant de soutenir 
+deux candidats.
+Tous les documents doivent être déposés, sous forme de ï
+=AC=81chiers PDF exclusivement, par le biais de l'interface web. En
+ cas de problèmes à utiliser l'interface, ou pour toute a
+utre question concernant le prix, les candidats sont invités à co
+ntacter par courrier électronique la secrétaire du prix, Nathalie
+ Bertrand (nathalie.bertrand@inria.fr).
+Chaque dossier doit notamment comprendre:
+* La thèse (en PDF)
+* Les rapports de pré-soutenance des rapporteurs (scannés, en PDF)
+* Le rapport de soutenance (scanné, en PDF)
+* Une lettre appuyant la candidature au prix de thèse, directement env
+oyée par le(s) directeur(s) de thèse
+* Des rapports complémentaires que le candidat jugerait utile de fourn
+ir au jury, envoyés par les personnes concernées
+Le formulaire en ligne demande également de saisir certaines informati
+ons : un résumé de 2 pages de la thèse, un CV d'une 
+page maximum ainsi qu'une liste de publications.

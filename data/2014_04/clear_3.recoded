@@ -1,0 +1,108 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <yolande.diaz@ens.univ-evry.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id E858226801D
+	for <bioinfo@sfbi.fr>; Wed,  2 Apr 2014 09:13:12 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgUCAGC3O1PCx1obnGdsb2JhbABZg0FXgkBKwF+BGxYOAQEBAQEIFAk8gjgXDwFaBRwCJgJfG4d1CZEpjHyPHKI+F4EpjGURASpDglmBSQSaCY8vg0iBQTuBNQ
+X-IronPort-AV: E=Sophos;i="4.97,778,1389740400"; 
+   d="scan'208";a="56378198"
+Received: from chaos.univ-evry.fr ([194.199.90.27])
+  by b-mx1.relay.syrhano.net with ESMTP; 02 Apr 2014 09:13:12 +0200
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvoFAMy3O1OsEAAY/2dsb2JhbABZg0FXgkBKwGCBMXSCOBcPAVoFHAImAl8bh36RKZwYoj4XgSmMZREBKkOCWYFJBJoJjy+DSIFBgXA
+X-IPAS-Result: AvoFAMy3O1OsEAAY/2dsb2JhbABZg0FXgkBKwGCBMXSCOBcPAVoFHAImAl8bh36RKZwYoj4XgSmMZREBKkOCWYFJBJoJjy+DSIFBgXA
+Received: from mail.ens.univ-evry.fr ([172.16.0.24])
+  by chaos.univ-evry.fr with ESMTP; 02 Apr 2014 09:13:11 +0200
+Received: from www.ens.univ-evry.fr (web-portail2.ens.univ-evry.fr [172.16.0.49])
+	by mail.ens.univ-evry.fr (Postfix) with ESMTP id 751FA44802D
+	for <bioinfo@sfbi.fr>; Wed,  2 Apr 2014 09:13:11 +0200 (CEST)
+MIME-Version: 1.0
+Received: from AMontsouris-653-1-234-48.w92-128.abo.wanadoo.fr
+	(AMontsouris-653-1-234-48.w92-128.abo.wanadoo.fr [Array])
+	 via violette.ens.univ-evry.fr (violette.ens.univ-evry.fr
+	[172.16.0.25])
+	by web-portail2.ens.univ-evry.fr
+	with HTTP/1.1 (POST); Wed, 02 Apr 2014 09:13:10 +0200
+Date: Wed, 02 Apr 2014 09:13:10 +0200
+From: yolande diaz <yolande.diaz@ens.univ-evry.fr>
+To: <bioinfo@sfbi.fr>
+Message-ID: <d18ff207ef8b15e56939d2f3d84a7b82@ens.univ-evry.fr>
+X-Sender: yolande.diaz@ens.univ-evry.fr
+User-Agent: RoundCube Webmail/0.3-trunk
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset=UTF-8
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Formation "Initiation =?UTF-8?Q?=C3=A0?= la construction de bases de =?UTF-8?Q?donn=C3=A9es?=" - 19 au 23 mai 2014
+Bonjour,
+veuillez trouver ci-dessous l'annonce de la formation continue «
+Initiation à la construction de bases de données » de l'Université d'Evry.
+Yolande Diaz, Carène Rizzon.
+###########################################################
+#########################
+ANNONCE FORMATION CONTINUE :
+#########################
+INITIATION A LA CONSTRUCTION DE BASES DE DONNEES
+#########################
+OBJECTIFS
+#########################
+Construire d’une base de données, depuis la conception (prise en compte de
+la problématique, organisation des données) jusqu'à la mise en œuvre sur
+machine avec des logiciels libres.
+Les participants peuvent venir avec leurs propres données pour construire
+la base.
+#########################
+PUBLIC
+#########################
+Techniciens, Ingénieurs, Doctorants, Chercheurs et Personnels de santé
+exerçant dans le domaine des sciences du vivant ou de la physique/chimie
+#########################
+PROGRAMME
+#########################
+• Introduction à Unix.
+• Etablissement du cahier des charges de la base de données.
+• Formalisation à l'aide d'un schéma conceptuel des données brutes
+(données et concepts associés).
+• Bases théoriques (langage de représentation de données, langage de
+requête).
+• Construction sur machine de la base avec intégration des données.
+• Mise en place d'une interface web de consultation de la base de données.
+#########################
+CONDITIONS D’ADMISSION
+#########################
+• Pré-requis pour entrer en formation :aucune connaissance en informatique
+n'est nécessaire.
+• Date limite de dépôt de bulletin d’inscription : 25/04/2014
+• Pour plus d'info voir : Pour plus d'info :
+http://www.univ-evry.fr/fr/professionnalisation/formation_continue/formations_courtes_du_departement_biologie.html
+#########################
+MODALITES
+#########################
+Durée : 5 jours consécutifs
+Dates : du 19/05/2014 et 23/05/2014
+Lieu : Institut de Biologie, Génétique et Bio-Informatique (IBGBI), 23 bd
+de France, 91025 EVRY Cedex
+Organisation - Nombre de participants : 6 (minimum) – 12 (maximum) - 1 PC
+par personne
+#########################
+TARIF
+#########################
+Coût (Net de taxe) : 1500 € par stagiaire (repas inclus)
+#########################
+CONTACTS
+#########################
+Renseignements – Candidature
+Sylvie BARREAU, Assistante de formation,
+Service commun formation continue,
+Université d’Evry-Val-d’Essonne
+Tel : 01 69 47 70 67
+Email : sylvie.barreau (at) univ-evry.fr
+Renseignements – Formation
+Carène RIZZON, Yolande DIAZ
+Laboratoire LaMME, équipe Statistique et Génome,
+Université d’Evry-Val-d’Essonne
+Tel : 01 64 85 35 40
+Courriel : carene.rizzon (at) genopole.cnrs.fr, yolande.diaz (at)
+genopole.cnrs.fr

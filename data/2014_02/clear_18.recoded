@@ -1,0 +1,103 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <epbapteste@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 9D00E26801D
+	for <bioinfo@sfbi.fr>; Thu,  6 Feb 2014 11:29:28 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AogCAEVj81JKfVKvlGdsb2JhbABZxBEWDgEBAQEHCwsJEiqCXgEFCAEbHAIDEhAWFhgDAgECARERAQUBLAMGAgEBEIdcAQMRBZ4WgwqMXoMJk2EKGScNZIg6AQUMky0EmCuGSIlsQYRa
+X-IronPort-AV: E=Sophos;i="4.95,793,1384297200"; 
+   d="scan'208";a="53544721"
+Received: from mail-we0-f175.google.com ([74.125.82.175])
+  by b-mx1.relay.syrhano.net with ESMTP; 06 Feb 2014 11:29:28 +0100
+Received: by mail-we0-f175.google.com with SMTP id q59so1127639wes.6
+        for <bioinfo@sfbi.fr>; Thu, 06 Feb 2014 02:29:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=aANcuDva47cTHzPdITQ5ZsqPp7rSnBC9v3seVYTmsoA=;
+        b=yQvS3+MUE2S1/v6yjjRHcyccvFrxdSYTGxARiOPIFq16y5T0EsPHMjgSy322zxZ9FL
+         IMs0lfPSfx2Yhl0vEhJbj2YTgyn3AlNTavcenwn7Ht9yVk8RcHhIpzOvzTeYd5ovxOHo
+         3Jd5ER0b4POR5H1f5/DAsAVCd8m6Mf+evQAMz5QLd9DGDvtfwQs1EvmPi4N4tWqLtdlS
+         njeWc6IdU6V9mSrgjZUlvESn8Ry+bM4+NsaifWNuGTT+UyONacNI5rL+TEYebowi4Yb3
+         HCRugC5ISJXC900f5HKHlmyW5SUH9xPnVSJRo3yLc2IB01ap9SfM1PBB4t3t2k4NaHCi
+         TePA==
+X-Received: by 10.180.211.208 with SMTP id ne16mr20579315wic.21.1391682567319;
+        Thu, 06 Feb 2014 02:29:27 -0800 (PST)
+Received: from [134.157.183.103] (7138-35.snv.jussieu.fr. [134.157.183.103])
+        by mx.google.com with ESMTPSA id di9sm4423644wid.6.2014.02.06.02.29.25
+        for <bioinfo@sfbi.fr>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 06 Feb 2014 02:29:26 -0800 (PST)
+Message-ID: <52F36414.5050206@gmail.com>
+Date: Thu, 06 Feb 2014 11:29:40 +0100
+From: Eric Bapteste <epbapteste@gmail.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] =?WINDOWS-1252?Q?Th=E8se?=. MNHN-UPMC.EvolutionaryMetagenomics
+Hello,
+Please find below the description of an open PhD position on 'Network 
+analyses of the impact of a quick dietary shift in the gut microbiome of 
+the lizard species, Podarcis sicula'
+This PhD proposal aims at determining what it takes (in terms of 
+microbiome changes) to become an herbivorous lizard in less than 35 years.
+Most lizards are insectivorous. Yet, several species and populations of 
+lacertid lizards have evolved toward an omnivorous or even herbivorous 
+diet. Our model system, Podarcis sicula, a lizard species has shown 
+rapid evolution of feeding and digestive tract morphology in manipulated 
+populations. In 1970, five breeding pairs of the insectivorous P. sicula 
+were transferred from the islet of Pod Kopite to the islet of Pod 
+Mraru, Croatia. 36 years later (representing about 30 P. sicula 
+generations), the transplanted P. sicula on Pod Mraru had become mostly 
+herbivorous. This dietary shift resulted in changes in head size and 
+bite force among the populations on the two islands, and most striking 
+changes in the lizards guts, since the herbivorous Pod Mraru lizards had 
+developed an elaborate hindgut chamber with cecal valves, which had not 
+been seen in any other population of P. sicula. These valves facilitate 
+plant digestion by the gut microbial community of the lizard hosts. With 
+the advances of next generation sequencing, this system offers a unique 
+opportunity to investigate the impact of this dietary change at the 
+level of the microbiome using metagenomic and metranscriptomic data. We 
+will take advantage of the inclusive powerful comparative framework 
+offered by sequence similarity networks, and exploit concepts of graph 
+theory, to analyze the functioning and the evolution of genetic 
+diversity of the lizard gut microbiomes in such massive datasets. In 
+short, we will address the following questions through a comparison of 
+the gut microbiomes of insular herbivorous lizards and of their 
+insectivorous relatives:
+1) Does the taxonomy of the microbiome correlates with the diet?
+2) What changes in gene content and functions did the dietary shift 
+produce? In particular, what gene families were acquired/lost during 
+this transition?
+3) What role did the gut mobilome play in these functional changes?
+4) Overall, were the changes mostly functional (and through lateral gene 
+transfer) or taxonomical (through a deep change of the microbial 
+populations)
+To tackle these issues, the candidate's main goal will be to use and 
+develop novel exploratory methods, based on sequence similarity graphs 
+to describe and compare the taxonomical and functional diversity of 
+metagenomes and metatranscriptomes of gut microbiomes of lizards, and to 
+assess the possible impact of lateral gene transfer within this 
+microbial community in this remarkable adaptive shift.
+He/ she will work within a consortium of friendly herpetologists 
+(Anthony Herrel), computer scientists (Philippe Lopez) and evolutionary 
+microbiologists (Eric Bapteste), and be hosted in the University Pierre 
+and Marie Curie and in the National Museum of Natural History, in Paris.
+Ideally, the candidate should have some background in bio-informatics 
+(to use and improve our labs existing tools) and a strong interest for 
+evolutionary biology. He/she will benefit from a Labex BCDiv grant 
+(1757 euros  /month for 3 years.) and will be enrolled in the doctoral program 
+at the Muséum National d'Histoire Naturelle in Paris with a start date 
+of September 1st 2014.
+Potential candidates should send a CV, two letters of recommendation, a 
+pdf copy of their master's thesis, and a letter of motivation in English 
+to Eric Bapteste (eric.bapteste@snv.jussieu.fr) or Philippe Lopez 
+(philippe.lopez@snv.jussieu.fr) and Anthony Herrel 
+(anthony.herrel@mnhn.fr). The applications will be closed June 20, 2014. 
+The three top-ranked candidates will be invited for an interview.

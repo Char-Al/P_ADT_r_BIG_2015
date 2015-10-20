@@ -1,0 +1,71 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Laurent.Duret@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 501D026801D
+	for <bioinfo@sfbi.fr>; Mon, 26 May 2014 12:53:44 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjUCADYcg1OG1ryTnGdsb2JhbABZg1m7Loc0BAKBExYOAQEBAQEICwkJFCiCfyYOblWIQg3XOBcEjk4dgh4PRCSBFQSbMJUk
+X-IronPort-AV: E=Sophos;i="4.98,912,1392159600"; 
+   d="scan'208";a="67427724"
+Received: from cisrsmtp4.univ-lyon1.fr ([134.214.188.147])
+  by a-mx1.relay.syrhano.net with ESMTP; 26 May 2014 12:53:44 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp4.univ-lyon1.fr (Postfix) with ESMTP id 2EC27E0223;
+	Mon, 26 May 2014 12:53:43 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp4.univ-lyon1.fr
+Received: from cisrsmtp4.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp4.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ac0R8W7m0HN6; Mon, 26 May 2014 12:53:38 +0200 (CEST)
+Received: from umr5558-c02mk1nrfh05.univ-lyon1.fr (umr5558-c02mk1nrfh05.univ-lyon1.fr [134.214.35.106])
+	by cisrsmtp4.univ-lyon1.fr (Postfix) with ESMTP id 6E43BE0259;
+	Mon, 26 May 2014 12:53:38 +0200 (CEST)
+From: Laurent Duret <Laurent.Duret@univ-lyon1.fr>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 26 May 2014 12:53:38 +0200
+Message-Id: <D6CFCDB3-3883-4DDD-96D9-965D02981DD9@univ-lyon1.fr>
+Cc: Laurent Duret <Laurent.Duret@univ-lyon1.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Postdoctoral Position in Evolutionary Genomics (Lyon, France)
+A position is available for a highly motivated postdoctoral researcher in t
+he group of Laurent Duret at The Laboratoire de Biométrie et Biologie Evo
+lutive, CNRS, Université Lyon 1.
+The researcher will be involved in the comparative analysis of programmed g
+enome rearrangements in the ciliate Paramecium. In paramecia, as in other c
+iliates, genome rearrangements occur during the development of the somatic 
+macronucleus (MAC) from the germline micronucleus (MIC), in each sexual gen
+eration. Rearrangements include the precise elimination of ~45.000 single-c
+opy Internal Eliminated Sequences (IESs), which are believed to be degenera
+te remnants of ancient transposable element insertions. We are sequencing M
+IC genomes of different strains and species of the Paramecium genus to reco
+nstruct the evolutionary history of IESs and to test the hypothesis that po
+lymorphisms in these elements result in sexual incompatibility.
+Candidates must hold a Ph.D. in computational biology, evolutionary genetic
+s/genomics, molecular evolution or a related field. Experience in comparati
+ve genome-wide analyses, next-gen sequencing data, and bioinformatic progra
+mming are preferred. Programming skills in either perl, python, or other la
+nguages suitable for bioinformatic analyses are required.
+This is a two-year position. The position is open immediately and the start
+ date is negotiable (but not later than January 1st 2015).
+To formally apply, please send the following in PDF format to Laurent Duret
+ (Laurent.Duret@univ-lyon1.fr):
+1. A curriculum vitae, including names of 3 referees.
+2. A brief statement describing current and future research goals
+https://lbbe.univ-lyon1.fr/-Duret-Laurent-.html?lang=3Den
+____________________________
+Laurent Duret
+Laboratoire Biométrie et Biologie Evolutive
+UMR CNRS 5558, Université Lyon 1
+43 Bld du 11 Novembre 1918
+69622 Villeurbanne cedex
+France
+Phone  : +33  (0) 4 72 44 62 97
+FAX    : +33  (0) 4 72 43 13 88
+e-mail : Laurent.Duret@univ-lyon1.fr
+Web page: http://lbbe.univ-lyon1.fr/-Duret-Laurent-.html?lang=3Den
+________________________________

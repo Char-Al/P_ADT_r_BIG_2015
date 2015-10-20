@@ -1,0 +1,89 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <gregory.batt@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id BAC6C26801D
+	for <bioinfo@sfbi.fr>; Thu, 27 Feb 2014 18:45:40 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlkCADB5D1PAhqRTf2dsb2JhbABaFoMrwn0WDgEBCwsKCBQogmRAPRYEFAMCAQIBWAYCAQGHdQ2aZo9joEGMWoEYC4MND4F6BI5FiXOMZoczgT+BZw
+X-IronPort-AV: E=Sophos;i="4.97,556,1389740400"; 
+   d="scan'208";a="54649982"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by b-mx1.relay.syrhano.net with ESMTP; 27 Feb 2014 18:45:40 +0100
+X-IronPort-AV: E=Sophos;i="4.97,556,1389740400"; 
+   d="scan'208";a="60632027"
+Received: from dhcp-rocq-28.inria.fr (HELO [128.93.62.28]) ([128.93.62.28])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/DHE-RSA-AES128-SHA; 27 Feb 2014 18:45:39 +0100
+Message-ID: <530F79C2.9040703@inria.fr>
+Date: Thu, 27 Feb 2014 18:45:38 +0100
+From: Gregory Batt <gregory.batt@inria.fr>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Cybergenetics: real-time feedback control of living cells - Mustafa
+ Khammash (ETHZ) - March 7 - Paris
+Dear all,
+Mustafa Khammash (Biosystems Science and Engineering Dept at ETH Zurich)
+will give a seminar entitled "Cybergenetics: real-time feedback control
+of living cells" on Friday, March 7 at 11am in the seminar room of the
+Matière et Systèmes Complexes lab (Condorcet Building, Paris Diderot
+University).
+The abstract and a short bio is enclosed below. Note that his talk will
+be followed by my HDR defense (2pm).
+Best regards,
+Gregory
+----------------
+Abstract:
+Wiener envisioned a science where the study of control and communication in
+ man and the machine can be unified. His Cybernetics, or the art of steerin
+g, embodied this ambitious vision. Wiener's ideas predated the discovery of
+ DNA and the subsequent biology revolution, and his cybernetic examples wer
+e inevitably limited to known physiological control systems at the scale of
+ the organism. Today, the confluence of modern genetic manipulation techniq
+ues, powerful experimental measurement technologies, and advanced analysis 
+and computational methodologies is making it possible to achieve real-time 
+feedback control of living cells at the gene level. We refer to this nascen
+t area of research Cybergenetics.  This presentation will describe novel an
+alytical and experimental work that demonstrates how de novo control system
+s  can be interfaced with living cells and used to control their behaviour.
+ We will draw comparisons with endogenous feedback control systems in biolo
+gy as well as with engineered control systems in technology.
+Short Bio:
+Mustafa Khammash is the Professor of Control Theory and Systems Biology at 
+the Department of Biosystems Science and Engineering (D-BSSE) at the Swiss 
+Federal Institute of Technology in Zurich (ETH).  He received his PhD in co
+ntrol theory at Rice University, Houston in 1990. From 1990 till 2001, he w
+as on the faculty of Electrical Engineering at Iowa State University, Ames,
+ Iowa. In 2001 he joined the Mechanical Engineering Department at the Unive
+rsity of California at Santa Barbara (UCSB) where he served as the Director
+ of the Center for Control, Dynamical systems, and Computations (CCDC) from
+ 2006 till he joined ETH in 2011.
+Working at the interface of systems biology, synthetic biology, and control
+ theory, Khammash develops novel computational methods for the modeling, si
+mulation, analysis, and control of biological networks. In the area of syst
+ems biology, he utilizes these methods for reverse engineering biological c
+omplexity, with particular interest in understanding the role of dynamics, 
+feedback, and randomness in endogenous biological circuits. In the area of 
+synthetic biology, his research focuses on creating the mathematical founda
+tion and necessary tools for the robust control of living cells.
+Khammash is a Fellow of the IEEE, IFAC, and the Japan Society for the Promo
+tion of Science (JSPS). He is the recipient of the National Science Foundat
+ion Young Investigator Award, the Iowa State University Foundation Early Ac
+hievement in Research and Scholarship Award, the ISU College of Engineering
+ Young Faculty Research Award, and the Ralph Budd Best Engineering PhD Thes
+is Award.
+http://www.bsse.ethz.ch/ctsb/people/people_PI/khammash
+--
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Gregory Batt                            INRIA, Rocquencourt, France
+                                                   +33 1 39 63 53 77
+Gregory.Batt@inria.fr               http://www-rocq.inria.fr/~batt/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D

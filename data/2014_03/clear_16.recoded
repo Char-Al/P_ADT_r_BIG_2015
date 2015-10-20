@@ -1,0 +1,73 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <prvs=13484e297=Gael.Millot@curie.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 80A9026801D
+	for <bioinfo@sfbi.fr>; Wed,  5 Mar 2014 21:47:45 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArkBABSMF1OBrzsknGdsb2JhbABag0FXwicWDgEBAQEBCAsJCRQogiYBAQQ6BgEBOA8CASoUEDIlAQEEEwiHcQQJrUeEVQEFnEURBo1vEQGDe4EUmXOSaIE+gXE5
+X-IronPort-AV: E=Sophos;i="4.97,594,1389740400"; 
+   d="scan'208";a="62965443"
+Received: from cip02-in.curie.u-psud.fr ([129.175.59.36])
+  by a-mx1.relay.syrhano.net with ESMTP; 05 Mar 2014 21:47:45 +0100
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=curie.fr; i=@curie.fr; q=dns/txt; s=cip;
+  t=1394052464; x=1425588464;
+  h=from:to:subject:date:message-id:references:in-reply-to:
+   content-transfer-encoding:mime-version;
+  bh=in8d4KMdG+AxUvQLrUG1SzP25G+0Ouf/Cs15ldrzjvA=;
+  b=VXa+Fv0/9/qRjqsNjLoEiR1Z6rT1hnuDknYsY0QfnsR3MEiN6l0VVu1a
+   KtTXM4w/f/UdiuuAnkLrDhv5gUDitg==;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgwFAP+MF1MKAgBH/2dsb2JhbABagwY7V8ENgRoWdIImAQEEOk8CAQUlFBAyJQEBBBMIh3UJzmgXjW8RAR84gySBFASZb5B5gW+BPjyBNTk
+X-IPAS-Result: AgwFAP+MF1MKAgBH/2dsb2JhbABagwY7V8ENgRoWdIImAQEEOk8CAQUlFBAyJQEBBBMIh3UJzmgXjW8RAR84gySBFASZb5B5gW+BPjyBNTk
+X-IronPort-AV: E=Sophos;i="4.97,594,1389740400"; 
+   d="scan'208";a="1211795"
+Received: from mbxparis02.curie.fr (HELO curie.fr) ([10.2.0.71])
+  by cip02-in.curie.u-psud.fr with ESMTP; 05 Mar 2014 21:47:43 +0100
+Received: from MBXPARIS01.recherche.curie.fr ([169.254.1.184]) by
+ mbxparis02.recherche.curie.fr ([192.168.181.11]) with mapi id 14.01.0289.001;
+ Wed, 5 Mar 2014 21:47:43 +0100
+From: Millot Gael <Gael.Millot@curie.fr>
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Thread-Topic: 3eme edition du livre "Comprendre et realiser les tests
+ statistiques a l'aide de R"
+Thread-Index: Ac84jwEx/YYIbLSqQK+t6EpsEoetvAAJPzqO
+Date: Wed, 5 Mar 2014 20:47:42 +0000
+Message-ID: <D62EEDC839E38446B9F9378AFA4408E97732F22B@mbxparis01.recherche.curie.fr>
+References: <D62EEDC839E38446B9F9378AFA4408E97732EBA6@mbxparis01.recherche.curie.fr>
+In-Reply-To: <D62EEDC839E38446B9F9378AFA4408E97732EBA6@mbxparis01.recherche.curie.fr>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [193.49.205.29]
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] 3eme edition du livre "Comprendre et realiser les tests
+ statistiques a l'aide de R"
+Bonjour.
+Pour ceux que cela interesse, la troisieme edition du livre "Comprendre et 
+realiser les tests statistiques a l'aide de R" vient de paraitre. Elle cont
+ient toutes les corrections qui etaient mises en ligne. Elle exploite la de
+rniere version de R (3.0.2). De nombreux points ont ete ajoutes, tant sur R
+ que sur les stats (39 pages supplementaires).
+Toutes les infos sur ce site :
+http://perso.curie.fr/Gael.Millot/Publications_livre.htm
+Bien a vous.
+Gael Millot.
+Gael Millot
+UMR 3244 (IC-CNRS-UPMC) et Universite Pierre et Marie Curie
+Equipe Recombinaison et instabilite genetique
+Pav Trouillet Rossignol 5eme etage
+Institut Curie
+26 rue d'Ulm
+75248 Paris Cedex 05
+FRANCE
+tel : 33 1 56 24 66 34
+fax : 33 1 56 24 66 44
+Email : gael.millot@curie.fr
+http://perso.curie.fr/Gael.Millot/index.html
