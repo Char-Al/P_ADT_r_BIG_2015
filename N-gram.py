@@ -6,9 +6,9 @@ from nltk import bigrams
 from nltk import trigrams
 
 
-w = argv[1]
+#w = argv[1]
 # w nombre de caracteres/mots pris en compte
-mail = argv[2]
+#mail = argv[2]
 # mail 
 
 #pouvoir le rammener par argument (via se qu charles fait)
@@ -22,22 +22,22 @@ tempor lacus, quis pellentesque diam"""
 # split the texts into tokens
 tokens = nltk.word_tokenize(text)
 tokens = [token.lower() for token in tokens if len(token) > 1] #same as unigrams (vire la ponctuation et les majuscules, vire tokens qui font moins d'une lettre pas forcement le bon moyen (on va perdre le "a" et "a" avec l'acent et d'autre))
-print tokens
-print "##################"
+print (tokens)
+print ("##################")
 
-#est-ce vraiment ce qu'on veut? Car dans le cour la fenetre glissante commence un caractère(vide) avant le premier du text
+#est-ce vraiment ce qu'on veut? Car dans le cour la fenetre glissante commence un caractere(vide) avant le premier du text
 bi_tokens = list(bigrams(tokens))
 print (bi_tokens)
-print "##################"
-print [(item, bi_tokens.count(item)) for item in sorted(set(bi_tokens))]
-print "##################"
-print "##################"
+print ("##################")
+print ([(item, bi_tokens.count(item)) for item in sorted(set(bi_tokens))])
+print ("##################")
+print ("##################")
 tri_tokens = list(trigrams(tokens))
-print tokens
-print "##################"
+print (tokens)
+print ("##################")
 print (tri_tokens)
-print "##################"
-print [(item, tri_tokens.count(item)) for item in sorted(set(tri_tokens))]
+print ("##################")
+print ([(item, tri_tokens.count(item)) for item in sorted(set(tri_tokens))])
 
 
 
@@ -50,7 +50,7 @@ print [(item, tri_tokens.count(item)) for item in sorted(set(tri_tokens))]
 
 
 
-
+"""
 
 
 #fonction pour separe un texte par tokens (pb des ponctuations et pas terri)
@@ -100,3 +100,5 @@ def N_grams(token,w):
 
 #def N_gram_count(ngram):
 	#soit faire une fonction pour compter les grams soit le faire en meme temps que lorsqu'on construit les grams avec la fonction precedente
+
+	"""
