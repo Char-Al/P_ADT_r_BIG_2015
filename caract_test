@@ -1,0 +1,66 @@
+#!/usr/bin/env python2.7
+# -*- coding: utf-8 -*-
+
+
+import nltk
+
+from nltk.tokenize import word_tokenize
+from nltk.util import ngrams
+from nltk import bigrams
+from nltk import trigrams
+
+
+
+#pouvoir le rammener par argument (via se qu charles fait)
+text="""Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ornare
+tempor lacus, quis pellentesque diam tempus vitae. Morbi justo mauris,
+congue sit amet imperdiet ipsum dolor sit amet, consectetur adipiscing elit. Nullam ornare
+tempor lacus, quis pellentesque diam."""
+
+text2 = """Jean a mangé le chat. Charles est trop fort. La voiture coûte très cher. 
+La voiture est trop belle. En plus, Charles est trop bon conducteur"""
+
+
+
+#test fonction n-gram pour les mots(prend ponct en compte)
+def get_worlds_ngrams(text, n):
+    n_grams = ngrams(word_tokenize(text), n)
+    #return list(n_grams)
+    return [ ' '.join(grams) for grams in n_grams]
+    
+
+
+
+
+
+"""#test fonction  n-gram pour les c
+def get_charac_ngrams(text, n):
+	n_grams = ngrams(word_tokenize(text), n)
+    return [ ' '.join(grams) for grams in n_grams]
+"""
+
+
+#Avoir le nombre d'occurence des n_grams
+#NE FONCTIONNE PAS PUTAIN !!!!!
+def get_occurenses(n_grams):
+	return [(item, gram.count(item)) for item in sorted(set(gram))]
+
+
+
+
+#calcul Rappel et precision
+#Pas encore testée
+def metrics(lstcomp, lstref) :
+    card_intersec = 0.0 # force à utiliser la division non entière
+    for t in set(lstcomp) :
+        card_intersec += min(lstref.count(t), lstcomp.count(t))
+    precision = card_intersec/len(lstcomp)
+    rappel = card_intersec/len(lstref)
+    return (precision, rappel)
+
+
+
+
+#main
+print (get_worlds_ngrams(text2, 2))
+print (get_occurenses(get_worlds_ngrams(text2, 2)))
