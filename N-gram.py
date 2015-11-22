@@ -1,6 +1,7 @@
 import nltk
 import os
 
+from nltk.tokenize import word_tokenize
 from nltk.util import ngrams
 from nltk import bigrams
 from nltk import trigrams
@@ -49,6 +50,14 @@ print ([(item, tri_tokens.count(item)) for item in sorted(set(tri_tokens))])
 #print [(item, tri_tokens.count(item)) for item in sorted(set(tri_tokens))]
 
 
+
+
+
+def get_ngrams(text, n):
+    n_grams = ngrams(word_tokenize(text), n)
+    return [ ' '.join(grams) for grams in n_grams]
+
+print get_ngrams(text, 3)
 
 """
 
