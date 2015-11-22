@@ -8,6 +8,11 @@ from nltk.util import ngrams
 from nltk import bigrams
 from nltk import trigrams
 
+from nltk.tokenize import RegexpTokenizer
+from nltk.tokenize import word_tokenize
+from nltk.tokenize import regexp_tokenize
+
+import re
 from collections import Counter
 
 learning_latin="""Praesent in magna neque. Donec sed placerat sem. Phasellus sapien velit, blandit id lectus non, dapibus scelerisque lorem. Cras at congue odio, sollicitudin ornare velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec scelerisque, neque non convallis venenatis, nisi ex volutpat nisl, sed placerat risus augue ut erat. Phasellus volutpat pharetra nulla, non blandit odio fermentum in. Curabitur pulvinar ut massa et congue. In at nibh faucibus nisi dictum maximus ultricies et nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
@@ -32,64 +37,35 @@ test_latin="""Sed in tempus metus, blandit gravida libero. Duis sit amet risus i
 
 test_english="""Two years after graduating, Obama was hired in Chicago as director of the Developing Communities Project, a church-based community organization originally comprising eight Catholic parishes in Roseland, West Pullman, and Riverdale on Chicago's South Side. He worked there as a community organizer from June 1985 to May 1988."""
 
+	
+def tokenisation_MH(text):
+	reg = re.compile('[0-9\W]+', re.UNICODE)
 
-# Tokenisation of the differents text (learning and test, latin and english)
-tokens_learning_latin = list(nltk.word_tokenize(learning_latin.lower()))
-tokens_learning_english = list(nltk.word_tokenize(learning_english.lower()))
-
-tokens_test_latin = list(nltk.word_tokenize(test_latin))
-tokens_test_english = list(nltk.word_tokenize(test_english))
-
-# Make the bigrams for english text
-
-bi_test_english = list(bigrams(tokens_test_english))
-
-myFreqDist = Counter(bi_test_english)
-dict_english_test= dict()
-for word, freq in myFreqDist.items():
-	dict_english_test[word]=freq
-
-
-bi_learning_english = list(bigrams(tokens_learning_english))
-
-myFreqDist = Counter(bi_learning_english)
-dict_english_learning= dict()
-for word, freq in myFreqDist.items():
-	dict_english_learning[word]=freq
-
-for item in dict_english_test.keys():
-	if item in dict_english_learning:
-		print item
+	text_preprocess = text.decode('utf-8').lower()
+	text_proper = ""
+	tokens = list()
+	for item in re.split(reg,text_preprocess):
+		tokens.append(item.encode('utf-8', errors='replace'))
+		text_proper += item + " "
+	return tokens,text_proper
+	
+tok, proper = tokenisation_MH(learning_latin)
+print tok
+print proper
 
 
-# Make the bigrams for latin text
+with open('file.txt','w') as FILE:
+	FILE.write(proper)
 
-bi_test_latin = list(bigrams(tokens_test_latin))
+def cutByN(text,n):
+	listCutOff = list()
+	for i in range(len(text)-n+1):
+		foo = text[i:i+n]
+		listCutOff.append(foo)
+	return listCutOff
 
-myFreqDist = Counter(bi_test_latin)
-dict_latin_test= dict()
-for word, freq in myFreqDist.items():
-	dict_latin_test[word]=freq
-
-
-bi_learning_latin = list(bigrams(tokens_learning_latin))
-
-myFreqDist = Counter(bi_learning_latin)
-dict_latin_learning= dict()
-for word, freq in myFreqDist.items():
-	dict_latin_learning[word]=freq
-
-for item in dict_latin_test.keys():
-	if item in dict_latin_learning:
-		print item
-
-
-
-#print ([(item, bi_learning_english.count(item)) for item in sorted(set(bi_learning_english))])
-
-
-
-
+listCut = cutByN(proper,150)
+print listCut
 
 
 
