@@ -43,6 +43,7 @@ class NGram():
 			self.__cutByNWords(text)
 		else:
 			self.__cutByNCharacters(text)
+		self.__makeDictNGrams()
 		
 		
 		
@@ -58,6 +59,9 @@ class NGram():
 			cutOf = text[i:i+self.n]
 			listCutOff.append(cutOf)
 		self.ngrams=listCutOff
+
+	def __makeDictNGrams(self):
+		self.countNGrams = ([(item, self.ngrams.count(item)) for item in sorted(set(self.ngrams))])
 		
 
 
@@ -77,23 +81,23 @@ print NG5W.ngrams
 print "====================\nN-grams de lettres de taille 5:"
 NG5C = NGram(test.proper_text,5,False)
 print NG5C.ngrams
-print Counter(NG5C.ngrams)
+print NG5C.countNGrams
 
 
-print ([(item, NG5C.ngrams.count(item)) for item in sorted(set(NG5C.ngrams))])
+
 
 class Learning(NGram):
-	"""classe d'apprentissage qui hérite de la classe NGram"""
+	#"""classe d'apprentissage qui hérite de la classe NGram"""
 
 	ngrams   = {} # n-grams stocké dans un dictionnaire
-	num        = len(nom.ngrams)  # nombre de n-grams
+	#num        = len(nom.ngrams)  # nombre de n-grams
 	characters = 0  # nombre de caractères
 
 
-"####### Méthode Naives #######"
+	######## Méthode Naives #######
 
 	def NaiveBayes():
-		"""Méthode de Naives Bayes, probabilité conditionnelle d'observer des caractèristique dans un texte, ici les fréquences d'apparitiond des n-grams"""
+		#"""Méthode de Naives Bayes, probabilité conditionnelle d'observer des caractèristique dans un texte, ici les fréquences d'apparitiond des n-grams"""
 		#faire le gram (utilisation méthode class gram)
 
 		#faire calcul de stat (utilisation méthode de cette class)
@@ -114,16 +118,6 @@ class Learning(NGram):
 				value = self.ngrams[x]
 				del self.ngrams[x]
 				self.num -= value
-
-
-
-
-"####### Methode de Markov caché #######"
-
-	def HMM():
-		"""Méthode stochastique"""
-		pass
-
 
 
 
