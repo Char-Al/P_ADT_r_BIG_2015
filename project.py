@@ -61,8 +61,69 @@ class NGram():
 		self.ngrams=listCutOff
 
 	def __makeDictNGrams(self):
-		self.countNGrams = ([(item, self.ngrams.count(item)) for item in sorted(set(self.ngrams))])
+		self.countNGrams = {}
+		for item in sorted(set(self.ngrams)):
+			self.countNGrams[item] = self.ngrams.count(item)
+		#self.countNGrams = ([(item, self.ngrams.count(item)) for item in sorted(set(self.ngrams))])
 		
+
+
+
+
+
+class Learning():
+
+	#classe d'apprentissage qui hérite de la classe NGram
+
+	#"""classe d'apprentissage qui hérite de la classe NGram"""
+
+
+	ngrams   = {} # n-grams stocké dans un dictionnaire
+	num        = 0  # nombre de n-grams
+	word = bool  # nombre de caractères
+	language = ""
+	ngramPourcentage = {}
+
+	def __init__(self,learnNGrams,lang):
+		self.ngrams = learnNGrams.countNGrams
+		self.num = len(learnNGrams.ngrams)
+		self.characters = learnNGrams.word
+		self.language = lang
+		self.calcProb()
+
+
+	######## Méthode Naives #######
+
+	def NaiveBayes():
+		#"""Méthode de Naives Bayes, probabilité conditionnelle d'observer des caractèristique dans un texte, ici les fréquences d'apparitiond des n-grams"""
+
+		#faire le gram (utilisation méthode class gram)
+
+		#faire calcul de stat (utilisation méthode de cette class)
+
+		pass
+		
+
+	def calcProb(self):
+		#Calcule la probabilité de chaque n-grams
+		for x in self.ngrams.keys():
+			self.ngramPourcentage[x] = float(self.ngrams[x]) / float(self.num)
+
+
+	def eliminateFrequences(self, num):
+		#Elimine tous les ngrams avec une fréquence <= num
+		for x in self.ngramPourcentage.keys():
+			if self.ngramPourcentage[x] <= num:
+				value = self.ngramPourcentage[x]
+				del self.ngramPourcentage[x]
+				self.num -= value
+
+######## Methode de Markov caché ########
+
+	def HMM():
+		#Méthode stochastique
+		pass
+
 
 
 
@@ -85,76 +146,11 @@ print NG5C.countNGrams
 
 
 
+print "====================\n====================\n====================\n====================\nLearning"
+testLearn = Learning(NG5C,"french")
 
-class Learning(NGram):
-
-	#classe d'apprentissage qui hérite de la classe NGram
-
-	#"""classe d'apprentissage qui hérite de la classe NGram"""
-
-
-	ngrams   = {} # n-grams stocké dans un dictionnaire
-	#num        = len(nom.ngrams)  # nombre de n-grams
-	characters = 0  # nombre de caractères
-
-
-
-######## Méthode Naives ########
-
-	def NaiveBayes():
-		#Méthode de Naives Bayes, probabilité conditionnelle d'observer des caractèristique dans un texte, ici les fréquences d'apparitiond des n-grams
-
-	######## Méthode Naives #######
-
-	def NaiveBayes():
-		#"""Méthode de Naives Bayes, probabilité conditionnelle d'observer des caractèristique dans un texte, ici les fréquences d'apparitiond des n-grams"""
-
-		#faire le gram (utilisation méthode class gram)
-
-		#faire calcul de stat (utilisation méthode de cette class)
-
-		pass
-		
-
-	def calcProb(self):
-		#Calcule la probabilité de chaque n-grams
-		self.ngramPourcentage = {}
-		for x in self.ngrams.keys():
-			self.ngramPourcentage[x] = float(self.ngrams[x]) / float(self.num)
-
-
-	def eliminateFrequences(self, num):
-		#Elimine tous les ngrams avec une fréquence <= num
-		for x in self.ngramPourcentage.keys():
-			if self.ngramPourcentage[x] <= num:
-				value = self.ngramPourcentage[x]
-				del self.ngramPourcentage[x]
-				self.num -= value
-
-
-
-<<<<<<< HEAD
-######## Methode de Markov caché ########
-
-	def HMM():
-		#Méthode stochastique
-		pass
-
-
-
-
-=======
->>>>>>> b11313761e6d769cf5c0e13a68e31391d892f7aa
-
-
-
-
-
-
-
-
-
-
+for w in sorted(testLearn.ngramPourcentage, key=testLearn.ngramPourcentage.get, reverse=True):
+  print w, testLearn.ngramPourcentage[w]
 
 
 
