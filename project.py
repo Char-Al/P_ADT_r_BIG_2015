@@ -36,7 +36,6 @@ class text():
 				self.proper_text += item + " "
 
 class NGram():
-	
 	def __init__(self,text,n,word):
 		self.n = n
 		self.word = word
@@ -46,18 +45,20 @@ class NGram():
 			self.__cutByNCharacters(text)
 		
 		
+		
 	# Make the N-Gram
 	#	- by words
 	def __cutByNWords(self,text):
 		n_grams = ngrams(word_tokenize(text), self.n)
-    		self.ngram=[ ' '.join(grams) for grams in n_grams]
+    		self.ngrams=[ ' '.join(grams) for grams in n_grams]
 	# 	- by characters
 	def __cutByNCharacters(self,text):
 		listCutOff = list()
 		for i in range(len(text)-self.n+1):
 			cutOf = text[i:i+self.n]
 			listCutOff.append(cutOf)
-		self.ngram=listCutOff
+		self.ngrams=listCutOff
+		
 
 
 
@@ -70,15 +71,16 @@ print "====================\n====================\nTexte nettoyé :"
 print test.proper_text
 print "====================\nListe des tokens :"
 print test.tokens
-NG5W = NGram(test.proper_text,5,True)
 print "====================\n====================\nN-grams de mots de taille 5:"
-print NG5W.ngram
+NG5W = NGram(test.proper_text,5,True)
+print NG5W.ngrams
 print "====================\nN-grams de lettres de taille 5:"
 NG5C = NGram(test.proper_text,5,False)
-print NG5C.ngram
+print NG5C.ngrams
+print Counter(NG5C.ngrams)
 
 
-
+print ([(item, NG5C.ngrams.count(item)) for item in sorted(set(NG5C.ngrams))])
 
 
 
