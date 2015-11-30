@@ -87,28 +87,28 @@ print NG5C.countNGrams
 
 
 class Learning(NGram):
-<<<<<<< HEAD
+
 	#classe d'apprentissage qui hérite de la classe NGram
-=======
+
 	#"""classe d'apprentissage qui hérite de la classe NGram"""
->>>>>>> b11313761e6d769cf5c0e13a68e31391d892f7aa
+
 
 	ngrams   = {} # n-grams stocké dans un dictionnaire
 	#num        = len(nom.ngrams)  # nombre de n-grams
 	characters = 0  # nombre de caractères
 
 
-<<<<<<< HEAD
+
 ######## Méthode Naives ########
 
 	def NaiveBayes():
 		#Méthode de Naives Bayes, probabilité conditionnelle d'observer des caractèristique dans un texte, ici les fréquences d'apparitiond des n-grams
-=======
+
 	######## Méthode Naives #######
 
 	def NaiveBayes():
 		#"""Méthode de Naives Bayes, probabilité conditionnelle d'observer des caractèristique dans un texte, ici les fréquences d'apparitiond des n-grams"""
->>>>>>> b11313761e6d769cf5c0e13a68e31391d892f7aa
+
 		#faire le gram (utilisation méthode class gram)
 
 		#faire calcul de stat (utilisation méthode de cette class)
