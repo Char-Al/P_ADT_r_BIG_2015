@@ -322,9 +322,847 @@ Shakira served as the Honorary Chairperson for "Action Week" 2008 (April 21–27
 On December 7, 2009, Shakira was honored as a guest at the University of Oxford to give a speech about her work with children and education. She was chosen by the Oxford Union and joined the ranks of Albert Einstein, several US Presidents, Mother Teresa, and the Dalai Lama XIV, as a chosen speaker. During the speech, Shakira said, "That is how I want the youth of 2060 to see us: That our mission for global peace consisted of sending 30,000 educators to Afghanistan, not 30,000 soldiers. That in 2010, world education became more important than world domination."[167]
 
 In March 2010, she was awarded a medal by the UN International Labor Organization in recognition of being, as UN Labor Chief Juan Somavia put it, a "true ambassador for children and young people, for quality education and social justice."[168] In November 2010, after performing as the opening act of the MTV European Music Awards, the Colombian singer also received the MTV Free Your Mind award for her continuing dedication to improve access to education for all children around the world.[169] In February 2011, the FC Barcelona Foundation and Pies descalzos reached an agreement for children's education through sport.[170] On October 5, 2011, US President Barack Obama announced that Shakira was appointed as a member of the White House Initiative on Educational Excellence for Hispanics.[171] Shakira was honored at the Latin Grammys as the Latin Recording Academy Person of the Year on November 9, 2011, for her philanthropy and contributions to Latin Music.[172]
+Wiki Loves Africa: share African cultural fashion and adornment pictures with the world!
+This is a featured article. Click here for more information.
+Page semi-protected
+Listen to this article
+Barack Obama
+From Wikipedia, the free encyclopedia
+"Barack" and "Obama" redirect here. For his father, see Barack Obama, Sr.. For other uses of "Barack", see Barack (disambiguation). For other uses of "Obama", see Obama (disambiguation).
+Barack Obama
+President Barack Obama.jpg
+44th President of the United States
+Incumbent
+Assumed office
+January 20, 2009
+Vice President 	Joe Biden
+Preceded by 	George W. Bush
+United States Senator
+from Illinois
+In office
+January 3, 2005 – November 16, 2008
+Preceded by 	Peter Fitzgerald
+Succeeded by 	Roland Burris
+Member of the Illinois Senate
+from the 13th district
+In office
+January 8, 1997 – November 4, 2004
+Preceded by 	Alice Palmer
+Succeeded by 	Kwame Raoul
+Personal details
+Born 	Barack Hussein Obama II
+August 4, 1961 (age 54)
+Honolulu, Hawaii, U.S.
+Nationality 	American
+Political party 	Democratic
+Spouse(s) 	Michelle Robinson (m. 1992)
+Children 	Malia (b. 1998)
+Sasha (b. 2001)
+Residence 	White House
+Education 	Punahou School
+Alma mater 	
+
+    Occidental College
+    Columbia University (B.A.)
+    Harvard Law School (J.D.)
+
+Religion 	Protestantism (see details)[1]
+Awards 	Nobel Prize.png Nobel Peace Prize (2009)
+Signature 	
+Website 	barackobama.com
+President Barack Obama, 2012 portrait crop.jpg 	This article is part of a series about
+Barack Obama
+
+    Early life and career 
+
+    Illinois Senate U.S. Senate 
+
+    2008 Democratic primaries 
+
+    Political positions Public image Family 
+
+President of the United States
+Incumbent
+
+First Term
+
+    Campaign for the Presidency
+        2008 
+
+    Transition 1st inauguration Presidency 
+
+    First 100 days Nobel Peace Prize Affordable Care Act Iraq Withdrawal 
+
+        Timeline: '09 '10 '11 '12 
+
+Policies 
+[show]
+
+Second Term
+
+    Reelection
+        2012 Reactions 
+
+    2nd inauguration Presidency Immigration executive action Iran Deal Cuban Thaw 
+
+        Timeline: '13 '14 '15 
+
+    Electoral history The Audacity of Hope Planned Library 
+
+Barack Obama signature.svg
+
+President of the United States
+
+    v t e 
+
+Barack Hussein Obama II (US Listeni/bəˈrɑːk huːˈseɪn ɵˈbɑːmə/; born August 4, 1961) is the 44th and current President of the United States, as well as the first African American to hold the office. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he served as president of the Harvard Law Review. He was a community organizer in Chicago before earning his law degree. He worked as a civil rights attorney and taught constitutional law at University of Chicago Law School between 1992 and 2004. He served three terms representing the 13th District in the Illinois Senate from 1997 to 2004, running unsuccessfully for the United States House of Representatives in 2000 against Bobby Rush.
+
+In 2004, Obama received national attention during his campaign to represent Illinois in the United States Senate with his victory in the March Democratic Party primary, his keynote address at the Democratic National Convention in July, and his election to the Senate in November. He began his presidential campaign in 2007 and, after a close primary campaign against Hillary Rodham Clinton in 2008, he won sufficient delegates in the Democratic Party primaries to receive the presidential nomination. He then defeated Republican nominee John McCain in the general election, and was inaugurated as president on January 20, 2009. Nine months after his inauguration, Obama was named the 2009 Nobel Peace Prize laureate.
+
+During his first two years in office, Obama signed into law economic stimulus legislation in response to the Great Recession in the form of the American Recovery and Reinvestment Act of 2009 and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010. Other major domestic initiatives in his first term included the Patient Protection and Affordable Care Act, often referred to as "Obamacare"; the Dodd–Frank Wall Street Reform and Consumer Protection Act; and the Don't Ask, Don't Tell Repeal Act of 2010. In foreign policy, Obama ended U.S. military involvement in the Iraq War, increased U.S. troop levels in Afghanistan, signed the New START arms control treaty with Russia, ordered U.S. military involvement in Libya in opposition to Muammar Gaddafi, and ordered the military operation that resulted in the death of Osama bin Laden. In January 2011, the Republicans regained control of the House of Representatives as the Democratic Party lost a total of 63 seats; and, after a lengthy debate over federal spending and whether or not to raise the nation's debt limit, Obama signed the Budget Control Act of 2011 and the American Taxpayer Relief Act of 2012.
+
+Obama was reelected president in November 2012, defeating Republican nominee Mitt Romney, and was sworn in for a second term on January 20, 2013. During his second term, Obama has promoted domestic policies related to gun control in response to the Sandy Hook Elementary School shooting, and has called for greater inclusiveness for LGBT Americans, while his administration has filed briefs which urged the Supreme Court to strike down part of the federal Defense of Marriage Act and state level same-sex marriage bans as unconstitutional. In foreign policy, Obama ordered U.S. military intervention in Iraq in response to gains made by the Islamic State after the 2011 withdrawal from Iraq, continued the process of ending U.S. combat operations in Afghanistan, and normalized U.S. relations with Cuba.
+
+Contents
+
+    1 Early life and career
+        1.1 Community organizer and Harvard Law School
+        1.2 University of Chicago Law School and civil rights attorney
+    2 Legislative career, 1997–2008
+        2.1 Illinois State Senator (1997–2004)
+        2.2 2004 U.S. Senate campaign
+        2.3 U.S. Senator from Illinois (2005–08)
+            2.3.1 Legislation
+            2.3.2 Committees
+    3 Presidential campaigns
+        3.1 2008 presidential campaign
+        3.2 2012 presidential campaign
+    4 Presidency (2009–present)
+        4.1 First days
+        4.2 Domestic policy
+            4.2.1 LGBT rights
+            4.2.2 White House advisory and oversight groups
+            4.2.3 Economic policy
+            4.2.4 Environmental policy
+            4.2.5 Health care reform
+            4.2.6 Energy policy
+            4.2.7 Gun control
+            4.2.8 2010 midterm elections
+            4.2.9 Cybersecurity and Internet policy
+        4.3 Foreign policy
+            4.3.1 War in Iraq
+            4.3.2 War in Afghanistan
+            4.3.3 Israel
+            4.3.4 War in Libya
+            4.3.5 Osama bin Laden
+            4.3.6 Iran nuclear talks
+            4.3.7 Relations with Cuba
+            4.3.8 Africa
+    5 Cultural and political image
+    6 Family and personal life
+        6.1 Religious views
+    7 Notes and references
+        7.1 Notes
+        7.2 References
+        7.3 Further reading
+    8 External links
+
+Early life and career
+Main articles: Family of Barack Obama and Early life and career of Barack Obama
+
+Obama was born on August 4, 1961,[2] at Kapiʻolani Maternity & Gynecological Hospital (now Kapiʻolani Medical Center for Women and Children) in Honolulu, Hawaii,[3][4][5] and would become the first President to have been born in Hawaii.[6] His mother, Stanley Ann Dunham, born in Wichita, Kansas, was of mostly English ancestry.[7] His father, Barack Obama, Sr., was a Luo from Nyang’oma Kogelo, Kenya. Obama's parents met in 1960 in a Russian language class at the University of Hawaiʻi at Mānoa, where his father was a foreign student on scholarship.[8][9] The couple married in Wailuku on Maui on February 2, 1961,[10][11] and separated when, in late August 1961, Obama's mother moved with their newborn son to attend the University of Washington in Seattle for a year. During that time, Obama, Sr. completed his undergraduate economics degree in Hawaii in June 1962, then left to attend graduate school at Harvard University on a scholarship. Obama's parents divorced in March 1964.[12] Obama Sr. returned to Kenya in 1964 where he remarried; he visited Barack in Hawaii only once, in 1971.[13] He died in an automobile accident in 1982, his son being 21 years old at that time.[14]
+
+In 1963, Dunham met Lolo Soetoro, an Indonesian East–West Center graduate student in geography at the University of Hawaii, and the couple were married on Molokai on March 15, 1965.[15] After two one-year extensions of his J-1 visa, Lolo returned to Indonesia in 1966, followed sixteen months later by his wife and stepson in 1967, with the family initially living in a Menteng Dalam neighborhood in the Tebet subdistrict of south Jakarta, then from 1970 in a wealthier neighborhood in the Menteng subdistrict of central Jakarta.[16] From ages six to ten, Obama attended local Indonesian-language schools: St. Francis of Assisi Catholic School for two years and Besuki Public School for one and a half years, supplemented by English-language Calvert School homeschooling by his mother.[17][18]
+A young boy (preteen), a younger girl (toddler), a woman (about age thirty) and a man (in his mid-fifties) sit on a lawn wearing contemporary c.-1970 attire. The adults wear sunglasses and the boy wears sandals.
+Obama with his half-sister Maya Soetoro-Ng, mother Ann Dunham and grandfather Stanley Dunham, in Honolulu, Hawaii
+
+Obama returned to Honolulu in 1971 to live with his maternal grandparents, Madelyn and Stanley Dunham, and with the aid of a scholarship attended Punahou School, a private college preparatory school, from fifth grade until his graduation from high school in 1979.[19] Obama lived with his mother and sister in Hawaii for three years from 1972 to 1975 while his mother was a graduate student in anthropology at the University of Hawaii.[20] Obama chose to stay in Hawaii with his grandparents for high school at Punahou when his mother and sister returned to Indonesia in 1975 so his mother could begin anthropology field work.[21] His mother spent most of the next two decades in Indonesia, divorcing Lolo in 1980 and earning a PhD degree in 1992, before dying in 1995 in Hawaii following treatment for ovarian cancer and uterine cancer.[22]
+
+Of his early childhood, Obama recalled, "That my father looked nothing like the people around me—that he was black as pitch, my mother white as milk—barely registered in my mind."[9] He described his struggles as a young adult to reconcile social perceptions of his multiracial heritage.[23] Reflecting later on his years in Honolulu, Obama wrote: "The opportunity that Hawaii offered—to experience a variety of cultures in a climate of mutual respect—became an integral part of my world view, and a basis for the values that I hold most dear."[24] Obama has also written and talked about using alcohol, marijuana, and cocaine during his teenage years to "push questions of who I was out of my mind".[25] Obama was also a member of the "choom gang", a self-named group of friends that spent time together and occasionally smoked marijuana.[26][27]
+
+After high school, Obama moved to Los Angeles in 1979 to attend Occidental College. In February 1981, Obama made his first public speech, calling for Occidental to participate in the disinvestment from South Africa in response to that nation's policy of apartheid.[28] In mid-1981, Obama traveled to Indonesia to visit his mother and half-sister Maya, and visited the families of college friends in Pakistan and India for three weeks.[28] Later in 1981, he transferred as a junior to Columbia College, Columbia University, in New York City, where he majored in political science with a specialty in international relations[29] and lived off-campus on West 109th Street.[30] He graduated with a BA degree in 1983 and worked for a year at the Business International Corporation,[31] then at the New York Public Interest Research Group.[32][33] In 1985, Obama was among the leaders of May Day efforts to bring attention to the New York City Subway system, which was in a bad condition at the time. Obama traveled to several subway stations to get people to sign letters addressed to local officials and the Metropolitan Transportation Authority, and was photographed at the City College subway station holding a sign protesting against the system's condition.[34]
+Community organizer and Harvard Law School
+
+Two years after graduating, Obama was hired in Chicago as director of the Developing Communities Project, a church-based community organization originally comprising eight Catholic parishes in Roseland, West Pullman, and Riverdale on Chicago's South Side. He worked there as a community organizer from June 1985 to May 1988.[33][35] He helped set up a job training program, a college preparatory tutoring program, and a tenants' rights organization in Altgeld Gardens.[36] Obama also worked as a consultant and instructor for the Gamaliel Foundation, a community organizing institute.[37] In mid-1988, he traveled for the first time in Europe for three weeks and then for five weeks in Kenya, where he met many of his paternal relatives for the first time.[38][39] He returned to Kenya in 1992 with his fiancée Michelle and his half-sister Auma,[38][40] and again in August 2006 for a visit to his father's birthplace, a village near Kisumu in rural western Kenya.[41]
+
+Obama entered Harvard Law School in the fall of 1988. He was selected as an editor of the Harvard Law Review at the end of his first year,[42] president of the journal in his second year,[36][43] and research assistant to the constitutional scholar Laurence Tribe while at Harvard for two years.[44] During his summers, he returned to Chicago, where he worked as an associate at the law firms of Sidley Austin in 1989 and Hopkins & Sutter in 1990.[45] After graduating with a JD degree magna cum laude[46] from Harvard in 1991, he returned to Chicago.[42] Obama's election as the first black president of the Harvard Law Review gained national media attention[36][43] and led to a publishing contract and advance for a book about race relations,[47] which evolved into a personal memoir. The manuscript was published in mid-1995 as Dreams from My Father.[47]
+University of Chicago Law School and civil rights attorney
+
+In 1991, Obama accepted a two-year position as Visiting Law and Government Fellow at the University of Chicago Law School to work on his first book.[47][48] He then taught constitutional law at the University of Chicago Law School for twelve years, first as a Lecturer from 1992 to 1996, and then as a Senior Lecturer from 1996 to 2004.[49]
+
+From April to October 1992, Obama directed Illinois's Project Vote, a voter registration campaign with ten staffers and seven hundred volunteer registrars; it achieved its goal of registering 150,000 of 400,000 unregistered African Americans in the state, leading Crain's Chicago Business to name Obama to its 1993 list of "40 under Forty" powers to be.[50]
+
+He joined Davis, Miner, Barnhill & Galland, a 13-attorney law firm specializing in civil rights litigation and neighborhood economic development, where he was an associate for three years from 1993 to 1996, then of counsel from 1996 to 2004. In 1994, he was listed as one of the lawyers in Buycks-Roberson v. Citibank Fed. Sav. Bank, 94 C 4094 (N.D. Ill.).[51] This class action lawsuit was filed in 1994 with Selma Buycks-Roberson as lead plaintiff and alleged that Citibank Federal Savings Bank had engaged in practices forbidden under the Equal Credit Opportunity Act and the Fair Housing Act.[52] The case was settled out of court.[53] Final Judgment was issued on May 13, 1998 with Citibank Federal Savings Bank agreeing to pay attorney fees.[54] His law license became inactive in 2007.[55][56]
+
+From 1994 to 2002, Obama served on the boards of directors of the Woods Fund of Chicago, which in 1985 had been the first foundation to fund the Developing Communities Project, and of the Joyce Foundation.[33] He served on the board of directors of the Chicago Annenberg Challenge from 1995 to 2002, as founding president and chairman of the board of directors from 1995 to 1999.[33]
+Legislative career, 1997–2008
+Illinois State Senator (1997–2004)
+Main article: Illinois Senate career of Barack Obama
+Obama and others celebrate the naming of a street in Chicago after ShoreBank co-founder Milton Davis in 1998
+
+Obama was elected to the Illinois Senate in 1996, succeeding Democratic State Senator Alice Palmer as Senator from Illinois's 13th District, which at that time spanned Chicago South Side neighborhoods from Hyde Park–Kenwood south to South Shore and west to Chicago Lawn.[57] Once elected, Obama gained bipartisan support for legislation that reformed ethics and health care laws.[58] He sponsored a law that increased tax credits for low-income workers, negotiated welfare reform, and promoted increased subsidies for childcare.[59] In 2001, as co-chairman of the bipartisan Joint Committee on Administrative Rules, Obama supported Republican Governor Ryan's payday loan regulations and predatory mortgage lending regulations aimed at averting home foreclosures.[60]
+
+He was reelected to the Illinois Senate in 1998, defeating Republican Yesse Yehudah in the general election, and was reelected again in 2002.[61] In 2000, he lost a Democratic primary race for Illinois's 1st congressional district in the United States House of Representatives to four-term incumbent Bobby Rush by a margin of two to one.[62]
+
+In January 2003, Obama became chairman of the Illinois Senate's Health and Human Services Committee when Democrats, after a decade in the minority, regained a majority.[63] He sponsored and led unanimous, bipartisan passage of legislation to monitor racial profiling by requiring police to record the race of drivers they detained, and legislation making Illinois the first state to mandate videotaping of homicide interrogations.[59][64] During his 2004 general election campaign for U.S. Senate, police representatives credited Obama for his active engagement with police organizations in enacting death penalty reforms.[65] Obama resigned from the Illinois Senate in November 2004 following his election to the U.S. Senate.[66]
+2004 U.S. Senate campaign
+Main article: United States Senate election in Illinois, 2004
+County results of the 2004 U.S. Senate race in Illinois. Obama won the counties in blue.
+
+In May 2002, Obama commissioned a poll to assess his prospects in a 2004 U.S. Senate race; he created a campaign committee, began raising funds, and lined up political media consultant David Axelrod by August 2002. Obama formally announced his candidacy in January 2003.[67]
+
+Obama was an early opponent of the George W. Bush administration's 2003 invasion of Iraq.[68] On October 2, 2002, the day President Bush and Congress agreed on the joint resolution authorizing the Iraq War,[69] Obama addressed the first high-profile Chicago anti-Iraq War rally,[70] and spoke out against the war.[71] He addressed another anti-war rally in March 2003 and told the crowd that "it's not too late" to stop the war.[72]
+
+Decisions by Republican incumbent Peter Fitzgerald and his Democratic predecessor Carol Moseley Braun to not participate in the election resulted in wide-open Democratic and Republican primary contests involving fifteen candidates.[73] In the March 2004 primary election, Obama won in an unexpected landslide—which overnight made him a rising star within the national Democratic Party, started speculation about a presidential future, and led to the reissue of his memoir, Dreams from My Father.[74] In July 2004, Obama delivered the keynote address at the 2004 Democratic National Convention,[75] seen by 9.1 million viewers. His speech was well received and elevated his status within the Democratic Party.[76]
+
+Obama's expected opponent in the general election, Republican primary winner Jack Ryan, withdrew from the race in June 2004.[77] Six weeks later, Alan Keyes accepted the Republican nomination to replace Ryan.[78] In the November 2004 general election, Obama won with 70 percent of the vote.[79]
+U.S. Senator from Illinois (2005–08)
+Main article: United States Senate career of Barack Obama
+Obama in his official portrait as a member of the United States Senate
+
+Obama was sworn in as a senator on January 3, 2005,[80] becoming the only Senate member of the Congressional Black Caucus.[81] CQ Weekly characterized him as a "loyal Democrat" based on analysis of all Senate votes from 2005 to 2007. Obama announced on November 13, 2008, that he would resign his Senate seat on November 16, 2008, before the start of the lame-duck session, to focus on his transition period for the presidency.[82]
+Legislation
+See also: List of bills sponsored by Barack Obama in the United States Senate
+
+Obama cosponsored the Secure America and Orderly Immigration Act.[83] He introduced two initiatives that bore his name: Lugar–Obama, which expanded the Nunn–Lugar Cooperative Threat Reduction concept to conventional weapons;[84] and the Federal Funding Accountability and Transparency Act of 2006, which authorized the establishment of USAspending.gov, a web search engine on federal spending.[85] On June 3, 2008, Senator Obama—along with Senators Tom Carper, Tom Coburn, and John McCain—introduced follow-up legislation: Strengthening Transparency and Accountability in Federal Spending Act of 2008.[86]
+
+Obama sponsored legislation that would have required nuclear plant owners to notify state and local authorities of radioactive leaks, but the bill failed to pass in the full Senate after being heavily modified in committee.[87] Regarding tort reform, Obama voted for the Class Action Fairness Act of 2005 and the FISA Amendments Act of 2008, which grants immunity from civil liability to telecommunications companies complicit with NSA warrantless wiretapping operations.[88]
+Gray-haired man and Obama stand, wearing casual polo shirts. Obama wears sunglasses and holds something slung over his right shoulder.
+Obama and U.S. Sen. Richard Lugar (R-IN) visit a Russian facility for dismantling mobile missiles (August 2005)[89]
+
+In December 2006, President Bush signed into law the Democratic Republic of the Congo Relief, Security, and Democracy Promotion Act, marking the first federal legislation to be enacted with Obama as its primary sponsor.[90] In January 2007, Obama and Senator Feingold introduced a corporate jet provision to the Honest Leadership and Open Government Act, which was signed into law in September 2007.[91] Obama also introduced two unsuccessful bills: the Deceptive Practices and Voter Intimidation Prevention Act to criminalize deceptive practices in federal elections,[92] and the Iraq War De-Escalation Act of 2007.[93]
+
+Later in 2007, Obama sponsored an amendment to the Defense Authorization Act to add safeguards for personality-disorder military discharges.[94] This amendment passed the full Senate in the spring of 2008.[95] He sponsored the Iran Sanctions Enabling Act supporting divestment of state pension funds from Iran's oil and gas industry, which has not passed committee; and co-sponsored legislation to reduce risks of nuclear terrorism.[96] Obama also sponsored a Senate amendment to the State Children's Health Insurance Program, providing one year of job protection for family members caring for soldiers with combat-related injuries.[97]
+Committees
+
+Obama held assignments on the Senate Committees for Foreign Relations, Environment and Public Works and Veterans' Affairs through December 2006.[98] In January 2007, he left the Environment and Public Works committee and took additional assignments with Health, Education, Labor, and Pensions and Homeland Security and Governmental Affairs.[99] He also became Chairman of the Senate's subcommittee on European Affairs.[100] As a member of the Senate Foreign Relations Committee, Obama made official trips to Eastern Europe, the Middle East, Central Asia and Africa. He met with Mahmoud Abbas before Abbas became President of the Palestinian National Authority, and gave a speech at the University of Nairobi in which he condemned corruption within the Kenyan government.[101]
+Presidential campaigns
+2008 presidential campaign
+Main articles: United States presidential election, 2008, Barack Obama presidential primary campaign, 2008 and Barack Obama presidential campaign, 2008
+Photograph
+Obama stands on stage with his wife and daughters just before announcing his presidential candidacy in Springfield, Illinois, February 10, 2007
+
+On February 10, 2007, Obama announced his candidacy for President of the United States in front of the Old State Capitol building in Springfield, Illinois.[102][103] The choice of the announcement site was viewed as symbolic because it was also where Abraham Lincoln delivered his historic "House Divided" speech in 1858.[102][104] Obama emphasized issues of rapidly ending the Iraq War, increasing energy independence, and reforming the health care system,[105] in a campaign that projected themes of hope and change.[106]
+
+Numerous candidates entered the Democratic Party presidential primaries. The field narrowed to a duel between Obama and Senator Hillary Clinton after early contests, with the race remaining close throughout the primary process but with Obama gaining a steady lead in pledged delegates due to better long-range planning, superior fundraising, dominant organizing in caucus states, and better exploitation of delegate allocation rules.[107] On June 7, 2008, Clinton ended her campaign and endorsed Obama.[108]
+Photograph
+President George W. Bush meets with President-elect Obama in the Oval Office on November 10, 2008
+
+On August 23, Obama announced his selection of Delaware Senator Joe Biden as his vice presidential running mate.[109] Obama selected Biden from a field speculated to include former Indiana Governor and Senator Evan Bayh and Virginia Governor Tim Kaine.[110] At the Democratic National Convention in Denver, Colorado, Hillary Clinton called for her supporters to endorse Obama, and she and Bill Clinton gave convention speeches in his support.[111] Obama delivered his acceptance speech, not at the center where the Democratic National Convention was held, but at Invesco Field at Mile High to a crowd of over 75,000; the speech was viewed by over 38 million people worldwide.[112][113]
+
+During both the primary process and the general election, Obama's campaign set numerous fundraising records, particularly in the quantity of small donations.[114] On June 19, 2008, Obama became the first major-party presidential candidate to turn down public financing in the general election since the system was created in 1976.[115]
+
+John McCain was nominated as the Republican candidate, and the two engaged in three presidential debates in September and October 2008.[116] On November 4, Obama won the presidency with 365 electoral votes to 173 received by McCain.[117] Obama won 52.9 percent of the popular vote to McCain's 45.7 percent.[118] He became the first African American to be elected president.[119] Obama delivered his victory speech before hundreds of thousands of supporters in Chicago's Grant Park.[120]
+2012 presidential campaign
+Main articles: United States presidential election, 2012 and Barack Obama presidential campaign, 2012
+Former Governor Mitt Romney and President Barack Obama shake hands in the Oval Office on November 29, 2012, following their first meeting since President Obama's reelection
+
+On April 4, 2011, Obama announced his reelection campaign for 2012 in a video titled "It Begins with Us" that he posted on his website and filed election papers with the Federal Election Commission.[121][122][123] As the incumbent president he ran virtually unopposed in the Democratic Party presidential primaries,[124] and on April 3, 2012, Obama had secured the 2778 convention delegates needed to win the Democratic nomination.[125]
+
+At the Democratic National Convention in Charlotte, North Carolina, Obama and Joe Biden were formally nominated by former President Bill Clinton, as the Democratic Party candidates for president and vice president in the general election. Their main opponents were Republicans Mitt Romney, the former governor of Massachusetts, and Representative Paul Ryan of Wisconsin.[126]
+
+On November 6, 2012, Obama won 332 electoral votes, exceeding the 270 required for him to be reelected as president.[127][128][129] With 51.1 percent of the popular vote,[130] Obama became the first Democratic president since Franklin D. Roosevelt to twice win the majority of the popular vote.[131][132] President Obama addressed supporters and volunteers at Chicago's McCormick Place after his reelection and said: "Tonight you voted for action, not politics as usual. You elected us to focus on your jobs, not ours. And in the coming weeks and months, I am looking forward to reaching out and working with leaders of both parties."[133][134]
+Presidency (2009–present)
+Main article: Presidency of Barack Obama
+See also: Confirmations of Barack Obama's Cabinet and List of presidential trips made by Barack Obama
+First days
+Photograph
+Barack Obama takes the oath of office administered by Chief Justice John G. Roberts Jr. at the Capitol, January 20, 2009
+
+The inauguration of Barack Obama as the 44th President took place on January 20, 2009. In his first few days in office, Obama issued executive orders and presidential memoranda directing the U.S. military to develop plans to withdraw troops from Iraq.[135] He ordered the closing of the Guantanamo Bay detention camp,[136] but Congress prevented the closure by refusing to appropriate the required funds[137][138][139] and preventing moving any Guantanamo detainee into the U.S. or to other countries.[140] Obama reduced the secrecy given to presidential records.[141] He also revoked President George W. Bush's restoration of President Ronald Reagan's Mexico City Policy prohibiting federal aid to international family planning organizations that perform or provide counseling about abortion.[142]
+Domestic policy
+Main article: Barack Obama social policy
+
+The first bill signed into law by Obama was the Lilly Ledbetter Fair Pay Act of 2009, relaxing the statute of limitations for equal-pay lawsuits.[143] Five days later, he signed the reauthorization of the State Children's Health Insurance Program (SCHIP) to cover an additional 4 million uninsured children.[144] In March 2009, Obama reversed a Bush-era policy which had limited funding of embryonic stem cell research and pledged to develop "strict guidelines" on the research.[145]
+Obama delivering a speech at joint session of Congress with Vice President Joe Biden and House Speaker Nancy Pelosi on February 24, 2009
+
+Obama appointed two women to serve on the Supreme Court in the first two years of his Presidency. Sonia Sotomayor, nominated by Obama on May 26, 2009, to replace retiring Associate Justice David Souter, was confirmed on August 6, 2009,[146] becoming the first Hispanic Supreme Court Justice.[147] Elena Kagan, nominated by Obama on May 10, 2010, to replace retiring Associate Justice John Paul Stevens, was confirmed on August 5, 2010, bringing the number of women sitting simultaneously on the Court to three, for the first time in American history.[148]
+
+On September 30, 2009, the Obama administration proposed new regulations on power plants, factories and oil refineries in an attempt to limit greenhouse gas emissions and to curb global warming.[149][150]
+
+On October 8, 2009, Obama signed the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act, a measure that expands the 1969 United States federal hate-crime law to include crimes motivated by a victim's actual or perceived gender, sexual orientation, gender identity, or disability.[151][152]
+
+On March 30, 2010, Obama signed the Health Care and Education Reconciliation Act, a reconciliation bill which ends the process of the federal government giving subsidies to private banks to give out federally insured loans, increases the Pell Grant scholarship award, and makes changes to the Patient Protection and Affordable Care Act.[153][154]
+
+In a major space policy speech in April 2010, Obama announced a planned change in direction at NASA, the U.S. space agency. He ended plans for a return of human spaceflight to the moon and development of the Ares I rocket, Ares V rocket and Constellation program, in favor of funding Earth science projects, a new rocket type, and research and development for an eventual manned mission to Mars, and ongoing missions to the International Space Station.[155]
+Obama meets with the Cabinet, November 23, 2009
+
+President Obama's 2011 State of the Union Address focused on themes of education and innovation, stressing the importance of innovation economics to make the United States more competitive globally. He spoke of a five-year freeze in domestic spending, eliminating tax breaks for oil companies and reversing tax cuts for the wealthiest Americans, banning congressional earmarks, and reducing healthcare costs. He promised that the United States would have one million electric vehicles on the road by 2015 and would be 80 percent reliant on "clean" electricity.[156][157]
+LGBT rights
+
+On December 22, 2010, Obama signed the Don't Ask, Don't Tell Repeal Act of 2010, fulfilling a key promise made in the 2008 presidential campaign[158][159] to end the Don't ask, don't tell policy of 1993 that had prevented gay and lesbian people from serving openly in the United States Armed Forces.[160]
+
+In 1996, as a candidate for the Illinois state senate, Obama had said that he favored legalizing same-sex marriage;[161] but by the time of his Senate run in 2004, he said that while he supported civil unions and domestic partnerships for same-sex partners, for strategic reasons he opposed same-sex marriages.[162] On May 9, 2012, shortly after the official launch of his campaign for reelection as president, Obama said his views had evolved, and he publicly affirmed his personal support for the legalization of same-sex marriage, becoming the first sitting U.S. president to do so.[163][164]
+
+During his second inaugural address on January 21, 2013,[134] in a historic moment, Obama became the first president to call for full equality for gay Americans: "Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law—for if we are truly created equal, then surely the love we commit to one another must be equal as well." This was the first time that a president mentioned gay rights or the word "gay" in an inaugural address.[165][166] In 2013, the Obama administration filed briefs urging the Supreme Court to rule in favor of same-sex couples in the cases of Hollingsworth v. Perry (regarding same-sex marriage)[167] and United States v. Windsor (regarding the Defense of Marriage Act).[168] Then, following the Supreme Court's 2015 decision in Obergefell v. Hodges (ruling same-sex marriage to be a fundamental right), Obama asserted that, "This decision affirms what millions of Americans already believe in their hearts: When all Americans are treated as equal we are all more free."[169]
+White House advisory and oversight groups
+
+On March 11, 2009, Obama created the White House Council on Women and Girls, which forms part of the Office of Intergovernmental Affairs, having been established by Executive Order 13506 with a broad mandate to advise him on issues relating to the welfare of American women and girls.[170] The Council is currently chaired by Senior Advisor to the President Valerie Jarrett.[171] Obama also established the White House Task Force to Protect Students from Sexual Assault through an official United States government memorandum on January 22, 2014 with a broad mandate to advise him on issues relating to sexual assault on college and university campuses throughout the United States.[171][172][173] The current co-chairs of the Task Force are Vice President Joe Biden and Jarrett.[172] The Task Force has been a development out of the White House Council on Women and Girls and Office of the Vice President of the United States, and prior to that, the 1994 Violence Against Women Act that was first-drafted by Biden.[174]
+Economic policy
+Main article: Economic policy of Barack Obama
+File:20090124 WeeklyAddress.ogvPlay media
+Obama presents his first weekly address as President of the United States on January 24, 2009, discussing the American Recovery and Reinvestment Act of 2009
+
+On February 17, 2009, Obama signed the American Recovery and Reinvestment Act of 2009, a $787 billion economic stimulus package aimed at helping the economy recover from the deepening worldwide recession.[175] The act includes increased federal spending for health care, infrastructure, education, various tax breaks and incentives, and direct assistance to individuals.[176]
+
+In March, Obama's Treasury Secretary, Timothy Geithner, took further steps to manage the financial crisis, including introducing the Public-Private Investment Program for Legacy Assets, which contains provisions for buying up to two trillion dollars in depreciated real estate assets.[177] Obama intervened in the troubled automotive industry[178] in March 2009, renewing loans for General Motors and Chrysler to continue operations while reorganizing. Over the following months the White House set terms for both firms' bankruptcies, including the sale of Chrysler to Italian automaker Fiat[179] and a reorganization of GM giving the U.S. government a temporary 60 percent equity stake in the company, with the Canadian government taking a 12 percent stake.[180] In June 2009, dissatisfied with the pace of economic stimulus, Obama called on his cabinet to accelerate the investment.[181] He signed into law the Car Allowance Rebate System, known colloquially as "Cash for Clunkers", that temporarily boosted the economy.[182][183][184]
+Deficit and Debt increases 2001–2013
+
+Spending and loan guarantees from the Federal Reserve and the Treasury Department authorized by the Bush and Obama administrations totaled about $11.5 trillion, but only $3 trillion was spent by the end of November 2009.[185] Obama and the Congressional Budget Office predicted the 2010 budget deficit would be $1.5 trillion or 10.6 percent of the nation's gross domestic product (GDP) compared to the 2009 deficit of $1.4 trillion or 9.9 percent of GDP.[186][187] For 2011, the administration predicted the deficit will slightly shrink to $1.34 trillion, while the 10-year deficit will increase to $8.53 trillion or 90 percent of GDP.[188] The most recent increase in the U.S. debt ceiling to $17.2 trillion took effect in February 2014.[189] On August 2, 2011, after a lengthy congressional debate over whether to raise the nation's debt limit, Obama signed the bipartisan Budget Control Act of 2011. The legislation enforces limits on discretionary spending until 2021, establishes a procedure to increase the debt limit, creates a Congressional Joint Select Committee on Deficit Reduction to propose further deficit reduction with a stated goal of achieving at least $1.5 trillion in budgetary savings over 10 years, and establishes automatic procedures for reducing spending by as much as $1.2 trillion if legislation originating with the new joint select committee does not achieve such savings.[190] By passing the legislation, Congress was able to prevent a U.S. government default on its obligations.[191]
+Employment statistics (changes in unemployment rate and net jobs per month) during Obama's tenure as U.S. President[192][193]
+
+As it did throughout 2008, the unemployment rate rose in 2009, reaching a peak in October at 10.0 percent and averaging 10.0 percent in the fourth quarter. Following a decrease to 9.7 percent in the first quarter of 2010, the unemployment rate fell to 9.6 percent in the second quarter, where it remained for the rest of the year.[194] Between February and December 2010, employment rose by 0.8 percent, which was less than the average of 1.9 percent experienced during comparable periods in the past four employment recoveries.[195] By November 2012, the unemployment rate fell to 7.7 percent,[196] decreasing to 6.7 percent in the last month of 2013.[197] During 2014, the unemployment rate continued to decline, falling to 6.3 percent in the first quarter.[198] GDP growth returned in the third quarter of 2009, expanding at a rate of 1.6 percent, followed by a 5.0 percent increase in the fourth quarter.[199] Growth continued in 2010, posting an increase of 3.7 percent in the first quarter, with lesser gains throughout the rest of the year.[199] In July 2010, the Federal Reserve noted that economic activity continued to increase, but its pace had slowed, and chairman Ben Bernanke said the economic outlook was "unusually uncertain".[200] Overall, the economy expanded at a rate of 2.9 percent in 2010.[201]
+
+The Congressional Budget Office and a broad range of economists credit Obama's stimulus plan for economic growth.[202][203] The CBO released a report stating that the stimulus bill increased employment by 1–2.1 million,[203][204][205][206] while conceding that "It is impossible to determine how many of the reported jobs would have existed in the absence of the stimulus package."[202] Although an April 2010 survey of members of the National Association for Business Economics showed an increase in job creation (over a similar January survey) for the first time in two years, 73 percent of 68 respondents believed that the stimulus bill has had no impact on employment.[207] The economy of the United States has grown faster than the other original NATO members by a wider margin under President Obama than it has anytime since the end of World War II.[208] The OECD credits the much faster growth in the United States to the stimulus in the United States and the austerity measures in the European Union.[209]
+
+Within a month of the 2010 midterm elections, Obama announced a compromise deal with the Congressional Republican leadership that included a temporary, two-year extension of the 2001 and 2003 income tax rates, a one-year payroll tax reduction, continuation of unemployment benefits, and a new rate and exemption amount for estate taxes.[210] The compromise overcame opposition from some in both parties, and the resulting $858 billion Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 passed with bipartisan majorities in both houses of Congress before Obama signed it on December 17, 2010.[211]
+
+In December 2013, Obama declared that growing income inequality is a "defining challenge of our time" and called on Congress to bolster the safety net and raise wages. This came on the heels of the nationwide strikes of fast-food workers and Pope Francis' criticism of inequality and trickle-down economics.[212]
+Environmental policy
+See also: Climate change policy of the United States
+Obama at a 2010 briefing on the BP Oil Spill at the Coast Guard Station Venice in Venice, Louisiana
+
+On April 20, 2010, an explosion destroyed an offshore drilling rig at the Macondo Prospect in the Gulf of Mexico, causing a major sustained oil leak. The well's operator, BP, initiated a containment and cleanup plan, and began drilling two relief wells intended to stop the flow. Obama visited the Gulf on May 2 among visits by members of his cabinet, and again on May 28 and June 4. On May 22, he announced a federal investigation and formed a bipartisan commission to recommend new safety standards, after a review by Secretary of the Interior Ken Salazar and concurrent Congressional hearings. On May 27, he announced a six-month moratorium on new deepwater drilling permits and leases, pending regulatory review.[213] As multiple efforts by BP failed, some in the media and public expressed confusion and criticism over various aspects of the incident, and stated a desire for more involvement by Obama and the federal government.[214]
+
+In July 2013, Obama expressed reservations and stated he "would reject the Keystone XL pipeline if it increased carbon pollution" or "greenhouse emissions".[215][216] Obama's advisers called for a halt to petroleum exploration in the Arctic in January 2013.[217] On February 24, 2015, Obama vetoed a bill that would authorize the pipeline.[218] It was the third veto of Obama's presidency and his first major veto.[219]
+Health care reform
+Main article: Health care reform in the United States
+Photograph
+Obama signs the Patient Protection and Affordable Care Act at the White House, March 23, 2010
+
+Obama called for Congress to pass legislation reforming health care in the United States, a key campaign promise and a top legislative goal.[220] He proposed an expansion of health insurance coverage to cover the uninsured, to cap premium increases, and to allow people to retain their coverage when they leave or change jobs. His proposal was to spend $900 billion over 10 years and include a government insurance plan, also known as the public option, to compete with the corporate insurance sector as a main component to lowering costs and improving quality of health care. It would also make it illegal for insurers to drop sick people or deny them coverage for pre-existing conditions, and require every American to carry health coverage. The plan also includes medical spending cuts and taxes on insurance companies that offer expensive plans.[221][222]
+
+On July 14, 2009, House Democratic leaders introduced a 1,017-page plan for overhauling the U.S. health care system, which Obama wanted Congress to approve by the end of 2009.[220] After much public debate during the Congressional summer recess of 2009, Obama delivered a speech to a joint session of Congress on September 9 where he addressed concerns over the proposals.[223] In March 2009, Obama lifted a ban on using federal funds for stem cell research.[224]
+Maximum Out-of-Pocket Premium as Percentage of Family Income and federal poverty level, under Patient Protection and Affordable Care Act, starting in 2014 (Source: CRS)[225]
+
+On November 7, 2009, a health care bill featuring the public option was passed in the House.[226][227] On December 24, 2009, the Senate passed its own bill—without a public option—on a party-line vote of 60–39.[228] On March 21, 2010, the Patient Protection and Affordable Care Act (ACA) passed by the Senate in December was passed in the House by a vote of 219 to 212.[229] Obama signed the bill into law on March 23, 2010.[230]
+
+The ACA includes health-related provisions to take effect over four years, including expanding Medicaid eligibility for people making up to 133 percent of the federal poverty level (FPL) starting in 2014,[231] subsidizing insurance premiums for people making up to 400 percent of the FPL ($88,000 for family of four in 2010) so their maximum "out-of-pocket" payment for annual premiums will be from 2 to 9.5 percent of income,[232][233] providing incentives for businesses to provide health care benefits, prohibiting denial of coverage and denial of claims based on pre-existing conditions, establishing health insurance exchanges, prohibiting annual coverage caps, and support for medical research. According to White House and Congressional Budget Office figures, the maximum share of income that enrollees would have to pay would vary depending on their income relative to the federal poverty level.[232][234]
+
+The costs of these provisions are offset by taxes, fees, and cost-saving measures, such as new Medicare taxes for those in high-income brackets, taxes on indoor tanning, cuts to the Medicare Advantage program in favor of traditional Medicare, and fees on medical devices and pharmaceutical companies;[235] there is also a tax penalty for those who do not obtain health insurance, unless they are exempt due to low income or other reasons.[236] In March 2010, the Congressional Budget Office estimated that the net effect of both laws will be a reduction in the federal deficit by $143 billion over the first decade.[237]
+
+The law faced several legal challenges, primarily based on the argument that an individual mandate requiring Americans to buy health insurance was unconstitutional. On June 28, 2012, the Supreme Court ruled by a 5–4 vote in National Federation of Independent Business v. Sebelius that the mandate was constitutional under the U.S. Congress's taxing authority.[238] In Burwell v. Hobby Lobby the Court ruled that "closely-held" for-profit corporations could be exempt on religious grounds under the Religious Freedom Restoration Act from regulations adopted under the ACA that would have required them to pay for insurance that covered certain contraceptives. In June 2015, the Court ruled 6–3 in King v. Burwell that subsidies to help individuals and families purchase health insurance were authorized for those doing so on both the federal exchange and state exchanges, not only those purchasing plans "established by the State," as the statute reads.[239]
+Energy policy
+Main article: Energy policy of the Obama administration
+
+Prior to June 2014, Obama offered substantial support for a broadly based "All of the above" approach to domestic energy policy which Obama has maintained since his first term and which he last confirmed at his State of the Union speech in January 2014 to a mixed reception by both parties. In June 2014, Obama made indications that his administration would consider a shift towards an energy policy more closely tuned to the manufacturing industry and its impact on the domestic economy.[240] Obama's approach of selectively combining regulation and incentive to various issues in the domestic energy policy such as coal mining and oil fracking has received mixed commentary for not being as responsive to the needs of the domestic manufacturing sector as needed, following claims that the domestic manufacturing sector utilizes as much as a third of nation's available energy resources.[241][242]
+Gun control
+President Obama at University of Colorado Hospital visiting 2012 Aurora shooting victims
+
+On January 16, 2013, one month after the Sandy Hook Elementary School shooting, President Obama signed 23 executive orders and outlined a series of sweeping proposals regarding gun control.[243] He urged Congress to reintroduce an expired ban on military-style assault weapons, such as those used in several recent mass shootings, impose limits on ammunition magazines to 10 rounds, introduce background checks on all gun sales, pass a ban on possession and sale of armor-piercing bullets, introduce harsher penalties for gun-traffickers, especially unlicensed dealers who buy arms for criminals and approving the appointment of the head of the federal Bureau of Alcohol, Tobacco, Firearms and Explosives for the first time since 2006.[244]
+2010 midterm elections
+Main articles: United States House of Representatives elections, 2010 and United States Senate elections, 2010
+
+Obama called the November 2, 2010 election, where the Democratic Party lost 63 seats in, and control of, the House of Representatives,[245] "humbling" and a "shellacking".[246] He said that the results came because not enough Americans had felt the effects of the economic recovery.[247]
+Cybersecurity and Internet policy
+
+On November 10, 2014, President Obama recommended the Federal Communications Commission reclassify broadband Internet service as a telecommunications service in order to preserve net neutrality.[248][249]
+
+On February 12, 2013, President Obama signed Executive Order 13636, "Improving Critical Infrastructure Cybersecurity". The Executive Order is designed to increase the level of core capabilities for our critical infrastructure to manage cyber risk. It does this by focusing on three key areas: (1) information sharing, (2) privacy, and (3) the adoption of cybersecurity practices.[250]
+Foreign policy
+Main article: Foreign policy of the Barack Obama administration
+President Obama stands at a podium delivering a speech on "A New Beginning" at Cairo University on June 4, 2009
+Obama speaking on "A New Beginning" at Cairo University on June 4, 2009
+NAFTA leaders Canadian Prime Minister Stephen Harper, Mexican President Peña Nieto, and U.S. President Barack Obama, 2014
+
+In February and March 2009, Vice President Joe Biden and Secretary of State Hillary Rodham Clinton made separate overseas trips to announce a "new era" in U.S. foreign relations with Russia and Europe, using the terms "break" and "reset" to signal major changes from the policies of the preceding administration.[251] Obama attempted to reach out to Arab leaders by granting his first interview to an Arab cable TV network, Al Arabiya.[252]
+
+On March 19, Obama continued his outreach to the Muslim world, releasing a New Year's video message to the people and government of Iran.[253][254] In April, Obama gave a speech in Ankara, Turkey, which was well received by many Arab governments.[255] On June 4, 2009, Obama delivered a speech at Cairo University in Egypt calling for "A New Beginning" in relations between the Islamic world and the United States and promoting Middle East peace.[256]
+
+On June 26, 2009, in response to the Iranian government's actions towards protesters following Iran's 2009 presidential election, Obama said: "The violence perpetrated against them is outrageous. We see it and we condemn it."[257] On July 7, while in Moscow, he responded to a Vice President Biden comment on a possible Israeli military strike on Iran by saying: "We have said directly to the Israelis that it is important to try and resolve this in an international setting in a way that does not create major conflict in the Middle East."[258]
+
+On September 24, 2009, Obama became the first sitting U.S. president to preside over a meeting of the United Nations Security Council.[259]
+
+In March 2010, Obama took a public stance against plans by the government of Israeli Prime Minister Benjamin Netanyahu to continue building Jewish housing projects in predominantly Arab neighborhoods of East Jerusalem.[260][261] During the same month, an agreement was reached with the administration of Russian President Dmitry Medvedev to replace the 1991 Strategic Arms Reduction Treaty with a new pact reducing the number of long-range nuclear weapons in the arsenals of both countries by about one-third.[262] Obama and Medvedev signed the New START treaty in April 2010, and the U.S. Senate ratified it in December 2010.[263]
+
+In December 2011, Obama instructed agencies to consider LGBT rights when issuing financial aid to foreign countries.[264] He criticized Russia's law discriminating against gays in August 2013,[265] stopping short of advocating a boycott of the 2014 Winter Olympics held in Sochi, Russia.[266]
+
+In December 2014, Obama announced that he intended to normalize relationships between Cuba and the United States.[267] The countries' respective "interests sections" in one another's capitals were upgraded to embassies on July 20, 2015.
+War in Iraq
+Main articles: Iraq War and American-led intervention in Iraq (2014–present)
+
+On February 27, 2009, Obama announced that combat operations in Iraq would end within 18 months. His remarks were made to a group of Marines preparing for deployment to Afghanistan. Obama said, "Let me say this as plainly as I can: by August 31, 2010, our combat mission in Iraq will end."[268] The Obama administration scheduled the withdrawal of combat troops to be completed by August 2010, decreasing troop's levels from 142,000 while leaving a transitional force of about 50,000 in Iraq until the end of 2011. On August 19, 2010, the last U.S. combat brigade exited Iraq. Remaining troops transitioned from combat operations to counter-terrorism and the training, equipping, and advising of Iraqi security forces.[269][270] On August 31, 2010, Obama announced that the United States combat mission in Iraq was over.[271] On October 21, 2011 President Obama announced that all U.S. troops would leave Iraq in time to be "home for the holidays".[272]
+
+In June 2014, following the capture of Mosul by the Islamic State of Iraq and the Levant (ISIL), Obama sent 275 troops to provide support and security for U.S. personnel and the U.S. Embassy in Baghdad. ISIL continued to gain ground and to commit widespread massacres and ethnic cleansing.[273][274]
+
+In August 2014, during the Sinjar massacre, Obama ordered a campaign of U.S. airstrikes against ISIL.[275]
+
+By the end of 2014, 3,100 American ground troops were committed to the conflict[276] and 16,000 sorties were flown over the battlefield, primarily by U.S. Air Force and Navy pilots.[277]
+
+In the Spring of 2015 with the addition of the "Panther Brigade" of the 82nd Airborne Division the number of U.S. ground troops in Iraq surged to 4,400[278] and by July American-led coalition air forces counted 44,000 sorties over the battlefield.[279]
+US President Barack Obama and British Prime Minister David Cameron trade bottles of beer to settle a bet they made on the U.S. vs. England World Cup Soccer game (which ended in a tie), during a bilateral meeting at the G20 Summit in Toronto, Canada, Saturday, June 26, 2010
+Meeting with British Prime Minister David Cameron during the 2010 G-20 Toronto summit
+War in Afghanistan
+Main article: War in Afghanistan (2001–present)
+
+Early in his presidency, Obama moved to bolster U.S. troop strength in Afghanistan.[280] He announced an increase to U.S. troop levels of 17,000 in February 2009 to "stabilize a deteriorating situation in Afghanistan", an area he said had not received the "strategic attention, direction and resources it urgently requires".[281] He replaced the military commander in Afghanistan, General David D. McKiernan, with former Special Forces commander Lt. Gen. Stanley A. McChrystal in May 2009, indicating that McChrystal's Special Forces experience would facilitate the use of counterinsurgency tactics in the war.[282] On December 1, 2009, Obama announced the deployment of an additional 30,000 military personnel to Afghanistan and proposed to begin troop withdrawals 18 months from that date;[283] this took place in July 2011. David Petraeus replaced McChrystal in June 2010, after McChrystal's staff criticized White House personnel in a magazine article.[284] In February 2013, Obama said the U.S. military would reduce the troop level in Afghanistan from 68,000 to 34,000 U.S. troops by February 2014.[285]
+
+In October 2015, in light of the deteriorating security situation, the White House announced a plan to keep US Forces in Afghanistan indefinitely.[286]
+Israel
+President Barack Obama, at left, shakes hands with Israeli President Shimon Peres, at right, in the Oval Office on Tuesday, May 5, 2009. Standing at right looking on is U.S. Vice President Joe Biden.
+Obama meeting with Israeli President Shimon Peres, 2009
+
+In 2011, the United States vetoed a Security Council resolution condemning Israeli settlements, with the United States being the only nation to do so.[287] Obama supports the two-state solution to the Arab–Israeli conflict based on the 1967 borders with land swaps.[288]
+
+In June 2012, Obama said that the bond between the United States and Israel is "unbreakable."[289] During the initial years of the Obama administration, the U.S. increased military cooperation with Israel, including increased military aid, re-establishment of the U.S.-Israeli Joint Political Military Group and the Defense Policy Advisory Group, and an increase in visits among high-level military officials of both countries.[290] The Obama administration asked Congress to allocate money toward funding the Iron Dome program in response to the waves of Palestinian rocket attacks on Israel.[291]
+
+In 2013, Jeffrey Goldberg reported that, in Obama's view, "with each new settlement announcement, Netanyahu is moving his country down a path toward near-total isolation."[292]
+
+In 2014, President Obama likened the Zionist movement to the Civil Rights Movement in the United States. He said that both movements seek to bring justice and equal rights to historically persecuted peoples. He explained, "To me, being pro-Israel and pro-Jewish is part and parcel with the values that I've been fighting for since I was politically conscious and started getting involved in politics."[293]
+War in Libya
+Main article: 2011 military intervention in Libya
+
+In March 2011, as forces loyal to Muammar Gaddafi advanced on rebels across Libya, calls for a no-fly zone came from around the world, including Europe, the Arab League, and a resolution[294] passed unanimously by the U.S. Senate.[295] In response to the unanimous passage of United Nations Security Council Resolution 1973 on March 17, Gaddafi—who had previously vowed to "show no mercy" to the rebels of Benghazi[296]—announced an immediate cessation of military activities,[297] yet reports came in that his forces continued shelling Misrata. The next day, on Obama's orders, the U.S. military took part in air strikes to destroy the Libyan government's air defense capabilities to protect civilians and enforce a no-fly-zone,[298] including the use of Tomahawk missiles, B-2 Spirits, and fighter jets.[299][300][301] Six days later, on March 25, by unanimous vote of all of its 28 members, NATO took over leadership of the effort, dubbed Operation Unified Protector.[302] Some Representatives[303] questioned whether Obama had the constitutional authority to order military action in addition to questioning its cost, structure and aftermath.[304][305]
+Osama bin Laden
+Main article: Death of Osama bin Laden
+	
+President Obama on Osama bin Laden's Death
+File:President Obama on Death of Osama bin Laden.ogvPlay media
+President Obama's address (Full Text) Wikisource has information on "Remarks by the President on Osama bin Laden"
+President Obama on Osama bin Laden's Death
+Menu
+0:00
+audio only version
+Problems playing these files? See media help.
+President Barack Obama and Vice President Joe Biden, along with members of the national security team, receive an update on Operation Neptune's Spear, a mission against Osama bin Laden, in one of the conference rooms of the Situation Room of the White House, on May 1, 2011. They are watching live feed from drones operating over the bin Laden complex.
+President Barack Obama along with members of the national security team, receive an update on Operation Neptune's Spear, in the White House Situation Room, May 1, 2011. See also: The Situation Room (photograph)
+
+Starting with information received in July 2010, intelligence developed by the CIA over the next several months determined what they believed to be the location of Osama bin Laden in a large compound in Abbottabad, Pakistan, a suburban area 35 miles from Islamabad.[306] CIA head Leon Panetta reported this intelligence to President Obama in March 2011.[306] Meeting with his national security advisers over the course of the next six weeks, Obama rejected a plan to bomb the compound, and authorized a "surgical raid" to be conducted by United States Navy SEALs.[306] The operation took place on May 1, 2011, resulting in the death of bin Laden and the seizure of papers, computer drives and disks from the compound.[307][308] DNA testing identified bin Laden's body,[309] which was buried at sea several hours later.[310] Within minutes of the President's announcement from Washington, DC, late in the evening on May 1, there were spontaneous celebrations around the country as crowds gathered outside the White House, and at New York City's Ground Zero and Times Square.[307][311] Reaction to the announcement was positive across party lines, including from former presidents Bill Clinton and George W. Bush,[312] and from many countries around the world.[313]
+Iran nuclear talks
+Main article: Joint Comprehensive Plan of Action
+
+In 2013, Obama's administration opened negotiations with Iran to prevent it from acquiring nuclear weapons. Negotiations took two years with numerous delays, with a deal being announced July 14, 2015. The deal, titled Joint Comprehensive Plan of Action, saw the removal of sanctions in exchange for measures that would prevent Iran from producing nuclear weapons. While Obama hailed the agreement as being a step towards a more hopeful world, the deal drew strong criticism from Republican and conservative quarters, and from Israeli prime minister Benjamin Netanyahu.[314][315][316]
+Relations with Cuba
+Main article: Cuban Thaw
+
+Since the spring of 2013 secret meetings were conducted, in the neutral locations of Canada and Vatican City, between the United States and Cuba.[317] The Vatican was consulted initially in 2013 as Pope Francis advised the U.S. and Cuba to exchange prisoners as a gesture of goodwill.[318] On December 10, 2013, Cuban President Raúl Castro, in a significant public moment, shook hands with and greeted Obama at the Nelson Mandela memorial service in Johannesburg.[319]
+
+In December 2014, after negotiated in secret in Canada and Vatican City, it was announced that Obama, with Pope Francis as an intermediary, had negotiated a restoration of relations with Cuba, after nearly sixty years of détente.[320] Popularly dubbed the Cuban Thaw, The New Republic deemed the Cuban Thaw to be "Obama's finest foreign policy achievement."[321] On July 1, 2015, President Barack Obama announced that formal diplomatic relations between Cuba and the United States would resume, and embassies would be opened in Washington and Havana.[322]
+
+The countries' respective "interests sections" in one another's capitals were upgraded to embassies on July 20, 2015.[323]
+Africa
+
+Obama was the first ever sitting U.S. president to speak in front of the African Union in Addis Ababa, Ethiopia, on July 29, 2015. He gave a speech encouraging the world to increase economic ties via investments and trade with the continent, and lauded the progresses made in education, infrastructure and economy. He also criticized lacks of democracy and leaders who refuse to step off, discrimination against minorities (LGBT people, religious groups and ethnicities) and corruption. He suggested an intensified democratization and free trade, to significantly increase living quality for Africans.[324][325] During his July 2015 trip, Obama also was the first U.S. president ever to visit Kenya, which is the homeland of his father.[326]
+Cultural and political image
+Main article: Public image of Barack Obama
+See also: International media reaction to the United States presidential election, 2008 and International reactions to the United States presidential election, 2012
+First official presidential portrait of Barack Obama, wearing a black suit with a blue tie and American flag lapel pin, indoors with the American flag and the flag of the President draped in the background
+Obama's first term presidential portrait (2009)
+
+Obama's family history, upbringing, and Ivy League education differ markedly from those of African-American politicians who launched their careers in the 1960s through participation in the civil rights movement.[327] Expressing puzzlement over questions about whether he is "black enough", Obama told an August 2007 meeting of the National Association of Black Journalists that "we're still locked in this notion that if you appeal to white folks then there must be something wrong."[328] Obama acknowledged his youthful image in an October 2007 campaign speech, saying: "I wouldn't be here if, time and again, the torch had not been passed to a new generation."[329]
+
+Obama is frequently referred to as an exceptional orator.[330] During his pre-inauguration transition period and continuing into his presidency, Obama has delivered a series of weekly Internet video addresses.[331]
+President Barack Obama, seated at right, answers questions about the State of the Union posed by citizens, shown on a flat-screen monitor at left, in the first-ever completely virtual interview from the White House. This interview aired on the official White House Google+ page on January 30, 2012.
+Obama conducting the first completely virtual interview from the White House in 2012[332]
+
+According to the Gallup Organization, Obama began his presidency with a 68 percent approval rating[333] before gradually declining for the rest of the year, and eventually bottoming out at 41 percent in August 2010,[334] a trend similar to Ronald Reagan's and Bill Clinton's first years in office.[335] He experienced a small poll bounce shortly after the Death of Osama bin Laden on May 2, 2011. This bounce lasted until around June 2011, when his approval numbers dropped back to where they were previously.[336][337] His approval ratings rebounded around the same time as his reelection in 2012, with polls showing an average job approval of 52 percent shortly after his second inauguration.[338] Despite him dropping to 39 percent in his approval ratings in late-2013 due to the ACA roll-out, he has climbed to 50 percent in late January 2015 according to the Gallup Organization.[339] Polls show strong support for Obama in other countries,[340] and before being elected President he met with prominent foreign figures including former British Prime Minister Tony Blair,[341] Italy's Democratic Party leader and Mayor of Rome Walter Veltroni,[342] and French President Nicolas Sarkozy.[343]
+
+In a February 2009 poll conducted in Western Europe and the U.S. by Harris Interactive for France 24 and the International Herald Tribune, Obama was rated as the most respected world leader, as well as the most powerful.[344] In a similar poll conducted by Harris in May 2009, Obama was rated as the most popular world leader, as well as the one figure most people would pin their hopes on for pulling the world out of the economic downturn.[345][346]
+Prime Minister David Cameron of the United Kingdom, President Barack Obama, Chancellor Angela Merkel of Germany, José Manuel Barroso, President of the European Commission, President François Hollande of France and others react emotionally while watching the overtime shootout of the Chelsea vs. Bayern Munich Champions League final, in the Laurel Cabin conference room during the G8 Summit at Camp David, Maryland, May 19, 2012. Cameron raises his arms triumphantly as the Chelsea team wins their first Champions League title in the overtime shootout.
+G8 leaders watching the 2012 UEFA Champions League Final
+
+Obama won Best Spoken Word Album Grammy Awards for abridged audiobook versions of Dreams from My Father in February 2006 and for The Audacity of Hope in February 2008.[347] His concession speech after the New Hampshire primary was set to music by independent artists as the music video "Yes We Can", which was viewed 10 million times on YouTube in its first month[348] and received a Daytime Emmy Award.[349] In December 2008 and in 2012, Time magazine named Obama as its Person of the Year.[350] The 2008 awarding was for his historic candidacy and election, which Time described as "the steady march of seemingly impossible accomplishments".[351] On May 25, 2011, Obama became the first President of the United States to address both houses of the UK Parliament in Westminster Hall, London. This was only the 5th occurrence since the start of the 20th century, of a head of state being extended this invitation, following Charles de Gaulle in 1960, Nelson Mandela in 1996, Queen Elizabeth II in 2002 and Pope Benedict XVI in 2010.[352][353]
+
+On October 9, 2009, the Norwegian Nobel Committee announced that Obama had won the 2009 Nobel Peace Prize "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples".[354] Obama accepted this award in Oslo, Norway on December 10, 2009, with "deep gratitude and great humility."[355] The award drew a mixture of praise and criticism from world leaders and media figures.[356][357][358][359][360][361][362] Obama's peace prize was called a "stunning surprise" by The New York Times.[363] Obama is the fourth U.S. president to be awarded the Nobel Peace Prize and the third to become a Nobel laureate while in office.[364] Obama's Nobel Prize has been viewed skeptically in subsequent years, especially after the director of the Nobel Institute, Geir Lundestad, said Obama's Peace Prize was a "failure".[365]
+Family and personal life
+Main article: Family of Barack Obama
+Obama posing in the Green Room of the White House with wife Michelle and daughters Sasha and Malia in 2009
+
+In a 2006 interview, Obama highlighted the diversity of his extended family: "It's like a little mini-United Nations", he said. "I've got relatives who look like Bernie Mac, and I've got relatives who look like Margaret Thatcher."[366] Obama has a half-sister with whom he was raised (Maya Soetoro-Ng, the daughter of his mother and her Indonesian second husband) and seven half-siblings from his Kenyan father's family—six of them living.[367] Obama's mother was survived by her Kansas-born mother, Madelyn Dunham,[368] until her death on November 2, 2008,[369] two days before his election to the Presidency. Obama also has roots in Ireland; he met with his Irish cousins in Moneygall in May 2011.[370] In Dreams from My Father, Obama ties his mother's family history to possible Native American ancestors and distant relatives of Jefferson Davis, President of the Confederate States of America during the American Civil War.[371]
+
+Besides his native English, Obama speaks some basic Indonesian, having learned the language during his four childhood years in Jakarta.[372][373] He plays basketball, a sport he participated in as a member of his high school's varsity team;[374] he is left-handed.[375]
+Obama about to take a shot while three other players look at him. One of those players is holding is arms up in an attempt to block Obama.
+Obama taking a shot during a game on the White House basketball court, 2009
+
+Obama is a supporter of the Chicago White Sox, and he threw out the first pitch at the 2005 ALCS when he was still a senator.[376] In 2009, he threw out the ceremonial first pitch at the All-Star Game while wearing a White Sox jacket.[377] He is also primarily a Chicago Bears football fan in the NFL, but in his childhood and adolescence was a fan of the Pittsburgh Steelers, and rooted for them ahead of their victory in Super Bowl XLIII 12 days after he took office as President.[378] In 2011, Obama invited the 1985 Chicago Bears to the White House; the team had not visited the White House after their Super Bowl win in 1986 due to the Space Shuttle Challenger disaster.[379]
+
+In June 1989, Obama met Michelle Robinson when he was employed as a summer associate at the Chicago law firm of Sidley Austin.[380] Assigned for three months as Obama's adviser at the firm, Robinson joined him at several group social functions, but declined his initial requests to date.[381] They began dating later that summer, became engaged in 1991, and were married on October 3, 1992.[382] The couple's first daughter, Malia Ann, was born on July 4, 1998,[383] followed by a second daughter, Natasha ("Sasha"), on June 10, 2001.[384] The Obama daughters attended the private University of Chicago Laboratory Schools. When they moved to Washington, D.C., in January 2009, the girls started at the private Sidwell Friends School.[385] The Obamas have two Portuguese Water Dogs, the first, a male named Bo, a gift from Senator Ted Kennedy.[386] In August 2013, Bo was joined by Sunny, a female.[387]
+
+Applying the proceeds of a book deal, the family moved in 2005 from a Hyde Park, Chicago condominium to a $1.6 million house in neighboring Kenwood, Chicago.[388] The purchase of an adjacent lot—and sale of part of it to Obama by the wife of developer, campaign donor and friend Tony Rezko—attracted media attention because of Rezko's subsequent indictment and conviction on political corruption charges that were unrelated to Obama.[389]
+
+In December 2007, Money estimated the Obama family's net worth at $1.3 million.[390] Their 2009 tax return showed a household income of $5.5 million—up from about $4.2 million in 2007 and $1.6 million in 2005—mostly from sales of his books.[391][392] On his 2010 income of $1.7 million, he gave 14 percent to non-profit organizations, including $131,000 to Fisher House Foundation, a charity assisting wounded veterans' families, allowing them to reside near where the veteran is receiving medical treatments.[393][394] As per his 2012 financial disclosure, Obama may be worth as much as $10 million.[395]
+
+Obama tried to quit smoking several times, sometimes using nicotine replacement therapy, and, in early 2010, Michelle Obama said that he had successfully quit smoking.[396][397]
+Religious views
+See also: Barack Obama religion conspiracy theories
+Obama and First Lady worship at African Methodist Episcopal Church in Washington, D.C., January 2013
+
+Obama is a Protestant Christian whose religious views developed in his adult life.[398] He wrote in The Audacity of Hope that he "was not raised in a religious household". He described his mother, raised by non-religious parents (whom Obama has specified elsewhere as "non-practicing Methodists and Baptists"), as being detached from religion, yet "in many ways the most spiritually awakened person that I have ever known." He described his father as a "confirmed atheist" by the time his parents met, and his stepfather as "a man who saw religion as not particularly useful." Obama explained how, through working with black churches as a community organizer while in his twenties, he came to understand "the power of the African-American religious tradition to spur social change."[399]
+
+In January 2008, Obama told Christianity Today: "I am a Christian, and I am a devout Christian. I believe in the redemptive death and resurrection of Jesus Christ. I believe that faith gives me a path to be cleansed of sin and have eternal life."[400] On September 27, 2010, Obama released a statement commenting on his religious views saying "I'm a Christian by choice. My family didn't—frankly, they weren't folks who went to church every week. And my mother was one of the most spiritual people I knew, but she didn't raise me in the church. So I came to my Christian faith later in life, and it was because the precepts of Jesus Christ spoke to me in terms of the kind of life that I would want to lead—being my brothers' and sisters' keeper, treating others as they would treat me."[401][402]
+
+Obama met Trinity United Church of Christ pastor Rev. Jeremiah Wright in October 1987, and became a member of Trinity in 1992.[403] He resigned from Trinity in May 2008 during his first presidential campaign after some of Wright's statements were criticized.[404] The Obama family has attended several Protestant churches since moving to Washington, D.C. in 2009, including Shiloh Baptist Church and St. John's Episcopal Church. After a prolonged effort to find a church to attend regularly in Washington, Obama announced in June 2009 that his primary place of worship would be the Evergreen Chapel at Camp David.[405]
+Notes and references
 
 ""","English")
 test.addDocument("""
+Barack Hussein Obama II, né le 4 août 1961 à Honolulu (Hawaï), est un homme d'État américain. Il est le 44e et actuel président des États-Unis, élu pour un premier mandat le 4 novembre 2008 et réélu le 6 novembre 2012.
+
+Fils d'un Kényan noir et d'une Américaine blanche du Kansas de souche irlandaise, il est le premier Afro-Américain ayant accédé à la présidence des États-Unis. Son parcours a suscité chez les électeurs comme dans les médias du monde entier un grand intérêt. Né à Hawaï, élevé plusieurs années en Indonésie, diplômé de l'Université Columbia et de la Faculté de droit de Harvard, il est, en 1990, le premier Afro-Américain à présider la prestigieuse Harvard Law Review, événement historique dans un pays qui a connu une ségrégation raciale jusque dans les années 1960. Après avoir été travailleur social, plus spécifiquement « organisateur de communauté » (community organizer en anglais) dans les quartiers sud de Chicago durant les années 1980, puis avocat en droit civil à sa sortie de Harvard, il enseigne le droit constitutionnel à l'Université de Chicago de 1992 à 2004.
+
+Barack Obama entre en politique en 1996 : il est élu au Sénat de l'Illinois où il effectue trois mandats, de 1997 à 2004. Il connaît l'échec lors de sa candidature à l'investiture du Parti démocrate pour la Chambre des représentants en 2000, mais l'obtient en mars 2004 pour le Sénat des États-Unis. Barack Obama se distingue notamment par son opposition précoce à la guerre d'Irak lancée par George W. Bush et par le discours qu'il prononce en juillet 2004 lors de la convention démocrate qui désigne John Kerry comme candidat à la présidence, prestation remarquée qui le fait connaître pour la première fois au niveau national. Élu au Sénat fédéral en novembre 2004, il déclare sa candidature à l'investiture démocrate pour la présidence des États-Unis le 10 février 2007 à Springfield dans l'Illinois. Il remporte les primaires face à Hillary Rodham Clinton et est officiellement désigné candidat lors de la convention de son parti à Denver, le 27 août 2008.
+
+Après avoir obtenu 52,9 % des voix et 365 grands électeurs à l'élection présidentielle du 4 novembre 2008 contre le républicain John McCain, Barack Obama entre en fonction le 20 janvier 2009. Sa présidence intervient dans un contexte de guerre en Irak, de guerre en Afghanistan, de crise au Moyen-Orient, d'importante récession de l'économie américaine et de crise financière et économique mondiale. Le 9 octobre 2009, il reçoit le prix Nobel de la paix. Durant son premier mandat, Barack Obama promulgue notamment un plan de relance économique en février 2009, la loi sur l'allègement d'impôts, le renouvellement d'autorisation des assurances-chômages et les créations d'emplois, celle sur la protection des patients et des soins abordables ainsi qu'une réforme de la régulation financière en 2010. Dans le domaine de la politique étrangère, il retire progressivement les troupes américaines d'Irak, augmente celles présentes en Afghanistan et signe un traité de contrôle des armements avec la Russie. Il commande également l'opération qui aboutit à la mort d'Oussama ben Laden, tué par les forces spéciales américaines à Abbottabad au Pakistan le 1er mai 2011. Le 4 avril 2011, Barack Obama annonce qu'il est candidat à un second mandat lors de l'élection présidentielle de 2012. Opposé au républicain Mitt Romney, il est réélu le 6 novembre 2012 pour un second mandat présidentiel en remportant 332 voix du collège électoral contre 206 à son rival et 51 % des suffrages au niveau national.
+
+Sommaire
+
+    1 Origines familiales, enfance et jeunesse
+        1.1 Famille paternelle
+        1.2 Famille maternelle
+        1.3 Une famille recomposée
+        1.4 Généalogie
+    2 Études et carrière professionnelle
+        2.1 Premières expériences professionnelles (1983-1985)
+        2.2 Chicago (1985-1988)
+        2.3 Harvard (1988-1991)
+        2.4 Chicago (depuis 1991)
+    3 Vie et soutien familial
+    4 Carrière politique locale (1994-2004)
+    5 Carrière nationale (2004-2008)
+    6 Élection présidentielle de 2008
+        6.1 Les élections primaires
+        6.2 Financement de sa campagne électorale
+        6.3 Campagne présidentielle
+        6.4 Élection (4 novembre 2008)
+            6.4.1 Analyse d'une victoire
+        6.5 Transition présidentielle (novembre 2008 - janvier 2009)
+    7 Présidence
+        7.1 Investiture
+    8 Doctrine politique
+        8.1 Politique étrangère
+            8.1.1 Discours du Caire
+            8.1.2 Chine
+            8.1.3 Antiterrorisme
+        8.2 Intérieur et société
+            8.2.1 NASA
+            8.2.2 Peine de mort
+            8.2.3 Armes à feu
+            8.2.4 Avortement et homosexualité
+            8.2.5 Immigration
+        8.3 Économie et politique sociale
+            8.3.1 Réforme de la santé
+            8.3.2 Lutte contre la crise économique
+        8.4 Environnement
+    9 Réélection en 2012 et second mandat
+    10 Vie privée et personnalité
+    11 Prix Nobel de la paix 2009
+        11.1 Controverse
+    12 Notes et références
+    13 Annexes
+        13.1 Bibliographie
+            13.1.1 Ouvrages de Barack Obama
+                13.1.1.1 Préface
+            13.1.2 Ouvrages et articles sur Barack Obama
+        13.2 Filmographie
+        13.3 Articles connexes
+        13.4 Liens externes
+
+Origines familiales, enfance et jeunesse
+
+Barack1 Hussein Obama II est né le 4 août 1961 à 19 h 24 à la maternité de Kapiolani à Honolulu2. Ses parents se sont rencontrés à l'Université d'Hawaï où ils étaient tous deux étudiants.
+Famille paternelle
+
+Son père, Barack Obama Senior (né à Nyang'oma Kogelo en 1936 - † 24 novembre 1982), économiste et homme politique kényan, issu de l'ethnie luo3. Ses parents se sont rencontrés en 1960 lors de classes de langue russe à l'Université de Hawaï à Manoa4,5. Dans son autobiographie, troisième partie, notamment le récit de Granny sur les origines familiales et la vie d'Hussein et de Barack Sr., Barack Obama fournit une assez longue généalogie en ligne paternelle (12 générations au-dessus de lui, voir ci-dessous) et indique que la famille vivait de l'élevage nomade dans la région de l'Ouganda avant de venir se fixer au Kenya, à Alego6 puis à Kendu Bay7.
+
+L'arrière-grand-père de Barack Obama Jr. s'appelait simplement Obama (il est donc l'ancêtre éponyme) et vivait à Kendu Bay à la fin du XIXe siècle et au début du XXe. Son grand-père, Hussein Onyango Obama (1895-1979), est présenté comme un personnage assez original ; il est le premier habitant de Kendu Bay à entrer en contact avec les Anglais à Kisumu, autour de 1910 ; immédiatement, il adopte un mode de vie moderne (vêtements européens, apprentissage de la lecture et de l'écriture, souci exceptionnel d'hygiène) et, désavoué par son père et ses frères, se met au service du colonisateur. Pendant la Première Guerre mondiale, il est responsable de l'organisation de corvées au Kenya puis au Tanganyika. Après la guerre, il exerce la profession de domestique et cuisinier pour différents patrons britanniques ; en même temps, il effectue un retour aux origines en achetant des terres à Kendu Bay et en prenant une épouse, Helima (puis une seconde, Akumu, puis une troisième, Sarah). Pendant la Seconde Guerre mondiale, il est au service d'un officier britannique dans différents endroits (Birmanie, Thaïlande, Ceylan, Europe). Après son retour, il cesse de travailler comme domestique et devient agriculteur à plein temps ; c'est aussi le moment où il quitte Kendu Bay et s'installe à Alego.
+
+Dans les années 1950, il est détenu durant six mois à la suite d'une dénonciation calomnieuse à propos de liens avec le mouvement nationaliste kényan (KANU). Reconnu innocent, il sort malgré tout affaibli physiquement et moralement de cette épreuve8.
+
+De ses trois épouses, il a eu huit enfants9.
+
+Barack Obama Senior est le deuxième enfant à être né en 1936 à Kendu Bay. Sa mère est Akumu. Barack Obama Sr., qui est décédé en 1982, a été éduqué dans la religion musulmane mais était néanmoins athée10. Après le départ11 d'Akumu en 1945, il a été élevé par la troisième épouse de Hussein Onyango dans le village d'Alego ; quand il termine ses études primaires brillantes, quoique peu assidues, il est admis dans l'école des missionnaires de Maseno, mais en est renvoyé pour indiscipline, avant d'avoir mené à leur terme ses études secondaires. Il travaille plusieurs années comme employé de bureau à Mombasa et Nairobi et épouse sa première femme, Kezia. Il a la chance d'être repéré comme très doué par deux universitaires américaines qui lui font prendre un cours par correspondance et lui font passer l'examen de fin d'études secondaires à l'ambassade des États-Unis ; c'est encore avec leur appui, qu'il sollicite une bourse auprès de plusieurs universités américaines, et en 1959, il reçoit une réponse favorable de l'université d'Hawaii. Il va y suivre un cursus d'économétrie, obtient les meilleures notes de sa promotion et y fonde l'association des étudiants étrangers12.
+[Dérouler]
+Généalogie de la famille Obama
+ 
+Famille maternelle
+
+Sa mère, Stanley13 Ann Dunham (1942 - 1995) était la fille de Stanley (23 mars 1918 – 8 février 1992) et de Madelyn Dunham (26 octobre 1922 – 3 novembre 2008)14. La famille Dunham était chrétienne, mais Ann, adulte, était agnostique. L'ascendance de la famille blanche de Stanley Ann Dunham semble avoir compté le premier esclave noir du continent John Punch selon Ancestry.com (en)15.
+
+Ann Dunham, est née à Wichita dans le Kansas3, près d'une base militaire2, son père ayant été appelé en 1942 pour servir comme GI dans l'armée américaine. Pendant la guerre, Madelyn Dunham travaille dans les usines aéronautiques de Wichita. Après avoir servi en Europe dans l'armée de George Patton, Stanley Dunham devient vendeur représentant en meubles. La famille Dunham déménage assez souvent, habitant successivement la Californie, le Kansas, le Texas, l'État de Washington (Seattle) avant de partir pour Hawaï en 1959. Stanley y connaît des déboires professionnels, mais Madelyn occupe un emploi de cadre de banque.
+
+Stanley Ann suit des études d'anthropologie à l'université d'Hawaï quand elle rencontre Barack Sr16.
+
+Barack Obama a été élevé par ses grands-parents maternels à partir de 1971. Étant très attaché à Madelyn (« Toot », américanisation de Tutu, « grand-mère » en hawaïen), le candidat a même interrompu sa campagne pour s'occuper d'elle alors qu'elle était souffrante à Hawaï. Madelyn Dunham est décédée le 3 novembre 200814, la veille même de l'élection de son petit-fils à la présidence des États-Unis.
+Une famille recomposée
+
+Les parents de Barack Obama se marient le 2 février 196117. En août 1963, son père est accepté à l'Université Harvard mais il part seul pour le Massachusetts car la bourse qu'il a obtenue ne lui permettrait pas de subvenir aux besoins de son épouse et de son fils. Le divorce sera prononcé en janvier 1964. Diplômé en économie en 1965, le père de Barack Obama repart au Kenya où il fonde une nouvelle famille. D'abord homme en vue proche du gouvernement de Jomo Kenyatta, il finit par s'opposer aux projets du président. Limogé et boycotté, il sombre dans la pauvreté et l'alcoolisme avant de se tuer dans un accident de voiture en 198212. Son fils ne l'aura revu qu'une fois, à 10 ans, lors d'un séjour de son père à Hawaï (décembre 1971/janvier 1972).
+
+Ann Dunham s'est remariée en 1965 avec un étudiant originaire d'Indonésie, Lolo Soetoro, qui regagne son pays dès 1966 ; Ann et Barack le rejoignent à Jakarta18 en 1967. Barack va passer quatre ans en Indonésie. Il fréquente d'abord pendant deux ans l'école primaire catholique St-François d'Assise, puis une école publique où il est le seul étranger17. Dans son dossier d'inscription il aurait choisi, parmi les cinq religions proposées celle de son beau-père, le javanisme19, une branche locale de la religion musulmane20. Pendant la campagne électorale pour l'investiture de 2008, l'éditorialiste néo-conservateur Daniel Pipes a prétendu qu'Obama avait été un musulman pratiquant durant son séjour en Indonésie (donc entre 6 et 10 ans)21. Obama affirme quant à lui que son foyer n'était pas religieux.
+
+En 1971, sa mère le fait revenir à Hawaï chez ses grands-parents maternels, afin qu'il puisse faire des études secondaires américaines (depuis le début du séjour indonésien, elle lui faisait suivre un cours par correspondance, et dans les derniers mois, lui imposait de se lever très tôt pour travailler avec elle avant d'aller à l'école) ; il est inscrit à l'Académie Punahou, prestigieuse école privée d'Hawaii22 pour laquelle il a obtenu une bourse. L'année suivante, Ann, séparée de Lolo Soetoro, le rejoint avec Maya et reprend ses études avec un mastère consacré à l'anthropologie de l'Indonésie. Selon Maya, l'éducation que sa mère a donnée à cette époque à ses deux enfants était « idéaliste et exigeante23 ». En 1975, elle retourne en Indonésie pour effectuer les travaux de terrain obligatoires pour son diplôme, mais Barack refuse de la suivre23. Elle devient responsable d'un programme d'aide aux femmes pauvres organisé par la fondation Ford puis contribue à développer le système de microcrédit indonésien23. Elle achève son doctorat en 1992 avec une thèse sur The peasant blacksmithing in Indonesia. Mais elle meurt à Hawaii à 52 ans le 7 novembre 1995 d'un cancer de l'ovaire. Obama affirme que sa plus grande erreur a été de ne pas avoir été à ses côtés au moment de sa mort.
+
+Barack Obama a raconté son enfance et sa jeunesse (jusqu'en 1988) dans son autobiographie Les rêves de mon père24.
+Généalogie
+[Dérouler]
+Ascendance de Barack Obama
+ 
+Études et carrière professionnelle
+
+Après ses études secondaires, Barack Obama passe deux ans à Occidental College à Los Angeles (Californie) puis entre à l'université Columbia de New York. Il en sort diplômé en 198325 avec un Bachelor of Arts en sciences politiques, spécialité relations internationales.
+Premières expériences professionnelles (1983-1985)
+
+Avant26 même d'obtenir son diplôme de l'université Columbia, Barack Obama envisageait de devenir « organisateur communautaire » (community organizer, et non pas social worker27), mais ses démarches auprès de différents organismes (notamment la mairie de Chicago, depuis peu dirigée par un Noir, Harold Washington) n'aboutissent pas. Il entre à New York dans un cabinet de consultants ((en) Business International Corporation (en)28) travaillant pour des multinationales, d'abord comme assistant de recherche, puis comme analyste financier, fonction importante qui lui permet de disposer d'un bureau et d'une secrétaire. À la suite d'une prise de contact avec sa tante Auma[réf. nécessaire], il décide de se réorienter vers le travail communautaire et quitte son entreprise. Toujours à New York, il connaît une période de travail précaire (il travaille notamment pendant trois mois pour l'organisation de Ralph Nader), puis est recruté par un militant associatif de Chicago, Jerry Kellman (qu'il appelle Marty Kaufman dans son autobiographie).
+Chicago (1985-1988)
+
+À l'été 198529, il choisit de travailler comme organisateur communautaire dans le quartier noir défavorisé de Bronzeville. Il devient adjoint de Jerry Kellman, travailleur social chrétien, membre d'un réseau d'Églises progressistes. Jusqu'en 1987, Barack Obama, surnommé « Baby Face » par les pasteurs locaux, arpente South Side pour aider les résidents à s'organiser dans la défense de leurs intérêts, pour obtenir le désamiantage des logements sociaux, l'ouverture de bureaux d'embauche, ou pour lutter contre la délinquance des jeunes. C'est durant cette période que Barack Obama, élevé sans religion30, se rapproche de l'Église unie du Christ dirigée dans le quartier par le pasteur antisémite Jeremiah Wright, et embrasse la religion protestante.
+Harvard (1988-1991)
+
+Au cours de l'année 1987, il pose sa candidature à plusieurs universités et reçoit un agrément de Harvard en février 1988. Il quitte Chicago en mai 1988 et après un séjour touristique en Europe, part pour son premier voyage au Kenya. Il étudie ensuite pendant trois ans29 à la faculté de droit de Harvard (Harvard Law School) à Cambridge près de Boston ; il en sort diplômé avec la mention magna cum laude. En 1990, il est le premier Afro-Américain31 élu (face à 18 autres candidats) rédacteur en chef de la prestigieuse Harvard Law Review, événement qui fait l'objet d'une information dans des journaux nationaux.
+Chicago (depuis 1991)
+Barack et Michelle Obama en 2008
+
+À la fin de ses études, au lieu de devenir adjoint au juge Abner Mikva, Barack Obama revient à Chicago pour devenir enseignant en droit constitutionnel à l'Université de Chicago où il travaille jusqu'en 200429. Il entre dans un cabinet juridique spécialisé dans la défense des droits civiques.
+Vie et soutien familial
+
+En 1992, il épouse Michelle Robinson, juriste originaire de Chicago rencontrée en 1989 dans le cabinet d'avocats où il travaille et où elle est avocate associée. Le couple Obama aura deux filles, Malia Ann (née en 1998) et Natasha, plus connue par son surnom Sasha (née en 2001). Michelle Robinson-Obama est alors une avocate renommée, figure influente du Parti démocrate local et proche du maire de Chicago, Richard M. Daley. C'est elle qui va propulser la carrière politique de son époux32,29 alors qu'il n'a, jusque-là, milité activement que pour soutenir la candidature de Bill Clinton à la présidence des États-Unis, et celle de Carol Moseley-Braun au Sénat.
+Carrière politique locale (1994-2004)
+Article détaillé : Élections législatives américaines de 2000 en Illinois.
+
+En 1996, Barack Obama est élu au Sénat de l'Illinois dans la 13e circonscription, couvrant les quartiers de South Side à Chicago29, dont le quartier de Hyde Park, où lequel il vivra avec sa femme et ses deux filles jusqu'à son entrée à la Maison-Blanche. Il préside la commission de santé publique quand les démocrates reprennent la majorité au Sénat de l'État.
+
+Il soutient les législations en faveur de l'extension de la couverture médicale aux plus démunis, se fait le défenseur de la cause des homosexuels et fait augmenter les fonds destinés à la lutte contre le SIDA. Son mandat est marqué par sa capacité à obtenir, par le biais de compromis, l'assentiment des républicains sur des lois comme celles contre le profilage racial, pour la vidéosurveillance des interrogatoires de police ou encore un moratoire sur l'application de la peine de mort dans l'Illinois33.
+
+En 2000, il tente de se faire désigner aux primaires démocrates pour être candidat à la Chambre des représentants des États-Unis mais il est battu avec 30 % des voix contre 61 % à Bobby Rush, le titulaire démocrate sortant et ancienne figure historique du Black Panther Party.
+
+Barack Obama se fait aussi remarquer à l'échelle nationale en 2002 lorsqu'il refuse de cautionner les explications des néo-conservateurs au sujet d'une invasion nécessaire de l'Irak. « Je ne suis pas quelqu'un qui s'oppose à la guerre en toutes circonstances. Je suis opposé à une guerre stupide, non pas basée sur la raison, mais sur la passion, non sur les principes, mais sur la politique », déclare-t-il le 2 octobre 2002 à Chicago34. Cette opposition à la guerre lancée par l'administration Bush le 19 mars 2003 et approuvée par une large majorité du Sénat des États-Unis (notamment par Hillary Clinton35), lui servira de référence tout au long de sa campagne pour l'investiture de l'élection présidentielle américaine de 2008 pour contrer ses adversaires.
+Carrière nationale (2004-2008)
+Article détaillé : Élection sénatoriale américaine de 2004 en Illinois.
+Barack Obama, sénateur de l'Illinois.
+
+À l'automne 2002, il engage le consultant politique David Axelrod et annonce officiellement sa candidature au Sénat des États-Unis en janvier 200336. Parmi les membres du comité pour le financement de sa campagne se trouve un repris de justice notoire, Tony Rezko (en)37,38. En juillet 2004, il prononce un discours de la Convention démocrate de Boston désignant John Kerry comme candidat du parti à l'élection présidentielle. Il y fait l'apologie du rêve américain, de l'Amérique généreuse, en rappelant ses origines familiales. Il en appelle à l'unité de tous les Américains et dénonce les « errements » et l'« extrémisme » diviseur de l'administration de George W. Bush. Ce discours « The Audacity of Hope »39 repris dans la presse écrite et à la télévision fait connaître Barack Obama aux militants démocrates mais également à de nombreux Américains40.
+
+Le 2 novembre 2004, après avoir battu quelques mois plus tôt ses adversaires démocrates lors des primaires, Barack Obama est élu au Sénat des États-Unis avec 70 % des voix contre 27 % à son adversaire républicain, l'ancien ambassadeur et chroniqueur politique conservateur afro-américain Alan Keyes. Le score ne fut pas une surprise car pendant plusieurs mois, Barack Obama avait fait une grande partie de sa campagne électorale sans aucun opposant désigné contre lui à la suite du retrait en dernière minute de Jack Ryan, le candidat républicain ; ce dernier avait lui-même succédé à Blair Hull, le vainqueur des primaires, et tous deux étant englués dans des affaires scabreuses avec leurs épouses respectives. Ce n'est que deux mois avant l'élection, qu'Alan Keyes avait été désigné comme candidat républicain en dépit du fait qu'il résidait au Maryland, qu'il n'avait aucun lien avec l'Illinois et qu'en 2000, il avait dénoncé le parachutage d'Hillary Clinton à New York.
+
+Barack Obama succède alors au sénateur républicain sortant Peter Fitzgerald. Il prête serment comme sénateur le 4 janvier 2005, devenant le seul homme de couleur à siéger au Sénat, et le cinquième de l'histoire41. Il démissionne de son poste de sénateur le 16 novembre 2008, après son élection à la présidence des États-Unis.
+Élection présidentielle de 2008
+Les élections primaires
+Article détaillé : Primaires présidentielles du parti démocrate de 2008.
+Barack Obama en campagne électorale en Caroline du Sud en août 2007.
+
+Le 16 janvier 2007, il annonce la création d'un comité exploratoire en vue de lever des fonds pour une candidature à l'élection présidentielle de 2008 ; le 10 février 2007, il déclare sa candidature à l'investiture démocrate42 et ce, malgré son inexpérience relative et la concurrence dans le camp démocrate d'Hillary Clinton, jusque-là favorite pour les primaires. Le 15 décembre 2007, il reçoit l'appui du prestigieux quotidien national The Boston Globe43.
+
+Tout au long de l'année 2007, il a insisté sur le fait qu'il incarnait le changement et qu'il s'opposait à la politique partisane44. Sa candidature enthousiasme une partie des électeurs indépendants et des jeunes44. Il obtient le ralliement de nombreuses personnalités comme le sénateur John Kerry, les hommes d'affaires Warren Buffett et George Soros, les acteurs George Clooney, Matt Damon, Will Smith, Ben Affleck, Robert De Niro, les actrices Halle Berry, Sophia Bush et Scarlett Johansson, le rocker Bruce Springsteen, la chanteuse Nicole Scherzinger, le rappeur Nas, la romancière Toni Morrison ou l'animatrice de télévision Oprah Winfrey, personnalité extrêmement influente dans son pays, notamment au sein de la communauté afro-américaine45. Le 21 avril 2008, il obtient également le soutien du cinéaste Michael Moore.
+
+Le 3 janvier 2008, Barack Obama crée la surprise46 en remportant les premières primaires, les caucus de l'Iowa, état blanc à plus de 96 %, avec 38 % des suffrages exprimés, loin devant le sénateur John Edwards (30 %) et l'ancienne First Lady Hillary Clinton qui a obtenu 29 %47, démontrant ainsi pour la première fois qu'un métis pouvait avoir de réelles chances au niveau national.
+
+Il réussit alors à imposer à la campagne des primaires, aussi bien démocrates que républicaines, le thème du « changement » (« Change »). Le 8 janvier, il perd dans le New Hampshire (37 %) contre Hillary Clinton (39 %) malgré des sondages l'annonçant grand favori avec 10 points d'avance48. Son discours de défaite est teinté d'espoir et de remotivation. De cette défaite Barack Obama tire son nouveau slogan : « Yes we can » (« Oui, nous pouvons »).
+Barack Obama et sa famille à Springfield (Illinois) le 10 février 2007.
+
+Après une polémique avec Hillary Clinton sur les droits civiques et les rôles respectifs de Martin Luther King et du président Lyndon Baines Johnson, il arrive de nouveau deuxième en nombre de voix, derrière Hillary Clinton, lors du caucus du Nevada du 19 janvier (51 % contre 45 %). Néanmoins Barack Obama obtient une majorité de 13 délégués contre 12 pour Hillary Clinton, raison pour laquelle il refuse de concéder sa défaite. Il évoque également des irrégularités dans le vote qu'il impute au camp Clinton, accusant Bill Clinton et sa femme, de déformer les faits à son encontre49.
+
+Le 27 janvier, sa très large victoire (55 % contre 27 % pour Hillary Clinton) lors des primaires de Caroline du Sud50 relance sa candidature dans la perspective du Super Tuesday du 5 février.
+
+Le 28 janvier, il obtient le soutien de Caroline Kennedy51, ainsi que d'Edward Moore Kennedy et Patrick Kennedy52.
+
+Lors du Super Tuesday, le 5 février, Barack Obama remporte 13 États, face à 9 pour Hillary Clinton.
+
+Le 2 février, Will.i.am enregistre Yes We Can, une chanson inspirée d'un discours prononcé par Obama, à la suite de la primaire du New Hampshire de 2008. Mixée avec des images et des extraits du discours, elle est interprétée par de nombreuses célébrités (la plupart des musiciens, chanteurs et comédiens américains) soutenant le sénateur Obama. La chanson a été produite par Will.i.am, le clip a été réalisé par Jesse Dylan, le fils du chanteur Bob Dylan53.
+Liesse populaire autour de Barack Obama lors d'un meeting dans le Connecticut en février 2008.
+
+Le 9 février, il remporte les États de Washington, du Nebraska et de Louisiane ainsi que les îles Vierges. Le lendemain 10 février, il remporte l'État du Maine. Le 12 février, en remportant les trois élections primaires démocrates en Virginie, au Maryland et dans la capitale fédérale Washington, Barack Obama prend un avantage dans la course aux 2 025 délégués nécessaires pour obtenir l'investiture démocrate. Avec 1 231 délégués, il devance dorénavant Hillary Clinton (1 196 délégués), s'adjugeant au passage la confiance non seulement d'une bonne partie de l'électorat afro-américain mais aussi celui des personnes âgées (53 % contre 47 % à Hillary Clinton) et des femmes (58 %) ; les Blancs demeurent plutôt favorables à Hillary Clinton (48 % contre 51 %)54.
+
+Le 19 février, il gagne les primaires dans le Wisconsin et à Hawaï, signant là dix victoires consécutives sur Hillary Clinton.
+
+Le 22 février, avec plus de 65 % des voix, Barack Obama, sénateur de l'Illinois, a largement remporté la primaire des démocrates expatriés. En France, il dépasse la barre des 70 %55.
+
+Le 4 mars, il gagne dans l'État du Vermont mais perd dans l'Ohio et le Rhode Island. Au Texas, il obtient plus de représentants à la convention que Hillary Clinton (99 contre 94). Il conserve une avance de plus de 100 délégués.
+
+Il remporte les primaires du Wyoming le 8 mars, puis celles du Mississippi trois jours plus tard.
+
+Le 18 mars 2008, il prononce l'important Discours de Philadelphie56 sur la question raciale.
+
+Le 22 avril, Hillary Clinton remporte la primaire de Pennsylvanie57 ; sa campagne qui ne pouvait se permettre d'accroître davantage son retard, bénéficie alors d'un second souffle aux dépens de celle d'Obama. Ce dernier a été fragilisé dans l'opinion par son attitude ambiguë à l'égard des dérapages verbaux de son ancien pasteur, le communautariste Jeremiah Wright58, ainsi que par des accusations d'élitisme.
+
+Ainsi, le 3 mai, il remporte avec seulement 7 voix d'écart les caucus de Guam, île du Pacifique, avec 50,08 % des voix contre 49,92 % pour Hillary Clinton.
+
+Le 6 mai, il remporte l'État de Caroline du Nord avec 56 % des voix mais perd avec 22 000 voix d'écart dans l'Indiana (49 % des voix)59.
+
+Le 13 mai, Hillary Clinton remporte la primaire en Virginie-Occidentale avec 67 % des voix contre 26 % pour Barack Obama. La candidate bénéficie d'un vote massif des électeurs blancs et modestes, très nombreux dans cet État60. Obama peut néanmoins rattraper son retard auprès de cette dernière catégorie d'électeurs et auprès des « cols bleus » (ouvriers blancs) grâce au ralliement de poids de John Edwards, annoncé dès le lendemain de la primaire de Virginie-Occidentale61.
+
+À ce stade des primaires, les cinq dernières consultations à venir seront d'une importance toute relative, aucun des deux candidats ne pouvant obtenir la majorité qualifiante des délégués ordinaires, tandis que les super-délégués, qui restent partagés entre Obama (282), Clinton (273) et l'indécision (environ 240), auront probablement le dernier mot lors de la Convention démocrate du mois d'août. Certains observateurs misent cependant sur un retrait de Clinton avant la fin du processus62.
+
+Le 20 mai, Obama et Clinton remportent l'un et l'autre une primaire. Le premier s'impose dans l'Oregon (58 % des voix), la seconde dans le Kentucky (65 % des voix)63.
+
+Le 30 mai, il quitte l'Église unie du Christ à la suite des polémiques engendrées par les propos du pasteur Wright et du révérend Michael Pfleger. Obama était membre de cette Église depuis une vingtaine d'années64,65.
+
+Le 3 juin, à l'issue des dernières primaires (Montana et Dakota du Sud), il atteint le seuil requis des 2 118 délégués, ainsi que le soutien de nombreux super-délégués66. Malgré la revendication par Clinton de la majorité du « vote populaire » (en nombre de voix de militants) et le refus de la sénatrice de se déclarer vaincue, Obama est désormais quasiment assuré d'être désigné candidat à la Maison-Blanche lors de la convention démocrate de la fin du mois d'août.
+
+Le 7 juin, Hillary Clinton « suspend » sa campagne à l'investiture démocrate et apporte son soutien à Barack Obama dans sa campagne présidentielle contre le républicain John McCain67.
+
+Le 27 août, troisième jour de la Convention démocrate à Denver, Obama est officiellement investi par acclamation, ou roll call, lancée par la sénatrice Hillary Clinton68. Plus de vingt ans après le révérend Jesse Jackson, trois fois candidat à l'investiture démocrate et premier à remporter des primaires, notamment en 1988, c'est le premier Afro-Américain31 investi pour la présidentielle par un parti majeur69.
+Financement de sa campagne électorale
+
+Concernant le financement des campagnes électorales, faiblement encadrée par la législation américaine, Barack Obama se déclare partisan d'un système de financement public et indique avant même sa déclaration de candidature qu'il financerait ainsi sa campagne présidentielle si son rival républicain faisait de même.
+
+Cependant, en juin 2008, il décide de baser sa campagne sur la collecte de fonds privés, échappant ainsi à la limite de collecte imposée en cas de financement par les fonds publics70. Il devient alors le premier candidat à se passer de ces fonds fédéraux depuis l'adoption par le Congrès des lois sur le financement des campagnes électorales, élaborées après le scandale du Watergate71.
+
+Plus de 40% des fonds de campagne d'Obama viennent de la Californie, de New York et de l’Illinois72.
+
+Les 5 principaux groupes de donateurs de Obama sont les actionnaires, les employés, ou membres de72 :
+
+    L'université de Californie
+    Goldman Sachs
+    L'université Harvard
+    Microsoft
+    JPMorgan Chase
+
+Campagne présidentielle
+Article détaillé : Campagne présidentielle de 2008 de Barack Obama.
+Élection (4 novembre 2008)
+Article détaillé : Élection présidentielle américaine de 2008.
+Répartition du collège électoral par État en 2008. En bleu, les États remportés par Obama/Biden ; en rouge, ceux remportés par McCain/Palin. Pour chaque État est indiqué le nombre de grands électeurs.
+
+Avec un taux de participation record de 63 % des électeurs inscrits73, Barack Obama a remporté l'élection présidentielle du 4 novembre 2008 avec plus de 9 millions de voix d'avance74 sur son adversaire John McCain. La victoire est nette aussi bien au niveau des grands électeurs (365 à 17375,76) que dans le vote populaire (52,9 % à 45,6 %)77. Outre ses victoires dans les États-clés âprement disputés de l'Ohio et de la Floride, Obama a fait basculer, de justesse, des bastions républicains traditionnels comme l'Indiana78, et a même obtenu les suffrages de deux anciens États confédérés (en plus de la Floride) : la Virginie79 et la Caroline du Nord80. Barack Obama l'emporte dans toutes les classes d'âge, sauf chez les plus de 65 ans, et bénéficie d'une plus forte mobilisation des jeunes électeurs, alors que 68 % des 18-25 ans se sont prononcés en sa faveur81. Il obtient également le suffrage de 54 % des catholiques, de 78 % des Israélites, ainsi que de 67 % des Latinos et de 95 % des Afro-Américains82.
+
+Au soir du 4 novembre 2008, il prononce devant plusieurs centaines de milliers de personnes son discours de victoire à Grant Park, dans la ville de Chicago (Illinois)83. Après avoir remercié tous ses soutiens (famille, collaborateurs, électeurs), il évoque les enjeux majeurs de son mandat à venir ; en particulier les guerres d'Irak et d'Afghanistan et la crise économique. Son discours est teinté de références significatives aux discours d'investiture de John F. Kennedy, d'Abraham Lincoln et également aux discours prononcés par Martin Luther King ; il cite notamment mot pour mot un passage du discours que fit Abraham Lincoln lors de sa première investiture84.
+
+L'élection de Barack Obama est dans l'ensemble très bien accueillie à l'étranger, où elle est souvent l'occasion de célébrations populaires. Le Kenya, pays natal de son père, décrète même un jour férié. Fait également sans précédent – et bien que la Russie fasse montre de froideur –, des gouvernements traditionnellement en très mauvais termes avec les États-Unis adressent leurs félicitations au nouveau président, ainsi Raúl Castro (Cuba), Hugo Chávez (Venezuela) ou Mahmoud Ahmadinedjad (Iran). Depuis l'Afrique du Sud, il est aussi félicité par le prix Nobel de la Paix et ancien président Nelson Mandela85.
+
+Barack Obama a été formellement élu par les grands électeurs le 15 décembre 2008 – sa victoire ayant été officiellement proclamée au Congrès des États-Unis par Dick Cheney le 8 janvier 2009)86 – et il a succédé à George W. Bush le 20 janvier 2009. Il est alors devenu le quarante-quatrième président des États-Unis, et le premier Afro-Américain31 à accéder à la Maison-Blanche.
+
+Le début de sa présidence commence dans un contexte de guerre en Irak, de guerre en Afghanistan et d'une importante récession de l'économie américaine et de crise financière et économique mondiale.
+Analyse d'une victoire
+
+Barack Obama doit notamment sa victoire au vote de très nombreux primo-votants, recrutés grâce à une campagne révolutionnaire de mobilisation des donateurs, des militants, et enfin des électeurs. Cette mobilisation fut basée sur trois leviers principaux : le message, les nouvelles technologies et l'organisation de terrain.
+
+Le message, c'est le « changement », fondé sur l'émotion, sur le modèle des campagnes de community organizing, faisant des électeurs les acteurs de ce changement. La capacité de la campagne (ou organisation) mise en place par Obama à canaliser les flux monétaires et de bénévoles, a constitué un élément déterminant de sa victoire ; en s'inspirant du modèle mis en place par les Républicains huit ans auparavant et en l'améliorant, Obama a su canaliser et tirer parti de son succès populaire87.
+
+Les nouvelles technologies, ce sont les outils Internet qui sont utilisés avant tout pour recruter les sympathisants et organiser le militantisme. On y trouve les réseaux sociaux, de type Facebook, sur lequel Barack Obama est de loin la personne au monde ayant le plus de partisans déclarés, avec près de cinq millions de supporters en janvier 200988, mais aussi une exceptionnelle base de données appelée Catalist, « un fichier unique qui répertorie individuellement 220 millions d'Américains, avec jusqu'à 600 informations par personne », et permettant d'effectuer un ciblage précis sur tous les électeurs afin d'élaborer des messages personnalisés89.
+
+Enfin, l'organisation de terrain combine une communication de mobilisation, le militantisme de proximité et une campagne de financement, structurée en groupes géographiques (DC for Obama, etc.) ou thématiques (Students for Obama, Lawyers for Obama, etc.), organisée sur le modèle du téléthon, qui permet à Barack Obama de bénéficier in fine d'un budget de 750 M$ contre 350 M$ pour John McCain. Au total, Barack Obama a levé une armée de 1,2 million de militants, représentant 25 % du budget de campagne (200 M$). Ces militants ont approché, directement ou par téléphone, près de 68 millions d'Américains, soit plus de la moitié des électeurs et 99 % des électeurs cibles89.
+Transition présidentielle (novembre 2008 - janvier 2009)
+Article connexe : Administration Obama.
+
+L'élection présidentielle américaine indirecte fait que le président élu ne prend ses fonctions qu'onze semaines après le suffrage populaire. Cette période entre l'Election Day du 4 novembre et l'Inauguration Day, jour de la prise de fonction présidentielle le 20 janvier, est une phase de nomination de la nouvelle administration présidentielle et de transition avec l'administration sortante. La première nomination de la nouvelle administration est celle de Rahm Emanuel au poste de Chef de cabinet de la Maison-Blanche. De nombreux noms circulent quant aux différents secrétaires et le 1er décembre, il est annoncé que son ancienne rivale à l'investiture Hillary Clinton sera proposée par l'administration Obama comme secrétaire d'État90. Les principaux postes sont pourvus dès début décembre (voir Administration Obama). Bien qu'Obama ait axé sa campagne présidentielle sur le slogan du changement, on note la prépondérance de vétérans de l'administration Clinton dans la nouvelle équipe, par souci revendiqué de bénéficier de leur expérience face à la crise.
+Rencontre entre le président en exercice George W. Bush et le président élu Barack Obama dans le bureau ovale le 10 novembre 2008
+
+Conformément à ses promesses de dépasser le clivage bipartite91, Obama maintient à la Défense son titulaire nommé par George W. Bush en 2006, Robert Gates, un proche des républicains92 et de la famille Bush en particulier93 ; il rencontre aussi à deux reprises son adversaire malheureux John McCain à la mi-novembre 2008 et le 19 janvier 2009, lors d'un bal rendu en l'honneur de l'ancien vétéran du Viêt Nam94. Il nomme également deux autres hommes proches des républicains dans son gouvernement, Ray LaHood (ancien représentant républicain) comme secrétaire au transport et le général James L. Jones, proche de John McCain95, comme conseiller à la sécurité nationale.
+
+Le président Bush ayant souhaité que cette transition se passe au mieux, Obama bénéficie rapidement d'un accès aux informations classées secret défense et reçoit les mêmes rapports de sécurité que le président toujours en exercice, par la CIA et le FBI.
+
+Avançant qu'il ne peut y avoir qu'un président américain en exercice à la fois, Barack Obama fait le choix discuté de rester globalement silencieux en décembre 2008 et janvier 2009 lors de l'offensive israélienne contre le Hamas à Gaza. Celle-ci se ralentit très sensiblement quelques jours avant son investiture.
+
+Obama bénéficie d'une sécurité renforcée, très proche de celle du président en exercice. Elle est assurée par le Secret Service, l'agence fédérale chargée de la protection du président, du vice-président et de diverses personnalités. Il circule ainsi en convoi blindé et sa maison de Hyde Park ainsi que le bâtiment fédéral de Chicago lui servant de quartier général pendant cette période de transition sont étroitement surveillés. Le président-élu ne déménage à Washington que début janvier 2009.
+
+Lors des campagnes électorales, les principaux candidats à l'élection présidentielle américaine bénéficient d'une protection du Secret Service. Le candidat Obama fut le premier, en mai 2007, à en bénéficier du fait du risque d'attentats par des suprémacistes blancs96. Cette protection fut, comme pour le candidat républicain, renforcée après leur désignation respective comme candidat de leur parti.
+Présidence
+Article détaillé : Présidence de Barack Obama.
+Investiture
+Article détaillé : Première investiture de Barack Obama.
+Prestation de serment le 20 janvier 2009 de Barack Obama qui devient le 44e président des États-Unis
+Barack Obama dans le Bureau ovale, le premier jour de sa présidence.
+
+Le 20 janvier 2009 à 12 h 07, Barack Obama prête serment au Capitole de Washington, D.C., devant une foule sans précédent estimée à plus de 2 millions de personnes, et sous les yeux de plusieurs centaines de millions de téléspectateurs du monde entier. Il est ainsi officiellement investi comme 44e président, dans une atmosphère de ferveur nationale et internationale peu habituelle (près de 8 Américains sur 10 lui accordent alors leur confiance face à la crise). Symboliquement, le premier président afro-américain réutilise la Bible qui avait servi en 1861 pour l'investiture d'Abraham Lincoln. Dans les jours précédents, il avait refait en train le trajet de Philadelphie à Washington accompli par ce dernier cette année-là, et s'était adressé à la foule depuis le Lincoln Memorial.
+
+En signe d'unité nationale, Barack Obama choisit un évêque épiscopalien gay pour dire la prière d'ouverture des festivités de son investiture, un pasteur évangélique anti-avortement pour la prière d'ouverture de la cérémonie, et un célèbre vétéran du mouvement des droits civiques, ancien compagnon de Martin Luther King, pour la prière de clôture. Le discours d'investiture du nouveau président insiste sur « le triomphe de l'espérance sur la peur », sur le « refus du choix entre nos idéaux et notre sécurité » et sur le dialogue international, sans cacher aux Américains les difficultés qui les attendent97.
+
+Le président de la Cour suprême John G. Roberts Jr. ayant mal placé un adverbe en récitant la formule constitutionnelle, et fait ainsi hésiter le nouveau président, la prestation de serment est refaite en privé le lendemain 21 janvier à la Maison-Blanche afin d'éviter toute contestation juridique éventuelle98. Le membre de phrase mal prononcé était : « that I will faithfully execute the Office of President of the United States », le juge avait déplacé le mot « faithfully » ainsi : « That I will execute the Office of President to the United States faithfully ».
+Doctrine politique
+
+Barack Obama est considéré comme un homme politique pragmatique, adepte du compromis pour faire avancer ses idées et ses projets et capable de rassembler diverses catégories de l'électorat, même si ses votes au Congrès ont pu le classer à la gauche du parti99. Son discours sur l'état de l'Union de janvier 2010, venant peu de temps après avoir perdu la super majorité au Sénat avec l'élection du successeur de Ted Kennedy au Massachusetts, a mis l'accent sur la nécessité de réformer la finance mondiale, à la suite de la crise financière de 2008, et appelle les démocrates et républicains à voter une loi afin de contrecarrer l'arrêt de la Cour suprême, Citizens United v. Federal Election Commission, du 21 janvier 2010, qui étend les possibilités de financement électoral par les entreprises (nationales et étrangères)100. La perte de la majorité au Sénat hypothèque la réforme du système de protection sociale. Obama est aussi adepte d'une large ouverture de l'information (non classifiée) détenue par les administrations et les Agences gouvernementales, vers le public, ainsi que d'une approche participative et collaborative, ce qu'il a traduit, dès son premier jour de travail à la Maison-Blanche par l'Open Government Initiative.
+Politique étrangère
+Barack Obama rencontre le pape Benoît XVI le 10 juillet 2009 au Vatican.
+
+Barack Obama est présenté comme un adepte du multilatéralisme, partisan de la realpolitik, et prend pour modèle James Baker, saluant la politique étrangère américaine menée sous la présidence de George H. W. Bush pendant la première guerre du Golfe en 1991 et lors de la chute du Mur de Berlin en 1989101. Sa politique étrangère est mise en œuvre par sa Secrétaire d'État, Hillary Clinton. S'il veut être plus ferme à l'égard du programme nucléaire de la Corée du Nord, ses principales propositions sont un retrait en 16 mois des troupes américaines (combattantes) d'Irak, qui commencerait dès sa prise de fonction, et le commencement d'un dialogue « sans préconditions » avec l'Iran102. Il affirme cependant après son élection qu'il considère le programme nucléaire iranien comme « inacceptable ». Cette déclaration a été critiquée par le président du Parlement iranien, Ali Larijani103.
+
+Concernant les relations avec Israël et avec les Palestiniens, après avoir été ambivalent, il prononçait, le 4 juin 2008 à la conférence du lobby pro-israélien Aipac (American Israel Public Affairs Committee) un discours dans lequel il apportait son soutien au statut de Jérusalem en tant que capitale indivisible de l'État d'Israël104,61. Les observateurs notent néanmoins que les relations entre Barack Obama et les dirigeants israéliens, en particulier Benyamin Nétanyahou, sont moins chaleureuses que celles entretenues par ses prédécesseurs105.
+
+Le 10 juillet 2009, il rencontre au Vatican le pape Benoît XVI, en marge du sommet du G8. Le président Obama s'est notamment engagé auprès de lui à tenter de réduire le nombre d'avortements.
+Peres, Netanyahou et Obama à Tel-Aviv, en 2013.
+
+Le 1er mai 2011, à approximativement 23 h 20 (heure de l'Est), il annonce la mort, par les forces spéciales des États-Unis, du dirigeant principal du réseau jihadiste Al-Qaïda, Oussama ben Laden106, considéré comme le commanditaire des attentats du 11 septembre 2001. Cette annonce suscite des scènes de liesse aux États-Unis, et de nombreuses réactions positives à travers le monde107. Dans les heures d'extrême tension précédant un assaut tenu secret et à l'issue incertaine, il effectuait lors du dîner des correspondants de la Maison Blanche, un mémorable exercie de style où il déployait tout son humour108.
+Discours du Caire
+
+Il a prononcé à l'université al-Azhar du Caire le 4 juin 2009 un discours considéré comme présentant un changement de cap majeur en matière de relations internationales entre les États-Unis et les musulmans109. Cette université est le centre le plus important du monde arabe pour la formation des ouléma110. Au cours de ce discours, en présence de Frères musulmans invités d'honneur contre l'avis d'Hosni Moubarak, le président Obama a attribué à l'islam quasiment toutes les inventions majeures de l'histoire de l'humanité, présentant aussi les États-Unis comme « un grand pays musulman »111. Il s'est également prononcé en faveur de la non-réglementation du port du voile : « Il est important pour les pays occidentaux d'éviter de gêner les citoyens musulmans de pratiquer leur religion comme ils le souhaitent, et par exemple en dictant les vêtements qu'une femme doit porter » et d'ajouter : « On ne doit pas dissimuler l'hostilité envers une religion devant le faux-semblant du libéralisme ». Cette critique envers un pays occidental vise selon de nombreux observateurs la France et sa politique de laïcité112,113,114.
+Chine
+Le 18 février 2010, Barack Obama rencontre le dalaï-lama dans la Map Room à la Maison-Blanche
+
+En octobre 2010, concernant l'attribution du prix Nobel de la paix au Chinois Liu Xiaobo, il déclare :
+
+    « Le comité Nobel a choisi un porte-parole éloquent et courageux de la cause des valeurs universelles… Au cours des trente dernières années, la Chine a accompli des progrès spectaculaires… Cette récompense nous rappelle que la réforme politique n'a pas suivi le même rythme et que les droits humains doivent être respectés »115.
+
+En janvier 2011, recevant Hu Jintao en visite d'État, Barack Obama aborde la question des droits de l'homme et suggère le dialogue entre la Chine et le dalaï-lama116.
+Antiterrorisme
+
+En 2013, John Camille Pecastaing, professeur à l'université Johns-Hopkins juge que « la politique étrangère des États-Unis sous Obama est devenue minimaliste et réactive. Elle se résume à l'emploi de drones tueurs dans la lutte antiterroriste »117
+Intérieur et société
+NASA
+
+L'ancien astronaute Charles Bolden est nommé Administrateur de la NASA en juillet 2009 et le Programme Constellation est annulé. À la place, l'administration Obama souhaite confier au secteur privé le transport des astronautes vers la Station spatiale internationale. Après une valse-hésitation, le programme de véhicule habité Orion est rétabli, et un objectif à long terme d'exploration habitée des astéroïdes et finalement de Mars est donné à la NASA, en utilisant un nouveau lanceur géant, le Space Launch System. La première mission d'Orion est prévue en 2014.
+Peine de mort
+
+À l'instar de Bill Clinton, Barack Obama radicalisa sa position au fur et à mesure de son ascension politique. Lorsqu'il était sénateur dans l'Illinois, Obama a fait voter une loi qui rend obligatoire pour la police de filmer les interrogatoires des accusés encourant la peine de mort, sous peine de voir les aveux non-filmés annulés. Lorsqu'il fut candidat pour devenir sénateur fédéral de l'Illinois, Obama déclara à la télévision que la peine de mort était utilisée « trop fréquemment et inconsciemment » et rappela que « treize condamnés à mort ont été libérés en Illinois pour cause d'innocence ». Il conclut en déclarant que même s'il approuvait la peine de mort lorsque « la communauté est fondée à exprimer la pleine mesure de son indignation », il fallait réduire le nombre de crimes capitaux118. Durant la campagne présidentielle, Obama déclara également que ben Laden justifiait le recours à la peine de mort119. Enfin il condamna, le jour-même où elle fut rendue, une décision120 de la Cour suprême qui déclarait la peine de mort anticonstitutionnelle pour les personnes condamnées pour viol sur mineur sans homicide (John McCain venait de faire la même chose dans la matinée). Une fois élu, Obama nomma Eric Holder, personnellement opposé à la peine de mort, comme procureur général (poste crucial dans le fonctionnement de la peine de mort fédérale). Lors de son audition, Holder déclara qu'il appliquerait « la loi faite par le Congrès ». C'est avec son autorisation que la peine de mort fut ainsi requise devant une cour fédérale dès sa prise de fonction en janvier 2009121,122.
+Armes à feu
+
+Il se déclare également en faveur du 2e amendement sur le droit de posséder des armes à feu mais reconnaît l'utilité des « lois de bon sens pour empêcher les armes de tomber dans les mains d'enfants ou de membres de gangs122 ».
+Avortement et homosexualité
+
+Barack Obama est favorable au droit à l'avortement ; il s'est d'abord déclaré partisan des contrats d'union civile entre personnes de même sexe puis a souhaité la généralisation de l'extension des droits et avantages matrimoniaux aux homosexuels jusqu'au mariage, tant au niveau de chaque État qu'au niveau fédéral123. Enfin, en mai 2012, il devient, lors d'une annonce officielle très médiatique, le premier Président américain à se déclarer en faveur du mariage entre personnes de même sexe124. Le mariage homosexuel est finalement autorisé sous son mandat, lors d'une décision de la Cour suprême le 26 juin 2015.
+Immigration
+Article détaillé : Immigration aux États-Unis.
+
+S'il est favorable au renforcement des contrôles à la frontière mexicaine, il défend une régularisation des immigrés clandestins déjà présents auxquels il envisage l'octroi du permis de conduire99. Il considère notamment que sans l'apport de main-d'œuvre immigrée, l'agriculture américaine mettrait la « clef sous la porte », signifiant concrètement son intention de favoriser le regroupement familial et d'augmenter le nombre d'immigrés réguliers125.
+Économie et politique sociale
+Réforme de la santé
+Article détaillé : Patient Protection and Affordable Care Act.
+
+Lors de sa campagne électorale de 2008, Obama proposait de mettre en place une importante réforme du système de santé américain permettant la création, au niveau fédéral, d'une « assurance santé universelle », sans pour autant imposer une couverture santé obligatoire à l'exception des enfants102. C'est alors un de ses projets phares de sa campagne. Néanmoins, une fois élu président, pour faire adopter son texte, Obama fut contraint à des concessions pour faire adopter son projet par le Congrès. Le 7 novembre 2009, soit presque 11 mois après son investiture et en dépit d'une majorité confortable à la Chambre des représentants, il obtint de justesse, par 220 voix contre 215, l'adoption d'un texte réformant le système de santé. Un seul républicain, Joseph Cao, avait alors voté pour la réforme. Le Sénat américain adopta également son propre texte le 24 décembre, après un long débat et de multiples amendements par 60 voix contre 40. Finalement, après maintes péripéties, le 21 mars 2010, en dépit de sondages d'opinion défavorables, d'une polarisation aggravée de la classe politique et des citoyens américains, d'une popularité présidentielle en berne symbolisée par la victoire d'un républicain dans le Massachusetts pour succéder à Ted Kennedy, en dépit enfin des réticences d'une partie des élus démocrates, le texte voté par le Sénat est adopté tel quel par la Chambre des représentants par 219 voix contre 212.
+
+Qualifié d'historique, le texte, qui n'a reçu aucune voix de l'opposition (une première historique pour ce genre de législation), permet de garantir une couverture santé à 32 millions d'Américains qui en sont dépourvus. Il reste néanmoins bien en deçà des promesses électorales de Barack Obama car elle n'inclut pas, notamment, de régime public universel ni même d'assurance publique, et laissera 5 % des résidents américains (23 millions de personnes) sans aucune couverture maladie (contre 15 % avant la réforme)126.
+
+En vertu du texte ainsi adopté, la plupart des Américains auront l'obligation de s'assurer avant 2014, sous peine de se voir infliger des pénalités127. Des subventions seront accordées par le gouvernement fédéral pour aider les familles aux plus bas revenus à payer leurs cotisations (revenus inférieurs à 88 000 dollars par an127). Les entreprises de plus de 50 salariés (PME et commerçants) qui ne fourniront pas de couverture devront également payer des pénalités128. Par ailleurs, le texte interdit aux assurances de refuser de couvrir des personnes en raison de leurs antécédents médicaux127. Les parents pourront également protéger leurs enfants jusqu'à l'âge de 26 ans. Néanmoins, pour parvenir à ses fins et faire adopter cette loi, Barack Obama annonce qu'il signera un décret garantissant que la réforme ne modifierait en rien les restrictions interdisant l'utilisation de fonds fédéraux pour des avortements129, ce qu'il fait le 24 mars au lendemain de la promulgation de la loi130. Plusieurs correctifs doivent encore être adoptés par une loi budgétaire par les deux chambres. La réforme devrait coûter 940 milliards de dollars (695 milliards d'euros) sur dix ans127. Son financement devrait être assuré par des taxes sur les revenus élevés et la baisse des dépenses de soins127.
+
+Cela faisait près d'un siècle que le Congrès débattait de cette question de la santé. Le président républicain Théodore Roosevelt en parlait déjà dans son programme, mais il fut battu à l'élection présidentielle américaine de 1912 par le candidat démocrate Woodrow Wilson. En 1965, le président démocrate Lyndon Johnson avait promulgué le Medicare et le Medicaid, respectivement assurances pour les personnes âgées et pour les personnes pauvres, après avoir rallié à lui la moitié des voix républicaines du Congrès. Le président démocrate Bill Clinton tenta lui aussi de faire passer un projet ambitieux en 1993, mais échoua.
+
+Dès la promulgation de la loi par Barack Obama le 23 mars 2009, les attorneys généraux (ministres de la Justice) de douze (puis quatorze) États américains déclareront mettre en œuvre une procédure judiciaire fédérale visant à contester la constitutionnalité de la nouvelle loi pour violation de la souveraineté des États131 alors que les législatures de 37 États entament des débats visant à adopter un statut dérogatoire pour ne pas avoir à appliquer la réforme132. Puis, le 24 mars, après l'adoption au Sénat de deux amendements déposés par les républicains concernant des vices de procédure, la loi de conciliation, adoptée par la chambre des représentants pour appliquer la nouvelle loi et qui prévoit notamment une extension des subventions fédérales, une aide accrue de l'État au programme Medicaid, un élargissement de l'assiette de l'impôt et une réforme du programme des prêts aux étudiants, doit être renvoyée de nouveau à la chambre pour faire l'objet d'un nouveau vote, retardant ainsi la mise en œuvre du texte133.
+
+La loi de conciliation est à son tour adoptée par le Sénat le 25 mars 2010134. La réforme devient alors l'un des thèmes principaux de la campagne électorale de mi-mandat de 2010, les républicains ayant promis de l'abroger ou de la modifier.
+Lutte contre la crise économique
+Nicolas Sarkozy accueille Barack Obama lors du sommet du G20 à Cannes, le 3 novembre 2011.
+
+Lors de sa campagne électorale, Barack Obama a également préconisé une hausse du salaire minimum afin qu'il soit indexé sur l'inflation135, des baisses d'impôts massives pour la classe moyenne (pour les personnes gagnant moins de 250 000 $ par an)136, le recours au crédit d'impôt pour aider les ménages les plus modestes, et a promis de renégocier le traité de libre-échange nord-américain (l'ALÉNA). Dans le contexte de la crise des subprimes et du poids des crédits, il déclarait vouloir protéger les citoyens américains contre les abus des prêts de toutes sortes et annonçait un plan de grands travaux publics sur dix ans, financés par le retrait des forces de combat d'Irak99.
+
+À la suite de son investiture, le président Barack Obama procéda à des annulations de programmes industriels jugés trop coûteux, non budgétés ou à l'ambition détournée de leur finalité : ce fut notamment le cas du programme Constellation (annulé le 1er février 2010) ou du projet de bouclier radar européen annulé le 18 septembre 2009 en vue d'obtenir l'appui du Kremlin sur la demande d'arrêt du programme nucléaire iranien137.
+Environnement
+
+L'agence pour la protection de l'environnement, Environmental Protection Agency (EPA), peut, depuis mars 2009, réglementer toute activité économique produisant du dioxyde de carbone, au motif qu'au-delà d'un certain seuil non défini, il constitue un polluant majeur, qualifié « d'injustice sociale »138. Ainsi, 20 % des centrales thermiques en activité en janvier 2009 ont dû cesser leurs activités ; pour lutter contre le réchauffement climatique, Barack Obama propose d'augmenter le prix de l'électricité, d'investir dans les biocarburants, les énergies alternatives102,139 et se déclare favorable à l'instauration d'un marché du CO2 obligeant les entreprises polluantes à racheter un « droit à polluer » auprès d'entreprises non polluantes99. Des subventions sont distribuées aux entreprises spécialisées dans l'énergie éolienne et le photovoltaïque, entreprises qui produisent très peu d'électricité et qui sont structurellement déficitaires140,141 ; dans le même temps, la construction d'un oléoduc permettant d'acheminer du pétrole depuis l'Alberta au Canada a été interrompue à la demande de l'EPA, et la prospection du sous-sol des États-Unis a cessé depuis avril 2009. Comme son ancien adversaire républicain à l'élection présidentielle de 2008, John McCain, il est plutôt favorable également au développement de l'énergie nucléaire comme solution aux problèmes climatiques mais sa position sur le sujet est devenue ambivalente durant la campagne électorale142. Le 1er juin 2009, le Secrétaire à l'Énergie Steven Chu a annoncé un fonds de 256 millions de dollars afin d'améliorer l'efficience énergétique des principales industries aux États-Unis143.
+
+Faute de majorité de 60 voix au Sénat, l'examen du projet de loi sur l'énergie, adopté par la Chambre des représentants en 2009, a été ajourné le 22 juillet 2010, ce qui rend son adoption peu probable. Ce recul, qui ne traduit pas en loi les engagements pris à Copenhague, fragilise la position de l'exécutif américain dans les négociations internationales à venir144.
+Réélection en 2012 et second mandat
+Article détaillé : Élection présidentielle américaine de 2012.
+
+Le 4 avril 2011, Barack Obama annonce qu’il se porte candidat pour un second mandat présidentiel dans une vidéo postée sur son site internet et intitulée « It Begins With Us » (« Cela commence avec nous »)145,146,147. En tant que président sortant, il n’a pas d’opposant pour les primaires du Parti démocrate148. Le 3 avril 2012, il réunit les 2 778 délégués de son parti dont il a besoin pour être désigné et lors de la convention démocrate à Charlotte (Caroline du Nord), l'ancien président Bill Clinton nomme formellement Obama et Joe Biden candidats aux élections générales pour les postes de président et vice-président149. Les Républicains désignent de leur côté Mitt Romney lors de la convention républicaine qui se tient à Tampa, en Floride, le 28 août 2012 ; celui-ci choisit comme colistier Paul Ryan.
+
+Au cours de la campagne, quatre débats télévisés sont organisés, les 3 octobre, 11 octobre (débat entre Biden et Ryan pour la vice-présidence), 16 octobre et 22 octobre150,151. Mitt Romney se révèle globalement meilleur que le président sortant lors du premier débat et la campagne d'Obama est considérée comme manquant de souffle, si bien que plusieurs sondages indiquent une possible victoire de son adversaire républicain152. Mais, fin octobre, l'ouragan Sandy marque un coup d'arrêt à l'ascension de Romney et permet à Obama de mettre en avant son rôle de chef de l'État153.
+
+Le mardi 6 novembre 2012, jour de l'élection nationale, Obama obtient 332 grands électeurs, dépassant les 270 nécessaires à sa réélection154,155,156. Avec 51 % du vote populaire, il devient le premier président depuis Franklin D. Roosevelt à remporter deux élections consécutives avec la majorité au niveau national, ayant obtenu 61 % des voix des grands électeurs (332 contre 206 pour son rival), 51 % des 129 millions de suffrages exprimés (pour environ 200 millions d'inscrits sur 300 millions d'habitants aux États-Unis) – soit une avance d'environ 4,7 millions de voix sur son adversaire – et remportant 26 États contre 24 à Mitt Romney. Obama perd néanmoins 3 583 000 voix et 2 points de pourcentage par rapport à 2008, et l'emporte en obtenant une large majorité chez les jeunes, les femmes et les minorités157,158,159.
+
+Au soir de sa victoire, il s’adresse à ses partisans à Chicago et déclare : « Aujourd’hui, vous avez voté pour l’action, pas pour la politique. Vous nous avez élus pour que nous nous concentrions sur vos emplois, pas sur les nôtres. Et ces prochaines semaines et mois, j’escompte bien parvenir à travailler avec les leaders des deux partis »160. Barack Obama est officiellement investi pour un second mandat en prêtant serment d'abord à la Maison-Blanche, le 20 janvier 2013, puis au pied du Capitole en public, le 21 janvier.
+
+La première année du second mandat d'Obama est marquée par une série de polémiques qui affectent son image et son autorité : le drame de Benghazi, l'échec de la loi sur le contrôle des armes à feu, les écoutes de la National Security Agency (NSA), l'usage excessif de drones tueurs contre des suspects islamistes dans le monde, ses hésitations sur la question de l'intervention militaire en Syrie161,162. Si le président dénonce l'« obstructionnisme » systématique des élus républicains, décidés à mettre à mal la mise en place de sa réforme du système de santé ainsi que la légalisation massives d'immigrés clandestins latino-américains, ceux-ci critiquent l'attitude de leurs collègues démocrates ainsi que l'autoritarisme et la distance du chef de l'État. Afin d'inverser la tendance, Obama annonce plusieurs réformes en faveur de la classe moyenne, appelées « Grand Bargain » et inspiré du New Deal de Roosevelt, comme la réduction des taxes professionnelle et d'incitation à l'embauche ; pour ce faire, il multiplie les déplacements dans les États du pays, mais avec un succès mitigé163. Il doit faire face à la défiance de sa propre majorité, de nombreux démocrates ayant notamment soutenu un texte déposé à la Chambre des représentants pour limiter les prérogatives de la NSA et s'étant opposé à la nomination de l'économiste Lawrence Summers à la tête de la Réserve fédérale américaine, à laquelle le chef de l'État a dû renoncer161.
+
+Le blocage des représentants du Parti républicain sur le budget fédéral des États-Unis, dont ils veulent obtenir l'abandon de la Patient Protection and Affordable Care Act, fait que, pour 18e fois de son histoire et la première fois depuis 1996164,165, l'administration fédérale américaine effectue un lock-out (« Shutdown ») le 1er octobre 2013166. Le 17 octobre, un accord est finalement trouvé entre les Démocrates et les Républicains qui met fin au shutdown tout en relevant le plafond de la dette. L'Obamacare n'a donc pas été modifiée. Mais l'accord ne porte que jusqu'au 15 janvier 2014 pour le budget fédéral, et au 7 février pour l'autorisation donnée au Trésor d'emprunter sur les marchés (plafond de la dette)167. En décembre 2013, l'administration Obama rédropédale finalement sur sa réforme de la santé à cause de nombreux dysfonctionnements, repoussant pour des millions d'Américains d'un an l'obligation de souscrire à une police d'assurance maladie168.
+Obama avec Merkel au sommet du G7 2015, en Bavière.
+
+Début 2014, Barack Obama doit faire face à une montée des tensions avec Vladimir Poutine, notamment accusé d'encourager un soulèvement pro-russe en Ukraine. Malgré ce nouveau foyer de tension, le président américain reste pourtant décidé à poursuivre son « pivot diplomatique » vers l'Asie, mais doit rassurer ses alliés (Japon, Corée du Sud), en proie eux aussi à des conflits territoriaux, mais avec la Chine. Sheila Smith, experte au Conseil pour les relations extérieures note que « l'administration Obama a beau dire qu'il n'y a pas d'équation possible entre la Crimée et les îles Senkaku, chaque allié est très sensible sur la question de la fermeté américaine »169. Suite à la crise migratoire subie par l'Europe en 2015, il annonce que les États-Unis accorderont l'asile à 10 000 Syriens pour soulager les pays submergés, tels que la Hongrie ou la Croatie. Après la fusillade de l'Umpqua Community College, dans l'Oregon, en septembre 2015, Obama renforce sa position en faveur d'une législation pour un meilleur contrôle des armes.
+Vie privée et personnalité
+Obama jouant au basket-ball avec l'armée américaine au camp Lemonnier, à Djibouti en 2006.
+
+Personnalité attachée à ses racines afro-américaines, il a des goûts culturels éclectiques170 ; c'est un grand lecteur, écrivant lui-même ses livres et ses discours les plus importants, Barack Obama doit une bonne partie de son ascension politique à ses talents d'orateur et à son charisme171,172,173.
+
+Dans sa déclaration de revenus de 2007, le couple Obama a inscrit 4,2 millions de dollars, provenant largement des droits d'auteur des livres de Barack Obama.
+
+Le couple Obama a déclaré un revenu brut ajusté de 2 656 902 dollars (environ 2 millions d'euros) en avril 2009 pour ses déclarations de 2008. Ils ont payé, en 2008, 855 323 dollars (environ 647 000 euros) d'impôts fédéraux et 77 883 dollars (environ 59 000 euros) à l'État de l'Illinois et donné 172 050 dollars à 37 œuvres caritatives174.
+
+Barack Obama est un grand amateur de basket-ball, qu'il continua à pratiquer presque chaque matin pendant sa campagne électorale, y compris le jour de son élection. Il promit l'installation d'une salle appropriée à la Maison-Blanche. Pendant la campagne présidentielle, il fit beaucoup rire par une tentative pour s'essayer maladroitement sous les caméras au bowling, sport très populaire en Amérique. Une fois à la Maison-Blanche, on le verra aussi jouer au golf avec le vice-président Biden sur le green du jardin de la résidence officielle175.
+
+Barack Obama se trouve être le cinquième président gaucher en trente ans, après Gerald Ford, Ronald Reagan, Georges H. Bush et Bill Clinton. Ainsi qu'il le lança aux photographes lors de la signature de ses premiers documents officiels de président : « Je suis gaucher, il va falloir vous y faire176 ».
+
+Président très « connecté », Barack Obama est un adepte des réseaux sociaux et des nouvelles formes de communication177. Plusieurs observateurs ont jugé que les réseaux sociaux avaient d'ailleurs joué un impact important lors de ses deux élections en 2008 et 2012178,179,180,181. Il est le seul homme politique dont le compte Twitter est parmi les 10 les plus influents du site de microblogging avec plus de 55 millions d'abonnés182. Obama se met lui-même régulièrement en scène dans des vidéos, comme lors de sa dernière campagne en date réalisée avec BuzzFeed vue par des millions de personnes en quelques heures : Things Everybody Does But Doesn’t Talk About, Featuring President Obama183.
+Prix Nobel de la paix 2009
+
+Le 9 octobre 2009, Barack Obama reçoit le prix Nobel de la paix184, suscitant la surprise et une certaine incrédulité dans le monde, alors qu'il n'entame que son dixième mois de mandat présidentiel. Le comité du Nobel justifie sa décision en évoquant « les efforts extraordinaires [du président américain] en faveur du renforcement de la diplomatie internationale et de la coopération entre les peuples ». Cette décision est souvent qualifiée de politique et de partisane, récompensant plus des paroles et des bonnes intentions que des actes concrets185,186,187,188. Obama devient ainsi le quatrième président américain et le troisième en fonction à recevoir le prix après Woodrow Wilson, Theodore Roosevelt et Jimmy Carter.
+
 Si le mot, sous la forme initiale franceis, est attesté en français dès le XIe siècle5, son usage comme nom de personne est plus tardif : c'est au XIIIe siècle qu'il apparaît, d'abord sous la forme italienne Francesco, dans certaines régions d'Italie en relations d'échanges avec la France. Il connaît à partir de là une expansion qui reflète celle de la popularité de François d'Assise6. On sait que celui-ci naquit et fut baptisé Giovanni en l'absence de son père, lequel ne voulait pas de ce prénom : de retour, il fit appeler son fils Francesco, « petit Français », en hommage au pays où il menait de fructueuses affaires et qui était aussi, croit-on, celui de sa femme, Dame Pica7. Plus tard, la réputation grandissante du saint et l'influence des Franciscains assurèrent le succès du nom bien au-delà de sa terre natale.
 
 En France, c'est le rayonnement de la culture italienne au XVe siècle qui favorisa son adoption. En moins de cent ans, il se hissa au rang des prénoms les plus courants ; porté par des saints (François de Paule, François de Sales), des souverains (en France comme dans d'autres dynasties européennes : Bretagne, Lorraine, Toscane, Modène, Transylvanie, Parme, Saint-Empire, Autriche, Deux-Siciles, Liechtenstein), des écrivains (Villon, Rabelais, Malherbe, La Rochefoucauld, Fénelon, Voltaire, Chateaubriand), des musiciens (Couperin), des peintres (Boucher), des hommes politiques (Arago, Mitterrand), il resta près de quatre siècles durant parmi les dix prénoms les plus donnés6.
@@ -474,7 +1312,11 @@ En septembre 2012, Shakira annonce qu'ils attendent leur premier enfant67,68. Le
 
 
 
+detect_1 = "Tu vas le prendre avec toi. Tu brancheras ton téléphone mobile dessus afin que je puisse rester en contact avec toi. Il te faudra aussi un câble de liaison pour brancher ton ordinateur sur le réseau militaire."
+score = test.detect(detect_1)
+print detect_1 + str(score)
 
-score = test.detect("Mythological ninth it mythological floor ninth than extreme of than.")
-print score
+detect_2 = """Thirty years after the fact, Lippman punctuates the memory with a laugh. "To tell you the truth, I don't think I ever figured out how to solve that puzzle," she says. "All I remember is being amazed he knew the answer."""
+score = test.detect(detect_2)
+print detect_2 + str(score)
 
