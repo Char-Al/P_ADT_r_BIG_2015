@@ -82,6 +82,51 @@ print Counter(NG5C.ngrams)
 
 print ([(item, NG5C.ngrams.count(item)) for item in sorted(set(NG5C.ngrams))])
 
+class Learning(NGram):
+	"""classe d'apprentissage qui hérite de la classe NGram"""
+
+	ngrams   = {} # n-grams stocké dans un dictionnaire
+	num        = len(nom.ngrams)  # nombre de n-grams
+	characters = 0  # nombre de caractères
+
+
+"####### Méthode Naives #######"
+
+	def NaiveBayes():
+		"""Méthode de Naives Bayes, probabilité conditionnelle d'observer des caractèristique dans un texte, ici les fréquences d'apparitiond des n-grams"""
+		#faire le gram (utilisation méthode class gram)
+
+		#faire calcul de stat (utilisation méthode de cette class)
+
+		pass
+
+	
+	def calcProb(self):
+		"""Calcule la probabilité de chaque n-grams"""
+		for x in self.ngrams.keys():
+			self.ngrams[x] = float(self.ngrams[x]) / float(self.num)
+
+
+	def eliminateFrequences(self, num):
+		"""Elimine tous les ngrams avec une fréquence <= num"""
+		for x in self.ngrams.keys():
+			if self.ngrams[x] <= num:
+				value = self.ngrams[x]
+				del self.ngrams[x]
+				self.num -= value
+
+
+
+
+"####### Methode de Markov caché #######"
+
+	def HMM():
+		"""Méthode stochastique"""
+		pass
+
+
+
+
 
 
 
