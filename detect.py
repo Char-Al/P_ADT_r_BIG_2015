@@ -12,6 +12,8 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import regexp_tokenize
 
+from nltk.corpus import stopwords
+
 import re
 from collections import Counter
 from collections import OrderedDict
@@ -108,7 +110,43 @@ class LangDetector():
 			listNgrams.append(Ngrams)
 		return listNgrams
 
+<<<<<<< HEAD
 """
+=======
+
+	# CALCULATE LANGUAGES RATIO WITH THE STOP WORLD
+	def _calculate_languages_ratios(self, text):
+    	#Calcule la probabilité d'avoir un text écrit dans telle ou telle languages et
+    	#retourne un dictionnaire qui ressemble à {'french': 2, 'english': 4, 'dutsh': 0}
+
+		languages_ratios = {}
+		tokens = self.getWords(text)
+
+    	# Compte par language le nombre de stopwords qui apparait.
+		for language in stopwords.fileids():
+			stopwords_set = set(stopwords.words(language))
+			words_set = set(tokens)
+			common_elements = words_set.intersection(stopwords_set)
+
+			languages_ratios[language] = len(common_elements) # nombre d'aparition de stopwords par langue
+
+		return languages_ratios
+
+    # DETECTE LANGUAGE WITH STOPWORDS
+	def stopWords_detect(self, text):
+		#Calcule la probabilité que le texte donné est écrit dans telle ou telle langue et prend la langue avec le plus haut score.
+		#On utilise les stopwords, on compte le nombre d'apparition de chaque stopwords qui apparait dans le texte.
+
+		ratios = self._calculate_languages_ratios(text)
+		most_rated_language = max(ratios, key=ratios.get)
+		return most_rated_language
+
+
+
+
+
+
+>>>>>>> 417deeeea8c6340d7707fb8a5071e4d679b21fb6
 test= LangDetector()
 
 file_ENG = open("learning_ENG.txt","r")
@@ -132,6 +170,7 @@ detect_1 = """Pulp Fiction, ou Fiction pulpeuse au Québec, est un film de gangs
 Il a été récompensé par la Palme d'or au Festival de Cannes 1994, ainsi que par l'Oscar du meilleur scénario original l'année suivante, et a été un succès aussi bien critique que commercial, établissant ainsi définitivement la réputation de Tarantino. Il est, selon le classement établi en 2007 par l'AFI, le 94e meilleur film américain de tous les temps. L'AFI le classe également à la 7e place de sa liste des meilleurs films de gangsters. En 2013, le film est sélectionné par le National Film Registry pour être conservé à la Bibliothèque du Congrès aux États-Unis pour son « importance culturelle, historique ou esthétique ».
 
 Le film revendique son artificialité et est considéré comme l'un des principaux représentants du cinéma postmoderne. Sa structure et son style non conventionnels en ont fait un film culte dont l'influence s'est ressentie sur de nombreux autres films mais aussi dans d'autres domaines culturels. Il tient son nom des pulp magazines, type de revues très populaires dans la première moitié du XXe siècle aux États-Unis et connues pour leur violence graphique et leurs dialogues incisifs."""
+<<<<<<< HEAD
 
 #score = test.detect(detect_1, 2, False)
 #print detect_1 + str(score)
@@ -156,4 +195,18 @@ for file_stats in glob.glob("*.txt"):
 
 
 
+=======
+score = test.detect(detect_1, 1, True)
+print detect_1 + str(score)
+print "\n stopwords methods : "
+language = test.stopWords_detect(detect_1)
+print language
+
+detect_2 = """Thirty years after the fact, Lippman punctuates the memory with a laugh. "To tell you the truth, I don't think I ever figured out how to solve that puzzle," she says. "All I remember is being amazed he knew the answer."""
+score = test.detect(detect_2, 1, True)
+print detect_2 + str(score)
+print "\n stopwords methods : "
+language = test.stopWords_detect(detect_2)
+print language
+>>>>>>> 417deeeea8c6340d7707fb8a5071e4d679b21fb6
 
