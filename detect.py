@@ -12,6 +12,8 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import regexp_tokenize
 
+from nltk.corpus import stopwords
+
 import re
 from collections import Counter
 from collections import OrderedDict
@@ -108,6 +110,38 @@ class LangDetector():
 		return listNgrams
 
 
+	# CALCULATE LANGUAGES RATIO WITH THE STOP WORLD
+	def _calculate_languages_ratios(self, text):
+    	#Calcule la probabilité d'avoir un text écrit dans telle ou telle languages et
+    	#retourne un dictionnaire qui ressemble à {'french': 2, 'english': 4, 'dutsh': 0}
+
+		languages_ratios = {}
+		tokens = self.getWords(text)
+
+    	# Compte par language le nombre de stopwords qui apparait.
+		for language in stopwords.fileids():
+			stopwords_set = set(stopwords.words(language))
+			words_set = set(tokens)
+			common_elements = words_set.intersection(stopwords_set)
+
+			languages_ratios[language] = len(common_elements) # nombre d'aparition de stopwords par langue
+
+		return languages_ratios
+
+    # DETECTE LANGUAGE WITH STOPWORDS
+	def stopWords_detect(self, text):
+		#Calcule la probabilité que le texte donné est écrit dans telle ou telle langue et prend la langue avec le plus haut score.
+		#On utilise les stopwords, on compte le nombre d'apparition de chaque stopwords qui apparait dans le texte.
+
+		ratios = self._calculate_languages_ratios(text)
+		most_rated_language = max(ratios, key=ratios.get)
+		return most_rated_language
+
+
+
+
+
+
 test= LangDetector()
 
 file_ENG = open("learning_ENG.txt","r")
@@ -133,7 +167,14 @@ Il a été récompensé par la Palme d'or au Festival de Cannes 1994, ainsi que 
 Le film revendique son artificialité et est considéré comme l'un des principaux représentants du cinéma postmoderne. Sa structure et son style non conventionnels en ont fait un film culte dont l'influence s'est ressentie sur de nombreux autres films mais aussi dans d'autres domaines culturels. Il tient son nom des pulp magazines, type de revues très populaires dans la première moitié du XXe siècle aux États-Unis et connues pour leur violence graphique et leurs dialogues incisifs."""
 score = test.detect(detect_1, 1, True)
 print detect_1 + str(score)
+print "\n stopwords methods : "
+language = test.stopWords_detect(detect_1)
+print language
 
 detect_2 = """Thirty years after the fact, Lippman punctuates the memory with a laugh. "To tell you the truth, I don't think I ever figured out how to solve that puzzle," she says. "All I remember is being amazed he knew the answer."""
 score = test.detect(detect_2, 1, True)
 print detect_2 + str(score)
+print "\n stopwords methods : "
+language = test.stopWords_detect(detect_2)
+print language
+
