@@ -18,6 +18,7 @@ from collections import OrderedDict
 
 import operator
 
+import glob, os
 
 class LangDetector():
 	index = dict()
@@ -107,7 +108,7 @@ class LangDetector():
 			listNgrams.append(Ngrams)
 		return listNgrams
 
-
+"""
 test= LangDetector()
 
 file_ENG = open("learning_ENG.txt","r")
@@ -115,15 +116,15 @@ learning_ENG = ""
 for line in file_ENG:
 	learning_ENG += line
 file_ENG.close()
-test.addDocument(learning_ENG,"English", 1, True)
+test.addDocument(learning_ENG,"English", 2, False)
 
 file_FRA = open("learning_FRA.txt","r")
 learning_FRA = ""
 for line in file_FRA:
 	learning_FRA += line
 file_FRA.close()
-test.addDocument(learning_FRA,"francais", 1, True)
-
+test.addDocument(learning_FRA,"francais", 2, False)
+"""
 
 
 detect_1 = """Pulp Fiction, ou Fiction pulpeuse au Québec, est un film de gangsters américain réalisé par Quentin Tarantino et sorti en 1994. Le scénario est co-écrit par Tarantino et Roger Avary. Utilisant la technique de narration non linéaire, il entremêle plusieurs histoires ayant pour protagonistes des membres de la pègre de Los Angeles et se distingue par ses dialogues stylisés, son mélange de violence et d'humour et ses nombreuses références à la culture populaire. Sa distribution principale se compose notamment de John Travolta, dont la carrière a été relancée par ce film, Samuel L. Jackson, Bruce Willis et Uma Thurman.
@@ -131,9 +132,28 @@ detect_1 = """Pulp Fiction, ou Fiction pulpeuse au Québec, est un film de gangs
 Il a été récompensé par la Palme d'or au Festival de Cannes 1994, ainsi que par l'Oscar du meilleur scénario original l'année suivante, et a été un succès aussi bien critique que commercial, établissant ainsi définitivement la réputation de Tarantino. Il est, selon le classement établi en 2007 par l'AFI, le 94e meilleur film américain de tous les temps. L'AFI le classe également à la 7e place de sa liste des meilleurs films de gangsters. En 2013, le film est sélectionné par le National Film Registry pour être conservé à la Bibliothèque du Congrès aux États-Unis pour son « importance culturelle, historique ou esthétique ».
 
 Le film revendique son artificialité et est considéré comme l'un des principaux représentants du cinéma postmoderne. Sa structure et son style non conventionnels en ont fait un film culte dont l'influence s'est ressentie sur de nombreux autres films mais aussi dans d'autres domaines culturels. Il tient son nom des pulp magazines, type de revues très populaires dans la première moitié du XXe siècle aux États-Unis et connues pour leur violence graphique et leurs dialogues incisifs."""
-score = test.detect(detect_1, 1, True)
-print detect_1 + str(score)
+
+#score = test.detect(detect_1, 2, False)
+#print detect_1 + str(score)
 
 detect_2 = """Thirty years after the fact, Lippman punctuates the memory with a laugh. "To tell you the truth, I don't think I ever figured out how to solve that puzzle," she says. "All I remember is being amazed he knew the answer."""
-score = test.detect(detect_2, 1, True)
-print detect_2 + str(score)
+#score = test.detect(detect_2, 2, False)
+#print detect_2 + str(score)
+
+
+os.chdir("jeux_stats")
+for file_stats in glob.glob("*.txt"):
+    print file
+
+
+
+
+
+
+
+
+
+
+
+
+

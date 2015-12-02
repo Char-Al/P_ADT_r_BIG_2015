@@ -1,4 +1,4 @@
-wbh yyyyyw	#!/usr/bin/env python2.7
+wbh yyyyyw	sdrpaezœ#!/usr/bin/env python2.7
 # -*- coding: utf-8 -*-
 
 import nltk
