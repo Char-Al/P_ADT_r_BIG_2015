@@ -110,9 +110,7 @@ class LangDetector():
 			listNgrams.append(Ngrams)
 		return listNgrams
 
-<<<<<<< HEAD
-"""
-=======
+
 
 	# CALCULATE LANGUAGES RATIO WITH THE STOP WORLD
 	def _calculate_languages_ratios(self, text):
@@ -144,11 +142,8 @@ class LangDetector():
 
 
 
-
-
->>>>>>> 417deeeea8c6340d7707fb8a5071e4d679b21fb6
 test= LangDetector()
-
+"""
 file_ENG = open("learning_ENG.txt","r")
 learning_ENG = ""
 for line in file_ENG:
@@ -170,7 +165,6 @@ detect_1 = """Pulp Fiction, ou Fiction pulpeuse au Québec, est un film de gangs
 Il a été récompensé par la Palme d'or au Festival de Cannes 1994, ainsi que par l'Oscar du meilleur scénario original l'année suivante, et a été un succès aussi bien critique que commercial, établissant ainsi définitivement la réputation de Tarantino. Il est, selon le classement établi en 2007 par l'AFI, le 94e meilleur film américain de tous les temps. L'AFI le classe également à la 7e place de sa liste des meilleurs films de gangsters. En 2013, le film est sélectionné par le National Film Registry pour être conservé à la Bibliothèque du Congrès aux États-Unis pour son « importance culturelle, historique ou esthétique ».
 
 Le film revendique son artificialité et est considéré comme l'un des principaux représentants du cinéma postmoderne. Sa structure et son style non conventionnels en ont fait un film culte dont l'influence s'est ressentie sur de nombreux autres films mais aussi dans d'autres domaines culturels. Il tient son nom des pulp magazines, type de revues très populaires dans la première moitié du XXe siècle aux États-Unis et connues pour leur violence graphique et leurs dialogues incisifs."""
-<<<<<<< HEAD
 
 #score = test.detect(detect_1, 2, False)
 #print detect_1 + str(score)
@@ -180,9 +174,6 @@ detect_2 = """Thirty years after the fact, Lippman punctuates the memory with a 
 #print detect_2 + str(score)
 
 
-os.chdir("jeux_stats")
-for file_stats in glob.glob("*.txt"):
-    print file
 
 
 
@@ -190,12 +181,6 @@ for file_stats in glob.glob("*.txt"):
 
 
 
-
-
-
-
-
-=======
 score = test.detect(detect_1, 1, True)
 print detect_1 + str(score)
 print "\n stopwords methods : "
@@ -208,5 +193,4 @@ print detect_2 + str(score)
 print "\n stopwords methods : "
 language = test.stopWords_detect(detect_2)
 print language
->>>>>>> 417deeeea8c6340d7707fb8a5071e4d679b21fb6
 
