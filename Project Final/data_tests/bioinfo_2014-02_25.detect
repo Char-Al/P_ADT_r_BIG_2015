@@ -1,0 +1,166 @@
+Le mail "bioinfo_2014-02_25" est globalement en : ENG
+Le sujet du mail est en : ENG
+Subject : [bioinfo] Stage M1/M2, Institut Curie, Paris
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : ENG
+	Development and integration of computational methods into the Galaxy analysis framework
+
+=======
+Le paragraphe 2 est en : ENG
+	Type de poste: 
+Stage M1/M2
+Durée du poste: 
+6 mois
+Date de début: 
+15/03/2014 or later
+Laboratoire: 
+Bioinformatics, Biostatistics, Epidemiology and computational Systems Biology of Cancer 
+Adresse: 
+U900, Institut Curie  INSERM  Mines ParisTech
+Laboratoire de Bioinformatics
+26 rue dUlm
+75005 Paris
+Nom du contact: 
+Boeva Valentina
+Email du contact: 
+Boeva.Valentina@curie.fr
+Date de validité: 
+01/05/2014
+ 
+Description du poste: 
+ 
+Contexte :
+Located in the center of Paris, our laboratory hosts 4 groups working on the cutting edge of bioinformatics and computational biology of cancer: Bioinformatics and computational systems biology of cancer, Clinical biostatistics, Epidemiology of cancer, and Statistical machine learning and modelling of biological systems. One of the main axes of the lab is to create computational methods for analysis of biomedical data, including data for personalized medicine, in particular, high throughput sequencing data. The methods we have developed allow detecting mutations in individual genomes, deciphering regulation of cellular processes and obtaining information about epigenetic profile of the genome. 
+ 
+Among the methods we have developed, we count ncPROseq for analysis of non-coding RNA, Control-FREEC for detection of copy number alterations, SVDetect for detection of structural rearrangements in the genome, HMCan for detection of histone modifications, MICSA for detection of transcription factor binding sites in the genome. These methods are highly used by bioinformaticians all around the world to perform the analyses of high throughput sequencing data.
+ 
+We would like that the methods we develop serve both the community of bioinformaticians and biologists. To facilitate the use of our computational methods by biologists we have a common practice to integrate our tools into the Galaxy work environment. Galaxy is an open source, web-based platform for data intensive biomedical research. It can be used by scientists independent of their physical location. The fact that we make our tools easily accessible to biologists via Galaxy significantly multiplies their use. It thus contributes to the progress of biomedical research.
+ 
+Scientists in our laboratory work in a close collaboration with biologists from other units of Institut Curie. Our collaborators use the local instance of Galaxy to run analysis pipelines we developed. Integration of new tools into the local instance of Galaxy would accelerate the advancement of research projects in our institute and thus make a difference in the fight against cancer.
+The objective of the internship is to implement in Galaxy the computational methods developed in the lab and create Galaxy interfaces for public tools necessary for the functioning of the institutional pipelines of biomedical data analysis.
+ 
+Description du stage :
+- Development and implementation of scripts and pipelines for analysis of biomedical data 
+- Tool integration into the Galaxy environment (in collaboration with researchers from biology units)
+- Tool documentation
+ 
+ 
+Profil recherché :
+- Knowledge of Unix/Mac OS, command line, shell
+- Programming languages Perl and/or Python
+- Fluent English
+ 
+Environnement de travail :
+The intern student will work in a Linux environment. He/she will collaborate with bioinformaticians and biologists from Institut Curie. The work will be coordinated by a research scientist. 
+ 
+Rémunération : oui.
+ 
+Dossier de candidature : CV et lettre de motivation
+
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : ENG
+	Development and integration of computational methods into the Galaxy analysis framework
+
+Type de poste: 
+Stage M1/M2
+Durée du poste: 
+6 mois
+Date de début: 
+15/03/2014 or later
+Laboratoire: 
+Bioinformatics, Biostatistics, Epidemiology and computational Systems Biology of Cancer 
+Adresse: 
+U900, Institut Curie  INSERM  Mines ParisTech
+Laboratoire de Bioinformatics
+26 rue dUlm
+75005 Paris
+Nom du contact: 
+Boeva Valentina
+Email du contact: 
+Boeva.Valentina@curie.fr
+Date de validité: 
+01/05/2014
+ 
+Description du poste: 
+ 
+Contexte :
+Located in the center of Paris, our laboratory hosts 4 groups working on the cutting edge of bioinformatics and computational biology of cancer: Bioinformatics and computational systems biology of cancer, Clinical biostatistics, Epidemiology of cancer, and Statistical machine learning and modelling of biological systems.
+=======
+La phrase 2 est en : ENG
+	One of the main axes of the lab is to create computational methods for analysis of biomedical data, including data for personalized medicine, in particular, high throughput sequencing data.
+=======
+La phrase 3 est en : ENG
+	The methods we have developed allow detecting mutations in individual genomes, deciphering regulation of cellular processes and obtaining information about epigenetic profile of the genome.
+=======
+La phrase 4 est en : ENG
+	Among the methods we have developed, we count ncPROseq for analysis of non-coding RNA, Control-FREEC for detection of copy number alterations, SVDetect for detection of structural rearrangements in the genome, HMCan for detection of histone modifications, MICSA for detection of transcription factor binding sites in the genome.
+=======
+La phrase 5 est en : ENG
+	These methods are highly used by bioinformaticians all around the world to perform the analyses of high throughput sequencing data.
+=======
+La phrase 6 est en : ENG
+	We would like that the methods we develop serve both the community of bioinformaticians and biologists.
+=======
+La phrase 7 est en : ENG
+	To facilitate the use of our computational methods by biologists we have a common practice to integrate our tools into the Galaxy work environment.
+=======
+La phrase 8 est en : ENG
+	Galaxy is an open source, web-based platform for data intensive biomedical research.
+=======
+La phrase 9 est en : ENG
+	It can be used by scientists independent of their physical location.
+=======
+La phrase 10 est en : ENG
+	The fact that we make our tools easily accessible to biologists via Galaxy significantly multiplies their use.
+=======
+La phrase 11 est en : ENG
+	It thus contributes to the progress of biomedical research.
+=======
+La phrase 12 est en : ENG
+	Scientists in our laboratory work in a close collaboration with biologists from other units of Institut Curie.
+=======
+La phrase 13 est en : ENG
+	Our collaborators use the local instance of Galaxy to run analysis pipelines we developed.
+=======
+La phrase 14 est en : ENG
+	Integration of new tools into the local instance of Galaxy would accelerate the advancement of research projects in our institute and thus make a difference in the fight against cancer.
+=======
+La phrase 15 est en : ENG
+	The objective of the internship is to implement in Galaxy the computational methods developed in the lab and create Galaxy interfaces for public tools necessary for the functioning of the institutional pipelines of biomedical data analysis.
+=======
+La phrase 16 est en : ENG
+	Description du stage :
+- Development and implementation of scripts and pipelines for analysis of biomedical data 
+- Tool integration into the Galaxy environment (in collaboration with researchers from biology units)
+- Tool documentation
+ 
+ 
+Profil recherché :
+- Knowledge of Unix/Mac OS, command line, shell
+- Programming languages Perl and/or Python
+- Fluent English
+ 
+Environnement de travail :
+The intern student will work in a Linux environment.
+=======
+La phrase 17 est en : ENG
+	He/she will collaborate with bioinformaticians and biologists from Institut Curie.
+=======
+La phrase 18 est en : ENG
+	The work will be coordinated by a research scientist.
+=======
+La phrase 19 est en : FRA
+	Rémunération : oui.
+=======
+La phrase 20 est en : FRA
+	Dossier de candidature : CV et lettre de motivation
+
+=======

@@ -1,0 +1,147 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Fabienne.Granier@versailles.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id C4D0126801D
+	for <bioinfo@sfbi.fr>; Tue, 28 Jan 2014 12:06:01 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkEBAKWO51KKZofkmWdsb2JhbABag0S9K4EnDgEBAQEBCAsLBxQogjhHHwKBQxOIBQQJmkCvCBeOWYJcD2aBFASVMYk/jwU
+X-IronPort-AV: E=Sophos;i="4.95,735,1384297200"; 
+   d="scan'208";a="53056649"
+Received: from mx.versailles.inra.fr (HELO mail01.versailles.inra.fr) ([138.102.135.228])
+  by b-mx1.relay.syrhano.net with ESMTP; 28 Jan 2014 12:06:01 +0100
+Received: from [192.168.0.15] (abo-96-39-68.mts.modulonet.fr [85.68.39.96])
+	(authenticated bits=0)
+	by mail01.versailles.inra.fr (/8.14.4) with ESMTP id s0SB60Pp012074
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=NOT);
+	Tue, 28 Jan 2014 12:06:00 +0100 (CET)
+From: Fabienne Granier <Fabienne.Granier@versailles.inra.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 28 Jan 2014 12:06:00 +0100
+To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
+Message-Id: <E88C4C13-FF48-4E85-A1F1-F484EB7EC864@versailles.inra.fr>
+Mime-Version: 1.0 (Mac OS X Mail 6.1 \(1498\))
+X-Mailer: Apple Mail (2.1498)
+X-Miltered: at mail01 with ID 52E78F18.001 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 52E78F18.001/85.68.39.96/abo-96-39-68.mts.modulonet.fr/[192.168.0.15]/<Fabienne.Granier@versailles.inra.fr>
+X-j-chkmail-Score: MSGID : 52E78F18.001 on mail01.versailles.inra.fr : j-chkmail score : . : R=. U=. O=# B=0.011 -> S=0.014
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at mail01
+X-Virus-Status: Clean
+X-Validation-by: alouis@biologie.ens.fr
+Subject: [bioinfo] Offre de stage - INRA Versailles - Assemblage mitochondries
+
+Proposition de stage en  bioinformatique
+
+=20
+
+Sujet de stage : Assemblage de novo de g=E9nomes mitochondriaux d=92accessi=
+ons naturelles d=92Arabidopsis thaliana
+
+Contexte :
+
+                 L=92IJPB (350 personnes) est une tr=E8s grande unit=E9 mix=
+te de recherche INRA-AgroParis Tech qui regroupe un ensemble de ressources =
+et de comp=E9tences pluridisciplinaires d=E9di=E9es =E0 la recherche sur le=
+ v=E9g=E9tal.
+
+                  F Budar, animatrice de l=92=E9quipe =AB Organites et Repr=
+oduction =BB, est coordinatrice du projet ANR Bioadapt Cytopheno impliquant=
+ 6 =E9quipes partenaires.
+
+                  L=92objectif du projet est d=92=E9tudier l=92impact de la=
+ co-adaptation nucl=E9o-cytoplasmique en relation avec l=92adaptation au mi=
+lieu chez Arabidopsis thaliana en exploitant une ressource g=E9n=E9tique in=
+=E9dite, les cytolign=E9es. Ce sont des lign=E9es qui poss=E8dent le g=E9no=
+me nucl=E9aire d=92une accession naturelle et les g=E9nomes cytoplasmiques =
+(chloroplaste et mitochondrie) d=92une autre. L=92=E9quipe Bioinformatique =
+et Informatique est partenaire de ce projet pour r=E9aliser les analyses bi=
+oinformatiques sur les donn=E9es qui seront produites dans ce cadre.
+
+Les informations de res=E9quen=E7age actuellement disponibles sur les acces=
+sions naturelles d=92Arabidopsis thaliana ne concernent pas toujours les or=
+ganites. De plus, les g=E9nomes mitochondriaux =E9voluent par r=E9arrangeme=
+nts ce qui produit des variants structuraux qui sont plus complexes =E0 ide=
+ntifier que les mutations ponctuelles (SNP). Les ADNs mitochondriaux de 10 =
+accessions naturelles ont =E9t=E9 s=E9quenc=E9s =E0 partir de librairies pa=
+ired-ends en technologie Illumina.
+
+Missions :
+
+Votre objectif sera de contribuer aux analyses bioinformatiques des donn=E9=
+es de s=E9quen=E7age produites, en collaboration avec les bioinformaticiens=
+ de l=92=E9quipe. En vous appuyant sur des proc=E9dures en cours de mise en=
+ =9Cuvre dans un projet similaire, et en les adaptant aux particularit=E9s =
+des jeux de donn=E9es du projet Cytopheno, vous contribuerez aux analyses d=
+es assemblages de novo des g=E9nomes mitochondriaux concern=E9s. Trois asse=
+mbleurs bas=E9s sur des algorithmes diff=E9rents seront test=E9s et une com=
+paraison des diff=E9rents assemblages obtenus sera r=E9alis=E9e. Le stage e=
+st susceptible d=92=EAtre poursuivi par un CDD de 3 mois qui pourrait perme=
+ttre d=92aller jusqu=92=E0  l=92annotation des g=E9nomes en les int=E9grant=
+  dans des outils de g=E9nomique comparative.
+
+Le stagiaire sera encadr=E9 par, et travaillera en collaboration avec, l=92=
+=E9quipe bioinformatique constitu=E9e de 3 personnes. Il aura =E9galement =
+=E0 interagir avec l=92=E9quipe Organites et Reproduction de l=92IJPB, qui =
+pourra, si n=E9cessaire, mettre en =9Cuvre des exp=E9riences permettant de =
+tester certains assemblages.
+
+=20
+
+Comp=E9tences souhait=E9es :
+
+- Connaissances en bioinformatique et g=E9nomique v=E9g=E9tale.
+
+- Bonnes connaissances des langages shell et R.
+
+- Bonne connaissance de l=92environnement Linux.
+
+- Une premi=E8re  exp=E9rience en analyse de donn=E9es NGS serait un plus.
+
+=20
+
+Contacts :
+
+-Responsable scientifique du projet: Fran=E7oise Budar, directrice de reche=
+rche (01 30 83 31 80).
+
+-Responsable de l=92=E9quipe Bioinformatique et Informatique : Fabienne Gra=
+nier, ing=E9nieur de recherche en bioinformatique (01 30 83 33 07).
+
+=20
+
+Laboratoire d=92accueil :
+
+Equipe Bioinformatique et Informatique, IJPB, INRA
+
+Route de St Cyr, 78026, Versailles
+
+=20
+
+Dur=E9e souhait=E9e : 4 =E0 6 mois. Ce stage est susceptible d=92=EAtre pou=
+rsuivi par un CDD de 3 mois.
+
+Gratification mensuelle : 436,05 =80
+
+Possibilit=E9 de logement sur le campus =E0 co=FBt r=E9duit
+
+CV et lettre de motivation =E0 adresser =E0 : Fabienne Granier=96 01 30 83 =
+33 07=20=20=20=20
+
+___________________________________________________________________________=
+_______________________________________________________________
+
+
+=20
+Fabienne GRANIER
+Ing=E9nieur de recherche en bioinformatique
+fabienne.granier@versailles.inra.fr
+Equipe Bioinformatique et Informatique
+Institut Jean-Pierre Bourgin, UMR 1318 INRA-AgroParis Tech
+Bureau: +33 1 (0)1 30 83 33 07
+Route de Saint-Cyr
+78026 Versailles Cedex, France
+www-ijpb.versailles.inra.fr
+

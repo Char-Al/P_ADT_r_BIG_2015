@@ -10,7 +10,7 @@ import re
 
 
 # Detector by unigram
-def detectLanguagesMails(repertory):
+def detectLanguagesMails(repertory, out):
 	file_FRA = open("learning/FRA.txt","r")
 	learning_FRA = ""
 	for line in file_FRA:
@@ -30,11 +30,11 @@ def detectLanguagesMails(repertory):
 
 	
 
-	GLOBAL_F = open("mails_analyze/global.txt",'w')
+	GLOBAL_F = open(out + "/global.txt",'w')
 	os.chdir(repertory)
 	for mails in glob.glob("*"):
 		name = re.search('(.*)',mails)
-		name_file = str("../mails_analyze/" + name.group(1)) + ".detect"
+		name_file = str("../" + out + "/" + name.group(1) + ".detect")
 		print (name_file)
 		FILE = open(name_file,'w')	
 		e = Email(mails)
@@ -114,8 +114,12 @@ def learning_SW():
 	STATS.close()
 	
 
+
+
 #learning_stats()
 
 #learning_SW()
 
-detectLanguagesMails("mails")
+#detectLanguagesMails("mails","data_stats")
+
+detectLanguagesMails("TestMails","data_tests")
