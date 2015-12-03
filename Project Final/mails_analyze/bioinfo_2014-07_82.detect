@@ -1,0 +1,147 @@
+Le mail "bioinfo_2014-07_82" est globalement en : FRA
+Le sujet du mail est en : FRA
+Subject : [bioinfo] [Emploi][Stage] Stage Master 2 Recherche - Meta-analyse transcriptomique des gènes LILR au cours des interactions hôte / pathogène
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	Sujet:
+Meta-analyse transcriptomique de l'expression des gènes de la famille LILR au cours des interactions hôte/pathogène.
+
+=======
+Le paragraphe 2 est en : FRA
+	Contexte:
+Le système immunitaire joue un rôle essentiel dans la lutte quotidienne contre les agents infectieux. Néanmoins, certains pathogènes sont capables de contrôler le développement de la réponse immunitaire de l'hôte et de l'envahir. Les mécanismes mis en jeu dans la modulation des réponses immunitaires impliquent les cellules présentatrices d'antigènes professionnelles. Celles-ci peuvent réguler les réponses immunitaires innées et adaptatives à travers la stimulation des récepteurs de la famille LILR (Leukocyte Immunoglobulin-Like Receptors - également appelés ILT) présents à leur surface (1). Il a été montré que certains récepteurs LILR sont la cible de pathogènes tel que le VIH, la dengue ou encore la lèpre. Dans ce cas, le pathogène est capable d'induire une surexpression des LILR afin d'induire une dysfonction de la réponse immunitaire et ainsi lui échapper (2-5).
+
+=======
+Le paragraphe 3 est en : FRA
+	Projet:
+L'objectif de ce stage vise à réaliser une méta-analyse des profils d'expression des LILR au cours de différentes pathologies infectieuses.
+Dans un premier temps, un travail bibliographique sera à effectuer afin d'identifier des données transcriptomiques et éventuellement protéomiques publiques (NCBI-GEO, EBI-AE, EBI-PRIDE) d'intérêt pour notre étude. Ces données seront très majoritairement issues d'études impliquant des pathologies infectieuses au sein de cohortes de patients ainsi que de modèles d'infection primates non humains. Dans un deuxième temps, le travail consistera à analyser les profils d'expression des gènes LILR en se basant sur ces données. Le but sera principalement d'identifier les gènes LILR corrélant le plus significativement aux variables phénotypiques pour chacune des études. L'analyse permettra aussi d'identifier les mécanismes biologiques impliquant les gènes LILR et corrélant avec les pathologies. Celle-ci se fera principalement grâce à des scripts R/Bioconducteur. Les enrichissements fonctionnels se feront par l'intermédiaire d'Ingenuity Pathway Analysis et d'EnrichR. L'analyse impliquera de par sa nature des comparaisons entre des espèces et plateformes différentes. 
+
+=======
+Le paragraphe 4 est en : FRA
+	Références:
+1 - Anderson KJ & Allen RL, Immunology 127, 8-17 (2009)
+2 - Cosman D et al. Immunity 7, 273-82 (1997)
+3 - Bleharski JR et al. Science 301, 1527-30 (2003)
+4 - Huang J et al J exp med 206, 2959-66 (2009)
+5 - Bashirova A et al. Plos Genetics e1004196 (2014)
+
+=======
+Le paragraphe 5 est en : FRA
+	Compétences souhaitées:
+Notions en physiopathologie des organismes supérieurs.
+Notions en bio-informatique et R/Bioconducteur.
+
+=======
+Le paragraphe 6 est en : FRA
+	Modalités du stage:
+Stage d'une durée de 6 mois, début du stage entre fin 2014-début 2015.
+Le stage se déroulera dans le Service d'Immuno-Virologie du Commissariat à l'Energie Atomique de Fontenay-aux-Roses.
+
+=======
+Le paragraphe 7 est en : FRA
+	Contacts:
+Veuillez faire parvenir un curriculum vitae à :
+Benoît Favier benoit.favier@cea.fr et Nicolas Tchitchek nicolas.tchitchek@cea.fr
+
+=======
+Le paragraphe 8 est en : non detect
+	
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : FRA
+	Sujet:
+Meta-analyse transcriptomique de l'expression des gènes de la famille LILR au cours des interactions hôte/pathogène.
+=======
+La phrase 2 est en : FRA
+	Contexte:
+Le système immunitaire joue un rôle essentiel dans la lutte quotidienne contre les agents infectieux.
+=======
+La phrase 3 est en : FRA
+	Néanmoins, certains pathogènes sont capables de contrôler le développement de la réponse immunitaire de l'hôte et de l'envahir.
+=======
+La phrase 4 est en : FRA
+	Les mécanismes mis en jeu dans la modulation des réponses immunitaires impliquent les cellules présentatrices d'antigènes professionnelles.
+=======
+La phrase 5 est en : FRA
+	Celles-ci peuvent réguler les réponses immunitaires innées et adaptatives à travers la stimulation des récepteurs de la famille LILR (Leukocyte Immunoglobulin-Like Receptors - également appelés ILT) présents à leur surface (1).
+=======
+La phrase 6 est en : FRA
+	Il a été montré que certains récepteurs LILR sont la cible de pathogènes tel que le VIH, la dengue ou encore la lèpre.
+=======
+La phrase 7 est en : FRA
+	Dans ce cas, le pathogène est capable d'induire une surexpression des LILR afin d'induire une dysfonction de la réponse immunitaire et ainsi lui échapper (2-5).
+=======
+La phrase 8 est en : FRA
+	Projet:
+L'objectif de ce stage vise à réaliser une méta-analyse des profils d'expression des LILR au cours de différentes pathologies infectieuses.
+=======
+La phrase 9 est en : FRA
+	Dans un premier temps, un travail bibliographique sera à effectuer afin d'identifier des données transcriptomiques et éventuellement protéomiques publiques (NCBI-GEO, EBI-AE, EBI-PRIDE) d'intérêt pour notre étude.
+=======
+La phrase 10 est en : FRA
+	Ces données seront très majoritairement issues d'études impliquant des pathologies infectieuses au sein de cohortes de patients ainsi que de modèles d'infection primates non humains.
+=======
+La phrase 11 est en : FRA
+	Dans un deuxième temps, le travail consistera à analyser les profils d'expression des gènes LILR en se basant sur ces données.
+=======
+La phrase 12 est en : FRA
+	Le but sera principalement d'identifier les gènes LILR corrélant le plus significativement aux variables phénotypiques pour chacune des études.
+=======
+La phrase 13 est en : FRA
+	L'analyse permettra aussi d'identifier les mécanismes biologiques impliquant les gènes LILR et corrélant avec les pathologies.
+=======
+La phrase 14 est en : FRA
+	Celle-ci se fera principalement grâce à des scripts R/Bioconducteur.
+=======
+La phrase 15 est en : ENG
+	Les enrichissements fonctionnels se feront par l'intermédiaire d'Ingenuity Pathway Analysis et d'EnrichR.
+=======
+La phrase 16 est en : FRA
+	L'analyse impliquera de par sa nature des comparaisons entre des espèces et plateformes différentes.
+=======
+La phrase 17 est en : FRA
+	Références:
+1 - Anderson KJ & Allen RL, Immunology 127, 8-17 (2009)
+2 - Cosman D et al.
+=======
+La phrase 18 est en : ENG
+	Immunity 7, 273-82 (1997)
+3 - Bleharski JR et al.
+=======
+La phrase 19 est en : FRA
+	Science 301, 1527-30 (2003)
+4 - Huang J et al J exp med 206, 2959-66 (2009)
+5 - Bashirova A et al.
+=======
+La phrase 20 est en : FRA
+	Plos Genetics e1004196 (2014)
+
+Compétences souhaitées:
+Notions en physiopathologie des organismes supérieurs.
+=======
+La phrase 21 est en : FRA
+	Notions en bio-informatique et R/Bioconducteur.
+=======
+La phrase 22 est en : FRA
+	Modalités du stage:
+Stage d'une durée de 6 mois, début du stage entre fin 2014-début 2015.
+=======
+La phrase 23 est en : FRA
+	Le stage se déroulera dans le Service d'Immuno-Virologie du Commissariat à l'Energie Atomique de Fontenay-aux-Roses.
+=======
+La phrase 24 est en : FRA
+	Contacts:
+Veuillez faire parvenir un curriculum vitae à :
+Benoît Favier benoit.favier@cea.fr et Nicolas Tchitchek nicolas.tchitchek@cea.fr
+
+
+
+=======

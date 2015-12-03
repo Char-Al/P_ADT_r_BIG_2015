@@ -1,0 +1,146 @@
+Le mail "bioinfo_2014-05_6" est globalement en : ENG
+Le sujet du mail est en : ENG
+Subject : [bioinfo] ECCB 2014 tutorial "Computational Tools to Define and Analyse Logical Models of Cellular Networks"
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : ENG
+	We are pleased to announce the ECCB'14 tutorial on "Computational Tools to Define and Analyse Logical Models of Cellular Networks" that will take place Sunday, 7th September, 2014 afternoon, in Strasbourg, France. 
+
+=======
+Le paragraphe 2 est en : ENG
+	Looking forward to seeing you in Strasbourg, 
+
+=======
+Le paragraphe 3 est en : ENG
+	C. Chaouiya, T. Cokelaer, T. Helikar and J. Saez-Rodriguez
+
+=======
+Le paragraphe 4 est en : ENG
+	------------------------------------------------------------------------------------------
+Tutorial T02 - Logical Modelling and Analysis of Cellular Networks
+             http://www.eccb14.org/program/tutorials/lmcn
+------------------------------------------------------------------------------------------
+
+=======
+Le paragraphe 5 est en : ENG
+	------------  Short description ------------
+
+=======
+Le paragraphe 6 est en : ENG
+	The logical framework is being increasingly used to model the dynamical behaviour of biological regulatory networks. In this context, a range of computational tools have been developed to support model definition and analysis. These tools reflect the diversity of formalisations covering “logical modelling” (Boolean, multilevel, deterministic, stochastic, etc.). This tutorial aims at providing an overview of this diversity, demonstrating the complementarity between existing computational tools made possible by a novel exchange format --Systems Biology Markup Language  Qualitative Models (SBML qual). Instructors will provide an overview of existing technology powering efficient qualitative modelling of regulatory and signalling networks. Real biological examples will be used in the proposed tutorial session. Specifically, presentations will cover the following topics:
+- Brief introduction to logical modelling;
+- Existing software tools and their specificities;
+- SBML qual package, a standard format for model exchange;
+- CellNOpt: a toolbox for creating logic-based models of signal transduction networks, and training them against high-throughput biochemical data (http://www.cellnopt.org/), overview and short demo;
+- GINsim, a software tool for the definition simulation and analysis of regulatory and signalling networks (http://www.ginsim.org/), overview and short demo;
+- The Cell Collective, a platform for collaborative creation and simulation of large-scale Boolean models (http://www.thecellcollective.org/), overview and short demo.
+
+=======
+Le paragraphe 7 est en : ENG
+	Attendees will have access to all the material necessary in order to follow/reproduce the various short demonstrations. Speed dating will be organised along the main conference, for one-on-one hands-on training with attendees' custom data. 
+
+=======
+Le paragraphe 8 est en : ENG
+	--------- Target audience ---------
+
+=======
+Le paragraphe 9 est en : ENG
+	Students and researchers interested in learning a modelling approach to tackle the complexity of regulatory and signalling networks. This tutorial should interest not only new-comers to the field of network modelling, but also those already familiar with a particular tool, willing to learn about complementary approaches. No prior modelling experience is necessary.
+
+=======
+Le paragraphe 10 est en : FRA
+	---------- Instructors ---------
+
+=======
+Le paragraphe 11 est en : FRA
+		- Claudine Chaouiya (Instituto Gulbenkian de Ciência, Oeiras Portugal)
+	- Thomas Cokelaer (EMBL-EBI, UK)
+	- Tomas Helikar (University of Nebraska-Lincoln, USA)
+	- Julio Saez-Rodriguez (EMBL-EBI, UK) 
+
+=======
+Le paragraphe 12 est en : ENG
+	Note that this tutorial is coupled with the workshop "Logical Modelling and Analysis of Cellular Networks", on the previous day (Saturday, September 6th, 2014, http://www.eccb14.org/program/workshops/lmacn).
+
+=======
+Le paragraphe 13 est en : non detect
+	
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : ENG
+	We are pleased to announce the ECCB'14 tutorial on "Computational Tools to Define and Analyse Logical Models of Cellular Networks" that will take place Sunday, 7th September, 2014 afternoon, in Strasbourg, France.
+=======
+La phrase 2 est en : ENG
+	Looking forward to seeing you in Strasbourg, 
+
+C. Chaouiya, T. Cokelaer, T. Helikar and J. Saez-Rodriguez
+
+
+------------------------------------------------------------------------------------------
+Tutorial T02 - Logical Modelling and Analysis of Cellular Networks
+             http://www.eccb14.org/program/tutorials/lmcn
+------------------------------------------------------------------------------------------
+
+------------  Short description ------------
+
+The logical framework is being increasingly used to model the dynamical behaviour of biological regulatory networks.
+=======
+La phrase 3 est en : ENG
+	In this context, a range of computational tools have been developed to support model definition and analysis.
+=======
+La phrase 4 est en : ENG
+	These tools reflect the diversity of formalisations covering “logical modelling” (Boolean, multilevel, deterministic, stochastic, etc.).
+=======
+La phrase 5 est en : ENG
+	This tutorial aims at providing an overview of this diversity, demonstrating the complementarity between existing computational tools made possible by a novel exchange format --Systems Biology Markup Language  Qualitative Models (SBML qual).
+=======
+La phrase 6 est en : ENG
+	Instructors will provide an overview of existing technology powering efficient qualitative modelling of regulatory and signalling networks.
+=======
+La phrase 7 est en : ENG
+	Real biological examples will be used in the proposed tutorial session.
+=======
+La phrase 8 est en : ENG
+	Specifically, presentations will cover the following topics:
+- Brief introduction to logical modelling;
+- Existing software tools and their specificities;
+- SBML qual package, a standard format for model exchange;
+- CellNOpt: a toolbox for creating logic-based models of signal transduction networks, and training them against high-throughput biochemical data (http://www.cellnopt.org/), overview and short demo;
+- GINsim, a software tool for the definition simulation and analysis of regulatory and signalling networks (http://www.ginsim.org/), overview and short demo;
+- The Cell Collective, a platform for collaborative creation and simulation of large-scale Boolean models (http://www.thecellcollective.org/), overview and short demo.
+=======
+La phrase 9 est en : ENG
+	Attendees will have access to all the material necessary in order to follow/reproduce the various short demonstrations.
+=======
+La phrase 10 est en : ENG
+	Speed dating will be organised along the main conference, for one-on-one hands-on training with attendees' custom data.
+=======
+La phrase 11 est en : ENG
+	--------- Target audience ---------
+
+Students and researchers interested in learning a modelling approach to tackle the complexity of regulatory and signalling networks.
+=======
+La phrase 12 est en : ENG
+	This tutorial should interest not only new-comers to the field of network modelling, but also those already familiar with a particular tool, willing to learn about complementary approaches.
+=======
+La phrase 13 est en : FRA
+	No prior modelling experience is necessary.
+=======
+La phrase 14 est en : ENG
+	---------- Instructors ---------
+
+	- Claudine Chaouiya (Instituto Gulbenkian de Ciência, Oeiras Portugal)
+	- Thomas Cokelaer (EMBL-EBI, UK)
+	- Tomas Helikar (University of Nebraska-Lincoln, USA)
+	- Julio Saez-Rodriguez (EMBL-EBI, UK) 
+
+Note that this tutorial is coupled with the workshop "Logical Modelling and Analysis of Cellular Networks", on the previous day (Saturday, September 6th, 2014, http://www.eccb14.org/program/workshops/lmacn).
+
+
+=======

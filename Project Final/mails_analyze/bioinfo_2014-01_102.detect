@@ -1,0 +1,139 @@
+Le mail "bioinfo_2014-01_102" est globalement en : FRA
+Le sujet du mail est en : ENG
+Subject : [bioinfo] Offre de stage de Master bio-info
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	Classification supervisée pour lanalyse en biologie cellulaire 
+
+=======
+Le paragraphe 2 est en : FRA
+	Encadrant : Michel Barlaud
+Fonction Professeur Université de Nice-Sophia Antipolis 
+
+=======
+Le paragraphe 3 est en : FRA
+	Lieu du stage : 
+Laboratoire I3S  Les Algorithmes  Bât Euclide B - 06903 Sophia-Antipolis
+
+=======
+Le paragraphe 4 est en : FRA
+	Durée : 5-6 mois 
+
+=======
+Le paragraphe 5 est en : ENG
+	Contact : Michel  Barlaud 
+  barlaud@i3s.unice.fr 
+  www.i3s.unice.fr/~barlaud/
+
+=======
+Le paragraphe 6 est en : FRA
+	Mots clés :
+Machine Learning, Classification supervisée, SVM, Boosting, Biologie Cellulaire
+
+=======
+Le paragraphe 7 est en : FRA
+	Lobjectif du stage est de développer un logiciel de classification supervisée dimages pour des applications en biologie cellulaire. Les partenaires de ce projet sont léquipe MediaCoding du Laboratoire I3S (Pr M Barlaud) et léquipe TIRO en biologie cellulaire (Pr P Pognonec et T Pourcher).
+Lobjectif de léquipe biologie cellulaire est de caractériser la fixation dune protéine (NIS) dans le cadre de radiothérapies et de traitements préventifs en toxicologie (anti « Fukushima »). Léquipe possède un microscope à haut débit qui génère des millions dimages de cellules. 
+Léquipe MediaCoding du Laboratoire I3S a développé des solutions innovantes de machine learning pour la classification haut débit (large scale). Des descripteurs adaptés à la classification de cellules sont basés sur des modèles de rétine artificielle  [2]. Nous avons récemment développé de nouvelles approches de machine learning basées sur la minimisation de fonctions de coût dans le primal  [3]  (alors que les SVM classiques utilisent la minimisation dans le dual).  
+Lobjectif de ce stage est doptimiser cette nouvelle méthode  [1] et de ladapter dans un logiciel de classification en biologie cellulaire.
+
+=======
+Le paragraphe 8 est en : FRA
+	Les compétences, savoir-faire et aptitudes demandées
+- Master ayant une expérience significative dans les domaines suivants :
+- Notion de Machine Learning : Boosting, SVM
+- Notions de Biologie Cellulaire
+- Langages : C++... Systèmes dexploitation : Linux, Matlab 
+- Anglais technique lu, écrit, parlé
+
+=======
+Le paragraphe 9 est en : ENG
+	[1] Boosting Stochastic Low-Rank Newton Descent for large scale image classification. Wafa BelHajAli, Paolo Piro,  Richard Nock, Michel Barlaud International Journal of Computer Vision.
+
+=======
+Le paragraphe 10 est en : ENG
+	[2] Classification of biological cells using bio-inspired descriptors
+Wafa BelHajAli, Paolo Piro, Richard Nock, Thierry Pourcher,Michel Barlaud.  International Conference on Pattern Recognition Tsukuba Science City, JAPAN (2012)
+
+=======
+Le paragraphe 11 est en : ENG
+	[3] Boosting k-NN for categorization of natural scenes
+R. Nock, P. Piro, Wafa Bel Haj Ali  F. Nielsen, M. Barlaud
+International Journal of Computer Vision, 100 pp.294-314, 04/07/2012
+
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : FRA
+	Classification supervisée pour lanalyse en biologie cellulaire 
+
+Encadrant : Michel Barlaud
+Fonction Professeur Université de Nice-Sophia Antipolis 
+
+Lieu du stage : 
+Laboratoire I3S  Les Algorithmes  Bât Euclide B - 06903 Sophia-Antipolis
+
+Durée : 5-6 mois 
+
+Contact : Michel  Barlaud 
+  barlaud@i3s.unice.fr 
+  www.i3s.unice.fr/~barlaud/
+
+Mots clés :
+Machine Learning, Classification supervisée, SVM, Boosting, Biologie Cellulaire
+
+Lobjectif du stage est de développer un logiciel de classification supervisée dimages pour des applications en biologie cellulaire.
+=======
+La phrase 2 est en : FRA
+	Les partenaires de ce projet sont léquipe MediaCoding du Laboratoire I3S (Pr M Barlaud) et léquipe TIRO en biologie cellulaire (Pr P Pognonec et T Pourcher).
+=======
+La phrase 3 est en : FRA
+	Lobjectif de léquipe biologie cellulaire est de caractériser la fixation dune protéine (NIS) dans le cadre de radiothérapies et de traitements préventifs en toxicologie (anti « Fukushima »).
+=======
+La phrase 4 est en : FRA
+	Léquipe possède un microscope à haut débit qui génère des millions dimages de cellules.
+=======
+La phrase 5 est en : FRA
+	Léquipe MediaCoding du Laboratoire I3S a développé des solutions innovantes de machine learning pour la classification haut débit (large scale).
+=======
+La phrase 6 est en : FRA
+	Des descripteurs adaptés à la classification de cellules sont basés sur des modèles de rétine artificielle  [2].
+=======
+La phrase 7 est en : FRA
+	Nous avons récemment développé de nouvelles approches de machine learning basées sur la minimisation de fonctions de coût dans le primal  [3]  (alors que les SVM classiques utilisent la minimisation dans le dual).
+=======
+La phrase 8 est en : FRA
+	Lobjectif de ce stage est doptimiser cette nouvelle méthode  [1] et de ladapter dans un logiciel de classification en biologie cellulaire.
+=======
+La phrase 9 est en : FRA
+	Les compétences, savoir-faire et aptitudes demandées
+- Master ayant une expérience significative dans les domaines suivants :
+- Notion de Machine Learning : Boosting, SVM
+- Notions de Biologie Cellulaire
+- Langages : C++... Systèmes dexploitation : Linux, Matlab 
+- Anglais technique lu, écrit, parlé
+
+
+[1] Boosting Stochastic Low-Rank Newton Descent for large scale image classification.
+=======
+La phrase 10 est en : ENG
+	Wafa BelHajAli, Paolo Piro,  Richard Nock, Michel Barlaud International Journal of Computer Vision.
+=======
+La phrase 11 est en : ENG
+	[2] Classification of biological cells using bio-inspired descriptors
+Wafa BelHajAli, Paolo Piro, Richard Nock, Thierry Pourcher,Michel Barlaud.
+=======
+La phrase 12 est en : ENG
+	International Conference on Pattern Recognition Tsukuba Science City, JAPAN (2012)
+
+[3] Boosting k-NN for categorization of natural scenes
+R. Nock, P. Piro, Wafa Bel Haj Ali  F. Nielsen, M. Barlaud
+International Journal of Computer Vision, 100 pp.294-314, 04/07/2012
+
+=======

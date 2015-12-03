@@ -1,0 +1,124 @@
+Le mail "bioinfo_2014-11_85" est globalement en : FRA
+Le sujet du mail est en : FRA
+Subject : [bioinfo] Développementdune interface web pour la prédiction et la visualisation des surface dinteractionprotéine : protéine
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	Responsables de stage : Dr Guillaume Launay et Dr Xavier Robert
+
+=======
+Le paragraphe 2 est en : FRA
+	Les protéines jouent un rôle essentiel dans les voies de signalisation intra et inter-cellulaires. La perturbation de ces signaux peut causer lapparition de cancer ou être mis à profit par des agents infectieux (bactéries, virus) pour leur propre développement. Létude moléculaire et structurale des interactions protéine:protéine revêt donc un enjeu essentiel pour la compréhension des mécanismes infectieux et le développement de nouvelles stratégies thérapeutiques
+ Les simulations biophysiques réalisées dans léquipe Bioinformatique Structures et Interactions permettent lanalyse et la prediction de certains complexes protéine-protéine1. Dans ces travaux, le docking protéine-protéine intensif de la protéine étudiée est réalisé à laide du logiciel de docking HeX2. Puis, toutes les poses de docking sont repertoriées et leur classification permet l'identification de régions susceptibles de former des interfaces  à la surface de la protéine isolée. Un pipeline bio informatique développé dans notre équipe implémente cette méthode dite de docking arbitraire. 
+Lobjectif de ce stage est la construction dune interface utilisateur pour ce pipeline permettant au biologiste la soumission de protéines et la visualisation de résultats. Linterface devra notamment permettre la visualisation interactive de la représentation tridimensionnelle de la protéine et de ses surfaces dinteraction. Ce service utilisera nos moyens de calcul et communiquera avec le serveur ENDscript5 développé par léquipe de biocristallographie de lunité. 
+
+=======
+Le paragraphe 3 est en : FRA
+	Les technologies que le stagiaire sera amené à manipuler sont les suivantes:
+&#10063;	WebGL, rendu 3D des protéines
+&#10063;	D34 , représentation graphique des résultats
+&#10063;	La bibliothèque BioJS5, composants JavaScript de bioinformatique
+
+=======
+Le paragraphe 4 est en : ENG
+	Références:
+1)	Martin J et Lavery R. Arbitrary protein-protein docking targets biologically relevant interfaces. BMC Biophys. 2012. doi: 10.1186/2046-1682-5-7.
+2)	Ghoorah AW, Smail-Tabbone M, Devignes MD, Ritchie DW. Protein Docking Using Case-Based Reasoning. Proteins: Structure, Function, Bioinformatics. 2013.  doi: 10.1002/prot.24433
+3)	Robert X et Gouet P. Deciphering key features in protein structures with the new ENDscript server. Nucleic Acids Res. 2014, W3240-4. Web Server issue. doi: 10.1093/nar/gku316..
+4)	d3js.org
+5)	http://biojs.net/
+
+=======
+Le paragraphe 5 est en : FRA
+	Contact et équipe daccueil : BMSSI, UMR 5086, Bionformatique: structures et interactions, guillaume.launay@ibcp.fr , +33 (0)4 72 72 29 36
+
+=======
+Le paragraphe 6 est en : ENG
+	Gratification: 484 euros mensuels
+
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : FRA
+	Responsables de stage : Dr Guillaume Launay et Dr Xavier Robert
+
+Les protéines jouent un rôle essentiel dans les voies de signalisation intra et inter-cellulaires.
+=======
+La phrase 2 est en : FRA
+	La perturbation de ces signaux peut causer lapparition de cancer ou être mis à profit par des agents infectieux (bactéries, virus) pour leur propre développement.
+=======
+La phrase 3 est en : FRA
+	Létude moléculaire et structurale des interactions protéine:protéine revêt donc un enjeu essentiel pour la compréhension des mécanismes infectieux et le développement de nouvelles stratégies thérapeutiques
+ Les simulations biophysiques réalisées dans léquipe Bioinformatique Structures et Interactions permettent lanalyse et la prediction de certains complexes protéine-protéine1.
+=======
+La phrase 4 est en : FRA
+	Dans ces travaux, le docking protéine-protéine intensif de la protéine étudiée est réalisé à laide du logiciel de docking HeX2.
+=======
+La phrase 5 est en : FRA
+	Puis, toutes les poses de docking sont repertoriées et leur classification permet l'identification de régions susceptibles de former des interfaces  à la surface de la protéine isolée.
+=======
+La phrase 6 est en : FRA
+	Un pipeline bio informatique développé dans notre équipe implémente cette méthode dite de docking arbitraire.
+=======
+La phrase 7 est en : FRA
+	Lobjectif de ce stage est la construction dune interface utilisateur pour ce pipeline permettant au biologiste la soumission de protéines et la visualisation de résultats.
+=======
+La phrase 8 est en : FRA
+	Linterface devra notamment permettre la visualisation interactive de la représentation tridimensionnelle de la protéine et de ses surfaces dinteraction.
+=======
+La phrase 9 est en : FRA
+	Ce service utilisera nos moyens de calcul et communiquera avec le serveur ENDscript5 développé par léquipe de biocristallographie de lunité.
+=======
+La phrase 10 est en : FRA
+	Les technologies que le stagiaire sera amené à manipuler sont les suivantes:
+&#10063;	WebGL, rendu 3D des protéines
+&#10063;	D34 , représentation graphique des résultats
+&#10063;	La bibliothèque BioJS5, composants JavaScript de bioinformatique
+
+Références:
+1)	Martin J et Lavery R. Arbitrary protein-protein docking targets biologically relevant interfaces.
+=======
+La phrase 11 est en : ENG
+	BMC Biophys.
+=======
+La phrase 12 est en : ENG
+	2012. doi: 10.1186/2046-1682-5-7.
+=======
+La phrase 13 est en : ENG
+	2)	Ghoorah AW, Smail-Tabbone M, Devignes MD, Ritchie DW.
+=======
+La phrase 14 est en : ENG
+	Protein Docking Using Case-Based Reasoning.
+=======
+La phrase 15 est en : ENG
+	Proteins: Structure, Function, Bioinformatics.
+=======
+La phrase 16 est en : ENG
+	2013.  doi: 10.1002/prot.24433
+3)	Robert X et Gouet P. Deciphering key features in protein structures with the new ENDscript server.
+=======
+La phrase 17 est en : FRA
+	Nucleic Acids Res.
+=======
+La phrase 18 est en : ENG
+	2014, W3240-4.
+=======
+La phrase 19 est en : ENG
+	Web Server issue.
+=======
+La phrase 20 est en : FRA
+	doi: 10.1093/nar/gku316..
+4)	d3js.org
+5)	http://biojs.net/
+
+
+Contact et équipe daccueil : BMSSI, UMR 5086, Bionformatique: structures et interactions, guillaume.launay@ibcp.fr , +33 (0)4 72 72 29 36
+
+Gratification: 484 euros mensuels
+
+=======

@@ -1,0 +1,198 @@
+Le mail "bioinfo_2014-11_90" est globalement en : FRA
+Le sujet du mail est en : FRA
+Subject : [bioinfo] STAGE M2 - Analyse de modèlesbooléens des réseaux biologiques  - IBISC - EVRY GENOPOLE
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	PROPRIETES DES FORMES CANONIQUES DES RESEAUX BOOLEENS
+
+=======
+Le paragraphe 2 est en : FRA
+	Les réseaux Booléens sont des modèles discrets de systèmes dynamiques 
+fondés  sur l'évolution d'états booléens. Deux composants sont utilisés 
+pour la description: La fonction d'évolution et le mode. La fonction 
+d'évolution calcule la transition de l'état par rapport à un mode. A 
+partir de ces éléments, la dynamique est représentée par un système de 
+transition étiqueté, appelé modèle, où tous les chemins / trajectoires 
+sont calculées par  applications itérées de la fonction de l'évolution 
+sur tous les états. Le mode est  paramètre régissant la politique de 
+mise à jour de l'état  qui détermine les  agents ayant une évolution 
+synchrone de leur état. Les réseaux Booléens sont utilisés pour la 
+modélisation biologique afin d'étudier les propriétés de  régulation des 
+gènes et des réseaux de transduction du signal. La validation empirique 
+des modèles est basée sur l'hypothèse que les équilibres de la dynamique 
+booléenne caractérisent les signatures moléculaires de phénotypes observés.
+
+=======
+Le paragraphe 3 est en : FRA
+	Objectif de recherche:
+Des réseaux Booléens différents peuvent révéler des dynamiques 
+similaires, bien que leur définition diffère. La similitude est 
+formalisée par un isomorphisme sur les modèles: deux réseaux sont 
+dynamiquement équivalents si et seulement si leur modèle est isomorphe. 
+Par conséquent, à partir d'un réseau booléen nous pouvons en déduire une 
+représentation canonique dont la dynamique est isomorphe à l'original. 
+Schématiquement, la représentation canonique simplifie le réseau tout en 
+préservant sa dynamique. La simplification de la structure facilite 
+potentiellement la recherche de propriétés concernant la dynamique de 
+ces réseaux et pourrait constituer un moyen de découvrir de nouvelles 
+propriétés. Durant ce stage  plusieurs questions seront étudiées:
+
+=======
+Le paragraphe 4 est en : FRA
+	-  fixer les critères d'une représentation canonique pertinente,
+- déterminer l'algorithme de calcul de la forme canonique d'un réseau,
+  - déduire des propriétés portant sur la dynamique et plus 
+spécifiquement sur les conditions d'apparition d'équilibres stables ou 
+oscillatoires.
+
+=======
+Le paragraphe 5 est en : FRA
+	Ce projet est soutenu par l'anr (projet synbiotic).
+
+=======
+Le paragraphe 6 est en : ENG
+	Responsable
+
+=======
+Le paragraphe 7 est en : ENG
+	Franck Delaplace
+https://www.ibisc.univ-evry.fr/~delapla/
+franck.delaplace@ibisc.fr
+
+=======
+Le paragraphe 8 est en : ENG
+	Tarek Melliti
+https://www.ibisc.univ-evry.fr/~tmelliti/
+tmelliti@ibisc.fr
+
+=======
+Le paragraphe 9 est en : ENG
+	Lieu du stage : IBISC laboratory
+
+=======
+Le paragraphe 10 est en : ENG
+	IBGBI 23, boulevard de France
+91037 Evry
+Evry Val d'Essonne University
+
+=======
+Le paragraphe 11 est en : ENG
+	-- 
+Franck Delaplace - Director of IBISC Lab.
+www.ibisc.univ-evry.fr/~delapla
+Phone: +33 (0)1.64.85.35.10
+IBISC Lab - IBGBI 23, boulevard de France - 91037 Evry - FRANCE
+Evry Val d'Essonne University
+
+=======
+Le paragraphe 12 est en : non detect
+	
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : FRA
+	PROPRIETES DES FORMES CANONIQUES DES RESEAUX BOOLEENS
+
+Les réseaux Booléens sont des modèles discrets de systèmes dynamiques 
+fondés  sur l'évolution d'états booléens.
+=======
+La phrase 2 est en : FRA
+	Deux composants sont utilisés 
+pour la description: La fonction d'évolution et le mode.
+=======
+La phrase 3 est en : FRA
+	La fonction 
+d'évolution calcule la transition de l'état par rapport à un mode.
+=======
+La phrase 4 est en : FRA
+	A 
+partir de ces éléments, la dynamique est représentée par un système de 
+transition étiqueté, appelé modèle, où tous les chemins / trajectoires 
+sont calculées par  applications itérées de la fonction de l'évolution 
+sur tous les états.
+=======
+La phrase 5 est en : FRA
+	Le mode est  paramètre régissant la politique de 
+mise à jour de l'état  qui détermine les  agents ayant une évolution 
+synchrone de leur état.
+=======
+La phrase 6 est en : FRA
+	Les réseaux Booléens sont utilisés pour la 
+modélisation biologique afin d'étudier les propriétés de  régulation des 
+gènes et des réseaux de transduction du signal.
+=======
+La phrase 7 est en : FRA
+	La validation empirique 
+des modèles est basée sur l'hypothèse que les équilibres de la dynamique 
+booléenne caractérisent les signatures moléculaires de phénotypes observés.
+=======
+La phrase 8 est en : FRA
+	Objectif de recherche:
+Des réseaux Booléens différents peuvent révéler des dynamiques 
+similaires, bien que leur définition diffère.
+=======
+La phrase 9 est en : FRA
+	La similitude est 
+formalisée par un isomorphisme sur les modèles: deux réseaux sont 
+dynamiquement équivalents si et seulement si leur modèle est isomorphe.
+=======
+La phrase 10 est en : FRA
+	Par conséquent, à partir d'un réseau booléen nous pouvons en déduire une 
+représentation canonique dont la dynamique est isomorphe à l'original.
+=======
+La phrase 11 est en : FRA
+	Schématiquement, la représentation canonique simplifie le réseau tout en 
+préservant sa dynamique.
+=======
+La phrase 12 est en : FRA
+	La simplification de la structure facilite 
+potentiellement la recherche de propriétés concernant la dynamique de 
+ces réseaux et pourrait constituer un moyen de découvrir de nouvelles 
+propriétés.
+=======
+La phrase 13 est en : FRA
+	Durant ce stage  plusieurs questions seront étudiées:
+
+-  fixer les critères d'une représentation canonique pertinente,
+- déterminer l'algorithme de calcul de la forme canonique d'un réseau,
+  - déduire des propriétés portant sur la dynamique et plus 
+spécifiquement sur les conditions d'apparition d'équilibres stables ou 
+oscillatoires.
+=======
+La phrase 14 est en : FRA
+	Ce projet est soutenu par l'anr (projet synbiotic).
+=======
+La phrase 15 est en : ENG
+	Responsable
+
+Franck Delaplace
+https://www.ibisc.univ-evry.fr/~delapla/
+franck.delaplace@ibisc.fr
+
+Tarek Melliti
+https://www.ibisc.univ-evry.fr/~tmelliti/
+tmelliti@ibisc.fr
+
+Lieu du stage : IBISC laboratory
+
+IBGBI 23, boulevard de France
+91037 Evry
+Evry Val d'Essonne University
+
+-- 
+Franck Delaplace - Director of IBISC Lab.
+=======
+La phrase 16 est en : ENG
+	www.ibisc.univ-evry.fr/~delapla
+Phone: +33 (0)1.64.85.35.10
+IBISC Lab - IBGBI 23, boulevard de France - 91037 Evry - FRANCE
+Evry Val d'Essonne University
+
+
+=======

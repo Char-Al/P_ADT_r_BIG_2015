@@ -1,0 +1,184 @@
+Le mail "bioinfo_2014-01_88" est globalement en : FRA
+Le sujet du mail est en : FRA
+Subject : [bioinfo] Offre de stage M1/M2 - Inria Rennes - assemblage metagénomique
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : ENG
+	Titre:
+Assemblage de multi-metagenomes.
+
+=======
+Le paragraphe 2 est en : FRA
+	Résumé:
+Les séquenceurs nouvelles génération (NGS) permettent de lire l'ADN des 
+cellules d'organismes vivants. Ces dernières années, le tarif du 
+séquençage couplé avec l'augmentation vertigineuse de la capacité de 
+production de ces machines ont profondément modifié le paysage de la 
+biologie. Cependant, les séquenceurs ne permettent que la lecture de 
+courtes séquences (appelées des "reads") de centaines de caractères. Le 
+chevauchement de ces séquences, tel un puzzle, permet la reconstruction 
+des génomes initiaux. Cette étape, appelée l'assemblage, consiste à 
+organiser les données dans un graphe ("string graph" ou "de Bruijn 
+Graph") avant de rechercher dans ce graphe des chemins approximant au 
+mieux la séquence originale.
+
+=======
+Le paragraphe 3 est en : FRA
+	En outre, cette dernière décennie a vu l'émergence de la métagénomique 
+où le but n'est plus de séquencer un individu mais un milieu (biotope) 
+complet. Dans ce cadre, aux difficultés usuelles de l'assemblage 
+s'ajoutent de nouveaux obstacles dus à l’hétérogénéité des données, les 
+similarités entres génomes séquencés, les inconnues concernant le nombre 
+et la taille des génomes en présence, etc.
+
+=======
+Le paragraphe 4 est en : FRA
+	L'objet de ce stage est d'explorer une nouvelle approche pour 
+l'assemblage de métagénomes. Nous nous plaçons dans le cadre où 
+plusieurs metagénomes (multi-métagenomes) sont disponibles et liés par 
+des informations connexes. Dans ce cadre nous chercherons à exploiter 
+l'ensemble des informations disponibles pour proposer de nouvelles 
+méthodes d'assemblage.
+
+=======
+Le paragraphe 5 est en : FRA
+	Ce stage réunit des aspects méthodologiques avec des aspects analyse de 
+données. Le/la candidat(e) retenu(e) aura donc un profil en adéquation 
+avec ces besoins.
+Le stage aura lieu à l'Inria de Rennes, dans l'équipe GenScale 
+http://team.inria.fr/genscale, et sera effectué en collaboration avec le 
+Genoscope - Institut de Génomique du CEA.
+
+=======
+Le paragraphe 6 est en : FRA
+	Rémunération:
+environ 400 € (indemnité standard).
+
+=======
+Le paragraphe 7 est en : FRA
+	Durée:
+3à 6 mois
+
+=======
+Le paragraphe 8 est en : FRA
+	Contact:
+Informations complémentaires et candidatures: 
+pierre.peterlongo@inria.fr, 02 99 84 74 59
+-- 
+Document sans titre
+
+=======
+Le paragraphe 9 est en : ENG
+	*Pierre Peterlongo - INRIA* - Research Associate / Chargé de recherche
+http://people.rennes.inria.fr/Pierre.Peterlongo/
+
+=======
+Le paragraphe 10 est en : FRA
+	Campus de Beaulieu- Rennes
+35042 Rennes Cedex, France
+Tel : +33 (0)2 99 84 74 59
+Fax : +33 (0)2 99 84 71 71
+
+=======
+Le paragraphe 11 est en : non detect
+	
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : ENG
+	Titre:
+Assemblage de multi-metagenomes.
+=======
+La phrase 2 est en : FRA
+	Résumé:
+Les séquenceurs nouvelles génération (NGS) permettent de lire l'ADN des 
+cellules d'organismes vivants.
+=======
+La phrase 3 est en : FRA
+	Ces dernières années, le tarif du 
+séquençage couplé avec l'augmentation vertigineuse de la capacité de 
+production de ces machines ont profondément modifié le paysage de la 
+biologie.
+=======
+La phrase 4 est en : FRA
+	Cependant, les séquenceurs ne permettent que la lecture de 
+courtes séquences (appelées des "reads") de centaines de caractères.
+=======
+La phrase 5 est en : FRA
+	Le 
+chevauchement de ces séquences, tel un puzzle, permet la reconstruction 
+des génomes initiaux.
+=======
+La phrase 6 est en : FRA
+	Cette étape, appelée l'assemblage, consiste à 
+organiser les données dans un graphe ("string graph" ou "de Bruijn 
+Graph") avant de rechercher dans ce graphe des chemins approximant au 
+mieux la séquence originale.
+=======
+La phrase 7 est en : FRA
+	En outre, cette dernière décennie a vu l'émergence de la métagénomique 
+où le but n'est plus de séquencer un individu mais un milieu (biotope) 
+complet.
+=======
+La phrase 8 est en : FRA
+	Dans ce cadre, aux difficultés usuelles de l'assemblage 
+s'ajoutent de nouveaux obstacles dus à l’hétérogénéité des données, les 
+similarités entres génomes séquencés, les inconnues concernant le nombre 
+et la taille des génomes en présence, etc.
+=======
+La phrase 9 est en : FRA
+	L'objet de ce stage est d'explorer une nouvelle approche pour 
+l'assemblage de métagénomes.
+=======
+La phrase 10 est en : FRA
+	Nous nous plaçons dans le cadre où 
+plusieurs metagénomes (multi-métagenomes) sont disponibles et liés par 
+des informations connexes.
+=======
+La phrase 11 est en : FRA
+	Dans ce cadre nous chercherons à exploiter 
+l'ensemble des informations disponibles pour proposer de nouvelles 
+méthodes d'assemblage.
+=======
+La phrase 12 est en : FRA
+	Ce stage réunit des aspects méthodologiques avec des aspects analyse de 
+données.
+=======
+La phrase 13 est en : FRA
+	Le/la candidat(e) retenu(e) aura donc un profil en adéquation 
+avec ces besoins.
+=======
+La phrase 14 est en : FRA
+	Le stage aura lieu à l'Inria de Rennes, dans l'équipe GenScale 
+http://team.inria.fr/genscale, et sera effectué en collaboration avec le 
+Genoscope - Institut de Génomique du CEA.
+=======
+La phrase 15 est en : FRA
+	Rémunération:
+environ 400 € (indemnité standard).
+=======
+La phrase 16 est en : FRA
+	Durée:
+3à 6 mois
+
+Contact:
+Informations complémentaires et candidatures: 
+pierre.peterlongo@inria.fr, 02 99 84 74 59
+-- 
+Document sans titre
+
+*Pierre Peterlongo - INRIA* - Research Associate / Chargé de recherche
+http://people.rennes.inria.fr/Pierre.Peterlongo/
+
+Campus de Beaulieu- Rennes
+35042 Rennes Cedex, France
+Tel : +33 (0)2 99 84 74 59
+Fax : +33 (0)2 99 84 71 71
+
+
+=======

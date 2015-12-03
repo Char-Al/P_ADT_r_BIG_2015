@@ -1,0 +1,258 @@
+Le mail "bioinfo_2014-10_67" est globalement en : ENG
+Le sujet du mail est en : ENG
+Subject : [bioinfo] [Gtpb] CSDM14 - Chromosome structure determination using modelling
+ and Hi-C data - Bioinformatics Training Course - Announcement/Reminder
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : ENG
+	
+TRAINING COURSE ANNOUNCEMNT/REMINDER
+
+=======
+Le paragraphe 2 est en : ENG
+	The training course CSDM14 is open for applications.
+
+=======
+Le paragraphe 3 est en : ENG
+	    IMPORTANT DATES for this Course
+    Deadline for applications: November 15th 2014
+    Notification of acceptance within 72 hours of application
+    Course date: November 25th to November 28th 2014
+
+=======
+Le paragraphe 4 est en : ENG
+	http://gtpb.igc.gulbenkian.pt/bicourses/CSDM14/
+
+=======
+Le paragraphe 5 est en : FRA
+	CSDM14 - Chromosome structure determination using modelling and Hi-C data
+with Marc Marti-Renom, Davide Baù and François Serra
+
+=======
+Le paragraphe 6 est en : ENG
+	Welcome to the world of using Hi-C data -  
+http://www.ncbi.nlm.nih.gov/pubmed/22652625 - in the context of  
+discovering genome organization.
+
+=======
+Le paragraphe 7 est en : ENG
+	Course description
+The sequence of a genome alone does not carry enough information to  
+fully understand how genomic processes are carried out in the cell  
+nucleus; to achieve this, the knowledge of the three-dimensional (3D)  
+architecture of a genome is necessary. Advances in genomic  
+technologies and the development of new analytical methods, such as  
+3C-based methods, have allowed getting insights at unprecedented  
+resolution into how the genome is organized. Recently, it has been  
+shown that chromatin is organized in Topologically Associating Domains  
+(TADs), large interaction domains that appear to be conserved among  
+different cell types. In this course, participants will learn to use  
+TADbit, a software for the analysis and modeling of Hi-C data.
+
+=======
+Le paragraphe 8 est en : ENG
+	The course will cover all the aspects of modeling with Hi-C data:
+
+=======
+Le paragraphe 9 est en : ENG
+	     Generation of Hi-C contact matrices from raw data (that is,  
+iterative mapping of the fastq reads to the reference genome, cleaning  
+and normalization)
+     Analysis of Hi-C matrices (Hi-C map visualization, TAD  
+identification, experiment comparison, and TAD selection)
+     3D modeling and analysis of TADs
+
+=======
+Le paragraphe 10 est en : ENG
+	The 3D module of TADbit is based on a computational module of the  
+Integrative Modeling Platform (IMP,  
+http://www.integrativemodeling.org) that uses chromosome conformation  
+capture data to determine the 3D architecture of genomic domains and  
+entire genomes at unprecedented resolutions. Participants can bring-in  
+specific biological questions and/or their on data to work on during  
+the course. At the end of the course, participants will be familiar  
+with the TADbit software, enabling them to fully analyze and model  
+Hi-C data.
+Target Audience
+
+=======
+Le paragraphe 11 est en : ENG
+	The course is oriented to experimental researchers and  
+bioinformaticians at the graduate and post-graduate levels. The last  
+edition of this course was attended by people with different  
+backgrounds and interested in the genome organization.
+Moreover, Hi-C data have recently been used in metagenomics studies to  
+accurately cluster metagenome assembly contigs into groups that  
+contain nearly complete genomes of each species.
+It is likely that the participants to this course aim at getting  
+involved in generating Hi-C data for chromosome structure  
+determination or that they just want to be able to correctly interpret  
+and analyze publicly available data.
+
+=======
+Le paragraphe 12 est en : ENG
+	The Linux and Programming skills are really only recommended, not essential.
+
+=======
+Le paragraphe 13 est en : ENG
+	Thank you for your interest
+
+=======
+Le paragraphe 14 est en : FRA
+	Pedro Fernandes
+-- 
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+
+=======
+Le paragraphe 15 est en : ENG
+	----- End forwarded message -----
+
+=======
+Le paragraphe 16 est en : ENG
+	----- End forwarded message -----
+
+=======
+Le paragraphe 17 est en : ENG
+	_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
+
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : ENG
+	
+TRAINING COURSE ANNOUNCEMNT/REMINDER
+
+The training course CSDM14 is open for applications.
+=======
+La phrase 2 est en : ENG
+	IMPORTANT DATES for this Course
+    Deadline for applications: November 15th 2014
+    Notification of acceptance within 72 hours of application
+    Course date: November 25th to November 28th 2014
+
+http://gtpb.igc.gulbenkian.pt/bicourses/CSDM14/
+
+CSDM14 - Chromosome structure determination using modelling and Hi-C data
+with Marc Marti-Renom, Davide Baù and François Serra
+
+Welcome to the world of using Hi-C data -  
+http://www.ncbi.nlm.nih.gov/pubmed/22652625 - in the context of  
+discovering genome organization.
+=======
+La phrase 3 est en : ENG
+	Course description
+The sequence of a genome alone does not carry enough information to  
+fully understand how genomic processes are carried out in the cell  
+nucleus; to achieve this, the knowledge of the three-dimensional (3D)  
+architecture of a genome is necessary.
+=======
+La phrase 4 est en : ENG
+	Advances in genomic  
+technologies and the development of new analytical methods, such as  
+3C-based methods, have allowed getting insights at unprecedented  
+resolution into how the genome is organized.
+=======
+La phrase 5 est en : ENG
+	Recently, it has been  
+shown that chromatin is organized in Topologically Associating Domains  
+(TADs), large interaction domains that appear to be conserved among  
+different cell types.
+=======
+La phrase 6 est en : ENG
+	In this course, participants will learn to use  
+TADbit, a software for the analysis and modeling of Hi-C data.
+=======
+La phrase 7 est en : ENG
+	The course will cover all the aspects of modeling with Hi-C data:
+
+     Generation of Hi-C contact matrices from raw data (that is,  
+iterative mapping of the fastq reads to the reference genome, cleaning  
+and normalization)
+     Analysis of Hi-C matrices (Hi-C map visualization, TAD  
+identification, experiment comparison, and TAD selection)
+     3D modeling and analysis of TADs
+
+The 3D module of TADbit is based on a computational module of the  
+Integrative Modeling Platform (IMP,  
+http://www.integrativemodeling.org) that uses chromosome conformation  
+capture data to determine the 3D architecture of genomic domains and  
+entire genomes at unprecedented resolutions.
+=======
+La phrase 8 est en : ENG
+	Participants can bring-in  
+specific biological questions and/or their on data to work on during  
+the course.
+=======
+La phrase 9 est en : ENG
+	At the end of the course, participants will be familiar  
+with the TADbit software, enabling them to fully analyze and model  
+Hi-C data.
+=======
+La phrase 10 est en : ENG
+	Target Audience
+
+The course is oriented to experimental researchers and  
+bioinformaticians at the graduate and post-graduate levels.
+=======
+La phrase 11 est en : ENG
+	The last  
+edition of this course was attended by people with different  
+backgrounds and interested in the genome organization.
+=======
+La phrase 12 est en : ENG
+	Moreover, Hi-C data have recently been used in metagenomics studies to  
+accurately cluster metagenome assembly contigs into groups that  
+contain nearly complete genomes of each species.
+=======
+La phrase 13 est en : ENG
+	It is likely that the participants to this course aim at getting  
+involved in generating Hi-C data for chromosome structure  
+determination or that they just want to be able to correctly interpret  
+and analyze publicly available data.
+=======
+La phrase 14 est en : ENG
+	The Linux and Programming skills are really only recommended, not essential.
+=======
+La phrase 15 est en : FRA
+	Thank you for your interest
+
+Pedro Fernandes
+-- 
+Pedro Fernandes
+Instituto Gulbenkian de Ciência
+Apartado 14
+2781-901 OEIRAS
+PORTUGAL
+Tel +351 21 4407912
+http://gtpb.igc.gulbenkian.pt
+
+
+
+
+
+
+----- End forwarded message -----
+
+
+----- End forwarded message -----
+
+_______________________________________________
+Gtpb mailing list
+Gtpb@igc.gulbenkian.pt
+https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
+
+=======

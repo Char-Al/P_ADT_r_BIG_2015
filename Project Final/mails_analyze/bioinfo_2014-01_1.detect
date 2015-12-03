@@ -1,0 +1,330 @@
+Le mail "bioinfo_2014-01_1" est globalement en : FRA
+Le sujet du mail est en : FRA
+Subject : [bioinfo] Proposition de Stage M2 Bioinformatique
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	Bonjour,
+
+=======
+Le paragraphe 2 est en : ENG
+	Veuillez trouver ci-dessous une proposition de stage M2 de Bioinformatique.
+
+=======
+Le paragraphe 3 est en : FRA
+	Cordialement
+
+=======
+Le paragraphe 4 est en : ENG
+	Fariza Tahi
+
+=======
+Le paragraphe 5 est en : non detect
+	------
+
+=======
+Le paragraphe 6 est en : FRA
+	Intitulé du stage : Identification des microARNs impliqués dans la
+différentiation sexuelle chez les plantes
+
+=======
+Le paragraphe 7 est en : FRA
+	Mots-clefs : Bioinformatique, Génomique, ARNs non codants, microARNs,
+différentiation sexuelle, plantes.
+
+=======
+Le paragraphe 8 est en : FRA
+	Laboratoire d'accueil et lieu du stage : IBISC. Université
+d'Evry/Genopole. 23 bv de France, 91000 Evry
+
+=======
+Le paragraphe 9 est en : FRA
+	Maîtres de stage : Fariza Tahi (équipe AROBAS, laboratoire IBISC)
+		 Adnane Boualem et Abdelhafid Bendahmane  (Equipe Crop Genomics, URGV).
+
+=======
+Le paragraphe 10 est en : ENG
+	Descriptif :
+
+=======
+Le paragraphe 11 est en : FRA
+	La détermination du sexe est un processus qui amène à une séparation
+physique entre les structures produisant les gamètes mâles et femelles
+dans des fleurs séparées sur la même plante (espèces monoïques) ou sur des
+individus séparés (espèces dioïques). Comprendre comment le genre dune
+fleur ou dune plante est déterminé est un problème important dans le
+développement biologique dune plante. Cela a aussi des applications
+pratiques dans lagriculture et la création de plantes hybrides car
+souvent le genre dune fleur ou dune plante limite les possibilités de
+croisements et de culture.
+Les cucurbitacées, melon, concombre et pastèque, sont dexcellents modèles
+pour létude du déterminisme sexuel. Chez les cucurbitacées, le sexe est
+contrôlé génétiquement par différents loci majeurs. Ces différents gènes
+ont été clonés récemment et ont fait lobjet de publication dans les
+journaux Science et Nature (Boualem et al., 2008, 2009 ; Martin et al.,
+2009 ; 2010, Foucart et al., 2012).
+Chez le maïs, autre plante modèle pour létude du déterminisme du sexe,
+une étude récente a mis en évidence limplication dun microARN dans les
+mécanismes de sexualisation (Chuck et al., 2007). Afin détudier le rôle
+des microARNs dans la détermination sexuelle chez les cucurbitacées, il
+faut pouvoir prédire et annoter les microARNs chez les cucurbitacées.
+Une des questions centrales dans l'analyse des génomes concerne en effet
+la recherche des microARNs. Les microARNs (miARNs), petits ARNs non
+codant, agissent dans la régulation post-transcriptionnelle en ciblant les
+ARNm, principalement afin de les dégrader ou d'inhiber leur traduction.
+Malgré une littérature très fournie, la prédiction de miARNs (précurseurs,
+matures) est un problème encore ouvert.
+
+=======
+Le paragraphe 12 est en : FRA
+	Le but de ce stage est de développer des méthodes efficaces pour
+l'identification des microARNs impliqués dans le déterminisme sexuel. Pour
+cela, il sera demandé dans un premier temps de tester, d'adapter puis
+d'étendre les outils bioinfomatiques déjà développés au sein de l'équipe
+AROBAS du laboratoire IBISC pour la prédiction des microARNs, dont
+miRNAFold (Tempel et Tahi, 2012), ncRNAclassifier (Tempel et al. 2012) et 
+BoostSVM (Tran et al., 2012), outils disponibles via le serveur web
+http://EvryRNA.ibisc.univ-evry.fr.
+
+=======
+Le paragraphe 13 est en : ENG
+	Bibliographie :
+- Boualem A, Troadec C, Kovalski I, Sari MA, Perl-Treves R, Bendahmane
+A.(2009) A conserved ethylene biosynthesis enzyme leads to andromonoecy in
+two cucumis species. PLoS One, 4(7):e6144.
+- Boualem A, Fergany M, Fernandez R, Troadec C, Martin A, Morin H, Sari
+MA, Collin F, Flowers JM, Pitrat M, Purugganan MD, Dogimont C, Bendahmane
+A. (2008) A conserved mutation in an ethylene biosynthesis enzyme leads to
+andromonoecy in melons. Science, 321(5890):836-8.
+- Foucart C., Boualem A., Lasseur B., Eleblu J., Izhaq F., Bendahmane A.
+(2012) Sex determination in Cucurbits. Biologie Aujourdhui, 206(1):57-62.
+(invited review)
+- Martin A, Troadec C, Boualem A, Rajab M, Morin H, Pitrat M, Dogimont C
+and Bendahmane A. (2009) A transposon-induced epigenetic change leads to
+sex determination in melon. Nature, 461(7267):1135-8..
+- Martin A and Bendahmane A. (2010) A blessing in disguise: Transposable
+elements are more than parasites. Epigenetics, 5(5):378-80
+- Tempel S., Tahi F.. A fast ab-intio method for predicting miRNA
+precursors in genomes. Nucleic Acids Res., 40(11), 2012.
+- Sébastien Tempel, Nicolas Pollet, Fariza Tahi. ncRNAclassifier: a tool
+for detection and classification of transposable element sequences in RNA
+hairpins. BMC Bioinformatics 201. 25;13:246. 2012.
+- Van Du Tran, Farida Zehraoui, Sébastien Tempel and Fariza Tahi.
+BoostSVM: A miRNA classifier with high accuracy using boosting SVM. Proc.
+de la 13ème Journées Ouvertes en Biologie, Informatique et Mathématiques
+(JOBIM), pages 259-266, 2012.
+
+=======
+Le paragraphe 14 est en : ENG
+	Contact :
+Fariza Tahi : tahi@ibisc.univ-evry.fr               (Tel : 01 64 85 34 63)
+
+=======
+Le paragraphe 15 est en : non detect
+	
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : ENG
+	Bonjour,
+
+Veuillez trouver ci-dessous une proposition de stage M2 de Bioinformatique.
+=======
+La phrase 2 est en : FRA
+	Cordialement
+
+Fariza Tahi
+
+------
+
+Intitulé du stage : Identification des microARNs impliqués dans la
+différentiation sexuelle chez les plantes
+
+Mots-clefs : Bioinformatique, Génomique, ARNs non codants, microARNs,
+différentiation sexuelle, plantes.
+=======
+La phrase 3 est en : FRA
+	Laboratoire d'accueil et lieu du stage : IBISC.
+=======
+La phrase 4 est en : FRA
+	Université
+d'Evry/Genopole.
+=======
+La phrase 5 est en : FRA
+	23 bv de France, 91000 Evry
+
+Maîtres de stage : Fariza Tahi (équipe AROBAS, laboratoire IBISC)
+		 Adnane Boualem et Abdelhafid Bendahmane  (Equipe Crop Genomics, URGV).
+=======
+La phrase 6 est en : FRA
+	Descriptif :
+
+La détermination du sexe est un processus qui amène à une séparation
+physique entre les structures produisant les gamètes mâles et femelles
+dans des fleurs séparées sur la même plante (espèces monoïques) ou sur des
+individus séparés (espèces dioïques).
+=======
+La phrase 7 est en : FRA
+	Comprendre comment le genre dune
+fleur ou dune plante est déterminé est un problème important dans le
+développement biologique dune plante.
+=======
+La phrase 8 est en : FRA
+	Cela a aussi des applications
+pratiques dans lagriculture et la création de plantes hybrides car
+souvent le genre dune fleur ou dune plante limite les possibilités de
+croisements et de culture.
+=======
+La phrase 9 est en : FRA
+	Les cucurbitacées, melon, concombre et pastèque, sont dexcellents modèles
+pour létude du déterminisme sexuel.
+=======
+La phrase 10 est en : FRA
+	Chez les cucurbitacées, le sexe est
+contrôlé génétiquement par différents loci majeurs.
+=======
+La phrase 11 est en : FRA
+	Ces différents gènes
+ont été clonés récemment et ont fait lobjet de publication dans les
+journaux Science et Nature (Boualem et al., 2008, 2009 ; Martin et al.,
+2009 ; 2010, Foucart et al., 2012).
+=======
+La phrase 12 est en : FRA
+	Chez le maïs, autre plante modèle pour létude du déterminisme du sexe,
+une étude récente a mis en évidence limplication dun microARN dans les
+mécanismes de sexualisation (Chuck et al., 2007).
+=======
+La phrase 13 est en : FRA
+	Afin détudier le rôle
+des microARNs dans la détermination sexuelle chez les cucurbitacées, il
+faut pouvoir prédire et annoter les microARNs chez les cucurbitacées.
+=======
+La phrase 14 est en : FRA
+	Une des questions centrales dans l'analyse des génomes concerne en effet
+la recherche des microARNs.
+=======
+La phrase 15 est en : FRA
+	Les microARNs (miARNs), petits ARNs non
+codant, agissent dans la régulation post-transcriptionnelle en ciblant les
+ARNm, principalement afin de les dégrader ou d'inhiber leur traduction.
+=======
+La phrase 16 est en : FRA
+	Malgré une littérature très fournie, la prédiction de miARNs (précurseurs,
+matures) est un problème encore ouvert.
+=======
+La phrase 17 est en : FRA
+	Le but de ce stage est de développer des méthodes efficaces pour
+l'identification des microARNs impliqués dans le déterminisme sexuel.
+=======
+La phrase 18 est en : FRA
+	Pour
+cela, il sera demandé dans un premier temps de tester, d'adapter puis
+d'étendre les outils bioinfomatiques déjà développés au sein de l'équipe
+AROBAS du laboratoire IBISC pour la prédiction des microARNs, dont
+miRNAFold (Tempel et Tahi, 2012), ncRNAclassifier (Tempel et al.
+=======
+La phrase 19 est en : ENG
+	2012) et 
+BoostSVM (Tran et al., 2012), outils disponibles via le serveur web
+http://EvryRNA.ibisc.univ-evry.fr.
+=======
+La phrase 20 est en : ENG
+	Bibliographie :
+- Boualem A, Troadec C, Kovalski I, Sari MA, Perl-Treves R, Bendahmane
+A.
+=======
+La phrase 21 est en : ENG
+	(2009) A conserved ethylene biosynthesis enzyme leads to andromonoecy in
+two cucumis species.
+=======
+La phrase 22 est en : FRA
+	PLoS One, 4(7):e6144.
+=======
+La phrase 23 est en : ENG
+	- Boualem A, Fergany M, Fernandez R, Troadec C, Martin A, Morin H, Sari
+MA, Collin F, Flowers JM, Pitrat M, Purugganan MD, Dogimont C, Bendahmane
+A.
+=======
+La phrase 24 est en : ENG
+	(2008) A conserved mutation in an ethylene biosynthesis enzyme leads to
+andromonoecy in melons.
+=======
+La phrase 25 est en : ENG
+	Science, 321(5890):836-8.
+=======
+La phrase 26 est en : ENG
+	- Foucart C., Boualem A., Lasseur B., Eleblu J., Izhaq F., Bendahmane A.
+=======
+La phrase 27 est en : FRA
+	(2012) Sex determination in Cucurbits.
+=======
+La phrase 28 est en : FRA
+	Biologie Aujourdhui, 206(1):57-62.
+=======
+La phrase 29 est en : ENG
+	(invited review)
+- Martin A, Troadec C, Boualem A, Rajab M, Morin H, Pitrat M, Dogimont C
+and Bendahmane A.
+=======
+La phrase 30 est en : FRA
+	(2009) A transposon-induced epigenetic change leads to
+sex determination in melon.
+=======
+La phrase 31 est en : ENG
+	Nature, 461(7267):1135-8..
+- Martin A and Bendahmane A.
+=======
+La phrase 32 est en : ENG
+	(2010) A blessing in disguise: Transposable
+elements are more than parasites.
+=======
+La phrase 33 est en : ENG
+	Epigenetics, 5(5):378-80
+- Tempel S., Tahi F.. A fast ab-intio method for predicting miRNA
+precursors in genomes.
+=======
+La phrase 34 est en : FRA
+	Nucleic Acids Res., 40(11), 2012.
+=======
+La phrase 35 est en : FRA
+	- Sébastien Tempel, Nicolas Pollet, Fariza Tahi.
+=======
+La phrase 36 est en : ENG
+	ncRNAclassifier: a tool
+for detection and classification of transposable element sequences in RNA
+hairpins.
+=======
+La phrase 37 est en : ENG
+	BMC Bioinformatics 201.
+=======
+La phrase 38 est en : non detect
+	25;13:246.
+=======
+La phrase 39 est en : non detect
+	2012.
+=======
+La phrase 40 est en : ENG
+	- Van Du Tran, Farida Zehraoui, Sébastien Tempel and Fariza Tahi.
+=======
+La phrase 41 est en : ENG
+	BoostSVM: A miRNA classifier with high accuracy using boosting SVM.
+=======
+La phrase 42 est en : FRA
+	Proc.
+=======
+La phrase 43 est en : FRA
+	de la 13ème Journées Ouvertes en Biologie, Informatique et Mathématiques
+(JOBIM), pages 259-266, 2012.
+=======
+La phrase 44 est en : ENG
+	Contact :
+Fariza Tahi : tahi@ibisc.univ-evry.fr               (Tel : 01 64 85 34 63)
+
+
+
+=======

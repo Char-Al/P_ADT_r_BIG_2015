@@ -1,0 +1,221 @@
+Le mail "bioinfo_2014-02_81" est globalement en : ENG
+Le sujet du mail est en : FRA
+Subject : [bioinfo] Soutenance de Thèse : Gustavo Sacomoto
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	Bonjour,
+
+=======
+Le paragraphe 2 est en : FRA
+	J'ai le plaisir de vous inviter à ma soutenance de thèse intitulée :
+"Efficient algorithms for de novo assembly of alternative splicing
+events from RNA-seq data"
+
+=======
+Le paragraphe 3 est en : FRA
+	La soutenance aura lieu le jeudi 6 mars à 14h30 dans l'Amphithéâtre
+Ampère (bâtiment Lippman, la Doua, Villeurbanne), devant un jury
+composé de :
+
+=======
+Le paragraphe 4 est en : FRA
+	Céline BROCHIER-ARMANET, Professeur Univ. Lyon 1 - France (Examinateur)
+Michael BRUDNO, Professeur Univ. de Toronto - Canada (Rapporteur)
+Pierluigi CRESCENZI, Professeur Univ. de Florence - Italie (Co-Directeur)
+Rodéric GUIGO, Chercheur CRG, Barcelone - Espagne (Rapporteur)
+Vincent LACROIX, Maître de Conférences Univ. Lyon 1 - France (Co-Directeur)
+Thierry LECROQ, Professeur Univ. de Rouen - France (Examinateur)
+Marie-France SAGOT, Directrice de Recherche INRIA - France (Directrice de thèse)
+Peter WIDMAYER, Professeur ETH Zürich - Suisse (Rapporteur)
+
+=======
+Le paragraphe 5 est en : ENG
+	Cordialment,
+Gustavo Sacomoto
+
+=======
+Le paragraphe 6 est en : ENG
+	----------Abstract:
+
+=======
+Le paragraphe 7 est en : ENG
+	In this thesis, we address the problem of identifying and quantifying
+variants (alternative splicing and genomic polymorphism) in RNA-seq
+data when no reference genome is available, without assembling the
+full transcripts. Based on the fundamental idea that each variant
+corresponds to a recognizable pattern, a bubble, in a de Bruijn graph
+constructed from the RNA-seq reads, we propose a general model for all
+variants in such graphs. We then introduce an exact method, called
+KisSplice, to extract alternative splicing events. Finally, we show
+that it enables to identify more correct events than general purpose
+transcriptome assemblers (Grabherr et al. (2011)).
+
+=======
+Le paragraphe 8 est en : ENG
+	In order to deal with ever-increasing volumes of NGS data, we put an
+extra effort to make our method as scalable as possible. The main time
+bottleneck in the KisSplice is the bubble enumeration step. Thus, in
+order to improve the running time of KisSplice, we propose a new
+algorithm to enumerate bubbles. We show both theoretically and
+experimentally that our algorithm is several orders of magnitude
+faster than the heuristics based on cycle enumeration. The main memory
+bottleneck in KisSplice is the construction and representation of the
+de Bruijn graph. Thus, in order to reduce the memory consumption of
+KisSplice, we propose a new compact way to build and represent a de
+Bruijn graph improving over the state of the art (Chikhi and Rizk
+(2012)). We show both theoretically and experimentally that our
+approach uses 30% to 40% less memory than such state of the art, with
+an insignificant impact on the construction time.
+
+=======
+Le paragraphe 9 est en : ENG
+	Additionally, we show that the same techniques used to list bubbles
+can be applied in two classical enumeration problems: cycle listing
+and the K-shortest paths problem. In the first case, we give the first
+optimal algorithm to list cycles in undirected graphs, improving over
+Johnson's algorithm, the long-standing state of the art. This is the
+first improvement to this problem in almost 40 years. We also give the
+first optimal algorithm to list st-paths in undirected graphs. In the
+second case, we consider a different parameterization of the classical
+K-shortest simple (loopless) paths problem: instead of bounding the
+number of st-paths, we bound the weight of the st-paths. We present
+new algorithms with the same time complexities but using
+exponentially less memory than previous approaches.
+
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : FRA
+	Bonjour,
+
+J'ai le plaisir de vous inviter à ma soutenance de thèse intitulée :
+"Efficient algorithms for de novo assembly of alternative splicing
+events from RNA-seq data"
+
+La soutenance aura lieu le jeudi 6 mars à 14h30 dans l'Amphithéâtre
+Ampère (bâtiment Lippman, la Doua, Villeurbanne), devant un jury
+composé de :
+
+Céline BROCHIER-ARMANET, Professeur Univ.
+=======
+La phrase 2 est en : ENG
+	Lyon 1 - France (Examinateur)
+Michael BRUDNO, Professeur Univ.
+=======
+La phrase 3 est en : ENG
+	de Toronto - Canada (Rapporteur)
+Pierluigi CRESCENZI, Professeur Univ.
+=======
+La phrase 4 est en : FRA
+	de Florence - Italie (Co-Directeur)
+Rodéric GUIGO, Chercheur CRG, Barcelone - Espagne (Rapporteur)
+Vincent LACROIX, Maître de Conférences Univ.
+=======
+La phrase 5 est en : ENG
+	Lyon 1 - France (Co-Directeur)
+Thierry LECROQ, Professeur Univ.
+=======
+La phrase 6 est en : ENG
+	de Rouen - France (Examinateur)
+Marie-France SAGOT, Directrice de Recherche INRIA - France (Directrice de thèse)
+Peter WIDMAYER, Professeur ETH Zürich - Suisse (Rapporteur)
+
+Cordialment,
+Gustavo Sacomoto
+
+
+----------Abstract:
+
+In this thesis, we address the problem of identifying and quantifying
+variants (alternative splicing and genomic polymorphism) in RNA-seq
+data when no reference genome is available, without assembling the
+full transcripts.
+=======
+La phrase 7 est en : ENG
+	Based on the fundamental idea that each variant
+corresponds to a recognizable pattern, a bubble, in a de Bruijn graph
+constructed from the RNA-seq reads, we propose a general model for all
+variants in such graphs.
+=======
+La phrase 8 est en : ENG
+	We then introduce an exact method, called
+KisSplice, to extract alternative splicing events.
+=======
+La phrase 9 est en : ENG
+	Finally, we show
+that it enables to identify more correct events than general purpose
+transcriptome assemblers (Grabherr et al.
+=======
+La phrase 10 est en : non detect
+	(2011)).
+=======
+La phrase 11 est en : ENG
+	In order to deal with ever-increasing volumes of NGS data, we put an
+extra effort to make our method as scalable as possible.
+=======
+La phrase 12 est en : ENG
+	The main time
+bottleneck in the KisSplice is the bubble enumeration step.
+=======
+La phrase 13 est en : ENG
+	Thus, in
+order to improve the running time of KisSplice, we propose a new
+algorithm to enumerate bubbles.
+=======
+La phrase 14 est en : ENG
+	We show both theoretically and
+experimentally that our algorithm is several orders of magnitude
+faster than the heuristics based on cycle enumeration.
+=======
+La phrase 15 est en : ENG
+	The main memory
+bottleneck in KisSplice is the construction and representation of the
+de Bruijn graph.
+=======
+La phrase 16 est en : ENG
+	Thus, in order to reduce the memory consumption of
+KisSplice, we propose a new compact way to build and represent a de
+Bruijn graph improving over the state of the art (Chikhi and Rizk
+(2012)).
+=======
+La phrase 17 est en : ENG
+	We show both theoretically and experimentally that our
+approach uses 30% to 40% less memory than such state of the art, with
+an insignificant impact on the construction time.
+=======
+La phrase 18 est en : ENG
+	Additionally, we show that the same techniques used to list bubbles
+can be applied in two classical enumeration problems: cycle listing
+and the K-shortest paths problem.
+=======
+La phrase 19 est en : ENG
+	In the first case, we give the first
+optimal algorithm to list cycles in undirected graphs, improving over
+Johnson's algorithm, the long-standing state of the art.
+=======
+La phrase 20 est en : ENG
+	This is the
+first improvement to this problem in almost 40 years.
+=======
+La phrase 21 est en : ENG
+	We also give the
+first optimal algorithm to list st-paths in undirected graphs.
+=======
+La phrase 22 est en : ENG
+	In the
+second case, we consider a different parameterization of the classical
+K-shortest simple (loopless) paths problem: instead of bounding the
+number of st-paths, we bound the weight of the st-paths.
+=======
+La phrase 23 est en : ENG
+	We present
+new algorithms with the same time complexities but using
+exponentially less memory than previous approaches.
+
+=======

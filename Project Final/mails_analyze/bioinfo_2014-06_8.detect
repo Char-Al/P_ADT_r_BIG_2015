@@ -1,0 +1,97 @@
+Le mail "bioinfo_2014-06_8" est globalement en : FRA
+Le sujet du mail est en : FRA
+Subject : [bioinfo] KLAST : version académique gratuite
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	
+KLAST : version académique gratuite
+
+=======
+Le paragraphe 2 est en : FRA
+	KLAST est un nouveau logiciel de recherche de similitudes entre séquences, 
+optimisé pour la comparaison banque à banque. Il permet des gains d'un 
+facteur 5 à 10 par rapport à BLAST, tout en conservant une qualité de 
+résultat équivalente. Ces gains peuvent être beaucoup plus élevés si une 
+légère perte de sensibilité est acceptée. 
+
+=======
+Le paragraphe 3 est en : FRA
+	KLAST est issu du programme PLAST initialement développé par 
+l'équipe GenScale (Inria-Irisa, Rennes). Par rapport à PLAST, KLAST intègre 
+maintenant le traitement des séquences d'ADN, proposant ainsi dans un 
+seul logiciel les 5 méthodes de comparaison (klastp, klastx, klastn, ...). 
+
+=======
+Le paragraphe 4 est en : FRA
+	KLAST est conjointement développé par l'équipe GenScale et la société 
+Korilog dans le cadre du Inria Innovation Lab KoriScale. Une version 
+académique gratuite de KLAST est maintenant téléchargeable à partir de 
+ce lien : http://koriscale.inria.fr
+
+=======
+Le paragraphe 5 est en : FRA
+	-- 
+Dominique Lavenier                                     lavenier@irisa.fr
+DR CNRS                                           tel (33) 2 99 84 72 17
+GenScale Team Leader                        http://lavenier.net/homepage
+------------------------------------------------------------------------
+INRIA/IRISA                                    Avenue du Général Leclerc
+Campus de Beaulieu                                 35042 Rennes - France
+
+=======
+Le paragraphe 6 est en : non detect
+	
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : FRA
+	
+KLAST : version académique gratuite
+
+KLAST est un nouveau logiciel de recherche de similitudes entre séquences, 
+optimisé pour la comparaison banque à banque.
+=======
+La phrase 2 est en : FRA
+	Il permet des gains d'un 
+facteur 5 à 10 par rapport à BLAST, tout en conservant une qualité de 
+résultat équivalente.
+=======
+La phrase 3 est en : FRA
+	Ces gains peuvent être beaucoup plus élevés si une 
+légère perte de sensibilité est acceptée.
+=======
+La phrase 4 est en : FRA
+	KLAST est issu du programme PLAST initialement développé par 
+l'équipe GenScale (Inria-Irisa, Rennes).
+=======
+La phrase 5 est en : FRA
+	Par rapport à PLAST, KLAST intègre 
+maintenant le traitement des séquences d'ADN, proposant ainsi dans un 
+seul logiciel les 5 méthodes de comparaison (klastp, klastx, klastn, ...).
+=======
+La phrase 6 est en : FRA
+	KLAST est conjointement développé par l'équipe GenScale et la société 
+Korilog dans le cadre du Inria Innovation Lab KoriScale.
+=======
+La phrase 7 est en : FRA
+	Une version 
+académique gratuite de KLAST est maintenant téléchargeable à partir de 
+ce lien : http://koriscale.inria.fr
+
+
+-- 
+Dominique Lavenier                                     lavenier@irisa.fr
+DR CNRS                                           tel (33) 2 99 84 72 17
+GenScale Team Leader                        http://lavenier.net/homepage
+------------------------------------------------------------------------
+INRIA/IRISA                                    Avenue du Général Leclerc
+Campus de Beaulieu                                 35042 Rennes - France
+
+
+=======

@@ -1,0 +1,300 @@
+Le mail "bioinfo_2014-07_38" est globalement en : ENG
+Le sujet du mail est en : ENG
+Subject : [bioinfo] ECCB'14 - Tutorial T05 "Protein Evolution Analysis: on the Use of Phylogenetic Trees"
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : ENG
+	
+ECCB'14 - Tutorial T05 "Protein Evolution Analysis: on the Use of Phylogenetic Trees"
+
+=======
+Le paragraphe 2 est en : ENG
+	Tutorial of ECCB 2014, Strasbourg, France.
+September 7th, 2014
+
+=======
+Le paragraphe 3 est en : ENG
+	Website:
+http://www.eccb14.org/program/tutorials/pea
+
+=======
+Le paragraphe 4 est en : ENG
+	Important dates:
+
+=======
+Le paragraphe 5 est en : ENG
+	- ECCB/Tutorial Early registration: May 12 - August 1st, 2014
+- ECCB/Tutorial Late registration: August 2 - August 29, 2014
+- Tutorial date: Sunday, September 7th, 2014.
+ 
+
+=======
+Le paragraphe 6 est en : ENG
+	Motivation
+
+=======
+Le paragraphe 7 est en : ENG
+	Homologous proteins, that share a common ancestor, can be classified into families. These homologs can be orthologs, that were separated by a speciation event, or paralogs, that were separated by a duplication event. Within a protein family, all members are related by a phylogenetic tree, which consists of a root (the last common ancestor of the protein family), nodes (which are speciation/duplication events), branches (whose lengths correspond to the number of substitutions) and tips (which correspond to modern sequences). The tree is helpful for inferring the evolutionary history of the protein family. For example, we can reconstruct the ancestral sequences at each node of the tree. These ancestral sequences can be used for homology modelling, to reveal the ancestral 3D structures, or synthesised in vitro. Or we can compare trees to reveal similar evolutionary history between protein families (co-evolution). Manipulating tree topologies are complex operations that require tools to perform operations such as reading, pruning, collapsing, rerooting. These operations can be done with programs with graphical user interfaces (GUI). However, in the area of large-scale data, in which hundreds or thousands of trees may be manipulated, it is impractical to use such programs.  To this end, new software/libraries have been developed to deal with such large data sets in an automated manner.
+
+=======
+Le paragraphe 8 est en : ENG
+	Goal
+
+=======
+Le paragraphe 9 est en : ENG
+	This tutorial will present recent concepts regarding the evolution and adaptation of protein sequences. It will be divided into three sections, in which we will present methods relating to the use of phylogenetic trees to infer protein function. These sections will be 1) using scripts to manipulate trees, 2) using ancestral sequence reconstruction to infer history of a protein family and 3) the detection of coevolution between protein families. Each section will have an introduction explaining the concepts underlying any analysis methods, and a discussion of the power and limitations of different methods and tools used to explore these concepts and which participants will learn how to use during the practical for that section.
+
+=======
+Le paragraphe 10 est en : non detect
+	 
+
+=======
+Le paragraphe 11 est en : FRA
+	Outline
+
+=======
+Le paragraphe 12 est en : ENG
+	The first part will focus on tools to detect adaptation in protein sequences. It will start with a brief introduction on multiple alignment and phylogenetic trees followed by a more detailed presentation of tools available to estimate selective pressures and detect adaptation in protein sequences with CodeML / PAML. The second part will focus on the reconstruction of ancestral sequences and ancestral structures by homology modelling. The third part will focus on the identification of co-evolution between protein families. The organiser will provide protein datasets, or participants can bring their own sequences. Then, they will be able to use the different programs/libraries in a practical way.
+
+=======
+Le paragraphe 13 est en : ENG
+	This tutorial will be in three parts (more info on the website):
+
+=======
+Le paragraphe 14 est en : ENG
+	1) Performing phylogenetic analyses with Biopython
+
+=======
+Le paragraphe 15 est en : FRA
+	2) Ancestral sequence reconstruction and homology modelling
+
+=======
+Le paragraphe 16 est en : ENG
+	3) Studying molecular co-evolution
+
+=======
+Le paragraphe 17 est en : ENG
+	Level: Introductory
+
+=======
+Le paragraphe 18 est en : ENG
+	Schedule (Sunday, September 7th):
+
+=======
+Le paragraphe 19 est en : ENG
+	 Morning session: Performing phylogenetic analyses with Biopython.
+ 9:00 Talk (45min): Performing phylogenetic analyses with Biopython (B. Invergo, EBI)
+ 9:45 Practical (30min): Performing phylogenetic analyses with Biopython (B. Invergo, EBI)
+10:15 Coffee break
+10:45 Practical (1h30): Performing phylogenetic analyses with Biopython (B. Invergo, EBI)
+12:15 Lunch
+
+=======
+Le paragraphe 20 est en : FRA
+	Afternoon session: ancestral sequence reconstuction and molecular co-evolution.
+
+=======
+Le paragraphe 21 est en : ENG
+	13:15 Talk (30min): Ancestral sequence reconstruction (R. Studer, EBI)
+13:45 Practical (1h30): Ancestral sequence reconstruction (R. Studer, EBI)
+15h:15: Coffee break
+15h45: Talk (30 min): Studying molecular co-evolution (D. Ochoa, EBI)
+16h15: Practical (45min): Studying molecular co-evolution (D. Ochoa, EBI)
+17:00 End
+
+=======
+Le paragraphe 22 est en : non detect
+	 
+
+=======
+Le paragraphe 23 est en : FRA
+	Intended audience:
+
+=======
+Le paragraphe 24 est en : ENG
+	- Evolutionary biologists, biochemists, computational biologists, structural biologists.
+
+=======
+Le paragraphe 25 est en : non detect
+	 
+
+=======
+Le paragraphe 26 est en : FRA
+	Possible prerequisites:
+
+=======
+Le paragraphe 27 est en : ENG
+	- Unix command line.
+- We strongly encourage participants to learn the basics of the Python programming language.
+
+=======
+Le paragraphe 28 est en : non detect
+	 
+
+=======
+Le paragraphe 29 est en : ENG
+	Organisers:
+
+=======
+Le paragraphe 30 est en : ENG
+	Brandon Invergo - EMBL-EBI, Cambridge, UK (invergo [at] ebi.ac.uk)
+David Ochao     - EMBL-EBI, Cambridge, UK (ochoa [at] ebi.ac.uk)
+Romain Studer   - EMBL-EBI, Cambridge, UK (rstuder [at] ebi.ac.uk)
+
+=======
+Le paragraphe 31 est en : non detect
+	
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : ENG
+	
+ECCB'14 - Tutorial T05 "Protein Evolution Analysis: on the Use of Phylogenetic Trees"
+
+Tutorial of ECCB 2014, Strasbourg, France.
+=======
+La phrase 2 est en : ENG
+	September 7th, 2014
+
+Website:
+http://www.eccb14.org/program/tutorials/pea
+
+
+Important dates:
+
+- ECCB/Tutorial Early registration: May 12 - August 1st, 2014
+- ECCB/Tutorial Late registration: August 2 - August 29, 2014
+- Tutorial date: Sunday, September 7th, 2014.
+=======
+La phrase 3 est en : ENG
+	Motivation
+
+Homologous proteins, that share a common ancestor, can be classified into families.
+=======
+La phrase 4 est en : ENG
+	These homologs can be orthologs, that were separated by a speciation event, or paralogs, that were separated by a duplication event.
+=======
+La phrase 5 est en : ENG
+	Within a protein family, all members are related by a phylogenetic tree, which consists of a root (the last common ancestor of the protein family), nodes (which are speciation/duplication events), branches (whose lengths correspond to the number of substitutions) and tips (which correspond to modern sequences).
+=======
+La phrase 6 est en : ENG
+	The tree is helpful for inferring the evolutionary history of the protein family.
+=======
+La phrase 7 est en : ENG
+	For example, we can reconstruct the ancestral sequences at each node of the tree.
+=======
+La phrase 8 est en : ENG
+	These ancestral sequences can be used for homology modelling, to reveal the ancestral 3D structures, or synthesised in vitro.
+=======
+La phrase 9 est en : ENG
+	Or we can compare trees to reveal similar evolutionary history between protein families (co-evolution).
+=======
+La phrase 10 est en : ENG
+	Manipulating tree topologies are complex operations that require tools to perform operations such as reading, pruning, collapsing, rerooting.
+=======
+La phrase 11 est en : ENG
+	These operations can be done with programs with graphical user interfaces (GUI).
+=======
+La phrase 12 est en : ENG
+	However, in the area of large-scale data, in which hundreds or thousands of trees may be manipulated, it is impractical to use such programs.
+=======
+La phrase 13 est en : ENG
+	To this end, new software/libraries have been developed to deal with such large data sets in an automated manner.
+=======
+La phrase 14 est en : ENG
+	Goal
+
+This tutorial will present recent concepts regarding the evolution and adaptation of protein sequences.
+=======
+La phrase 15 est en : ENG
+	It will be divided into three sections, in which we will present methods relating to the use of phylogenetic trees to infer protein function.
+=======
+La phrase 16 est en : ENG
+	These sections will be 1) using scripts to manipulate trees, 2) using ancestral sequence reconstruction to infer history of a protein family and 3) the detection of coevolution between protein families.
+=======
+La phrase 17 est en : ENG
+	Each section will have an introduction explaining the concepts underlying any analysis methods, and a discussion of the power and limitations of different methods and tools used to explore these concepts and which participants will learn how to use during the practical for that section.
+=======
+La phrase 18 est en : ENG
+	Outline
+
+The first part will focus on tools to detect adaptation in protein sequences.
+=======
+La phrase 19 est en : ENG
+	It will start with a brief introduction on multiple alignment and phylogenetic trees followed by a more detailed presentation of tools available to estimate selective pressures and detect adaptation in protein sequences with CodeML / PAML.
+=======
+La phrase 20 est en : ENG
+	The second part will focus on the reconstruction of ancestral sequences and ancestral structures by homology modelling.
+=======
+La phrase 21 est en : ENG
+	The third part will focus on the identification of co-evolution between protein families.
+=======
+La phrase 22 est en : ENG
+	The organiser will provide protein datasets, or participants can bring their own sequences.
+=======
+La phrase 23 est en : ENG
+	Then, they will be able to use the different programs/libraries in a practical way.
+=======
+La phrase 24 est en : ENG
+	This tutorial will be in three parts (more info on the website):
+
+1) Performing phylogenetic analyses with Biopython
+
+2) Ancestral sequence reconstruction and homology modelling
+
+3) Studying molecular co-evolution
+
+
+Level: Introductory
+
+Schedule (Sunday, September 7th):
+
+ Morning session: Performing phylogenetic analyses with Biopython.
+=======
+La phrase 25 est en : ENG
+	9:00 Talk (45min): Performing phylogenetic analyses with Biopython (B. Invergo, EBI)
+ 9:45 Practical (30min): Performing phylogenetic analyses with Biopython (B. Invergo, EBI)
+10:15 Coffee break
+10:45 Practical (1h30): Performing phylogenetic analyses with Biopython (B. Invergo, EBI)
+12:15 Lunch
+
+Afternoon session: ancestral sequence reconstuction and molecular co-evolution.
+=======
+La phrase 26 est en : ENG
+	13:15 Talk (30min): Ancestral sequence reconstruction (R. Studer, EBI)
+13:45 Practical (1h30): Ancestral sequence reconstruction (R. Studer, EBI)
+15h:15: Coffee break
+15h45: Talk (30 min): Studying molecular co-evolution (D. Ochoa, EBI)
+16h15: Practical (45min): Studying molecular co-evolution (D. Ochoa, EBI)
+17:00 End
+
+ 
+
+Intended audience:
+
+- Evolutionary biologists, biochemists, computational biologists, structural biologists.
+=======
+La phrase 27 est en : FRA
+	Possible prerequisites:
+
+- Unix command line.
+=======
+La phrase 28 est en : ENG
+	- We strongly encourage participants to learn the basics of the Python programming language.
+=======
+La phrase 29 est en : ENG
+	Organisers:
+
+
+Brandon Invergo - EMBL-EBI, Cambridge, UK (invergo [at] ebi.ac.uk)
+David Ochao     - EMBL-EBI, Cambridge, UK (ochoa [at] ebi.ac.uk)
+Romain Studer   - EMBL-EBI, Cambridge, UK (rstuder [at] ebi.ac.uk)
+
+
+
+=======

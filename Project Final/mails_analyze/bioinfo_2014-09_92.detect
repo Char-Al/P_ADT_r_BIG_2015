@@ -1,0 +1,222 @@
+Le mail "bioinfo_2014-09_92" est globalement en : ENG
+Le sujet du mail est en : ENG
+Subject : [bioinfo] Postdoctoral position in Statistics/Bioinformatics/Computer science
+ at AgroParisTech / LBBE (Lyon)
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : ENG
+	Postdoctoral position in Statistics/Bioinformatics/Computer science at AgroParisTech / LBBE (Lyon)
+
+=======
+Le paragraphe 2 est en : ENG
+	Subject: Alternative splicing: On the unicity of the solution to the variant identification problem
+
+=======
+Le paragraphe 3 est en : ENG
+	New sequencing technologies can now be applied to the study of mRNA, through the RNA-seq protocol. These techniques yield large amounts of short reads, which then need to be reassembled to identify and quantify the full-length mRNAs initially present in the sample. While this problem is simple when there is only one mRNA per gene, it becomes challenging when a gene gives rises to several alternative splicing variants, with different exon content. Recent studies estimate that up to 90% of multi-exon genes in human are alternatively spliced. Hence, what was thought to be once an exception seems in fact to be the rule. Idenfifying and quantifying all the variants of a gene is therefore a major challenge in the field, for which various methods have been proposed, including penalized regression approaches [Li et al., 2011, Bernard et al., 2014].
+
+=======
+Le paragraphe 4 est en : ENG
+	Unambiguously assigning an expression level to each variant is however not always possible, essentially because sequencing reads are short, and genes may have many (unannotated) variants Lacroix et al. [2008]. In practice, several sets of variants may give solutions which are equally good in terms of penalized or constrained likelihood. Yet, most methods output only one best solution, without mentionning that there could be other equally good ones. This is not satisfactory and could lead to spurious biological conclusions. The purpose of this post-doc is to carefully analyze the conditions under which a solution is unique and, most importantly, when it is not the case to characterize the set of solutions and propose possibly unique sub-solutions.
+
+=======
+Le paragraphe 5 est en : ENG
+	Context
+The postdoctoral fellow will work either in the UMR 518 AgroParisTech-INRA de Mathématiques et Informatique Appliquees (MIA) in Paris or in the UMR CNRS 5558 de Biométrie et de Biologie Évolutive (LBBE) in Lyon. Both groups are specialized in statistics and bioinformatics.
+This postdoctoral position is offered in the framework of ABS4NGS ANR project https://sites. google.com/site/abs4ngs/. The postdoctoral fellow will thus discuss and collaborate with the different partners of this project Institut Curie and which started at the end of 2012.
+
+=======
+Le paragraphe 6 est en : ENG
+	Background
+The applicant should have a strong background in applied statistics, bioinformatics and/or computer science; typically a PhD in one of these fields. A strong experience in programming is also highly desirable.
+
+=======
+Le paragraphe 7 est en : FRA
+	Localization.
+• UMR 518 AgroParisTech-INRA MIA: 16 Rue Claude Bernard, Paris 5ème, www.agroparistech.fr/mia/
+• UMR CNRS 5558 LBBE: Campus de La Doua - Université Claude Bernard - Lyon 1, 16 rue Raphael Dubois (Bâtiment Grégoire Mendel), Villeurbanne, lbbe.univ-lyon1.fr/
+
+=======
+Le paragraphe 8 est en : ENG
+	Salary.
+Depending of the past experience of the applicant: 1968 euros per month (2398 euros before taxes) or 2142 euros per month (2611 euros before taxes).Duration. 
+
+=======
+Le paragraphe 9 est en : ENG
+	The position is for 18 months.
+
+=======
+Le paragraphe 10 est en : ENG
+	Contact.
+• MIA 518: Stéphane Robin: robin@agroparistech.fr
+• LBBE: Laurent Jacob: laurent.jacob@univ-lyon1.fr, Vincent Lacroix: vincent.lacroix@univ-lyon1.fr
+
+=======
+Le paragraphe 11 est en : ENG
+	References
+• Elsa Bernard, Laurent Jacob, Julien Mairal, and Jean-Philippe Vert. Efficient RNA isoform identification and quantification from rna-seq data with network flows. Bioinformatics, 30(17):2447–2455, 2014. doi: 10.1093/bioinformatics/btu317. URL http://dx.doi.org/10.1093/bioinformatics/btu317.
+• Vincent Lacroix, Michael Sammeth, Roderic Guigó, and Anne Bergeron. Exact transcriptome reconstruction from short sequence reads. In Keith A. Crandall and Jens Lagergren, editors, Algorithms in Bioinformatics, 8th International Workshop, WABI 2008, Karlsruhe, Germany, September 15-19, 2008. Proceedings, volume 5251 of Lecture Notes in Computer Science, pages 50–63. Springer, 2008. ISBN 978-3-540-87360-0. doi: 10.1007/978-3-540-87361-7_5. URL http://dx.doi.org/10.1007/978-3-540-87361-7_5.
+• Jingyi Jessica Li, Ci-Ren Jiang, James B Brown, Haiyan Huang, and Peter J Bickel. Sparse linear modeling of next-generation mrna sequencing (rna-seq) data for isoform discovery and abundance estimation. Proc Natl Acad Sci U S A, 108(50):19867–19872, Dec 2011. doi: 10.1073/pnas.1113972108. URL http://dx.doi.org/10.1073/pnas.1113972108.
+
+=======
+Le paragraphe 12 est en : ENG
+	-- 
+-------------------------------------------------------------
+Stéphane ROBIN    INRA (dépt MIA) / AgroParisTech (dépt MMIP)
+16 rue Claude Bernard      F-75231 Paris cedex 05      FRANCE
+www.agroparistech.fr/mia/                        ssbgroup.fr/
+Personal page: www.agroparistech.fr/mia/robin
+tél: (33) (0)1.44.08.72.07         fax: (33) (0)1.44.08.16.66
+
+=======
+Le paragraphe 13 est en : non detect
+	
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : ENG
+	Postdoctoral position in Statistics/Bioinformatics/Computer science at AgroParisTech / LBBE (Lyon)
+
+Subject: Alternative splicing: On the unicity of the solution to the variant identification problem
+
+New sequencing technologies can now be applied to the study of mRNA, through the RNA-seq protocol.
+=======
+La phrase 2 est en : ENG
+	These techniques yield large amounts of short reads, which then need to be reassembled to identify and quantify the full-length mRNAs initially present in the sample.
+=======
+La phrase 3 est en : ENG
+	While this problem is simple when there is only one mRNA per gene, it becomes challenging when a gene gives rises to several alternative splicing variants, with different exon content.
+=======
+La phrase 4 est en : ENG
+	Recent studies estimate that up to 90% of multi-exon genes in human are alternatively spliced.
+=======
+La phrase 5 est en : ENG
+	Hence, what was thought to be once an exception seems in fact to be the rule.
+=======
+La phrase 6 est en : ENG
+	Idenfifying and quantifying all the variants of a gene is therefore a major challenge in the field, for which various methods have been proposed, including penalized regression approaches [Li et al., 2011, Bernard et al., 2014].
+=======
+La phrase 7 est en : ENG
+	Unambiguously assigning an expression level to each variant is however not always possible, essentially because sequencing reads are short, and genes may have many (unannotated) variants Lacroix et al.
+=======
+La phrase 8 est en : non detect
+	[2008].
+=======
+La phrase 9 est en : ENG
+	In practice, several sets of variants may give solutions which are equally good in terms of penalized or constrained likelihood.
+=======
+La phrase 10 est en : ENG
+	Yet, most methods output only one best solution, without mentionning that there could be other equally good ones.
+=======
+La phrase 11 est en : ENG
+	This is not satisfactory and could lead to spurious biological conclusions.
+=======
+La phrase 12 est en : ENG
+	The purpose of this post-doc is to carefully analyze the conditions under which a solution is unique and, most importantly, when it is not the case to characterize the set of solutions and propose possibly unique sub-solutions.
+=======
+La phrase 13 est en : FRA
+	Context
+The postdoctoral fellow will work either in the UMR 518 AgroParisTech-INRA de Mathématiques et Informatique Appliquees (MIA) in Paris or in the UMR CNRS 5558 de Biométrie et de Biologie Évolutive (LBBE) in Lyon.
+=======
+La phrase 14 est en : ENG
+	Both groups are specialized in statistics and bioinformatics.
+=======
+La phrase 15 est en : ENG
+	This postdoctoral position is offered in the framework of ABS4NGS ANR project https://sites.
+=======
+La phrase 16 est en : ENG
+	google.com/site/abs4ngs/.
+=======
+La phrase 17 est en : ENG
+	The postdoctoral fellow will thus discuss and collaborate with the different partners of this project Institut Curie and which started at the end of 2012.
+=======
+La phrase 18 est en : ENG
+	Background
+The applicant should have a strong background in applied statistics, bioinformatics and/or computer science; typically a PhD in one of these fields.
+=======
+La phrase 19 est en : ENG
+	A strong experience in programming is also highly desirable.
+=======
+La phrase 20 est en : ENG
+	Localization.
+=======
+La phrase 21 est en : FRA
+	• UMR 518 AgroParisTech-INRA MIA: 16 Rue Claude Bernard, Paris 5ème, www.agroparistech.fr/mia/
+• UMR CNRS 5558 LBBE: Campus de La Doua - Université Claude Bernard - Lyon 1, 16 rue Raphael Dubois (Bâtiment Grégoire Mendel), Villeurbanne, lbbe.univ-lyon1.fr/
+
+Salary.
+=======
+La phrase 22 est en : FRA
+	Depending of the past experience of the applicant: 1968 euros per month (2398 euros before taxes) or 2142 euros per month (2611 euros before taxes).Duration.
+=======
+La phrase 23 est en : ENG
+	The position is for 18 months.
+=======
+La phrase 24 est en : ENG
+	Contact.
+=======
+La phrase 25 est en : FRA
+	• MIA 518: Stéphane Robin: robin@agroparistech.fr
+• LBBE: Laurent Jacob: laurent.jacob@univ-lyon1.fr, Vincent Lacroix: vincent.lacroix@univ-lyon1.fr
+
+References
+• Elsa Bernard, Laurent Jacob, Julien Mairal, and Jean-Philippe Vert.
+=======
+La phrase 26 est en : ENG
+	Efficient RNA isoform identification and quantification from rna-seq data with network flows.
+=======
+La phrase 27 est en : ENG
+	Bioinformatics, 30(17):2447–2455, 2014. doi: 10.1093/bioinformatics/btu317.
+=======
+La phrase 28 est en : ENG
+	URL http://dx.doi.org/10.1093/bioinformatics/btu317.
+=======
+La phrase 29 est en : ENG
+	• Vincent Lacroix, Michael Sammeth, Roderic Guigó, and Anne Bergeron.
+=======
+La phrase 30 est en : FRA
+	Exact transcriptome reconstruction from short sequence reads.
+=======
+La phrase 31 est en : ENG
+	In Keith A. Crandall and Jens Lagergren, editors, Algorithms in Bioinformatics, 8th International Workshop, WABI 2008, Karlsruhe, Germany, September 15-19, 2008.
+=======
+La phrase 32 est en : FRA
+	Proceedings, volume 5251 of Lecture Notes in Computer Science, pages 50–63.
+=======
+La phrase 33 est en : ENG
+	Springer, 2008.
+=======
+La phrase 34 est en : ENG
+	ISBN 978-3-540-87360-0. doi: 10.1007/978-3-540-87361-7_5.
+=======
+La phrase 35 est en : FRA
+	URL http://dx.doi.org/10.1007/978-3-540-87361-7_5.
+=======
+La phrase 36 est en : FRA
+	• Jingyi Jessica Li, Ci-Ren Jiang, James B Brown, Haiyan Huang, and Peter J Bickel.
+=======
+La phrase 37 est en : FRA
+	Sparse linear modeling of next-generation mrna sequencing (rna-seq) data for isoform discovery and abundance estimation.
+=======
+La phrase 38 est en : FRA
+	Proc Natl Acad Sci U S A, 108(50):19867–19872, Dec 2011. doi: 10.1073/pnas.1113972108.
+=======
+La phrase 39 est en : FRA
+	URL http://dx.doi.org/10.1073/pnas.1113972108.
+=======
+La phrase 40 est en : ENG
+	-- 
+-------------------------------------------------------------
+Stéphane ROBIN    INRA (dépt MIA) / AgroParisTech (dépt MMIP)
+16 rue Claude Bernard      F-75231 Paris cedex 05      FRANCE
+www.agroparistech.fr/mia/                        ssbgroup.fr/
+Personal page: www.agroparistech.fr/mia/robin
+tél: (33) (0)1.44.08.72.07         fax: (33) (0)1.44.08.16.66
+
+
+=======

@@ -1,0 +1,267 @@
+Le mail "bioinfo_2014-12_37" est globalement en : ENG
+Le sujet du mail est en : ENG
+Subject : [bioinfo] Call for papers - MLJ Special issue on Dynamic Networks & Knowledge
+ Discovery
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : ENG
+	_________________________________________________________________
+Call for papers - Machine Learning Journal (Springer)
+Special issue on Dynamic Networks & Knowledge Discovery
+http://lipn.fr/mlj-si
+
+=======
+Le paragraphe 2 est en : ENG
+	Submission due: 01/03/2015
+_____________________________________________________________________________________
+
+=======
+Le paragraphe 3 est en : ENG
+	Modeling and analyzing networks is a major emerging topic in different 
+research areas, such as computational biology, social science, document 
+retrieval, etc. Nowadays, the scientific communities have access to huge 
+volumes of network-structured data, such as social networks, 
+gene/proteins/metabolic networks, sensor networks, peer-to-peer 
+networks. Most often, these data are dynamic, and a  dynamic view of the 
+system allows the time component to play a key role in the comprehension 
+of the evolutionary behavior of the ne twork.
+
+=======
+Le paragraphe 4 est en : ENG
+	Handling such data is a major challenge for current research in machine 
+learning and data mining. It has led to the development of recent 
+innovative techniques that consider complex/multi-level networks, 
+time-evolving graphs, heterogeneous information (nodes and links), and 
+requires scalable algorithms that are able to manage huge and complex 
+networks. This special issue, organized after the second DYNAK workshop 
+that recently took place at ECML/PKDD 2014, aims at attracting 
+contributions from both aspects of networks analysis: large real network 
+analysis and modeling and knowledge discovery within those networks. 
+Authors are invited to submit previously unpublished papers, as well as 
+substantially extended versions of papers accepted to the DYNAK workshop 
+or recent Machine Learning and Data Mining major conferences. We are 
+interested in theoretical research and/or applications in any topic 
+related to one or more of the workshop topics. A non‐exhaustive list of 
+topics is given hereafter:
+
+=======
+Le paragraphe 5 est en : ENG
+	Methods:
+- Network inference from raw data
+- Graphical models
+- Graph mining algorithms
+- Graph kernel algorithms
+- Relational learning algorithms
+- Matrix/Tensor methods
+- Information retrieval algorithms
+- Bayesian methods
+- Evolutionary clustering
+- Mining heterogenous networks
+- Multiplex network analysis & mining
+- Bisociative information discovery
+- Clustering/Co-clustering/Biclustering
+- Pattern mining with constraints
+- Community detection
+- Social & biological networks analogy
+
+=======
+Le paragraphe 6 est en : ENG
+	Applications:
+- Recommender systems
+- System biology : regulatory gene networks, protein-protein 
+interaction, miRNA networks, metabolic networks
+- Social networks: folksonomies, digital libraries, information 
+networks, Social media, collaborative networks
+- Sensor networks: P2P networks, Web, body sensor networks
+
+=======
+Le paragraphe 7 est en : ENG
+	Submission:
+  Authors are invited to submit an abstract (2 pages maximum, including 
+major references, see http://lipn.fr/mlj‐si for details) before 
+submitting a full paper. The submission of abstracts is to be done 
+through the easychair submission web site :
+
+=======
+Le paragraphe 8 est en : ENG
+	https://www.easychair.org/conferences/?conf=mlj-dynaksi15
+
+=======
+Le paragraphe 9 est en : ENG
+	   Abstract will be selected at that stage only on the basis of their 
+relevance to the call. Authors of selected abstracts will be invited to 
+submit a full paper.  All papers will be reviewed following standard 
+reviewing procedures for the Journal. Papers must be prepared in 
+accordance with the Journal guidelines: http://www.springer.com/10994. 
+Instructions for Authors and LaTeX style files can also be found at this 
+site. Manuscripts must be submitted to: http://MACH.edmgr.com. Choose 
+“Dynamic Networks and Knowledge Discovery” as the article type.
+
+=======
+Le paragraphe 10 est en : ENG
+	Important dates:
+07/01/2015 : Abstract due
+16/01/2015 : Feedback on abstracts (go, no go)
+01/03/2015 : Submission deadline
+15/06/2015 : First notification
+15/09/2015 : Final version due
+
+=======
+Le paragraphe 11 est en : ENG
+	Guest editors:
+Rushed Kanawati, SPC, University of Paris 13, France
+
+=======
+Le paragraphe 12 est en : ENG
+	Ruggero G. Pensa, University of Torino, Italy
+
+=======
+Le paragraphe 13 est en : FRA
+	Céline Rouveirol, SPC, University of Paris 13, France
+
+=======
+Le paragraphe 14 est en : non detect
+	
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : ENG
+	_________________________________________________________________
+Call for papers - Machine Learning Journal (Springer)
+Special issue on Dynamic Networks & Knowledge Discovery
+http://lipn.fr/mlj-si
+
+Submission due: 01/03/2015
+_____________________________________________________________________________________
+
+Modeling and analyzing networks is a major emerging topic in different 
+research areas, such as computational biology, social science, document 
+retrieval, etc.
+=======
+La phrase 2 est en : ENG
+	Nowadays, the scientific communities have access to huge 
+volumes of network-structured data, such as social networks, 
+gene/proteins/metabolic networks, sensor networks, peer-to-peer 
+networks.
+=======
+La phrase 3 est en : ENG
+	Most often, these data are dynamic, and a  dynamic view of the 
+system allows the time component to play a key role in the comprehension 
+of the evolutionary behavior of the ne twork.
+=======
+La phrase 4 est en : ENG
+	Handling such data is a major challenge for current research in machine 
+learning and data mining.
+=======
+La phrase 5 est en : ENG
+	It has led to the development of recent 
+innovative techniques that consider complex/multi-level networks, 
+time-evolving graphs, heterogeneous information (nodes and links), and 
+requires scalable algorithms that are able to manage huge and complex 
+networks.
+=======
+La phrase 6 est en : ENG
+	This special issue, organized after the second DYNAK workshop 
+that recently took place at ECML/PKDD 2014, aims at attracting 
+contributions from both aspects of networks analysis: large real network 
+analysis and modeling and knowledge discovery within those networks.
+=======
+La phrase 7 est en : ENG
+	Authors are invited to submit previously unpublished papers, as well as 
+substantially extended versions of papers accepted to the DYNAK workshop 
+or recent Machine Learning and Data Mining major conferences.
+=======
+La phrase 8 est en : ENG
+	We are 
+interested in theoretical research and/or applications in any topic 
+related to one or more of the workshop topics.
+=======
+La phrase 9 est en : ENG
+	A non‐exhaustive list of 
+topics is given hereafter:
+
+Methods:
+- Network inference from raw data
+- Graphical models
+- Graph mining algorithms
+- Graph kernel algorithms
+- Relational learning algorithms
+- Matrix/Tensor methods
+- Information retrieval algorithms
+- Bayesian methods
+- Evolutionary clustering
+- Mining heterogenous networks
+- Multiplex network analysis & mining
+- Bisociative information discovery
+- Clustering/Co-clustering/Biclustering
+- Pattern mining with constraints
+- Community detection
+- Social & biological networks analogy
+
+Applications:
+- Recommender systems
+- System biology : regulatory gene networks, protein-protein 
+interaction, miRNA networks, metabolic networks
+- Social networks: folksonomies, digital libraries, information 
+networks, Social media, collaborative networks
+- Sensor networks: P2P networks, Web, body sensor networks
+
+Submission:
+  Authors are invited to submit an abstract (2 pages maximum, including 
+major references, see http://lipn.fr/mlj‐si for details) before 
+submitting a full paper.
+=======
+La phrase 10 est en : ENG
+	The submission of abstracts is to be done 
+through the easychair submission web site :
+
+https://www.easychair.org/conferences/?conf=mlj-dynaksi15
+
+   Abstract will be selected at that stage only on the basis of their 
+relevance to the call.
+=======
+La phrase 11 est en : ENG
+	Authors of selected abstracts will be invited to 
+submit a full paper.
+=======
+La phrase 12 est en : ENG
+	All papers will be reviewed following standard 
+reviewing procedures for the Journal.
+=======
+La phrase 13 est en : ENG
+	Papers must be prepared in 
+accordance with the Journal guidelines: http://www.springer.com/10994.
+=======
+La phrase 14 est en : ENG
+	Instructions for Authors and LaTeX style files can also be found at this 
+site.
+=======
+La phrase 15 est en : ENG
+	Manuscripts must be submitted to: http://MACH.edmgr.com.
+=======
+La phrase 16 est en : ENG
+	Choose 
+“Dynamic Networks and Knowledge Discovery” as the article type.
+=======
+La phrase 17 est en : ENG
+	Important dates:
+07/01/2015 : Abstract due
+16/01/2015 : Feedback on abstracts (go, no go)
+01/03/2015 : Submission deadline
+15/06/2015 : First notification
+15/09/2015 : Final version due
+
+Guest editors:
+Rushed Kanawati, SPC, University of Paris 13, France
+
+Ruggero G. Pensa, University of Torino, Italy
+
+Céline Rouveirol, SPC, University of Paris 13, France
+
+
+=======

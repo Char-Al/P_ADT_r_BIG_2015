@@ -1,0 +1,349 @@
+Le mail "bioinfo_2014-04_75" est globalement en : ENG
+Le sujet du mail est en : ENG
+Subject : [bioinfo] CFP:  2nd Workshop on Dynamic Networks and Knowledge Discovery (DyNaK,
+ 2014)
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : ENG
+	——-  With our apologies in case of multiple reception ———
+
+=======
+Le paragraphe 2 est en : ENG
+	===============================================================================
+CFP:  2nd Workshop on Dynamic Networks and Knowledge Discovery (DyNaK 2014)
+
+=======
+Le paragraphe 3 est en : ENG
+	co-located with ECML PKDD 2014, September 15-19, 2014, Nancy, France
+
+=======
+Le paragraphe 4 est en : ENG
+	http://lipn.univ-paris13.fr/dynak2/
+
+=======
+Le paragraphe 5 est en : ENG
+	Submission deadline: 20 June 2014
+Submission site: https://www.easychair.org/conferences/?conf=dynak2
+
+=======
+Le paragraphe 6 est en : non detect
+	===============================================================================
+
+=======
+Le paragraphe 7 est en : FRA
+	Aim and Scope
+
+=======
+Le paragraphe 8 est en : ENG
+	Modeling and analyzing networks is a major emerging topic in different 
+research areas, such as computational biology, social science, document 
+retrieval, etc. Nowadays, the scientific communities have access to huge 
+volumes of network-structured data, such as social networks, 
+gene/protein /metabolic networks, sensor networks, peer-to-peer 
+networks. Most often, these data are not only static, but they are 
+collected at different time points. This dynamic view of the system 
+allows the time component to play a key role in the comprehension of the 
+evolutionary behavior of the network.
+
+=======
+Le paragraphe 9 est en : ENG
+	Handling such data is a major challenge for current research in machine
+learning and data mining, and it has led to the development of recent
+innovative techniques that consider complex/multi-level networks, 
+time-evolving graphs, heterogeneous information (nodes and links), and 
+requires scalable algorithms that are able to manage huge and complex 
+networks.
+
+=======
+Le paragraphe 10 est en : ENG
+	DyNaK workshop is motivated by the interest of providing a meeting point 
+for scientists with different backgrounds that are interested in the 
+study of large complex networks and the dynamic aspects of such 
+networks. It aims at attracting contributions from both aspects of 
+networks analysis: large real network analysis and modeling, and 
+knowledge discovery within those networks.
+
+=======
+Le paragraphe 11 est en : ENG
+	Topics of interest
+
+=======
+Le paragraphe 12 est en : ENG
+	Authors are invited to submit previously unpublished papers on their 
+theortical research and/or applications in any topic related to one or 
+more of the workshop topics. A non exhaustive list of topics is given 
+hereafter.
+
+=======
+Le paragraphe 13 est en : ENG
+	Methods:
+    * Network inference from raw data
+    * Graphical models
+    * Graph mining algorithms
+    * Graph kernel algorithms
+    * Relational learning algorithms
+    * Matrix/Tensor methods
+    * Information retrieval algorithms
+    * Bayesian met hod
+    * Evolutionary clustering
+    * Mining heterogenous networks
+    * Multiplex network analysis & mining
+    * Bisociative information discovery
+    * Clustering/Co-clustering/Biclustering
+    * Pattern mining with constraints
+    * Community detection
+    * Social & biological networks analogy
+
+=======
+Le paragraphe 14 est en : ENG
+	Applications:
+    * Recommender systems
+    * System biology: regulatory gene networks, protein-protein 
+interaction, miRNA networks, metabolic networks
+    * Social networks: folksonomies, digital libraries, information 
+networks, social media, collaborative networks
+    * Sensor networks, peer-to-peer networks, Web, agent networks, body 
+sensor networks
+
+=======
+Le paragraphe 15 est en : ENG
+	Key Dates
+
+=======
+Le paragraphe 16 est en : FRA
+	    * Paper Submission due: June 20, 2014
+    * Notification of Acceptance: July 11, 2014
+    * Camera Ready Papers due: July 25, 2014
+
+=======
+Le paragraphe 17 est en : ENG
+	Organization
+
+=======
+Le paragraphe 18 est en : ENG
+	    * Rushed Kanawati, University of Paris Nord, France
+      rushed.kanawati@lipn.univ-paris13.fr
+
+=======
+Le paragraphe 19 est en : ENG
+	    * Ruggero G. Pensa, University of Torino, Italy
+      pensa@di.unito.it
+
+=======
+Le paragraphe 20 est en : FRA
+	    * Céline Rouveirol, University of Paris Nord, France
+      celine.rouveirol@lipn.univ-paris13.fr
+
+=======
+Le paragraphe 21 est en : ENG
+	Program Committee
+(under construction)
+
+=======
+Le paragraphe 22 est en : ENG
+	    * Luca Aiello, Yahoo! Research, Barcelona, Spain
+    * Michele Berlingerio, IBM Research, Dublin, Irela nd
+    * Guillaume Beslon, INSA-Lyon, France
+    * Diego Di Bernardo, TIGEM, Italy
+    * Francesca Cordero, University of Torino, Italy
+    * Mohamed Elati, University of Evry, France
+    * Dino Ienco, IRSTEA Montpellier, France
+    * Stefan Kramer, Johannes Gutenberg University Mainz, Germany
+    * Sara C. Madeira, INESC-ID/IST, Portugal
+    * Rosa Meo, University of Torino, Italy
+    * Tsuyoshi Murata, Tokyo Institute of Technology, Japan
+    * Mirco Nanni, ISTI-CNR, Italy
+    * Fabio Pinelli, IBM Research, Dublin, Ireland
+    * Lorenza Saitta, University of Piemonte Orientale, Italy
+    * Rossano Schifanella, University of Torino, Italy
+    * Hanghang Tong, City College CUNY, NY, USA
+    ...
+
+=======
+Le paragraphe 23 est en : FRA
+	Paper Submission
+
+=======
+Le paragraphe 24 est en : ENG
+	We welcome original contributions, either theoretical or empirical, 
+describing  ongoing projects or completed work (even partially 
+published). The instructions for authors and the LaTeX packages can be 
+found at
+http://www.springer.de/comp/lncs/authors.html.
+
+=======
+Le paragraphe 25 est en : ENG
+	Paper length should not exceed 12 pages.
+
+=======
+Le paragraphe 26 est en : ENG
+	Following the first edition of DyNak workshop, a special issue of the
+International journal of Intelligent Data Analysis has been published. 
+We expect to do the same for this second edition.
+
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : ENG
+	——-  With our apologies in case of multiple reception ———
+
+===============================================================================
+CFP:  2nd Workshop on Dynamic Networks and Knowledge Discovery (DyNaK 2014)
+
+co-located with ECML PKDD 2014, September 15-19, 2014, Nancy, France
+
+http://lipn.univ-paris13.fr/dynak2/
+
+Submission deadline: 20 June 2014
+Submission site: https://www.easychair.org/conferences/?conf=dynak2
+
+===============================================================================
+
+Aim and Scope
+
+Modeling and analyzing networks is a major emerging topic in different 
+research areas, such as computational biology, social science, document 
+retrieval, etc.
+=======
+La phrase 2 est en : ENG
+	Nowadays, the scientific communities have access to huge 
+volumes of network-structured data, such as social networks, 
+gene/protein /metabolic networks, sensor networks, peer-to-peer 
+networks.
+=======
+La phrase 3 est en : ENG
+	Most often, these data are not only static, but they are 
+collected at different time points.
+=======
+La phrase 4 est en : ENG
+	This dynamic view of the system 
+allows the time component to play a key role in the comprehension of the 
+evolutionary behavior of the network.
+=======
+La phrase 5 est en : ENG
+	Handling such data is a major challenge for current research in machine
+learning and data mining, and it has led to the development of recent
+innovative techniques that consider complex/multi-level networks, 
+time-evolving graphs, heterogeneous information (nodes and links), and 
+requires scalable algorithms that are able to manage huge and complex 
+networks.
+=======
+La phrase 6 est en : ENG
+	DyNaK workshop is motivated by the interest of providing a meeting point 
+for scientists with different backgrounds that are interested in the 
+study of large complex networks and the dynamic aspects of such 
+networks.
+=======
+La phrase 7 est en : ENG
+	It aims at attracting contributions from both aspects of 
+networks analysis: large real network analysis and modeling, and 
+knowledge discovery within those networks.
+=======
+La phrase 8 est en : ENG
+	Topics of interest
+
+Authors are invited to submit previously unpublished papers on their 
+theortical research and/or applications in any topic related to one or 
+more of the workshop topics.
+=======
+La phrase 9 est en : ENG
+	A non exhaustive list of topics is given 
+hereafter.
+=======
+La phrase 10 est en : ENG
+	Methods:
+    * Network inference from raw data
+    * Graphical models
+    * Graph mining algorithms
+    * Graph kernel algorithms
+    * Relational learning algorithms
+    * Matrix/Tensor methods
+    * Information retrieval algorithms
+    * Bayesian met hod
+    * Evolutionary clustering
+    * Mining heterogenous networks
+    * Multiplex network analysis & mining
+    * Bisociative information discovery
+    * Clustering/Co-clustering/Biclustering
+    * Pattern mining with constraints
+    * Community detection
+    * Social & biological networks analogy
+
+Applications:
+    * Recommender systems
+    * System biology: regulatory gene networks, protein-protein 
+interaction, miRNA networks, metabolic networks
+    * Social networks: folksonomies, digital libraries, information 
+networks, social media, collaborative networks
+    * Sensor networks, peer-to-peer networks, Web, agent networks, body 
+sensor networks
+
+Key Dates
+
+    * Paper Submission due: June 20, 2014
+    * Notification of Acceptance: July 11, 2014
+    * Camera Ready Papers due: July 25, 2014
+
+Organization
+
+    * Rushed Kanawati, University of Paris Nord, France
+      rushed.kanawati@lipn.univ-paris13.fr
+
+    * Ruggero G. Pensa, University of Torino, Italy
+      pensa@di.unito.it
+
+    * Céline Rouveirol, University of Paris Nord, France
+      celine.rouveirol@lipn.univ-paris13.fr
+
+Program Committee
+(under construction)
+
+    * Luca Aiello, Yahoo!
+=======
+La phrase 11 est en : ENG
+	Research, Barcelona, Spain
+    * Michele Berlingerio, IBM Research, Dublin, Irela nd
+    * Guillaume Beslon, INSA-Lyon, France
+    * Diego Di Bernardo, TIGEM, Italy
+    * Francesca Cordero, University of Torino, Italy
+    * Mohamed Elati, University of Evry, France
+    * Dino Ienco, IRSTEA Montpellier, France
+    * Stefan Kramer, Johannes Gutenberg University Mainz, Germany
+    * Sara C. Madeira, INESC-ID/IST, Portugal
+    * Rosa Meo, University of Torino, Italy
+    * Tsuyoshi Murata, Tokyo Institute of Technology, Japan
+    * Mirco Nanni, ISTI-CNR, Italy
+    * Fabio Pinelli, IBM Research, Dublin, Ireland
+    * Lorenza Saitta, University of Piemonte Orientale, Italy
+    * Rossano Schifanella, University of Torino, Italy
+    * Hanghang Tong, City College CUNY, NY, USA
+    ...
+
+
+Paper Submission
+
+We welcome original contributions, either theoretical or empirical, 
+describing  ongoing projects or completed work (even partially 
+published).
+=======
+La phrase 12 est en : ENG
+	The instructions for authors and the LaTeX packages can be 
+found at
+http://www.springer.de/comp/lncs/authors.html.
+=======
+La phrase 13 est en : ENG
+	Paper length should not exceed 12 pages.
+=======
+La phrase 14 est en : ENG
+	Following the first edition of DyNak workshop, a special issue of the
+International journal of Intelligent Data Analysis has been published.
+=======
+La phrase 15 est en : ENG
+	We expect to do the same for this second edition.
+
+=======

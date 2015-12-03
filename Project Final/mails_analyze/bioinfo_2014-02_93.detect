@@ -1,0 +1,204 @@
+Le mail "bioinfo_2014-02_93" est globalement en : FRA
+Le sujet du mail est en : FRA
+Subject : [bioinfo] Tutoriel « Utilisation du Cloud pour la Biologie » 
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	
+Tutoriel « Utilisation du Cloud pour la Biologie »
+
+=======
+Le paragraphe 2 est en : FRA
+	Les plateformes IDB-IBCP et GenOuest organisent une formation initiale à l ‘utilisation du cloud computing pour des analyses de données biologiques avec les techniques usuelles en bioinformatique. Elle s’appuiera sur les deux clouds bioinformatiques actuellement opérationnels au niveau national: le cloud IDB à l’IBCP (Lyon, membre du PRABI) et le Génocloud à Genouest (Rennes, membre de IFB-GO). Ces deux infrastructures sont fonctionnelles depuis plusieurs années et proposent des services d’analyse à leur communauté propre d’utilisateurs. Ces clouds ont été choisis comme pilotes par l’institut Français de Bioinformatique (CNRS UMS3601) pour la préparation de son infrastructure de  cloud académique. L’objectif est de former les utilisateurs, biologistes et bioinformaticiens, à l’utilisation du cloud IDB et GenoCloud comme précurseurs du futur cloud IFB. Le programme de la formation contiendra les concepts et principes généraux du cloud, ainsi que la description des outils, usages et avantages actuels pour la Bioinformatique. Une partie pratique sera effectuée par les participants sur le cloud concerné par la session (IDB ou Génocloud).
+
+=======
+Le paragraphe 3 est en : FRA
+	L'inscription est gratuite mais obligatoire, par mail auprès des organisateurs. Le nombre de places étant limitées, les inscriptions se feront dans l’ordre d’arrivée.
+
+=======
+Le paragraphe 4 est en : FRA
+	Ce tutoriel est soutenu par l’Institut Français de Bioinformatique - IFB.
+
+=======
+Le paragraphe 5 est en : ENG
+	IDB-IBCP: http://idee-b.ibcp.fr
+GenOuest: http://www.genouest.org
+
+=======
+Le paragraphe 6 est en : FRA
+	## Date: 18 mars 2014, 9h-17h30
+Lieu: Institut de Biologie et Chimie des Protéines, CNRS-IBCP, 7 passage du Vercors, Lyon, France
+
+=======
+Le paragraphe 7 est en : ENG
+	## Formateurs
+Christophe BLANCHET (IDB-IBCP)
+Olivier COLLIN (GenOuest)
+Clément GAUTHEY (IDB-IBCP)
+Charles LOOMIS (LAL)
+Cyril MONJEAUD (GenOuest)
+Olivier SALLOU (GenOuest)
+
+=======
+Le paragraphe 8 est en : FRA
+	## Programme
+(chaque session comprendra une partie théorique et une mise en application sur les clouds académiques en production à IDB-IBCP, GenOuest et P2IO)
+
+=======
+Le paragraphe 9 est en : ENG
+	9h00: Accueil
+
+=======
+Le paragraphe 10 est en : FRA
+	9h30: Cloud computing: principes généraux et exemple de StratusLab (C. Loomis)
+
+=======
+Le paragraphe 11 est en : FRA
+	11h00: pause café
+
+=======
+Le paragraphe 12 est en : ENG
+	11h30: Cloud pour la biologie: exemples des clouds IDB-IBCP (C. Blanchet, C. Gauthey) et GenOuest (O. Sallou, C. Monjeaud).
+
+=======
+Le paragraphe 13 est en : ENG
+	13h00: repas
+
+=======
+Le paragraphe 14 est en : FRA
+	14h00: Exemples d’applications de cloud en NGS (Galaxy), protéomique et analyse de séquences intensive avec Hadoop MapReduce
+
+=======
+Le paragraphe 15 est en : FRA
+	15h30: pause café
+
+=======
+Le paragraphe 16 est en : FRA
+	16h00: Perspectives et cas d’usage de la salle (Tous)
+
+=======
+Le paragraphe 17 est en : ENG
+	17h30: fin du tutoriel
+
+=======
+Le paragraphe 18 est en : FRA
+	## Bulletin d’inscription
+à envoyer à : Christophe Blanchet <christophe.blanchet@ibcp.fr>, Olivier Collin <olivier.collin@irisa.fr>
+
+=======
+Le paragraphe 19 est en : FRA
+	Souhaite participer au Tutoriel « Utilisation du Cloud pour la Biologie » le 18 mars 2014 à l'IBCP.
+
+=======
+Le paragraphe 20 est en : FRA
+	Civilité (Mme, M., Pr., Dr):
+NOM:
+Prénom:
+Email:
+Tél.:
+Statut (chercheur, ens.-cherch., thésard, postdoc, etc.) :
+Organisme :
+Fonction:
+Laboratoire (Nom et Sigle) :
+Adresse postale:
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : FRA
+	
+Tutoriel « Utilisation du Cloud pour la Biologie »
+
+Les plateformes IDB-IBCP et GenOuest organisent une formation initiale à l ‘utilisation du cloud computing pour des analyses de données biologiques avec les techniques usuelles en bioinformatique.
+=======
+La phrase 2 est en : FRA
+	Elle s’appuiera sur les deux clouds bioinformatiques actuellement opérationnels au niveau national: le cloud IDB à l’IBCP (Lyon, membre du PRABI) et le Génocloud à Genouest (Rennes, membre de IFB-GO).
+=======
+La phrase 3 est en : FRA
+	Ces deux infrastructures sont fonctionnelles depuis plusieurs années et proposent des services d’analyse à leur communauté propre d’utilisateurs.
+=======
+La phrase 4 est en : FRA
+	Ces clouds ont été choisis comme pilotes par l’institut Français de Bioinformatique (CNRS UMS3601) pour la préparation de son infrastructure de  cloud académique.
+=======
+La phrase 5 est en : FRA
+	L’objectif est de former les utilisateurs, biologistes et bioinformaticiens, à l’utilisation du cloud IDB et GenoCloud comme précurseurs du futur cloud IFB.
+=======
+La phrase 6 est en : FRA
+	Le programme de la formation contiendra les concepts et principes généraux du cloud, ainsi que la description des outils, usages et avantages actuels pour la Bioinformatique.
+=======
+La phrase 7 est en : FRA
+	Une partie pratique sera effectuée par les participants sur le cloud concerné par la session (IDB ou Génocloud).
+=======
+La phrase 8 est en : FRA
+	L'inscription est gratuite mais obligatoire, par mail auprès des organisateurs.
+=======
+La phrase 9 est en : FRA
+	Le nombre de places étant limitées, les inscriptions se feront dans l’ordre d’arrivée.
+=======
+La phrase 10 est en : FRA
+	Ce tutoriel est soutenu par l’Institut Français de Bioinformatique - IFB.
+=======
+La phrase 11 est en : FRA
+	IDB-IBCP: http://idee-b.ibcp.fr
+GenOuest: http://www.genouest.org
+
+## Date: 18 mars 2014, 9h-17h30
+Lieu: Institut de Biologie et Chimie des Protéines, CNRS-IBCP, 7 passage du Vercors, Lyon, France
+
+## Formateurs
+Christophe BLANCHET (IDB-IBCP)
+Olivier COLLIN (GenOuest)
+Clément GAUTHEY (IDB-IBCP)
+Charles LOOMIS (LAL)
+Cyril MONJEAUD (GenOuest)
+Olivier SALLOU (GenOuest)
+
+## Programme
+(chaque session comprendra une partie théorique et une mise en application sur les clouds académiques en production à IDB-IBCP, GenOuest et P2IO)
+
+9h00: Accueil
+
+9h30: Cloud computing: principes généraux et exemple de StratusLab (C. Loomis)
+
+11h00: pause café
+
+11h30: Cloud pour la biologie: exemples des clouds IDB-IBCP (C. Blanchet, C. Gauthey) et GenOuest (O. Sallou, C. Monjeaud).
+=======
+La phrase 12 est en : FRA
+	13h00: repas
+
+14h00: Exemples d’applications de cloud en NGS (Galaxy), protéomique et analyse de séquences intensive avec Hadoop MapReduce
+
+15h30: pause café
+
+16h00: Perspectives et cas d’usage de la salle (Tous)
+
+17h30: fin du tutoriel
+
+## Bulletin d’inscription
+à envoyer à : Christophe Blanchet <christophe.blanchet@ibcp.fr>, Olivier Collin <olivier.collin@irisa.fr>
+
+Souhaite participer au Tutoriel « Utilisation du Cloud pour la Biologie » le 18 mars 2014 à l'IBCP.
+=======
+La phrase 13 est en : FRA
+	Civilité (Mme, M., Pr., Dr):
+NOM:
+Prénom:
+Email:
+Tél.
+=======
+La phrase 14 est en : ENG
+	:
+Statut (chercheur, ens.-cherch., thésard, postdoc, etc.)
+=======
+La phrase 15 est en : ENG
+	:
+Organisme :
+Fonction:
+Laboratoire (Nom et Sigle) :
+Adresse postale:
+=======

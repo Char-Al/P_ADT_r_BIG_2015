@@ -28,28 +28,36 @@ def detectLanguagesMails(repertory):
 	detector.addDocument(learning_FRA,"FRA", 1, False)
 	detector.addDocument(learning_ENG,"ENG", 1, False)
 
+	detectorSentence = LangDetectorByNGrams()
 	detectorSentence.addDocument(learning_FRA,"FRA", 2, False)
 	detectorSentence.addDocument(learning_ENG,"ENG", 2, False)
 	
 
+	GLOBAL_F = open("mails_analyze/global.txt",'w')
 	os.chdir(repertory)
 	for mails in glob.glob("*"):
 		name = re.search('(.*)',mails)
-		name_file = str(name.group(1)) + ".detect"
-		FILE = open("../mails_analyze/" + name_file,'w')	
+		name_file = str("../mails_analyze/" + name.group(1)) + ".detect"
+		print (name_file)
+		FILE = open(name_file,'w')	
 		e = Email(mails)
+		GLOBAL_F.write(name.group(1) + "\t" + detector.detect(e.get_body(),1,False) + "\n")
 		FILE.write("Le mail \"" + name.group(1) + "\" est globalement en : " + detector.detect(e.get_body(),1,False) + "\n")
+		FILE.write("Le sujet du mail est en : " + detector.detect(e.get_subject(),1,False) + "\n")
+		FILE.write("Subject : " + e.get_subject() + "\n")
 		i=0
+		FILE.write("\n\n+++++++++++++++++++++++++++++++++++++++++++++++++\n+++++++++++++++++++++++++++++++++++++++++++++++++\n")
 		for paragraph in cuttingText.getSubsections(e.get_body()):
 			i+=1
 			FILE.write("Le paragraphe " + str(i) + " est en : " + detector.detect(paragraph, 1, False) + "\n\t" + paragraph + "\n\n=======\n")
 		i=0
-		FILE.write("\n\n")
+		FILE.write("\n\n+++++++++++++++++++++++++++++++++++++++++++++++++\n+++++++++++++++++++++++++++++++++++++++++++++++++\n")
 		for sentence in cuttingText.getSentences(e.get_body()):
 			i+=1
-			FILE.write("La phrase " + str(i) + " est en : " + detectorSentence.detect(sentence, 2, False)+ "\n\t" + sentence + "\n=======\n")
+			FILE.write("La phrase " + str(i) + " est en : " + detectorSentence.detect(sentence, 1, False)+ "\n\t" + sentence + "\n=======\n")
 		FILE.close()
-		
+	
+	GLOBAL_F.close()
 
 
 # LEARNING STATS
@@ -92,8 +100,25 @@ def learning_stats():
 				STATS.write(match.group(1) + "\t" + match.group(2) + "\t" + "Char_" + str(i+1) + "\t" + str(detectorTrue[str(i+1)].detect(line, i+1, False)) + "\n")
 				STATS.write(match.group(1) + "\t" + match.group(2) + "\t" + "Word_" + str(i+1) + "\t" + str(detectorTrue[str(i+1)].detect(line, i+1, True)) + "\n")
 		FILE.close()
+	STATS.close()
 
+def learning_SW():
+	detector = LangDectectorStopWords()
+	STATS = open("statistics_SW.txt",'w')
+	STATS.write("Language\tSize\tMethode\tLanguage_Detect\n")
+	os.chdir("data_stats")
+	for file_stats in glob.glob("*.txt"):
+		match = re.search('(.*)_sentence_(.*).txt',file_stats)	
+		print(match.group(1) + " " + match.group(2))
+		FILE = open(file_stats, 'r')
+		for line in FILE.readlines():
+			STATS.write(match.group(1) + "\t" + match.group(2) + "\t" + "StopWords\t" + detector.stopWords_detect(line) + "\n")
+		FILE.close()
+	STATS.close()
+	
 
+#learning_stats()
 
+#learning_SW()
 
 detectLanguagesMails("mails")

@@ -1,0 +1,128 @@
+Le mail "bioinfo_2014-11_9" est globalement en : ENG
+Le sujet du mail est en : ENG
+Subject : [bioinfo] DebianMed annual sprint in Saint Malo 31/01/15 -> 01/02/15
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : ENG
+	DebianMed [0] is a team of Debian, the Linux distribution, focusing on
+open source software packaging related to life sciences (medical,
+biology, bioinformatics, ..). Ubuntu is a derivative of Debian, and
+packages in Debian are available in Ubuntu distributions.
+
+=======
+Le paragraphe 2 est en : ENG
+	Debian already provides tons of bioinformatics (and other) packages, and
+our goal is to provide more and more software, to ease the installation,
+availability and use of those software for the final user.
+
+=======
+Le paragraphe 3 est en : ENG
+	We hold this year our annual sprint in Saint Malo, France, from 31/01/15
+to 01/02/15. Our sprints are a way to collaborate on software packaging
+and Debian future.
+
+=======
+Le paragraphe 4 est en : ENG
+	We welcome newcomers willing to learn Debian packaging and/or willing to
+package their bioinformatics software (open source ) to make them
+available in Debian/Ubuntu repositories. Debian developers can help you
+during this week-end to prepare your package (help you, not do it for
+you...). Please note that your software should be open source to be
+eligible.
+
+=======
+Le paragraphe 5 est en : ENG
+	This is an informal meeting, not a conference/workshop/..., and it is
+free. Room space is limited, so if you are interested, please let us know.
+
+=======
+Le paragraphe 6 est en : ENG
+	More info at:
+
+=======
+Le paragraphe 7 est en : ENG
+	https://wiki.debian.org/Sprints/2015/DebianMed2015
+
+=======
+Le paragraphe 8 est en : ENG
+	[0] http://en.wikipedia.org/wiki/Debian-Med
+
+=======
+Le paragraphe 9 est en : non detect
+	-- 
+
+=======
+Le paragraphe 10 est en : ENG
+	gpg key id: 4096R/326D8438  (keyring.debian.org)
+Key fingerprint = 5FB4 6F83 D3B9 5204 6335  D26D 78DC 68DB 326D 8438
+
+=======
+Le paragraphe 11 est en : non detect
+	
+
+=======
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : ENG
+	DebianMed [0] is a team of Debian, the Linux distribution, focusing on
+open source software packaging related to life sciences (medical,
+biology, bioinformatics, ..).
+=======
+La phrase 2 est en : ENG
+	Ubuntu is a derivative of Debian, and
+packages in Debian are available in Ubuntu distributions.
+=======
+La phrase 3 est en : ENG
+	Debian already provides tons of bioinformatics (and other) packages, and
+our goal is to provide more and more software, to ease the installation,
+availability and use of those software for the final user.
+=======
+La phrase 4 est en : ENG
+	We hold this year our annual sprint in Saint Malo, France, from 31/01/15
+to 01/02/15.
+=======
+La phrase 5 est en : ENG
+	Our sprints are a way to collaborate on software packaging
+and Debian future.
+=======
+La phrase 6 est en : ENG
+	We welcome newcomers willing to learn Debian packaging and/or willing to
+package their bioinformatics software (open source ) to make them
+available in Debian/Ubuntu repositories.
+=======
+La phrase 7 est en : ENG
+	Debian developers can help you
+during this week-end to prepare your package (help you, not do it for
+you...).
+=======
+La phrase 8 est en : ENG
+	Please note that your software should be open source to be
+eligible.
+=======
+La phrase 9 est en : ENG
+	This is an informal meeting, not a conference/workshop/..., and it is
+free.
+=======
+La phrase 10 est en : ENG
+	Room space is limited, so if you are interested, please let us know.
+=======
+La phrase 11 est en : ENG
+	More info at:
+
+https://wiki.debian.org/Sprints/2015/DebianMed2015
+
+
+[0] http://en.wikipedia.org/wiki/Debian-Med
+
+-- 
+
+gpg key id: 4096R/326D8438  (keyring.debian.org)
+Key fingerprint = 5FB4 6F83 D3B9 5204 6335  D26D 78DC 68DB 326D 8438
+
+
+
+=======

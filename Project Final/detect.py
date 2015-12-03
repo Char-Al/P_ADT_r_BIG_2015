@@ -146,7 +146,7 @@ class LangDectectorStopWords():
 		languages_ratios = {}
 		tokens = self.getWords(text)
 
-    	# Compte par language le nombre de stopwords qui apparait.
+    		# Compte par language le nombre de stopwords qui apparait.
 		for language in stopwords.fileids():
 			stopwords_set = set(stopwords.words(language))
 			words_set = set(tokens)
@@ -156,7 +156,7 @@ class LangDectectorStopWords():
 
 		return languages_ratios
 
-    # DETECTE LANGUAGE WITH STOPWORDS
+	# DETECTE LANGUAGE WITH STOPWORDS
 	def stopWords_detect(self, text):
 		#Calcule la probabilité que le texte donné est écrit dans telle ou telle langue et prend la langue avec le plus haut score.
 		#On utilise les stopwords, on compte le nombre d'apparition de chaque stopwords qui apparait dans le texte.
