@@ -5,23 +5,15 @@ import nltk
 import os
 
 from nltk.util import ngrams as NGRAM
-from nltk import bigrams
-from nltk import trigrams
-
-from nltk.tokenize import RegexpTokenizer
-from nltk.tokenize import word_tokenize
-from nltk.tokenize import regexp_tokenize
-
 from nltk.corpus import stopwords
 
 import re
 import random
-from collections import Counter
 from collections import OrderedDict
 
 import operator
 
-import glob, os
+import glob
 
 class LangDetector():
 	index = dict()

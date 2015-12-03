@@ -1,0 +1,80 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Guy.Perriere@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 2553126801D
+	for <bioinfo@sfbi.fr>; Thu, 23 Jan 2014 08:35:29 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjYCAPHF4FJS2G8mnGdsb2JhbABbg0SOAq9TFg4BAQEBAQYNCQkUKII4gTxPiDwJmUeQHJssjiV0ghkPZoEUBJlUlBSBaA
+X-IronPort-AV: E=Sophos;i="4.95,704,1384297200"; 
+   d="scan'208";a="60735035"
+Received: from smtp2.tech.numericable.fr ([82.216.111.38])
+  by a-mx1.relay.syrhano.net with ESMTP; 23 Jan 2014 08:35:03 +0100
+Received: from kantkino.home (45.57-226-89.dsl.completel.net [89.226.57.45])
+	by smtp2.tech.numericable.fr (Postfix) with ESMTP id 081F85FD3D
+	for <bioinfo@sfbi.fr>; Thu, 23 Jan 2014 08:34:48 +0100 (CET)
+From: =?iso-8859-1?Q?Guy_Perri=E8re?= <Guy.Perriere@univ-lyon1.fr>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 23 Jan 2014 08:34:48 +0100
+Message-Id: <3BABCCAE-2E63-4251-9311-82073E22A880@univ-lyon1.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1085)
+X-Mailer: Apple Mail (2.1085)
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSCORE: 0
+X-VR-SPAMCAUSE: gggruggvucftvghtrhhoucdtuddrfeejtddrheefgddukecutefuodetggdotefrucfrrhhofhhilhgvmecupfgfoffgtffkveetuefngfenuceurghilhhouhhtmecufedttdenuc
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Workshop Bioinformatique pour la =?ISO-8859-1?Q?G=E9nomique?= Environnementale Lyon 27-28 mai
+
+Bonjour =E0 tous,
+
+Le workshop "Bioinformatique pour la G=E9nomique Environnementale", organis=
+=E9 sous l'=E9gide du R=E9seau Th=E9matique Pluridisciplinaire en G=E9nomiq=
+ue Environnementale (RTP-GE) du CNRS, se d=E9roulera =E0 Lyon les 27 et 28 =
+mai 2014. Ce workshop vise =E0 rassembler des chercheurs de diff=E9rents do=
+maines qui utilisent (ou sont d=E9sireux d'utiliser) les nouvelles technolo=
+gies de s=E9quen=E7age ainsi que les d=E9veloppements les plus r=E9cents en=
+ bioinformatique, ceci dans le but d'=E9tudier des questions relatives =E0 =
+l'=E9cologie, l'=E9volution, la biodiversit=E9, la syst=E9matique ainsi que=
+ la g=E9nomique des populations.
+
+Les th=E9matiques abord=E9es par ce workshop sont les suivantes :
+
+ - Traitement des donn=E9es de s=E9quences.
+ - Phylog=E9nie et classification.
+ - Estimation de la biodiversit=E9.
+ - Diversit=E9 g=E9nomique et analyse de variants.
+ - M=E9tag=E9nomique et m=E9tatranscriptomique.
+ - G=E9nomique des populations.
+ - Reconstruction de g=E9nomes.
+ - Reconstructions m=E9taboliques.
+ - Mod=E9lisation.
+
+Chacune de ces th=E9matiques pourra faire l'objet d'une session =E0 part en=
+ti=E8re, ceci en fonction du nombre de contributions correspondantes re=E7u=
+es. Trente contributions orales et cent contributions affich=E9es seront re=
+tenues.
+
+Nous vous invitons =E0 vous inscrire et =E0 soumettre un r=E9sum=E9 pour un=
+e communication orale ou affich=E9e. Les proc=E9dures relatives =E0 l'inscr=
+iption et =E0 la soumission de r=E9sum=E9s sont d=E9taill=E9es dans la sect=
+ion "Informations pratiques" du site, qui est accessible =E0 l'adresse :
+
+http://ge-lyon2014.sciencesconf.org/
+
+Notez que la langue officielle du workshop est l'anglais. La date de clotur=
+e des soumissions est fix=E9e au vendredi 18 avril et la date limite pour l=
+es inscriptions est fix=E9e au dimanche 27 avril. Compte-tenu des capacit=
+=E9s d'accueil limit=E9es =E0 450 personnes, nous nous r=E9servons le droit=
+ de refuser les inscriptions au del=E0 de ce seuil. Les frais d'inscription=
+s s'=E9l=E8vent =E0 60 Euros TTC et incluent les d=E9jeuners, pauses caf=E9=
+ et le cocktail d=EEnatoire du 27 mai.
+
+Pour le Comit=E9 Scientifique du RTP-GE et le Comit=E9 de Programme :
+--
+Guy Perri=E8re - Laboratoire BBE - Universit=E9 Claude Bernard Lyon 1
+43 bd. du 11 Novembre 1918 - 69622 Villeurbanne Cedex - France
+http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html
+

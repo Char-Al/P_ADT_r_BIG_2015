@@ -1,0 +1,100 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sympa@sfbi.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: by asso.crihan.fr (Postfix, from userid 203)
+	id 18B9726801D; Fri, 20 Jun 2014 22:30:35 +0200 (CEST)
+To: bioinfo@sfbi.fr
+From: Frederic Cazals <frederic.cazals@inria.fr>
+Message-ID: <sympa.1403296123.29840.784@sfbi.fr>
+In-Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Date: Fri, 20 Jun 2014 22:30:35 +0200 (CEST)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] WINTER SCHOOL : MODELING LARGE MACROMOLECULAR ASSEMBLIES
+
+Dear Colleague,
+
+Please find below the announcement for a Winter School on Algorithms
+in Structural Bioinformatics.
+
+With best regards,
+ The organizers :
+    Frédéric Cazals, INRIA Sophia Antipolis - Méditerranée, France,
+    Juan Cortés, LAAS-CNRS, Toulouse, France
+    Charles Robert, LBT-CNRS / IBPC, Paris, France
+
+
+%%i%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+WINTER SCHOOL ALGORITHMS IN STRUCTURAL BIOINFORMATICS : 
+   MODELING LARGE MACROMOLECULAR ASSEMBLIES
+
+   8-12 DECEMBER 2014, INRIA SOPHIA ANTIPOLIS, FRANCE  
+   http://algosb2014.inria.fr/
+%%i%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+We are pleased to announce a one-week school on Algorithms in
+Structural Bioinformatics. The aim is to introduce advanced methods in
+this domain, giving special attention to interdisciplinary
+approaches. The main focus will be on methodological developments
+meant to analyze and model large macromolecular assemblies, as well as on
+the corresponding software. The following topics will be taught
+(details of the lectures at http://algosb2014.inria.fr/lectures.html):
+
+I.
+Modeling of Dynamic Biomolecular Assemblies
+Gerhard Hummer, Max Plack Institut fur Biophysik / Theoretical Biophysics 
+
+II.
+Small Angle X-ray Scattering from Macromolecular Solutions
+Dmitri Svergun, European Molecular Biology Laboratory, Hamburg
+
+III.
+Computational Modeling of large Multimolecular Assemblies based on Multi-resolution Experimental Data
+Haim Wolfson, Tel Aviv University
+
+IV.
+Integrative Approaches to Macromolecular Modeling
+Riccardo Pellarin, UCSF
+
+V.
+Modeling Contacts in Macromolecular assemblies: from Inference to Assessment
+Frederic Cazals, Algorithms-Biology-Structure, Inria Sophia Antipolis
+
+
+Each day's morning session will consist of a lecture, and the
+afternoon session will be devoted to a hands-on computer lab on
+the participants' laptops.
+
+
+INTENDED AUDIENCE. The school is primarily intended for thirty PhD
+students and postdoctoral researchers.  A number of slots are also
+available for young researchers from academia or industry.
+
+
+DEADLINE FOR APPLICATIONS. A one-page application (pdf format) should
+be sent by email to algosb-coordinators@inria.fr with Subject "AlgoSB
+application", by September 20th, 2014.
+
+The application should provide a mini-vitae or a pointer to the full
+vitae, a brief presentation of the applicant's research interests, and
+a few lines commenting on expected synergy between his or her research and
+the courses that will be taught.
+
+Notification of acceptance will be provided by September 30th. It is
+expected that all accepted students will participate in the entire
+school period.
+
+VENUE AND PARTICIPATION FEES. The Algorithmics in Structural
+Bioinformatics school will take place on the French Riviera, at Inria
+Sophia Antipolis - Méditerranée.
+
+The participation fees will be of 400 euros, which includes lunches,
+coffee breaks, and social events.
+ 
+The organizers :
+    Frédéric Cazals, INRIA Sophia Antipolis - Méditerranée
+    Juan Cortés, LAAS-CNRS, Toulouse 
+    Charles Robert, LBT-CNRS / IBPC, France  

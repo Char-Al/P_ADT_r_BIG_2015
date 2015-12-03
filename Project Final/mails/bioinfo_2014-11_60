@@ -1,0 +1,148 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pierre-francois.roux@rennes.inra.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 300E726801D
+	for <bioinfo@sfbi.fr>; Thu, 20 Nov 2014 13:38:50 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuAAAHvgbVSTY7vll2dsb2JhbABag2ODF0jISAaIbgEBAQEBEQEBAQEBCBYHQoQDAQUMF2YJHAImAgJXiFoNoEGccpcggS2PA4MVDzISJIEeBYZbkFqHLIFwhhGSdoFygUUBAQE
+X-IPAS-Result: AuAAAHvgbVSTY7vll2dsb2JhbABag2ODF0jISAaIbgEBAQEBEQEBAQEBCBYHQoQDAQUMF2YJHAImAgJXiFoNoEGccpcggS2PA4MVDzISJIEeBYZbkFqHLIFwhhGSdoFygUUBAQE
+X-IronPort-AV: E=Sophos;i="5.07,423,1413237600"; 
+   d="scan'208";a="68583039"
+Received: from rennes.inra.fr (HELO courriel22.rennes.inra.fr) ([147.99.187.229])
+  by b-mx1.relay.syrhano.net with ESMTP; 20 Nov 2014 13:38:49 +0100
+Received: from [147.99.167.143] ([147.99.167.143])
+	(authenticated bits=0)
+	by courriel22.rennes.inra.fr (/8.14.4) with ESMTP id sAKCcmZd015288
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <bioinfo@sfbi.fr>; Thu, 20 Nov 2014 13:38:48 +0100 (CET)
+From: =?utf-8?Q?Pierre-Fran=C3=A7ois_Roux?= <pierre-francois.roux@rennes.inra.fr>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 20 Nov 2014 13:38:47 +0100
+References: <3E80DF1D-4EE9-4D19-BB91-1A85408A9E0E@rennes.inra.fr>
+To: bioinfo@sfbi.fr
+Message-Id: <C0FAB87E-FF26-45BA-9930-9CC19888DF85@rennes.inra.fr>
+Mime-Version: 1.0 (Mac OS X Mail 8.1 \(1993\))
+X-Mailer: Apple Mail (2.1993)
+X-Miltered: at courriel22 with ID 546DE0D8.000 by Joe's j-chkmail (http : // j-chkmail dot ensmp dot fr)!
+X-j-chkmail-Enveloppe: 546DE0D8.000/147.99.167.143/[147.99.167.143]/[147.99.167.143]/<pierre-francois.roux@rennes.inra.fr>
+X-j-chkmail-Score: MSGID : 546DE0D8.000 on courriel22.rennes.inra.fr : j-chkmail score : . : R=. U=. O=. B=0.014 -> S=0.017
+X-j-chkmail-Status: Ham
+X-Virus-Scanned: clamav-milter 0.97 at courriel22
+X-Virus-Status: Clean
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Soutenance de =?UTF-8?Q?Th=C3=A8se?= - Pierre-=?UTF-8?Q?Fran=C3=A7ois?= Roux
+
+Bonjour,
+
+J'ai le plaisir de vous inviter =C3=A0 ma soutenance de th=C3=A8se de docto=
+rat intitul=C3=A9e :
+"Apport de la d=C3=A9tection de polymorphismes nucl=C3=A9otidiques =C3=A0 l=
+=E2=80=99=C3=A9chelle du g=C3=A9nome pour la dissection de caract=C3=A8res =
+complexes et la caract=C3=A9risation de l=E2=80=99=C3=A9ditome =C2=BB.
+
+La soutenance aura lieu le vendredi 5 d=C3=A9cembre 2014, =C3=A0 14h dans l=
+=E2=80=99amphith=C3=A9=C3=A2tre Camille Moule (b=C3=A2timent 11) d=E2=80=99=
+Agrocampus Ouest - Rennes situ=C3=A9 =C3=A0 l=E2=80=99adresse :
+
+Agrocampus Ouest - Rennes
+65 rue de Saint Brieuc
+35000 RENNES
+
+Le jury est compos=C3=A9 de :
+
+Richard REDON, Directeur de Recherche, Inserm Nantes - France (rapporteur)
+Fr=C3=A9d=C3=A9ric FARNIR, Professeur, Universit=C3=A9 de Li=C3=A8ge - Belg=
+ique (rapporteur)
+Jean MOSSER, Professeur des Universit=C3=A9s - Praticien Hospitalier, CHU R=
+ennes - France (examinateur)
+Jean-Christophe SIMON, Directeur de Recherche, INRA Rennes - France (examin=
+ateur)
+Sandrine LAGARRIGUE, Professeure, Agrocampus Ouest Rennes - France (co-enca=
+drante)
+Olivier DEMEURE, Charg=C3=A9 de Recherche, INRA Rennes - France (co-encadra=
+nt)
+
+Vous =C3=AAtes =C3=A9galement convi=C3=A9s au pot qui suivra et se tiendra =
+=C3=A0 proximit=C3=A9 de l=E2=80=99amphith=C3=A9=C3=A2tre Camille Moule d=
+=E2=80=99Agrocampus Ouest - Rennes.
+Afin que je puisse anticiper sur le nombre de personnes pr=C3=A9sentes =C3=
+=A0 ce pot, je vous serais reconnaissant de bien vouloir remplir le doodle =
+suivant si vous souhaitez vous joindre =C3=A0 nous (http://doodle.com/6qf4i=
+w3d5c99hdsw).
+
+Au plaisir de vous voir nombreux le 5 d=C3=A9cembre,
+
+Pierre-Fran=C3=A7ois Roux
+
+
+R=C3=89SUM=C3=89 :=20
+
+D=C3=A9mocratis=C3=A9es =C3=A0 la fin des ann=C3=A9es 2000, les technologie=
+s de s=C3=A9quen=C3=A7age haut-d=C3=A9bit (NGS) ont progressivement r=C3=A9=
+volutionn=C3=A9 les domaines de la g=C3=A9n=C3=A9tique et de la transcripto=
+mique. Alors qu=E2=80=99historiquement, les premi=C3=A8res =C3=A9tudes bas=
+=C3=A9es sur ces technologies s=E2=80=99attachaient =C3=A0 la cr=C3=A9ation=
+ de s=C3=A9quences de r=C3=A9f=C3=A9rence pour des esp=C3=A8ces vari=C3=A9e=
+s, la diminution des co=C3=BBts du s=C3=A9quen=C3=A7age a ouvert la porte a=
+ux projets focalis=C3=A9s sur l=E2=80=99=C3=A9tude des g=C3=A9nomes et tran=
+scriptomes individuels. Les travaux pr=C3=A9sent=C3=A9s dans ce manuscrit m=
+ettent en lumi=C3=A8re le potentiel des NGS pour la caract=C3=A9risation de=
+ SNPs, et leur utilisation pour la dissection g=C3=A9n=C3=A9tique des carac=
+t=C3=A8res complexes et pour l=E2=80=99identification du ph=C3=A9nom=C3=A8n=
+e d=E2=80=99=C3=A9dition de l=E2=80=99ARN. L=E2=80=99originalit=C3=A9 de no=
+s travaux porte sur l=E2=80=99utilisation conjointe de multiples approches =
+g=C3=A9n=C3=A9tiques et expressionnelles (d=C3=A9tection de QTLs, de traces=
+ de s=C3=A9lection, annotation de SNPs, diff=C3=A9rentiel d=E2=80=99express=
+ion, analyse d=E2=80=99expression all=C3=A8le-sp=C3=A9cifique) pour la diss=
+ection g=C3=A9n=C3=A9tique de l=E2=80=99adiposit=C3=A9, leur int=C3=A9grati=
+on nous ayant permis d=E2=80=99identifier deux nouveaux candidats =C3=A0 la=
+ r=C3=A9gulation de ce caract=C3=A8re : les g=C3=A8nes PARK2 et JAG2. Nous =
+proposons, par ailleurs, les premi=C3=A8res caract=C3=A9risations d=E2=80=
+=99=C3=A9ditomes chez une esp=C3=A8ce vert=C3=A9br=C3=A9e non-mammalienne  =
+- la poule - et montrons que ce ph=C3=A9nom=C3=A8ne rare est influenc=C3=A9=
+ par des facteurs tels que le sexe, l=E2=80=99=C3=A2ge, le g=C3=A9notype et=
+ l=E2=80=99alimentation. A l=E2=80=99heure actuelle, certains artefacts ass=
+oci=C3=A9s aux NGS sont encore n=C3=A9glig=C3=A9s. Nous montrons ici que le=
+ur non-consid=C3=A9ration a un impact important sur l=E2=80=99identificatio=
+n d=E2=80=99=C3=A9v=C3=A9nements singuliers comme l=E2=80=99=C3=A9dition de=
+ l=E2=80=99ARN.
+
+MOTS-CL=C3=89S : S=C3=A9quen=C3=A7age haut-d=C3=A9bit - DNA-seq - RNA-seq -=
+ Biais - G=C3=A9nome - Transcriptome - Polymorphismes nucl=C3=A9otidiques -=
+ G=C3=A9n=C3=A9tique quantitative - Caract=C3=A8res complexes - Adiposit=C3=
+=A9 - JAG2 - PARK2 - Editome - Poulet
+
+
+ABSTRACT :
+
+Next-generation sequencing technologies (NGS) have progressively revolution=
+ized genetic and transcriptomic research fields since their democratization=
+ at the end of the 2000s. While there were mainly used to decipher genomes =
+for many species, major sequencing cost decreases gradually allowed studies=
+ focusing on individual genomes and transcriptomes. Studies described in th=
+is manuscript highlight the potential of single nucleotide polymorphisms de=
+tection in a high-throughput manner at the genome and transcriptome-wide sc=
+ales thanks to NGS, for the genetic dissection of complex traits, and for t=
+he identification of RNA editing events. The original aspect of our works i=
+s lying on the integrative strategy we used to genetically dissect the adip=
+osity, based on several genetic and expressional approaches such as QTL and=
+ selective sweep mappings, SNP annotation and prioritization, differential =
+expression and allele-specific expression analyses. Combining those complem=
+entary approaches allowed us to shed light on two new candidate genes for t=
+he adiposity regulation: JAG2 and PARK2. Focusing on the description of RNA=
+ editing events, we report the first studies describing editomes in a non-m=
+ammalian vertebrate species - the chicken - and highlight how limited is th=
+is phenomenon. We also reveal that environmental and genetic factors such a=
+s sex, age, genotype and diet regulate editing levels. Currently, some arti=
+facts related to NGS are still neglected in many studies. Here, we clearly =
+show that ignoring them may deeply impact analyses focusing on rare events =
+such as RNA editing
+
+KEYWORDS : High-throughput sequencing - DNA-seq - RNA-seq - Biases - Genome=
+ - Transcriptome - Single nucleotide polymorphisms - Quantitative genetics =
+- Complex traits - Adiposity - JAG2 - PARK2 - Editome - Chicken
+
+

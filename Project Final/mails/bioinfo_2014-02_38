@@ -1,0 +1,115 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <pierre.larmande@ird.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id A459B26801D
+	for <bioinfo@sfbi.fr>; Thu, 13 Feb 2014 10:30:36 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AngBAPGP/FJVH9QnnGdsb2JhbABZg0LAIIErDgEBAQEBCAsJCRQogjhdAQgCBU9vE4gJCcgNF44MbYMrgRQElTOEKpQd
+X-IronPort-AV: E=Sophos;i="4.95,837,1384297200"; 
+   d="scan'208";a="53907205"
+Received: from smtpout30.security-mail.net (HELO fx305.security-mail.net) ([85.31.212.39])
+  by b-mx1.relay.syrhano.net with ESMTP; 13 Feb 2014 10:30:36 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by fx305.security-mail.net (MTA) with SMTP id E8E893297951
+	for <bioinfo@sfbi.fr>; Thu, 13 Feb 2014 10:30:34 +0100 (CET)
+Received: from fx305 (localhost [127.0.0.1])
+	by fx305.security-mail.net (MTA) with ESMTP id E70C5329794B
+	for <bioinfo@sfbi.fr>; Thu, 13 Feb 2014 10:30:34 +0100 (CET)
+X-Virus-Scanned: E-securemail
+x-secugrey: score=-10
+x-secugrey: filter=out_default,id=20140213103034-52433-00001,score=-20
+Received: from cg97.security-mail.net (cg97.security-mail.net [172.16.240.97])
+	by fx305.security-mail.net (MTA) with SMTP id 7A4773297908
+	for <bioinfo@sfbi.fr>; Thu, 13 Feb 2014 10:30:34 +0100 (CET)
+Received: from macpierre.lirmm.fr (account pierre.larmande@ird.fr [193.49.106.238] verified)
+  by mails.optimails.com (CommuniGate Pro SMTP 5.4.10)
+  with ESMTPSA id 396028798; Thu, 13 Feb 2014 10:30:28 +0100
+From: Pierre Larmande <pierre.larmande@ird.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 13 Feb 2014 10:30:29 +0100
+Message-Id: <EEE26C66-AABC-41DA-9D2E-76FF6419593C@ird.fr>
+Cc: Pierre Larmande <Pierre.Larmande@ird.fr>,
+	Emmanuel Castanier <emmanuel.castanier@inria.fr>
+To: Bioinfo <bioinfo@sfbi.fr>
+Mime-Version: 1.0 (Mac OS X Mail 7.1 (1827))
+X-Mailer: Apple Mail (2.1827)
+X-Virus-Scanned: by Security-Mail
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Stage M2 integration de =?WINDOWS-1252?Q?donn=E9es?= et web =?WINDOWS-1252?Q?s=E9mantique?=
+
+Bonjour,=20
+
+une offre de stage M2 est disponible =E0 l=92Institut de Biologie Computati=
+onnelle  (Montpellier- http://www.ibc-montpellier.fr/).
+
+Bien cordialement=20
+Pierre Larmande
+
+----
+
+Sujet de stage
+
+Mots cl=E9s : s=E9mantique web, algorithmique des graphes, services web, ba=
+ses de donn=E9es, matching de sch=E9mas
+
+Biosemantic[1] (http://www.southgreen.fr/content/biosemantic-tool) est une =
+application web qui automatise la cr=E9ation de requ=EAtes SPARQL au dessus=
+ de bases de donn=E9es relationnelles distribu=E9es. Les requ=EAtes distrib=
+u=E9es n=E9cessitent d'identifier des =E9l=E9ments commun dans les diff=E9r=
+ents sch=E9ma des bases. Pour cela, une =E9tape d=92annotation s=E9mantique=
+ de sch=E9mas relationnels doit pr=E9c=E9der la cr=E9ation de requ=EAtes. C=
+ette =E9tape est actuellement r=E9alis=E9e manuellement.
+
+WebSmatch[2] (http://websmatch.gforge.inria.fr) est un environnement souple=
+ et ouvert pour la d=E9couverte et l'appariement des sch=E9mas complexes =
+=E0 partir de nombreuses sources de donn=E9es h=E9t=E9rog=E8nes sur le Web.=
+ Il fournit trois fonctions de base : extraction de m=E9tadonn=E9es =E0 par=
+tir de sources de donn=E9es, alignement de sch=E9mas (=E0 la fois 2 =E0 2 e=
+t n-way), clustering de sch=E9mas.
+
+L' objectif du stage est de d=E9velopper les connexions entre Websmatch et =
+Biosemantic ainsi que des impl=E9mentations particuli=E8res pour l'applicat=
+ion Biosemantic.=20
+
+Le stage se d=E9roulera dans un environnement technique motivant, avec les =
+technologies Java, GWT, Apache/Solr.
+
+Description du stage:
+
+- D=E9velopper et impl=E9menter les connexions entre Websmatch et Biosemant=
+ic;
+- Am=E9liorer l'algorithme de plus court chemin impl=E9ment=E9 dans Biosema=
+ntic;
+- D=E9velopper et impl=E9menter des algorithmes de parcours de graphes sp=
+=E9cifiques;
+- D=E9velopper des fonctionnalit=E9s particuli=E8res =E0 l'ex=E9cution des =
+requ=EAtes.
+
+
+Profil recherch=E9
+
+- Master 2 en informatique ou bioinformatique;
+- Solides connaissances du langage de programmation Java;
+- Bonnes connaissances des syst=E8mes de gestion de bases de donn=E9es rela=
+tionnelles;
+- Bonnes connaissances du Web s=E9mantique (RDF, SPARL, RDF Triple store);
+- Autonomie;
+- Bon relationnel;
+- Des connaissances en bioinformatique seraient un plus.
+
+
+R=E9mun=E9ration : 436 euros net (gratification)
+Dossier de candidature : CV et lettre de motivation
+Encadrants : Pierre Larmande et Emmanuel Castanier
+Lieu : Institut de Biologie Computationnelle (IBC), Montpellier
+Contact : pierre.larmande@ird.fr , emmanuel.castanier@inria.fr
+
+[1]{Wollbrett J, Larmande P, de Lamotte F, Ruiz M. Clever generation of ric=
+h SPARQL queries from annotated relational schema: application to Semantic =
+Web Service creation for biological databases. BMC Bioinformatics. 2013;14:=
+126.}
+[2]{E. Castanier, R. Coletta, P. Valduriez, C. Frisch, Public Data Integrat=
+ion with WebSmatch, BDA'2012, Clermont-Ferrand, France, October 2012.}=

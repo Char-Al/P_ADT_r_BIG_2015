@@ -1,0 +1,88 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <sebastien.hergalant@inserm.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 7262626801D
+	for <bioinfo@sfbi.fr>; Tue, 18 Mar 2014 19:05:58 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aq0BAJuKKFPDYvwlm2dsb2JhbABax2gWDgEBAQEBCAkLCRQogjgsMQEOPRYYAwIBAgFYBgIBAYd5nlSxcI4AEQFthCIElUuCe4Y1F48SgXE
+X-IronPort-AV: E=Sophos;i="4.97,679,1389740400"; 
+   d="scan'208";a="55591072"
+Received: from smtp.inserm.fr ([195.98.252.37])
+  by b-mx1.relay.syrhano.net with ESMTP; 18 Mar 2014 19:05:49 +0100
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.inserm.fr (SrvInserm) with ESMTP id 2CDC2168314
+	for <bioinfo@sfbi.fr>; Tue, 18 Mar 2014 19:05:47 +0100 (CET)
+X-Virus-Scanned: amavisd-new at inserm.fr
+Received: from smtp.inserm.fr ([195.98.252.37])
+	by localhost (potentille.inserm.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id vpBva3nX0W5x for <bioinfo@sfbi.fr>;
+	Tue, 18 Mar 2014 19:05:47 +0100 (CET)
+Received: from [193.55.6.107] (firefly.nancy.inserm.fr [193.55.6.107])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by smtp.inserm.fr (SrvInserm) with ESMTP id 0E90D16813B
+	for <bioinfo@sfbi.fr>; Tue, 18 Mar 2014 19:05:46 +0100 (CET)
+Message-ID: <53288AF2.5070505@inserm.fr>
+Date: Tue, 18 Mar 2014 19:05:38 +0100
+From: =?ISO-8859-1?Q?S=E9bastien_Hergalant?= <sebastien.hergalant@inserm.fr>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20120829 Thunderbird/15.0
+MIME-Version: 1.0
+To: bioinfo@sfbi.fr
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Recrutement d'un =?ISO-8859-1?Q?ing=E9nieur?= en bioinformatique =?ISO-8859-1?Q?=E0?= Nancy
+
+L'=E9quipe Bioinformatique et G=E9nomique Int=E9grative (responsable R=E9mi=
+=20
+Houlgatte), au sein du laboratoire N-GERE (directeur Jean-Louis Gu=E9ant),=
+=20
+recherche un ing=E9nieur bioinformaticien pour l'analyse de donn=E9es=20
+g=E9nomiques, transcriptomique et de s=E9quen=E7age nouvelle g=E9n=E9ration.
+
+Comp=E9tences :
+- Exp=E9rience et autonomie en d=E9veloppement, langages de scripts : perl,=
+=20
+python, java, C/C++, bash (ou autre), R... (tous ne sont pas requis)
+- Ma=EEtrise des syst=E8mes de gestion de bases de donn=E9es / SQL
+- Bonne connaissance des syst=E8mes Linux / Windows (des connaissances en=
+=20
+r=E9seaux seraient un plus)
+- Des connaissances en technologies web seraient appr=E9ci=E9es : HTML, php=
+,=20
+mysql, apache...
+- Connaissances/int=E9r=EAt en g=E9n=E9tique, g=E9nomique, biologie m=E9dic=
+ale et en=20
+statistiques.
+- Anglais scientifique
+- Rigueur scientifique, organisation, travail d'=E9quipe, autonomie et=20
+capacit=E9 =E0 =E9changer.
+
+
+Dipl=F4mes : Master 2 en biologie/informatique/bioinformatique, dipl=F4me=
+=20
+d'ing=E9nieur.
+
+Type de poste : CDD Ing=E9nieur
+Lieu : NANCY
+Dur=E9e du poste : 14 mois
+
+Laboratoire : INSERM U954 / N-GERE
+Inserm U954 Nutrition, g=E9n=E9tique et exposition aux risques=20
+environnementaux (N-GERE)
+Batiment C, 2nd floor
+Facult=E9 de M=E9decine
+9 avenue de la for=EAt de Haye
+54505 Vandoeuvre-l=E8s-Nancy
+France
+
+R=E9mun=E9ration : environ 1750 euros/mois net
+
+Candidatures : Par email =E0 S=E9bastien Hergalant=20
+(sebastien.hergalant@inserm.fr), elles devront comporter, sans trop se=20
+formaliser :
+- Une lettre de motivation
+- Un CV le plus complet possible avec notes et mentions obtenues en M1=20
+et en M2 (ou similaires) si peu d'exp=E9rience

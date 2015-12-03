@@ -1,0 +1,86 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Marie-France.Sagot@inria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id D26DA26801D
+	for <bioinfo@sfbi.fr>; Tue, 24 Jun 2014 13:19:48 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AoACAPRdqVPAhqRTf2dsb2JhbABag1/FWxYPAQELCwoIFCiEdQaBCk8UiBoDEZcPpmgNhikXjFeCQoMXgRYEljuCF4F6gUWMGAOJR2o
+X-IronPort-AV: E=Sophos;i="5.01,537,1400018400"; 
+   d="scan'208";a="69048487"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by a-mx1.relay.syrhano.net with ESMTP; 24 Jun 2014 13:19:48 +0200
+X-IronPort-AV: E=Sophos;i="5.01,537,1400018400"; 
+   d="scan'208";a="81807443"
+Received: from umr5558-borealis-port.univ-lyon1.fr ([134.214.32.122])
+  by mail2-relais-roc.national.inria.fr with ESMTP/TLS/AES128-SHA; 24 Jun 2014 13:19:47 +0200
+From: Marie-France Sagot <Marie-France.Sagot@inria.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <7DB68F6D-1D1C-4C92-B1D4-CECF3EF3828C@inria.fr>
+Date: Tue, 24 Jun 2014 13:19:47 +0200
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Postdoc positions at Inria in Lyon, France
+
+Two postdoc opportunities at Inria in Lyon, France
+
+In the context of a FP7 KBBE European Project, BacHBerry (=93BACterial=20
+Hosts for production of Bioactive phenolics from bERRY fruits"), we are=20
+seeking two postdoc candidates, each for one year, renewable for up=20
+to two years.=20
+
+The candidates will work in the BAMBOO team at the Inria-UCBL in=20
+Lyon, France (http://team.inria.fr/bamboo/), in interaction with the
+partners of BacHBerry, in particular the CSI team at the IDMEC-IST=20
+in Lisbon, Portugal (http://www.idmec.ist.utl.pt/).=20
+
+Both BAMBOO and CSI are methodological teams with an expertise=20
+in computational and systems biology.=20
+
+This project aims at tapping the potential of living organisms or systems=
+=20
+to develop or make natural chemical compounds that are believed to be=20
+useful for medicine, agriculture, bioremediation, biodegradation, or etc.=
+=20
+Most often, the compound is already produced by the organism but in=20
+small quantity, and one needs then to manipulate it in order for the=20
+production to be increased. Other situations require transplanting part of=
+=20
+the chemical factory of an organism into another, in general a bacterium,=
+=20
+for better efficiency. In some cases, the transplant might better be split=
+=20
+among a community of different bacteria in interaction.
+
+BacHBerry is more specifically interested in the generation of bacterial=20
+platforms for sustainable bio-based production of phenolic compounds=20
+found in berry fruits. Phenolics are recognised for their antioxydant=20
+health-promoting and functional properties, and applied across=20
+applications as diverse as aromas, colours, nutraceuticals, and medicines.
+
+More specifically, we are looking for candidates with a PhD in one of=20
+the following areas: computer science, mathematics, statistics, computation=
+al=20
+biology, metabolic engineering, regulation, or related, with a strong taste=
+=20
+for inter-disciplinary research, and with very good interpersonal skills.=
+=20
+
+Ideally, the person will have a long experience with graph algorithms,
+discrete combinatorics and/or optimisation techniques.
+
+Unsual CVs are welcome. Knowledge of the portuguese language would=20
+also be a plus :-)
+
+Applications should include a motivation letter, a CV, and the address=20
+of three references.=20
+
+The applications should be sent to:
+Marie-France Sagot, marie-france.sagot@inria.fr
+putting also in copy the partner in Lisbon:
+Susana Vinga, susanavinga@gmail.com=20=20
+ideally before July 31, 2014.=

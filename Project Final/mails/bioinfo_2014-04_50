@@ -1,0 +1,74 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <Guy.Perriere@univ-lyon1.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 8F32F26801D
+	for <bioinfo@sfbi.fr>; Mon, 14 Apr 2014 08:36:26 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArMCAFqBS1OG1ryTnGdsb2JhbABag0GOVa1liFMWDgEBAQEBCAsJCRQogjiKOg2ZLrFnjwuCGA9ngRQEmheUQA
+X-IronPort-AV: E=Sophos;i="4.97,855,1389740400"; 
+   d="scan'208";a="57014369"
+Received: from cisrsmtp4.univ-lyon1.fr ([134.214.188.147])
+  by b-mx1.relay.syrhano.net with ESMTP; 14 Apr 2014 08:36:26 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by cisrsmtp4.univ-lyon1.fr (Postfix) with ESMTP id 8C0EDE0352
+	for <bioinfo@sfbi.fr>; Mon, 14 Apr 2014 08:36:25 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at cisrsmtp4.univ-lyon1.fr
+Received: from cisrsmtp4.univ-lyon1.fr ([127.0.0.1])
+	by localhost (cisrsmtp4.univ-lyon1.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id bT2Wa+ZGuwqy for <bioinfo@sfbi.fr>;
+	Mon, 14 Apr 2014 08:36:21 +0200 (CEST)
+Received: from vpn-anyco58.univ-lyon1.fr (vpn-anyco58.univ-lyon1.fr [134.214.60.58])
+	by cisrsmtp4.univ-lyon1.fr (Postfix) with ESMTP id 20CF3E0363
+	for <bioinfo@sfbi.fr>; Mon, 14 Apr 2014 08:36:20 +0200 (CEST)
+From: =?iso-8859-1?Q?Guy_Perri=E8re?= <Guy.Perriere@univ-lyon1.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 14 Apr 2014 08:36:20 +0200
+Message-Id: <A238DBF7-860E-4EF4-A78C-E9A2D2C0625A@univ-lyon1.fr>
+To: bioinfo@sfbi.fr
+Mime-Version: 1.0 (Apple Message framework v1085)
+X-Mailer: Apple Mail (2.1085)
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Workshop BGE : date limite des soumissions ce vendredi
+
+Bonjour =E0 tous,
+
+Il ne vous reste plus que quatre jours pour soumettre vos r=E9sum=E9s au wo=
+rkshop "Bioinformatique pour la G=E9nomique Environnementale" qui se d=E9ro=
+ulera =E0 Lyon les 27 et 28 mai prochains. En effet, je vous rappelle que l=
+a date limite pour les soumissions a =E9t=E9 fix=E9e au vendredi 18 avril m=
+inuit. Par ailleurs, la date limite pour l'inscription est le dimanche 27 a=
+vril.
+
+Ce workshop est organis=E9 sous l'=E9gide du R=E9seau Th=E9matique Pluridis=
+ciplinaire en G=E9nomique Environnementale (RTP-GE) du CNRS et il vise =E0 =
+rassembler des chercheurs de diff=E9rents domaines qui utilisent (ou sont d=
+=E9sireux d'utiliser) les nouvelles technologies de s=E9quen=E7age ainsi qu=
+e les d=E9veloppements les plus r=E9cents en bioinformatique, ceci dans le =
+but d'=E9tudier des questions relatives =E0 l'=E9cologie, l'=E9volution, la=
+ biodiversit=E9, la syst=E9matique ainsi que la g=E9nomique des populations.
+
+Le site Web pour l'inscription et la soumission des r=E9sm=E9s est accessib=
+le =E0 l'adresse :
+
+http://ge-lyon2014.sciencesconf.org
+
+Notez qu'un tutorial est =E9galement organis=E9 en ouverture du workshop le=
+ lundi 26 mai. Ce tutorial est organis=E9 en collaboration avec le R=E9seau=
+ Europ=E9en des plateformes en Bioinformatique (EMBnet) et le nombre maximu=
+m de participants est fix=E9 =E0 60.
+
+Les frais d=92inscriptions au workshop s=92=E9l=E8vent =E0 50=80 TTC et inc=
+luent les d=E9jeuners, pauses caf=E9 et le cocktail d=EEnatoire du 27 mai. =
+Les frais d'inscription au tutorial s=92=E9l=E8vent =E0 50=80 TTC et inclue=
+nt la pause d=E9jeuner =E0 la caf=E9teria de l'universit=E9. L'inscription =
+conjointe au workshop et au tutorial se montent =E0 100=80 TTC.
+
+Pour le Comit=E9 Scientifique du RTP-GE et le Comit=E9 de Programme,
+--
+Guy Perri=E8re - Laboratoire BBE - Universit=E9 Claude Bernard Lyon 1
+43 bd. du 11 Novembre 1918 - 69622 Villeurbanne Cedex - France
+http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html
+

@@ -1,0 +1,109 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <mailingprigent@gmail.com>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id BA24926801D
+	for <bioinfo@sfbi.fr>; Wed,  5 Nov 2014 15:55:42 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsgBAC85WlTRVdowm2dsb2JhbABchDsEgjpI0nYHFgEBAQEBEQEBAQEBBgsLCRQuhBUGER0BGx4DEgMNDwImAiQBEQEFASI1iAkBAxKXeI0dgyE9MYszgXODEYkaChknDWiFawEFDoEfjBWGTYFUBYZLl0WUWhgpg0iBazwvgksBAQE
+X-IPAS-Result: AsgBAC85WlTRVdowm2dsb2JhbABchDsEgjpI0nYHFgEBAQEBEQEBAQEBBgsLCRQuhBUGER0BGx4DEgMNDwImAiQBEQEFASI1iAkBAxKXeI0dgyE9MYszgXODEYkaChknDWiFawEFDoEfjBWGTYFUBYZLl0WUWhgpg0iBazwvgksBAQE
+X-IronPort-AV: E=Sophos;i="5.07,320,1413237600"; 
+   d="scan'208";a="76238488"
+Received: from mail-oi0-f48.google.com ([209.85.218.48])
+  by a-mx1.relay.syrhano.net with ESMTP; 05 Nov 2014 15:55:42 +0100
+Received: by mail-oi0-f48.google.com with SMTP id x69so11973148oia.7
+        for <bioinfo@sfbi.fr>; Wed, 05 Nov 2014 06:55:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type
+         :content-transfer-encoding;
+        bh=ptTZzOof7kWGom244oj0wR+yRS3VAJf6XZ9SLqD7+XE=;
+        b=A1rlCu+/o9NBJtJhsKEVnSftZ4aPsOkN4VoUJ4Y/4/dGssp67K9sM0NBSoUd0QpO+z
+         LdXgDwR8VxCDZyYEiwmd2iqyoEFa5Th+9hTrpSwgcT3TKhNXlAjPAu46n5acU7bV+BNV
+         HmfwQHg+EVCxEDDdyfABxR+cPa9x4zGcdAE4jucqyzOhJWiauqUVx18eldzCJTyvtweU
+         jRw9PnqIarxDxXwVq80rrwX5etju1hb/T3YRu0KMSp8OErmByGAVFNEFWd7YxF1tebHa
+         uGBnT8jBOif7QCw/aHmakQVOYRQkMIhv3h2hyy1Z+yjuLwEM48a3e0cpbsf+np5NR4Xl
+         B7VQ==
+X-Received: by 10.60.133.170 with SMTP id pd10mr49546295oeb.35.1415199340650;
+ Wed, 05 Nov 2014 06:55:40 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.202.7.11 with HTTP; Wed, 5 Nov 2014 06:55:20 -0800 (PST)
+From: Sylvain Prigent <mailingprigent@gmail.com>
+Date: Wed, 5 Nov 2014 15:55:20 +0100
+Message-ID: <CAF8_MDxw+E4a5CcpsWuaj54OS9u70JVZVuvMPX=sng-kWA3mFA@mail.gmail.com>
+To: bioinfo <bioinfo@sfbi.fr>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Soutenance de =?UTF-8?Q?th=C3=A8se?= de Sylvain Prigent - 14 novembre 14h00 - INRIA/IRISA Rennes
+
+Bonjour,
+
+J'ai le plaisir de vous inviter =C3=A0 la soutenance de ma th=C3=A8se de
+doctorat intitul=C3=A9e "Compl=C3=A9tion combinatoire pour la reconstructio=
+n de
+r=C3=A9seaux m=C3=A9taboliques, et application au mod=C3=A8le des algues br=
+unes
+Ectocarpus siliculosus" qui aura lieu le vendredi 14 novembre 2014 =C3=A0
+14h00, salle M=C3=A9tivier =C3=A0 INRIA/IRISA de Rennes, ainsi qu'au
+traditionnel pot qui suivra.
+
+Le jury sera compos=C3=A9 de :
+- Marie Beurton-Aimar, Ma=C3=AEtre de conf=C3=A9rences, Universit=C3=A9 de =
+Bordeaux 2
+(Rapporteure)
+- Hubert Charles, Professeur =C3=A0 l'INSA de Lyon (Rapporteur)
+- Claudine M=C3=A9digue, Directrice de recherche CNRS, CEA-Genoscope (Rappo=
+rteure)
+- Alexander Bockmayr, Professeur, Freie Universit=C3=A4t, Berlin (Examinate=
+ur)
+- Arnaud Martin, Professeur, Universit=C3=A9 de Rennes 1 (Examinateur)
+- Anne Siegel, Directrice de recherche CNRS (Directrice de th=C3=A8se)
+- Thierry Tonon, Ma=C3=AEtre de conf=C3=A9rences UMPC (Co-directeur de th=
+=C3=A8se)
+
+R=C3=A9sum=C3=A9 :
+
+Durant cette th=C3=A8se nous nous sommes attach=C3=A9s au d=C3=A9veloppemen=
+t d'une
+m=C3=A9thode globale de cr=C3=A9ation de r=C3=A9seaux m=C3=A9taboliques che=
+z des esp=C3=A8ces
+biologiques non classiques pour lesquelles nous poss=C3=A9dons peu
+d'informations. Classiquement cette reconstruction s'articule en trois
+points : la cr=C3=A9ation d'une =C3=A9bauche m=C3=A9tabolique =C3=A0 partir=
+ d'un g=C3=A9nome,
+la compl=C3=A9tion du r=C3=A9seau et la v=C3=A9rification du r=C3=A9sultat =
+obtenu. Nous
+nous sommes particuli=C3=A8rement int=C3=A9ress=C3=A9 au probl=C3=A8me d'op=
+timisation
+combinatoire difficile que repr=C3=A9sente l'=C3=A9tape de compl=C3=A9tion =
+du r=C3=A9seau,
+en utilisant un paradigme de programmation par contraintes pour le
+r=C3=A9soudre : la programmation par ensemble r=C3=A9ponse (ou ASP). Les
+modifications apport=C3=A9es =C3=A0 une m=C3=A9thode pr=C3=A9existante nous=
+ ont permis
+d'am=C3=A9liorer =C3=A0 la fois le temps de calcul pour r=C3=A9soudre ce pr=
+obl=C3=A8me
+combinatoire et la qualit=C3=A9 de la mod=C3=A9lisation.
+L'ensemble de ce processus de reconstruction de r=C3=A9seau m=C3=A9taboliqu=
+e a
+=C3=A9t=C3=A9 appliqu=C3=A9 au mod=C3=A8le des algues brunes, Ectocarpus si=
+liculosus, nous
+permettant ainsi de reconstruire le premier r=C3=A9seau m=C3=A9tabolique ch=
+ez
+une macro-algue brune. La reconstruction de ce r=C3=A9seau nous a permis
+d'am=C3=A9liorer notre compr=C3=A9hension du m=C3=A9tabolisme de cette esp=
+=C3=A8ce et
+d'am=C3=A9liorer l'annotation de son g=C3=A9nome.
+
+Cordialement,
+
+--=20
+Sylvain PRIGENT (Doctorant)
+INRIA/IRISA
+=C3=89quipe Dyliss/Symbiose
+Bureau A113
+Campus universitaire de Beaulieu
+35042 RENNES Cedex
+Tel : 02 99 84 22 41

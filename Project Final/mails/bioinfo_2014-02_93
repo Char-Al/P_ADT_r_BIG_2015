@@ -1,0 +1,120 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <christophe.blanchet@ibcp.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from a1.relay.syrhano.net (a1.relay.syrhano.net [193.52.218.20])
+	by asso.crihan.fr (Postfix) with ESMTP id 0662826801D
+	for <bioinfo@sfbi.fr>; Fri, 28 Feb 2014 12:46:01 +0100 (CET)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AusCAJ51EFPBM6AcgGdsb2JhbABag0HDBBYOAQELFAc+gjhJU4EPE4d9my6wGY1zCwUCAYMED2aBFASYOZVZgWg
+X-IronPort-AV: E=Sophos;i="4.97,561,1389740400"; 
+   d="scan'208";a="62715516"
+Received: from athena2.ibcp.fr ([193.51.160.28])
+  by a-mx1.relay.syrhano.net with ESMTP; 28 Feb 2014 12:46:01 +0100
+Received: from idb1.ibcp.fr (idb1.ibcp.fr [193.55.43.12])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	(Authenticated sender: cblanchet)
+	by athena2.ibcp.fr (Postfix) with ESMTPSA id D85F520937E;
+	Fri, 28 Feb 2014 12:45:59 +0100 (CET)
+From: Christophe Blanchet <christophe.blanchet@ibcp.fr>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 28 Feb 2014 12:45:59 +0100
+To: Bioinfo <bioinfo@sfbi.fr>
+Message-Id: <30AB52DB-3941-4401-917B-0FAB3BD8B4D1@ibcp.fr>
+Mime-Version: 1.0 (Mac OS X Mail 7.2 \(1874\))
+X-Mailer: Apple Mail (2.1874)
+X-IBCP-MailScanner-Information: Please contact the ISP for more information
+X-IBCP-MailScanner-ID: D85F520937E.AD76D
+X-IBCP-MailScanner: Found to be clean
+X-IBCP-MailScanner-From: christophe.blanchet@ibcp.fr
+X-Spam-Status: No
+X-Validation-by: jean-christophe.aude@cea.fr
+Subject: [bioinfo] Tutoriel =?WINDOWS-1252?Q?=AB?= Utilisation du Cloud pour la Biologie =?WINDOWS-1252?Q?=BB?= 
+
+
+Tutoriel =AB Utilisation du Cloud pour la Biologie =BB
+
+Les plateformes IDB-IBCP et GenOuest organisent une formation initiale =E0 =
+l =91utilisation du cloud computing pour des analyses de donn=E9es biologiq=
+ues avec les techniques usuelles en bioinformatique. Elle s=92appuiera sur =
+les deux clouds bioinformatiques actuellement op=E9rationnels au niveau nat=
+ional: le cloud IDB =E0 l=92IBCP (Lyon, membre du PRABI) et le G=E9nocloud =
+=E0 Genouest (Rennes, membre de IFB-GO). Ces deux infrastructures sont fonc=
+tionnelles depuis plusieurs ann=E9es et proposent des services d=92analyse =
+=E0 leur communaut=E9 propre d=92utilisateurs. Ces clouds ont =E9t=E9 chois=
+is comme pilotes par l=92institut Fran=E7ais de Bioinformatique (CNRS UMS36=
+01) pour la pr=E9paration de son infrastructure de  cloud acad=E9mique. L=
+=92objectif est de former les utilisateurs, biologistes et bioinformaticien=
+s, =E0 l=92utilisation du cloud IDB et GenoCloud comme pr=E9curseurs du fut=
+ur cloud IFB. Le programme de la formation contiendra les concepts et princ=
+ipes g=E9n=E9raux du cloud, ainsi que la description des outils, usages et =
+avantages actuels pour la Bioinformatique. Une partie pratique sera effectu=
+=E9e par les participants sur le cloud concern=E9 par la session (IDB ou G=
+=E9nocloud).
+
+L'inscription est gratuite mais obligatoire, par mail aupr=E8s des organisa=
+teurs. Le nombre de places =E9tant limit=E9es, les inscriptions se feront d=
+ans l=92ordre d=92arriv=E9e.
+
+Ce tutoriel est soutenu par l=92Institut Fran=E7ais de Bioinformatique - IF=
+B.
+
+IDB-IBCP: http://idee-b.ibcp.fr
+GenOuest: http://www.genouest.org
+
+## Date: 18 mars 2014, 9h-17h30
+Lieu: Institut de Biologie et Chimie des Prot=E9ines, CNRS-IBCP, 7 passage =
+du Vercors, Lyon, France
+
+## Formateurs
+Christophe BLANCHET (IDB-IBCP)
+Olivier COLLIN (GenOuest)
+Cl=E9ment GAUTHEY (IDB-IBCP)
+Charles LOOMIS (LAL)
+Cyril MONJEAUD (GenOuest)
+Olivier SALLOU (GenOuest)
+
+## Programme
+(chaque session comprendra une partie th=E9orique et une mise en applicatio=
+n sur les clouds acad=E9miques en production =E0 IDB-IBCP, GenOuest et P2IO)
+
+9h00: Accueil
+
+9h30: Cloud computing: principes g=E9n=E9raux et exemple de StratusLab (C. =
+Loomis)
+
+11h00: pause caf=E9
+
+11h30: Cloud pour la biologie: exemples des clouds IDB-IBCP (C. Blanchet, C=
+. Gauthey) et GenOuest (O. Sallou, C. Monjeaud).
+
+13h00: repas
+
+14h00: Exemples d=92applications de cloud en NGS (Galaxy), prot=E9omique et=
+ analyse de s=E9quences intensive avec Hadoop MapReduce
+
+15h30: pause caf=E9
+
+16h00: Perspectives et cas d=92usage de la salle (Tous)
+
+17h30: fin du tutoriel
+
+## Bulletin d=92inscription
+=E0 envoyer =E0 : Christophe Blanchet <christophe.blanchet@ibcp.fr>, Olivie=
+r Collin <olivier.collin@irisa.fr>
+
+Souhaite participer au Tutoriel =AB Utilisation du Cloud pour la Biologie =
+=BB le 18 mars 2014 =E0 l'IBCP.
+
+Civilit=E9 (Mme, M., Pr., Dr):
+NOM:
+Pr=E9nom:
+Email:
+T=E9l.:
+Statut (chercheur, ens.-cherch., th=E9sard, postdoc, etc.) :
+Organisme :
+Fonction:
+Laboratoire (Nom et Sigle) :
+Adresse postale:=

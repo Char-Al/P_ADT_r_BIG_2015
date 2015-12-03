@@ -1,0 +1,107 @@
+X-Sympa-To: bioinfo@impg.prd.fr
+Return-Path: <marie-dominique.devignes@loria.fr>
+X-Original-To: bioinfo@sfbi.fr
+Delivered-To: bioinfo@localhost
+Received: from b1.relay.syrhano.net (b1.relay.syrhano.net [193.52.218.30])
+	by asso.crihan.fr (Postfix) with ESMTP id 97AB526801D
+	for <bioinfo@sfbi.fr>; Thu,  3 Apr 2014 12:38:10 +0200 (CEST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqEFABg5PVPAhqRTgWdsb2JhbABYFoMrV4JASrkzhmRRgSEWDgEBFiYogiwMF0UjAQYcAg0ZAlkCBIgMDZAMjHyPHKJsF4EpjRQOLYIuDzKBSQSUbYNsgTSLPoc9gUGCKQ
+X-IronPort-AV: E=Sophos;i="4.97,786,1389740400"; 
+   d="scan'208";a="56460163"
+Received: from mail2-relais-roc.national.inria.fr ([192.134.164.83])
+  by b-mx1.relay.syrhano.net with ESMTP; 03 Apr 2014 12:38:10 +0200
+X-IronPort-AV: E=Sophos;i="4.97,786,1389740400"; 
+   d="scan'208";a="66200807"
+Received: from zmbs2.inria.fr ([128.93.142.15])
+  by mail2-relais-roc.national.inria.fr with ESMTP; 03 Apr 2014 12:38:09 +0200
+Date: Thu, 3 Apr 2014 12:38:09 +0200 (CEST)
+From: Marie-Dominique Devignes <marie-dominique.devignes@loria.fr>
+To: bioinfo <bioinfo@sfbi.fr>
+Message-ID: <1171605600.1889542.1396521489580.JavaMail.zimbra@loria.fr>
+In-Reply-To: <1751493405.1888762.1396521162522.JavaMail.zimbra@loria.fr>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [152.81.3.84]
+X-Mailer: Zimbra 8.0.6_GA_5922 (ZimbraWebClient - FF28 (Win)/8.0.6_GA_5922)
+Thread-Topic: Offre de candidature pour un Contrat Jeune Scientifique INRA-Inria =?utf-8?Q?=C3=A0_Nancy?= (Bioinfo Structurale)
+Thread-Index: N6EoS4sIbEoEnttZDPnC2kQaMYLzeQ==
+X-Validation-by: laurent.mouchard@univ-rouen.fr
+Subject: [bioinfo] Offre de candidature pour un Contrat Jeune Scientifique INRA-Inria =?ISO-8859-1?Q?=E0?= Nancy (Bioinfo Structurale)
+
+Un Contrat Jeune Scientifique INRA / Inria est ouvert =C3=A0 Nancy dans le =
+laboratoire de microbiologie DynAMic (UMR INRA-Universit=C3=A9 de Lorraine)=
+, en collaboration avec le Centre de Recherche Inria Nancy Grand-Est. Il s'=
+agit d'un contrat de th=C3=A8se de 3 ans qui peut =C3=AAtre suivi (sous con=
+ditions), apr=C3=A8s obtention de la th=C3=A8se, d'un contrat post-doctoral=
+ de 2 ans dans un autre laboratoire.
+Six sujets de th=C3=A8se sont mis en comp=C3=A9tition et un seul dossier de=
+ candidature sera s=C3=A9lectionn=C3=A9.
+
+Le sujet de la th=C3=A8se est " Bases structurales de la mobilisation d=E2=
+=80=99=C3=A9l=C3=A9ments g=C3=A9n=C3=A9tiques par des El=C3=A9ments Int=C3=
+=A9gratifs Conjugatifs chez les firmicutes : approches bioinformatiques et =
+mod=C3=A9lisation de l=E2=80=99appareil de conjugaison."
+Le profil recherch=C3=A9 est celui d'un(e) Biologiste/Microbiologiste ayant=
+ suivi un Master en bioinformatique structurale ou =C3=A9quivalent.
+Tous les d=C3=A9tails sont disponibles sur le site de l'INRA: http://jobs.i=
+nra.fr/offers/detail/149189
+Afin de bien pr=C3=A9parer le dossier il est indispensable de contacter les=
+ directeurs de th=C3=A8se le plus rapidement possible
+>>>>>>>>>>>>>> D=C3=A9pot du dossier au plus tard le lundi 12 mai 2014 =C3=
+=A0 17H00
+
+Nathalie Leblond (UMR 1128  INRA-Universit=C3=A9 de Lorraine), bourget _AT_=
+ nancy.inra.fr  ,  03 83 68 42 10
+Marie-Dominique Devignes (Centre de Recherche Inria Nancy Grand Est), devig=
+nes _AT_ loria.fr , 03 83 59 20 65
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D
+English version of this announcement
+
+An INRA/Inria "Young Scientist" PhD thesis (+postdoc) contract is
+available in Nancy as part of a collaboration between the DynAMic
+microbiology lab (UMR INRA-Universit=C3=A9 de Lorraine) and the Inria Nancy
+Grand Est research centre. This contract covers a three-year doctoral
+thesis which may then be continued (subject to certain conditions) by a
+two-year postdoc period in another laboratory.
+
+Six thesis projects are available for open competion, and a single
+project will be selected and funded according to the strongest candidate
+overall.=20
+The thesis project proposed in Nancy is on "Structural basis
+for the mobilisation of genetic material by integrative conjugative
+elements in firmicutes: bioinformatics approaches and modeling of the
+conjugation machinery".=20
+The ideal candidate will be a biologist or
+microbiologist who has completed a Masters in structural
+bioiinformatics, or equivalent.
+
+For full details, please see the INRA web site:
+http://jobs.inra.fr/offers/detail/149189
+
+In order to prepare the best possible application, it is essential to
+contact the thesis supervisors as soon as possible.=20
+>>>>>>>>>>>>>>>  The submission deadline is 17.00, Monday 12 May 2014.
+
+Nathalie Leblond (UMR 1128  INRA-Universit=C3=A9 de Lorraine), bourget _AT_=
+ nancy.inra.fr  ,  03 83 68 42 10
+Marie-Dominique Devignes (Centre de Recherche Inria Nancy Grand Est), devig=
+nes _AT_ loria.fr , 03 83 59 20 65
+
+-----------
+Dr. Marie-Dominique Devignes
+ECCB 2014 conference chair
+http://www.eccb14.org
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Equipe Orpailleur - Bureau B164
+03 83 59 20 65
+LORIA - INRIA Nancy Grand Est
+Campus Scientifique, BP239
+54506 Vandoeuvre les Nancy cedex
+http://www.loria.fr/~devignes
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
