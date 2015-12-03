@@ -28,9 +28,6 @@ def detectLanguagesMails(repertory):
 	detector.addDocument(learning_FRA,"FRA", 1, False)
 	detector.addDocument(learning_ENG,"ENG", 1, False)
 
-	detectorSentence = LangDetectorByNGrams()
-	detectorSentence.addDocument(learning_FRA,"FRA", 2, False)
-	detectorSentence.addDocument(learning_ENG,"ENG", 2, False)
 	
 
 	GLOBAL_F = open("mails_analyze/global.txt",'w')
@@ -54,7 +51,7 @@ def detectLanguagesMails(repertory):
 		FILE.write("\n\n+++++++++++++++++++++++++++++++++++++++++++++++++\n+++++++++++++++++++++++++++++++++++++++++++++++++\n")
 		for sentence in cuttingText.getSentences(e.get_body()):
 			i+=1
-			FILE.write("La phrase " + str(i) + " est en : " + detectorSentence.detect(sentence, 1, False)+ "\n\t" + sentence + "\n=======\n")
+			FILE.write("La phrase " + str(i) + " est en : " + detector.detect(sentence, 1, False)+ "\n\t" + sentence + "\n=======\n")
 		FILE.close()
 	
 	GLOBAL_F.close()
