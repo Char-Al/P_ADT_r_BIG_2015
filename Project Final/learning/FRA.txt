@@ -1127,3 +1127,99 @@ Patrimoine artistique et événements culturels
 Articles détaillés : Peinture française, Sculpture française, Littérature française, Musique française et Cinéma français.
 
 Si des productions artistiques sont attestées dans l’espace correspondant à la France actuelle dès la Préhistoirem 1, on ne peut parler d’« art français » avant le début du IIe millénaire de notre ère, à l’époque où un État et une nation commencent à se formerf 1. À partir de cette époque, les Beaux-Arts français vont être en grande partie similaires à ceux du reste de l’Europe occidentale, voyant se succéder un art roman aux XIe et XIIe siècles et un art gothique du XIIe au XVe sièclesm 2 ; la célébration de la puissance de la monarchie françaisef 2, d’un « espace privilégié » (A. Chastel)f 3 et la représentation du sacréf 4 font partie des thèmes privilégiés d’un art principalement commandé par le pouvoir politique ou religieux. La Renaissance et le développement du classicisme au XVIIe siècle puis du néoclassicisme au XVIIIe siècle sont l’expression à la fois d’une recherche de l’ordre et de l’apparat et d’influences antiques et italiennesm 3 ; c’est également à l’époque moderne qu’émergent des figures individuelles d’artistes, telles les peintres Fouquet, Poussin, La Tour, le Lorrain, Watteau, Boucher, Chardin, Fragonard, Greuze, David, Gros et Ingres, ou les sculpteurs Goujon, Girardon, Coysevox, Puget et Houdonm 4. Aux XIXe et XXe siècles, la France joue un rôle majeur dans les grands courants et révolutions artistiques occidentaux : le romantisme (Delacroix et Géricault), le réalisme (Courbet), l’impressionnisme (Monet, Renoir, Manet, Degas) et le néo-impressionnisme (Seurat, Van Gogh, Cézanne, Gauguin), le fauvisme (Matisse, Derain, Vlaminck), le cubisme (Braque, Picasso, Léger) ou encore le surréalisme (Duchamp) comptent des artistes français parmi leurs principaux représentantsm 4,m 5. Auguste Rodin, de son côté, révolutionne la sculpture à la fin du XIXe sièclem 6.
+
+Bio-informatique
+
+La bio-informatique est un champ de recherche multi-disciplinaire où travaillent de concert biologistes, médecins, informaticiens, mathématiciens, physiciens et bioinformaticiens, dans le but de résoudre un problème scientifique posé par la biologie.
+Depuis quelques années les progrès de l'informatique (et en particulier de la bioinformatique mise au service de la biodiversité ou « Biodiversity informatics » pour les anglophones) dopent la biologie évolutive en offrant aux chercheurs un accès à un nombre croisant de données sur la diversité et les variation des gènes, ainsi que des génomes, des organismes et de l'environnement en général.
+Tout cela peut être relié à la phylogénie (de l'étude des populations à celle de clades entiers), via de nouveaux protocoles et réseaux dans le domaine de l'informatique de la biodiversité
+
+Le terme bio-informatique peut également décrire (par abus de langage) toutes les applications informatiques résultant de ces recherchesNote 1.
+
+L'utilisation du terme bioinformatique est documentée pour la première fois en 1970 dans une publication1 de Paulien Hogeweg et Ben Hesper (université d'Utrecht, Pays-Bas), en référence à l'étude des processus d'information dans les systèmes biotiques2.
+
+Cela va de l'analyse du génome à la modélisation de l'évolution d'une population animale dans un environnement donné, en passant par la modélisation moléculaire, l'analyse d'image, l'assemblage de génome et la reconstruction d'arbres phylogénétiques (phylogénie). Cette discipline constitue la « biologie in silico », par analogie avec in vitro ou in vivo.
+
+Sommaire
+
+    1 Définitions et champs d'application
+    2 Analyse de séquence
+    3 Modélisation moléculaire
+    4 Construction d'arbres phylogénétiques
+    5 Modélisation de population
+    6 Exemples de tâches et débouchés
+    7 Notes et références
+        7.1 Notes
+        7.2 Références
+    8 Voir aussi
+        8.1 Articles connexes
+        8.2 Liens externes
+
+Définitions et champs d'application
+
+La bio-informatique est constituée par l'ensemble des concepts et des techniques nécessaires à l'interprétation informatique de l'information biologique. Plusieurs champs d'application ou sous-disciplines de la bio-informatique se sont constitués :
+
+    La bio-informatique des séquences, qui traite de l'analyse de données issues de l'information génétique contenue dans la séquence de l'ADN ou dans celle des protéines qu'il code. Cette branche s'intéresse en particulier à l'identification des ressemblances entre les séquences, à l'identification des gènes ou de régions biologiquement pertinentes dans l'ADN ou dans les protéines, en se basant sur l'enchaînement ou séquence de leurs composants élémentaires (nucléotides, acides aminés).
+    La bio-informatique structurale, qui traite de la reconstruction, de la prédiction ou de l'analyse de la structure 3D ou du repliement des macromolécules biologiques (protéines, acides nucléiques), au moyen d'outils informatiques.
+    La bio informatique des réseaux, qui s'intéresse aux interactions entre gènes, protéines, cellules, organismes, en essayant d'analyser et de modéliser les comportements collectifs d'ensembles de briques élémentaires du Vivant. Cette partie de la bio-informatique se nourrit en particulier des données issues de technologies d'analyse à haut débit comme la protéomique ou la transcriptomique pour analyser des flux génétiques ou métaboliques.
+    La bio-informatique statistique et la bio-informatique des populations
+
+Pour certains, la bio-informatique est une branche théorique de la biologie alors que pour d'autres, elle se situe clairement au carrefour des mathématiques, de l'informatique et de la biologie.
+
+Il s'agit en fait d'analyser, modéliser ou prédire les informations issues de données biologiques expérimentales.
+
+Dans un sens encore plus étendu, on peut aussi inclure sous le concept de bio-informatique le développement d'outils de traitement de l'information basés sur des systèmes biologiques comme l'utilisation des propriétés combinatoires du code génétique pour la conception d'ordinateurs à ADN permettant de résoudre des problèmes algorithmiques complexes.
+Analyse de séquence
+Cartographie du chromosome X humain (tirée du site internet du NCBI) ; l'assemblage du génome humain représente une des plus grandes réalisations de la bio-informatique.
+
+Depuis l'invention du séquençage de l'ADN par Frederick Sanger dans la deuxième moitié des années 1970, les progrès technologiques dans ce domaine ont été tels que le volume des séquences d'ADN disponibles a progressé de manière exponentielle, avec un temps de doublement de l'ordre de 15 à 18 mois, c'est-à-dire un peu plus rapidement que la puissance des processeurs des ordinateurs (Loi de Moore). Un nombre exponentiellement croissant de séquences de génomes ou d'ADN complémentaires sont disponibles, dont l'annotation (ou interprétation de leur fonction biologique) reste à effectuer.
+
+La première difficulté consiste à organiser cette énorme masse d'information et de la rendre disponible à l'ensemble de la communauté des chercheurs. Cela a été rendu possible grâce à différentes bases de données, accessibles en lignes. À l'échelon mondial, trois grandes institutions sont chargées de l'archivage de ces données : le NCBI aux États-Unis, l'EBI en Europe et le DDBJ (en) au Japon. Ces institutions se coordonnent pour gérer les grandes bases de données de séquences nucléotidiques comme GenBank ou l'EMBL database, ainsi que les bases de données de séquences protéiques comme UniProt ou TrEMBL (cf. liens en fin d'article).
+
+Il faut ensuite développer des outils d'analyse de séquences afin de pouvoir déterminer leurs propriétés.
+
+    Recherche de protéines à partir de la traduction de séquences nucléiques connues. Celle-ci passe par la détermination des phases ouvertes de lecture d'une séquence nucléique et de sa ou ses traduction(s) probables.
+    Recherche de séquences dans une banque de données à partir d'une autre séquence ou d'un fragment de séquence. Les logiciels les plus fréquemment utilisés sont de la famille BLAST (blastn, blastp, blastx, tblastx et leur dérivés).
+    Alignement de séquences : pour trouver les ressemblances entre deux séquences et déterminer leurs éventuelles homologies. Les alignements sont à la base de la construction de parentés suivant des critères moléculaires, ou encore de la reconnaissance de motifs particuliers dans une protéine à partir de la séquence de celle-ci.
+    Recherche de motifs ou structures consensus pour caractériser les séquences.
+
+La bio-informatique intervient aussi dans le séquençage, avec par exemple l'utilisation de puces à ADN ou biopuce. Le principe d'une telle puce repose sur la particularité de reformer spontanément la double hélice de l’acide désoxyribonucléique face au brin complémentaire. Les quatre molécules de base de l'ADN ont en effet la particularité de s'unir deux à deux. Si un patient est porteur d'une maladie, les brins extraits de l'ADN d'un patient, vont hybrider avec les brins d'ADN synthétiques représentatifs de la maladie3.
+Modélisation moléculaire
+
+Les macromolécules biologiques sont en général de dimensions trop petites pour être accessibles à des moyens d'observation directs tel que la microscopie. La biologie structurale est la discipline qui a pour objet de reconstruire des modèles moléculaires, par l'analyse de données indirectes ou composites. L'objectif est d'obtenir une reconstruction tridimensionnelle présentant la meilleure adéquation avec les résultats expérimentaux. Ces données sont issues principalement d'analyses cristallographiques (étude des figures de diffraction des rayons X par un cristal), de résonance magnétique nucléaire, de cryomicroscopie électronique ou de techniques de diffusion aux petits angles (diffusion des rayons X ou diffusion des neutrons). Les données issues de ces expériences constituent des données (ou contraintes) expérimentales qui sont utilisées pour calculer un modèle de la structure 3D. Le modèle moléculaire obtenu peut être est un ensemble de coordonnées cartésiennes des atomes composant la molécule, on parle alors de modèle atomique, ou une "enveloppe", c'est-à-dire une surface 3D décrivant la forme de la molécule, à plus basse résolution. L'informatique intervient dans toutes les étapes conduisant de l'expérimentation au modèle, puis dans l'analyse du modèle par la visualisation moléculaire (voir les protéines en 3D).
+
+Un autre volet de la modélisation moléculaire concerne la prédiction de la structure 3D d'une protéine à partir de sa structure primaire (l'enchaînement des acides aminés qui la composent), en prenant en compte les différentes propriétés physico-chimiques des acides aminés. Cela a un grand intérêt car la fonction, l'activité d'une protéine dépendent de sa forme. De même, la modélisation des structures 3D d'acides nucléiques (à partir de leur séquence nucléotidique) revêt la même importance que pour les protéines, en particulier pour les structures d'ARN.
+
+La connaissance de la structure tri-dimensionnelle permet d'étudier les sites actifs d'une enzyme, mettre au point informatiquement une série d'inhibiteurs potentiels pour cette enzyme, et ne synthétiser et ne tester que ceux qui semblent convenir. Cela permet de réduire les coûts en temps et en argent de ces recherches.
+
+De même la connaissance de cette structure permet de faciliter l'alignement de séquences protéiques.
+
+La visualisation de la structure tridimensionnelle d'acides nucléiques (ARN et ADN) fait également partie de la palette des outils bio-informatiques très utilisés.
+Construction d'arbres phylogénétiques
+
+On appelle gènes homologues des gènes descendant d'un même gène ancestral. De façon plus spécifique, on dit de ces gènes qu'ils sont orthologues s'ils se retrouvent dans des espèces différentes (spéciation sans duplication), ou qu'ils sont paralogues s'ils se retrouvent chez la même espèce (duplication à l'intérieur du génome).
+
+Il est alors possible de quantifier la distance génétique entre deux espèces en comparant leurs gènes orthologues. Cette distance génétique est représentée par le nombre et le type de mutations qui séparent les deux gènes.
+
+Appliquée à un nombre plus important d'êtres vivants, cette méthode permet d'établir une matrice des distances génétiques entre plusieurs espèces. Les arbres phylogénétiques rapprochent les espèces qui ont la plus grande proximité. Plusieurs algorithmes différents sont utilisés pour tracer des arbres à partir des matrices de distance. Ils reposent chacun sur des modèles de mécanismes évolutifs différents. Les deux méthodes les plus connues sont la méthode UPGMA et la méthode du Neighbour Joining mais il existe d'autres méthodes basées sur le Maximum de Vraisemblance et le Bayésien Naïf.
+
+La construction d'arbres phylogénétiques est utilisée par les programmes d'alignements multiples de séquences afin d'éliminer une grande partie des alignements possibles et de limiter ainsi les temps de calcul : il permet ainsi de guider l'alignement total.
+Modélisation de population
+Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide est la bienvenue !
+Exemples de tâches et débouchés
+
+Voici un exemple de tâches et débouchés réalisés par plusieurs étudiants et professeurs4
+
+    Aide à la création de nouveaux médicaments (prédiction de structure, d'interactions)
+    Développement de logiciels pour l'analyse et prédiction de données biologiques (génomique, transcriptomique, protéomique, etc), par exemple la prédiction de gènes
+    Développement de logiciels pour la biologie : (LIMS, interface web, etc)
+    Recherche dans un laboratoire (entreprise publique, biotechs, pharmaceutique, etc).
+    Modélisation d'écosystèmes ou de processus écosystémiques (du gène au réseau écologique)
+    Modélisation physiologique et simulation informatique d'organes
+    Informatique pure
+    Aide à la création d'organismes génétiquement modifiés (bactéries, plantes, etc.)
+    Aide à la création de tests et de systèmes de diagnostics destinés aux laboratoires d'analyses médicales, aux centres de transfusion sanguine et aux laboratoires de contrôle industriel
+    Enseignement
+    Adaptation de technologies informatiques au domaine de la biologie
+    Création, entretien et développement d'entrepôts de données
+    Tour guidé pour une introduction à la bio-informatique, conçu par SIB Institut Suisse de Bioinformatique

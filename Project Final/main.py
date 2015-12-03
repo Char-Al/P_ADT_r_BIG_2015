@@ -10,7 +10,7 @@ import re
 
 
 # Detector by unigram
-def detecLanguagesMails(repertory):
+def detectLanguagesMails(repertory):
 	file_FRA = open("learning/FRA.txt","r")
 	learning_FRA = ""
 	for line in file_FRA:
@@ -27,17 +27,28 @@ def detecLanguagesMails(repertory):
 	detector = LangDetectorByNGrams()
 	detector.addDocument(learning_FRA,"FRA", 1, False)
 	detector.addDocument(learning_ENG,"ENG", 1, False)
+
+	detectorSentence.addDocument(learning_FRA,"FRA", 2, False)
+	detectorSentence.addDocument(learning_ENG,"ENG", 2, False)
 	
 
 	os.chdir(repertory)
 	for mails in glob.glob("*"):
 		name = re.search('(.*)',mails)
-		name_file = str(name.group(1)) + ".detect"	
+		name_file = str(name.group(1)) + ".detect"
+		FILE = open("../mails_analyze/" + name_file,'w')	
 		e = Email(mails)
-		name_file.write("Le mail \"" + name.group(1) + "\" est globalement en : " + detector.detect(e.get_body(),1,False) + "\n")
-		for paragraph in e.get_body():
-			name_file.write("Le paragraphe " + i + " est en : " + detector.detect(paragraph, 1, False)
-			
+		FILE.write("Le mail \"" + name.group(1) + "\" est globalement en : " + detector.detect(e.get_body(),1,False) + "\n")
+		i=0
+		for paragraph in cuttingText.getSubsections(e.get_body()):
+			i+=1
+			FILE.write("Le paragraphe " + str(i) + " est en : " + detector.detect(paragraph, 1, False) + "\n\t" + paragraph + "\n\n=======\n")
+		i=0
+		FILE.write("\n\n")
+		for sentence in cuttingText.getSentences(e.get_body()):
+			i+=1
+			FILE.write("La phrase " + str(i) + " est en : " + detectorSentence.detect(sentence, 2, False)+ "\n\t" + sentence + "\n=======\n")
+		FILE.close()
 		
 
 
@@ -85,4 +96,4 @@ def learning_stats():
 
 
 
-detecLanguagesMails("mails")
+detectLanguagesMails("mails")
