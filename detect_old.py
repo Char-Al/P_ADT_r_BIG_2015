@@ -15,6 +15,7 @@ from nltk.tokenize import regexp_tokenize
 from nltk.corpus import stopwords
 
 import re
+import random
 from collections import Counter
 from collections import OrderedDict
 
@@ -84,16 +85,19 @@ class LangDetector():
 				score = pow(float(freqO) - float(freqT),2) / float(freqT)
 				scores[language] += score
 		
-		scores=OrderedDict(sorted(scores.items(), key=lambda t: t[1], reverse = False))
-		try:
-			return scores.keys()[0]
-		except:
-			return "i am totally fucked"
+		thelist = sorted(scores.items(), key = lambda x: x[1])
+
+		if len(thelist) > 0 : 
+			return thelist[0][0]
+
+		else:
+			return "non detect"
+
 				
 	# TOKENIZE
 	def getWords(self, document):
-		reg = re.compile('[0-9\W]+', re.UNICODE)
-		text_preprocess = document.decode('utf-8').lower()
+		reg = re.compile('[0-9\W]+')
+		text_preprocess = document.lower()
 		proper_text = ""
 		tokens = list()
 		for item in re.split(reg,text_preprocess):
@@ -142,54 +146,5 @@ class LangDetector():
 		most_rated_language = max(ratios, key=ratios.get)
 		return most_rated_language
 
-
-
-
-test= LangDetector()
-
-file_FRA = open("learning_FRA.txt","r")
-learning_FRA = ""
-for line in file_FRA:
-	learning_FRA += line
-file_FRA.close()
-
-
-file_ENG = open("learning_ENG.txt","r")
-learning_ENG = ""
-for line in file_ENG:
-	learning_ENG += line
-file_ENG.close()
-
-
-detectorTrue = dict()
-detectorFalse = dict()
-for i in range(5):
-	detectorTrue[str(i+1)] = LangDetector()
-	detectorFalse[str(i+1)] = LangDetector()
-	detectorTrue[str(i+1)].addDocument(learning_FRA,"FRA", i+1, True)
-	detectorTrue[str(i+1)].addDocument(learning_ENG,"ENG", i+1, True)
-
-	detectorFalse[str(i+1)].addDocument(learning_FRA,"FRA", i+1, False)
-	detectorFalse[str(i+1)].addDocument(learning_ENG,"ENG", i+1, False)
-	print("Learning : " + str(i+1) + " terminated :D\n")
-
-STATS = open("statistics.txt",'w')
-STATS.write("Language\tSize\tMethode\tLanguage_Detect")
-def extracts_stats():
-	os.chdir("data_stats")
-	for file_stats in glob.glob("*.txt"):
-		match = re.search('(.*)_sentence_(.*).txt',file_stats)	
-		print(match.group(1) + " " + match.group(2))
-		FILE = open(file_stats, 'r')
-		for line in FILE.readlines():
-			for i in range(5):
-				STATS.write(match.group(1) + "\t" + match.group(2) + "\t" + "Char_" + str(i+1) + "\t" + str(detectorTrue[str(i+1)].detect(line, i+1, False)) + "\n")
-				STATS.write(match.group(1) + "\t" + match.group(2) + "\t" + "Word_" + str(i+1) + "\t" + str(detectorTrue[str(i+1)].detect(line, i+1, True)) + "\n")
-		FILE.close()
-	
-
-
-
-extracts_stats()
 
 
