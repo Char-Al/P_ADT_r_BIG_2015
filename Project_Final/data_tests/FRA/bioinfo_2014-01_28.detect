@@ -1,0 +1,154 @@
+Le mail "bioinfo_2014-01_28" est globalement en : FRA
+[('FRA', 0.45045696186593753), ('ENG', 0.5022530258489231)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le sujet du mail est en : FRA
+Subject : [bioinfo] stage en bioinformatique Neurocentre Magendie
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	Bonjour,
+La plateforme Bioinformatique de l'unité Inserm U862 propose 1 stage 
+rémunéré d’une durée de 4 à 6 mois.
+
+==========================================
+Le paragraphe 2 est en : FRA
+	LIEU DE TRAVAIL:
+Neurocentre Magendie, Unité Inserm U862, Plateforme de Bioinformatique
+146 rue Léo Saignat 33077 Bordeaux Cedex
+http://neurocentre-magendie.fr/
+
+==========================================
+Le paragraphe 3 est en : FRA
+	CONTEXTE SCIENTIFIQUE:
+Le Neurocentre Magendie est un centre Inserm multidisciplinaire consacré
+à une étude intégrée des neurosciences depuis les pathologies
+neurologiques et du comportement jusqu'aux mécanismes cellulaires et
+moléculaires du fonctionnement des cellules du système nerveux. En
+particulier l'activité de recherche du Neurocentre Magendie vise à
+comprendre la physiopathologie de la plasticité neuronale.
+
+==========================================
+Le paragraphe 4 est en : FRA
+	DUREE DU STAGE: entre 4 à 6 mois (à partir de mi-Février 2014)
+
+==========================================
+Le paragraphe 5 est en : FRA
+	FORMATION SOUHAITEE:
+Master Bioinformatique (M1 ou M2) ou Bac+3 en Informatique,
+connaissances en Design Web/CSS, Python/PHP et MySQL
+
+==========================================
+Le paragraphe 6 est en : FRA
+	SUJET DU STAGE: Plusieurs sujets possibles
+
+==========================================
+Le paragraphe 7 est en : FRA
+	1-Développer un outil d'alimentation automatique de la base de données 
+de publications scientifiques
+2-Créer une nouvelle interface web pour le site web du Neurocentre Magendie
+3-Réaliser différents outils web sur l'intranet du neurocentre: banque 
+de CV, interface de gestion des ordres de mission
+4-Créer une interface d'analyse de séquences biologiques 
+regroupant/implémentant la plupart des outils d'analyse existant
+5-Développer un outil de gestion, de stockage et de suivi des demandes 
+de génotypage
+
+==========================================
+Le paragraphe 8 est en : FRA
+	MONTANT DES INDEMNITES:
+Le montant de la gratification due au stagiaire est fixé à 436.05 euros 
+par mois (35h hebdomaires).
+Laboratoire : Neurocentre Magendie Unité Inserm U862
+146 rue Léo Saignat 33077 Bordeaux, France
+
+==========================================
+Le paragraphe 9 est en : FRA
+	CONTACT:
+Alexandre Brochard – Responsable du Service Bioinformatique
+Neurocentre Magendie Unité Inserm U862
+146 rue Léo Saignat 33077 Bordeaux, France
+alexandre.brochard@inserm.fr
+
+==========================================
+Le paragraphe 10 est en : ENG
+	Merci d'envoyer vos CV et lettre de motivation par mail
+
+==========================================
+Le paragraphe 11 est en : FRA
+	Bien Cordialement,
+Alexandre Brochard
+
+
+==========================================
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : FRA
+	Bonjour,
+La plateforme Bioinformatique de l'unité Inserm U862 propose 1 stage 
+rémunéré d’une durée de 4 à 6 mois.
+==========================================
+La phrase 2 est en : FRA
+	LIEU DE TRAVAIL:
+Neurocentre Magendie, Unité Inserm U862, Plateforme de Bioinformatique
+146 rue Léo Saignat 33077 Bordeaux Cedex
+http://neurocentre-magendie.fr/
+
+CONTEXTE SCIENTIFIQUE:
+Le Neurocentre Magendie est un centre Inserm multidisciplinaire consacré
+à une étude intégrée des neurosciences depuis les pathologies
+neurologiques et du comportement jusqu'aux mécanismes cellulaires et
+moléculaires du fonctionnement des cellules du système nerveux.
+==========================================
+La phrase 3 est en : FRA
+	En
+particulier l'activité de recherche du Neurocentre Magendie vise à
+comprendre la physiopathologie de la plasticité neuronale.
+==========================================
+La phrase 4 est en : FRA
+	DUREE DU STAGE: entre 4 à 6 mois (à partir de mi-Février 2014)
+
+FORMATION SOUHAITEE:
+Master Bioinformatique (M1 ou M2) ou Bac+3 en Informatique,
+connaissances en Design Web/CSS, Python/PHP et MySQL
+
+SUJET DU STAGE: Plusieurs sujets possibles
+
+1-Développer un outil d'alimentation automatique de la base de données 
+de publications scientifiques
+2-Créer une nouvelle interface web pour le site web du Neurocentre Magendie
+3-Réaliser différents outils web sur l'intranet du neurocentre: banque 
+de CV, interface de gestion des ordres de mission
+4-Créer une interface d'analyse de séquences biologiques 
+regroupant/implémentant la plupart des outils d'analyse existant
+5-Développer un outil de gestion, de stockage et de suivi des demandes 
+de génotypage
+
+MONTANT DES INDEMNITES:
+Le montant de la gratification due au stagiaire est fixé à 436.05 euros 
+par mois (35h hebdomaires).
+==========================================
+La phrase 5 est en : FRA
+	Laboratoire : Neurocentre Magendie Unité Inserm U862
+146 rue Léo Saignat 33077 Bordeaux, France
+
+CONTACT:
+Alexandre Brochard – Responsable du Service Bioinformatique
+Neurocentre Magendie Unité Inserm U862
+146 rue Léo Saignat 33077 Bordeaux, France
+alexandre.brochard@inserm.fr
+
+
+Merci d'envoyer vos CV et lettre de motivation par mail
+
+Bien Cordialement,
+Alexandre Brochard
+
+==========================================

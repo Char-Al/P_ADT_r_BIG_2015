@@ -1,0 +1,149 @@
+Le mail "bioinfo_2014-01_86" est globalement en : FRA
+[('FRA', 0.965820181393469), ('ENG', 1.5142231889957392)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le sujet du mail est en : FRA
+Subject : [bioinfo] Poste MCF Bioinformatique/Biostatistique Toulouse
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	Bonjour à tous,
+
+==========================================
+Le paragraphe 2 est en : FRA
+	Veuillez trouver ci dessous une annonce pour un poste de maitre de conférence en Bioinformatique/biostatistique ouvert sur Toulouse
+Merci
+
+==========================================
+Le paragraphe 3 est en : FRA
+	Poste de Maître de conférences  en Bio statistique/bioinformatique à Toulouse, France
+
+==========================================
+Le paragraphe 4 est en : FRA
+	Un poste de Maitre de Conférence est ouvert à l’université de Toulouse, en Bioinformatique/Biostatistique pour rejoindre l’équipe de Gaëlle Legube (Chromatine et réparation de l’ADN, membre associé du réseau EpiGenSys), au LBCMCP (Laboratoire de Biologie Cellulaire et Moléculaire du Contrôle de la Prolifération).
+
+==========================================
+Le paragraphe 5 est en : FRA
+	Le poste requiert une expertise poussée en analyse de donnée génomique issue du séquençage haut débit (Next Generation Sequencing), plus particulièrement issus de ChIP-seq et RNA-seq. Les profils enseignement et recherche sont détaillés ci-dessous.
+
+==========================================
+Le paragraphe 6 est en : ENG
+	Enseignement
+
+==========================================
+Le paragraphe 7 est en : FRA
+	La généralisation des approches par des techniques de séquençage à haut débit (Next Generation Sequencing) nécessite que les démarches de traitement et d'intégration fonctionnelle  des données soient enseignées à différents niveaux : de la simple utilisation de logiciels à celui de l'explication des concepts et démarches sous-jacents. L'enseignement portera d'une part sur les problématiques inhérentes aux données de type NGS (traitement et analyse), et d'autre part sur leur exploitation et interprétation en termes d'annotation, de détection de polymorphisme (SNP et CNV) et d'analyse de la régulation de l'expression (RNAseq, ChIP-Seq). Le(La) MdC recruté(e) interviendra également dans les enseignements de base de bio- statistiques visant à familiariser les étudiants de biologie avec les concepts fondamentaux de statistiques.
+
+==========================================
+Le paragraphe 8 est en : ENG
+	Recherche
+
+==========================================
+Le paragraphe 9 est en : FRA
+	Notre équipe s'intéresse à la fonction de la chromatine dans la réparation des cassures doubles brins de l'ADN (DSB). En effet, de nombreux complexes capables de modifier les histones et de remodeler la chromatine sont recrutés aux niveaux des DSBs, mais cependant, le paysage chromatinien induit autour des DSBs reste encore à ce jour non caractérisé. Nous avons récemment mis au point une lignée cellulaire qui permet pour la première fois de caractériser à haute résolution ce paysage chromatinien induit autour des DSBs (Iacovoni et al, 2010).
+
+==========================================
+Le paragraphe 10 est en : FRA
+	Nous générons ainsi au laboratoire, par ChIP-seq des cartes qui décrivent la distribution de nombreuse histones modifiées et protéines de la réparation sur le génome autour des DSBs.  L'un des projets majeur de l'équipe consiste à intégrer ces données  avec les données publiques, générées par le consortium ENCODE, visant à décrire la structure de la chromatine dans de nombreux types cellulaire. Le candidat retenu sera en charge de ces analyses de données de séquençage haut débit.  Les candidatures doivent être adressées à gaelle.legube@univ-tlse3.fr avant le 15 février 2014
+
+==========================================
+Le paragraphe 11 est en : FRA
+	Gaëlle Legube, PhD
+
+==========================================
+Le paragraphe 12 est en : ENG
+	Chromatin and DNA repair group
+
+==========================================
+Le paragraphe 13 est en : FRA
+	Laboratoire de Biologie Cellulaire et Moléculaire du Contrôle de la Prolifération
+
+==========================================
+Le paragraphe 14 est en : FRA
+	CNRS, UMR5088
+
+==========================================
+Le paragraphe 15 est en : ENG
+	118 route de Narbonne
+
+==========================================
+Le paragraphe 16 est en : FRA
+	31062 Toulouse,
+France
+
+
+==========================================
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : FRA
+	Bonjour à tous,
+
+Veuillez trouver ci dessous une annonce pour un poste de maitre de conférence en Bioinformatique/biostatistique ouvert sur Toulouse
+Merci
+
+Poste de Maître de conférences  en Bio statistique/bioinformatique à Toulouse, France
+
+Un poste de Maitre de Conférence est ouvert à l’université de Toulouse, en Bioinformatique/Biostatistique pour rejoindre l’équipe de Gaëlle Legube (Chromatine et réparation de l’ADN, membre associé du réseau EpiGenSys), au LBCMCP (Laboratoire de Biologie Cellulaire et Moléculaire du Contrôle de la Prolifération).
+==========================================
+La phrase 2 est en : FRA
+	Le poste requiert une expertise poussée en analyse de donnée génomique issue du séquençage haut débit (Next Generation Sequencing), plus particulièrement issus de ChIP-seq et RNA-seq.
+==========================================
+La phrase 3 est en : FRA
+	Les profils enseignement et recherche sont détaillés ci-dessous.
+==========================================
+La phrase 4 est en : FRA
+	Enseignement
+
+La généralisation des approches par des techniques de séquençage à haut débit (Next Generation Sequencing) nécessite que les démarches de traitement et d'intégration fonctionnelle  des données soient enseignées à différents niveaux : de la simple utilisation de logiciels à celui de l'explication des concepts et démarches sous-jacents.
+==========================================
+La phrase 5 est en : FRA
+	L'enseignement portera d'une part sur les problématiques inhérentes aux données de type NGS (traitement et analyse), et d'autre part sur leur exploitation et interprétation en termes d'annotation, de détection de polymorphisme (SNP et CNV) et d'analyse de la régulation de l'expression (RNAseq, ChIP-Seq).
+==========================================
+La phrase 6 est en : FRA
+	Le(La) MdC recruté(e) interviendra également dans les enseignements de base de bio- statistiques visant à familiariser les étudiants de biologie avec les concepts fondamentaux de statistiques.
+==========================================
+La phrase 7 est en : FRA
+	Recherche
+
+Notre équipe s'intéresse à la fonction de la chromatine dans la réparation des cassures doubles brins de l'ADN (DSB).
+==========================================
+La phrase 8 est en : FRA
+	En effet, de nombreux complexes capables de modifier les histones et de remodeler la chromatine sont recrutés aux niveaux des DSBs, mais cependant, le paysage chromatinien induit autour des DSBs reste encore à ce jour non caractérisé.
+==========================================
+La phrase 9 est en : FRA
+	Nous avons récemment mis au point une lignée cellulaire qui permet pour la première fois de caractériser à haute résolution ce paysage chromatinien induit autour des DSBs (Iacovoni et al, 2010).
+==========================================
+La phrase 10 est en : FRA
+	Nous générons ainsi au laboratoire, par ChIP-seq des cartes qui décrivent la distribution de nombreuse histones modifiées et protéines de la réparation sur le génome autour des DSBs.
+==========================================
+La phrase 11 est en : FRA
+	L'un des projets majeur de l'équipe consiste à intégrer ces données  avec les données publiques, générées par le consortium ENCODE, visant à décrire la structure de la chromatine dans de nombreux types cellulaire.
+==========================================
+La phrase 12 est en : FRA
+	Le candidat retenu sera en charge de ces analyses de données de séquençage haut débit.
+==========================================
+La phrase 13 est en : FRA
+	Les candidatures doivent être adressées à gaelle.legube@univ-tlse3.fr avant le 15 février 2014
+
+
+Gaëlle Legube, PhD
+
+Chromatin and DNA repair group
+
+Laboratoire de Biologie Cellulaire et Moléculaire du Contrôle de la Prolifération
+
+CNRS, UMR5088
+
+118 route de Narbonne
+
+31062 Toulouse,
+France
+
+==========================================

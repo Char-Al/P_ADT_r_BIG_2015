@@ -1,0 +1,166 @@
+Le mail "bioinfo_2014-02_12" est globalement en : FRA
+[('FRA', 0.8366417608861003), ('ENG', 1.1081115843993312)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le sujet du mail est en : FRA
+Subject : [bioinfo] Cycle de formation "Bioinformatique par la pratique" 2014 (INRA Jouy)
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+Le paragraphe 1 est en : FRA
+	Bonjour,
+
+==========================================
+Le paragraphe 2 est en : FRA
+	L'unité MIG et sa plateforme MIGALE, de l'INRA de Jouy-en-Josas,
+proposent un certain nombre de modules de formation dans le cadre de
+leur cycle 2014 "Bioinformatique par la pratique".
+http://migale.jouy.inra.fr/?q=formations
+
+==========================================
+Le paragraphe 3 est en : FRA
+	Voici une liste de modules non encore complets :
+
+==========================================
+Le paragraphe 4 est en : FRA
+	* Linux (1j) : 31 mars ou 13 mai ou 2 juin
+* Comparaison de séquences protéiques, recherche d'homologues dans les 
+banques. Application à l'analyse fonctionnelle : attribution d'une 
+fonction aux produits des gènes (2j) : 1&2 avril
+* Initiation à la phylogénie (2j) : 7&8 avril
+* Ressources Ensembl : Biomart et serveurs DAS (1j) : 9 avril
+* Initiation à l'utilisation de Galaxy (1j) : 16 juin
+* Analyse primaire de données issues de séquenceurs nouvelle génération
+(NGS) en version ligne de commande (1j) : 10 avril
+* Analyse primaire de données issues de séquenceurs nouvelle génération
+(NGS) sous Galaxy (1j) : 11 juin ou 17 juin
+* Traitement bioinformatique des données RNA-Seq (1j) : 14 mai
+* Analyse statistique de données RNA-Seq - Recherche des régions
+d'intérêt différentiellement exprimées (1j) : 15 mai
+* Initiation à Perl (2j) : 3&4 juin
+* Perl avancé (1j) : 5 juin
+* Recherche de motifs sur-représentés dans des séquences (1j) : 6 juin
+* Initiation à Python (1j) : 12 juin
+* Python avancé (1j) : 13 juin
+* Edition de métadonnées de contenu pour les textes scientifiques (1j) : 
+19 juin (*EXCLUSIVITE*)
+
+==========================================
+Le paragraphe 5 est en : FRA
+	Les plaquettes descriptives de chacun de ces modules ainsi que les
+tarifs (de 150EUR à 200EURHT selon le nb de jours) et les pré-requis
+sont disponibles sur le site http://migale.jouy.inra.fr/?q=formations.
+Règlement uniquement par bon de commande.
+
+==========================================
+Le paragraphe 6 est en : FRA
+	Pour toute information supplémentaire : formation.migale@jouy.inra.fr
+
+==========================================
+Le paragraphe 7 est en : ENG
+	Cordialement,
+Sophie
+
+==========================================
+Le paragraphe 8 est en : ENG
+	-- 
+    ___
+   / _ \\  ,,        Sophie SCHBATH     Sophie.Schbath@jouy.inra.fr
+  /=(_)=\\//
+  \ =(_) (O}           Unite Mathematique, Informatique & Genome (MIG)
+   \_____\\      .--.   INRA - Domaine de Vilvert
+    /=(_)\\\   .'_\/_'.  F-78352 Jouy-en-Josas
+    \____///   '. /\ .'   Tel : +33 1 34 65 28 90
+         ())     "||"      Fax : +33 1 34 65 29 01
+                  || /\
+               /\ ||//\)   http://genome.jouy.inra.fr/~schbath/
+              (/\\||/      http://www.ssbgroup.fr
+     ____________\||/____________________________________________
+
+
+==========================================
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
+La phrase 1 est en : FRA
+	Bonjour,
+
+L'unité MIG et sa plateforme MIGALE, de l'INRA de Jouy-en-Josas,
+proposent un certain nombre de modules de formation dans le cadre de
+leur cycle 2014 "Bioinformatique par la pratique".
+==========================================
+La phrase 2 est en : FRA
+	http://migale.jouy.inra.fr/?q=formations
+
+Voici une liste de modules non encore complets :
+
+* Linux (1j) : 31 mars ou 13 mai ou 2 juin
+* Comparaison de séquences protéiques, recherche d'homologues dans les 
+banques.
+==========================================
+La phrase 3 est en : FRA
+	Application à l'analyse fonctionnelle : attribution d'une 
+fonction aux produits des gènes (2j) : 1&2 avril
+* Initiation à la phylogénie (2j) : 7&8 avril
+* Ressources Ensembl : Biomart et serveurs DAS (1j) : 9 avril
+* Initiation à l'utilisation de Galaxy (1j) : 16 juin
+* Analyse primaire de données issues de séquenceurs nouvelle génération
+(NGS) en version ligne de commande (1j) : 10 avril
+* Analyse primaire de données issues de séquenceurs nouvelle génération
+(NGS) sous Galaxy (1j) : 11 juin ou 17 juin
+* Traitement bioinformatique des données RNA-Seq (1j) : 14 mai
+* Analyse statistique de données RNA-Seq - Recherche des régions
+d'intérêt différentiellement exprimées (1j) : 15 mai
+* Initiation à Perl (2j) : 3&4 juin
+* Perl avancé (1j) : 5 juin
+* Recherche de motifs sur-représentés dans des séquences (1j) : 6 juin
+* Initiation à Python (1j) : 12 juin
+* Python avancé (1j) : 13 juin
+* Edition de métadonnées de contenu pour les textes scientifiques (1j) : 
+19 juin (*EXCLUSIVITE*)
+
+Les plaquettes descriptives de chacun de ces modules ainsi que les
+tarifs (de 150EUR à 200EURHT selon le nb de jours) et les pré-requis
+sont disponibles sur le site http://migale.jouy.inra.fr/?q=formations.
+==========================================
+La phrase 4 est en : FRA
+	Règlement uniquement par bon de commande.
+==========================================
+La phrase 5 est en : ENG
+	Pour toute information supplémentaire : formation.migale@jouy.inra.fr
+
+Cordialement,
+Sophie
+
+-- 
+    ___
+   / _ \\  ,,        Sophie SCHBATH     Sophie.Schbath@jouy.inra.fr
+  /=(_)=\\//
+  \ =(_) (O}           Unite Mathematique, Informatique & Genome (MIG)
+   \_____\\      .--.
+==========================================
+La phrase 6 est en : FRA
+	INRA - Domaine de Vilvert
+    /=(_)\\\   .'_\/_'.
+==========================================
+La phrase 7 est en : FRA
+	F-78352 Jouy-en-Josas
+    \____///   '.
+==========================================
+La phrase 8 est en : n
+	/\ .'
+==========================================
+La phrase 9 est en : ENG
+	Tel : +33 1 34 65 28 90
+         ())     "||"      Fax : +33 1 34 65 29 01
+                  || /\
+               /\ ||//\)   http://genome.jouy.inra.fr/~schbath/
+              (/\\||/      http://www.ssbgroup.fr
+     ____________\||/____________________________________________
+
+==========================================
