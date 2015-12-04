@@ -1,18 +1,24 @@
 Le mail "bioinfo_2014-12_44" est globalement en : ENG
+[('ENG', 0.34776126132830326), ('FRA', 0.6475220084215443)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] University Bergen Professor / Associate Professor in Bioinformatics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : non detect
+Le paragraphe 1 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	-------- Message transféré --------
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	The Department of Informatics (http://www.uib.no/en/ii) has up to two 
 positions as professor in bioinformatics available.
@@ -20,11 +26,11 @@ See
 http://www.jobbnorge.no/en/available-jobs/job/108238/professor-associate-professor-in-bioinformatics-up-to-2-positions
 for more info.
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -37,11 +43,11 @@ La phrase 1 est en : ENG
 
 The Department of Informatics (http://www.uib.no/en/ii) has up to two 
 positions as professor in bioinformatics available.
-=======
+==========================================
 La phrase 2 est en : ENG
 	See
 http://www.jobbnorge.no/en/available-jobs/job/108238/professor-associate-professor-in-bioinformatics-up-to-2-positions
 for more info.
 
 
-=======
+==========================================

@@ -1,18 +1,24 @@
 Le mail "bioinfo_2014-05_48" est globalement en : FRA
+[('FRA', 0.9545213421112181), ('ENG', 16.619803893753968)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][ Thèse ] Thèse en Systems Biology / Mathématiquesappliquées
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : non detect
+Le paragraphe 1 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Intitulé du poste : Thèse en Systems Biology / Mathématiques appliquées
 Type de poste : Thèse
@@ -22,16 +28,16 @@ Nom du contact : Mottelet Stéphane
 Email du contact : stephane.mottelet@utc.fr
 Laboratoire : Laboratoire de Mathématiques Appliquées de Compiègne EA2222
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/th%C3%A8se-en-systems-biology-math%C3%A9matiques-appliqu%C3%A9es
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,4 +60,4 @@ http://www.sfbi.fr/content/th%C3%A8se-en-systems-biology-math%C3%A9matiques-appl
 
 
 
-=======
+==========================================

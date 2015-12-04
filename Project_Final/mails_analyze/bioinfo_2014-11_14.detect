@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_14" est globalement en : FRA
+[('FRA', 0.4004917366025181), ('ENG', 3.490888981687202)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Soutenance de thèse de Sylvain Prigent - 14 novembre 14h00 - INRIA/IRISA Rennes
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] Soutenance de thèse de Sylvain Prigent - 14 novembre 14h00 
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	J'ai le plaisir de vous inviter à la soutenance de ma thèse de
 doctorat intitulée "Complétion combinatoire pour la reconstruction de
@@ -17,7 +23,7 @@ Ectocarpus siliculosus" qui aura lieu le vendredi 14 novembre 2014 à
 14h00, salle Métivier à INRIA/IRISA de Rennes, ainsi qu'au
 traditionnel pot qui suivra.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Le jury sera composé de :
 - Marie Beurton-Aimar, Maître de conférences, Université de Bordeaux 2
@@ -29,11 +35,11 @@ Le paragraphe 3 est en : FRA
 - Anne Siegel, Directrice de recherche CNRS (Directrice de thèse)
 - Thierry Tonon, Maître de conférences UMPC (Co-directeur de thèse)
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Résumé :
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Durant cette thèse nous nous sommes attachés au développement d'une
 méthode globale de création de réseaux métaboliques chez des espèces
@@ -55,11 +61,11 @@ une macro-algue brune. La reconstruction de ce réseau nous a permis
 d'améliorer notre compréhension du métabolisme de cette espèce et
 d'améliorer l'annotation de son génome.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Cordialement,
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	-- 
 Sylvain PRIGENT (Doctorant)
@@ -71,7 +77,7 @@ Campus universitaire de Beaulieu
 Tel : 02 99 84 22 41
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -85,7 +91,7 @@ réseaux métaboliques, et application au modèle des algues brunes
 Ectocarpus siliculosus" qui aura lieu le vendredi 14 novembre 2014 à
 14h00, salle Métivier à INRIA/IRISA de Rennes, ainsi qu'au
 traditionnel pot qui suivra.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Le jury sera composé de :
 - Marie Beurton-Aimar, Maître de conférences, Université de Bordeaux 2
@@ -103,36 +109,36 @@ Durant cette thèse nous nous sommes attachés au développement d'une
 méthode globale de création de réseaux métaboliques chez des espèces
 biologiques non classiques pour lesquelles nous possédons peu
 d'informations.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Classiquement cette reconstruction s'articule en trois
 points : la création d'une ébauche métabolique à partir d'un génome,
 la complétion du réseau et la vérification du résultat obtenu.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Nous
 nous sommes particulièrement intéressé au problème d'optimisation
 combinatoire difficile que représente l'étape de complétion du réseau,
 en utilisant un paradigme de programmation par contraintes pour le
 résoudre : la programmation par ensemble réponse (ou ASP).
-=======
+==========================================
 La phrase 5 est en : FRA
 	Les
 modifications apportées à une méthode préexistante nous ont permis
 d'améliorer à la fois le temps de calcul pour résoudre ce problème
 combinatoire et la qualité de la modélisation.
-=======
+==========================================
 La phrase 6 est en : FRA
 	L'ensemble de ce processus de reconstruction de réseau métabolique a
 été appliqué au modèle des algues brunes, Ectocarpus siliculosus, nous
 permettant ainsi de reconstruire le premier réseau métabolique chez
 une macro-algue brune.
-=======
+==========================================
 La phrase 7 est en : FRA
 	La reconstruction de ce réseau nous a permis
 d'améliorer notre compréhension du métabolisme de cette espèce et
 d'améliorer l'annotation de son génome.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Cordialement,
 
@@ -145,4 +151,4 @@ Campus universitaire de Beaulieu
 35042 RENNES Cedex
 Tel : 02 99 84 22 41
 
-=======
+==========================================

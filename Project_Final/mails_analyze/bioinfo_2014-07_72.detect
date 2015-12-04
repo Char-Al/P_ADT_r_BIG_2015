@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_72" est globalement en : FRA
+[('ENG', 0.6107574590356313), ('FRA', 0.7584575811551697)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] MODELLING OF METABOLISM REMODELLING
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : MODELLING OF METABOLISM REMODELLING
 Type de poste : Post-doc / IR
@@ -19,16 +25,16 @@ Nom du contact : Jean-Pierre MAAT
 Email du contact : jpm@u-bordeaux2.fr
 Laboratoire : IBGC-CNRS et UNIVERSITE BORDEAUX 2
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/modelling-metabolism-remodelling
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ http://www.sfbi.fr/content/modelling-metabolism-remodelling
 
 
 
-=======
+==========================================

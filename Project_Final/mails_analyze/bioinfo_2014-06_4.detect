@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_4" est globalement en : FRA
+[('FRA', 0.32669807517784), ('ENG', 2.962598155794123)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi] Informaticien pour le développementd’unsystème de gestion de données biologiques
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi] Informaticien pour le développementd’unsystème 
 Le paragraphe 1 est en : FRA
 	Profil de poste : Informaticien pour le développement d’un système de gestion de données biologiques
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Poste à pourvoir:
 CDD de 2 ans à temps complet ou en alternance 
@@ -17,38 +23,38 @@ Service d’Immuno-virologie, DSV/iMETI
 18, route du Panorama
 92265 Fontenay-aux-Roses
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Contexte:
 Le service d’immuno-virologie (SIV) développe, au sein de l’Institut des Maladies Emergentes et Thérapies Innovantes (iMETI), des programmes de recherche ayant trait aux interactions virus/hôte. Il s’agit, notamment, d’étudier les réponses immunes innée et adaptative aux infections virales humaines comme le VIH, le virus du Chikungunya ou la grippe dans différents modèles expérimentaux. L’objectif est de mieux comprendre ces mécanismes de défense afin de développer de nouvelles stratégies de prévention, comme les vaccins. 
 L’énorme production de donnes expérimentales nécessite l’utilisation d’une base de donnes relationnelles qui a été développées au sein du service. Cette base, nommée BATLab, est en développement continu selon les exigences expérimentales. De plus, l’utilisation de BATLab a été licenciée à plusieurs laboratoires Français et sera probablement licenciée à des laboratoires étrangers. 
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Missions: 
 Nous souhaitons recruter au sein du laboratoire des « Thérapies Innovantes et Prévention des Infections Virales » du Service d’Immuno-Virologie, un développeur informaticien. Il aura notamment pour mission le développement du logiciel BATLab sous la direction de notre équipe de bio-informatique. 
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Compétences souhaitées:
 Développeur informatique à temps complet ou en alternance, le candidat devra connaitre et maitriser parfaitement des technologies Web comme PHP5, MySQL, HTML5 (dont CSS, AJAX, Javascript et JQuery) pour le développement de nouveaux modules d’un logiciel déjà développé par le CEA. Il devra également utiliser Java et R pour certains modules et utiliser GIT. De bonnes connaissances en sécurité informatique et un attrait pour la biologie seraient fortement appréciés. 
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Formations:
 Diplôme d’informaticien BAC+2 à 5 recherché, à temps complet ou en alternance.
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Contact:
 Veuillez faire parvenir un curriculum vitae et une lettre de motivation à : 
 Nicolas Tchitchek: nicolas.tchitchek@cea.fr et Brice Targat: brice.targat@cea.fr
 
-=======
-Le paragraphe 8 est en : non detect
+==========================================
+Le paragraphe 8 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -65,47 +71,47 @@ Service d’Immuno-virologie, DSV/iMETI
 
 Contexte:
 Le service d’immuno-virologie (SIV) développe, au sein de l’Institut des Maladies Emergentes et Thérapies Innovantes (iMETI), des programmes de recherche ayant trait aux interactions virus/hôte.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Il s’agit, notamment, d’étudier les réponses immunes innée et adaptative aux infections virales humaines comme le VIH, le virus du Chikungunya ou la grippe dans différents modèles expérimentaux.
-=======
+==========================================
 La phrase 3 est en : FRA
 	L’objectif est de mieux comprendre ces mécanismes de défense afin de développer de nouvelles stratégies de prévention, comme les vaccins.
-=======
+==========================================
 La phrase 4 est en : FRA
 	L’énorme production de donnes expérimentales nécessite l’utilisation d’une base de donnes relationnelles qui a été développées au sein du service.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Cette base, nommée BATLab, est en développement continu selon les exigences expérimentales.
-=======
+==========================================
 La phrase 6 est en : FRA
 	De plus, l’utilisation de BATLab a été licenciée à plusieurs laboratoires Français et sera probablement licenciée à des laboratoires étrangers.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Missions: 
 Nous souhaitons recruter au sein du laboratoire des « Thérapies Innovantes et Prévention des Infections Virales » du Service d’Immuno-Virologie, un développeur informaticien.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Il aura notamment pour mission le développement du logiciel BATLab sous la direction de notre équipe de bio-informatique.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Compétences souhaitées:
 Développeur informatique à temps complet ou en alternance, le candidat devra connaitre et maitriser parfaitement des technologies Web comme PHP5, MySQL, HTML5 (dont CSS, AJAX, Javascript et JQuery) pour le développement de nouveaux modules d’un logiciel déjà développé par le CEA.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Il devra également utiliser Java et R pour certains modules et utiliser GIT.
-=======
+==========================================
 La phrase 11 est en : FRA
 	De bonnes connaissances en sécurité informatique et un attrait pour la biologie seraient fortement appréciés.
-=======
+==========================================
 La phrase 12 est en : FRA
 	Formations:
 Diplôme d’informaticien BAC+2 à 5 recherché, à temps complet ou en alternance.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Contact:
 Veuillez faire parvenir un curriculum vitae et une lettre de motivation à : 
 Nicolas Tchitchek: nicolas.tchitchek@cea.fr et Brice Targat: brice.targat@cea.fr
 
 
-=======
+==========================================

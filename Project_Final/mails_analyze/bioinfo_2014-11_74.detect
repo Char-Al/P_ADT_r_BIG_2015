@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_74" est globalement en : ENG
+[('ENG', 0.4101243866324034), ('FRA', 1.129726206588202)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] RE: Open engineer position available in Montpellier - Web developer - Semantic Web - BioPortal
 
@@ -52,7 +58,7 @@ France                                     
 
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -65,16 +71,16 @@ The SIFR project (http://www.lirmm.fr/sifr/) investigates the scientific and
 technical challenges in building ontology-based services to leverage
 biomedical ontologies and terminologies in indexing, mining and retrieval of
 (French) biomedical data.
-=======
+==========================================
 La phrase 2 est en : ENG
 	We are seeking an experienced Web developer to take hands on the different
 prototypes developed within the project and to setup and support the
 projects platform of services.
-=======
+==========================================
 La phrase 3 est en : ENG
 	One main aspect will be the maintenance and
 integration of new services inside our local instance of BioPortal.
-=======
+==========================================
 La phrase 4 est en : ENG
 	More detailed here: http://bit.ly/1rAo4EV 
 
@@ -108,4 +114,4 @@ France                                     
 
 
 
-=======
+==========================================

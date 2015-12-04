@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_28" est globalement en : FRA
+[('FRA', 0.4815887762663632), ('ENG', 4.847975117379128)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Post-doc / IR] Métagénomique / Métatranscriptomi que Projet TARA Océans
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Métagénomique / Métatranscriptomique Projet TARA
 Océans
@@ -20,16 +26,16 @@ Nom du contact : Eric Pelletier
 Email du contact : eric.pelletier@genoscope.cns.fr
 Laboratoire : CEA / Genoscope
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/m%C3%A9tag%C3%A9nomique-m%C3%A9tatranscriptomique-projet-tara-oc%C3%A9ans
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -52,4 +58,4 @@ http://www.sfbi.fr/content/m%C3%A9tag%C3%A9nomique-m%C3%A9tatranscriptomique-pro
 
 
 
-=======
+==========================================

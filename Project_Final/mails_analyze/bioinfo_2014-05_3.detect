@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_3" est globalement en : FRA
+[('FRA', 0.941193244349288), ('ENG', 62.76151248639748)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] M1/M2 Bioinformatique et Modélisationà l'UPMC
 
@@ -8,83 +14,83 @@ Subject : [bioinfo] M1/M2 Bioinformatique et Modélisationà l'UPMC
 Le paragraphe 1 est en : FRA
 	Les inscriptions pour la spécialité Bioinformatique et Modélisation du Master d'Informatique de l'Université Pierre et Marie Curie sont ouvertes pour la rentrée 2014.
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Cette spécialité permet à des étudiants de formation informatique ou mathématique d'acquérir des compétences dans les domaines de la bioinformatique et de la modélisation des systèmes biologiques et de participer aux mutations . Il s'agit d'une formation d'informatique au sein du master de l'UPMC, mais le parcours est intégré avec le Master en Biologie Moléculaire et Cellulaire (ouvert au étudiants avec une licence en biologie).
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Présentation :
 -------------------
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Les enjeux actuels de la biologie et de la médecine engendrent des besoins nouveaux à l'interface avec l'informatique et les mathématiques : analyse de données complexes, outils de modélisation approfondis. Ceci nécessite de former des jeunes scientifiques ayant une vaste culture pluridisciplinaire. La spécialisation "BioInformatique et Modélisation" (BIM) répond à cette demande en pleine croissance au niveau national et international.
 Elle est construite à l'interface des deux mentions Informatique et Biologie Moléculaire et cellulaire (BMC) avec la participation de la mention Mathématiques et Applications.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Plus d'informations sur le site de la spécialité : http://www.lcqb.upmc.fr/BIM/
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Informations pratiques :
 --------------------------------
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Les admissions sont possible en première et deuxième année de master, et s'addresse principalement aux étudiants ayant suivi une formation en informatique et/ou en mathématiques appliquée.  D'autre parcours peuvent être examinés au cas par cas (Etudiant en Physique chimie, écoles d'ingénieurs...), si l'étudiant peut montrer un intérêt pour les sciences du vivant.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Les étudiants en passe d'obtenir une licence de biologie doivent s'addresser au Master en Biologie Moléculaire et Cellulaire, spécialité Bioinformatique et Modélisation.
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Dates d'inscription :
 _ M1   5 mai au 27 juin 2014
 _ M2   5 mai au 11 juillet 2014
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Vous pouvez contacter les responsables de la spécialité alessandra.carbone@upmc.fr et martin.weigt@upmc.fr.
 Les étudiants en biologie doivent contacter stephane.le_crom@upmc.fr.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Les candidats doivent suivre la procédure d'inscription de l'Université Pierre et Marie Curie :
 http://www.upmc.fr/fr/formations/inscriptions_scolarite/candidature_et_inscription_annee_2014_2015/inscription_master.html
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : FRA
 	Les inscriptions pour la spécialité Bioinformatique et Modélisation du Master d'Informatique de l'Université Pierre et Marie Curie sont ouvertes pour la rentrée 2014.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Cette spécialité permet à des étudiants de formation informatique ou mathématique d'acquérir des compétences dans les domaines de la bioinformatique et de la modélisation des systèmes biologiques et de participer aux mutations .
-=======
+==========================================
 La phrase 3 est en : FRA
 	Il s'agit d'une formation d'informatique au sein du master de l'UPMC, mais le parcours est intégré avec le Master en Biologie Moléculaire et Cellulaire (ouvert au étudiants avec une licence en biologie).
-=======
+==========================================
 La phrase 4 est en : FRA
 	Présentation :
 -------------------
 
 Les enjeux actuels de la biologie et de la médecine engendrent des besoins nouveaux à l'interface avec l'informatique et les mathématiques : analyse de données complexes, outils de modélisation approfondis.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Ceci nécessite de former des jeunes scientifiques ayant une vaste culture pluridisciplinaire.
-=======
+==========================================
 La phrase 6 est en : FRA
 	La spécialisation "BioInformatique et Modélisation" (BIM) répond à cette demande en pleine croissance au niveau national et international.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Elle est construite à l'interface des deux mentions Informatique et Biologie Moléculaire et cellulaire (BMC) avec la participation de la mention Mathématiques et Applications.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Plus d'informations sur le site de la spécialité : http://www.lcqb.upmc.fr/BIM/
 
@@ -92,25 +98,25 @@ Informations pratiques :
 --------------------------------
 
 Les admissions sont possible en première et deuxième année de master, et s'addresse principalement aux étudiants ayant suivi une formation en informatique et/ou en mathématiques appliquée.
-=======
+==========================================
 La phrase 9 est en : FRA
 	D'autre parcours peuvent être examinés au cas par cas (Etudiant en Physique chimie, écoles d'ingénieurs...), si l'étudiant peut montrer un intérêt pour les sciences du vivant.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Les étudiants en passe d'obtenir une licence de biologie doivent s'addresser au Master en Biologie Moléculaire et Cellulaire, spécialité Bioinformatique et Modélisation.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Dates d'inscription :
 _ M1   5 mai au 27 juin 2014
 _ M2   5 mai au 11 juillet 2014
 
 Vous pouvez contacter les responsables de la spécialité alessandra.carbone@upmc.fr et martin.weigt@upmc.fr.
-=======
+==========================================
 La phrase 12 est en : FRA
 	Les étudiants en biologie doivent contacter stephane.le_crom@upmc.fr.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Les candidats doivent suivre la procédure d'inscription de l'Université Pierre et Marie Curie :
 http://www.upmc.fr/fr/formations/inscriptions_scolarite/candidature_et_inscription_annee_2014_2015/inscription_master.html
 
-=======
+==========================================

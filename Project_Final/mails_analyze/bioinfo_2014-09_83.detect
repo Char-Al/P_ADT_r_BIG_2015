@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_83" est globalement en : FRA
+[('ENG', 0.361132988252234), ('FRA', 0.4192372025454227)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] OPPORTUNITE DE CARRIERE - Modis division Pharma
 
@@ -10,22 +16,22 @@ Le paragraphe 1 est en : FRA
 Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
 En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique. Elle sappuie sur un réseau de 7 agences. Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie. Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Pour renforcer nos équipes, nous recherchons un ingénieur bio-informatique H/F qui aura pour mission d'assurer l'administration et la maintenance opérationnelle des applications dédiées aux plateformes technologiques de type "omics". Pour cela, vous devrez être force de proposition au regard des évolutions et avoir le sens de l'écoute pour la spécification de nouveaux besoins. Vous êtes en relation avec les équipes de chercheurs, le support informatique interne et les fournisseurs progiciels.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	De formation Bac +5 en bioinformatique, vous connaissez les principales technologies de biologie moléculaire (en particulier NGS, transcriptomique et protéomique). 
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Compétences techniques:
 - environnement Unix
 - java, groovy, shell, perl
 - SQL, oracle, tomcat
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Est un plus la connaissance de :
 - Inforsense
@@ -34,60 +40,60 @@ Le paragraphe 5 est en : ENG
 - MS Office
 - Sharepoint
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	La mission basée dans le 78.
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Si vous souhaitez plus dinformation nhésitez pas à revenir vers moi soit par mail lisa.perchenet@modisfrance.fr soit par téléphone 06.84.50.07.38. 
 Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée. 
 Pour découvrir lensemble des postes ouverts, notre culture, nos atouts  Rendez-vous directement sur notre site www.modisfrance.fr. 
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Ce poste est ouvert à tous.
 En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
 
-=======
-Le paragraphe 9 est en : non detect
+==========================================
+Le paragraphe 9 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : FRA
 	MODIS société internationale réalise un CA de 2,4 milliards deuros en 2012.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
-=======
+==========================================
 La phrase 3 est en : FRA
 	En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Elle sappuie sur un réseau de 7 agences.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Pour renforcer nos équipes, nous recherchons un ingénieur bio-informatique H/F qui aura pour mission d'assurer l'administration et la maintenance opérationnelle des applications dédiées aux plateformes technologiques de type "omics".
-=======
+==========================================
 La phrase 8 est en : FRA
 	Pour cela, vous devrez être force de proposition au regard des évolutions et avoir le sens de l'écoute pour la spécification de nouveaux besoins.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Vous êtes en relation avec les équipes de chercheurs, le support informatique interne et les fournisseurs progiciels.
-=======
+==========================================
 La phrase 10 est en : FRA
 	De formation Bac +5 en bioinformatique, vous connaissez les principales technologies de biologie moléculaire (en particulier NGS, transcriptomique et protéomique).
-=======
+==========================================
 La phrase 11 est en : FRA
 	Compétences techniques:
 - environnement Unix
@@ -102,22 +108,22 @@ Est un plus la connaissance de :
 - Sharepoint
 
 La mission basée dans le 78.
-=======
+==========================================
 La phrase 12 est en : FRA
 	Si vous souhaitez plus dinformation nhésitez pas à revenir vers moi soit par mail lisa.perchenet@modisfrance.fr soit par téléphone 06.84.50.07.38.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée.
-=======
+==========================================
 La phrase 14 est en : ENG
 	Pour découvrir lensemble des postes ouverts, notre culture, nos atouts  Rendez-vous directement sur notre site www.modisfrance.fr.
-=======
+==========================================
 La phrase 15 est en : FRA
 	Ce poste est ouvert à tous.
-=======
+==========================================
 La phrase 16 est en : FRA
 	En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
 
 
 
-=======
+==========================================

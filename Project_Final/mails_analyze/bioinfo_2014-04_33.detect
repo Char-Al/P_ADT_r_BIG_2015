@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_33" est globalement en : FRA
+[('FRA', 0.5319768433498726), ('ENG', 0.7345333902519607)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Offre de Post doctorat (3 ans) disponible immédiatement
 
@@ -8,59 +14,59 @@ Subject : [bioinfo] Offre de Post doctorat (3 ans) disponible immédiatement
 Le paragraphe 1 est en : FRA
 	Bonjour, 
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Mon équipe dispose d’un financement de 3 ans pour une bourse post-doctorale disponible immédiatement et financée par l’ANR. Vous trouverez les informations ci dessous. Le projet visant à intégrer de nombreuses données genome wide au cours de la différenciation musculaire, le ou la candidat(e) recherchée devra maitriser les analyses bio-informatiques. 
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	N’hésitez pas à diffuser cette offre à vos contacts, étudiants et collègues. 
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Merci d’avance, 
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Alexandre MEJAT
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	———————————————————————————————————————————————————————
 POST DOCTORAL POSITION AVAILABLE 
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Title : Acetylcholine Receptor gene coregulation by long distance interactions
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	A three-year post-doctoral position is available in the “Muscle Nuclear Architecture” team at the Laboratory of Molecular Biology of the Cell (UMR CNRS 5239 - ENS Lyon).
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Project: The long-term goal of the proposed project is to address how genome organization changes during muscle differentiation and how these changes affect genome function, using Acetylcholine Receptor gene regulation as a model. This program combines cell biology (muscle differentiation), imaging (immunofluorescence and FISH), and high-throughput genome-wide approaches (RNA-seq, ChIP-seq and Chromosome Conformation Capture).
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	Funding is provided for three years by an ANR (French National Research Agency) grant available immediatly.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Requirements: We are looking for a highly motivated postdoctoral research fellow to lead a project focused on three dimensional nuclear organization and muscle differentiation. Candidates with a background in molecular and cell biology, as well as those experienced in high-throughput genome-wide data analysis, are encouraged to apply. Expertise on mouse models will be positively considered.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Location: The team belongs to the Laboratory of Molecular Biology of the Cell (http://www.ens-lyon.fr/LBMC), located in Lyon, in the Gerland district, in the heart of a highly dynamic campus providing all the technical facilities required for the project.
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	Interested applicants should email curriculum vitae, a brief statement of research interests and names of three references to Alexandre Mejat (alexandre.mejat@ens-lyon.fr).
 See Mejat lab website: http://www.lmna.fr
 ——————————————————————————————————————————————————
  
 
-=======
+==========================================
 Le paragraphe 14 est en : FRA
 	Alexandre MEJAT, PhD
 Group Leader - Nuclear Architecture Team
@@ -69,12 +75,12 @@ Ecole Normale Supérieure de Lyon
 46 Allée d’Italie
 69363 LYON cedex 07
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	Tel: +33 4 72 72 81 70
 alexandre.mejat@ens-lyon.fr
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -83,16 +89,16 @@ La phrase 1 est en : FRA
 	Bonjour, 
 
 Mon équipe dispose d’un financement de 3 ans pour une bourse post-doctorale disponible immédiatement et financée par l’ANR.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Vous trouverez les informations ci dessous.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Le projet visant à intégrer de nombreuses données genome wide au cours de la différenciation musculaire, le ou la candidat(e) recherchée devra maitriser les analyses bio-informatiques.
-=======
+==========================================
 La phrase 4 est en : FRA
 	N’hésitez pas à diffuser cette offre à vos contacts, étudiants et collègues.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Merci d’avance, 
 
@@ -104,31 +110,31 @@ POST DOCTORAL POSITION AVAILABLE 
 Title : Acetylcholine Receptor gene coregulation by long distance interactions
 
 A three-year post-doctoral position is available in the “Muscle Nuclear Architecture” team at the Laboratory of Molecular Biology of the Cell (UMR CNRS 5239 - ENS Lyon).
-=======
+==========================================
 La phrase 6 est en : ENG
 	Project: The long-term goal of the proposed project is to address how genome organization changes during muscle differentiation and how these changes affect genome function, using Acetylcholine Receptor gene regulation as a model.
-=======
+==========================================
 La phrase 7 est en : ENG
 	This program combines cell biology (muscle differentiation), imaging (immunofluorescence and FISH), and high-throughput genome-wide approaches (RNA-seq, ChIP-seq and Chromosome Conformation Capture).
-=======
+==========================================
 La phrase 8 est en : ENG
 	Funding is provided for three years by an ANR (French National Research Agency) grant available immediatly.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Requirements: We are looking for a highly motivated postdoctoral research fellow to lead a project focused on three dimensional nuclear organization and muscle differentiation.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Candidates with a background in molecular and cell biology, as well as those experienced in high-throughput genome-wide data analysis, are encouraged to apply.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Expertise on mouse models will be positively considered.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Location: The team belongs to the Laboratory of Molecular Biology of the Cell (http://www.ens-lyon.fr/LBMC), located in Lyon, in the Gerland district, in the heart of a highly dynamic campus providing all the technical facilities required for the project.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Interested applicants should email curriculum vitae, a brief statement of research interests and names of three references to Alexandre Mejat (alexandre.mejat@ens-lyon.fr).
-=======
+==========================================
 La phrase 14 est en : ENG
 	See Mejat lab website: http://www.lmna.fr
 ——————————————————————————————————————————————————
@@ -143,4 +149,4 @@ Ecole Normale Supérieure de Lyon
 
 Tel: +33 4 72 72 81 70
 alexandre.mejat@ens-lyon.fr
-=======
+==========================================

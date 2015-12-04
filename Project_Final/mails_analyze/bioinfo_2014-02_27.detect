@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_27" est globalement en : FRA
+[('FRA', 0.5501098428630534), ('ENG', 3.327122530114368)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Montpellier Omics Days 2014 (2èmeédition), Conférences /workshop sur les sciences en « Omiques »
 
@@ -11,20 +17,20 @@ Montpellier Omics Days 2014 (2ème édition)
 Conférences/workshop sur les sciences en « Omiques »
 #####################################################
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	***********************************************************************
 Date : 17-18 février 2014
 Lieu : Campus de la faculté des sciences de l'université Montpellier 2
 ***********************************************************************
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Vous êtes invités à assister à la deuxième édition des Montpellier Omics 
 Days 2014 qui aura lieu le lundi 17 et le mardi 18 février 2014 à 
 l'université Montpellier 2.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Cet événement s'inscrit dans le cadre de la spécialité « 
 Bioinformatique, Connaissances, Données » du Master STIC pour la Santé 
@@ -32,7 +38,7 @@ et est organisé autour des sciences en « Omiques ». Il réunira de
 nombreux chercheurs biologistes, bioinformaticiens et informaticiens de 
 toute la région de Languedoc Roussillon.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	« Montpellier Omics Days 2014 » est une manifestation scientifique 
 organisée par les étudiants en deuxième année de la spécialité « 
@@ -40,7 +46,7 @@ Bioinformatique, Connaissances, Données » du master STIC pour la Santé
 des Universités de Montpellier I & II dans le cadre de l'Unité 
 d'Enseignement « Omique ».
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Elle a pour but d'identifier clairement l'état de l'art de la recherche 
 dans le domaine des techniques de traitements des données issues 
@@ -52,7 +58,7 @@ une communication constructive entre ces acteurs, motivée par l’actuelle
 inexistence de procédures standardisées pour le traitement des données « 
 Omiques ».
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Organisés dans l'une des plus grandes Université de France, les « 
 Montpellier Omics Days 2014 » se déclinent en deux parties :
@@ -66,21 +72,21 @@ s'initier à l'utilisation de l'environnement linux ainsi que quelques
 exemples d'analyse de données biologiques (places limitées (30 places) - 
 inscription gratuite mais obligatoire).
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Pour plus d'informations et pour vous inscrire gratuitement, RDV sur le 
 site http://www.lirmm.fr/BCD/MOD2014/
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Cordialement,
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Comité d'organisation MOD2014
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -99,37 +105,37 @@ Lieu : Campus de la faculté des sciences de l'université Montpellier 2
 Vous êtes invités à assister à la deuxième édition des Montpellier Omics 
 Days 2014 qui aura lieu le lundi 17 et le mardi 18 février 2014 à 
 l'université Montpellier 2.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Cet événement s'inscrit dans le cadre de la spécialité « 
 Bioinformatique, Connaissances, Données » du Master STIC pour la Santé 
 et est organisé autour des sciences en « Omiques ».
-=======
+==========================================
 La phrase 3 est en : FRA
 	Il réunira de 
 nombreux chercheurs biologistes, bioinformaticiens et informaticiens de 
 toute la région de Languedoc Roussillon.
-=======
+==========================================
 La phrase 4 est en : FRA
 	« Montpellier Omics Days 2014 » est une manifestation scientifique 
 organisée par les étudiants en deuxième année de la spécialité « 
 Bioinformatique, Connaissances, Données » du master STIC pour la Santé 
 des Universités de Montpellier I & II dans le cadre de l'Unité 
 d'Enseignement « Omique ».
-=======
+==========================================
 La phrase 5 est en : FRA
 	Elle a pour but d'identifier clairement l'état de l'art de la recherche 
 dans le domaine des techniques de traitements des données issues 
 notamment des technologies de séquençage à haut-débit et de mettre en 
 contact les différentes parties concernées : les chercheurs/ingénieurs 
 en biologie et en bioinformatique.
-=======
+==========================================
 La phrase 6 est en : FRA
 	L’intérêt général de l’organisation de MOD2014 est la volonté d’engager 
 une communication constructive entre ces acteurs, motivée par l’actuelle 
 inexistence de procédures standardisées pour le traitement des données « 
 Omiques ».
-=======
+==========================================
 La phrase 7 est en : FRA
 	Organisés dans l'une des plus grandes Université de France, les « 
 Montpellier Omics Days 2014 » se déclinent en deux parties :
@@ -138,13 +144,13 @@ scientifiques des derniers travaux scientifiques des acteurs de la
 recherche académique et industrielle dans le domaine « Omique » 
 (génomique, épigénomique, métagénomique, transcriptomique, protéomique) 
 (inscription gratuite mais obligatoire).
-=======
+==========================================
 La phrase 8 est en : FRA
 	- Workshop pour des biologistes (le mardi 18 février) : souhaitant 
 s'initier à l'utilisation de l'environnement linux ainsi que quelques 
 exemples d'analyse de données biologiques (places limitées (30 places) - 
 inscription gratuite mais obligatoire).
-=======
+==========================================
 La phrase 9 est en : ENG
 	Pour plus d'informations et pour vous inscrire gratuitement, RDV sur le 
 site http://www.lirmm.fr/BCD/MOD2014/
@@ -153,4 +159,4 @@ Cordialement,
 
 Comité d'organisation MOD2014
 
-=======
+==========================================

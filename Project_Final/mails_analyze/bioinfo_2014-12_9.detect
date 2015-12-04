@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_9" est globalement en : FRA
+[('FRA', 0.8436689533070906), ('ENG', 24.313155573412345)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Soutenance de thèse
 
@@ -8,33 +14,33 @@ Subject : [bioinfo] Soutenance de thèse
 Le paragraphe 1 est en : FRA
 	Bonjour, 
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	J'ai le plaisir de vous inviter à la soutenance de ma thèse, intitulée
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	« Étude du transcriptome à partir de données de comptages issues de  
 séquençage haut débit »
 ~
 « Transcriptome Analysis from High-Throughput Sequencing Count Data ».
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	La soutenance aura lieu le 12 décembre à 9.45 h à Paris VI, Jussieu,  
 bâtiment Esclangon,  amphithéâtre Astier, et sera suivie d'une  
 collation, auquel vous êtes tous cordialement invités. 
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Plan d'accès:  
 http://www.upmc.fr/fr/universite/campus_et_sites/a_paris_et_en_idf/jussieu.html
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Composition du jury :
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	M. Christophe Ambroise  - Rapporteur
 Mme. Alessandra Carbone - Directrice de thèse
@@ -44,12 +50,12 @@ M. Hugues Richard - Encadrant
 M. Claude Thermes - Examinateur
 M. Jean Daniel Zucker - Examinateur
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	-------------
 Summary
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	The most common RNA-Seq strategy consists of random shearing,  
 amplification, and high-throughput sequencing, of the RNA fraction.  
@@ -60,7 +66,7 @@ the local transcription levels and to identify transcript borders, and
 to identify regions that present differences in expression between two  
 conditions.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	The transcriptional landscape reconstruction relies on a state-space  
 model to describe transcription level variations in terms of abrupt  
@@ -70,7 +76,7 @@ also its short-range autocorrelation and the fraction of positions
 with zero-counts. The estimation relies on a Sequential Monte Carlo  
 algorithm, the Particle Gibbs.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	We present also a method to estimate the differences in expression  
 between two conditions without using existing annotations. This  
@@ -80,12 +86,12 @@ differential expression for a given fold threshold, and finally we
 reconstruct regions with continuous high differential expression  
 probability.
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	-------------
 Résumé : 
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	Les technologies de séquençage jouent un rôle croissant dans l'analyse  
 de l'expression des transcrits . RNA-Seqest une méthode  
@@ -99,7 +105,7 @@ transcription et l'identification des frontières de transcription sans
 faire usage de l'annotation existante, et pour l'analyse des  
 différences dans l'expression entre deux conditions.
 
-=======
+==========================================
 Le paragraphe 14 est en : FRA
 	La reconstruction du paysage transcriptionnel est faite dans un cadre  
 probabiliste (Chaînes de Markov Caché - HMM) où les variations du  
@@ -111,42 +117,42 @@ fraction des positions avec zéro comptages. L'estimation repose sur un
 algorithme de Monte Carlo Séquentiel, le Particle Gibbs, dont le temps  
 d'exécution est plus adapté aux génomes microbiennes.
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	L'analyse des différences dans l'expression est réalisée sans faire  
 usage de l'annotation existante. L'estimation des différences dans  
 l'expression est premièrement faite à la résolution de position et en  
 suite les régions avec un signal continu sont agrégés.
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	Cordialement,
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	Bogdan Mirauta
 
-=======
+==========================================
 Le paragraphe 18 est en : ENG
 	Laboratory of Computational and Quantitative Biology
 University Pierre et Marie Curie
 
-=======
+==========================================
 Le paragraphe 19 est en : FRA
 	Tel +33(0)1.44.27.73.28
 Les Cordeliers, Escalier A 4e étage
 15, rue de l'Ecole de Médecine, 75006 Paris
 
-=======
+==========================================
 Le paragraphe 20 est en : ENG
 	----------------------------------------------------------------
 This message was sent using IMP, the Internet Messaging Program.
 
-=======
-Le paragraphe 21 est en : non detect
+==========================================
+Le paragraphe 21 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -160,12 +166,12 @@ J'ai le plaisir de vous inviter à la soutenance de ma thèse, intitulée
 séquençage haut débit »
 ~
 « Transcriptome Analysis from High-Throughput Sequencing Count Data ».
-=======
+==========================================
 La phrase 2 est en : FRA
 	La soutenance aura lieu le 12 décembre à 9.45 h à Paris VI, Jussieu,  
 bâtiment Esclangon,  amphithéâtre Astier, et sera suivie d'une  
 collation, auquel vous êtes tous cordialement invités.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Plan d'accès:  
 http://www.upmc.fr/fr/universite/campus_et_sites/a_paris_et_en_idf/jussieu.html
@@ -175,7 +181,7 @@ Composition du jury :
 
 M. Christophe Ambroise  - Rapporteur
 Mme.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Alessandra Carbone - Directrice de thèse
 M. Nicolas Chopin - Examinateur
@@ -190,99 +196,99 @@ Summary
 
 The most common RNA-Seq strategy consists of random shearing,  
 amplification, and high-throughput sequencing, of the RNA fraction.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Methods to analyze transcription level variations along the genome  
 from the read count profiles generated by the is global RNA-Seq  
 protocol are needed.
-=======
+==========================================
 La phrase 6 est en : ENG
 	We developed statistical approaches to estimate  
 the local transcription levels and to identify transcript borders, and  
 to identify regions that present differences in expression between two  
 conditions.
-=======
+==========================================
 La phrase 7 est en : ENG
 	The transcriptional landscape reconstruction relies on a state-space  
 model to describe transcription level variations in terms of abrupt  
 shifts and more progressive drifts.
-=======
+==========================================
 La phrase 8 est en : ENG
 	A new emission model is introduced  
 to capture not only the read count variance inside a transcript but  
 also its short-range autocorrelation and the fraction of positions  
 with zero-counts.
-=======
+==========================================
 La phrase 9 est en : ENG
 	The estimation relies on a Sequential Monte Carlo  
 algorithm, the Particle Gibbs.
-=======
+==========================================
 La phrase 10 est en : ENG
 	We present also a method to estimate the differences in expression  
 between two conditions without using existing annotations.
-=======
+==========================================
 La phrase 11 est en : ENG
 	This  
 analysis is done in three consecutive steps.
-=======
+==========================================
 La phrase 12 est en : ENG
 	First, we estimate the  
 fold change at position level, then we estimate the probability of  
 differential expression for a given fold threshold, and finally we  
 reconstruct regions with continuous high differential expression  
 probability.
-=======
+==========================================
 La phrase 13 est en : FRA
 	-------------
 Résumé : 
 
 Les technologies de séquençage jouent un rôle croissant dans l'analyse  
 de l'expression des transcrits .
-=======
+==========================================
 La phrase 14 est en : FRA
 	RNA-Seqest une méthode  
 d'investigation d'une population de transcrits par cisaillement  
 aléatoire, amplification et séquençage à haut débit.
-=======
+==========================================
 La phrase 15 est en : FRA
 	Les données  
 issues du RNA-Seq peuvent être utilisées pour la quantification des  
 niveaux d'expression des transcrits et pour la détection des régions  
 transcrites et demandent des approches bioinformatiques.
-=======
+==========================================
 La phrase 16 est en : FRA
 	Nous avons  
 développé des approches statistiques pour l'estimation des niveaux de  
 transcription et l'identification des frontières de transcription sans  
 faire usage de l'annotation existante, et pour l'analyse des  
 différences dans l'expression entre deux conditions.
-=======
+==========================================
 La phrase 17 est en : FRA
 	La reconstruction du paysage transcriptionnel est faite dans un cadre  
 probabiliste (Chaînes de Markov Caché - HMM) où les variations du  
 niveau de la transcription sont prises en compte en termes de  
 changements brusques et de dérives.
-=======
+==========================================
 La phrase 18 est en : FRA
 	Le HMM est complété par une loi  
 d'émission qui capture non seulement la variance des comptages dans un  
 transcrit, mais aussi l'auto-corrélation de courte portée et la  
 fraction des positions avec zéro comptages.
-=======
+==========================================
 La phrase 19 est en : FRA
 	L'estimation repose sur un  
 algorithme de Monte Carlo Séquentiel, le Particle Gibbs, dont le temps  
 d'exécution est plus adapté aux génomes microbiennes.
-=======
+==========================================
 La phrase 20 est en : FRA
 	L'analyse des différences dans l'expression est réalisée sans faire  
 usage de l'annotation existante.
-=======
+==========================================
 La phrase 21 est en : FRA
 	L'estimation des différences dans  
 l'expression est premièrement faite à la résolution de position et en  
 suite les régions avec un signal continu sont agrégés.
-=======
+==========================================
 La phrase 22 est en : FRA
 	Cordialement,
 
@@ -301,4 +307,4 @@ This message was sent using IMP, the Internet Messaging Program.
 
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_32" est globalement en : FRA
+[('FRA', 0.4007626638581381), ('ENG', 0.4342235973076542)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] M2 - SUIVI D’AXONES EN CROISS  ANCE
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] M2 - SUIVI D’AXONES EN CROISS  ANCE
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : M2 - SUIVI D’AXONES EN CROISSANCE
 Type de poste : Stage
@@ -18,13 +24,13 @@ Nom du contact : Gregoire Malandain
 Email du contact : gregoire.malandain@inria.fr
 Laboratoire : INRIA/I3S - Equipe Morpheme
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-suivi-d%E2%80%99axones-en-croissance
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : INRIA/I3S - Equipe Morpheme
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-suivi-d%E2%80%99axones-en-croissance
 
-=======
+==========================================

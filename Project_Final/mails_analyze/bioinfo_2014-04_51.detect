@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_51" est globalement en : FRA
+[('FRA', 0.2743177143933239), ('ENG', 2.988404997003593)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Ecole et séminaire de la Société Francophone de Biologie Théorique (Saint Flour, mai 2014) ---  2eme appel
 
@@ -10,28 +16,28 @@ Le paragraphe 1 est en : FRA
 La Société Francophone de Biologie Théorique (SFBT) organise une nouvelle école de Printemps du 21 au 25 mai 2014 à Saint Flour.
 L'école sera immédiatement suivie du séminaire annuel de la SFBT du 26 au 28 mai (même endroit).
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	*** LA DATE LIMITE POUR S'INSCRIRE AU TARIF REDUIT EST LE 15 AVRIL ***
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Ecole
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Les écoles de la SFBT sont des écoles interdisciplinaires puisqu'elles réunissent traditionnellement des mathématiciens, des physiciens, des informaticiens et des biologistes autour d'un thème stimulant les interactions entre ces communautés.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Le thème choisi pour cette école est "le vivant critique et chaotique".
 Le programme, les objectifs, la procédure d'inscription en ligne et toutes les infos sont détaillés sur le site de l'école: http://sfbt-2014.imag.fr/
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Orateurs invités :
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	P. Amar (Université Paris-Sud)                    A. Goldbeter (Université Libre de Bruxelles)
 P. Ballet (Univ. de Bretagne Occidentale)         Y. Kergosien (Université de Cergy Pontoise)
@@ -40,33 +46,33 @@ S. Douady (CNRS Paris)                            F. Peruani (Université de Nic
 J.P. Françoise (Univ. Pierre et Marie Curie)      J.A. Sepulchre (Univ. de Nice - Sophia Antipolis)
 S. Galam (CNRS Paris)                             F. Varenne (Université de Rouen)
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Tous les étudiants participant à cette école peuvent, s'ils le souhaitent, afficher un poster sur leur travaux quelque soit leurs relations avec la biologie théorique. Les posters seront affichés durant toute la durée de l'école pour maximiser les interactions et les discussions entre les participants au delà du thème principal.
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Séminaire
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Ce 34ème séminaire de la SFBT aura pour thème incitatif "La vie artificielle et le point de vue de la biologie théorique".
 Toutes les infos sont détaillées sur le site du séminaire: http://sfbt-2014.imag.fr/seminaire.html
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	Il est possible d'assister uniquement à l'école  ou uniquement au séminaire.
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	Pour les étudiants qui assisteront également au séminaire, ils pourront concourir pour le prix du meilleur poster, décerné à l'issue du séminaire.
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	Les inscriptions sont ouvertes pour les 2 évènements ! Un tarif préférentiel est appliqué pour toutes les inscriptions effectuées avant le 15 Avril.
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -74,10 +80,10 @@ Le paragraphe 13 est en : FRA
 La phrase 1 est en : FRA
 	
 La Société Francophone de Biologie Théorique (SFBT) organise une nouvelle école de Printemps du 21 au 25 mai 2014 à Saint Flour.
-=======
+==========================================
 La phrase 2 est en : FRA
 	L'école sera immédiatement suivie du séminaire annuel de la SFBT du 26 au 28 mai (même endroit).
-=======
+==========================================
 La phrase 3 est en : FRA
 	*** LA DATE LIMITE POUR S'INSCRIRE AU TARIF REDUIT EST LE 15 AVRIL ***
 
@@ -85,10 +91,10 @@ La phrase 3 est en : FRA
 Ecole
 
 Les écoles de la SFBT sont des écoles interdisciplinaires puisqu'elles réunissent traditionnellement des mathématiciens, des physiciens, des informaticiens et des biologistes autour d'un thème stimulant les interactions entre ces communautés.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Le thème choisi pour cette école est "le vivant critique et chaotique".
-=======
+==========================================
 La phrase 5 est en : FRA
 	Le programme, les objectifs, la procédure d'inscription en ligne et toutes les infos sont détaillés sur le site de l'école: http://sfbt-2014.imag.fr/
 
@@ -96,46 +102,46 @@ Orateurs invités :
 
 P. Amar (Université Paris-Sud)                    A. Goldbeter (Université Libre de Bruxelles)
 P. Ballet (Univ.
-=======
+==========================================
 La phrase 6 est en : FRA
 	de Bretagne Occidentale)         Y. Kergosien (Université de Cergy Pontoise)
 J. Demongeot (Université de Grenoble)             G. Longo (CNRS Paris)
 S. Douady (CNRS Paris)                            F. Peruani (Université de Nice - Sophia Antipolis)
 J.P. Françoise (Univ.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Pierre et Marie Curie)      J.A.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Sepulchre (Univ.
-=======
+==========================================
 La phrase 9 est en : FRA
 	de Nice - Sophia Antipolis)
 S. Galam (CNRS Paris)                             F. Varenne (Université de Rouen)
 
 Tous les étudiants participant à cette école peuvent, s'ils le souhaitent, afficher un poster sur leur travaux quelque soit leurs relations avec la biologie théorique.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Les posters seront affichés durant toute la durée de l'école pour maximiser les interactions et les discussions entre les participants au delà du thème principal.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Séminaire
 
 Ce 34ème séminaire de la SFBT aura pour thème incitatif "La vie artificielle et le point de vue de la biologie théorique".
-=======
+==========================================
 La phrase 12 est en : FRA
 	Toutes les infos sont détaillées sur le site du séminaire: http://sfbt-2014.imag.fr/seminaire.html
 
 
 Il est possible d'assister uniquement à l'école  ou uniquement au séminaire.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Pour les étudiants qui assisteront également au séminaire, ils pourront concourir pour le prix du meilleur poster, décerné à l'issue du séminaire.
-=======
+==========================================
 La phrase 14 est en : FRA
 	Les inscriptions sont ouvertes pour les 2 évènements !
-=======
+==========================================
 La phrase 15 est en : FRA
 	Un tarif préférentiel est appliqué pour toutes les inscriptions effectuées avant le 15 Avril.
 
-=======
+==========================================

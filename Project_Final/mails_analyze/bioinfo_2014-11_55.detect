@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_55" est globalement en : FRA
+[('ENG', 0.5282710873471198), ('FRA', 0.6500224108363408)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Comparative genomics
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Comparative genomics
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Comparative genomics
 Type de poste : Post-doc / IR
@@ -18,13 +24,13 @@ Nom du contact : Jean-François Dufayard
 Email du contact : jean-francois.dufayard@cirad.fr
 Laboratoire : CIRAD
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/comparative-genomics-0
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : CIRAD
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/comparative-genomics-0
 
-=======
+==========================================

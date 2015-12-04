@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_19" est globalement en : FRA
+[('FRA', 0.37622994959828904), ('ENG', 3.813953155462585)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur de développement et de déploiement d'applications
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Ingénieur de développement et de déploiement
 d'applications
@@ -21,16 +27,16 @@ Email du contact : Marie-Paule.Lefranc@igh.cnrs.fr
 Laboratoire : IMGT, Laboratoire d'ImmunoGénétique Moléculaire LIGM,
 Institut de Génétique Humaine IGH,  UPR CNRS 1142
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-de-d%C3%A9veloppement-et-de-d%C3%A9ploiement-dapplications
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,4 +60,4 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-de-d%C3%A9veloppement-et-de-d%C3%A9plo
 
 
 
-=======
+==========================================

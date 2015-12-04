@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_20" est globalement en : ENG
+[('ENG', 0.3422387428539607), ('FRA', 0.517729068958285)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Bioinformatics Officer, University of Queensland Diamantina Institute, Brisbane, Australia
 
@@ -9,12 +15,12 @@ Le paragraphe 1 est en : FRA
 	The University of Queensland Diamantina Institute is seeking a Bioinformatician with experience in RNA-seq and Next-gen sequencing.  Overseas applicants are welcome.
 Feel free to contact Dr Paul Leo for more details about the position (on +61 7 3443 7072 or at p.leo@uq.edu.au).
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	How to apply:
 http://jobs.uq.edu.au/caw/en/job/496105/bioinformatics-officer
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Job no:496105
 Area:UQ Diamantina Institute
@@ -23,56 +29,56 @@ Work type:Full Time - Fixed Term
 Location: Brisbane
 The University of Queensland Diamantina Institute was established in 2007 as the sixth research institute of The University of Queensland. The aim of the Institute is to develop a better understanding of the molecular and cellular basis of disease, and to translate that understanding into practical outcomes for patients. Based at the Translational Research Institute (TRI) at the Princess Alexandra Hospital teaching campus in Brisbane, the Institute has almost 270 researchers and students who work closely with clinicians in the areas of cancer, immunology and genomic medicine. UQDI is the largest partner in TRI, and is building major programs in Immunology, Cancer and Genomic Medicine research, with a particular focus on research aimed at development of new treatments.  Details of the research interests of academic staff may be accessed on the Institute's web site at http://www.di.uq.edu.au/research.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	The role 
 The research groups at TRI , Cancer, Immunology and Genomic Medicine generate a large amount of genomics, proteomics  and expression data and require an experienced Bioinformatician to assist in the analysis of these experiments. The successful appointee will be required to liaise with clinical and wet-lab researchers to understand the goals of their research, assist in the experiment design and perform cutting edge analysis of the data. The appointee will be an active member of research collaborations and will provide innovate solutions and assist in the interpretation of findings.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	The person 
 Applicants should possess a PhD or Masters in bioinformatics, or in a relevant area of computer science, biostatistics, or computation based science  with at least 12 months experience in bioinformatics (considerably more for SRO).  Applicants must possess a track record in bioinformatics and ability to analyse and manipulate very large data sets.  Applicants must also possess good interpersonal and communications skills, excellent analytical skills and attention to detail, and have the capacity to work collaboratively with colleagues. 
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Remuneration
 This is a full-time, fixed term appointment for 12 months at Academic level A or B, dependent upon qualifications and experience.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	For Level A, the remuneration package will be in the range of $74,254 - $79,708 p.a., plus employer superannuation contributions of up to 17% (total package will be in the range of $86,877 - $93,259 p.a.).
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	For Level B, the remuneration package will be in the range of $83904 - $99635 p.a., plus employer superannuation contributions of up to 17% (total package will be in the range of $98,167 - $116,573 p.a.).
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Enquiries
 To discuss this role please contact Dr Paul Leo on +61 7 3443 7072 or at p.leo@uq.edu.au.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	To submit an application for this role, use the Apply button below. All applicants must supply the following documents: Cover letter, Resume and Selection Criteria responses.
 
-=======
-Le paragraphe 11 est en : non detect
+==========================================
+Le paragraphe 11 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : FRA
 	The University of Queensland Diamantina Institute is seeking a Bioinformatician with experience in RNA-seq and Next-gen sequencing.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Overseas applicants are welcome.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Feel free to contact Dr Paul Leo for more details about the position (on +61 7 3443 7072 or at p.leo@uq.edu.au).
-=======
+==========================================
 La phrase 4 est en : ENG
 	How to apply:
 http://jobs.uq.edu.au/caw/en/job/496105/bioinformatics-officer
@@ -84,58 +90,58 @@ Salary (FTE):Advertised at multiple classifications
 Work type:Full Time - Fixed Term
 Location: Brisbane
 The University of Queensland Diamantina Institute was established in 2007 as the sixth research institute of The University of Queensland.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The aim of the Institute is to develop a better understanding of the molecular and cellular basis of disease, and to translate that understanding into practical outcomes for patients.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Based at the Translational Research Institute (TRI) at the Princess Alexandra Hospital teaching campus in Brisbane, the Institute has almost 270 researchers and students who work closely with clinicians in the areas of cancer, immunology and genomic medicine.
-=======
+==========================================
 La phrase 7 est en : ENG
 	UQDI is the largest partner in TRI, and is building major programs in Immunology, Cancer and Genomic Medicine research, with a particular focus on research aimed at development of new treatments.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Details of the research interests of academic staff may be accessed on the Institute's web site at http://www.di.uq.edu.au/research.
-=======
+==========================================
 La phrase 9 est en : ENG
 	The role 
 The research groups at TRI , Cancer, Immunology and Genomic Medicine generate a large amount of genomics, proteomics  and expression data and require an experienced Bioinformatician to assist in the analysis of these experiments.
-=======
+==========================================
 La phrase 10 est en : ENG
 	The successful appointee will be required to liaise with clinical and wet-lab researchers to understand the goals of their research, assist in the experiment design and perform cutting edge analysis of the data.
-=======
+==========================================
 La phrase 11 est en : ENG
 	The appointee will be an active member of research collaborations and will provide innovate solutions and assist in the interpretation of findings.
-=======
+==========================================
 La phrase 12 est en : ENG
 	The person 
 Applicants should possess a PhD or Masters in bioinformatics, or in a relevant area of computer science, biostatistics, or computation based science  with at least 12 months experience in bioinformatics (considerably more for SRO).
-=======
+==========================================
 La phrase 13 est en : ENG
 	Applicants must possess a track record in bioinformatics and ability to analyse and manipulate very large data sets.
-=======
+==========================================
 La phrase 14 est en : ENG
 	Applicants must also possess good interpersonal and communications skills, excellent analytical skills and attention to detail, and have the capacity to work collaboratively with colleagues.
-=======
+==========================================
 La phrase 15 est en : FRA
 	Remuneration
 This is a full-time, fixed term appointment for 12 months at Academic level A or B, dependent upon qualifications and experience.
-=======
+==========================================
 La phrase 16 est en : ENG
 	For Level A, the remuneration package will be in the range of $74,254 - $79,708 p.a., plus employer superannuation contributions of up to 17% (total package will be in the range of $86,877 - $93,259 p.a.).
-=======
+==========================================
 La phrase 17 est en : ENG
 	For Level B, the remuneration package will be in the range of $83904 - $99635 p.a., plus employer superannuation contributions of up to 17% (total package will be in the range of $98,167 - $116,573 p.a.).
-=======
+==========================================
 La phrase 18 est en : FRA
 	Enquiries
 To discuss this role please contact Dr Paul Leo on +61 7 3443 7072 or at p.leo@uq.edu.au.
-=======
+==========================================
 La phrase 19 est en : ENG
 	To submit an application for this role, use the Apply button below.
-=======
+==========================================
 La phrase 20 est en : ENG
 	All applicants must supply the following documents: Cover letter, Resume and Selection Criteria responses.
 
 
-=======
+==========================================

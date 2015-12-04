@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_101" est globalement en : FRA
+[('ENG', 0.3165383021178546), ('FRA', 0.7598189920832908)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Stage] Stage Master 2 : analyse de methylomes
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Stage Master 2 : analyse de methylomes
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Stage Master 2 : analyse de methylomes
 Type de poste : Stage
@@ -18,13 +24,13 @@ Nom du contact : Frédérique Pitel
 Email du contact : frederique.pitel@toulouse.inra.fr
 Laboratoire : INRA GenPhySE
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-master-2-analyse-de-methylomes
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : INRA GenPhySE
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-master-2-analyse-de-methylomes
 
-=======
+==========================================

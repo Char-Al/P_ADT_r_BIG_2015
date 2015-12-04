@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_51" est globalement en : FRA
+[('ENG', 0.7130855804018797), ('FRA', 1.0554272181526478)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformaticien
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformaticien
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformaticien
 Type de poste : Post-doc / IR
@@ -18,13 +24,13 @@ Nom du contact : Jacques Behmoaras
 Email du contact : Jacquesb@imperial.ac.uk
 Laboratoire : Imperial College London (Hammersmith Campus)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticien-10
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : Imperial College London (Hammersmith Campus)
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticien-10
 
-=======
+==========================================

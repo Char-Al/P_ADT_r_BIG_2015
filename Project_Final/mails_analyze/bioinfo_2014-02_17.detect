@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_17" est globalement en : ENG
+[('ENG', 0.43918649173760205), ('FRA', 0.7478507348670721)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position in high-throughput sequencing analysis
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position in high-throu
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Intitulé du poste : Post-doctoral position in high-throughput sequencing  
 analysis
@@ -20,13 +26,13 @@ Email du contact : valentina.boeva@curie.fr
 Laboratoire : Institut Curie, Department of Bioinformatics, biostatistics,  
 epidemiology and computational systems biology of cancer
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doctoral-position-high-throughput-sequencing-analysis
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -47,4 +53,4 @@ epidemiology and computational systems biology of cancer
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doctoral-position-high-throughput-sequencing-analysis
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_50" est globalement en : FRA
+[('FRA', 0.43261046035228434), ('ENG', 31.046611458531153)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Formation à l'utilisation de la plate-forme MicroScope [23-26 septembre 2014]
 
@@ -11,7 +17,7 @@ plate-forme MicroScope («Annotation and analysis of prokaryotic genomes
 using the MicroScope platform») aura lieu du Mardi 23 Septembre au 
 Vendredi 26 Septembre 2014.
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	MicroScope ( https://www.genoscope.cns.fr/agc/microscope/ ) est une 
 plate-forme orientée web dédiée à l'annotation fonctionnelle et à 
@@ -30,14 +36,14 @@ propose plusieurs fonctionnalités dédiées à l'exploration de données,
 par requêtes de mots-clés, par la génomique comparative, les analyses 
 métaboliques, ou des statistiques pré-calculées sur les génomes.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Cette formation s'adresse aussi bien aux personnes ayant déjà un projet 
 d'annotation sur cette plate-forme et souhaitant apprendre à en 
 maîtriser l'utilisation, qu'à celles souhaitant s'initier à la génomique 
 comparative et à l'annotation de génomes bactériens.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Les informations administratives, les horaires, le lieu et le prix de 
 cette formation sont disponibles sur le site du LABGeM : 
@@ -46,20 +52,20 @@ Si vous êtes intéressés par cette formation, veuillez remplir le
 formulaire d'inscription disponible à l'adresse suivante: 
 https://www.genoscope.cns.fr/agc/website/spip.php?page=forma_register&lang=fr&session=2153
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Nos collaborateurs de l'Université d'Evry-Val d'Essonne 
 (http://www.univ-evry.fr) en charge de l'organisation de la formation 
 prendront ensuite contact avec vous afin de vous transmettre le devis, 
 ainsi que la convention de formation.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Cordialement
 L'équipe LABGeM
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -69,7 +75,7 @@ La phrase 1 est en : FRA
 plate-forme MicroScope («Annotation and analysis of prokaryotic genomes 
 using the MicroScope platform») aura lieu du Mardi 23 Septembre au 
 Vendredi 26 Septembre 2014.
-=======
+==========================================
 La phrase 2 est en : FRA
 	MicroScope ( https://www.genoscope.cns.fr/agc/microscope/ ) est une 
 plate-forme orientée web dédiée à l'annotation fonctionnelle et à 
@@ -78,7 +84,7 @@ bio-informatique du LABGeM ( https://www.genoscope.cns.fr/agc/website/
 ), dirigée par Claudine Médigue et implantée au Genoscope d'Evry, 
 MicroScope propose des résultats d'annotation syntaxique et 
 fonctionnelle pré-calculés, ainsi qu'un ensemble d'outils d'analyse.
-=======
+==========================================
 La phrase 3 est en : FRA
 	L'interface web de la plate-forme a été spécifiquement développée pour 
 assister les annotateurs / curateurs dans leur travail grâce à des 
@@ -86,24 +92,24 @@ données « sequence-based » (prédiction de domaines InterPro), «
 context-based » ( synténies, prédiction de réseaux métaboliques) et 
 expérimentales (expériences de croissance) dans le but d'assigner la 
 meilleure annotation possible à un produit de gène.
-=======
+==========================================
 La phrase 4 est en : FRA
 	De plus, MicroScope 
 propose plusieurs fonctionnalités dédiées à l'exploration de données, 
 par requêtes de mots-clés, par la génomique comparative, les analyses 
 métaboliques, ou des statistiques pré-calculées sur les génomes.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Cette formation s'adresse aussi bien aux personnes ayant déjà un projet 
 d'annotation sur cette plate-forme et souhaitant apprendre à en 
 maîtriser l'utilisation, qu'à celles souhaitant s'initier à la génomique 
 comparative et à l'annotation de génomes bactériens.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Les informations administratives, les horaires, le lieu et le prix de 
 cette formation sont disponibles sur le site du LABGeM : 
 https://www.genoscope.cns.fr/agc/website/spip.php?article755 .
-=======
+==========================================
 La phrase 7 est en : FRA
 	Si vous êtes intéressés par cette formation, veuillez remplir le 
 formulaire d'inscription disponible à l'adresse suivante: 
@@ -113,9 +119,9 @@ Nos collaborateurs de l'Université d'Evry-Val d'Essonne
 (http://www.univ-evry.fr) en charge de l'organisation de la formation 
 prendront ensuite contact avec vous afin de vous transmettre le devis, 
 ainsi que la convention de formation.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Cordialement
 L'équipe LABGeM
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_63" est globalement en : ENG
+[('ENG', 0.1971255263330707), ('FRA', 0.2881393702960293)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position in computational mass
  spectrometry : Innovative algorithms and software tools for spectra interpretation
@@ -7,14 +13,14 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position in computatio
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : non detect
+Le paragraphe 1 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Intitulé du poste : Post-doctoral position in computational mass 
 spectrometry : Innovative algorithms and software tools for spectra
@@ -26,16 +32,16 @@ Nom du contact : Etienne Thévenot
 Email du contact : etienne.thevenot@cea.fr
 Laboratoire : Laboratory of Data Analysis and Smart Sytems
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/post-doctoral-position-computational-mass-spectrometry-innovative-algorithms-and-software-to
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -60,4 +66,4 @@ http://www.sfbi.fr/content/post-doctoral-position-computational-mass-spectrometr
 
 
 
-=======
+==========================================

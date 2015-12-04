@@ -1,18 +1,24 @@
 Le mail "bioinfo_2014-04_69" est globalement en : FRA
+[('ENG', 0.6248140973371523), ('FRA', 0.6314669267290747)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Informaticien/Bioinformaticien Plateforme IMGT®
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : non detect
+Le paragraphe 1 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Intitulé du poste : Informaticien/Bioinformaticien Plateforme IMGT®
 Type de poste : CDD Ingénieur
@@ -22,16 +28,16 @@ Nom du contact : Patrice Duroux
 Email du contact : Patrice.Duroux@igh.cnrs.fr
 Laboratoire : IMGT®, the international ImMunoGeneTics information system®
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/informaticienbioinformaticien-plateforme-imgt%C2%AE
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,4 +60,4 @@ http://www.sfbi.fr/content/informaticienbioinformaticien-plateforme-imgt%C2%AE
 
 
 
-=======
+==========================================

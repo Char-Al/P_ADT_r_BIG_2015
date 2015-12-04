@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_43" est globalement en : FRA
+[('FRA', 0.47764374143756605), ('ENG', 0.8215489598431047)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Bioinformaticien devel  oppeur
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDD Ingénieur ] Bioinformaticien devel  oppeur
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformaticien developpeur
 Type de poste : CDD Ingénieur
@@ -18,13 +24,13 @@ Nom du contact : Marianne Rooman
 Email du contact : mrooman@ulb.ac.be
 Laboratoire : BioModélisation, BioInformatique & BioProcédés
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticien-developpeur
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : BioModélisation, BioInformatique & BioProcédés
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticien-developpeur
 
-=======
+==========================================

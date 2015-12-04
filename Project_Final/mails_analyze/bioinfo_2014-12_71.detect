@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_71" est globalement en : FRA
+[('ENG', 0.22293925063555922), ('FRA', 0.2904680143828734)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Stage] Analyse et Conception d’une a  pplication LIMS
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Analyse et Conception d’une a  pplication 
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Analyse et Conception d’une application LIMS
 Type de poste : Stage
@@ -18,13 +24,13 @@ Nom du contact : Emmanuelle GICQUELLO
 Email du contact : egicquello@splims.com
 Laboratoire : SPLIMS
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/analyse-et-conception-d%E2%80%99une-application-lims
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : SPLIMS
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/analyse-et-conception-d%E2%80%99une-application-lims
 
-=======
+==========================================

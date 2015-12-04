@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_88" est globalement en : FRA
+[('ENG', 0.5067753409703017), ('FRA', 0.6881658657470567)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Program in Biomedical Informatics
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Program in Biomedical Informatics
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Program in Biomedical Informatics
 Type de poste : Post-doc / IR
@@ -18,13 +24,13 @@ Nom du contact : Mar Albà
 Email du contact : malba@imim.es
 Laboratoire : IMIM-UPF
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/program-biomedical-informatics
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : IMIM-UPF
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/program-biomedical-informatics
 
-=======
+==========================================

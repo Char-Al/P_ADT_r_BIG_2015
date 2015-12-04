@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_77" est globalement en : FRA
+[('ENG', 0.30328799367615344), ('FRA', 0.5179416926032263)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-Doctoral Position on Novel algorithms for annotating and fitting of electron density
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Post-Doctoral Position on Novel algo
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Intitulé du poste : Post-Doctoral Position on Novel algorithms for  
 annotating and fitting of electron density
@@ -19,13 +25,13 @@ Nom du contact : Sergei Grudinin
 Email du contact : sergei.grudinin@inria.fr
 Laboratoire : INRIA
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doctoral-position-novel-algorithms-annotating-and-fitting-electron-density
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : INRIA
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doctoral-position-novel-algorithms-annotating-and-fitting-electron-density
 
-=======
+==========================================

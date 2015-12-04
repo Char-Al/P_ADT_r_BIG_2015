@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_27" est globalement en : FRA
+[('FRA', 0.23053683445331213), ('ENG', 4.085848600760327)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][ Thèse ] Exploitation simultanée de données de séquençage d'ADN tumoral d’un grand nombre de patients
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Exploitation simultanée de données de séquençage
 d'ADN tumoral d’un grand nombre de patients
@@ -20,16 +26,16 @@ Nom du contact : Raluca Uricaru
 Email du contact : ruricaru@labri.fr
 Laboratoire : LaBRI (Laboratoire Bordelais de Recherche en Informatique)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/exploitation-simultan%C3%A9e-de-donn%C3%A9es-de-s%C3%A9quen%C3%A7age-dadn-tumoral-d%E2%80%99un-grand-nombre-de-patients
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -52,4 +58,4 @@ http://www.sfbi.fr/content/exploitation-simultan%C3%A9e-de-donn%C3%A9es-de-s%C3%
 
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_19" est globalement en : FRA
+[('ENG', 0.2744384255023991), ('FRA', 0.5290031663677703)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Machine Learning for automatic classification of cells in high-content screening microscopy
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Machine Learning for automatic class
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Machine Learning for automatic classification of cells  
 in high-content screening microscopy
@@ -19,13 +25,13 @@ Nom du contact : Barlaud Michel
 Email du contact : barlaud@i3s.unice.fr
 Laboratoire : I3S
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/machine-learning-automatic-classification-cells-high-content-screening-microscopy
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : I3S
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/machine-learning-automatic-classification-cells-high-content-screening-microscopy
 
-=======
+==========================================

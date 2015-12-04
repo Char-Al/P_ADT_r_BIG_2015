@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_40" est globalement en : ENG
+[('FRA', 0.6730446469279802), ('ENG', 0.7423938245357478)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] PostDoc en Biologie structurale/robotique USA
 
@@ -8,22 +14,22 @@ Subject : [bioinfo] PostDoc en Biologie structurale/robotique USA
 Le paragraphe 1 est en : ENG
 	de la part d'Amarda Shehu
 
-=======
-Le paragraphe 2 est en : non detect
+==========================================
+Le paragraphe 2 est en : n
 	---
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Call for Postdoctoral Fellow/Research Associate in Robotics-inspired
 Techniques for Protein and Peptide Modeling
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	George Mason University
 Department of Computer Science
 PI: Amarda Shehu
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	I am looking for a highly motivated postdoctoral fellow to lead a
 research project funded by the National Science Foundation. The project
@@ -35,40 +41,40 @@ position. The position is for two years. Based on qualifications and
 past experience, the candidate may be offered a research associate
 position.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Applications are being accepted now and will continue until the position
 is filled.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	The candidate should have:
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	- Ph.D. in Computer Science
 - Prior experience and expertise designing robot motion planning algorithms
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	- Excellent programming skills in C++
 - Prior experience with protein and peptide structure geometry and modeling
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	- Some familiarity with physics-based molecular modeling packages, such
 as AMBER
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Starting date: January 2015
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	How to apply:
 Submit CV and names and emails of 2-3 references via email
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	To apply or for more information, please contact:
 Prof. Amarda Shehu, Computational Biology,amarda@gmu.edu  
@@ -76,11 +82,11 @@ Prof. Amarda Shehu, Computational Biology,amarda@gmu.edu
 See also:http://www.cs.gmu.edu/~ashehu/?q=StudentOpenings  
 <http://www.cs.gmu.edu/%7Eashehu/?q=StudentOpenings>
 
-=======
-Le paragraphe 14 est en : non detect
+==========================================
+Le paragraphe 14 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -100,30 +106,30 @@ PI: Amarda Shehu
 
 I am looking for a highly motivated postdoctoral fellow to lead a
 research project funded by the National Science Foundation.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The project
 aims to extend the capability of robotics-inspired algorithms
 characterize motions and dynamics of flexible peptides and proteins.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The
 emphasis is on novel algorithm design, but someone with prior experience
 in molecular geometry and protein structure modeling is ideal for the
 position.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The position is for two years.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Based on qualifications and
 past experience, the candidate may be offered a research associate
 position.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Applications are being accepted now and will continue until the position
 is filled.
-=======
+==========================================
 La phrase 7 est en : ENG
 	The candidate should have:
 
@@ -149,4 +155,4 @@ See also:http://www.cs.gmu.edu/~ashehu/?q=StudentOpenings
 <http://www.cs.gmu.edu/%7Eashehu/?q=StudentOpenings>
 
 
-=======
+==========================================

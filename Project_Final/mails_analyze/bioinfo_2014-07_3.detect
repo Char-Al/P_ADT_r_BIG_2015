@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_3" est globalement en : ENG
+[('ENG', 0.2904319818005743), ('FRA', 0.39641881046943017)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Meeting announcement: Protein Protein Interactions on the Genome Scale
 
@@ -8,22 +14,22 @@ Subject : [bioinfo] Meeting announcement: Protein Protein Interactions on the Ge
 Le paragraphe 1 est en : ENG
 	PROTEIN-PROTEIN INTERACTIONS ON THE GENOME SCALE
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Université Pierre et Marie Curie - Jussieu Campus 
 Amphi 25 - 4 place Jussieu 75005 Paris
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Despite progress with experimental high-throughput techniques for the analysis of protein-protein interactions, bioinformatics, molecular modeling and simulation can play important roles in determining the stability and the structure of protein complexes, in identifying weak transient interactions, in understanding the role of non-functional interactions in a crowed molecular environment and in analyzing dynamic protein interaction networks. This meeting aims at defining the present strengths and weaknesses in this rapidly growing field.
  
 The conference will bring together 11 renowned scientists working in bioinformatics, molecular modeling and molecular simulation and it wants to be an occasion to discuss and open new perspectives in the field. The participants are expected to be scientists coming from different backgrounds, as biology, chemistry, computer science, mathematics and physics. The meeting is addressed to a large public, including students.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Invited speakers: 
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	 Patrick ALOY  Institute for Research in Biomedicine, Spain
  Alexandre BONVIN  Utrecht University, The Netherlands
@@ -37,19 +43,19 @@ Le paragraphe 5 est en : ENG
  Shoshana WODAK  University of Toronto, Canada
  Martin ZACHARIAS  Technische Universität München, Germany
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	There is no registration fee, registration at http://mapping2014.sciencesconf.org/
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	We look forward seeing you. 
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	The organizing comittee
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Alessandra Carbone - LCQB - CNRS-UPMC, Paris, France
 Richard Lavery - IBCP - CNRS-Université de Lyon, France
@@ -57,7 +63,7 @@ François Penin - IBCP - CNRS-Université de Lyon, France
 Sophie Saquin-Mora - IBPC - CNRS, Paris, France
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -70,19 +76,19 @@ Amphi 25 - 4 place Jussieu 75005 Paris
 
 
 Despite progress with experimental high-throughput techniques for the analysis of protein-protein interactions, bioinformatics, molecular modeling and simulation can play important roles in determining the stability and the structure of protein complexes, in identifying weak transient interactions, in understanding the role of non-functional interactions in a crowed molecular environment and in analyzing dynamic protein interaction networks.
-=======
+==========================================
 La phrase 2 est en : ENG
 	This meeting aims at defining the present strengths and weaknesses in this rapidly growing field.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The conference will bring together 11 renowned scientists working in bioinformatics, molecular modeling and molecular simulation and it wants to be an occasion to discuss and open new perspectives in the field.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The participants are expected to be scientists coming from different backgrounds, as biology, chemistry, computer science, mathematics and physics.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The meeting is addressed to a large public, including students.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Invited speakers: 
 
@@ -102,7 +108,7 @@ La phrase 6 est en : ENG
 There is no registration fee, registration at http://mapping2014.sciencesconf.org/
 
 We look forward seeing you.
-=======
+==========================================
 La phrase 7 est en : FRA
 	The organizing comittee
 
@@ -111,4 +117,4 @@ Richard Lavery - IBCP - CNRS-Université de Lyon, France
 François Penin - IBCP - CNRS-Université de Lyon, France
 Sophie Saquin-Mora - IBPC - CNRS, Paris, France
 
-=======
+==========================================

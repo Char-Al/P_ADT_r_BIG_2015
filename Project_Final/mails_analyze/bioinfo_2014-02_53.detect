@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_53" est globalement en : FRA
+[('FRA', 0.5703859503592008), ('ENG', 39.65668872800491)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Stage de Recherche en Bioinformatique à poursuivre en Thèse
 
@@ -10,27 +16,27 @@ Le paragraphe 1 est en : FRA
 poursuivre en thèse est proposé dans l'équipe BFO du Laboratoire ICube 
 de l'Université de Strasbourg.
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Titre: Codes circulaires: étude combinatoire et modèles stochastiques 
 d'évolution
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Résumé: http://icube-bfo.unistra.fr/fr/img_auth.php/4/48/SujetBT.pdf
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Directeur: Christian Michel, c.michel@unistra.fr
 Co-directeur: Sophie Lèbre, slebre@unistra.fr
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Conditions d'admissibilité:
 - Classement dans les 2 premiers en M2 Informatique ou écoles d'ingénieurs
 - Formation en informatique théorique et mathématiques appliquées
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Si vous êtes intéressé par ce sujet de recherche, merci de constituer un 
 dossier de candidature avec:
@@ -42,20 +48,20 @@ votre classement (avec le rang/effectif)
 - une ou plusieurs lettres de recommandation.
 et de nous contacter.
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Le site: http://dpt-info.u-strasbg.fr/~michel/ vous présente le contexte 
 scientifique.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	La gratification de stage est de 436,05€ par mois.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Bien cordialement.
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	-- 
 Sophie Lèbre
@@ -72,7 +78,7 @@ F - 67412 Illkirch CEDEX
 http://icube-bfo.unistra.fr/index.php/Sophie_Lebre
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -81,7 +87,7 @@ La phrase 1 est en : FRA
 	Un stage de recherche en bioinformatique (section informatique) à 
 poursuivre en thèse est proposé dans l'équipe BFO du Laboratoire ICube 
 de l'Université de Strasbourg.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Titre: Codes circulaires: étude combinatoire et modèles stochastiques 
 d'évolution
@@ -103,20 +109,20 @@ votre classement (avec le rang/effectif)
 - les notes du M1 Informatique ou école d'ingénieurs et votre classement 
 (avec le rang/effectif)
 - une ou plusieurs lettres de recommandation.
-=======
+==========================================
 La phrase 3 est en : ENG
 	et de nous contacter.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Le site: http://dpt-info.u-strasbg.fr/~michel/ vous présente le contexte 
 scientifique.
-=======
+==========================================
 La phrase 5 est en : ENG
 	La gratification de stage est de 436,05€ par mois.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Bien cordialement.
-=======
+==========================================
 La phrase 7 est en : FRA
 	-- 
 Sophie Lèbre
@@ -132,4 +138,4 @@ Bd Sébastien Brant - BP 10413
 F - 67412 Illkirch CEDEX
 http://icube-bfo.unistra.fr/index.php/Sophie_Lebre
 
-=======
+==========================================

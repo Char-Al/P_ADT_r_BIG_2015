@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_31" est globalement en : FRA
+[('ENG', 0.2930910455733568), ('FRA', 0.4854233169766683)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Stage] M2: MICRO- ­‐VASCULATURE SEGM  ENTATION IN MICRO- ­‐TOMOGRAPHY
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] M2: MICRO- ­‐VASCULATURE SEGM  ENTATION I
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : M2: MICRO-­‐VASCULATURE SEGMENTATION IN  
 MICRO-­‐TOMOGRAPHY
@@ -19,13 +25,13 @@ Nom du contact : Gregoire Malandain
 Email du contact : gregoire.malandain@inria.fr
 Laboratoire : INRIA/I3S - Equipe Morpheme
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-micro-%C2%AD%E2%80%90vasculature-segmentation-micro-%C2%AD%E2%80%90tomography
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : INRIA/I3S - Equipe Morpheme
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-micro-%C2%AD%E2%80%90vasculature-segmentation-micro-%C2%AD%E2%80%90tomography
 
-=======
+==========================================

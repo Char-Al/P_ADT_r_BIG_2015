@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_8" est globalement en : FRA
+[('FRA', 0.21444100363965615), ('ENG', 28.59617152548806)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Poste de maitre de Conférencesà l'INSA de Lyon (Statistiques et réseaux)
 
@@ -14,7 +20,7 @@ http://www.insa-lyon.fr/en/fr/insa-de-lyon/recrutement/enseignants/chercheurs/mc
 Cordialement,
 H. Charles
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	-- 
 Hubert Charles (Pr)
@@ -26,11 +32,11 @@ Fax : 04-72-43-85-34
 http://bf2i.insa-lyon.fr/
 http://biosciences.insa-lyon.fr/
 
-=======
-Le paragraphe 3 est en : non detect
+==========================================
+Le paragraphe 3 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -40,10 +46,10 @@ La phrase 1 est en : FRA
 Un poste de maitre de conférences est ouvert à l'INSA de Lyon au 
 laboratoire MAP sur une problématique de recherche en analyse de réseaux 
 et un profil d'enseignement en Statistiques.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Les candidatures sont ouvertes.
-=======
+==========================================
 La phrase 3 est en : ENG
 	http://www.insa-lyon.fr/en/fr/insa-de-lyon/recrutement/enseignants/chercheurs/mcf/maitre-de-conference
 Cordialement,
@@ -60,4 +66,4 @@ http://bf2i.insa-lyon.fr/
 http://biosciences.insa-lyon.fr/
 
 
-=======
+==========================================

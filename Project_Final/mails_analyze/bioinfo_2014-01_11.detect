@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_11" est globalement en : ENG
+[('ENG', 0.5917565313570141), ('FRA', 2.379148946691071)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] ESWC 2014 Final Call for Papers
 
@@ -9,12 +15,12 @@ Le paragraphe 1 est en : ENG
 	
 ** apologies for cross-posting **
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	==== Final Call for Papers ====
 http://2014.eswc-conferences.org/important-dates/call-papers
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	** Deadline for abstracts (SHARP): 
 **     Wednesday 8th January 2014 - 23:59 Hawaii Time
@@ -24,7 +30,7 @@ Le paragraphe 3 est en : ENG
 **
 ** The submission of abstracts (8 Jan) is mandatory for submitting full papers (13 Jan)
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	CFP: 11th Extended Semantic Web Conference (ESWC) 2014
 Dates: May 25 - 29, 2014
@@ -37,27 +43,27 @@ Program Chairs:
 - Claudia d'Amato (Department of Computer Science, University of Bari, IT)
 - Fabien Gandon (Wimmics, Inria, I3S, CNRS, University of Nice Sophia Antipolis, FR)
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	ESWC is a A rank conference according to CORE classification and a major venue for discussing the latest scientific results and technology innovations related to the Semantic Web. The 11th edition of ESWC will take place from May 25th, 2014 to May 29th, 2014 in Anissaras, Crete, Greece. Besides a main focus on advances in Semantic Web research and technologies, ESWC 2014 is seeking to broaden its attention to span other relevant research areas in which Web semantics plays an important role.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	The goal of the Semantic Web is to create a Web of knowledge and services in which the semantics of content is made explicit and content is linked to both other content and services. This arrangement of knowledge-based functionalities is weaving together a large network of human knowledge, and making this knowledge machine-processable to support intelligent behaviour by machines. Additionally, it supports novel applications allowing content from heterogeneous sources to be combined in unforeseen ways and support enhanced matching between users needs, software functionalities and online content.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Creating such an interlinked Web of knowledge which bridges between heterogeneous content and services requires collaboration between several computer science domains. Also, within this hybrid space that the Web has become, where humans and software interact in a complex manner, fundamentally requires an inter-disciplinary approach to find novel solutions to the problems generated.    
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	ESWC 2014 will feature twelve thematic research tracks (see below) and an in-use and industrial track. Submissions of interdisciplinary research papers, covering more than one thematic track, are also encouraged. In addition, the in-use and industrial track will provide an opportunity for dialogue and discussion on industrial applications, tools, deployment experiences, case studies and usage analysis.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Submitted papers should describe original work, present significant results, and provide rigorous, principled, and repeatable evaluation. We strongly encourage and appreciate the submission of papers incorporating links to data sets and other material used for evaluation as well as to live demos and software source code.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	We therefore encourage submissions addressing several conference research topics. However, each paper should be associated with at least one of the topics of the conference. The main research topics this year are:
 - Vocabularies, Schemas, Ontologies;
@@ -74,18 +80,18 @@ Le paragraphe 10 est en : ENG
 - Streams;
 - Services, processes, and cloud computing.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Additional special research topics this year are:
 - Cognition and Semantic Web;
 - Policies, Rights, Governance;
 - Semantic multimedia web.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	*Important Dates*
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	Abstract submission: Wednesday 8th January 2014 (sharp) - 23:59 Hawaii Time
 Full-paper submission: Monday 13th January 2014 (sharp) - 23:59 Hawaii Time
@@ -93,28 +99,28 @@ Authors' Rebuttals: Wednesday 19th-Friday 21 Feb 2014
 Acceptance notifications: Wednesday 26 February 2014
 Camera-ready papers: Monday 10th of March 2014
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	*Submission  Information*
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	ESWC2014 welcomes the submission of original research and application papers dealing with all aspects of representing and using semantics on the Web. We encourage theoretical, methodological, empirical, and applications papers. The proceedings of this conference will be published in Springer's Lecture Notes in Computer Science series.
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	This year three of the best papers presented at the conference will have the opportunity to submit an extended version to a special issue of the journal "Semantic Web - Interoperability, Usability, Applicability" (IOS Press).
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	Papers should not exceed fifteen (15) pages in length and must be formatted according to the information for LNCS authors. Papers must be submitted in PDF (Adobe's Portable Document Format) format. Papers that exceed 15 pages or do not follow the LNCS guidelines will be automatically rejected without a review. Authors of accepted papers will be required to provide semantic annotations for the abstract of their submission - details of this process will be given on the conference Web page at the time of acceptance. At least one author of each accepted paper must register for the conference. More information about the Springer's Lecture Notes in Computer Science (LNCS) are available on the Springer LNCS Web site (http://www.springer.com/computer/lncs/lncs+authors).
 
-=======
+==========================================
 Le paragraphe 18 est en : ENG
 	Submissions and reviewing will be supported by the EasyChair system: https://www.easychair.org/account/signin.cgi?conf=eswc2014
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -147,49 +153,49 @@ Program Chairs:
 - Fabien Gandon (Wimmics, Inria, I3S, CNRS, University of Nice Sophia Antipolis, FR)
 
 ESWC is a A rank conference according to CORE classification and a major venue for discussing the latest scientific results and technology innovations related to the Semantic Web.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The 11th edition of ESWC will take place from May 25th, 2014 to May 29th, 2014 in Anissaras, Crete, Greece.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Besides a main focus on advances in Semantic Web research and technologies, ESWC 2014 is seeking to broaden its attention to span other relevant research areas in which Web semantics plays an important role.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The goal of the Semantic Web is to create a Web of knowledge and services in which the semantics of content is made explicit and content is linked to both other content and services.
-=======
+==========================================
 La phrase 5 est en : ENG
 	This arrangement of knowledge-based functionalities is weaving together a large network of human knowledge, and making this knowledge machine-processable to support intelligent behaviour by machines.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Additionally, it supports novel applications allowing content from heterogeneous sources to be combined in unforeseen ways and support enhanced matching between users needs, software functionalities and online content.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Creating such an interlinked Web of knowledge which bridges between heterogeneous content and services requires collaboration between several computer science domains.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Also, within this hybrid space that the Web has become, where humans and software interact in a complex manner, fundamentally requires an inter-disciplinary approach to find novel solutions to the problems generated.
-=======
+==========================================
 La phrase 9 est en : ENG
 	ESWC 2014 will feature twelve thematic research tracks (see below) and an in-use and industrial track.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Submissions of interdisciplinary research papers, covering more than one thematic track, are also encouraged.
-=======
+==========================================
 La phrase 11 est en : ENG
 	In addition, the in-use and industrial track will provide an opportunity for dialogue and discussion on industrial applications, tools, deployment experiences, case studies and usage analysis.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Submitted papers should describe original work, present significant results, and provide rigorous, principled, and repeatable evaluation.
-=======
+==========================================
 La phrase 13 est en : ENG
 	We strongly encourage and appreciate the submission of papers incorporating links to data sets and other material used for evaluation as well as to live demos and software source code.
-=======
+==========================================
 La phrase 14 est en : ENG
 	We therefore encourage submissions addressing several conference research topics.
-=======
+==========================================
 La phrase 15 est en : ENG
 	However, each paper should be associated with at least one of the topics of the conference.
-=======
+==========================================
 La phrase 16 est en : ENG
 	The main research topics this year are:
 - Vocabularies, Schemas, Ontologies;
@@ -205,13 +211,13 @@ La phrase 16 est en : ENG
 - Sensors;
 - Streams;
 - Services, processes, and cloud computing.
-=======
+==========================================
 La phrase 17 est en : ENG
 	Additional special research topics this year are:
 - Cognition and Semantic Web;
 - Policies, Rights, Governance;
 - Semantic multimedia web.
-=======
+==========================================
 La phrase 18 est en : ENG
 	*Important Dates*
 
@@ -225,35 +231,35 @@ Camera-ready papers: Monday 10th of March 2014
 *Submission  Information*
 
 ESWC2014 welcomes the submission of original research and application papers dealing with all aspects of representing and using semantics on the Web.
-=======
+==========================================
 La phrase 19 est en : ENG
 	We encourage theoretical, methodological, empirical, and applications papers.
-=======
+==========================================
 La phrase 20 est en : ENG
 	The proceedings of this conference will be published in Springer's Lecture Notes in Computer Science series.
-=======
+==========================================
 La phrase 21 est en : ENG
 	This year three of the best papers presented at the conference will have the opportunity to submit an extended version to a special issue of the journal "Semantic Web - Interoperability, Usability, Applicability" (IOS Press).
-=======
+==========================================
 La phrase 22 est en : ENG
 	Papers should not exceed fifteen (15) pages in length and must be formatted according to the information for LNCS authors.
-=======
+==========================================
 La phrase 23 est en : ENG
 	Papers must be submitted in PDF (Adobe's Portable Document Format) format.
-=======
+==========================================
 La phrase 24 est en : ENG
 	Papers that exceed 15 pages or do not follow the LNCS guidelines will be automatically rejected without a review.
-=======
+==========================================
 La phrase 25 est en : ENG
 	Authors of accepted papers will be required to provide semantic annotations for the abstract of their submission - details of this process will be given on the conference Web page at the time of acceptance.
-=======
+==========================================
 La phrase 26 est en : ENG
 	At least one author of each accepted paper must register for the conference.
-=======
+==========================================
 La phrase 27 est en : ENG
 	More information about the Springer's Lecture Notes in Computer Science (LNCS) are available on the Springer LNCS Web site (http://www.springer.com/computer/lncs/lncs+authors).
-=======
+==========================================
 La phrase 28 est en : ENG
 	Submissions and reviewing will be supported by the EasyChair system: https://www.easychair.org/account/signin.cgi?conf=eswc2014
 
-=======
+==========================================

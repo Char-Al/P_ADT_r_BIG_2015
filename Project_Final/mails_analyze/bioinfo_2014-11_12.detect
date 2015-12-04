@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_12" est globalement en : FRA
+[('FRA', 0.08046155046421574), ('ENG', 0.6220638682985169)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] Conception d'une base de donné  es relationnelle dans le cadre d'un projet inte  rdisciplinaire sur la caractérisation de la di  versité des levains naturels
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Conception d'une base de donné  es relation
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Conception d'une base de données relationnelle dans le  
 cadre d'un projet interdisciplinaire sur la caractérisation de la diversité  
@@ -20,13 +26,13 @@ Nom du contact : Yannick De Oliveira
 Email du contact : ydeoliveira@moulon.inra.fr
 Laboratoire : UMR Génétique Végétale - Le Moulon
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/conception-dune-base-de-donn%C3%A9es-relationnelle-dans-le-cadre-dun-projet-interdisciplinaire-su
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -47,4 +53,4 @@ Laboratoire : UMR Génétique Végétale - Le Moulon
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/conception-dune-base-de-donn%C3%A9es-relationnelle-dans-le-cadre-dun-projet-interdisciplinaire-su
 
-=======
+==========================================

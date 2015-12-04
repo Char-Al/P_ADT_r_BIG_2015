@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_64" est globalement en : FRA
+[('FRA', 0.24993177796315474), ('ENG', 7.107281251954473)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][ Thèse ] Étude de l'origine génétique et contraintes évolutives des nouveaux gènes codant dans des populations
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Étude de l'origine génétique et contraintes
 évolutives des nouveaux gènes codant dans des populations
@@ -20,16 +26,16 @@ Nom du contact : Dr. Rebecca Schreiber
 Email du contact : rebeccaschreiber@uni-muenster.de
 Laboratoire : Evolutionary Bioinformatics
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/%C3%A9tude-de-lorigine-g%C3%A9n%C3%A9tique-et-contraintes-%C3%A9volutives-des-nouveaux-g%C3%A8nes-codant-dans-des-pop
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -52,4 +58,4 @@ http://www.sfbi.fr/content/%C3%A9tude-de-lorigine-g%C3%A9n%C3%A9tique-et-contrai
 
 
 
-=======
+==========================================

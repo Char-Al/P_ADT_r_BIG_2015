@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_46" est globalement en : FRA
+[('FRA', 0.32188517534350813), ('ENG', 3.0367520360566274)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Administrateur système plates-formes bioinformatique et protéomique
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Administrateur système plates-formes bioinformatique 
 et
@@ -21,16 +27,16 @@ Nom du contact : Olivier Collin
 Email du contact : olivier.collin@irisa.fr
 Laboratoire : IRISA
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/administrateur-syst%C3%A8me-plates-formes-bioinformatique-et-prot%C3%A9omique
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,4 +60,4 @@ http://www.sfbi.fr/content/administrateur-syst%C3%A8me-plates-formes-bioinformat
 
 
 
-=======
+==========================================

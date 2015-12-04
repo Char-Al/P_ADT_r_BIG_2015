@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_40" est globalement en : FRA
+[('FRA', 0.3738707785299576), ('ENG', 1.0377596340401585)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Formation "Analyse des données RNA-Seq et ChIP-Seq pour les biologistes"
 
@@ -8,15 +14,15 @@ Subject : [bioinfo] Formation "Analyse des données RNA-Seq et ChIP-Seq pour les
 Le paragraphe 1 est en : FRA
 	Bonjour à tous,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Le PRABI (Pôle Rhône-Alpes de Bioinformatique) organise, en partenariat avec FC-3bio, du 11 au 13 février 2014 une formation destinée aux biologistes et dédiée à l'analyse des données RNA-Seq et ChIP-Seq. Cette formation aura lieu dans les locaux du PRABI, sur le campus de la Doua de l'Université Claude Bernard - Lyon 1.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Les objectifs de cette formation sont les suivants :
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	- Acquérir les connaissances générales sur les méthodes de séquençage à haut-débit.
 - Connaître les caractéristiques des données obtenues dans le cadre de l'analyse du transcriptome (RNA-Seq) et de la régulation des gènes (ChIP-Seq).
@@ -24,15 +30,15 @@ Le paragraphe 4 est en : FRA
 - Connaître les principales méthodes et outils d'analyse des données RNA-Seq et ChIP-sSq. Pouvoir les mettre en oeuvre dans un cas simple via un serveur  Galaxy.
 - Pouvoir visualiser les résultats dans un navigateur de génome.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Le programme complet de la formation ainsi qu'un formulaire d'inscription est disponible à l'adresse suivante :
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	http://www.fc3bio.fr/Analyse-des-donnees-RNA-seq-et-ChIP-seq-sequencage-haut-debit--a-l-aide-d-outils-orientes-vers-un-public-de-biologistes_a39.html
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Nous restons à votre disposition pour tout renseignement complémentaire.
 --
@@ -40,11 +46,11 @@ Guy Perrière
 Directeur du Pôle Rhône-Alpes de Bioinformatique
 http://www.prabi.fr
 
-=======
-Le paragraphe 8 est en : non detect
+==========================================
+Le paragraphe 8 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -53,37 +59,37 @@ La phrase 1 est en : FRA
 	Bonjour à tous,
 
 Le PRABI (Pôle Rhône-Alpes de Bioinformatique) organise, en partenariat avec FC-3bio, du 11 au 13 février 2014 une formation destinée aux biologistes et dédiée à l'analyse des données RNA-Seq et ChIP-Seq.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Cette formation aura lieu dans les locaux du PRABI, sur le campus de la Doua de l'Université Claude Bernard - Lyon 1.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Les objectifs de cette formation sont les suivants :
 
 - Acquérir les connaissances générales sur les méthodes de séquençage à haut-débit.
-=======
+==========================================
 La phrase 4 est en : FRA
 	- Connaître les caractéristiques des données obtenues dans le cadre de l'analyse du transcriptome (RNA-Seq) et de la régulation des gènes (ChIP-Seq).
-=======
+==========================================
 La phrase 5 est en : FRA
 	- Savoir planifier une expérience simple de type RNA-Seq ou ChIP-Seq en fonction de ses objectifs scientifiques et des caractéristiques et contraintes expérimentales.
-=======
+==========================================
 La phrase 6 est en : FRA
 	- Connaître les principales méthodes et outils d'analyse des données RNA-Seq et ChIP-sSq.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Pouvoir les mettre en oeuvre dans un cas simple via un serveur  Galaxy.
-=======
+==========================================
 La phrase 8 est en : FRA
 	- Pouvoir visualiser les résultats dans un navigateur de génome.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Le programme complet de la formation ainsi qu'un formulaire d'inscription est disponible à l'adresse suivante :
 
 http://www.fc3bio.fr/Analyse-des-donnees-RNA-seq-et-ChIP-seq-sequencage-haut-debit--a-l-aide-d-outils-orientes-vers-un-public-de-biologistes_a39.html
 
 Nous restons à votre disposition pour tout renseignement complémentaire.
-=======
+==========================================
 La phrase 10 est en : FRA
 	--
 Guy Perrière
@@ -96,4 +102,4 @@ http://www.prabi.fr
 
 
 
-=======
+==========================================

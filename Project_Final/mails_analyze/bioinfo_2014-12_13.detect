@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_13" est globalement en : FRA
+[('FRA', 0.21603460470128982), ('ENG', 0.4187907806564048)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] M2  : Mise en place d'outils de   validation de pipeline d'analyse de données N  GS. 
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] M2  : Mise en place d'outils de   validatio
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : M2 : Mise en place d'outils de validation de pipeline  
 d'analyse de données NGS.
@@ -19,13 +25,13 @@ Nom du contact : Yannis Duffourd
 Email du contact : yannis.duffourd@u-bourgogne.fr
 Laboratoire : Equipe de recherche GAD
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2%C2%A0-mise-en-place-doutils-de-validation-de-pipeline-danalyse-de-donn%C3%A9es-ngs
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -35,7 +41,7 @@ La phrase 1 est en : FRA
 
 Intitulé du poste : M2 : Mise en place d'outils de validation de pipeline  
 d'analyse de données NGS.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Type de poste : Stage
 Durée du poste : 3 à 6 mois
@@ -47,4 +53,4 @@ Laboratoire : Equipe de recherche GAD
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2%C2%A0-mise-en-place-doutils-de-validation-de-pipeline-danalyse-de-donn%C3%A9es-ngs
 
-=======
+==========================================

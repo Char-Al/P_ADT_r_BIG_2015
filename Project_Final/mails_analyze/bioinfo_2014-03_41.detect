@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_41" est globalement en : FRA
+[('FRA', 0.78553620125612), ('ENG', 4.48663855207062)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Emploi][Stage] Diagnostic génétique
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] Emploi][Stage] Diagnostic génétique
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Diagnostic génétique
 Type de poste : Stage
@@ -20,16 +26,16 @@ Email du contact : jfaure1@chu-grenoble.fr
 Laboratoire : Plateforme NGS – Plateforme Transversale de Biologie 
 Moléculaire
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/diagnostic-génétique
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -52,4 +58,4 @@ http://www.sfbi.fr/content/diagnostic-génétique
 
 
 
-=======
+==========================================

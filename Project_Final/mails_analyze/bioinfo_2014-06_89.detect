@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_89" est globalement en : FRA
+[('ENG', 0.5087426640844388), ('FRA', 0.7483553799421888)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Breeding Bioinformatician/Programmer
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Breeding Bioinformatician/Programmer
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Breeding Bioinformatician/Programmer
 Type de poste : Post-doc / IR
@@ -18,16 +24,16 @@ Nom du contact : Lukas Mueller
 Email du contact : lam87@cornell.edu
 Laboratoire : Boyce Thompson Institute
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/breeding-bioinformaticianprogrammer
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -48,4 +54,4 @@ http://www.sfbi.fr/content/breeding-bioinformaticianprogrammer
 
 
 
-=======
+==========================================

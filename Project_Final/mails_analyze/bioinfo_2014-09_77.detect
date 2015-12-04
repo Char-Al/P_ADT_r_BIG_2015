@@ -1,28 +1,34 @@
 Le mail "bioinfo_2014-09_77" est globalement en : FRA
+[('FRA', 0.6770220919016696), ('ENG', 7.422977987640787)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] CDI-Career Opportunity chez Dassault systèmes / IngénieurQualité Logiciel en Biologie des Systèmes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : non detect
+Le paragraphe 1 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Dassault Systèmes, « The 3D Experience Company », offre aux entreprises et aux particuliers les univers virtuels nécessaires à la conception dinnovations durables. Ses solutions leaders sur le marché transforment pour nos clients, la conception, la fabrication et la maintenance de leurs produits. Les solutions collaboratives de Dassault Systèmes permettent de promouvoir linnovation sociale et offrent de nouvelles possibilités daméliorer le monde réel grâce aux univers virtuels. Avec des ventes dans 80 pays, le Groupe apporte de la valeur à plus de 150 000 entreprises de toutes tailles dans tous les secteurs.
 CATIA, SolidWorks, GEOVIA, BIOVIA ENOVIA, 3DSwYm, SIMULIA, DELMIA, 3DVIA, EXALEAD et NetVibes sont des marques déposées de Dassault Systèmes ou de ses filiales aux USA et/ou dans d'autres pays. 
 Lensemble de ces solutions 3D Experience de Dassault Systèmes permettent de gérer de front l'innovation, la qualité et la conformité réglementaire des industries spécialisées en science de la vie. 
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Au sein de notre pôle Life Sciences R&D, nous développons des solutions produits LIFE Sciences. En intéraction avec une équipe de développeurs et léquipe de BIOVIA Quality Assessment, nous recherchons un Ingénieur Qualité Logiciel en Biologie des Systèmes.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Vous serez responsable de : 
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	-Rédiger les cahiers de tests, produire des scénarios et plans de tests cohérents avec les processus et besoins métiers clients
 -Effectuer des plans de tests fonctionnels des produits de modélisation et de simulation de systèmes biologiques que nous développons au sein de BIOVIA 
@@ -30,11 +36,11 @@ Le paragraphe 5 est en : FRA
 -Piloter les actions correctives en mettant à jour les spécifications pour les équipes de développement
 -Contribuer à ladoption des nos solutions par les clients, en anticipant les besoins de démonstration et en intégrant les retours clients.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Chercheur ou Ingénieur en bioinformatique avec une grande expertise en biologie (cellulaire, moléculaire, physiologiques, systémique), vous justifiez de 2-3 ans dexpérience dans des laboratoires ou industriels de ce secteur. Vous avez utilisé loutil informatique pour simuler, modéliser et tester vos expériences. Une expérience en validation de solutions informatiques serait un plus. Rejoignez une équipe dynamique et innovante afin de relever des défis technologiques !
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Connaissances/compétences/savoir être :
 Compétences biologie et/biochimie
@@ -42,37 +48,37 @@ Maitrise doutils en bioinformatique
 Maitrise de traitement de données expérimentales 
 Savoir-être : esprit analytique, Rigueur, Autonomie, souhait de sinvertir dans  un environnent hautement innovant à un rythme rapide au sein dune equipe, bonne communication écrite et verbale, travail déquipe.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Anglais impératif
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Poste en CDI
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Vous trouverez ci-après la référence du poste sur notre site emploi  ,Je reste à votre entière disposition pour de plus amples informations.
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	www.3ds.com/jobs/ "Ingénieur Qualité Logiciel en Biologie des Systèmes (H/F)" (ID 304660)
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Cordialement / Best Regards, 
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	Ibtissam SERGAG 
 EMEAR Talent Acquisition Specialist
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	ibtissam.sergag@3ds.com
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -81,28 +87,28 @@ La phrase 1 est en : FRA
 	
 
 Dassault Systèmes, « The 3D Experience Company », offre aux entreprises et aux particuliers les univers virtuels nécessaires à la conception dinnovations durables.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Ses solutions leaders sur le marché transforment pour nos clients, la conception, la fabrication et la maintenance de leurs produits.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Les solutions collaboratives de Dassault Systèmes permettent de promouvoir linnovation sociale et offrent de nouvelles possibilités daméliorer le monde réel grâce aux univers virtuels.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Avec des ventes dans 80 pays, le Groupe apporte de la valeur à plus de 150 000 entreprises de toutes tailles dans tous les secteurs.
-=======
+==========================================
 La phrase 5 est en : FRA
 	CATIA, SolidWorks, GEOVIA, BIOVIA ENOVIA, 3DSwYm, SIMULIA, DELMIA, 3DVIA, EXALEAD et NetVibes sont des marques déposées de Dassault Systèmes ou de ses filiales aux USA et/ou dans d'autres pays.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Lensemble de ces solutions 3D Experience de Dassault Systèmes permettent de gérer de front l'innovation, la qualité et la conformité réglementaire des industries spécialisées en science de la vie.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Au sein de notre pôle Life Sciences R&D, nous développons des solutions produits LIFE Sciences.
-=======
+==========================================
 La phrase 8 est en : FRA
 	En intéraction avec une équipe de développeurs et léquipe de BIOVIA Quality Assessment, nous recherchons un Ingénieur Qualité Logiciel en Biologie des Systèmes.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Vous serez responsable de : 
 
@@ -111,33 +117,33 @@ La phrase 9 est en : FRA
 -Mesurer la qualité de nos solutions logicielles à laide de scénarios de test, garantissant lapport des produits Life Sciences pour les processus métier clients
 -Piloter les actions correctives en mettant à jour les spécifications pour les équipes de développement
 -Contribuer à ladoption des nos solutions par les clients, en anticipant les besoins de démonstration et en intégrant les retours clients.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Chercheur ou Ingénieur en bioinformatique avec une grande expertise en biologie (cellulaire, moléculaire, physiologiques, systémique), vous justifiez de 2-3 ans dexpérience dans des laboratoires ou industriels de ce secteur.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Vous avez utilisé loutil informatique pour simuler, modéliser et tester vos expériences.
-=======
+==========================================
 La phrase 12 est en : FRA
 	Une expérience en validation de solutions informatiques serait un plus.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Rejoignez une équipe dynamique et innovante afin de relever des défis technologiques !
-=======
+==========================================
 La phrase 14 est en : FRA
 	Connaissances/compétences/savoir être :
 Compétences biologie et/biochimie
 Maitrise doutils en bioinformatique
 Maitrise de traitement de données expérimentales 
 Savoir-être : esprit analytique, Rigueur, Autonomie, souhait de sinvertir dans  un environnent hautement innovant à un rythme rapide au sein dune equipe, bonne communication écrite et verbale, travail déquipe.
-=======
+==========================================
 La phrase 15 est en : FRA
 	Anglais impératif
 
 Poste en CDI
 
 Vous trouverez ci-après la référence du poste sur notre site emploi  ,Je reste à votre entière disposition pour de plus amples informations.
-=======
+==========================================
 La phrase 16 est en : FRA
 	www.3ds.com/jobs/ "Ingénieur Qualité Logiciel en Biologie des Systèmes (H/F)" (ID 304660)
 
@@ -149,4 +155,4 @@ EMEAR Talent Acquisition Specialist
 
 ibtissam.sergag@3ds.com
 
-=======
+==========================================

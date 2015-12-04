@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_19" est globalement en : ENG
+[('ENG', 0.3047646475876819), ('FRA', 0.5996707859208374)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Gtpb] TA-AFADM14 - Bioinformatics Training Course - Announcement
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
                     ANNOUNCEMENT
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	    IMPORTANT DATES for TA-AFADM14
     Deadline for applications: September 26th 2014
@@ -18,39 +24,39 @@ Le paragraphe 2 est en : ENG
          NORMAL: September 26th 2014
     Course date: October 6th - October 9th 2014
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	The Gulbenkian Training Programme in Bioinformatics is pleased to  
 announce that the applications for the hands-on Bioinformatics  
 training course
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	TA-AFADM14
 Transcriptome Assembly, Automatic Annotation and Data Mining
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	are now OPEN. Please have a look at our website here:
 http://gtpb.igc.gulbenkian.pt/bicourses/TA-AFADM14/
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Course duration: 4 days
 Course fee: Euro 320.00
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	We will have Stefan Goetz and Riccardo Alese Cigliano as instructors.
 This course has already been run here several times with a great deal  
 of success, as revealed by very positive feedback reports and  
 subsequent recruitment by word of mouth by satisfied attendees.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Course description:
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	This is a combined course in RNA-seq and functional annotation aimed  
 at scientists working in next generation sequencing transcriptomics  
@@ -60,7 +66,7 @@ to mapping, reconstruction of transcripts and differential expression.
 Participants will learn how to deal with RNA-seq data both in the  
 presence and absence of a reference genome.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	The second part of the course is a practical workshop on Blast2GO, the  
 most popular framework for functional annotation of sequence data.  
@@ -72,23 +78,23 @@ part will be based on the use of the Blast2GO application and will
 mainly comprise exercises and practical cases. Participants may bring  
 their own data.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Who should attend? Experimentalists and bioinformaticians working on  
 EST, NextGeneration Sequencing and microarray design projects,  
 specially (but not exclusively) of non-model species. No programming  
 knowledge is required.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Thank you for your continued interest
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	P.Fernandes
 GTPB Coordinator
 
-=======
+==========================================
 Le paragraphe 14 est en : FRA
 	-- 
 Pedro Fernandes
@@ -99,7 +105,7 @@ PORTUGAL
 Tel +351 21 4407912
 http://gtpb.igc.gulbenkian.pt
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	-------------- next part --------------
 A non-text attachment was scrubbed...
@@ -114,7 +120,7 @@ Gtpb@igc.gulbenkian.pt
 https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -138,7 +144,7 @@ TA-AFADM14
 Transcriptome Assembly, Automatic Annotation and Data Mining
 
 are now OPEN.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Please have a look at our website here:
 http://gtpb.igc.gulbenkian.pt/bicourses/TA-AFADM14/
@@ -147,61 +153,61 @@ Course duration: 4 days
 Course fee: Euro 320.00
 
 We will have Stefan Goetz and Riccardo Alese Cigliano as instructors.
-=======
+==========================================
 La phrase 3 est en : ENG
 	This course has already been run here several times with a great deal  
 of success, as revealed by very positive feedback reports and  
 subsequent recruitment by word of mouth by satisfied attendees.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Course description:
 
 This is a combined course in RNA-seq and functional annotation aimed  
 at scientists working in next generation sequencing transcriptomics  
 who want to extract the best possible information from their data.
-=======
+==========================================
 La phrase 5 est en : FRA
 	The  
 course covers all aspects of RNA-seq analysis, from quality control,  
 to mapping, reconstruction of transcripts and differential expression.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Participants will learn how to deal with RNA-seq data both in the  
 presence and absence of a reference genome.
-=======
+==========================================
 La phrase 7 est en : ENG
 	The second part of the course is a practical workshop on Blast2GO, the  
 most popular framework for functional annotation of sequence data.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Participants will learn how to generate de novo functional labels,  
 such as GO terms and KEGG pathways, for their sequence data and how to  
 extract relevant information from these annotations, i.e.
-=======
+==========================================
 La phrase 9 est en : ENG
 	visualisation and enrichment analysis using the Gene Ontology.
-=======
+==========================================
 La phrase 10 est en : ENG
 	This  
 part will be based on the use of the Blast2GO application and will  
 mainly comprise exercises and practical cases.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Participants may bring  
 their own data.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Who should attend?
-=======
+==========================================
 La phrase 13 est en : ENG
 	Experimentalists and bioinformaticians working on  
 EST, NextGeneration Sequencing and microarray design projects,  
 specially (but not exclusively) of non-model species.
-=======
+==========================================
 La phrase 14 est en : ENG
 	No programming  
 knowledge is required.
-=======
+==========================================
 La phrase 15 est en : FRA
 	Thank you for your continued interest
 
@@ -232,4 +238,4 @@ Gtpb mailing list
 Gtpb@igc.gulbenkian.pt
 https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
-=======
+==========================================

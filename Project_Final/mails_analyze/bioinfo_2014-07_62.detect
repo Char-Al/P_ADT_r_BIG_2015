@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_62" est globalement en : FRA
+[('FRA', 0.49043199782682906), ('ENG', 2.8111004856640958)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Post-doc / IR] Ingénieur -bioinformaticien (ingénieurd’étude niveau 1)
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Ingénieur-bioinformaticien (ingénieur d’étude
 niveau 1)
@@ -20,16 +26,16 @@ Nom du contact : Oliver Bischof
 Email du contact : obischof@pasteur.fr
 Laboratoire : Institut Pasteur
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformaticien-ing%C3%A9nieur-d%E2%80%99%C3%A9tude-niveau-1
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -52,4 +58,4 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformaticien-ing%C3%A9nieur-d%E2%8
 
 
 
-=======
+==========================================

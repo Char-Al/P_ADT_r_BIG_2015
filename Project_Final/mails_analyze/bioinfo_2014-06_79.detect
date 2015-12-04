@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_79" est globalement en : ENG
+[('ENG', 0.4928604449265796), ('FRA', 0.9188690688477572)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Full time position - bioinformatics core facility - University of Luxembourg
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : ENG
 	The University of Luxembourg is a multilingual, international research University.
 The University of Luxembourg has the following vacancy within its Life Sciences Research Group at the Faculty of Science, Technology and Communication (FSTC).
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Bioinformatician (m/f) 
 	Permanent contract, full time 
@@ -17,21 +23,21 @@ Le paragraphe 2 est en : ENG
 	Employee status 
 The University of Luxembourg is seeking to appoint a scientist with a strong interdisciplinary background in Bioinformatics. The successful candidate will be active within the Life Sciences Research Unit and interact with the Bioinformatics Core Facility of the Luxembourg Center for Systems Biomedicine.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Mission
 The successful candidate will work together with the teams of LSRU to provide support and expertise in Bioinformatics within the frame of their projects. The candidate should be able to work independently, prioritise and manage a variety of tasks. He/she will contribute to data-mining of preprocessed data (e.g. microarrays, next generation sequencing, metabolomics, proteomics data provided by Centers). The candidate will develop novel Bioinformatics tools and approaches, in cooperation with the Bioinformatics Core Facility of the LCSB. He/she will organise training sessions in Bioinformatics for scientists and PhD students and may contribute to teaching activities (Bachelor in Life Sciences, Master in Integrated Systems Biology).
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Qualifications and Experience
 The candidate should be experienced with expression data analysis (microarrays, qPCR, etc.), with handling knowledge databases, resources and tools commonly used in Bioinformatics for sequence alignments, gene annotation, binding motif predictions, gene ontology and pathway analyses. Expertise in high throughput data analysis (NGS) and predictive network generation would be appreciated. Good knowledge of various high through-put technologies and platforms is expected. The candidate should be capable of making use of statistical methods commonly used in bioinformatics. Solid skills in IT, database management, programming languages, e.g. java, PERL, R, and in data visualisation are expected. 
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	For further information please contact Dr. Reinhard Schneider, reinhard.schneider@uni.lu .
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Profile
 	PhD degree in Bioinformatics, Computational Biology, and/or Biology with a proven track record in Bioinformatics, 
@@ -39,89 +45,89 @@ Le paragraphe 6 est en : ENG
 	Excellent organisational and communication skills; we are looking for a service-oriented personality who enjoys working with colleagues having different backgrounds and different Bioinformatics skills, and who is able to deal with multiple projects in parallel,
 	Excellent command of English language (written and spoken); knowledge of French and/or German will be considered as an advantage.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Please apply online (letter of motivation, CV, copies of degree certificates, names and contact details of two potential referees) until 16th July 2014 via the following link:  http://emea3.mrted.ly/euvx
 The University of Luxembourg is an equal opportunity employer. 
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : ENG
 	The University of Luxembourg is a multilingual, international research University.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The University of Luxembourg has the following vacancy within its Life Sciences Research Group at the Faculty of Science, Technology and Communication (FSTC).
-=======
+==========================================
 La phrase 3 est en : ENG
 	Bioinformatician (m/f) 
 	Permanent contract, full time 
 	Ref.
-=======
+==========================================
 La phrase 4 est en : ENG
 	F1-060004
 	Employee status 
 The University of Luxembourg is seeking to appoint a scientist with a strong interdisciplinary background in Bioinformatics.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The successful candidate will be active within the Life Sciences Research Unit and interact with the Bioinformatics Core Facility of the Luxembourg Center for Systems Biomedicine.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Mission
 The successful candidate will work together with the teams of LSRU to provide support and expertise in Bioinformatics within the frame of their projects.
-=======
+==========================================
 La phrase 7 est en : ENG
 	The candidate should be able to work independently, prioritise and manage a variety of tasks.
-=======
+==========================================
 La phrase 8 est en : ENG
 	He/she will contribute to data-mining of preprocessed data (e.g.
-=======
+==========================================
 La phrase 9 est en : ENG
 	microarrays, next generation sequencing, metabolomics, proteomics data provided by Centers).
-=======
+==========================================
 La phrase 10 est en : ENG
 	The candidate will develop novel Bioinformatics tools and approaches, in cooperation with the Bioinformatics Core Facility of the LCSB.
-=======
+==========================================
 La phrase 11 est en : ENG
 	He/she will organise training sessions in Bioinformatics for scientists and PhD students and may contribute to teaching activities (Bachelor in Life Sciences, Master in Integrated Systems Biology).
-=======
+==========================================
 La phrase 12 est en : FRA
 	Qualifications and Experience
 The candidate should be experienced with expression data analysis (microarrays, qPCR, etc.
-=======
+==========================================
 La phrase 13 est en : ENG
 	), with handling knowledge databases, resources and tools commonly used in Bioinformatics for sequence alignments, gene annotation, binding motif predictions, gene ontology and pathway analyses.
-=======
+==========================================
 La phrase 14 est en : ENG
 	Expertise in high throughput data analysis (NGS) and predictive network generation would be appreciated.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Good knowledge of various high through-put technologies and platforms is expected.
-=======
+==========================================
 La phrase 16 est en : ENG
 	The candidate should be capable of making use of statistical methods commonly used in bioinformatics.
-=======
+==========================================
 La phrase 17 est en : ENG
 	Solid skills in IT, database management, programming languages, e.g.
-=======
+==========================================
 La phrase 18 est en : FRA
 	java, PERL, R, and in data visualisation are expected.
-=======
+==========================================
 La phrase 19 est en : ENG
 	For further information please contact Dr. Reinhard Schneider, reinhard.schneider@uni.lu .
-=======
+==========================================
 La phrase 20 est en : ENG
 	Profile
 	PhD degree in Bioinformatics, Computational Biology, and/or Biology with a proven track record in Bioinformatics, 
 	A publication record in Bioinformatics with relevance to biological sciences,
 	Excellent organisational and communication skills; we are looking for a service-oriented personality who enjoys working with colleagues having different backgrounds and different Bioinformatics skills, and who is able to deal with multiple projects in parallel,
 	Excellent command of English language (written and spoken); knowledge of French and/or German will be considered as an advantage.
-=======
+==========================================
 La phrase 21 est en : ENG
 	Please apply online (letter of motivation, CV, copies of degree certificates, names and contact details of two potential referees) until 16th July 2014 via the following link:  http://emea3.mrted.ly/euvx
 The University of Luxembourg is an equal opportunity employer. 
 
-=======
+==========================================

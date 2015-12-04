@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_52" est globalement en : ENG
+[('ENG', 0.5865449684283051), ('FRA', 1.085364116237458)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Gtpb] Introductory Bioinformatics, Training Course IB14F
 
@@ -8,39 +14,39 @@ Subject : [bioinfo] [Gtpb] Introductory Bioinformatics, Training Course IB14F
 Le paragraphe 1 est en : FRA
 	     REMINDER
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	The training course "Introductory Bioinformatics" IB14F is open for  
 applications
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	This is our most popular course, with a low level of prerequisites and  
 providing valuable knowledge and skills, useful in virtually all areas  
 of Bioinformatics usage.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	IMPORTANT DATES for this Course
     Deadline for applications: March 31st 2014
    Latest notification of acceptance: March 31st 2014
     Course date: April 8th - April 11th 2014
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Candidates with adequate profile will be accepted in the next 72 hours  
 after the application until we reach 20 participants.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Please check the course website at:
 http://gtpb.igc.gulbenkian.pt/bicourses/IB14F/
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Thank you for your interest in the GTPB Programme.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Best wishes
 Pedro Fernandes
@@ -54,7 +60,7 @@ PORTUGAL
 Tel +351 21 4407912
 http://gtpb.igc.gulbenkian.pt
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	_______________________________________________
 Gtpb mailing list
@@ -62,7 +68,7 @@ Gtpb@igc.gulbenkian.pt
 https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -76,7 +82,7 @@ applications
 This is our most popular course, with a low level of prerequisites and  
 providing valuable knowledge and skills, useful in virtually all areas  
 of Bioinformatics usage.
-=======
+==========================================
 La phrase 2 est en : ENG
 	IMPORTANT DATES for this Course
     Deadline for applications: March 31st 2014
@@ -85,13 +91,13 @@ La phrase 2 est en : ENG
 
 Candidates with adequate profile will be accepted in the next 72 hours  
 after the application until we reach 20 participants.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Please check the course website at:
 http://gtpb.igc.gulbenkian.pt/bicourses/IB14F/
 
 Thank you for your interest in the GTPB Programme.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Best wishes
 Pedro Fernandes
@@ -114,4 +120,4 @@ Gtpb mailing list
 Gtpb@igc.gulbenkian.pt
 https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_78" est globalement en : FRA
+[('ENG', 0.5818235692503994), ('FRA', 0.7428243428323316)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-Doctoral Position on Novel FFT Docking Techniques
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Post-Doctoral Position on Novel FFT 
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Post-Doctoral Position on Novel FFT Docking Techniques
 Type de poste : Post-doc / IR
@@ -18,13 +24,13 @@ Nom du contact : Sergei Grudinin
 Email du contact : sergei.grudinin@inria.fr
 Laboratoire : INRIA
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doctoral-position-novel-fft-docking-techniques
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : INRIA
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doctoral-position-novel-fft-docking-techniques
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_43" est globalement en : FRA
+[('FRA', 0.8096300230795184), ('ENG', 1.2696652674524123)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] bio-informaticien
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDD Ingénieur ] bio-informaticien
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : bio-informaticien
 Type de poste : CDD Ingénieur
@@ -18,16 +24,16 @@ Nom du contact : Dr. Anne-Sophie LIA
 Email du contact : asliabaldini@unilim.fr
 Laboratoire : Service de Biochimie et de Génétique Moléculaire - CHU Limoges
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/bio-informaticien
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -48,4 +54,4 @@ http://www.sfbi.fr/content/bio-informaticien
 
 
 
-=======
+==========================================

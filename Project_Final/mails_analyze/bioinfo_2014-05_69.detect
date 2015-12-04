@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_69" est globalement en : ENG
+[('ENG', 0.3813377335736108), ('FRA', 0.40484992212281995)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Biostatistician Research Assistant, University of Queensland, Brisbane, Australia
 
@@ -8,12 +14,12 @@ Subject : [bioinfo] Biostatistician Research Assistant, University of Queensland
 Le paragraphe 1 est en : FRA
 	Dear all,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	We are opening a Research Assistant position in my lab. See following link:
 http://jobs.uq.edu.au/caw/en/job/496071/research-assistant-biostatistician
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	-- 
 Dr. Kim-Anh Le Cao
@@ -29,7 +35,7 @@ T: +61 (0)7 3443 7069| F: +61 (0)7 3443 6966
 http://www.tri.edu.au/staff/kim-anh-le-cao
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -38,7 +44,7 @@ La phrase 1 est en : ENG
 	Dear all,
 
 We are opening a Research Assistant position in my lab.
-=======
+==========================================
 La phrase 2 est en : ENG
 	See following link:
 http://jobs.uq.edu.au/caw/en/job/496071/research-assistant-biostatistician
@@ -56,4 +62,4 @@ T: +61 (0)7 3443 7069| F: +61 (0)7 3443 6966
  
 http://www.tri.edu.au/staff/kim-anh-le-cao
 
-=======
+==========================================

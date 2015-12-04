@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_91" est globalement en : FRA
+[('FRA', 0.3515365679022345), ('ENG', 0.7801834186319984)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] ESCS student symposium, présenter et publier, avant le 30 juin
 
@@ -8,56 +14,56 @@ Subject : [bioinfo] ESCS student symposium, présenter et publier, avant le 30 j
 Le paragraphe 1 est en : FRA
 	Bonjour à tous,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	ESCS2014 est une excellente opportunité pour les jeunes chercheurs de présenter leurs travaux à leurs collègues dans un contexte international et de publier leur abstract dans un numéro spécial de BMC bioinformatics.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Soumission avant le 30 juin !
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Au plaisir de vous voir à Strasbourg,
 Magali
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	===
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Dear Colleagues,
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Due to popular demand, we have decided to extend the abstract submission deadline for the 3rd European Symposium of the International Society for Computational Biology Student Council until the 30th of June. We welcome abstracts covering scientific studies as well as novel tools and applications in the fields of computational biology and bioinformatics. As in previous editions, awards will be given to outstanding posters and presentations. All abstracts accepted for oral presentation will be published in a special issue of the BMC Bioinformatics journal.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	ESCS2014 is to be held on September 6th 2014 in Strasbourg, France, as a satellite meeting of the European Conference on Computational Biology (ECCB) and will bring together young computational biologists from several research areas and regions of the world. This is your chance to present your work to an international audience of young scientists! In addition, we are proud to host three keynotes from distinguished scientists: Dr. Lennart Martens from the University of Ghent, Dr. Jeroen de Ridder from the Delft University of Technology and Dr. Lars Juhl Jensen from Technical University of Denmark.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Submission information: http://escs2014.iscbsc.org/escs-submission
 General information and program: http://escs.iscbsc.org/
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	Important dates
 April 24, 2014: Abstract submission opens 
 June 30, 2014: Abstract submission closes EXTENDED!
 July 15, 2014: Abstract acceptance notifications
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	We look forward to receiving your abstract!
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	On behalf of the ESCS organizers,
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	Pieter Meysman
 Chair, 3rd European Student Council Symposium 2014
@@ -65,7 +71,7 @@ Margherita Francescatto
 Co-Chair, 3rd European Student Council Symposium 2014
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -74,10 +80,10 @@ La phrase 1 est en : FRA
 	Bonjour à tous,
 
 ESCS2014 est une excellente opportunité pour les jeunes chercheurs de présenter leurs travaux à leurs collègues dans un contexte international et de publier leur abstract dans un numéro spécial de BMC bioinformatics.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Soumission avant le 30 juin !
-=======
+==========================================
 La phrase 3 est en : FRA
 	Au plaisir de vous voir à Strasbourg,
 Magali
@@ -88,25 +94,25 @@ Magali
 Dear Colleagues,
 
 Due to popular demand, we have decided to extend the abstract submission deadline for the 3rd European Symposium of the International Society for Computational Biology Student Council until the 30th of June.
-=======
+==========================================
 La phrase 4 est en : ENG
 	We welcome abstracts covering scientific studies as well as novel tools and applications in the fields of computational biology and bioinformatics.
-=======
+==========================================
 La phrase 5 est en : ENG
 	As in previous editions, awards will be given to outstanding posters and presentations.
-=======
+==========================================
 La phrase 6 est en : ENG
 	All abstracts accepted for oral presentation will be published in a special issue of the BMC Bioinformatics journal.
-=======
+==========================================
 La phrase 7 est en : ENG
 	ESCS2014 is to be held on September 6th 2014 in Strasbourg, France, as a satellite meeting of the European Conference on Computational Biology (ECCB) and will bring together young computational biologists from several research areas and regions of the world.
-=======
+==========================================
 La phrase 8 est en : ENG
 	This is your chance to present your work to an international audience of young scientists!
-=======
+==========================================
 La phrase 9 est en : ENG
 	In addition, we are proud to host three keynotes from distinguished scientists: Dr. Lennart Martens from the University of Ghent, Dr. Jeroen de Ridder from the Delft University of Technology and Dr. Lars Juhl Jensen from Technical University of Denmark.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Submission information: http://escs2014.iscbsc.org/escs-submission
 General information and program: http://escs.iscbsc.org/
@@ -114,12 +120,12 @@ General information and program: http://escs.iscbsc.org/
 Important dates
 April 24, 2014: Abstract submission opens 
 June 30, 2014: Abstract submission closes EXTENDED!
-=======
+==========================================
 La phrase 11 est en : ENG
 	July 15, 2014: Abstract acceptance notifications
 
 We look forward to receiving your abstract!
-=======
+==========================================
 La phrase 12 est en : ENG
 	On behalf of the ESCS organizers,
 
@@ -128,4 +134,4 @@ Chair, 3rd European Student Council Symposium 2014
 Margherita Francescatto
 Co-Chair, 3rd European Student Council Symposium 2014
 
-=======
+==========================================

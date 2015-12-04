@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_4" est globalement en : ENG
+[('FRA', 0.4501384829801502), ('ENG', 0.5694717434538931)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] postdoc position on algorithms for NGS data at LIGM Marne-la- Vallée
 
@@ -8,11 +14,11 @@ Subject : [bioinfo] postdoc position on algorithms for NGS data at LIGM Marne-la
 Le paragraphe 1 est en : ENG
 	We offer a one-year position of
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Postdoctoral Research Fellow
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	to work on computational methods and algorithms for processing Next-Generation 
 Sequencing data. This includes algorithms for mapping and assembling NGS reads, 
@@ -20,46 +26,46 @@ calling structural variations, representing and working with multiple genomic se
 (pan-genomes), and other related problems. Applications to cancer data are particularly 
 targeted.  
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	The position will be funded by the ABS4NGS project which is a French consortium 
 including several groups of mathematicians, statisticians, computer scientists and biologists. 
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	The postdoctoral fellow will work in the Laboratoire d'Informatique Gaspard-Monge (LIGM)
 at the Paris-Est University in Marne-la-Vallée. Specifically, (s)he will a part of the AlgoB group
 specialized in the design of efficient algorithms for various bioinformatics problems. 
 Interactions with other partners of the ABS4NGS project are expected. 
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	The LIGM laboratory is located in the eastern suburb of Paris (~20km) and is conveniently 
 connected to downtown Paris by a suburb train (~20min). 
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Applicants should have a PhD in computer science or computational biology. Required 
 skills include good knowledge in discrete mathematics and algorithms. Skills in programming 
 and an aptitude for software experimentation is also expected.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	The starting date is flexible but is expected to be before end 2014. 
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Inquiries and applications should be sent to
 Gregory.Kucherov@univ-mlv.fr
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	related links: 
 AlgoB: http://igm.univ-mlv.fr/AlgoB/
 LIGM (french): http://ligm.u-pem.fr/
 ABS4NGS: https://sites.google.com/site/abs4ngs/
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -71,49 +77,49 @@ Postdoctoral Research Fellow
 
 to work on computational methods and algorithms for processing Next-Generation 
 Sequencing data.
-=======
+==========================================
 La phrase 2 est en : ENG
 	This includes algorithms for mapping and assembling NGS reads, 
 calling structural variations, representing and working with multiple genomic sequences
 (pan-genomes), and other related problems.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Applications to cancer data are particularly 
 targeted.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The position will be funded by the ABS4NGS project which is a French consortium 
 including several groups of mathematicians, statisticians, computer scientists and biologists.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The postdoctoral fellow will work in the Laboratoire d'Informatique Gaspard-Monge (LIGM)
 at the Paris-Est University in Marne-la-Vallée.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Specifically, (s)he will a part of the AlgoB group
 specialized in the design of efficient algorithms for various bioinformatics problems.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Interactions with other partners of the ABS4NGS project are expected.
-=======
+==========================================
 La phrase 8 est en : ENG
 	The LIGM laboratory is located in the eastern suburb of Paris (~20km) and is conveniently 
 connected to downtown Paris by a suburb train (~20min).
-=======
+==========================================
 La phrase 9 est en : ENG
 	Applicants should have a PhD in computer science or computational biology.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Required 
 skills include good knowledge in discrete mathematics and algorithms.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Skills in programming 
 and an aptitude for software experimentation is also expected.
-=======
+==========================================
 La phrase 12 est en : FRA
 	The starting date is flexible but is expected to be before end 2014.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Inquiries and applications should be sent to
 Gregory.Kucherov@univ-mlv.fr
@@ -122,4 +128,4 @@ related links:
 AlgoB: http://igm.univ-mlv.fr/AlgoB/
 LIGM (french): http://ligm.u-pem.fr/
 ABS4NGS: https://sites.google.com/site/abs4ngs/
-=======
+==========================================

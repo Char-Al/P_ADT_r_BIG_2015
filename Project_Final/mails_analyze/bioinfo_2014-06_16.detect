@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_16" est globalement en : FRA
+[('ENG', 0.4987459748896569), ('FRA', 0.5091278270160513)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Master ISDD (M1, M2) / Candidatures
 
@@ -52,7 +58,7 @@ Le paragraphe 1 est en : FRA
 > http://petitjeanmichel.free.fr/itoweb.petitjean.freeware.html
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -61,7 +67,7 @@ La phrase 1 est en : FRA
 	> Les candidatures au Master 1 et 2 "In Silico Drug Design" appelé aussi
 > "Innovation thérapeutique assistée par ordinateur a l’interface chimie
 > biologie" sont ouvertes.
-=======
+==========================================
 La phrase 2 est en : FRA
 	>
 > Ce master forme des professionnels(les) du privé et du public, au
@@ -69,19 +75,19 @@ La phrase 2 est en : FRA
 > santé publique, à l’aide des approches in silico dans le domaine de
 > l’innovation thérapeutique et/ou orientés vers le développement de
 > molécules pharmacologiques.
-=======
+==========================================
 La phrase 3 est en : FRA
 	>
 > L’interdisciplinarite et l’internationalisation de ce master est
 > ouvert aux etudiants desireux de travailler a l’interface de la
 > chimie, la biologie et l’informatique.
-=======
+==========================================
 La phrase 4 est en : FRA
 	> Ce master acceuille des étudiants de diverses formations initiales
 > (universitaires ou ecoles d’ingenieurs) en biochimie, chimie,
 > biologie, biologie-informatique, secteur medical, pharmacie, sciences
 > bio-médicales.
-=======
+==========================================
 La phrase 5 est en : FRA
 	>
 > Les dossiers de candidatures et toutes les informations utiles sont
@@ -106,11 +112,11 @@ La phrase 5 est en : FRA
 > Michel Petitjean
 > MTi, INSERM UMR-S 973, University Paris 7,
 > 35 rue Helene Brion, 75205 Paris Cedex 13, France.
-=======
+==========================================
 La phrase 6 est en : ENG
 	> Phone: +331 5727 8434; Fax: +331 5727 8372
 > E-mail: petitjean.chiral@gmail.com (preferred),
 >             michel.petitjean@univ-paris-diderot.fr
 > http://petitjeanmichel.free.fr/itoweb.petitjean.freeware.html
 
-=======
+==========================================

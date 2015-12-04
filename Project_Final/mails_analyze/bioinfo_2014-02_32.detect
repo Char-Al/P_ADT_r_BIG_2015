@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_32" est globalement en : FRA
+[('ENG', 0.39294459507831414), ('FRA', 0.7235169268012586)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doc position in genome organization and its influence on gene regulation.
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doc position in genome organiza
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Post-doc position in genome organization and its  
 influence on gene regulation.
@@ -19,13 +25,13 @@ Nom du contact : Moussa Benhamed
 Email du contact : moussa.benhamed@u-psud.fr
 Laboratoire : Chromatin and Development
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-position-genome-organization-and-its-influence-gene-regulation
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -35,7 +41,7 @@ La phrase 1 est en : FRA
 
 Intitulé du poste : Post-doc position in genome organization and its  
 influence on gene regulation.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Type de poste : Post-doc / IR
 Durée du poste : 2 years
@@ -47,4 +53,4 @@ Laboratoire : Chromatin and Development
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-position-genome-organization-and-its-influence-gene-regulation
 
-=======
+==========================================

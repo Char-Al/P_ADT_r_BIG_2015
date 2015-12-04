@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_30" est globalement en : FRA
+[('ENG', 0.32176426267473324), ('FRA', 0.6799555129967362)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Soutenance de HDR
 
@@ -8,19 +14,19 @@ Subject : [bioinfo] Soutenance de HDR
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	J'ai le plaisir de vous inviter à la soutenance de mon Habilitation à
 Diriger des Recherches qui s'intitule : "Bioinformatique des ARNs
 non-codants : Algorithmes pour leur identification et la prédiction de
 leur structure", ainsi qu'au pot suivra.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	La soutenance se déroulera le jeudi 17 juillet à 14h dans le petit
 amphithéâtre de l'IBGBI, 23 bv. de France, Evry.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Le jury est composé de :
 Rapporteurs :
@@ -34,11 +40,11 @@ Examinateurs :
 - Daniel Gautheret, Professeur, Université de Paris Sud
 - Mireille Régnier, Directeur de Recherche, INRIA/LIX
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Cordialement
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	-----
 Fariza Tahi
@@ -50,11 +56,11 @@ Equipe AROBAS
 https://www.ibisc.univ-evry.fr/~tahi/
 Téléphone : 33 (0) 1 64 85 34 63
 
-=======
-Le paragraphe 7 est en : non detect
+==========================================
+Le paragraphe 7 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -66,14 +72,14 @@ J'ai le plaisir de vous inviter à la soutenance de mon Habilitation à
 Diriger des Recherches qui s'intitule : "Bioinformatique des ARNs
 non-codants : Algorithmes pour leur identification et la prédiction de
 leur structure", ainsi qu'au pot suivra.
-=======
+==========================================
 La phrase 2 est en : FRA
 	La soutenance se déroulera le jeudi 17 juillet à 14h dans le petit
 amphithéâtre de l'IBGBI, 23 bv.
-=======
+==========================================
 La phrase 3 est en : ENG
 	de France, Evry.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Le jury est composé de :
 Rapporteurs :
@@ -94,7 +100,7 @@ Fariza Tahi
 Maître de Conférences
 Université dEvry-Val dEssonne
 IBISC EA 4526, Bât.
-=======
+==========================================
 La phrase 5 est en : ENG
 	IBGBI, 23 bd de France
 91037 cedex Evry France
@@ -103,4 +109,4 @@ https://www.ibisc.univ-evry.fr/~tahi/
 Téléphone : 33 (0) 1 64 85 34 63
 
 
-=======
+==========================================

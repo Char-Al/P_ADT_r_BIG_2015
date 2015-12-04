@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_30" est globalement en : FRA
+[('ENG', 0.7078016884892839), ('FRA', 1.6300676001344818)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Systems Biology
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Systems Biology
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Intitulé du poste : Systems Biology
 Type de poste : Post-doc / IR
@@ -18,13 +24,13 @@ Nom du contact : Jens Nielsen
 Email du contact : nielsenj@chalmers.se
 Laboratoire : Chalmers University of Technology
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/systems-biology-2
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : Chalmers University of Technology
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/systems-biology-2
 
-=======
+==========================================

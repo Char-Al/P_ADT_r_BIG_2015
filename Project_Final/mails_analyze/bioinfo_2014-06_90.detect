@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_90" est globalement en : FRA
+[('FRA', 0.4994638801412393), ('ENG', 0.8628002126194987)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Concours CNRS Ingénieur d'Etude Bioinfo (ENS Paris) 
 
@@ -8,37 +14,37 @@ Subject : [bioinfo] Concours CNRS Ingénieur d'Etude Bioinfo (ENS Paris)
 Le paragraphe 1 est en : FRA
 	Un concours externe est ouvert au CNRS pour le recrutement d’un Ingénieur d’Etude BAP A en Bioinformatique sur la Plateforme de L’Institut de Biologie de l’ENS (IBENS). 
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Pour candidater: (attention, inscription au concours en ligne jusqu’au 27 juin)
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	http://www.dgdr.cnrs.fr/drhita/concoursita/
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Détail du poste à pourvoir: 
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Concours N° 26
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Délégation organisatrice : Ile-de-France Ouest et Nord (DR 05) (MEUDON)
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	 
 Nbre de postes :	1
 Emploi-type :	ingénieur en traitement de données biologiques
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Affectation :	Institut de biologie de l'Ecole Normale Supérieure, PARIS
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Mission :	 
 L'ingénieur aura pour mission la mise en oeuvre des différents outils informatiques et bioinformatiques nécessaires au stockage, au traitement, à l'analyse et à la visualisation des données de génomique.
@@ -67,24 +73,24 @@ Compétences :
 - ANGLAIS : Compréhension écrite et orale : niveau 2 Expression écrite et orale : niveau 1
  
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Contexte :	 
 Le ou la titulaire du poste sera affecté à l'Institut de Biologie de l’Ecole Normale Supérieure (IBENS) et sera rattaché à la plateforme de biologie computationnelle et bio-informatique sous la direction du responsable de la plateforme. Ce service est composé de 4 personnes.
 Il/elle sera en relation étroite avec les groupes de biologie avec lesquels il/elle interagira sur des projets définis en objectif et en temps en collaboration avec les chefs d'équipe impliqués.
 
-=======
-Le paragraphe 11 est en : non detect
+==========================================
+Le paragraphe 11 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : FRA
 	Un concours externe est ouvert au CNRS pour le recrutement d’un Ingénieur d’Etude BAP A en Bioinformatique sur la Plateforme de L’Institut de Biologie de l’ENS (IBENS).
-=======
+==========================================
 La phrase 2 est en : FRA
 	Pour candidater: (attention, inscription au concours en ligne jusqu’au 27 juin)
 
@@ -105,15 +111,15 @@ Affectation :	Institut de biologie de l'Ecole Normale Supérieure, PARIS
 
 Mission :	 
 L'ingénieur aura pour mission la mise en oeuvre des différents outils informatiques et bioinformatiques nécessaires au stockage, au traitement, à l'analyse et à la visualisation des données de génomique.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Il/elle aura également pour mission d'assurer au sein de la plateforme de bioinformatique et en concertation avec les plateformes de génomique et le service informatique, la mise en oeuvre d'applications bioinformatiques directement utilisables par les biologistes et la formation de ceux-ci.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Activités :	 
 - Mettre en place les procédures de recueil et de contrôle des données issues du séquençage à très haut débit (ChIP-Seq, BS-seq, RNA-seq, etc')
 - Réaliser le traitement des données visant notamment à l'identification des états chromatiniens et des sites de fixation de protéines particulières le long d'un génome ainsi que la caractérisation de différentes classes d'ARN (ARN messagers ; ARN non-codants : miRNA, siRNA, lncRNAs ; etc.)
-=======
+==========================================
 La phrase 5 est en : FRA
 	- Organiser la mise en forme, le stockage des données
 - Assurer, en collaboration avec le service informatique, la maintenance des bases de données créées 
@@ -125,22 +131,22 @@ La phrase 5 est en : FRA
 Compétences :	 
 - Formation en bioinformatique
 - Connaissances solides en informatique (maîtrise d'un ou plusieurs langages de programmation, bases de données) et en bioinformatique (comparaison de séquences, analyses NGS, programmation R, etc.)
-=======
+==========================================
 La phrase 6 est en : FRA
 	- Expertise en statistiques et connaissances générales en biologie requises
 - Expérience nécessaire dans l'analyse de données issues des technologies à très haut débit (RNA-seq, ChIP-seq, ...) 
 - Maîtrise de l'anglais scientifique et technique
 - Expérience interdisciplinaire appréciée (biologie, bioinformatique, informatique, statistique, modélisation, etc.).
-=======
+==========================================
 La phrase 7 est en : FRA
 	- Etre autonome et assurer la veille technologique sur les domaines de sa compétence.
-=======
+==========================================
 La phrase 8 est en : FRA
 	- Former les utilisateurs et les stagiaires sur les outils bioinformatiques développés.
-=======
+==========================================
 La phrase 9 est en : FRA
 	- Une expérience dans un des domaines suivants sera considérée comme un atout mais n'est pas indispensable: 1) génomique des plantes et plus précisément le modèle Arabidopsis thaliana.
-=======
+==========================================
 La phrase 10 est en : FRA
 	2) CLIPSeq, 3) analyse en génomique fonctionnelle
 - ANGLAIS : Compréhension écrite et orale : niveau 2 Expression écrite et orale : niveau 1
@@ -148,12 +154,12 @@ La phrase 10 est en : FRA
 
 Contexte :	 
 Le ou la titulaire du poste sera affecté à l'Institut de Biologie de l’Ecole Normale Supérieure (IBENS) et sera rattaché à la plateforme de biologie computationnelle et bio-informatique sous la direction du responsable de la plateforme.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Ce service est composé de 4 personnes.
-=======
+==========================================
 La phrase 12 est en : FRA
 	Il/elle sera en relation étroite avec les groupes de biologie avec lesquels il/elle interagira sur des projets définis en objectif et en temps en collaboration avec les chefs d'équipe impliqués.
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_59" est globalement en : FRA
+[('ENG', 0.7898524969191225), ('FRA', 1.3695470705348205)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] bioinformatics officer
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : bioinformatics officer
 Type de poste : Post-doc / IR
@@ -19,16 +25,16 @@ Nom du contact : Pau Leo
 Email du contact : p.leo@uq.edu.au
 Laboratoire : the University of Queensland Diamantina Institute
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/bioinformatics-officer
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ http://www.sfbi.fr/content/bioinformatics-officer
 
 
 
-=======
+==========================================

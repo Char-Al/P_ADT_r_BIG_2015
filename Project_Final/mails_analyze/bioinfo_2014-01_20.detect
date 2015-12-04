@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_20" est globalement en : FRA
+[('FRA', 0.16129417953350597), ('ENG', 0.3826955612076814)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] Stage de recherche M2, structur  e d'indexation pour le suivi de la leucémie
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Stage de recherche M2, structur  e d'indexat
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Stage de recherche M2, structure d'indexation pour le  
 suivi de la leucémie
@@ -20,13 +26,13 @@ Email du contact : mathieu.giraud@lifl.fr
 Laboratoire : équipe Bonsai, Laboratoire d'Informatique Fondamentale de  
 Lille (LIFL, Univ. Lille 1, CNRS) et Inria Lille
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-de-recherche-m2-structure-dindexation-pour-le-suivi-de-la-leuc%C3%A9mie
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,11 +49,11 @@ Nom du contact : Mathieu Giraud
 Email du contact : mathieu.giraud@lifl.fr
 Laboratoire : équipe Bonsai, Laboratoire d'Informatique Fondamentale de  
 Lille (LIFL, Univ.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Lille 1, CNRS) et Inria Lille
 
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-de-recherche-m2-structure-dindexation-pour-le-suivi-de-la-leuc%C3%A9mie
 
-=======
+==========================================

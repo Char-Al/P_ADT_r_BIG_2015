@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_43" est globalement en : ENG
+[('ENG', 0.3302561300224145), ('FRA', 1.2020735415812522)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Workshop "Sorting, Simulating and Decoding Cells: Lineages, Networks
  and Systems", Marseille, July 1-2, 2014
@@ -9,21 +15,21 @@ Subject : [bioinfo] Workshop "Sorting, Simulating and Decoding Cells: Lineages, 
 Le paragraphe 1 est en : ENG
 	WORKSHOP
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	"Sorting, Simulating, and Decoding Cells: Lineages, Networks, and Systems"
 Marseille (France), July 1-2, 2014
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	hosted by IMéRA Institute Méditerranéen de Recherches Avancées, Marseille
 (France), http://www.imera.fr/
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Extended deadline: *May 30, 2014*
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Over the last decades, computer technology has changed the praxis of the
 life sciences radically. Before computational biology, biologists employed
@@ -44,7 +50,7 @@ computational software encompass an immense number of data, when compared
 to the limited number of cells the biologists of the 19th century had to
 identify.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	This IMéRA workshop will address the issues of (1) how to handle 'big
 biological data' with the means of devices, practices, and models, and (2)
@@ -57,7 +63,7 @@ around 1900. For, we want to critically examine in which aspects the old
 and new practices of data accumulation and analyses resemble to or differ
 from each other.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Instead of a textual abstract we prefer the proposal of a title,
 supplemented by images, as we want to bring about an intellectually
@@ -69,7 +75,7 @@ organize the workshop around visual and theoretical arguments on past and
 present modes of cell mapping. We plan to print the best images for a
 poster exhibition at IMéRA.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	We welcome contributions from young scientists and scholars from different
 disciplines (e.g., life sciences, history and philosophy of science, or
@@ -79,32 +85,32 @@ contributions that elucidate and advance the issues and themes of our
 workshop dealing with the experimental, conceptual and visual knowledge of
 cells from the 19th century to the 21st century.
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Extended deadline for proposals: *May 30, 2014*.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	We will inform about the accepted proposals by early June, 2014.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	For any further question about the workshop, or for submitting a proposal,
 please send your query/proposal to sabine.brauckmann@gmail.com
 <mailto:sabine.brauckmann@gmail.com>.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Confirmed participants include (in alphabetical order): Matthias Bruhn
 (Humboldt University Berlin), Ariane Dröscher (University of Bologna), Sara
 Franceschelli (ENS Lyon), Pierre-Francois Lenne (IBDML, Marseille), Nadine
 Levin (Exeter University),
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	ORGANIZERS
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	Sabine Brauckmann, IMéRA Marseille (France), sabine.brauckmann@gmail.com
 <mailto:sabine.brauckmann@gmail.com>
@@ -115,7 +121,7 @@ Denis Thieffry, ENS Paris (France), thieffry@ens.fr
 Bruno Vila, IMBE, Aix-Marseille Université (France), bruno.vila@imbe.fr
 <mailto:bruno.vila@imbe.fr>
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	-- 
 Prof. Denis THIEFFRY
@@ -123,11 +129,11 @@ Ecole Normale Supérieure - Département de Biologie
 IBENS - UMR ENS - CNRS 8197 - INSERM 1024
 46 rue d'Ulm, 75230 Paris Cedex 05
 
-=======
-Le paragraphe 16 est en : non detect
+==========================================
+Le paragraphe 16 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -145,20 +151,20 @@ Extended deadline: *May 30, 2014*
 
 Over the last decades, computer technology has changed the praxis of the
 life sciences radically.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Before computational biology, biologists employed
 the microscopic eye, hands, paper and pen to observe, detail, order and
 classify the mass of dividing and multiplicating cells into a system of
 lines and connecting nodes.
-=======
+==========================================
 La phrase 3 est en : ENG
 	For example, by arithmetic tagging, which was
 early introduced by botanists, the cell observers of the 19th century
 traced each cell and its descendants, finally condensing the vast number of
 dividing cells into the mapped figures of horizontal 'ball embryos' and the
 vertical diagrams of cell lineage.
-=======
+==========================================
 La phrase 4 est en : ENG
 	These diagrams, the shape of which
 partly resembles computational flow charts, became a convincing and
@@ -166,78 +172,78 @@ long-lasting visual argument for the cellular (and later genetic) processes
 of biological development, comparable to regulatory genetic networks, the
 time-lapse samples of video-microscopy, or maps of cell fate specification
 nowadays.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Both modes of graphic representation are mapped images, both
 consist of parameters and data.
-=======
+==========================================
 La phrase 6 est en : ENG
 	However, the coded graphs generated by
 computational software encompass an immense number of data, when compared
 to the limited number of cells the biologists of the 19th century had to
 identify.
-=======
+==========================================
 La phrase 7 est en : ENG
 	This IMéRA workshop will address the issues of (1) how to handle 'big
 biological data' with the means of devices, practices, and models, and (2)
 how to convert the information into knowledge and novel understanding of
 biological development.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Our main objective here is to contrast the most
 recent visual representation of molecular cell biology, EvoDevo, and
 computational systems biology to the manual visualization of comparative
 embryology (or developmental history), classic cytology and (cyto)genetics
 around 1900.
-=======
+==========================================
 La phrase 9 est en : ENG
 	For, we want to critically examine in which aspects the old
 and new practices of data accumulation and analyses resemble to or differ
 from each other.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Instead of a textual abstract we prefer the proposal of a title,
 supplemented by images, as we want to bring about an intellectually
 stimulating and perspective discussion about the diverse modes of mapping
 cells.
-=======
+==========================================
 La phrase 11 est en : ENG
 	The images/figures can be a historical one with an iconic
 significance nowadays, an original or a redesigned figure, improving a
 classic or well-established visualization.
-=======
+==========================================
 La phrase 12 est en : ENG
 	For, our intention is to
 organize the workshop around visual and theoretical arguments on past and
 present modes of cell mapping.
-=======
+==========================================
 La phrase 13 est en : ENG
 	We plan to print the best images for a
 poster exhibition at IMéRA.
-=======
+==========================================
 La phrase 14 est en : ENG
 	We welcome contributions from young scientists and scholars from different
 disciplines (e.g., life sciences, history and philosophy of science, or
 history of technology, art history).
-=======
+==========================================
 La phrase 15 est en : ENG
 	To engage in lively debates, we are
 especially interested in experimental, visual, conceptual and historical
 contributions that elucidate and advance the issues and themes of our
 workshop dealing with the experimental, conceptual and visual knowledge of
 cells from the 19th century to the 21st century.
-=======
+==========================================
 La phrase 16 est en : FRA
 	Extended deadline for proposals: *May 30, 2014*.
-=======
+==========================================
 La phrase 17 est en : ENG
 	We will inform about the accepted proposals by early June, 2014.
-=======
+==========================================
 La phrase 18 est en : ENG
 	For any further question about the workshop, or for submitting a proposal,
 please send your query/proposal to sabine.brauckmann@gmail.com
 <mailto:sabine.brauckmann@gmail.com>.
-=======
+==========================================
 La phrase 19 est en : ENG
 	Confirmed participants include (in alphabetical order): Matthias Bruhn
 (Humboldt University Berlin), Ariane Dröscher (University of Bologna), Sara
@@ -264,4 +270,4 @@ IBENS - UMR ENS - CNRS 8197 - INSERM 1024
 46 rue d'Ulm, 75230 Paris Cedex 05
 
 
-=======
+==========================================

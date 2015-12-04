@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_40" est globalement en : FRA
+[('ENG', 0.5674469305392055), ('FRA', 0.9610824997807516)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Postdoctoral Position Bioinformatics / Systems Biology
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Postdoctoral Position Bioinformatics
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Intitulé du poste : Postdoctoral Position Bioinformatics / Systems Biology
 Type de poste : Post-doc / IR
@@ -19,13 +25,13 @@ Email du contact : llarrondo@bio.puc.cl
 Laboratoire : Millennium Nucleus in Fungal Integrative and Synthetic Biology  
 (MN-FIBS)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/postdoctoral-position-bioinformatics-systems-biology
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : Millennium Nucleus in Fungal Integrative and Synthetic Biology
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/postdoctoral-position-bioinformatics-systems-biology
 
-=======
+==========================================

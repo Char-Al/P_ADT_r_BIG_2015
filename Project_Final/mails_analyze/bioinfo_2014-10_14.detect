@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_14" est globalement en : ENG
+[('ENG', 1.530818195104668), ('FRA', 3.581082846066728)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] 2 PhD positions at Zurich
 
@@ -9,11 +15,11 @@ Le paragraphe 1 est en : FRA
 	
 De la part de Maria Anisimova :
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Two Ph.D. student positions in computational science and phylogenetics
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Two three-year Ph.D. studentships in computational science and 
 phylogenetics are available jointly at the University of Zurich (UZH) 
@@ -21,7 +27,7 @@ and the Zurich University of Applied Sciences (ZHAW). The research
 project will focus on computational and statistical aspects of the 
 alignment and phylogenetic tree estimation.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	The project is collaboration between the Applied Computational Genomics 
 group of Maria Anisimova (Institute of Applied Simulations, ZHAW) and 
@@ -31,7 +37,7 @@ wide ranging expertise in computational biology. In addition, the
 candidates will benefit from the group membership in the Swiss Institute 
 of Bioinformatics, providing further training and networking opportunities.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	The successful candidate will have a strong background in computational 
 science, including computational statistics, algorithmics, statistical 
@@ -41,7 +47,7 @@ knowledge in phylogenetics is a plus but is not required. The candidate
 is expected to develop a background in phylogenetics and molecular 
 evolution.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	We are looking for an individual with a masters degree or equivalent, 
 who is highly self-motivated and can work independently. The working 
@@ -49,7 +55,7 @@ language in the team is English. German skills, although helpful for
 day-to-day life, are not essential. Ideally, the candidate would be able 
 to start on the 1st of February 2015.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	To be considered, please send a single (!) PDF file merged from the 
 following parts to maria.anisimova@zhaw.ch: CV including publication 
@@ -59,7 +65,7 @@ three references. Please include "JATI2014" in the subject line of your
 email. The application deadline is the 1st of November 2014, but the 
 candidates will be considered until the positions are filled.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	-- 
 Directeur de Recherche
@@ -71,11 +77,11 @@ BAT 5, 860 rue de St Priest
 04 67 41 85 47 - gascuel@lirmm.fr
 http://www.lirmm.fr/gascuel
 
-=======
-Le paragraphe 9 est en : non detect
+==========================================
+Le paragraphe 9 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -89,79 +95,79 @@ Two Ph.D. student positions in computational science and phylogenetics
 Two three-year Ph.D. studentships in computational science and 
 phylogenetics are available jointly at the University of Zurich (UZH) 
 and the Zurich University of Applied Sciences (ZHAW).
-=======
+==========================================
 La phrase 2 est en : ENG
 	The research 
 project will focus on computational and statistical aspects of the 
 alignment and phylogenetic tree estimation.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The project is collaboration between the Applied Computational Genomics 
 group of Maria Anisimova (Institute of Applied Simulations, ZHAW) and 
 Manuel Gil in the Bioinformatics and Systems Biology group of Christian 
 von Mering (Institute of Molecular Life Sciences, UZH).
-=======
+==========================================
 La phrase 4 est en : ENG
 	Both groups have 
 wide ranging expertise in computational biology.
-=======
+==========================================
 La phrase 5 est en : ENG
 	In addition, the 
 candidates will benefit from the group membership in the Swiss Institute 
 of Bioinformatics, providing further training and networking opportunities.
-=======
+==========================================
 La phrase 6 est en : ENG
 	The successful candidate will have a strong background in computational 
 science, including computational statistics, algorithmics, statistical 
 estimation procedures, and numerical analysis.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Fluency in a 
 multi-paradigm programming language like C++ is required.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Previous 
 knowledge in phylogenetics is a plus but is not required.
-=======
+==========================================
 La phrase 9 est en : ENG
 	The candidate 
 is expected to develop a background in phylogenetics and molecular 
 evolution.
-=======
+==========================================
 La phrase 10 est en : ENG
 	We are looking for an individual with a masters degree or equivalent, 
 who is highly self-motivated and can work independently.
-=======
+==========================================
 La phrase 11 est en : ENG
 	The working 
 language in the team is English.
-=======
+==========================================
 La phrase 12 est en : ENG
 	German skills, although helpful for 
 day-to-day life, are not essential.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Ideally, the candidate would be able 
 to start on the 1st of February 2015.
-=======
+==========================================
 La phrase 14 est en : FRA
 	To be considered, please send a single (!)
-=======
+==========================================
 La phrase 15 est en : ENG
 	PDF file merged from the 
 following parts to maria.anisimova@zhaw.ch: CV including publication 
 list (if available), a scanned academic transcript (list of grades in 
 university courses), a motivation statement not exceeding two pages, and 
 three references.
-=======
+==========================================
 La phrase 16 est en : FRA
 	Please include "JATI2014" in the subject line of your 
 email.
-=======
+==========================================
 La phrase 17 est en : ENG
 	The application deadline is the 1st of November 2014, but the 
 candidates will be considered until the positions are filled.
-=======
+==========================================
 La phrase 18 est en : ENG
 	-- 
 Directeur de Recherche
@@ -174,4 +180,4 @@ BAT 5, 860 rue de St Priest
 http://www.lirmm.fr/gascuel
 
 
-=======
+==========================================

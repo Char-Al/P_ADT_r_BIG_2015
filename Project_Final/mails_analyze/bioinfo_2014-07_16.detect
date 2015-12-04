@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_16" est globalement en : FRA
+[('ENG', 1.0987341028103172), ('FRA', 1.7668102912349875)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] 18th EBM  programme
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] 18th EBM  programme
 Le paragraphe 1 est en : ENG
 	Le programme 18th Evolutionary Biology Meeting at Marseilles est maintenant disponible 
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	http://sites.univ-provence.fr/evol-cgr/
 il reste quelques spots pour les présentations de poster 
@@ -16,7 +22,7 @@ cordialement
 Pierre
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -29,4 +35,4 @@ il reste quelques spots pour les présentations de poster
 cordialement
 Pierre
 
-=======
+==========================================

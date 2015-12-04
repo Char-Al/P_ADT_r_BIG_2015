@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_31" est globalement en : ENG
+[('ENG', 0.46365320455225006), ('FRA', 1.3808667709497224)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Metagenomics Workshop, 7 septembre 2014, Strasbourg
 
@@ -8,86 +14,86 @@ Subject : [bioinfo] Metagenomics Workshop, 7 septembre 2014, Strasbourg
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	sous l'égide du métaprogramme INRA "Méta-omique des Ecosystèmes 
 Microbiens", nous organisons, en marge de ECCB'14, un workshop le 
 dimanche 7 septembre à Strasbourg sur le thème :
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	"Recent Computational Advances in Metagenomics"
 (http://www.eccb14.org/program/workshops/rcam)
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Inscriptions sur http://www.eccb14.org/registration.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Ce workshop sera composé de deux talks invités :
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	1. Steven Kembel (University of Québec, Montréal): "Using metagenomics 
 to model community assembly in the plant microbiome"
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	2. Aaron Darling (University of Technology, Sydney): "Toward resolving 
 the fine scale genetic structure of microbial populations: a metagenomic 
 Hi-C approach"
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	et de 7 exposés sélectionnés :
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	* "Quikr & WGSQuikr: Rapid Bacterial Community Reconstruction Via 
 Compressive Sensing" by D. Koslicki, S. Foucart and G. Rosen
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	* "Towards Large-scale Machine Learning for Metagenomics Sequence 
 Classification" by K. Vervier, J.-P. Vert, M.Tournoud, J.-B. Veyrieras 
 and P.Mahé
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	* "Swarm: robust and fast clustering method for amplicon-based studies"
 by F. Mahé, T. Rognes, C. Quince, C. de Vargas and M. Dunthorn
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	* "SortMeRNA 2: ribosomal RNA classification for taxonomic assignation" 
 by E. Kopylova, L. Noé, P. Pericard, M. Salson and H. Touzet
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	* "Quantitative metagenomics: form reads to biomarkers" by E. Prifti, 
 E.Le Chatelier, N. Pons, M. Almeida, A. Ghozlane, F. Plaza, N. Aram 
 Gaye, P. Leonard, J.-M. Batto and D. Erlich
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	* "Identifying distant homologous viral sequences in metagenomes using 
 protein structure information" by M. Boccara, M. Carpentier, J. 
 Chomilier, F. Coste, C. Galiez, J. Pothier and A. Veluchamy
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	* "Metagenome-scale metabolic network reconstruction" by F. Guktnecht, 
 G. Collet, J. Cambefort, J. Andres, S. Prigent, D. Eveillard, A. Siegel, 
 F. Plewniak
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	A bientôt,
 Valentin Loux, Mahendra Mariadassou, Sophie Schbath
 pour le comité d'organisation
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	-- 
     ___
@@ -104,7 +110,7 @@ Le paragraphe 17 est en : ENG
      ____________\||/____________________________________________
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -120,18 +126,18 @@ dimanche 7 septembre à Strasbourg sur le thème :
 (http://www.eccb14.org/program/workshops/rcam)
 
 Inscriptions sur http://www.eccb14.org/registration.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Ce workshop sera composé de deux talks invités :
 
 1.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Steven Kembel (University of Québec, Montréal): "Using metagenomics 
 to model community assembly in the plant microbiome"
 
 2.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Aaron Darling (University of Technology, Sydney): "Toward resolving 
 the fine scale genetic structure of microbial populations: a metagenomic 
@@ -144,7 +150,7 @@ Compressive Sensing" by D. Koslicki, S. Foucart and G. Rosen
 
 * "Towards Large-scale Machine Learning for Metagenomics Sequence 
 Classification" by K. Vervier, J.-P. Vert, M.Tournoud, J.-B.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Veyrieras 
 and P.Mahé
@@ -177,18 +183,18 @@ pour le comité d'organisation
   /=(_)=\\//
   \ =(_) (O}           Unite Mathematique, Informatique & Genome (MIG)
    \_____\\      .--.
-=======
+==========================================
 La phrase 6 est en : FRA
 	INRA - Domaine de Vilvert
     /=(_)\\\   .'_\/_'.
-=======
+==========================================
 La phrase 7 est en : FRA
 	F-78352 Jouy-en-Josas
     \____///   '.
-=======
-La phrase 8 est en : non detect
+==========================================
+La phrase 8 est en : n
 	/\ .'
-=======
+==========================================
 La phrase 9 est en : ENG
 	Tel : +33 1 34 65 28 90
          ())     "||"      Fax : +33 1 34 65 29 01
@@ -197,4 +203,4 @@ La phrase 9 est en : ENG
               (/\\||/      http://www.ssbgroup.fr
      ____________\||/____________________________________________
 
-=======
+==========================================

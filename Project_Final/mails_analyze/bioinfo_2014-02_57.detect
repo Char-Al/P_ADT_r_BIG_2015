@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_57" est globalement en : FRA
+[('FRA', 0.6537476260160936), ('ENG', 2.4763425016363945)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] Bioinformatique : prédiction d  e toxicité
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Bioinformatique : prédiction d  e toxicité
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformatique : prédiction de toxicité
 Type de poste : Stage
@@ -18,13 +24,13 @@ Nom du contact : Jérôme Besse
 Email du contact : jerome.besse@pierre-fabre.com
 Laboratoire : Laboratoires Pierre Fabre
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatique-pr%C3%A9diction-de-toxicit%C3%A9
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : Laboratoires Pierre Fabre
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatique-pr%C3%A9diction-de-toxicit%C3%A9
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_94" est globalement en : FRA
+[('ENG', 0.27095651303303225), ('FRA', 0.5504601949135471)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] designing fast, accurate and guaranteed approximation algorithms on graphs for genome scaffolding.
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] designing fast, accurate and guarant
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : designing fast, accurate and guaranteed approximation  
 algorithms on graphs for genome scaffolding.
@@ -19,13 +25,13 @@ Nom du contact : Annie Chateau
 Email du contact : chateau@lirmm.fr
 Laboratoire : IBC - LIRMM
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/designing-fast-accurate-and-guaranteed-approximation-algorithms-graphs-genome-scaffolding
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -35,7 +41,7 @@ La phrase 1 est en : FRA
 
 Intitulé du poste : designing fast, accurate and guaranteed approximation  
 algorithms on graphs for genome scaffolding.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Type de poste : Post-doc / IR
 Durée du poste : 12 mois
@@ -47,4 +53,4 @@ Laboratoire : IBC - LIRMM
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/designing-fast-accurate-and-guaranteed-approximation-algorithms-graphs-genome-scaffolding
 
-=======
+==========================================

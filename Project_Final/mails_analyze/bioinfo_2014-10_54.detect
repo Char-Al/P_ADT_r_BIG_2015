@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_54" est globalement en : FRA
+[('ENG', 0.2941475057050119), ('FRA', 0.35904149937473956)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Stage] Bac+3 en Informatique ou Master Bioinformatique (M1 ou M2) : interface Web de gestion et suivi des donnees de la plateforme Genotypage
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Bac+3 en Informatique ou Master Bioinformati
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bac+3 en Informatique ou Master Bioinformatique (M1 ou  
 M2) : interface Web de gestion et suivi des donnees de la plateforme  
@@ -20,13 +26,13 @@ Nom du contact : BROCHARD Alexandre
 Email du contact : alexandre.brochard@inserm.fr
 Laboratoire : Plateforme Bioinformatique - Inserm U862 Neurocentre Magendie
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bac3-en-informatique-ou-master-bioinformatique-m1-ou-m2-interface-web-de-gestion-et-suivi-de
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -47,4 +53,4 @@ Laboratoire : Plateforme Bioinformatique - Inserm U862 Neurocentre Magendie
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bac3-en-informatique-ou-master-bioinformatique-m1-ou-m2-interface-web-de-gestion-et-suivi-de
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_34" est globalement en : FRA
+[('FRA', 0.7009767990851917), ('ENG', 1.1876654891003466)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Stage M2 Modélisation du Masting - Lyon
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] Stage M2 Modélisation du Masting - Lyon
 Le paragraphe 1 est en : ENG
 	Stage de M2 Recherche (2014-2015), Lyon
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Sujet : Le devenir du masting dans le contexte du changement climatique
 Le masting, caractérisé par des fructifications massives, intermittentes 
@@ -45,7 +51,7 @@ des conditions climatiques d’intérêt sur le processus de pollinisation
 et de proposer des scénarii relatif au masting dans le contexte du 
 changement climatique.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Durée : 6 mois
 Lieu du stage /établissement : Laboratoire de Biométrie et Biologie 
@@ -58,34 +64,34 @@ Collaboration : Jean-Michel Gaillard, David Fouchet, Aurélie
 Siberchicot, Stéphane Dray (LBBE), Sylvain Delzon (BioGeco, Bordeaux), 
 Stefano Focardi (CNR, Italie)
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Profil recherché : des bases en programmation informatique et/ou 
 analyses statistiques seront appréciées
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Contacts : samuel.venner@univ-lyon1.fr
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	-- 
 Aurélie SIBERCHICOT
 Ingénieur d'Etudes Statistiques
 04 72 44 85 98 - aurelie.siberchicot@univ-lyon1.fr
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Laboratoire Biométrie et Biologie Evolutive - UMR CNRS 5558
 Université Claude Bernard - Lyon 1
 Bâtiment Grégor Mendel, 43 boulevard du 11 novembre 1918
 69622 Villeurbanne cedex
 
-=======
-Le paragraphe 8 est en : non detect
+==========================================
+Le paragraphe 8 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -98,28 +104,28 @@ Le masting, caractérisé par des fructifications massives, intermittentes
 et synchronisées à l’échelle d’une population d’arbres, est une tactique 
 de reproduction très répandue en milieu tempéré dans de nombreux groupes 
 taxonomiques de plantes.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Par les fortes fluctuations spatio-temporelles 
 des fructifications qui lui sont associées, le masting est susceptible 
 d’impacter fortement la démographie et l’évolution des espèces 
 consommant cette ressource et, en cascade, la dynamique des communautés 
 forestières.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Cependant, les mécanismes proximaux qui sous-tendent le 
 masting sont encore mal compris.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Compte tenu des changements climatiques 
 attendus, cette méconnaissance rend impossible toute prédiction relative 
 aux variations d’intensité du masting et à leurs conséquences sur la 
 dynamique de la biodiversité qui lui est associée.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Le sujet de M2 sera centré sur le chêne, espèce emblématique du masting, 
 qui présente un intérêt à la fois écologique et économique majeur.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Il 
 s’inscrit dans un programme de recherche financé par le Ministère en 
@@ -128,19 +134,19 @@ qui bénéficiera de la collaboration entre le Laboratoire de Biométrie et
 Biologie Evolutive (UMR CNRS 5558), le laboratoire BioGeCo (UMR INRA, 
 Univ Bordeaux), l’Office National des Forêts (ONF) et l’Office National 
 de la Chasse et de la Faune Sauvage (ONCFS).
-=======
+==========================================
 La phrase 7 est en : FRA
 	Ce programme vise à 
 construire des scénarii sur le devenir du masting du chêne et de la 
 biodiversité associée dans le contexte du changement climatique.
-=======
+==========================================
 La phrase 8 est en : FRA
 	L’une 
 de nos hypothèses de base est que les patrons de fructification des 
 chênes résultent à la fois de processus endogènes à l’arbre (dynamique 
 énergétique) et du succès de pollinisation qui pourrait être extrêmement 
 sensible à des conditions climatiques qui restent à identifier.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Dans ce programme, le sujet de M2 visera (1) à étudier l’impact des 
 conditions climatiques sur le succès des émissions polliniques du chêne 
@@ -149,7 +155,7 @@ construire un modèle mécaniste du masting permettant d’intégrer l’impact
 des conditions climatiques d’intérêt sur le processus de pollinisation 
 et de proposer des scénarii relatif au masting dans le contexte du 
 changement climatique.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Durée : 6 mois
 Lieu du stage /établissement : Laboratoire de Biométrie et Biologie 
@@ -180,4 +186,4 @@ Bâtiment Grégor Mendel, 43 boulevard du 11 novembre 1918
 69622 Villeurbanne cedex
 
 
-=======
+==========================================

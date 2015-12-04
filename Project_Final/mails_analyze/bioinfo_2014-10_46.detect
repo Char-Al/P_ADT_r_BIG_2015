@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_46" est globalement en : FRA
+[('ENG', 0.4330590400909327), ('FRA', 0.7063992523201522)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDI autre] Bioinformaticien(ne)
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDI autre] Bioinformaticien(ne)
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformaticien(ne)
 Type de poste : CDI autre
@@ -18,13 +24,13 @@ Nom du contact : Véronique MARTIN
 Email du contact : veronique.martin@ipg.be
 Laboratoire : Institut de pathologie et de génétique (IPG)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticienne-2
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : Institut de pathologie et de génétique (IPG)
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticienne-2
 
-=======
+==========================================

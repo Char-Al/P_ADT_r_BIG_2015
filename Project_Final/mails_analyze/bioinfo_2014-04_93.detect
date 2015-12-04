@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_93" est globalement en : ENG
+[('ENG', 0.4005194557484932), ('FRA', 1.497808670720792)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Fwd: Bordeaux Workshop on Bio-Informatics of Personalised Treatment of Cancer, 20th of June
 
@@ -8,20 +14,20 @@ Subject : [bioinfo] Fwd: Bordeaux Workshop on Bio-Informatics of Personalised Tr
 Le paragraphe 1 est en : ENG
 	Registration addendum
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Dear colleagues, please use the following URL for Workshop registration: http://siric-brio.com/actualites/3283/
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Best regards,
 Macha Nikolski.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Begin forwarded message:
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	> From: Macha Nikolski <macha@labri.fr>
 > Subject: Bordeaux Workshop on Bio-Informatics of Personalised Treatment of Cancer, 20th of June
@@ -87,7 +93,7 @@ Le paragraphe 5 est en : ENG
 > 17h00-17h30 : The role of NGS in personalised medicine 
 > Hervé Bonnefoi, SIRIC BRIO Breast Group, Institut Bergonié
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	--
 Head of Bordeaux Bioinformatics Center
@@ -97,11 +103,11 @@ CBiB - Université Bordeaux
 www : http://dept-info.labri.fr/~macha/
 tel : 05 57 57 12 47
 
-=======
-Le paragraphe 7 est en : non detect
+==========================================
+Le paragraphe 7 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -113,7 +119,7 @@ Dear colleagues, please use the following URL for Workshop registration: http://
 
 Best regards,
 Macha Nikolski.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Begin forwarded message:
 
@@ -123,26 +129,26 @@ La phrase 2 est en : ENG
 > To: "bioinfo@sfbi.fr" <bioinfo@sfbi.fr>
 > 
 > The First Bordeaux Workshop on Bio-Informatics of Personalised Treatment of Cancer will take place on the 20th of June 2014.
-=======
+==========================================
 La phrase 3 est en : ENG
 	> 
 > Sequencing revolution is making increasingly possible to use genomic information in the clinical practice for cancer treatment.
-=======
+==========================================
 La phrase 4 est en : ENG
 	It is particularly salient in the design of clinical trial stratification strategies, with the ultimate goal being to adjust cancer treatment to genomic profile of a patient.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Both quantity and complexity of the available information make bioinformatics an essential part in most steps of this new personalised treatment approach.
-=======
+==========================================
 La phrase 6 est en : ENG
 	> 
 > Address: Espace Agora Domaine du Haut-Carré, 43 rue Pierre Noailles, 33400 Talence 
 > 
 > The workshop is free of charge, but you have to register by sending an e-mail to macha@labri.fr and R.Iggo@bordeaux.unicancer.fr.
-=======
+==========================================
 La phrase 7 est en : ENG
 	> Before 30th of May we will go through the registration list and send you a confirmation for participation.
-=======
+==========================================
 La phrase 8 est en : ENG
 	This will be done on the first come first served basis (if you need this confirmation earlier, please mention this in your e-mail)
 > 
@@ -208,4 +214,4 @@ tel : 05 57 57 12 47
 
 
 
-=======
+==========================================

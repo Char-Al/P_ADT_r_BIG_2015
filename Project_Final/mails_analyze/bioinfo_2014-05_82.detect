@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_82" est globalement en : ENG
+[('FRA', 0.3735241134209851), ('ENG', 5.493937743734412)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][ Thèse ] Transcriptional regulation of miRNAs
 
@@ -9,20 +15,20 @@ Le paragraphe 1 est en : ENG
 	Title: Deciphering microRNA regulation and processing using Cap Analysis 
 of Gene Expression (CAGE) and small RNA-sequencing data
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Location: Wyeth Wasserman laboratory, Centre for Molecular Medicine and 
 Therapeutics, University of British Columbia, Vancouver, BC, Canada.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Contacts: wyeth@cmmt.ubc.ca, amathelier@cmmt.ubc.ca
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Description:
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	MicroRNAs are a class of endogenous ~18-25nt-long RNAs involved in 
 post-transcriptional regulation. Their expression must be accurately 
@@ -36,7 +42,7 @@ project is part of an international collaboration with the IGMM
 http://www.igmm.cnrs.fr/) and the FANTOM consortium (RIKEN institute, 
 Japan, http://fantom.gsc.riken.jp/5/).
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	As part of the international FANTOM5 consortium, the Wasserman lab has 
 access to cap analysis gene expression (CAGE), small RNA-sequencing 
@@ -49,7 +55,7 @@ regulated and processed. The information will allow to construct
 metaregulation networks that recapitulate inter-molecular and functional 
 interactions between transcription factors, microRNAs and target genes.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	The PhD candidate will focus on the development and application of 
 computational methods for the analysis of promoters for microRNAs and 
@@ -63,7 +69,7 @@ collaborations. Finally, the successful candidate will be provided with
 the opportunity to stay 3 months at the IGMM in Montpellier, France, as 
 part of our collaboration (funded by the French Embassy in Canada).
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	-- 
 Anthony Mathelier, PhD
@@ -75,11 +81,11 @@ University of British Columbia | Child & Family Research Institute
 amathelier@cmmt.ubc.ca
 http://mathelierweb.com/bioinfo/
 
-=======
-Le paragraphe 9 est en : non detect
+==========================================
+Le paragraphe 9 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -90,7 +96,7 @@ of Gene Expression (CAGE) and small RNA-sequencing data
 
 Location: Wyeth Wasserman laboratory, Centre for Molecular Medicine and 
 Therapeutics, University of British Columbia, Vancouver, BC, Canada.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Contacts: wyeth@cmmt.ubc.ca, amathelier@cmmt.ubc.ca
 
@@ -98,76 +104,76 @@ Description:
 
 MicroRNAs are a class of endogenous ~18-25nt-long RNAs involved in 
 post-transcriptional regulation.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Their expression must be accurately 
 controlled as they play crucial functions in cell physiology.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Deregulation are often associated with diseases such as cancers.
-=======
+==========================================
 La phrase 5 est en : ENG
 	A 
 better understanding of their mode of regulation/deregulation, notably 
 at the transcriptional level, is required.
-=======
+==========================================
 La phrase 6 est en : ENG
 	We propose to further our 
 understanding of the transcriptional regulation of microRNAs.
-=======
+==========================================
 La phrase 7 est en : ENG
 	This 
 project is part of an international collaboration with the IGMM 
 (Institut de Génétique Moleculaire de Montpellier, France, 
 http://www.igmm.cnrs.fr/) and the FANTOM consortium (RIKEN institute, 
 Japan, http://fantom.gsc.riken.jp/5/).
-=======
+==========================================
 La phrase 8 est en : FRA
 	As part of the international FANTOM5 consortium, the Wasserman lab has 
 access to cap analysis gene expression (CAGE), small RNA-sequencing 
 (sRNA-seq), and RNA-sequencing experiments derived data sets from 
 hundreds of human samples.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Moreover, in collaboration with the IGMM, we 
 have access to methods for the targeted analysis of microRNAs and 
 associated transcriptional regulations.
-=======
+==========================================
 La phrase 10 est en : ENG
 	In combining the data, we have 
 an unprecedented opportunity to better understand how microRNAs are 
 regulated and processed.
-=======
+==========================================
 La phrase 11 est en : ENG
 	The information will allow to construct 
 metaregulation networks that recapitulate inter-molecular and functional 
 interactions between transcription factors, microRNAs and target genes.
-=======
+==========================================
 La phrase 12 est en : ENG
 	The PhD candidate will focus on the development and application of 
 computational methods for the analysis of promoters for microRNAs and 
 clusters of microRNAs.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Specifically, these methods will use multiple 
 linear regression models or alike applied to CAGE and (s)RNA-seq data to 
 better understand microRNAs’ transcriptional regulation.
-=======
+==========================================
 La phrase 14 est en : ENG
 	The work will 
 expose the student to computational approaches for the management, 
 analysis, and interpretation of genome-scale data.
-=======
+==========================================
 La phrase 15 est en : ENG
 	The student will work 
 within an interactive team environment with international 
 collaborations.
-=======
+==========================================
 La phrase 16 est en : ENG
 	Finally, the successful candidate will be provided with 
 the opportunity to stay 3 months at the IGMM in Montpellier, France, as 
 part of our collaboration (funded by the French Embassy in Canada).
-=======
+==========================================
 La phrase 17 est en : ENG
 	-- 
 Anthony Mathelier, PhD
@@ -180,4 +186,4 @@ amathelier@cmmt.ubc.ca
 http://mathelierweb.com/bioinfo/
 
 
-=======
+==========================================

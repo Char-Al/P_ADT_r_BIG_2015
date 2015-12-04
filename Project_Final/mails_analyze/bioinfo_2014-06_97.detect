@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_97" est globalement en : FRA
+[('ENG', 0.6115007529220569), ('FRA', 1.082276391533398)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformatician : organization of plant
  chromosomes
@@ -10,7 +16,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformatician : organization of plant chromosomes
 Type de poste : Post-doc / IR
@@ -20,16 +26,16 @@ Nom du contact : Moussa BENHAMED
 Email du contact : moussa.benhamed@u-psud.fr
 Laboratoire : KAUST
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformatician-organization-plant-chromosomes
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -51,4 +57,4 @@ http://www.sfbi.fr/content/bioinformatician-organization-plant-chromosomes
 
 
 
-=======
+==========================================

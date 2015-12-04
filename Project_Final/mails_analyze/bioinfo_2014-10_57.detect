@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_57" est globalement en : FRA
+[('FRA', 0.7260254736532006), ('ENG', 70.80181612859523)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Atelier FGG-EGC2015 : 1er appel à communication
 
@@ -9,32 +15,32 @@ Le paragraphe 1 est en : FRA
 	
 Fouille de Grands Graphes : Application à la bio-informatique (FGG-EGC)
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	https://sites.google.com/site/fggegc15/
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Luxembourg, 27 janvier 2015, dans le cadre de la conférence EGC'15 
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Après le  succès des  premières  éditions  de cet atelier qui s'étaient  déroulées  dans le cadre  d'EGC 2013 et 2014, avec des thématiques ouvertes 
 sur la fouille de grands graphes. Cette  année,  nous  souhaitons  que  l'atelier  soit  plus  centré  sur  les applications 
 en "bio-informatique » et letude des réseaux biologiques. 
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Dates importantes :
 Date limite de soumission :   28 novembre 2014 
 Notification aux auteurs :     15 décembre 2014
 Version finale :        5 janvier 2015
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Objectifs et thématiques :
 L'édition  2015  de  l'atelier  fouille  de  grands  graphes  a   pour  but  de  réunir  les  chercheurs  intéressés  par  lanalyse,  la  fouille  et  la  visualisation  
@@ -42,7 +48,7 @@ de  grands  graphes  et  leurs  application dans les problématiques en bio-info
 Notre ambition est de permettre aux participants d'aborder  les problèmes rencontrés  liés  aux données biologiques et de présenter leurs approches de traitement.
 De façon non limitative, nous sollicitons des communications sur les thématiques suivantes (liste non exhaustive) :
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Analyse et dynamique des grands graphes
 Recherche de communautés
@@ -57,7 +63,7 @@ Propagation de l'influence, flux d'informations
 Modèles graphiques probabilistes
 Analyse conjointe des liens et des attributs
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Applications :
 Biologie des systèmes et réseaux biologiques
@@ -67,21 +73,21 @@ Voies métaboliques
 Ontologies, génomique fonctionnelle
 Intégration, visualisation et analyse de données « Omique »
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Soumission :
 Les  articles  soumis  ne  doivent  pas  dépasser  6  pages  en  suivant  
 le  format  d'EGC  (voir  http://egc2015.lippmann.lu/fr/conference/soumission/).
 Les soumissions sont à faire via le site easychair (https://easychair.org/conferences/?conf=fggegc2015).
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	Organisateurs :
 Lydia Boudjeloud-Assala (LITA - Université de Lorraine)
 Blaise Hanczar (LIPADE -  Université Paris Descartes)
 Mohamed Elati (iSSB - Université Evry Val dEssonne)
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	---------------------------------------------------------------------
 Mohamed Elati
@@ -93,7 +99,7 @@ Tel :  01 69 47 44 43
 http://www.issb.genopole.fr/~elati/
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -111,11 +117,11 @@ Luxembourg, 27 janvier 2015, dans le cadre de la conférence EGC'15
 
 Après le  succès des  premières  éditions  de cet atelier qui s'étaient  déroulées  dans le cadre  d'EGC 2013 et 2014, avec des thématiques ouvertes 
 sur la fouille de grands graphes.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Cette  année,  nous  souhaitons  que  l'atelier  soit  plus  centré  sur  les applications 
 en "bio-informatique » et letude des réseaux biologiques.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Dates importantes :
 Date limite de soumission :   28 novembre 2014 
@@ -127,10 +133,10 @@ Version finale :        5 janvier 2015
 Objectifs et thématiques :
 L'édition  2015  de  l'atelier  fouille  de  grands  graphes  a   pour  but  de  réunir  les  chercheurs  intéressés  par  lanalyse,  la  fouille  et  la  visualisation  
 de  grands  graphes  et  leurs  application dans les problématiques en bio-informatique et biologie des systèmes.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Notre ambition est de permettre aux participants d'aborder  les problèmes rencontrés  liés  aux données biologiques et de présenter leurs approches de traitement.
-=======
+==========================================
 La phrase 5 est en : FRA
 	De façon non limitative, nous sollicitons des communications sur les thématiques suivantes (liste non exhaustive) :
 
@@ -159,10 +165,10 @@ Intégration, visualisation et analyse de données « Omique »
 Soumission :
 Les  articles  soumis  ne  doivent  pas  dépasser  6  pages  en  suivant  
 le  format  d'EGC  (voir  http://egc2015.lippmann.lu/fr/conference/soumission/).
-=======
+==========================================
 La phrase 6 est en : FRA
 	Les soumissions sont à faire via le site easychair (https://easychair.org/conferences/?conf=fggegc2015).
-=======
+==========================================
 La phrase 7 est en : FRA
 	Organisateurs :
 Lydia Boudjeloud-Assala (LITA - Université de Lorraine)
@@ -186,4 +192,4 @@ Genopole Campus 1 - Genavenir 6
 Tel :  01 69 47 44 43
 http://www.issb.genopole.fr/~elati/
 
-=======
+==========================================

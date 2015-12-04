@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_84" est globalement en : FRA
+[('ENG', 0.25398763723352186), ('FRA', 0.5248410783999757)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Machine learning in high-dimensional biological data sets
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Machine learning in high-dimensional
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Machine learning in high-dimensional biological data  
 sets
@@ -19,13 +25,13 @@ Nom du contact : Julien Gagneur
 Email du contact : gagneur@genzentrum.lmu.de
 Laboratoire : Institute of Computational Biology
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/machine-learning-high-dimensional-biological-data-sets
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : Institute of Computational Biology
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/machine-learning-high-dimensional-biological-data-sets
 
-=======
+==========================================

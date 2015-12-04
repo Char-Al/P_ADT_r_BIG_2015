@@ -1,40 +1,46 @@
 Le mail "bioinfo_2014-04_74" est globalement en : ENG
+[('ENG', 0.32019617083849816), ('FRA', 1.6564423180252936)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] CFP - MLSB14, the 8th Machine Learning in Systems Biology workshop
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : non detect
+Le paragraphe 1 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	               Call for contributions
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	     MLSB14, the eighth International Workshop on 
            Machine Learning in Systems Biology
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	                  http://www.mlsb.cc
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	    Organized in conjunction with ECCB 2014
                Strasbourg, France, September 6-7, 2014.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	           Submission deadline: June 11, 2014
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	WORKSHOP DESCRIPTION
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Molecular biology and all the biomedical sciences are undergoing a
 true revolution as a result of the emergence and growing impact of a
@@ -44,7 +50,7 @@ proteomics and metabolomics, devoted respectively to the examination
 of the entire systems of genes, transcripts, proteins and metabolites
 present in a given cell or tissue type.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	The availability of these new, highly effective tools for biological
 exploration is dramatically changing the way one performs research in
@@ -58,7 +64,7 @@ systems behave as a result of the integration and interaction between
 the individual components that one can now monitor simultaneously (so
 called "systems biology").
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	Taking advantage of this wealth of "omics" information has become a
 condition sine qua non for whoever ambitions to remain competitive in
@@ -73,7 +79,7 @@ structured data, graph inference, semi-supervised learning, system
 identification, and novel combinations of optimization and learning
 algorithms.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	MLSB14, the Eighth International Workshop on Machine Learning in
 Systems Biology, is a workshop of the ECCB 2014 conference. It aims to
@@ -84,15 +90,15 @@ submissions bringing forward methods for discovering complex
 structures (e.g. interaction networks, molecule structures) and
 methods supporting genome-wide data analysis
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Please see the workshop website http://www.mlsb.cc for more details.
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	SUBMISSIONS INSTRUCTIONS
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	We invite you to submit an extended abstract of up to 4 pages in PDF
 format describing new or very recently published results. Submissions
@@ -100,31 +106,31 @@ will be reviewed by the scientific programme committee. They will be
 selected for oral or poster presentation according to their
 originality and relevance to the workshop topics.
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	KEY DATES
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	Submission deadline: June 11, 2014
 Author notification: July 15, 2014
 Early registration deadline ECCB14: August 2, 2014
 Workshop: September 6-7, 2014
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	CHAIRS
 
-=======
+==========================================
 Le paragraphe 18 est en : ENG
 	Florence d'Alché-Buc (University of Evry, France)
 Pierre Geurts (University of Liege, Belgium)
 
-=======
+==========================================
 Le paragraphe 19 est en : ENG
 	ORGANIZING COMMITTEE
 
-=======
+==========================================
 Le paragraphe 20 est en : ENG
 	Florence d'Alché-Buc (University of Evry, France)
 Markus Heinonen (University of Evry, France)
@@ -132,15 +138,15 @@ Pierre Geurts (University of Liege, Belgium)
 Vân Anh Huynh-Thu (University of Edinburgh, UK)
 Nizar Touleimat (Centre National de génotypage, CEA, Evry, France)
 
-=======
+==========================================
 Le paragraphe 21 est en : ENG
 	CONTACT
 
-=======
+==========================================
 Le paragraphe 22 est en : ENG
 	For further information, please contact chairsmlsb2014@gmail.com
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -158,7 +164,7 @@ La phrase 1 est en : ENG
 
     Organized in conjunction with ECCB 2014
                Strasbourg, France, September 6-7, 2014.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Submission deadline: June 11, 2014
 
@@ -170,47 +176,47 @@ Molecular biology and all the biomedical sciences are undergoing a
 true revolution as a result of the emergence and growing impact of a
 series of new disciplines/tools sharing the "-omics" suffix in their
 name.
-=======
+==========================================
 La phrase 3 est en : ENG
 	These include in particular genomics, transcriptomics,
 proteomics and metabolomics, devoted respectively to the examination
 of the entire systems of genes, transcripts, proteins and metabolites
 present in a given cell or tissue type.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The availability of these new, highly effective tools for biological
 exploration is dramatically changing the way one performs research in
 at least two respects.
-=======
+==========================================
 La phrase 5 est en : ENG
 	First, the amount of available experimental
 data is not a limiting factor any more; on the contrary, there is a
 plethora of it.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Given the research question, the challenge has shifted
 towards identifying the relevant pieces of information and making
 sense out of it (a "data mining" issue).
-=======
+==========================================
 La phrase 7 est en : ENG
 	Second, rather than focus on
 components in isolation, we can now try to understand how biological
 systems behave as a result of the integration and interaction between
 the individual components that one can now monitor simultaneously (so
 called "systems biology").
-=======
+==========================================
 La phrase 8 est en : ENG
 	Taking advantage of this wealth of "omics" information has become a
 condition sine qua non for whoever ambitions to remain competitive in
 molecular biology and in the biomedical sciences in general.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Machine
 learning naturally appears as one of the main drivers of progress in
 this context, where most of the targets of interest deal with complex
 structured objects: sequences, 2D and 3D structures or interaction
 networks.
-=======
+==========================================
 La phrase 10 est en : ENG
 	At the same time bioinformatics and systems biology have
 already induced significant new developments of general interest in
@@ -218,43 +224,43 @@ machine learning, for example in the context of learning with
 structured data, graph inference, semi-supervised learning, system
 identification, and novel combinations of optimization and learning
 algorithms.
-=======
+==========================================
 La phrase 11 est en : ENG
 	MLSB14, the Eighth International Workshop on Machine Learning in
 Systems Biology, is a workshop of the ECCB 2014 conference.
-=======
+==========================================
 La phrase 12 est en : ENG
 	It aims to
 contribute to the cross-fertilization between the research in machine
 learning methods and their applications to systems biology by bringing
 together method developers and experimentalists.
-=======
+==========================================
 La phrase 13 est en : ENG
 	We are soliciting
 submissions bringing forward methods for discovering complex
 structures (e.g.
-=======
+==========================================
 La phrase 14 est en : ENG
 	interaction networks, molecule structures) and
 methods supporting genome-wide data analysis
 
 Please see the workshop website http://www.mlsb.cc for more details.
-=======
+==========================================
 La phrase 15 est en : ENG
 	SUBMISSIONS INSTRUCTIONS
 
 We invite you to submit an extended abstract of up to 4 pages in PDF
 format describing new or very recently published results.
-=======
+==========================================
 La phrase 16 est en : ENG
 	Submissions
 will be reviewed by the scientific programme committee.
-=======
+==========================================
 La phrase 17 est en : ENG
 	They will be
 selected for oral or poster presentation according to their
 originality and relevance to the workshop topics.
-=======
+==========================================
 La phrase 18 est en : ENG
 	KEY DATES
 
@@ -279,4 +285,4 @@ Nizar Touleimat (Centre National de génotypage, CEA, Evry, France)
 CONTACT
 
 For further information, please contact chairsmlsb2014@gmail.com
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_97" est globalement en : FRA
+[('ENG', 0.4167231332410079), ('FRA', 0.566636563218536)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformaticien(ne), Plateforme Bioinformatique, Australie
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformaticien(ne), Plateforme Bio
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformaticien(ne), Plateforme Bioinformatique,  
 Australie
@@ -19,13 +25,13 @@ Nom du contact : Steve
 Email du contact : steve.androulakis@monash.edu
 Laboratoire : Monash Bioinformatics Platform
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticienne-plateforme-bioinformatique-australie
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : Monash Bioinformatics Platform
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticienne-plateforme-bioinformatique-australie
 
-=======
+==========================================

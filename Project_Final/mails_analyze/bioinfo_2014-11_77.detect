@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_77" est globalement en : ENG
+[('ENG', 0.3745531473680901), ('FRA', 0.992308827004829)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] EMBL-EBI-Wellcome Trust Advanced course In Silico Systems Biology
 
@@ -10,31 +16,31 @@ Le paragraphe 1 est en : ENG
 In Silico Systems Biology
 7-12 June 2015
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Open for Applications (apply by 23 January)
 http://advanced-courses-wellcome.msgfocus.com/c/16o3vePBAEPZXF67bCPVXEY
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Applications are invited for this joint EMBL-EBI-Wellcome Trust workshop. The week-long programme will combine lectures on modelling approaches, led discussions to identify the key challenges, opportunities and bottlenecks, and practical sessions on network analysis and network-based modelling.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	The workshop is aimed at PhD students and researchers with a minimum of one year’s experience in the field of systems biology modelling, and who are using systems-based modelling approaches to understand biomedical problems. It is beneficial if participants have experience of using pathway modelling in their work. Full details are on the workshop website.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Limited bursaries for PhD students covering up to 50% of the workshop fee are also available. Bursaries are awarded on merit. Applications and bursary requests must be received by 23 January 2015.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Scientific Organising Committee
 Nicolas Le Novère (EMBL-EBI, UK)
 Julio Saez-Rodriguez (EMBL-EBI, UK)
 Laura Emery (EMBL-EBI, UK)
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Course Trainers
 Nicolas Le Novère (EMBL-EBI, UK)
@@ -52,7 +58,7 @@ Camille Laibe (EMBL-EBI, UK)
 Karen Lipkow (University of Cambridge, UK)
 Nicolas Rodriguez (EMBL-EBI, UK)
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	-- 
 Nicolas LE NOVERE, Babraham Institute, Babraham Campus Cambridge, CB22 3AT
@@ -61,7 +67,7 @@ Skype:n.lenovere, n.lenovere@gmail.com, ORCID: 0000-0002-6309-7327
 http://lenoverelab.org/, http://lenoverelab.org/perso/lenov/
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -75,28 +81,28 @@ Open for Applications (apply by 23 January)
 http://advanced-courses-wellcome.msgfocus.com/c/16o3vePBAEPZXF67bCPVXEY
 
 Applications are invited for this joint EMBL-EBI-Wellcome Trust workshop.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The week-long programme will combine lectures on modelling approaches, led discussions to identify the key challenges, opportunities and bottlenecks, and practical sessions on network analysis and network-based modelling.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The workshop is aimed at PhD students and researchers with a minimum of one year’s experience in the field of systems biology modelling, and who are using systems-based modelling approaches to understand biomedical problems.
-=======
+==========================================
 La phrase 4 est en : ENG
 	It is beneficial if participants have experience of using pathway modelling in their work.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Full details are on the workshop website.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Limited bursaries for PhD students covering up to 50% of the workshop fee are also available.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Bursaries are awarded on merit.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Applications and bursary requests must be received by 23 January 2015.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Scientific Organising Committee
 Nicolas Le Novère (EMBL-EBI, UK)
@@ -125,4 +131,4 @@ Tel: +441223496433 Fax: +441223496034 Mob:+447833147074 twitter:@lenovere
 Skype:n.lenovere, n.lenovere@gmail.com, ORCID: 0000-0002-6309-7327
 http://lenoverelab.org/, http://lenoverelab.org/perso/lenov/
 
-=======
+==========================================

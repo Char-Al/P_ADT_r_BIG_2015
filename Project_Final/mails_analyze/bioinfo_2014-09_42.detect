@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_42" est globalement en : ENG
+[('ENG', 0.23667649379887526), ('FRA', 0.5706450662905153)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Developer of training material for bioinformatics and systems biology
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Developer of training material for b
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Intitulé du poste : Developer of training material for bioinformatics and  
 systems biology
@@ -19,13 +25,13 @@ Nom du contact : Simon Andrews
 Email du contact : simon.andrews@babraham.ac.uk
 Laboratoire : Babraham Institute
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/developer-training-material-bioinformatics-and-systems-biology
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : Babraham Institute
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/developer-training-material-bioinformatics-and-systems-biology
 
-=======
+==========================================

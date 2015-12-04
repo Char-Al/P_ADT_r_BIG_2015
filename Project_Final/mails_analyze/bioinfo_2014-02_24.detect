@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_24" est globalement en : ENG
+[('ENG', 0.22990273327250066), ('FRA', 2.4535074003462736)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Call for Participations] WWW'14 Tutorial on Concept-Level
  Sentiment Analysis
@@ -9,111 +15,111 @@ Subject : [bioinfo] [Call for Participations] WWW'14 Tutorial on Concept-Level
 Le paragraphe 1 est en : ENG
 	Apologies for cross-posting, 
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Participants are invited to the WWW’14 tutorial on Concept-Level Sentiment Analysis, which will be held within the World Wide Web conference this April in Seoul, Korea. The tutorial aims to provide its participants means to efficiently design models, techniques, tools, and services for concept-level sentiment analysis and their commercial realizations. The tutorial draws on insights resulting from the recent IEEE Intelligent Systems special issues on Concept-Level Opinion and Sentiment Analysis and the IEEE CIM special issue on Computational Intelligence for Natural Language Processing. The tutorial includes a hands-on session to illustrate how to build a concept-level opinion-mining engine step-by-step, from semantic parsing to concept-level reasoning.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	BACKGROUND AND MOTIVATIONS
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	As the Web rapidly evolves, Web users are evolving with it. In an era of social connectedness, people are becoming increasingly enthusiastic about interacting, sharing, and collaborating through social networks, online communities, blogs, Wikis, and other online collaborative media. In recent years, this collective intelligence has spread to many different areas, with particular focus on fields related to everyday life such as commerce, tourism, education, and health, causing the size of the Social Web to expand exponentially.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	The distillation of knowledge from such a large amount of unstructured information, however, is an extremely difficult task, as the contents of today’s Web are perfectly suitable for human consumption, but remain hardly accessible to machines. The opportunity to capture the opinions of the general public about social events, political movements, company strategies, marketing campaigns, and product preferences has raised growing interest both within the scientific community, leading to many exciting open challenges, as well as in the business world, due to the remarkable benefits to be had from marketing and financial market prediction.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Mining opinions and sentiments from natural language, however, is an extremely difficult task as it involves a deep understanding of most of the explicit and implicit, regular and irregular, syntactical and semantic rules proper of a language. Existing approaches mainly rely on parts of text in which opinions and sentiments are explicitly expressed such as polarity terms, affect words and their co-occurrence frequencies. However, opinions and sentiments are often conveyed implicitly through latent semantics, which make purely syntactical approaches ineffective.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Concept-level sentiment analysis focuses on a semantic analysis of text through the use of web ontologies or semantic networks, which allow the aggregation of conceptual and affective information associated with natural language opinions. By relying on external knowledge, such approaches step away from blind use of keywords and word co-occurrence count, but rather rely on the implicit features associated with natural language concepts. Unlike purely syntactical techniques, concept-based approaches are able to detect also sentiments that are expressed in a subtle manner, e.g., through the analysis of concepts that do not explicitly convey any emotion, but which are implicitly linked to other concepts that do so. The bag-of-concepts model can represent semantics associated with natural language much better than bags-of-words. In the bag-of-words model, in fact, a concept such as cloud computing would be split into two separate words, disrupting the semantics of the input sentence (in which, for example, the word cloud could wrongly activate concepts related to weather).
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	The analysis at concept-level allows for the inference of semantic and affective information associated with natural language text and, hence, enables comparative fine-grained feature-based sentiment analysis. Rather than gathering isolated opinions about a whole item (e.g., iPhone5), users are generally more interested in comparing different products according to specific features (e.g., iPhone5’s vs Galaxy S3’s touchscreen), or even sub-features (e.g., fragility of iPhone5’s vs Galaxy S3’s touchscreen). In this context, the construction of comprehensive common and common-sense knowledge bases is key for feature-spotting and polarity detection, respectively. Common-sense, in particular, is necessary to properly deconstruct natural language text into sentiments – for example, to appraise the concept small room as negative for a hotel review and small queue as positive for a post office, or the concept go read the book as positive for a book review but negative for a movie review.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	TUTORIAL PROGRAM
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	• Introduction (5 mins)
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	• New Avenues in Sentiment Analysis Research
 	- From Heuristics to Discourse Structure (5 mins)
 	- From Coarse to Fine-Grained Analysis (5 mins)
 	- From Keywords to Concepts (10 mins)
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	• Concept-Level Models
 	- Knowledge acquisition models (10 mins)
 	- Emotion categorization models (10 mins)
 	- Vector space models (10 mins)
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	• Concept-Level Techniques
 	- Analogical reasoning (10 mins)
 	- Parallel analogy (10 mins)
 	- Spreading activation (10 mins)
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	• Concept-Level Tools
 	- Sentiment resources (15 mins)
 	- Common knowledge repositories (15 mins)
 	- Aspect mining and polarity detection (10 mins)
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	• Building a Concept-Level Opinion-Mining Engine
 	- Semantic parsing (15 mins)
 	- Sentic API (15 mins)
 	- Application Samples (20 mins)
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	• Conclusion (5 mins)
 
-=======
+==========================================
 Le paragraphe 17 est en : FRA
 	IMPACT AND RELEVANCE
 
-=======
+==========================================
 Le paragraphe 18 est en : ENG
 	The World Wide Web Conference is a global event bringing together key researchers, innovators, decision-makers, technologists, and business experts trying to make meaning out of Web data. Within this research and business area, opinion mining and sentiment analysis have become increasingly important subtasks in recent years. However, there are still many challenges, including social information understanding and integration, that need to be addressed. For these reasons, a tutorial on concept-level sentiment analysis is strongly relevant to WWW’14.
 
-=======
+==========================================
 Le paragraphe 19 est en : FRA
 	TARGET AUDIENCE AND PREREQUISITES
 
-=======
+==========================================
 Le paragraphe 20 est en : ENG
 	The target audience includes researchers and professionals in the fields of sentiment analysis, Web data mining, and related areas. The tutorial also aims to attract researchers from industry community as it covers research efforts for the development of applications in fields such as commerce, tourism, education, and health. The audience is expected to have basic computer science skills, but psychologists and sociologists are also very welcome. The tutorial not only covers state-of-the-art approaches to concept-level sentiment analysis, but also provides information about techniques and tools to be used for practical opinion mining.
 
-=======
+==========================================
 Le paragraphe 21 est en : ENG
 	ABOUT THE TUTOR
 
-=======
+==========================================
 Le paragraphe 22 est en : ENG
 	Erik Cambria received his BEng and MEng with honors in Electronic Engineering from the University of Genova, in 2005 and 2008 respectively. In 2011, he has been awarded a PhD in Computing Science and Mathematics, following the completion of an industrial Cooperative Awards in Science and Engineering (CASE) research project, funded by the UK Engineering and Physical Sciences Research Council (EPSRC), which was born from the collaboration between the University of Stirling and the MIT Media Laboratory.
 
-=======
+==========================================
 Le paragraphe 23 est en : ENG
 	Today, Erik is the lead investigator of a MINDEF-funded project on Commonsense Knowledge Representation & Reasoning at the National University of Singapore (Temasek Laboratories) and an associate researcher at the MIT Media Laboratory (Synthetic Intelligence Project). His interests include AI, Semantic Web, KR, NLP, opinion mining and sentiment analysis, affective and cognitive modeling, intention awareness, HCI, and e-health. Erik is also chair of several international conferences, e.g., Extreme Learning Machines (ELM), and workshop series, e.g., ICDM SENTIRE. He is on the editorial board of Springer Cognitive Computation and he is a guest editor of many other leading AI journals. Erik is also a fellow of the Brain Sciences Foundation, the Chinese Academy of Sciences, National Taiwan University, Microsoft Research Asia, and HP Labs India.
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -122,69 +128,69 @@ La phrase 1 est en : ENG
 	Apologies for cross-posting, 
 
 Participants are invited to the WWW’14 tutorial on Concept-Level Sentiment Analysis, which will be held within the World Wide Web conference this April in Seoul, Korea.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The tutorial aims to provide its participants means to efficiently design models, techniques, tools, and services for concept-level sentiment analysis and their commercial realizations.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The tutorial draws on insights resulting from the recent IEEE Intelligent Systems special issues on Concept-Level Opinion and Sentiment Analysis and the IEEE CIM special issue on Computational Intelligence for Natural Language Processing.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The tutorial includes a hands-on session to illustrate how to build a concept-level opinion-mining engine step-by-step, from semantic parsing to concept-level reasoning.
-=======
+==========================================
 La phrase 5 est en : ENG
 	BACKGROUND AND MOTIVATIONS
 
 As the Web rapidly evolves, Web users are evolving with it.
-=======
+==========================================
 La phrase 6 est en : ENG
 	In an era of social connectedness, people are becoming increasingly enthusiastic about interacting, sharing, and collaborating through social networks, online communities, blogs, Wikis, and other online collaborative media.
-=======
+==========================================
 La phrase 7 est en : ENG
 	In recent years, this collective intelligence has spread to many different areas, with particular focus on fields related to everyday life such as commerce, tourism, education, and health, causing the size of the Social Web to expand exponentially.
-=======
+==========================================
 La phrase 8 est en : ENG
 	The distillation of knowledge from such a large amount of unstructured information, however, is an extremely difficult task, as the contents of today’s Web are perfectly suitable for human consumption, but remain hardly accessible to machines.
-=======
+==========================================
 La phrase 9 est en : ENG
 	The opportunity to capture the opinions of the general public about social events, political movements, company strategies, marketing campaigns, and product preferences has raised growing interest both within the scientific community, leading to many exciting open challenges, as well as in the business world, due to the remarkable benefits to be had from marketing and financial market prediction.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Mining opinions and sentiments from natural language, however, is an extremely difficult task as it involves a deep understanding of most of the explicit and implicit, regular and irregular, syntactical and semantic rules proper of a language.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Existing approaches mainly rely on parts of text in which opinions and sentiments are explicitly expressed such as polarity terms, affect words and their co-occurrence frequencies.
-=======
+==========================================
 La phrase 12 est en : ENG
 	However, opinions and sentiments are often conveyed implicitly through latent semantics, which make purely syntactical approaches ineffective.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Concept-level sentiment analysis focuses on a semantic analysis of text through the use of web ontologies or semantic networks, which allow the aggregation of conceptual and affective information associated with natural language opinions.
-=======
+==========================================
 La phrase 14 est en : ENG
 	By relying on external knowledge, such approaches step away from blind use of keywords and word co-occurrence count, but rather rely on the implicit features associated with natural language concepts.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Unlike purely syntactical techniques, concept-based approaches are able to detect also sentiments that are expressed in a subtle manner, e.g., through the analysis of concepts that do not explicitly convey any emotion, but which are implicitly linked to other concepts that do so.
-=======
+==========================================
 La phrase 16 est en : ENG
 	The bag-of-concepts model can represent semantics associated with natural language much better than bags-of-words.
-=======
+==========================================
 La phrase 17 est en : ENG
 	In the bag-of-words model, in fact, a concept such as cloud computing would be split into two separate words, disrupting the semantics of the input sentence (in which, for example, the word cloud could wrongly activate concepts related to weather).
-=======
+==========================================
 La phrase 18 est en : ENG
 	The analysis at concept-level allows for the inference of semantic and affective information associated with natural language text and, hence, enables comparative fine-grained feature-based sentiment analysis.
-=======
+==========================================
 La phrase 19 est en : ENG
 	Rather than gathering isolated opinions about a whole item (e.g., iPhone5), users are generally more interested in comparing different products according to specific features (e.g., iPhone5’s vs Galaxy S3’s touchscreen), or even sub-features (e.g., fragility of iPhone5’s vs Galaxy S3’s touchscreen).
-=======
+==========================================
 La phrase 20 est en : ENG
 	In this context, the construction of comprehensive common and common-sense knowledge bases is key for feature-spotting and polarity detection, respectively.
-=======
+==========================================
 La phrase 21 est en : ENG
 	Common-sense, in particular, is necessary to properly deconstruct natural language text into sentiments – for example, to appraise the concept small room as negative for a hotel review and small queue as positive for a post office, or the concept go read the book as positive for a book review but negative for a movie review.
-=======
+==========================================
 La phrase 22 est en : ENG
 	TUTORIAL PROGRAM
 
@@ -221,51 +227,51 @@ La phrase 22 est en : ENG
 IMPACT AND RELEVANCE
 
 The World Wide Web Conference is a global event bringing together key researchers, innovators, decision-makers, technologists, and business experts trying to make meaning out of Web data.
-=======
+==========================================
 La phrase 23 est en : ENG
 	Within this research and business area, opinion mining and sentiment analysis have become increasingly important subtasks in recent years.
-=======
+==========================================
 La phrase 24 est en : ENG
 	However, there are still many challenges, including social information understanding and integration, that need to be addressed.
-=======
+==========================================
 La phrase 25 est en : ENG
 	For these reasons, a tutorial on concept-level sentiment analysis is strongly relevant to WWW’14.
-=======
+==========================================
 La phrase 26 est en : ENG
 	TARGET AUDIENCE AND PREREQUISITES
 
 The target audience includes researchers and professionals in the fields of sentiment analysis, Web data mining, and related areas.
-=======
+==========================================
 La phrase 27 est en : ENG
 	The tutorial also aims to attract researchers from industry community as it covers research efforts for the development of applications in fields such as commerce, tourism, education, and health.
-=======
+==========================================
 La phrase 28 est en : ENG
 	The audience is expected to have basic computer science skills, but psychologists and sociologists are also very welcome.
-=======
+==========================================
 La phrase 29 est en : ENG
 	The tutorial not only covers state-of-the-art approaches to concept-level sentiment analysis, but also provides information about techniques and tools to be used for practical opinion mining.
-=======
+==========================================
 La phrase 30 est en : ENG
 	ABOUT THE TUTOR
 
 Erik Cambria received his BEng and MEng with honors in Electronic Engineering from the University of Genova, in 2005 and 2008 respectively.
-=======
+==========================================
 La phrase 31 est en : ENG
 	In 2011, he has been awarded a PhD in Computing Science and Mathematics, following the completion of an industrial Cooperative Awards in Science and Engineering (CASE) research project, funded by the UK Engineering and Physical Sciences Research Council (EPSRC), which was born from the collaboration between the University of Stirling and the MIT Media Laboratory.
-=======
+==========================================
 La phrase 32 est en : ENG
 	Today, Erik is the lead investigator of a MINDEF-funded project on Commonsense Knowledge Representation & Reasoning at the National University of Singapore (Temasek Laboratories) and an associate researcher at the MIT Media Laboratory (Synthetic Intelligence Project).
-=======
+==========================================
 La phrase 33 est en : ENG
 	His interests include AI, Semantic Web, KR, NLP, opinion mining and sentiment analysis, affective and cognitive modeling, intention awareness, HCI, and e-health.
-=======
+==========================================
 La phrase 34 est en : ENG
 	Erik is also chair of several international conferences, e.g., Extreme Learning Machines (ELM), and workshop series, e.g., ICDM SENTIRE.
-=======
+==========================================
 La phrase 35 est en : ENG
 	He is on the editorial board of Springer Cognitive Computation and he is a guest editor of many other leading AI journals.
-=======
+==========================================
 La phrase 36 est en : ENG
 	Erik is also a fellow of the Brain Sciences Foundation, the Chinese Academy of Sciences, National Taiwan University, Microsoft Research Asia, and HP Labs India.
 
-=======
+==========================================

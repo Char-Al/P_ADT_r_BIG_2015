@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_71" est globalement en : ENG
+[('ENG', 0.19522354609246867), ('FRA', 0.8582308122712544)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] ECCB RADIANT workshop: Analysis of Differential Isoform Usage by
  RNA-seq: Statistical Methodologies and Open Software
@@ -10,26 +16,26 @@ Le paragraphe 1 est en : FRA
 	
 **CALL FOR ABSTRACT — Deadline June 30***
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	ECCB RADIANT Workshop:
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Analysis of Differential Isoform Usage by RNA-seq: Statistical  
 Methodologies and Open Software
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	WEB: http://www.eccb14.org/program/workshops/rna-seq
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	DATE: 7th September 2014
 VENUE: Palais de la Musique et des Congrès, Place de Bordeaux, 67082  
 Strasbourg, France
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	DESCRIPTION
 There are many computational and statistical challenges in the  
@@ -50,7 +56,7 @@ The workshop is aimed at computational biologists, statisticians and
 genome biologists with an interest in data analysis and statistical  
 methods and applications in transcriptomics.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	INVITED SPEAKERS
 David Kreil (University of Warwick and Boku University Vienna)
@@ -62,19 +68,19 @@ David Rossell (University of Warwick)
 Alejandro Reyes (EMBL)
 Mar Gonzanlez Porta (EBI)
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	SUBMISSIONS
 Short abstracts (max. 1500 chars) can be submitted through EasyChair  
 via the RADIANT workshop submission page:
 https://www.easychair.org/conferences/?conf=radiant2014
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Abstract submission deadline: June 30th, 2014
 Notification of acceptance: July 14th, 2014
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	ORGANIZING COMMITTEE
 Simon Anders (EMBL)
@@ -82,7 +88,7 @@ Wolfgang Huber (EMBL)
 Magnus Rattray (University of Manchester)
 Mark Robinson (University of Zurich)
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	SPONSOR
 http://radiant-project.eu
@@ -90,11 +96,11 @@ RADIANT is funded by the European Union’s Seventh Framework Programme
 for research, technological development and demonstration under grant  
 agreement no 305626.
 
-=======
-Le paragraphe 12 est en : non detect
+==========================================
+Le paragraphe 12 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -118,13 +124,13 @@ Strasbourg, France
 DESCRIPTION
 There are many computational and statistical challenges in the  
 analysis of differential isoform usage by RNA-Seq.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The workshop  
 addresses users and method developers who are interested in better  
 understanding the features of current tools and exploring approaches  
 to method benchmarking.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The workshop will cover the most important  
 current statistical and computational challenges, including:
@@ -139,7 +145,7 @@ across samples/conditions
 The workshop is aimed at computational biologists, statisticians and  
 genome biologists with an interest in data analysis and statistical  
 methods and applications in transcriptomics.
-=======
+==========================================
 La phrase 4 est en : ENG
 	INVITED SPEAKERS
 David Kreil (University of Warwick and Boku University Vienna)
@@ -153,7 +159,7 @@ Mar Gonzanlez Porta (EBI)
 
 SUBMISSIONS
 Short abstracts (max.
-=======
+==========================================
 La phrase 5 est en : ENG
 	1500 chars) can be submitted through EasyChair  
 via the RADIANT workshop submission page:
@@ -176,4 +182,4 @@ for research, technological development and demonstration under grant
 agreement no 305626.
 
 
-=======
+==========================================

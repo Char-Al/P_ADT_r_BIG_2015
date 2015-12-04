@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_31" est globalement en : FRA
+[('FRA', 0.8022745484523405), ('ENG', 109.52047702405515)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Open Access Journal à $2000 l'article
 
@@ -24,11 +30,11 @@ PS:
 2. http://www.hindawi.com/journals/bmri/apc/
 3. http://www.nature.com/news/specials/scipublishing/index.html
 
-=======
-Le paragraphe 2 est en : non detect
+==========================================
+Le paragraphe 2 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -37,20 +43,20 @@ La phrase 1 est en : FRA
 	Bonjour,
 La liste bioinfo est depuis son origine, en octobre 1992, accessible à 
 toutes et tous gratuitement.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Nous n'avons jamais fait payer les annonces publiées par les entreprises 
 privées ou bien évidemment par les structures de recherche publiques.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Il ne me paraît pas raisonnable de faire paraître des annonces pour des 
 journaux open access, des livres open access avec des coûts de 
 participation par article de l'ordre de $2000 sachant que nous n'avons 
 (en tout cas moi) jamais été rétribué pour le travail de rapporteur.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Ce type de mél ne sera donc pas diffusé sur la liste.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Bien cordialement,
 (pour la modératrice et les modérateurs qui sont, je l'espère, d'accord) 
@@ -61,4 +67,4 @@ PS:
 3. http://www.nature.com/news/specials/scipublishing/index.html
 
 
-=======
+==========================================

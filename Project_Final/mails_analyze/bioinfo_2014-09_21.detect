@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_21" est globalement en : ENG
+[('ENG', 0.19126164846283783), ('FRA', 0.24324885059998555)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Stage] Internship or Master thesis in bio-image analysis and
  pipeline development available
@@ -9,7 +15,7 @@ Subject : [bioinfo] [Stage] Internship or Master thesis in bio-image analysis an
 Le paragraphe 1 est en : ENG
 	University of Heidelberg
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	      The laboratory of Prof. Dr. Michael Knop at the Center for
 Molecular Biology (ZMBH) from the University of Heidelberg in Germany
@@ -29,11 +35,11 @@ ImageJ). Instrument automation (LabView), File management
 functionalities to deal with large amounts of imaging data (e.g.
 PYTHON), GUI development (e.g. JAVA).
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	What we deliver:
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	      The applicant will find a stimulating academic environment with
 biologists, physicists and developers working together on systems
@@ -42,17 +48,17 @@ art microscopes and an excellent computing infrastructure that has
 resulted in several high-profile publications. Some funding to allow
 for basic costs of living is available.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Please send applications to Prof. Michael Knop:
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	b.besenbeck@zmbh.uni-heidelberg.de (Subject: Bio-Imaging) or call in
 directly +49-6221/54 4213.
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -64,62 +70,62 @@ La phrase 1 est en : ENG
 Molecular Biology (ZMBH) from the University of Heidelberg in Germany
 is offering positions for motivated students for Master thesis or
 internships (> 3-4 months) with excellent programming skills.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Interested students with a background in physics, mathematics,
 informatics, bioinformatics or biology are welcome to apply.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The
 students will work under supervision of physicists and software
 engineers in close collaboration with biologists.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Depending on the
 interest of the student, work related to quantitative high throughput
 microscopic image analysis of biological specimen or microscope
 automation could be offered.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Informatics skills and excellent
 knowledge of some computer languages is essential, but time will also
 given to learn new languages, if needed for a project.
-=======
+==========================================
 La phrase 6 est en : ENG
 	These can be in
 the area of Image processing and segmentation algorithms (e.g MatLab,
 ImageJ).
-=======
+==========================================
 La phrase 7 est en : ENG
 	Instrument automation (LabView), File management
 functionalities to deal with large amounts of imaging data (e.g.
-=======
+==========================================
 La phrase 8 est en : ENG
 	PYTHON), GUI development (e.g.
-=======
+==========================================
 La phrase 9 est en : FRA
 	JAVA).
-=======
+==========================================
 La phrase 10 est en : ENG
 	What we deliver:
 
       The applicant will find a stimulating academic environment with
 biologists, physicists and developers working together on systems
 biology and imaging projects.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Our lab features several state of the
 art microscopes and an excellent computing infrastructure that has
 resulted in several high-profile publications.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Some funding to allow
 for basic costs of living is available.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Please send applications to Prof. Michael Knop:
 
 b.besenbeck@zmbh.uni-heidelberg.de (Subject: Bio-Imaging) or call in
 directly +49-6221/54 4213.
 
-=======
+==========================================

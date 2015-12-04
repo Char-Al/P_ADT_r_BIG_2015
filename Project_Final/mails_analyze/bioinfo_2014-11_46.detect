@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_46" est globalement en : FRA
+[('ENG', 0.23366404871181945), ('FRA', 0.3535185557260927)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] SOUTENANCE DE THESE - LANGAGE DE PRGRAMMATION POUR LA BIOLOGIE SYNTHETIQUE
  - ADRIEN BASSO BLANDIN
@@ -14,7 +20,7 @@ de synthèse par compilation de spécifications comportementales" qui aura
 lieu le Mardi 25 novembre 2014 à 14h30 à l'amphithéâtre du batiment 
 IBGBI à Evry (à proximité de Paris)
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	laboratoire Ibisc
 Université d'Evry
@@ -22,7 +28,7 @@ IBGBI
 23, Bd de France 91034 - EVRY .
 Plan : https://www.ibisc.univ-evry.fr/acces
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Composition du jury :
 Directeur de thèse :  Franck Delaplace, Professeur au Laboratoire Ibisc.
@@ -40,11 +46,11 @@ de synthèse par compilation de spécifications comportementales
 Mots-clés : Compilation, biologie de synthèse, spécification 
 comportementale, langage.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Résumé :
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	La biologie de synthèse est un domaine émergent en quête d’outils afin de
 formaliser et d’automatiser la caractérisation et la conception de 
@@ -57,7 +63,7 @@ De cette définition, le compilateur Ggc recherche un assemblage de
 composants biologiques
 capable de reproduire le comportement spécifié.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	  Gubs est un langage déclaratif que nous pouvons assimiler à un langage 
 de requêtes évolué de recherche
@@ -71,15 +77,15 @@ plus généralement un schéma similaire au système de preuve automatique
 qui permet de garantir formellement
 la correction de cet assemblage.
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Au plaisir de vous y voir nombreux,
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Adrien Basso-Blandin
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	-- 
 Adrien Basso-Blandin, Phd Student - Computer Science &  Synthetic biology
@@ -87,11 +93,11 @@ www.ibisc.univ-evry.fr/~abasso
 IBISC Lab   -  IBGBI -  23, boulevard de France - 91037 Evry - FRANCE
 Evry Val d'Essonne University
 
-=======
-Le paragraphe 10 est en : non detect
+==========================================
+Le paragraphe 10 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -108,13 +114,13 @@ laboratoire Ibisc
 Université d'Evry
 IBGBI
 23, Bd de France 91034 - EVRY .
-=======
+==========================================
 La phrase 2 est en : FRA
 	Plan : https://www.ibisc.univ-evry.fr/acces
 
 Composition du jury :
 Directeur de thèse :  Franck Delaplace, Professeur au Laboratoire Ibisc.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Rapporteur : Cédric Lhoussaine, HDR, au laboratoire LIFL
 Rapporteur : Olivier Roux, Professeur au laboratoire IRCCyN
@@ -129,44 +135,44 @@ Conception d’un langage dédié à la conception de fonctions biologiques
 de synthèse par compilation de spécifications comportementales
 Mots-clés : Compilation, biologie de synthèse, spécification 
 comportementale, langage.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Résumé :
 
 La biologie de synthèse est un domaine émergent en quête d’outils afin de
 formaliser et d’automatiser la caractérisation et la conception de 
 systèmes biologiques.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Dans ce cadre, nous proposons de définir le langage GUBS (Genetic 
 Unified Behaviour Specification)
   utilisé pour  spécifier de manière comportementale les systèmes 
 biologiques à synthétiser.
-=======
+==========================================
 La phrase 6 est en : FRA
 	De cette définition, le compilateur Ggc recherche un assemblage de 
 composants biologiques
 capable de reproduire le comportement spécifié.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Gubs est un langage déclaratif que nous pouvons assimiler à un langage 
 de requêtes évolué de recherche
 de comportements décrits par un ensemble de relations causales.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Associé 
 à ce langage, le  compilateur Ggc
 sélectionne automatiquement les composants  pour qu’une fois assemblés 
 leur comportement collectif "inclut"
   celui décrit.
-=======
+==========================================
 La phrase 9 est en : FRA
 	La compilation d’une spécification Gubs s’appuie sur le 
 principe d’ACI-Unification en utilisant
 plus généralement un schéma similaire au système de preuve automatique 
 qui permet de garantir formellement
 la correction de cet assemblage.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Au plaisir de vous y voir nombreux,
 
@@ -181,4 +187,4 @@ IBISC Lab   -  IBGBI -  23, boulevard de France - 91037 Evry - FRANCE
 Evry Val d'Essonne University
 
 
-=======
+==========================================

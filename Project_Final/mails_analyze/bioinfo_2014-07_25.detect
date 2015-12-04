@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_25" est globalement en : FRA
+[('FRA', 0.163316050613702), ('ENG', 0.23095991150085124)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDI autre] ADMINISTRATEUR DE PLATEFORME DE CLOUD COMPUTING POUR L’ANALYSE DE DONNEES BIOLOGIQUES
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : ADMINISTRATEUR DE PLATEFORME DE CLOUD COMPUTING POUR
 L’ANALYSE DE DONNEES BIOLOGIQUES
@@ -20,16 +26,16 @@ Nom du contact : Julie DUMONTET
 Email du contact : julie.dumontet@bioaster.org
 Laboratoire : BIOASTER
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/administrateur-de-plateforme-de-cloud-computing-pour-l%E2%80%99analyse-de-donnees-biologiques
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -52,4 +58,4 @@ http://www.sfbi.fr/content/administrateur-de-plateforme-de-cloud-computing-pour-
 
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_48" est globalement en : FRA
+[('ENG', 0.5061341772694081), ('FRA', 0.745416654240423)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDD Post-doc/IR] Position of bioinformatician in cancer
  genomics
@@ -9,7 +15,7 @@ Subject : [bioinfo] [Emploi][CDD Post-doc/IR] Position of bioinformatician in ca
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Position of bioinformatician in cancer genomics
 Type de poste : CDD Post-doc/IR
@@ -19,16 +25,16 @@ Nom du contact : Sandrine ROULLAND
 Email du contact : roulland@ciml.univ-mrs.fr
 Laboratoire : Centre d'Immunologie de Marseille Luminy
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/position-bioinformatician-cancer-genomics
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -48,4 +54,4 @@ Voir la description complète du poste sur
 http://www.sfbi.fr/content/position-bioinformatician-cancer-genomics
 
 
-=======
+==========================================

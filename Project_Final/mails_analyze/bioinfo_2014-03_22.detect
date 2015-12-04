@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_22" est globalement en : FRA
+[('FRA', 0.29903792085580083), ('ENG', 1.8240206889431425)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] ERRATUM : Recrutement d’undéveloppeur Web / PHP - Imagine - institut des maladies génétiques - Paris
 
@@ -9,11 +15,11 @@ Le paragraphe 1 est en : FRA
 	ERRATUM : Ne pas tenir compte de la date limite de dépôt de candidature dans le profil de poste envoyé hier.
 Plus d'information sur l'institut Imagine : http://www.institutimagine.org
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Le 6 mars 2014 à 17:44, Nicolas Garcelon <nicolas.garcelon@institutimagine.org> a écrit :
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	> Recrutement d’un développeur Web / PHP
 > 
@@ -97,18 +103,18 @@ Le paragraphe 3 est en : FRA
 > 
 > 
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : FRA
 	ERRATUM : Ne pas tenir compte de la date limite de dépôt de candidature dans le profil de poste envoyé hier.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Plus d'information sur l'institut Imagine : http://www.institutimagine.org
 
@@ -118,7 +124,7 @@ Le 6 mars 2014 à 17:44, Nicolas Garcelon <nicolas.garcelon@institutimagine.org>
 > Recrutement d’un développeur Web / PHP
 > 
 > L'Institut hospitalo-universitaire (IHU) sur les maladies génétiques - Imagine développe des programmes intégrés de recherche et de soins sur les maladies génétiques à l'hôpital Necker - Enfants Malades.
-=======
+==========================================
 La phrase 3 est en : FRA
 	> 
 > MISSION ET FONCTIONS
@@ -128,18 +134,18 @@ La phrase 3 est en : FRA
 > 	• de bases de données pour les équipes de recherche : constitution de cohortes de patient et analyse des données ;
 > 	• d’un entrepôt de données biomédicales: moteur de recherche et fouille de données ;
 > 	• d’outils transversaux : courbes de croissances, pancartes, etc.
-=======
+==========================================
 La phrase 4 est en : FRA
 	> 
 > La montée en charge de la plateforme nécessite le recrutement d’un ingénieur informatique.
-=======
+==========================================
 La phrase 5 est en : FRA
 	> 
 > Le candidat devra être polyvalent sur l’ensemble des développements réalisés par la plateforme.
-=======
+==========================================
 La phrase 6 est en : FRA
 	> Il sera sous la direction du responsable informatique de la plateforme base de données.
-=======
+==========================================
 La phrase 7 est en : FRA
 	> 
 > COMPETENCES
@@ -173,7 +179,7 @@ La phrase 7 est en : FRA
 > - Diplôme d'ingénieur ou universitaire informatique-développement/bases de données 
 > 
 > - Expérience significative dans le domaine de qualification (2 ans minimum).
-=======
+==========================================
 La phrase 8 est en : FRA
 	> 
 > NATURE DU POSTE
@@ -181,7 +187,7 @@ La phrase 8 est en : FRA
 > Début du contrat : dés que possible
 > 
 > Localisation : Institut Imagine / Hôpital Necker Enfant Malade, Paris 15 .
-=======
+==========================================
 La phrase 9 est en : FRA
 	> 
 > Salaire et statut à négocier selon le profil et l’expérience
@@ -190,7 +196,7 @@ La phrase 9 est en : FRA
 > MODALITES DU RECRUTEMENT
 > 
 > Le dossier de candidature, comprenant une lettre de motivation manuscrite et un curriculum vitae détaillé, est à adresser, sous la référence Imagine_34, à recrutement@institutimagine.org.
-=======
+==========================================
 La phrase 10 est en : ENG
 	> 
 > CONTACTS
@@ -214,4 +220,4 @@ La phrase 10 est en : ENG
 > 
 
 
-=======
+==========================================

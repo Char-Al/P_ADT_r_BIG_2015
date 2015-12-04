@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_56" est globalement en : ENG
+[('ENG', 0.2706117261995839), ('FRA', 0.47689133892778984)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] ECCB'14 tutorial: Multivariate methodologies for the exploration of large biological data sets. 
 
@@ -9,48 +15,48 @@ Le paragraphe 1 est en : ENG
 	ECCB Tutorial T04
 Multivariate methodologies for the exploration of large biological data sets. Application in R using the mixOmics package
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Date: Sunday Sept 7, 2014
 Venue: FORUM building, Faculté de Médecine, 4, rue Kirschleger, Strasbourg
 Time: 9am  5.30pm (registration starts from 8am)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Contact: mixomics@math.univ-toulouse.fr 
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	More details: http://www.eccb14.org/program/tutorials/mixomics
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	How to register: http://www.eccb14.org/registration
 Registration includes lunch & coffee breaks on the day of the workshop and the tutorial material (.pdf and/or print). ECCB Tutorial rates: 110  (academic) or 60  (student)
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Description
 The objective of this tutorial is to introduce the fundamental concepts behind projection-based approaches and illustrate their application on some exemplar studies using the R package mixOmics.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Multivariate projection approaches are useful exploratory tools to get a first understanding of large and complex data sets. These approaches are extremely efficient on large data sets, and can also answer complex questions. Such approaches include Principal Component Analysis (PCA, Joliffe 2002) and other variants, Partial Least Squares regression (PLS, Wold 2001), PLS-Discriminant Analysis, Canonical Correlation Analysis (CCA, Hotelling 1936). These approaches enable the reduction of the dimension of the data by projecting them into a smaller subspace. Recent developments proposed the so-called `sparse approaches, which include Lasso penalisations to allow variable selection (Tibshirani 2001). 
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	 PCA is the oldest and most popular multivariate technique but often, little is known about how this approach is solved and what are the limitations. More sophisticated approaches like PLS and CCA have recently been extended to deal with the large dimension (sparse PLS, or regularized CCA) and were proven to bring biologically meaningful results in many studies. Contrary to PCA, PLS and CCA enable the integration of two types of data sets. 
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Since 2009, we have implemented many multivariate approaches and their sparse variants in the R package mixOmics to be used by the statistical and bioinformatics community. Full tutorials are given on our: 
 http://perso.math.univ-toulouse.fr/mixomics/
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	In this tutorial, we will focus on the application of these approaches to medium and high throughput biological data (transcriptomics, metabolomics, proteomics data) using PCA, CCA, PLS, PLS-DA and the variants that the mixOmics team and collaborators have developed.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Presenters
 The presenters are all key developers of mixOmics.
@@ -58,7 +64,7 @@ The presenters are all key developers of mixOmics.
 -Dr Sébastien Déjean (Institut de Mathématiques de Toulouse, Université de Toulouse, France). Sebastien is a statistician research engineer in the Universite de Toulouse. Through his support activities to research, he contribues to various projects particularly in the fields of high throughput biology and information retrieval systems. 
 -Dr Ignacio González (Institut de Mathématiques de Toulouse, Université de Toulouse, Institut National de la Recherche Agronomique, France). Ignacio is working at the plateforme de bioinformatique et biostatistique de Toulouse. Ignacio has been working in several wet laboratories (INSERM, INRA, CNRS, INSA) where he provided statistical support. He has considerable experience in analyzing a vast range of biological data.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Target Audience
 Postgraduate students, postdoctoral fellows and researchers with basic statistical knowledge, in need to
@@ -66,14 +72,14 @@ Postgraduate students, postdoctoral fellows and researchers with basic statistic
             -use graphical techniques to better visualize data
             - apply multivariate projection methodologies to large data sets.
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	Prerequisite and requirements
 We expect the audience to have a good working knowledge in R.
 Attendees are requested to bring their own laptops, having installed the software RStudio http://www.rstudio.com/ and the R package mixOmics.
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -81,7 +87,7 @@ Attendees are requested to bring their own laptops, having installed the softwar
 La phrase 1 est en : ENG
 	ECCB Tutorial T04
 Multivariate methodologies for the exploration of large biological data sets.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Application in R using the mixOmics package
 
@@ -95,93 +101,93 @@ More details: http://www.eccb14.org/program/tutorials/mixomics
 
 How to register: http://www.eccb14.org/registration
 Registration includes lunch & coffee breaks on the day of the workshop and the tutorial material (.pdf and/or print).
-=======
+==========================================
 La phrase 3 est en : ENG
 	ECCB Tutorial rates: 110  (academic) or 60  (student)
 
 Description
 The objective of this tutorial is to introduce the fundamental concepts behind projection-based approaches and illustrate their application on some exemplar studies using the R package mixOmics.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Multivariate projection approaches are useful exploratory tools to get a first understanding of large and complex data sets.
-=======
+==========================================
 La phrase 5 est en : ENG
 	These approaches are extremely efficient on large data sets, and can also answer complex questions.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Such approaches include Principal Component Analysis (PCA, Joliffe 2002) and other variants, Partial Least Squares regression (PLS, Wold 2001), PLS-Discriminant Analysis, Canonical Correlation Analysis (CCA, Hotelling 1936).
-=======
+==========================================
 La phrase 7 est en : ENG
 	These approaches enable the reduction of the dimension of the data by projecting them into a smaller subspace.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Recent developments proposed the so-called `sparse approaches, which include Lasso penalisations to allow variable selection (Tibshirani 2001).
-=======
+==========================================
 La phrase 9 est en : ENG
 	PCA is the oldest and most popular multivariate technique but often, little is known about how this approach is solved and what are the limitations.
-=======
+==========================================
 La phrase 10 est en : ENG
 	More sophisticated approaches like PLS and CCA have recently been extended to deal with the large dimension (sparse PLS, or regularized CCA) and were proven to bring biologically meaningful results in many studies.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Contrary to PCA, PLS and CCA enable the integration of two types of data sets.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Since 2009, we have implemented many multivariate approaches and their sparse variants in the R package mixOmics to be used by the statistical and bioinformatics community.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Full tutorials are given on our: 
 http://perso.math.univ-toulouse.fr/mixomics/
 
 In this tutorial, we will focus on the application of these approaches to medium and high throughput biological data (transcriptomics, metabolomics, proteomics data) using PCA, CCA, PLS, PLS-DA and the variants that the mixOmics team and collaborators have developed.
-=======
+==========================================
 La phrase 14 est en : FRA
 	Presenters
 The presenters are all key developers of mixOmics.
-=======
+==========================================
 La phrase 15 est en : FRA
 	-Dr Kim-Anh Lê Cao (The University of Queensland Dimantina Insitute, Brisbane, Australia).
-=======
+==========================================
 La phrase 16 est en : ENG
 	Kim-Anh is a biostatistician researcher in the University of Queensland, Brisbane, Australia.
-=======
+==========================================
 La phrase 17 est en : ENG
 	Her institute has a particular focus on severe and chronic diseases such as cancer and diseases involving the immune system, including arthritis, chronic infections, and diabetes.
-=======
+==========================================
 La phrase 18 est en : ENG
 	Together with the mixOmics team, Kim-Anh continues to develop methodologies to analyse complex biological studies.
-=======
+==========================================
 La phrase 19 est en : FRA
 	-Dr Sébastien Déjean (Institut de Mathématiques de Toulouse, Université de Toulouse, France).
-=======
+==========================================
 La phrase 20 est en : ENG
 	Sebastien is a statistician research engineer in the Universite de Toulouse.
-=======
+==========================================
 La phrase 21 est en : ENG
 	Through his support activities to research, he contribues to various projects particularly in the fields of high throughput biology and information retrieval systems.
-=======
+==========================================
 La phrase 22 est en : ENG
 	-Dr Ignacio González (Institut de Mathématiques de Toulouse, Université de Toulouse, Institut National de la Recherche Agronomique, France).
-=======
+==========================================
 La phrase 23 est en : FRA
 	Ignacio is working at the plateforme de bioinformatique et biostatistique de Toulouse.
-=======
+==========================================
 La phrase 24 est en : ENG
 	Ignacio has been working in several wet laboratories (INSERM, INRA, CNRS, INSA) where he provided statistical support.
-=======
+==========================================
 La phrase 25 est en : ENG
 	He has considerable experience in analyzing a vast range of biological data.
-=======
+==========================================
 La phrase 26 est en : ENG
 	Target Audience
 Postgraduate students, postdoctoral fellows and researchers with basic statistical knowledge, in need to
             -explore large data sets
             -use graphical techniques to better visualize data
             - apply multivariate projection methodologies to large data sets.
-=======
+==========================================
 La phrase 27 est en : ENG
 	Prerequisite and requirements
 We expect the audience to have a good working knowledge in R.
 Attendees are requested to bring their own laptops, having installed the software RStudio http://www.rstudio.com/ and the R package mixOmics.
 
-=======
+==========================================

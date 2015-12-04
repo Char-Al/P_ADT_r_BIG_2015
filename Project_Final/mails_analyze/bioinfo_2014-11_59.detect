@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_59" est globalement en : FRA
+[('FRA', 0.8355950511129739), ('ENG', 6.039985013741439)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] journée biologie intégrative , 17 décembre , Lille
 
@@ -8,31 +14,31 @@ Subject : [bioinfo] journée biologie intégrative , 17 décembre , Lille
 Le paragraphe 1 est en : FRA
 	bonjour
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	La plate-forme de bio-informatique de Lille organise le 17 décembre 
 prochain
 une journée scientifique autour de la biologie intégrative. Le programme et
 le formulaire d'inscription sont disponibles à l'URL:
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	http://www.lifl.fr/~touzet/PPF/integrative.html
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Date limite d'inscription: 30 novembre
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	bien cordialement,
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Hélène
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,7 +49,7 @@ La phrase 1 est en : FRA
 La plate-forme de bio-informatique de Lille organise le 17 décembre 
 prochain
 une journée scientifique autour de la biologie intégrative.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Le programme et
 le formulaire d'inscription sont disponibles à l'URL:
@@ -56,4 +62,4 @@ bien cordialement,
 
 Hélène
 
-=======
+==========================================

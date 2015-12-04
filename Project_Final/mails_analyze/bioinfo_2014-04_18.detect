@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_18" est globalement en : ENG
+[('ENG', 0.2971401586572174), ('FRA', 0.6658854274612002)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Call for abstracts: Regulatory Genomics Special Interest Group (RegGenSIG)
 
@@ -8,14 +14,14 @@ Subject : [bioinfo] Call for abstracts: Regulatory Genomics Special Interest Gro
 Le paragraphe 1 est en : ENG
 	FYI: http://light.ece.ohio.edu/~reggen/2014/
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	*Regulatory Genomics Special Interest Group (RegGenSIG)*
 Special Interest Group (SIG) at ISMB 2014 <http://www.iscb.org/ismb2014>
 July 12, 2014, Boston, Massachusetts
 SIG Hours: 8:30 a.m - 6:00 p.m.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Regulatory genomics involves the study of the genomic 'control system,'
 which determines how, when and where to activate the 'blueprint' encoded
@@ -27,7 +33,7 @@ is to foster a collaborative community wherein scientists convene to
 solve difficult research problems in all areas of computational
 regulatory genomics.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	RegGenSIG will include presentations and posters that cover the broad
 spectrum of topics important to regulatory genomics research. The goal
@@ -36,7 +42,7 @@ methods to consider sequence-based reconstruction of regulatory networks
 and prediction of gene expression. Topics to be addressed in the SIG
 include the following:
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	 1. inference of gene regulatory networks;
  2. utilization of information pertaining to epigenetics, chromatin
@@ -47,11 +53,11 @@ Le paragraphe 5 est en : ENG
  5. pattern discovery in sequences; and
  6. sequence based modeling of gene expression.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	      CALL FOR EXTENDED ABSTRACTS
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	To make an oral presentation at RegGenSIG, extended abstracts should be
 submitted by April 27, 2014 to sinhas@illinois.edu
@@ -59,22 +65,22 @@ submitted by April 27, 2014 to sinhas@illinois.edu
 subject line. An abstract should be a maximum of 3 pages excluding
 bibliography. Authors will be notified by May 8, 2014.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	      CALL FOR POSTERS
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	For poster presentations, authors should submit a 250 word abstract no
 later than May 18, 2014 to sinhas@illinois.edu
 <mailto:sinhas@illinois.edu>, including "RegGen Abstract Poster" in the
 subject line. Authors will be notified no later than May 25, 2014.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	      KEY DATES
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	  * April 20, 2014 Due date for extended abstracts (2-3 pages) for oral
     presentations
@@ -85,11 +91,11 @@ Le paragraphe 11 est en : ENG
   * June 6, 2014 Early registration cut-off date
   * July 12, 2014 RegGenSIG meeting
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	*Program Chairs:*
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	  * Jason Ernst, UCLA, USA, jason.ernst@ucla.edu
     <mailto:jason.ernst@ucla.edu>
@@ -101,22 +107,22 @@ Le paragraphe 13 est en : FRA
   * Morgane Thomas-Chollier, Ecole Normale Superieure,
     France, mthomas@biologie.ens.fr <mailto:mthomas@biologie.ens.fr>
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	*General Chairs:*
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	  * Finn Drabløs, Norwegian University of Science and Technology,
     Norway, finn.drablos@ntnu.no <mailto:finn.drablos@ntnu.no>
   * Lonnie R. Welch, Ohio University, USA, welch@ohio.edu
     <mailto:welch@ohio.edu>
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	*SIG Advisory Committee:*
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	  * Tim Bailey, University of Queensland, Australia
   * Harmen Bussemaker, Columbia University
@@ -141,11 +147,11 @@ Le paragraphe 17 est en : ENG
   * Weixiong Zhang, Washington University, USA
   * Igor Zwir, University of Granada
 
-=======
-Le paragraphe 18 est en : non detect
+==========================================
+Le paragraphe 18 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -164,32 +170,32 @@ SIG Hours: 8:30 a.m - 6:00 p.m.
 Regulatory genomics involves the study of the genomic 'control system,'
 which determines how, when and where to activate the 'blueprint' encoded
 in the genome.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Regulatory genomics is the topic of much research
 activity worldwide.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Since computational methods are important in the
 study of gene regulation, the RegGenSIG meeting focuses on
 bioinformatics for regulatory genomics.
-=======
+==========================================
 La phrase 4 est en : ENG
 	An important goal of the meeting
 is to foster a collaborative community wherein scientists convene to
 solve difficult research problems in all areas of computational
 regulatory genomics.
-=======
+==========================================
 La phrase 5 est en : ENG
 	RegGenSIG will include presentations and posters that cover the broad
 spectrum of topics important to regulatory genomics research.
-=======
+==========================================
 La phrase 6 est en : ENG
 	The goal
 is to bring together experts in experimental methods and computational
 methods to consider sequence-based reconstruction of regulatory networks
 and prediction of gene expression.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Topics to be addressed in the SIG
 include the following:
@@ -202,7 +208,7 @@ include the following:
     ChIP-seq data;
  5. pattern discovery in sequences; and
  6. sequence based modeling of gene expression.
-=======
+==========================================
 La phrase 8 est en : ENG
 	CALL FOR EXTENDED ABSTRACTS
 
@@ -210,14 +216,14 @@ To make an oral presentation at RegGenSIG, extended abstracts should be
 submitted by April 27, 2014 to sinhas@illinois.edu
 <mailto:sinhas@illinois.edu>, including "RegGen Abstract Oral" in the
 subject line.
-=======
+==========================================
 La phrase 9 est en : ENG
 	An abstract should be a maximum of 3 pages excluding
 bibliography.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Authors will be notified by May 8, 2014.
-=======
+==========================================
 La phrase 11 est en : ENG
 	CALL FOR POSTERS
 
@@ -225,10 +231,10 @@ For poster presentations, authors should submit a 250 word abstract no
 later than May 18, 2014 to sinhas@illinois.edu
 <mailto:sinhas@illinois.edu>, including "RegGen Abstract Poster" in the
 subject line.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Authors will be notified no later than May 25, 2014.
-=======
+==========================================
 La phrase 13 est en : ENG
 	KEY DATES
 
@@ -292,4 +298,4 @@ La phrase 13 est en : ENG
 
 
 
-=======
+==========================================

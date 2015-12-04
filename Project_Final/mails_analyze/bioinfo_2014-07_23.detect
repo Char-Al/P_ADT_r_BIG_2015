@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_23" est globalement en : FRA
+[('FRA', 0.2753853450571363), ('ENG', 22.792952765736004)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Poste de développeur d'applications informatiques Big Data à l'Institut Curie
 
@@ -14,7 +20,7 @@ bioinformatique de l'unité U900 « Cancer et génome : bioinformatique, biostat
 épidémiologie d'un système complexe » (unité mixte INSERM, Mines ParisTech, Institut Curie), et
 en étroite collaboration avec nos collaborateurs biologistes et cliniciens de lInstitut Curie.
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Contexte:
 Riche d'une forte culture interdisciplinaire, l'Institut Curie est l'un des plus importants centres
@@ -25,7 +31,7 @@ culturel et scientifique. L'unité U900 compte près de 80 chercheurs et étudia
 statisticiens, informaticiens, biologistes, physiciens, médecins et bioanalystes) en bioinformatique,
 biostatistiques et biologie des systèmes.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Missions:
 L'Institut Curie utilise de multiples approches moléculaires à haut-débit (biopuces, séquençage à
@@ -47,7 +53,7 @@ solutions développées répondent à leurs besoins. Plus précisément, le cand
          participer à la veille technologique
  
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Profil:
 De formation Bac +5 (diplôme d'ingénieur ou master) en Informatique, le candidat devra
@@ -60,14 +66,14 @@ données noSQL, Apache Lucene (Elasticsearch) seront appréciées. Le candidat d
 excellente capacité à travailler en équipe et à communiquer en anglais et en français, et faire
 preuve d'autonomie dans son travail.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Candidature:
 Pour postuler à ce poste, merci de nous faire parvenir une lettre de motivation, un CV, ainsi que
 trois référents à l'adresse bcsb72@curie.fr.
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -77,58 +83,58 @@ La phrase 1 est en : FRA
 (contrat COD d'une durée minimale de 18 mois et maximale de 36 mois)
 Un poste de développeur d'applications informatiques Big Data est ouvert à l'Institut Curie
 (http://www.curie.fr) à Paris.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Le développeur travaillera au sein de la plate-forme de
 bioinformatique de l'unité U900 « Cancer et génome : bioinformatique, biostatistiques et
 épidémiologie d'un système complexe » (unité mixte INSERM, Mines ParisTech, Institut Curie), et
 en étroite collaboration avec nos collaborateurs biologistes et cliniciens de lInstitut Curie.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Contexte:
 Riche d'une forte culture interdisciplinaire, l'Institut Curie est l'un des plus importants centres
 européens de recherche contre le cancer.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Il comporte également un hôpital spécialisé dans le
 traitement des cancers et par conséquent, l'expertise de l'Institut Curie s'étend de la recherche
 fondamentale au soin du patient.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Il est situé dans le centre de Paris dans un riche environnement
 culturel et scientifique.
-=======
+==========================================
 La phrase 6 est en : FRA
 	L'unité U900 compte près de 80 chercheurs et étudiants (mathématiciens,
 statisticiens, informaticiens, biologistes, physiciens, médecins et bioanalystes) en bioinformatique,
 biostatistiques et biologie des systèmes.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Missions:
 L'Institut Curie utilise de multiples approches moléculaires à haut-débit (biopuces, séquençage à
 haut-débit, phénotypage, protéomique, etc.)
-=======
+==========================================
 La phrase 8 est en : FRA
 	qui génèrent des flux d'information sans précédent et
 ouvrent de nouvelles voies de recherche contre le cancer ; l'augmentation massive du volume,
 mais aussi la complexité, l'hétérogénéité et les multiples niveaux de lecture de ces données sont
 cependant autant d'obstacles à leur interprétation et à leur utilisation rationnelle par les acteurs de
 l'Institut Curie : cliniciens, pathologistes, biologistes, biostatisticiens et bioinformaticiens.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Afin de rendre cette connaissance intelligible et utile à l'ensemble des acteurs, l'Institut Curie a
 choisi de développer une solution adaptée, orientée utilisateur, d'intégration et de croisement des
 données à haut-débit.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Le candidat devra concevoir et implémenter des solutions informatiques
 nécessaires à l'intégration de ces données hétérogènes.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Il devra par ailleurs interagir avec les
 utilisateurs afin d'appréhender au mieux les spécificités de leurs activités et de s'assurer que les
 solutions développées répondent à leurs besoins.
-=======
+==========================================
 La phrase 12 est en : FRA
 	Plus précisément, le candidat devra:
          participer au recueil des besoins auprès des utilisateurs
@@ -143,24 +149,24 @@ De formation Bac +5 (diplôme d'ingénieur ou master) en Informatique, le candid
 impérativement démontrer une bonne connaissance du développement logiciel, en particulier dans
 le domaine des IHM, avec les langages Java (et de l'environnement web associé JSP/JSF) et
 Javascript (AngularJS, D3.js).
-=======
+==========================================
 La phrase 13 est en : FRA
 	Une bonne connaissance de la modélisation (UML), et des bases de
 données (mySQL) est également requise.
-=======
+==========================================
 La phrase 14 est en : FRA
 	Des connaissance en services web (SOAP) ainsi que
 des compétences sur les technologies liées à l'exploitation des Big Data telles que le bases de
 données noSQL, Apache Lucene (Elasticsearch) seront appréciées.
-=======
+==========================================
 La phrase 15 est en : FRA
 	Le candidat devra avoir une
 excellente capacité à travailler en équipe et à communiquer en anglais et en français, et faire
 preuve d'autonomie dans son travail.
-=======
+==========================================
 La phrase 16 est en : FRA
 	Candidature:
 Pour postuler à ce poste, merci de nous faire parvenir une lettre de motivation, un CV, ainsi que
 trois référents à l'adresse bcsb72@curie.fr.
 
-=======
+==========================================

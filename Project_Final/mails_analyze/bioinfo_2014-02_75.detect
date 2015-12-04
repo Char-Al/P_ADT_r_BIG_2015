@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_75" est globalement en : FRA
+[('FRA', 1.3676574769412229), ('ENG', 4.610549715612623)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] M2 Biologie Systémique et Synthétique (mSSB)
 
@@ -8,33 +14,33 @@ Subject : [bioinfo] M2 Biologie Systémique et Synthétique (mSSB)
 Le paragraphe 1 est en : FRA
 	Cher(e) collègue,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Les candidatures pour le Master 2 de Biologie Systémique et Synthétique - mSSB - sont ouvertes jusqu'au 1er avril 2014 (pour la première session) sur le site : www.mssb.fr.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Ce M2 proposé par l’Université d’Evry-Val-d’Essonne et la fondation Paris-Saclay, en partenariat avec AgroParis Tech, Ecole Centrale Paris, Télécom SudParis et Sup'Biotech, offre une formation originale dans un environnement scientifique privilégié avec notamment la proximité de Genopole®.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Le mSSB est profondément trans-disciplinaire et s’adresse à des étudiants de Biologie, Informatique, Mathématiques appliquées, Physique, Chimie, ou Sciences de l’ingénieur. C’est pourquoi nous vous sollicitons pour une diffusion la plus large possible aux enseignants, aux responsables, et surtout aux étudiants de toutes les filières concernées.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Merci par avance de votre contribution,
 Cordialement,
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Pour le comité exécutif du mSSB,
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Mme Dominique ZELISZEWSKI
 Communication scientifique
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	iSSB
 Genopole®, CNRS FRE3561, PRES UniverSud Paris, UEVE
@@ -43,15 +49,15 @@ Genopole Campus 1 - Genavenir 6
 Téléphone : 01 69 47 44 46 - Facsimilé : 01 69 47 44 37
 dominique.zeliszewski@issb.genopole.fr
 
-=======
-Le paragraphe 9 est en : non detect
+==========================================
+Le paragraphe 9 est en : n
 	 
 
-=======
-Le paragraphe 10 est en : non detect
+==========================================
+Le paragraphe 10 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -60,16 +66,16 @@ La phrase 1 est en : FRA
 	Cher(e) collègue,
 
 Les candidatures pour le Master 2 de Biologie Systémique et Synthétique - mSSB - sont ouvertes jusqu'au 1er avril 2014 (pour la première session) sur le site : www.mssb.fr.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Ce M2 proposé par l’Université d’Evry-Val-d’Essonne et la fondation Paris-Saclay, en partenariat avec AgroParis Tech, Ecole Centrale Paris, Télécom SudParis et Sup'Biotech, offre une formation originale dans un environnement scientifique privilégié avec notamment la proximité de Genopole®.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Le mSSB est profondément trans-disciplinaire et s’adresse à des étudiants de Biologie, Informatique, Mathématiques appliquées, Physique, Chimie, ou Sciences de l’ingénieur.
-=======
+==========================================
 La phrase 4 est en : FRA
 	C’est pourquoi nous vous sollicitons pour une diffusion la plus large possible aux enseignants, aux responsables, et surtout aux étudiants de toutes les filières concernées.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Merci par avance de votre contribution,
 Cordialement,
@@ -92,4 +98,4 @@ dominique.zeliszewski@issb.genopole.fr
 
 
 
-=======
+==========================================

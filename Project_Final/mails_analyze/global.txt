@@ -115,7 +115,7 @@ bioinfo_2014-04_107	FRA
 bioinfo_2014-02_86	FRA
 bioinfo_2014-10_40	FRA
 bioinfo_2014-05_48	FRA
-bioinfo_2014-07_52	non detect
+bioinfo_2014-07_52	n
 bioinfo_2014-01_9	FRA
 bioinfo_2014-06_53	ENG
 bioinfo_2014-09_68	FRA
@@ -834,7 +834,7 @@ bioinfo_2014-11_33	ENG
 bioinfo_2014-07_50	FRA
 bioinfo_2014-05_41	ENG
 bioinfo_2014-09_49	FRA
-bioinfo_2014-07_37	non detect
+bioinfo_2014-07_37	n
 bioinfo_2014-05_67	ENG
 bioinfo_2014-04_23	FRA
 bioinfo_2014-11_44	FRA

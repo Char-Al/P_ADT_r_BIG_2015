@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_24" est globalement en : FRA
+[('FRA', 0.25300796811332965), ('ENG', 0.380383649850395)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] M2 - Prediction de ligands peptidiques du complexe majeur d'histocompatibilite par design computationnel de proteines
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] M2 - Prediction de ligands peptidiques du co
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : M2 - Prediction de ligands peptidiques du complexe  
 majeur d'histocompatibilite par design computationnel de proteines
@@ -19,13 +25,13 @@ Nom du contact : Thomas Gaillard
 Email du contact : thomas.gaillard@polytechnique.edu
 Laboratoire : Laboratoire de Biochimie, Ecole Polytechnique
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-prediction-de-ligands-peptidiques-du-complexe-majeur-dhistocompatibilite-par-design-compu
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : Laboratoire de Biochimie, Ecole Polytechnique
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-prediction-de-ligands-peptidiques-du-complexe-majeur-dhistocompatibilite-par-design-compu
 
-=======
+==========================================

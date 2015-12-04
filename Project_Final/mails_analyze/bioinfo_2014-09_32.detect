@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_32" est globalement en : FRA
+[('ENG', 0.4032652612631437), ('FRA', 0.650854206144349)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDI autre] Bioinformatics Scientist
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDI autre] Bioinformatics Scientist
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformatics Scientist
 Type de poste : CDI autre
@@ -18,13 +24,13 @@ Nom du contact : Bruno Zeitouni
 Email du contact : bruno.zeitouni@oncotest.de
 Laboratoire : Oncotest GmbH
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatics-scientist
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : Oncotest GmbH
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatics-scientist
 
-=======
+==========================================

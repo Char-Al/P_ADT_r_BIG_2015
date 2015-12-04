@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_54" est globalement en : FRA
+[('FRA', 5.2860432963581525), ('ENG', 10.331275429882508)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Journée Julia ?
 
@@ -8,50 +14,50 @@ Subject : [bioinfo] Journée Julia ?
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Ci-dessous un message du groupe Calcul qui s'interroge sur l'opportunité 
 d'organiser une journée sur le langage Julia (Julia se positionne comme 
 une alternative à R)....
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	http://julialang.org/
 http://juliacon.org/
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	En espérant susciter votre intérêt.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	-------- Message original --------
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Nous (= le Groupe calcul) envisageons d'organiser une journée sur le
 langage Julia, probablement en Janvier 2015.
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	J'aimerais au préalable faire un sondage quant à l'intérêt
   porté cette journée. Pourriez-vous m'indiquer:
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	-si vous êtes intéressé(e) éventuellement par cette journée,
 -si vous pratiquez ce langage
 -si avez vous des idées d'intervenant.
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Évidemment, si ça ne vous intéresse pas, merci de ne pas répondre
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Merci de  répondre à : tdumont@math.univ-lyon1.fr
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	-- 
 Vincent Miele - CNRS
@@ -63,11 +69,11 @@ tel : +33 (0)4 72 44 85 44   fax : +33 (0)4 72 43 13 88
 http://lbbe.univ-lyon1.fr/-Miele-Vincent-.html
 http://lyoncalcul.univ-lyon1.fr
 
-=======
-Le paragraphe 12 est en : non detect
+==========================================
+Le paragraphe 12 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -83,24 +89,24 @@ http://julialang.org/
 http://juliacon.org/
 
 En espérant susciter votre intérêt.
-=======
+==========================================
 La phrase 2 est en : FRA
 	-------- Message original --------
 
 Nous (= le Groupe calcul) envisageons d'organiser une journée sur le
 langage Julia, probablement en Janvier 2015.
-=======
+==========================================
 La phrase 3 est en : FRA
 	J'aimerais au préalable faire un sondage quant à l'intérêt
   porté cette journée.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Pourriez-vous m'indiquer:
 
 -si vous êtes intéressé(e) éventuellement par cette journée,
 -si vous pratiquez ce langage
 -si avez vous des idées d'intervenant.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Évidemment, si ça ne vous intéresse pas, merci de ne pas répondre
 
@@ -113,7 +119,7 @@ Merci de  répondre à : tdumont@math.univ-lyon1.fr
 Vincent Miele - CNRS
 Laboratoire Biometrie et Biologie Evolutive
 UCB Lyon 1  - Bât.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Grégor Mendel
 43 bd du 11 novembre 1918
@@ -124,4 +130,4 @@ http://lyoncalcul.univ-lyon1.fr
 
 
 
-=======
+==========================================

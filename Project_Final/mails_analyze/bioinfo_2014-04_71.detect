@@ -1,18 +1,24 @@
 Le mail "bioinfo_2014-04_71" est globalement en : FRA
+[('ENG', 0.49539532631643446), ('FRA', 0.8719003131373211)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Bioanalyste bioinformaticien
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : non detect
+Le paragraphe 1 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Intitulé du poste : Bioanalyste bioinformaticien
 Type de poste : Post-doc / IR
@@ -22,16 +28,16 @@ Nom du contact : Hanna Debiec
 Email du contact : hanna.debiec@upmc.fr
 Laboratoire : INSERM  UMR_S1155 (HôpitalTenon, Paris)
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioanalyste-bioinformaticien
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,4 +60,4 @@ http://www.sfbi.fr/content/bioanalyste-bioinformaticien
 
 
 
-=======
+==========================================

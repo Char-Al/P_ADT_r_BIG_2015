@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_60" est globalement en : ENG
+[('ENG', 0.22520098730421642), ('FRA', 0.5755995365579633)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] high-throughput data analysis in a Cancer Computational Systems Biology project at Institut Curie
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] high-throughput data analysis in a C
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Intitulé du poste : high-throughput data analysis in a Cancer Computational  
 Systems Biology project at Institut Curie
@@ -19,13 +25,13 @@ Nom du contact : Emmanuel BARILLOT
 Email du contact : bcsb70@curie.fr
 Laboratoire : Institut Curie - INSERM U900 / Mines ParisTech
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/high-throughput-data-analysis-cancer-computational-systems-biology-project-institut-curie
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : Institut Curie - INSERM U900 / Mines ParisTech
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/high-throughput-data-analysis-cancer-computational-systems-biology-project-institut-curie
 
-=======
+==========================================

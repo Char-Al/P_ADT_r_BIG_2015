@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_12" est globalement en : FRA
+[('ENG', 2.4013314091795523), ('FRA', 4.007372473168421)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Congres SFBBM FEBS EMBO
 
@@ -8,58 +14,58 @@ Subject : [bioinfo] Congres SFBBM FEBS EMBO
 Le paragraphe 1 est en : FRA
 	De la part de Philippe Dessen (IGR)
 
-=======
-Le paragraphe 2 est en : non detect
+==========================================
+Le paragraphe 2 est en : n
 	=-=-=
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Chers collègues,
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Je me permets de vous retransmettre un message du Président de la
 Société Française de Biochimie
 et Biologie Moléculaire (SFBBM) au sujet de l'événement unique qui va
 avoir lieu fin Aout début Septembre à Paris :
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Congrès joint des 100 ans de la SFBBM, et 50 ans des FEBS et EMBO.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Frédéric Dardel mentionne les 2000 inscrits étrangers et la faible
 représentation de la France.
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Je souhaiterais personnellement une plus massive implication des
 chercheurs biologistes français
 tant ce congrès peut intéresser par un programme large de nombreuses
 disciplines.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Même si le congrès ECCB'14 se déroule quelques jours après à
 Strasbourg , c' est  une occasion unique
 pour les bioinformaticiens d'être en face des défis biologiques à
 résoudre de manière interdisciplinaire.
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Cordialement
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Philippe Dessen (dessen@igr.fr)
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	http://sfbbm.fr/
 http://www.febs-embo2014.org/
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	******************************************************************
 Congrès FEBS-EMBO-SFBBM
@@ -67,7 +73,7 @@ Paris, 30 août-4 septembre 2014
 ******************************************************************
 Chers collègues, membres ou anciens membres de la SFBBM
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	Nous sommes comme vous le savez dans la dernière ligne droite avant
 le congrès FEBS-EMBO-SFBBM
@@ -76,7 +82,7 @@ Nous avons fortement communiqué sur cette importante manifestation
 qui nous permettra de célébrer
 notre centenaire et les cinquantenaires de la FEBS et de l’EMBO.
 
-=======
+==========================================
 Le paragraphe 14 est en : FRA
 	Ce congrès attire une forte participation internationale (près de
 2000 inscrits étrangers, deux mois
@@ -88,7 +94,7 @@ ou même simplement francilienne, surtout pour un événement de cette
 importance se déroulant
 dans notre pays.
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	Je sais que les budgets de recherche sont contraints dans notre pays
 et que les laboratoires et les
@@ -99,7 +105,7 @@ spécialisés et plus focalisés et donc
 de ne pas participer à des manifestations plus larges, comme le
 congrès FEBS-EMBO-SFBBM.
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	C’est une stratégie compréhensible en période difficile, toutefois
 les grands congrès plus généralistes
@@ -115,31 +121,31 @@ nos jeunes collègues pour lesquels l’enrichissement de leur culture
 scientifique et l’accès à des
 opportunités de carrière diversifiées est essentiel.
 
-=======
+==========================================
 Le paragraphe 17 est en : FRA
 	Je me permets donc d’insister pour que, si vous ne l’avez pas déjà
 fait, vous vous joigniez à nous
 pour cette manifestation exceptionnelle et/ou que vous encouragiez la
 venue de vos collègues.
 
-=======
+==========================================
 Le paragraphe 18 est en : FRA
 	En vous remerciant d’avance de votre écoute,
 
-=======
+==========================================
 Le paragraphe 19 est en : FRA
 	Bien à vous,
 
-=======
+==========================================
 Le paragraphe 20 est en : FRA
 	Frédéric Dardel
 Président de la SFBBM
 
-=======
-Le paragraphe 21 est en : non detect
+==========================================
+Le paragraphe 21 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -157,23 +163,23 @@ et Biologie Moléculaire (SFBBM) au sujet de l'événement unique qui va
 avoir lieu fin Aout début Septembre à Paris :
 
 Congrès joint des 100 ans de la SFBBM, et 50 ans des FEBS et EMBO.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Frédéric Dardel mentionne les 2000 inscrits étrangers et la faible
 représentation de la France.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Je souhaiterais personnellement une plus massive implication des
 chercheurs biologistes français
 tant ce congrès peut intéresser par un programme large de nombreuses
 disciplines.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Même si le congrès ECCB'14 se déroule quelques jours après à
 Strasbourg , c' est  une occasion unique
 pour les bioinformaticiens d'être en face des défis biologiques à
 résoudre de manière interdisciplinaire.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Cordialement
 
@@ -192,12 +198,12 @@ Chers collègues, membres ou anciens membres de la SFBBM
 Nous sommes comme vous le savez dans la dernière ligne droite avant
 le congrès FEBS-EMBO-SFBBM
 qui se déroulera début septembre à Paris.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Nous avons fortement communiqué sur cette importante manifestation
 qui nous permettra de célébrer
 notre centenaire et les cinquantenaires de la FEBS et de l’EMBO.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Ce congrès attire une forte participation internationale (près de
 2000 inscrits étrangers, deux mois
@@ -208,20 +214,20 @@ notre communauté scientifique nationale
 ou même simplement francilienne, surtout pour un événement de cette
 importance se déroulant
 dans notre pays.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Je sais que les budgets de recherche sont contraints dans notre pays
 et que les laboratoires et les
 équipes de recherche sont obligés de faire des arbitrages sur les
 manifestations scientifiques auxquelles
 ils participent.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Certains sont tentés de privilégier des congrès plus
 spécialisés et plus focalisés et donc
 de ne pas participer à des manifestations plus larges, comme le
 congrès FEBS-EMBO-SFBBM.
-=======
+==========================================
 La phrase 10 est en : FRA
 	C’est une stratégie compréhensible en période difficile, toutefois
 les grands congrès plus généralistes
@@ -229,24 +235,24 @@ sont des moments particulièrement privilégiés pour élargir ses
 horizons scientifiques et entendre
    les tout derniers travaux des collègues de tout premier plan dans
 des domaines plus diversifiés.
-=======
+==========================================
 La phrase 11 est en : FRA
 	L’innovation scientifique se fait très souvent aux fronières et aux
 interfaces disciplinaires et se
 priver de cette information privilégiée est particulièrement dommage.
-=======
+==========================================
 La phrase 12 est en : FRA
 	C’est encore plus vrai pour
 nos jeunes collègues pour lesquels l’enrichissement de leur culture
 scientifique et l’accès à des
 opportunités de carrière diversifiées est essentiel.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Je me permets donc d’insister pour que, si vous ne l’avez pas déjà
 fait, vous vous joigniez à nous
 pour cette manifestation exceptionnelle et/ou que vous encouragiez la
 venue de vos collègues.
-=======
+==========================================
 La phrase 14 est en : FRA
 	En vous remerciant d’avance de votre écoute,
 
@@ -256,4 +262,4 @@ Frédéric Dardel
 Président de la SFBBM
 
 
-=======
+==========================================

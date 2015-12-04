@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_27" est globalement en : ENG
+[('ENG', 0.3617486962997662), ('FRA', 0.5625869334748369)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Chemoinformatics Scientist – postdoc announcement
 
@@ -13,7 +19,7 @@ CONTRACT                        	Full-time postdoctoral for two years in
 the first instance
 CLOSING DATE                        	Friday 17 October 2014
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Working environment
 The CRCM is the basic science and translational research unit of the 
@@ -25,7 +31,7 @@ with IPC clinicians. The working language of the CRCM is English. More
 information about the CRCM is available at 
 http://crcm.marseille.inserm.fr/uploads/media/presentation_CRCM_2014.pdf
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Project
 Predicting all the targets of a molecule is a key problem in drug 
@@ -43,7 +49,7 @@ candidates that are currently in Phase III clinical trials. An in silico
 method to predict the side-effects of a drug from its molecular targets 
 will be also investigated as a part of the project.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Selection criteria - Essential
 •	A PhD degree with a major focus on computational analysis of 
@@ -61,7 +67,7 @@ webserver.
 •	Genuine interest in learning the basics of cancer biology and drug 
 discovery if not already known.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Selection criteria - Desirable
 •	A track record of publications relevant to this project will be a 
@@ -76,7 +82,7 @@ fingerprints, USR, USRCAT).
 (numPy/SciPy/scikit-learn) including version control tools such as git 
 or mercurial.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	What we offer
 The successful candidate will receive a net monthly salary in the range 
@@ -96,7 +102,7 @@ life, the CRCM is located in Marseille and thus the post holder will
 enjoy living in an exciting multi-cultural city right by the French 
 Mediterranean coast.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	How to apply
 Candidates must send a CV including peer-reviewed publications and a 
@@ -109,7 +115,7 @@ familiar with their research to be sent directly to
 pedro.ballester@inserm.fr by the closing date.
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -125,17 +131,17 @@ CLOSING DATE                        	Friday 17 October 2014
 Working environment
 The CRCM is the basic science and translational research unit of the 
 comprehensive cancer centre Institut Paoli Calmettes (IPC).
-=======
+==========================================
 La phrase 2 est en : ENG
 	Also 
 affiliated to Inserm, CNRS and Aix-Marseille University, the 250 
 researchers working at the CRCM form a strongly multi-disciplinary 
 research environment characterized by frequent and close collaborations 
 with IPC clinicians.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The working language of the CRCM is English.
-=======
+==========================================
 La phrase 4 est en : ENG
 	More 
 information about the CRCM is available at 
@@ -144,143 +150,143 @@ http://crcm.marseille.inserm.fr/uploads/media/presentation_CRCM_2014.pdf
 Project
 Predicting all the targets of a molecule is a key problem in drug 
 design.
-=======
+==========================================
 La phrase 5 est en : ENG
 	This is exacerbated by the resurgence of phenotypic screening 
 and the growing realisation that the polypharmacology of the drug is 
 crucial to understand its efficacy and side-effects.
-=======
+==========================================
 La phrase 6 est en : ENG
 	The post holder 
 will carry out methodology research to improve data-driven 
 polypharmacology prediction.
-=======
+==========================================
 La phrase 7 est en : ENG
 	The research will include the development 
 of machine learning techniques tailored to this problem and the use of 
 molecular similarity techniques to relate targets by their ligands.
-=======
+==========================================
 La phrase 8 est en : ENG
 	The 
 post holder will also have the opportunity to apply the developed 
 methods to drug leads in collaboration with the drug discovery 
 researchers that designed them at the CRCM, including cancer drug 
 candidates that are currently in Phase III clinical trials.
-=======
+==========================================
 La phrase 9 est en : ENG
 	An in silico 
 method to predict the side-effects of a drug from its molecular targets 
 will be also investigated as a part of the project.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Selection criteria - Essential
 •	A PhD degree with a major focus on computational analysis of 
 experimental data, preferably in an area directly relevant to the 
 project.
-=======
+==========================================
 La phrase 11 est en : ENG
 	•	Working knowledge of open-source chemoinformatics toolkits (e.g.
-=======
+==========================================
 La phrase 12 est en : ENG
 	RDKit 
 or OpenBabel) and medicinal chemistry databases (e.g.
-=======
+==========================================
 La phrase 13 est en : ENG
 	ChEMBL, Sider and 
 PubChem), including familiarity with common drug targets and chemical 
 structures.
-=======
+==========================================
 La phrase 14 est en : FRA
 	•	Hands-on experience in the design and implementation of relational 
 databases using MySQL and/or PostgreSQL.
-=======
+==========================================
 La phrase 15 est en : FRA
 	•	Previous experience implementing scientific resources as a linux-based 
 webserver.
-=======
+==========================================
 La phrase 16 est en : ENG
 	•	Demonstrated ability to undertake high quality scientific research.
-=======
+==========================================
 La phrase 17 est en : ENG
 	•	Genuine interest in learning the basics of cancer biology and drug 
 discovery if not already known.
-=======
+==========================================
 La phrase 18 est en : ENG
 	Selection criteria - Desirable
 •	A track record of publications relevant to this project will be a 
 strong advantage.
-=======
+==========================================
 La phrase 19 est en : ENG
 	•	Experience in the application of machine learning to solve real-world 
 problems in the context of biomedical research.
-=======
+==========================================
 La phrase 20 est en : ENG
 	•	Skilled in the implementation of R scripts for scientific data 
 analysis.
-=======
+==========================================
 La phrase 21 est en : ENG
 	•	Familiarity with molecular similarity techniques (e.g.
-=======
+==========================================
 La phrase 22 est en : ENG
 	2D 
 fingerprints, USR, USRCAT).
-=======
+==========================================
 La phrase 23 est en : ENG
 	•	Software engineering skills using C++, C and/or python 
 (numPy/SciPy/scikit-learn) including version control tools such as git 
 or mercurial.
-=======
+==========================================
 La phrase 24 est en : ENG
 	What we offer
 The successful candidate will receive a net monthly salary in the range 
 €1,934–€2,323 depending on experience.
-=======
+==========================================
 La phrase 25 est en : ENG
 	The contract will be for two 
 years in the first instance, with the possibility of a further two-year 
 extension.
-=======
+==========================================
 La phrase 26 est en : ENG
 	This is an exciting opportunity for a bright and diligent 
 postdoctoral scientist to apply her or his expertise to a crucial 
 problem in drug design for which there is currently a great interest for 
 tools to tackle it.
-=======
+==========================================
 La phrase 27 est en : ENG
 	The post holder will also gain translational 
 research experience in multi-disciplinary collaborations using the 
 developed methods to identify currently unknown targets of CRCM drug 
 leads.
-=======
+==========================================
 La phrase 28 est en : ENG
 	The successful candidate will be strongly supported to apply for a 
 permanent research scientist position (e.g.
-=======
+==========================================
 La phrase 29 est en : ENG
 	Inserm CR2 or CNRS CR2) to 
 be initially held within the Ballester team.
-=======
+==========================================
 La phrase 30 est en : ENG
 	In terms of quality of 
 life, the CRCM is located in Marseille and thus the post holder will 
 enjoy living in an exciting multi-cultural city right by the French 
 Mediterranean coast.
-=======
+==========================================
 La phrase 31 est en : ENG
 	How to apply
 Candidates must send a CV including peer-reviewed publications and a 
 covering letter (maximum two pages) to pedro.ballester@inserm.fr with 
 subject “Chemoinformatics position”.
-=======
+==========================================
 La phrase 32 est en : ENG
 	This letter will explain how they 
 meet the essential selection criteria, which desirable selection 
 criteria are also met and how this position would fit in their future 
 career plans.
-=======
+==========================================
 La phrase 33 est en : ENG
 	They also have to arrange two references from scientists 
 familiar with their research to be sent directly to 
 pedro.ballester@inserm.fr by the closing date.
 
-=======
+==========================================

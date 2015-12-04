@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_27" est globalement en : FRA
+[('FRA', 1.0399417079630306), ('ENG', 3.9998370216397894)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] ECCB/JOBIM 2014 : 2ème Appel pour les propositions de Workshops et Tutoriaux
 
@@ -8,19 +14,19 @@ Subject : [bioinfo] ECCB/JOBIM 2014 : 2ème Appel pour les propositions de Works
 Le paragraphe 1 est en : FRA
 	Chers collègues de la liste bioinfo@sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Je profite de ce rappel pour les propositions de workshops et de tutoriaux pour ECCB/JOBIM 2014 (European Conference of Computational Biology/ Journées Ouvertes Biologie Informatique Mathématiques) pour vous passer deux messages au nom de notre comité d'organisation: 
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	1. tout d'abord vous présenter mes meilleurs voeux pour une excellente année 2014 ! 
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	2. mais aussi vous rappeler que JOBIM cette année est bien couplé à ECCB du fait que ECCB est localisé en France. Notre comité d'organisation en est bien conscient et nous vous invitons à répondre largement aux différents appels à participation d'ECCB 2014 pour témoigner de la vitalité de notre communauté bioinformatique française, sans oublier que nous comptons sur vous aussi pour renforcer nos équipes de volontaires pour l'accueil des participants au moment de la conférence. Vous pouvez dès à présent nous écrire pour nous indiquer si vous êtes disponible pour aider à cet accueil du 6 au 10 septembre prochain à Strasbourg.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Bien cordialement
 Marie-Dominique Devignes
@@ -34,51 +40,51 @@ Marie-Dominique Devignes
 Please send your proposal (4 pages max, see guidelines below) before              
                * January 24th, 2014 *
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	to workshops-tutorials@eccb14.org
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Many thanks in advance for your contribution to the success of the ECCB 2014 conference !
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	You can also visit the ECCB 2014 web site for other key dates and for the banner contest (!)
 http://www.eccb14.org
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Best regards,
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	Marie-Dominique Devignes
 Conference chair
 Olivier Poch, Mario Albrecht
 Workshops and Tutorials chairs
 
-=======
-Le paragraphe 11 est en : non detect
+==========================================
+Le paragraphe 11 est en : n
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	GUIDELINES for ECCB 2014 WORKSHOPS AND TUTORIALS SUBMISSIONS
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	ECCB 2014 workhops and tutorials are scheduled on Sunday September 7, 2014 (or exceptionnally Saturday September 6th, 2014) from 9:00 to 17:00.
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	The workshops are expected to provide participants with an informal setting to discuss technical issues, exchange research ideas, and to share practical experiences on a range of focused or emerging topics in bioinformatics. Read more at  http://www.eccb14.org/guidelines/workshops
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	The tutorials should offer participants an opportunity to learn about new areas of bioinformatics research, to get an introduction to important established topics, or to develop advanced skills in areas they are already familiar with. Read more at http://www.eccb14.org/guidelines/tutorials
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	Each workshop proposal should not exceed 4 pages and should include the following information:
  - Title and abstract, giving the goals, motivation, and scope of the workshop
@@ -100,7 +106,7 @@ Each Tutorial proposal should not exceed 4 pages, and must include
  
 ===========================================================================
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	======================
 Dr. Marie-Dominique Devignes
@@ -112,7 +118,7 @@ Campus Scientifique, BP239
 http://www.loria.fr/~devignes
 ======================
 
-=======
+==========================================
 Le paragraphe 18 est en : ENG
 	======================
 Dr. Marie-Dominique Devignes
@@ -124,11 +130,11 @@ Campus Scientifique, BP239
 http://www.loria.fr/~devignes
 ======================
 
-=======
-Le paragraphe 19 est en : non detect
+==========================================
+Le paragraphe 19 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -139,16 +145,16 @@ La phrase 1 est en : FRA
 Je profite de ce rappel pour les propositions de workshops et de tutoriaux pour ECCB/JOBIM 2014 (European Conference of Computational Biology/ Journées Ouvertes Biologie Informatique Mathématiques) pour vous passer deux messages au nom de notre comité d'organisation: 
 
 1. tout d'abord vous présenter mes meilleurs voeux pour une excellente année 2014 !
-=======
+==========================================
 La phrase 2 est en : FRA
 	2. mais aussi vous rappeler que JOBIM cette année est bien couplé à ECCB du fait que ECCB est localisé en France.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Notre comité d'organisation en est bien conscient et nous vous invitons à répondre largement aux différents appels à participation d'ECCB 2014 pour témoigner de la vitalité de notre communauté bioinformatique française, sans oublier que nous comptons sur vous aussi pour renforcer nos équipes de volontaires pour l'accueil des participants au moment de la conférence.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Vous pouvez dès à présent nous écrire pour nous indiquer si vous êtes disponible pour aider à cet accueil du 6 au 10 septembre prochain à Strasbourg.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Bien cordialement
 Marie-Dominique Devignes
@@ -165,10 +171,10 @@ Please send your proposal (4 pages max, see guidelines below) before
 to workshops-tutorials@eccb14.org
 
 Many thanks in advance for your contribution to the success of the ECCB 2014 conference !
-=======
+==========================================
 La phrase 6 est en : ENG
 	You can also visit the ECCB 2014 web site for other key dates and for the banner contest (!)
-=======
+==========================================
 La phrase 7 est en : ENG
 	http://www.eccb14.org
 
@@ -184,15 +190,15 @@ Workshops and Tutorials chairs
 GUIDELINES for ECCB 2014 WORKSHOPS AND TUTORIALS SUBMISSIONS
 
 ECCB 2014 workhops and tutorials are scheduled on Sunday September 7, 2014 (or exceptionnally Saturday September 6th, 2014) from 9:00 to 17:00.
-=======
+==========================================
 La phrase 8 est en : ENG
 	The workshops are expected to provide participants with an informal setting to discuss technical issues, exchange research ideas, and to share practical experiences on a range of focused or emerging topics in bioinformatics.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Read more at  http://www.eccb14.org/guidelines/workshops
 
 The tutorials should offer participants an opportunity to learn about new areas of bioinformatics research, to get an introduction to important established topics, or to develop advanced skills in areas they are already familiar with.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Read more at http://www.eccb14.org/guidelines/tutorials
 
@@ -205,7 +211,7 @@ Each workshop proposal should not exceed 4 pages and should include the followin
  - Relevant experience of the organizing committee
  - Tentative organizing committee members (at least 2 to 3 members)
  - Contact information for the organizer.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Each Tutorial proposal should not exceed 4 pages, and must include
  - a detailed description of the tutorial (title and abstract, giving the motivation, expected goals, and level)
@@ -213,13 +219,13 @@ La phrase 11 est en : FRA
  - material or infrastructure required (if relevant)
  - intended audience and possible prerequisites
  - a brief CV of the instructor(s) showing their relevant qualifications and teaching experience.
-=======
+==========================================
 La phrase 12 est en : ENG
 	- Contact information for the organizer.
-=======
+==========================================
 La phrase 13 est en : ENG
 	A maximum of two presenters per tutorial is recommended.
-=======
+==========================================
 La phrase 14 est en : ENG
 	===========================================================================
 
@@ -245,4 +251,4 @@ http://www.loria.fr/~devignes
 ======================
 
 
-=======
+==========================================

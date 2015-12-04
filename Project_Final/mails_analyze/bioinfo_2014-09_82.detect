@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_82" est globalement en : FRA
+[('ENG', 0.33441887465282366), ('FRA', 0.6098703030691801)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Postdoctoral position in Evolutionary Genomics (Barcelona)
 
@@ -10,67 +16,67 @@ Le paragraphe 1 est en : FRA
 Program in Biomedical Informatics (GRIB), IMIM-UPF, Barcelona
 evolutionarygenomics.imim.es
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Short project description
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Antimicrobial peptides (AMPs) are short proteins produced by a wide range of organisms that have the capacity to kill bacteria (Wiesner and Vilcinskas 2010). They are a promising alternative to classical therapeutic antibiotics, as bacteria have not developed highly effective resistance mechanisms to these natural substances (Peschel and Sahl 2006).
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Due to their short size (&#8764;12-50 amino acids), AMPs are difficult to detect by genome annotation efforts or high througput proteomics. The aim of this project is to discover and characterize new AMPs in the human genome using deep RNA sequencing (RNA-seq) and apropriate in silico approaches. Putative AMPs will be identifed using measurements based on the codon usage bias (Ruiz-Orera et al., 2014) and sequence-based AMP activity prediction (Torrent, Di Tommaso, et al. 2012). Using comparative genomics we will search for adaptive substitutions that may have increased AMP activity the over time (Gayà-Vidal and Albà, 2014). Finally, promising candidates will be experimentally validated.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Gayà-Vidal M and Albà MM. 2014. Uncovering adaptive evolution in the human lineage. BMC Genomics 15: 599.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Ruiz-Orera J, Messeguer X, Subirana JA, Albà MM. 2014. Long non-coding RNAs as a source of new peptides. eLife Sep 16;3. 
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Torrent M, Di Tommaso P, Pulido D, Nogués MV, Notredame C, Boix E, Andreu D. 2012. AMPA: an automated web server for prediction of protein antimicrobial regions. Bioinformatics 28: 1301.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Qualifications 
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Candidates should have a PhD in Biology, Biotechnology or related subjects, and a solid publication record. Programming skills and experience with high throughput data is highly recommended.  
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	The successful applicant will be funded by the TECNIOSPRING programme sponsored by the European Union (Marie Curie Actions) and the Catalan Government. The requirements for this call are the following: 1. At least four years of postdoctoral work or eight years of equivalent experience, 2. Some experience in applied research or technology transfer (directly or by having participated in projects that included companies, patents, etc.) and, 3. Not have lived in Spain for more than twelve months in a two years period before the call. 
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	The position is for two years, annual gross salary 44.000 Euros.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	How to apply
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	To apply please send a short presentation letter, your CV and the name of two referees by email to Mar Albà (malba@imim.es).
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	Deadline is 17th October 2014.
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	For more details on this project visit our web page: evolutionarygenomics.imim.es
 
-=======
-Le paragraphe 16 est en : non detect
+==========================================
+Le paragraphe 16 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -83,101 +89,101 @@ evolutionarygenomics.imim.es
 Short project description
 
 Antimicrobial peptides (AMPs) are short proteins produced by a wide range of organisms that have the capacity to kill bacteria (Wiesner and Vilcinskas 2010).
-=======
+==========================================
 La phrase 2 est en : ENG
 	They are a promising alternative to classical therapeutic antibiotics, as bacteria have not developed highly effective resistance mechanisms to these natural substances (Peschel and Sahl 2006).
-=======
+==========================================
 La phrase 3 est en : ENG
 	Due to their short size (&#8764;12-50 amino acids), AMPs are difficult to detect by genome annotation efforts or high througput proteomics.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The aim of this project is to discover and characterize new AMPs in the human genome using deep RNA sequencing (RNA-seq) and apropriate in silico approaches.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Putative AMPs will be identifed using measurements based on the codon usage bias (Ruiz-Orera et al., 2014) and sequence-based AMP activity prediction (Torrent, Di Tommaso, et al.
-=======
-La phrase 6 est en : non detect
+==========================================
+La phrase 6 est en : n
 	2012).
-=======
+==========================================
 La phrase 7 est en : FRA
 	Using comparative genomics we will search for adaptive substitutions that may have increased AMP activity the over time (Gayà-Vidal and Albà, 2014).
-=======
+==========================================
 La phrase 8 est en : ENG
 	Finally, promising candidates will be experimentally validated.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Gayà-Vidal M and Albà MM.
-=======
-La phrase 10 est en : non detect
+==========================================
+La phrase 10 est en : n
 	2014.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Uncovering adaptive evolution in the human lineage.
-=======
+==========================================
 La phrase 12 est en : ENG
 	BMC Genomics 15: 599.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Ruiz-Orera J, Messeguer X, Subirana JA, Albà MM.
-=======
-La phrase 14 est en : non detect
+==========================================
+La phrase 14 est en : n
 	2014.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Long non-coding RNAs as a source of new peptides.
-=======
+==========================================
 La phrase 16 est en : ENG
 	eLife Sep 16;3.
-=======
+==========================================
 La phrase 17 est en : FRA
 	Torrent M, Di Tommaso P, Pulido D, Nogués MV, Notredame C, Boix E, Andreu D. 2012.
-=======
+==========================================
 La phrase 18 est en : ENG
 	AMPA: an automated web server for prediction of protein antimicrobial regions.
-=======
+==========================================
 La phrase 19 est en : ENG
 	Bioinformatics 28: 1301.
-=======
+==========================================
 La phrase 20 est en : ENG
 	Qualifications 
 
 Candidates should have a PhD in Biology, Biotechnology or related subjects, and a solid publication record.
-=======
+==========================================
 La phrase 21 est en : ENG
 	Programming skills and experience with high throughput data is highly recommended.
-=======
+==========================================
 La phrase 22 est en : ENG
 	The successful applicant will be funded by the TECNIOSPRING programme sponsored by the European Union (Marie Curie Actions) and the Catalan Government.
-=======
+==========================================
 La phrase 23 est en : ENG
 	The requirements for this call are the following: 1.
-=======
+==========================================
 La phrase 24 est en : ENG
 	At least four years of postdoctoral work or eight years of equivalent experience, 2.
-=======
+==========================================
 La phrase 25 est en : ENG
 	Some experience in applied research or technology transfer (directly or by having participated in projects that included companies, patents, etc.)
-=======
+==========================================
 La phrase 26 est en : FRA
 	and, 3.
-=======
+==========================================
 La phrase 27 est en : ENG
 	Not have lived in Spain for more than twelve months in a two years period before the call.
-=======
+==========================================
 La phrase 28 est en : ENG
 	The position is for two years, annual gross salary 44.000 Euros.
-=======
+==========================================
 La phrase 29 est en : FRA
 	How to apply
 
 To apply please send a short presentation letter, your CV and the name of two referees by email to Mar Albà (malba@imim.es).
-=======
+==========================================
 La phrase 30 est en : ENG
 	Deadline is 17th October 2014.
-=======
+==========================================
 La phrase 31 est en : ENG
 	For more details on this project visit our web page: evolutionarygenomics.imim.es
 
 
 
-=======
+==========================================

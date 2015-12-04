@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_21" est globalement en : FRA
+[('FRA', 0.917885720691486), ('ENG', 1.5832114114257263)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][PR] Modélisation en biologie
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][PR] Modélisation en biologie
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Modélisation en biologie
 Type de poste : PR
@@ -18,13 +24,13 @@ Nom du contact : Alessandra Carbone
 Email du contact : alessandra.carbone@upmc.fr
 Laboratoire : UMR 7238 - Computational and Quantitative Biology, UPMC
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/mod%C3%A9lisation-en-biologie
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : UMR 7238 - Computational and Quantitative Biology, UPMC
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/mod%C3%A9lisation-en-biologie
 
-=======
+==========================================

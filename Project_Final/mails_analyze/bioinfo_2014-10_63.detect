@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_63" est globalement en : FRA
+[('FRA', 2.5201958998047926), ('ENG', 77.10522721802053)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] arrêt du projet PLUME
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Bonjour à tous,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	comme vous le savez peut-être, Plume (https://www.projet-plume.org/,
 Promouvoir les Logiciels Utiles Maîtrisés et Economiques
@@ -19,7 +25,7 @@ définitive de RENATER. Nous venons d'apprendre que malheureusement, il a
 été décidé par RENATER que PLUME ne faisait pas parti des objectifs pour
 lequel RENATER existait, et donc qu'il n'y aurait pas de reprise.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Devant cette nouvelle, le comité de suivi du projet ne peut que
 constater que PLUME est à l'arrêt sans possibilité de relance à court
@@ -29,24 +35,24 @@ d'arrêter également le comité. Le seul acteur restant en piste est donc
 la DSI du CNRS, et plus particulièrement Olivier Porte qui fait partie
 du comité.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Le futur
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Trois points sont à préciser :
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	- la disponibilité des fiches sur PLUME.
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	La décision finale revient à la DSI, puisque c'est elle la responsable
 du projet.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Nous, comité de suivi, souhaitons cependant qu'un délai de six mois soit
 donné aux contributeurs de PLUME afin qu'ils puissent récupérer leurs
@@ -56,11 +62,11 @@ l'image de la communauté ESR avec des informations non mises à jour et
 de plus en plus obsolètes. Nous souhaitons également que le nom de
 domaine reste réservé par la DSI durant plusieurs années.
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	-autres possibilités de « reprise ».
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	D'autres pistes de reprise extérieures au CNRS sont actuellement
 initiées, mais elles n'en sont qu'aux premiers contacts. Il n'y a donc
@@ -69,11 +75,11 @@ reprise n'est pas pour l'instant imaginable. Olivier Porte en est le
 porteur. Dans ce cadre, la communauté pourrait être de nouveau
 sollicitée bien entendu.
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	-l'action école ENVOL.
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	Le comité avait entamé des discussions avec DEVLOG pour une éventuelle
 reprise. DEVLOG s'était montré intéressé et participe d'ailleurs à
@@ -81,64 +87,64 @@ l'édition de cette année portée par Dirk Hoffmann de l'IN2P3. Nous
 considérons, en accord avec la DSI, que cette reprise (avec des
 adaptations éventuelles) serait une bonne chose.
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	Le comité reste convaincu de la nécessité d'un tel projet, et espère
 qu'un nouveau projet verra le jour. 
 
-=======
+==========================================
 Le paragraphe 14 est en : FRA
 	Le comité de suivi
 
-=======
-Le paragraphe 15 est en : non detect
+==========================================
+Le paragraphe 15 est en : n
 	 
 
-=======
-Le paragraphe 16 est en : non detect
+==========================================
+Le paragraphe 16 est en : n
 	 
 
-=======
-Le paragraphe 17 est en : non detect
+==========================================
+Le paragraphe 17 est en : n
 	 
 
-=======
+==========================================
 Le paragraphe 18 est en : FRA
 	Laurent Pérochon
 
-=======
+==========================================
 Le paragraphe 19 est en : FRA
 	Département QEA
 
-=======
+==========================================
 Le paragraphe 20 est en : ENG
 	UMR1273 METAFORT 
 
-=======
+==========================================
 Le paragraphe 21 est en : FRA
 	VetAgro Sup, campus agronomique
 
-=======
+==========================================
 Le paragraphe 22 est en : FRA
 	89 Avenue de l'Europe
 
-=======
+==========================================
 Le paragraphe 23 est en : FRA
 	BP 35 - 63370 Lempdes
 
-=======
-Le paragraphe 24 est en : non detect
+==========================================
+Le paragraphe 24 est en : n
 	+33 (0)4-73-98-69-45
 
-=======
-Le paragraphe 25 est en : non detect
+==========================================
+Le paragraphe 25 est en : n
 	 
 
-=======
-Le paragraphe 26 est en : non detect
+==========================================
+Le paragraphe 26 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -152,93 +158,93 @@ Promouvoir les Logiciels Utiles Maîtrisés et Economiques
 dans l'enseignement supérieur et la recherche ) est depuis quelques mois
 en hibernation, en attente de jours meilleurs, et surtout de la réponse
 définitive de RENATER.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Nous venons d'apprendre que malheureusement, il a
 été décidé par RENATER que PLUME ne faisait pas parti des objectifs pour
 lequel RENATER existait, et donc qu'il n'y aurait pas de reprise.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Devant cette nouvelle, le comité de suivi du projet ne peut que
 constater que PLUME est à l'arrêt sans possibilité de relance à court
 terme.
-=======
+==========================================
 La phrase 4 est en : FRA
 	A son niveau, le comité considère qu'il ne peut plus accomplir sa
 mission de suivi : la seule solution est d'acter que PLUME est arrêté et
 d'arrêter également le comité.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Le seul acteur restant en piste est donc
 la DSI du CNRS, et plus particulièrement Olivier Porte qui fait partie
 du comité.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Le futur
 
 Trois points sont à préciser :
 
 - la disponibilité des fiches sur PLUME.
-=======
+==========================================
 La phrase 7 est en : FRA
 	La décision finale revient à la DSI, puisque c'est elle la responsable
 du projet.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Nous, comité de suivi, souhaitons cependant qu'un délai de six mois soit
 donné aux contributeurs de PLUME afin qu'ils puissent récupérer leurs
 fiches.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Passé ce délai nous souhaitons que le serveur soit arrêté (ce
 qui reviendrait à l'arrêter fin Avril 2015), afin de ne pas dégrader
 l'image de la communauté ESR avec des informations non mises à jour et
 de plus en plus obsolètes.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Nous souhaitons également que le nom de
 domaine reste réservé par la DSI durant plusieurs années.
-=======
+==========================================
 La phrase 11 est en : FRA
 	-autres possibilités de « reprise ».
-=======
+==========================================
 La phrase 12 est en : FRA
 	D'autres pistes de reprise extérieures au CNRS sont actuellement
 initiées, mais elles n'en sont qu'aux premiers contacts.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Il n'y a donc
 rien de prévisible à court terme, et ce que pourrait donner cette
 reprise n'est pas pour l'instant imaginable.
-=======
+==========================================
 La phrase 14 est en : FRA
 	Olivier Porte en est le
 porteur.
-=======
+==========================================
 La phrase 15 est en : FRA
 	Dans ce cadre, la communauté pourrait être de nouveau
 sollicitée bien entendu.
-=======
+==========================================
 La phrase 16 est en : FRA
 	-l'action école ENVOL.
-=======
+==========================================
 La phrase 17 est en : FRA
 	Le comité avait entamé des discussions avec DEVLOG pour une éventuelle
 reprise.
-=======
+==========================================
 La phrase 18 est en : FRA
 	DEVLOG s'était montré intéressé et participe d'ailleurs à
 l'édition de cette année portée par Dirk Hoffmann de l'IN2P3.
-=======
+==========================================
 La phrase 19 est en : FRA
 	Nous
 considérons, en accord avec la DSI, que cette reprise (avec des
 adaptations éventuelles) serait une bonne chose.
-=======
+==========================================
 La phrase 20 est en : FRA
 	Le comité reste convaincu de la nécessité d'un tel projet, et espère
 qu'un nouveau projet verra le jour.
-=======
+==========================================
 La phrase 21 est en : FRA
 	Le comité de suivi
 
@@ -269,4 +275,4 @@ BP 35 - 63370 Lempdes
 
 
 
-=======
+==========================================

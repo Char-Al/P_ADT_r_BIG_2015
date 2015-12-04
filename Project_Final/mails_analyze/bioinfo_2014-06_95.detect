@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_95" est globalement en : FRA
+[('ENG', 0.9518209611712941), ('FRA', 1.5830370632967723)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Les Bioinformations #7
 
@@ -8,21 +14,21 @@ Subject : [bioinfo] Les Bioinformations #7
 Le paragraphe 1 est en : FRA
 	Chers collègues, 
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Vous les attendiez, elles sont de retour : les Bioinformations !
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	http://www.bioinformations.fr
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Bonne lecture,
 L'équipe de rédaction
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -31,11 +37,11 @@ La phrase 1 est en : FRA
 	Chers collègues, 
 
 Vous les attendiez, elles sont de retour : les Bioinformations !
-=======
+==========================================
 La phrase 2 est en : ENG
 	http://www.bioinformations.fr
 
 Bonne lecture,
 L'équipe de rédaction
 
-=======
+==========================================

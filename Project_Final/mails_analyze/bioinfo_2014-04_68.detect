@@ -1,18 +1,24 @@
 Le mail "bioinfo_2014-04_68" est globalement en : ENG
+[('ENG', 0.39001058681153855), ('FRA', 0.821400803939889)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Postdoctoral fellow in comparative genomics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : non detect
+Le paragraphe 1 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Intitulé du poste : Postdoctoral fellow in comparative genomics
 Type de poste : Post-doc / IR
@@ -22,16 +28,16 @@ Nom du contact : Mahendra Mariadassou
 Email du contact : mahendra.mariadassou@jouy.inra.fr
 Laboratoire : MIG
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/postdoctoral-fellow-comparative-genomics
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,4 +60,4 @@ http://www.sfbi.fr/content/postdoctoral-fellow-comparative-genomics
 
 
 
-=======
+==========================================

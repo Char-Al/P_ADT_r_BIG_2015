@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_101" est globalement en : FRA
+[('ENG', 0.3095061102302843), ('FRA', 0.3679351716611598)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDD] Ingenieur BioInformatique hopital Necker-Enfants malades
 
@@ -11,63 +17,63 @@ Necker-Enfants malades recherche  un bioinformaticien (niveau BAC+5 ou
 école d’ingénieur) pour la mise en place d’outils diagnostiques
 utilisant les techniques de séquençage à haut débit.
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Missions :
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	• Mise en point et mise en place des workflows d’analyse
 bioinformatique des données issues de séquenceurs NGS Illumina
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	• Mise au point et mise en place des algorithmes décisionnels et des
 outils de validation des résultats
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	• Participation à la définition et à l’intégration des outils
 développés dans le système d’information du laboratoire
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	• Participation aux études techniques et cliniques de validation
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	• Participation à la formation des utilisateurs finaux
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Durée du CDD :
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	• 12 mois avec possibilité de transformation ultérieure en CDI
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Compétences requises :
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	• Maîtrise des outils bioinformatiques du NGS
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	• Maîtrise du système UNIX, du SGBD MySQL et du langage de script PERL
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	• La connaissance d’un système de work-flow type Galaxy est un plus
 pour cette mission
 
-=======
+==========================================
 Le paragraphe 14 est en : FRA
 	Environnement :
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	• Cette mission sera menée dans un environnement multidisciplinaire.
 Outre les laboratoires du pôle de biologie, le bioinformaticien
@@ -75,16 +81,16 @@ travaillera en interaction étroite avec le service de biostatistique
 et d’informatique médicale et la plate-forme bioinformatique
 Paris-Descartes - Imagine.
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	Contacts :
 
-=======
+==========================================
 Le paragraphe 17 est en : FRA
 	• Pr Jean-Paul Bonnefont (jean-paul.bonnefont@nck.aphp.fr)
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -94,7 +100,7 @@ La phrase 1 est en : FRA
 Necker-Enfants malades recherche  un bioinformaticien (niveau BAC+5 ou
 école d’ingénieur) pour la mise en place d’outils diagnostiques
 utilisant les techniques de séquençage à haut débit.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Missions :
 
@@ -127,16 +133,16 @@ pour cette mission
 Environnement :
 
 • Cette mission sera menée dans un environnement multidisciplinaire.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Outre les laboratoires du pôle de biologie, le bioinformaticien
 travaillera en interaction étroite avec le service de biostatistique
 et d’informatique médicale et la plate-forme bioinformatique
 Paris-Descartes - Imagine.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Contacts :
 
 • Pr Jean-Paul Bonnefont (jean-paul.bonnefont@nck.aphp.fr)
 
-=======
+==========================================

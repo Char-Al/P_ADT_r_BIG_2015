@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_97" est globalement en : FRA
+[('FRA', 1.126342692881158), ('ENG', 87.09185131700806)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Proposition de stage M2 au LBBE à Lyon
 
@@ -8,65 +14,65 @@ Subject : [bioinfo] Proposition de stage M2 au LBBE à Lyon
 Le paragraphe 1 est en : FRA
 	Un stage de M2 Recherche en bioinformatique est proposé au Laboratoire de Biométrie et Biologie Evolutive (UMR CNRS 5558), dans l'équipe Bioinformatique et Génomique Evolutive (http://lbbe.univ-lyon1.fr/-Equipe-Bioinformatique-et-.html). Ce stage sera sous la responsabilité de Guy Perrière, avec une co-encadrement par Patricia Doublet, du Centre international de recherche en Infectiologie (INSERM U1111, UMR CNRS 5308). Il se situerait dans le cadre du projet Legcoxinet, financé par le Labex Ecofect.
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Le sujet proposé consiste en une analyse ayant pour but d'identifier les effecteurs du système T4SS (Type 4 Secretion System) chez plusieurs souches de Légionella pneumophila (Lp) et Coxiella burnetti (Cb) ainsi que leurs homologues dans plusieurs espèces bactériennes apparentées (alpha-protéobactéries de type Rickettsiales). Lp est l'agent responsable de la légionellose, une pathologie bien connue qui atteint environ 1500 personnes chaque année en France, avec un taux de mortalité d'environ 10%. De son côté, Cb est l'agent d'une zoonose émergente, la fièvre Q, transmise par voie aérienne aux humains. Ces deux bactéries détournent un mécanisme cellulaire, l'autophagie, via l'excretion d'effecteurs par l'intermédiaire du SST4. Ceci leur permet d'échapper au système immunitaire de leur hôte et de générer au sein de la cellule une vacuole réplicative. 
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	La méthodologie proposée pour l'identification des effecteurs homologues partirait d'une recherche de similarité classique, suivie de la construction d'une collection de séquences fondée sur le modèle de la banque HOGENOME, développée dans notre groupe. Une fois les familles de gènes homologues établies, il sera ensuite nécessaire d'identifier les orthologues, ceci au moyen d'une approche phylogénétique. La construction des arbres phylogénétique en question permettant par ailleurs de retracer les histoires évolutives de ces familles (transferts horizontaux, pertes sélectives) et donc de l'acquisition de la pathogénicité chez Lp et Cb.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Rémunération : indemnité standard de 400 €/mois
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Durée : trois à six mois
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Contact : Guy Perrière (http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html)
 e-mail et téléphone disponibles sur la page web
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : FRA
 	Un stage de M2 Recherche en bioinformatique est proposé au Laboratoire de Biométrie et Biologie Evolutive (UMR CNRS 5558), dans l'équipe Bioinformatique et Génomique Evolutive (http://lbbe.univ-lyon1.fr/-Equipe-Bioinformatique-et-.html).
-=======
+==========================================
 La phrase 2 est en : FRA
 	Ce stage sera sous la responsabilité de Guy Perrière, avec une co-encadrement par Patricia Doublet, du Centre international de recherche en Infectiologie (INSERM U1111, UMR CNRS 5308).
-=======
+==========================================
 La phrase 3 est en : FRA
 	Il se situerait dans le cadre du projet Legcoxinet, financé par le Labex Ecofect.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Le sujet proposé consiste en une analyse ayant pour but d'identifier les effecteurs du système T4SS (Type 4 Secretion System) chez plusieurs souches de Légionella pneumophila (Lp) et Coxiella burnetti (Cb) ainsi que leurs homologues dans plusieurs espèces bactériennes apparentées (alpha-protéobactéries de type Rickettsiales).
-=======
+==========================================
 La phrase 5 est en : FRA
 	Lp est l'agent responsable de la légionellose, une pathologie bien connue qui atteint environ 1500 personnes chaque année en France, avec un taux de mortalité d'environ 10%.
-=======
+==========================================
 La phrase 6 est en : FRA
 	De son côté, Cb est l'agent d'une zoonose émergente, la fièvre Q, transmise par voie aérienne aux humains.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Ces deux bactéries détournent un mécanisme cellulaire, l'autophagie, via l'excretion d'effecteurs par l'intermédiaire du SST4.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Ceci leur permet d'échapper au système immunitaire de leur hôte et de générer au sein de la cellule une vacuole réplicative.
-=======
+==========================================
 La phrase 9 est en : FRA
 	La méthodologie proposée pour l'identification des effecteurs homologues partirait d'une recherche de similarité classique, suivie de la construction d'une collection de séquences fondée sur le modèle de la banque HOGENOME, développée dans notre groupe.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Une fois les familles de gènes homologues établies, il sera ensuite nécessaire d'identifier les orthologues, ceci au moyen d'une approche phylogénétique.
-=======
+==========================================
 La phrase 11 est en : FRA
 	La construction des arbres phylogénétique en question permettant par ailleurs de retracer les histoires évolutives de ces familles (transferts horizontaux, pertes sélectives) et donc de l'acquisition de la pathogénicité chez Lp et Cb.
-=======
+==========================================
 La phrase 12 est en : FRA
 	Rémunération : indemnité standard de 400 €/mois
 
@@ -74,4 +80,4 @@ Durée : trois à six mois
 
 Contact : Guy Perrière (http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html)
 e-mail et téléphone disponibles sur la page web
-=======
+==========================================

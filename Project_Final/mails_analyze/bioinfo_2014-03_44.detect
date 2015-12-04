@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_44" est globalement en : FRA
+[('FRA', 0.7114248002184442), ('ENG', 1.057289226937189)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDI Ingénieur ] Chef de projet bio-analyse
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDI Ingénieur ] Chef de projet bio-analyse
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Chef de projet bio-analyse
 Type de poste : CDI Ingénieur
@@ -18,16 +24,16 @@ Nom du contact : CHABRIER Cyrielle
 Email du contact : recruitment@genoway.com
 Laboratoire : genOway
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/chef-de-projet-bio-analyse
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -48,4 +54,4 @@ http://www.sfbi.fr/content/chef-de-projet-bio-analyse
 
 
 
-=======
+==========================================

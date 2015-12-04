@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_25" est globalement en : ENG
+[('ENG', 2.8569208839462297), ('FRA', 4.694713566842106)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] 
 
@@ -9,22 +15,22 @@ Le paragraphe 1 est en : ENG
 	Postdoc Bioinformatics: Synthetic Systems Biology
 Genome Institute of Singapore (A*STAR)
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	The Genome Institute of Singapore (GIS) together with the Bioprocessing Technology Institute (BTI) and Duke-NUS launched development of a new sythetic biology platform to engineer cellular phenotypes. The aim of this project is to model gene regulation using large-scale genomics data, and to synthetically reproduce computational predictions in cell lines. The GIS is looking for a bioinformatics postdoctoral fellow with experience in systems biology, genomics, or machine learning to lead the computational analysis.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Requirements
 Candidates should have a PhD in a mathematical discipline (or related), a solid understanding of probability, statistics, and machine learning, and experience in one or more of the following areas: transcriptome analysis, regulatory genomics, DNA sequence analysis, motif finding. The candidate should have strong programming skills, excellent academic grades and very good communication skills in written and spoken English.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Contact
 For inquiries or to apply, please email a cover letter and CV to Jonathan Göke (gokej@gis.a-star.edu.sg).
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -34,22 +40,22 @@ La phrase 1 est en : ENG
 Genome Institute of Singapore (A*STAR)
 
 The Genome Institute of Singapore (GIS) together with the Bioprocessing Technology Institute (BTI) and Duke-NUS launched development of a new sythetic biology platform to engineer cellular phenotypes.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The aim of this project is to model gene regulation using large-scale genomics data, and to synthetically reproduce computational predictions in cell lines.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The GIS is looking for a bioinformatics postdoctoral fellow with experience in systems biology, genomics, or machine learning to lead the computational analysis.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Requirements
 Candidates should have a PhD in a mathematical discipline (or related), a solid understanding of probability, statistics, and machine learning, and experience in one or more of the following areas: transcriptome analysis, regulatory genomics, DNA sequence analysis, motif finding.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The candidate should have strong programming skills, excellent academic grades and very good communication skills in written and spoken English.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Contact
 For inquiries or to apply, please email a cover letter and CV to Jonathan Göke (gokej@gis.a-star.edu.sg).
 
-=======
+==========================================

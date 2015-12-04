@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_90" est globalement en : ENG
+[('ENG', 0.37767503675844305), ('FRA', 0.914845469681812)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Bordeaux Workshop on Bio-Informatics of Personalised Treatment of Cancer, 20th of June
 
@@ -8,132 +14,132 @@ Subject : [bioinfo] Bordeaux Workshop on Bio-Informatics of Personalised Treatme
 Le paragraphe 1 est en : ENG
 	The First Bordeaux Workshop on Bio-Informatics of Personalised Treatment of Cancer will take place on the 20th of June 2014.
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Sequencing revolution is making increasingly possible to use genomic information in the clinical practice for cancer treatment. It is particularly salient in the design of clinical trial stratification strategies, with the ultimate goal being to adjust cancer treatment to genomic profile of a patient. Both quantity and complexity of the available information make bioinformatics an essential part in most steps of this new personalised treatment approach.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Address: Espace Agora Domaine du Haut-Carré, 43 rue Pierre Noailles, 33400 Talence 
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	The workshop is free of charge, but you have to register by sending an e-mail to macha@labri.fr and R.Iggo@bordeaux.unicancer.fr.
 Before 30th of May we will go through the registration list and send you a confirmation for participation. This will be done on the first come first served basis (if you need this confirmation earlier, please mention this in your e-mail)
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Workshop schedule
 ---------------------------
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	9h00-9h30 : Introduction by Pierre Soubeyran and Hervé Bonnefoi 
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	* PRECLINICAL MODELLING OF DRUG RESISTANCE, 9h30-12h30
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Chairman/Moderator : Macha Nikolski
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	9h30-10h00 : Identification of markers of predisposition to Nutlin3 drug resistance by RNA-seq from three sarcoma cell lines
 Kevin Tran, SIRIC BRIO Bioinformatics and Sarcoma Groups, Institut Bergonié
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	10h00-10h30 : Combining PI3K and IGF1R inhibitors in triple negative breast cancer cell lines Hayssam Soueidan, SIRIC BRIO CBiB Bioinformatics Group, Bordeaux
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Coffee Break, 10h30-11h00
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	* MODELLING OF TUMOUR EVOLUTION, 11h00-12h30 
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	11h00-11h45 : Clonal analysis of head and neck cancer 
 Henry Wood, University of Leeds, UK
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	11h45-12h30 : Mouse model of colon metastasis 
 David Cohen, Institut Curie, Paris
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	Lunch, 12h30-14h00 
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	* LUNCHTIME WORKSHOP
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	12h45-13h45 : The logic behind clonal analysis of mixed populations
 Henry Wood, University of Leeds, UK
 
-=======
+==========================================
 Le paragraphe 18 est en : ENG
 	* CLINICAL SESSION, 14h00-18h00 
 Chairman/Moderator : Antoine Italiano, Carlo Lucchesi
 
-=======
+==========================================
 Le paragraphe 19 est en : FRA
 	14h00-14h30 : Biomarkers predictive of treatment-free remission in chronic myeloid leukaemia 
 François-Xavier Mahon, SIRIC BRIO Leukemia Group, University of Bordeaux
 
-=======
+==========================================
 Le paragraphe 20 est en : ENG
 	14h30-15h00 : Hormonal therapy selects against breast cancer clones with rearranged genomes 
 Richard Iggo, SIRIC BRIO Breast Group, Institut Bergonié
 
-=======
+==========================================
 Le paragraphe 21 est en : ENG
 	Coffee Break, 15h00-15h30
 15h30-16h15 : Drug target predictions in cancer based on personalized genome-scale metabolic models
 Francis Planes, University of Navarre
 
-=======
+==========================================
 Le paragraphe 22 est en : ENG
 	16h15-17h00 : Bioinformatics for the personalized treatment of cancer: infrastructure, analysis and outstanding issues
 Miguel Vazquez, CNIO Madrid
 
-=======
+==========================================
 Le paragraphe 23 est en : FRA
 	17h00-17h30 : The role of NGS in personalised medicine 
 Hervé Bonnefoi, SIRIC BRIO Breast Group, Institut Bergonié
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : ENG
 	The First Bordeaux Workshop on Bio-Informatics of Personalised Treatment of Cancer will take place on the 20th of June 2014.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Sequencing revolution is making increasingly possible to use genomic information in the clinical practice for cancer treatment.
-=======
+==========================================
 La phrase 3 est en : ENG
 	It is particularly salient in the design of clinical trial stratification strategies, with the ultimate goal being to adjust cancer treatment to genomic profile of a patient.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Both quantity and complexity of the available information make bioinformatics an essential part in most steps of this new personalised treatment approach.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Address: Espace Agora Domaine du Haut-Carré, 43 rue Pierre Noailles, 33400 Talence 
 
 The workshop is free of charge, but you have to register by sending an e-mail to macha@labri.fr and R.Iggo@bordeaux.unicancer.fr.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Before 30th of May we will go through the registration list and send you a confirmation for participation.
-=======
+==========================================
 La phrase 7 est en : ENG
 	This will be done on the first come first served basis (if you need this confirmation earlier, please mention this in your e-mail)
 
@@ -186,4 +192,4 @@ Miguel Vazquez, CNIO Madrid
 
 17h00-17h30 : The role of NGS in personalised medicine 
 Hervé Bonnefoi, SIRIC BRIO Breast Group, Institut Bergonié
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_76" est globalement en : FRA
+[('FRA', 0.8723457856891563), ('ENG', 2.196580284685785)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][IE] Ingénieur Informatique Scientifique
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Ingénieur Informatique Scientifique
 Type de poste : IE
@@ -19,16 +25,16 @@ Nom du contact : Sonia GUILLOT
 Email du contact : jobs@discngine.com
 Laboratoire : DISCNGINE
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-informatique-scientifique-1
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-informatique-scientifique-1
 
 
 
-=======
+==========================================

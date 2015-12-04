@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_103" est globalement en : FRA
+[('FRA', 0.6125041866791286), ('ENG', 3.568832014104927)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Chémoinformatique
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDD Ingénieur ] Chémoinformatique
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Chémoinformatique
 Type de poste : CDD Ingénieur
@@ -19,13 +25,13 @@ Email du contact : leslie.regad@univ-paris-diderot.fr
 Laboratoire : Molécules Thérapeutiques in silico (MTi), INSERM UMR-S973,  
 Université Paris Diderot
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ch%C3%A9moinformatique
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Université Paris Diderot
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ch%C3%A9moinformatique
 
-=======
+==========================================

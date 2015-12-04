@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_27" est globalement en : ENG
+[('ENG', 0.3519071680874032), ('FRA', 0.5181126789992732)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Summer School in Systems medicine and its applications, June 22-27 in Kandersteg, Swiss Alps
 
@@ -8,27 +14,27 @@ Subject : [bioinfo] Summer School in Systems medicine and its applications, June
 Le paragraphe 1 est en : FRA
 	Dear all,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	The SIB and SystemsX.ch are organising a Joint Summer School on Systems medicine and its applications in June 22-27, 2014 in Kandersteg, a small and charming village in the Swiss Alps.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Further information and registration can be found at:
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	http://www.isb-sib.ch/training/sib-phd-training-network/summer-school-2014.html
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Hope to see you there!
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	For the organisers,
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Patricia M. Palagi
 SIB Swiss Institute of Bioinformatics
@@ -36,7 +42,7 @@ CMU, 1 Michel-Servet
 CH-1211 Geneva 4 - Switzerland 
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,14 +51,14 @@ La phrase 1 est en : ENG
 	Dear all,
 
 The SIB and SystemsX.ch are organising a Joint Summer School on Systems medicine and its applications in June 22-27, 2014 in Kandersteg, a small and charming village in the Swiss Alps.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Further information and registration can be found at:
 
 http://www.isb-sib.ch/training/sib-phd-training-network/summer-school-2014.html
 
 Hope to see you there!
-=======
+==========================================
 La phrase 3 est en : ENG
 	For the organisers,
 
@@ -61,4 +67,4 @@ SIB Swiss Institute of Bioinformatics
 CMU, 1 Michel-Servet
 CH-1211 Geneva 4 - Switzerland 
 
-=======
+==========================================

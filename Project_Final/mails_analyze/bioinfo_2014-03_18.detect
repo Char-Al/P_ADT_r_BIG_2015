@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_18" est globalement en : FRA
+[('FRA', 0.6760054436414472), ('ENG', 1.2306153153540849)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] INGENIEUR BIO INFORMAT  IQUE
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDD Ingénieur ] INGENIEUR BIO INFORMAT  IQUE
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : INGENIEUR BIO INFORMATIQUE
 Type de poste : CDD Ingénieur
@@ -18,13 +24,13 @@ Nom du contact : Claire DREUILLET
 Email du contact : recrutement@pasteur.fr
 Laboratoire : INSTITUT PASTEUR
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ingenieur-bio-informatique-0
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : INSTITUT PASTEUR
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ingenieur-bio-informatique-0
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_40" est globalement en : FRA
+[('FRA', 1.4214537730457548), ('ENG', 80.04981198642295)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] infos congrès SFB2014 àGuéthary du 10-13 novembre
 
@@ -9,19 +15,19 @@ Le paragraphe 1 est en : FRA
 	
 Chers collègues,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Merci de prendre note des informations ci-dessous relatives au 
 prochain congrès de la Société Française de Biophysique qui aura 
 lieu à Guéthary du 10 au 13 novembre (http://sfb2014.sciencesconf.org/):
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	- la date limite pour vous inscrire sans supplément et soumettre 
 un résumé pour une contribution affichée ou orale est repoussée au 
 15 Octobre, c'est à dire aujourd'hui :))
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	- le programme des conférences invitées ci-dessous n'attend plus qu'à 
 être complété par vos contributions! 
@@ -29,7 +35,7 @@ Pour les bio-informaticiens et modélisateurs en particulier il y aura
 Syma Khalid et très certainement Toby Allen (information encore 
 officieuse), tous deux orateurs de premier renom.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	- le centre de Guéthary peut accueillir les participants dès le 
 dimanche 9 novembre (les habitations seront disponibles à partir 
@@ -38,13 +44,13 @@ de 16h) en demi-pension (dîner, nuit et petit-déjeûner) au tarif de
 ou pour toute demande particulière relative à votre séjour, 
 contacter Laurence Salomé par mail à laurence.salome@ipbs.fr.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Au plaisir de vous retrouver à Guéthary,
 Pour le comité scientifique,
   Marc Baaden
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Programme
 R Phillips: The Other Bohr and Biology's Greatest Model
@@ -82,25 +88,25 @@ P Schultz: Structure, function and assembly of the TFIID and SAGA
  
 Round table "Physicists meet biologists"
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	A Bancaud: Investigation of chromosome structure in living yeast by 
            fluorescence microscopy
 J-F Berret: Particles and nanowires in interaction with living cells: 
             from fundamentals to applications
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	-- 
  Dr. Marc Baaden  - Institut de Biologie Physico-Chimique, Paris
  mailto:baaden@smplinux.de      -      http://www.baaden.ibpc.fr
  FAX: +33 15841 5026  -  Tel: +33 15841 5176  ou  +33 609 843217
 
-=======
-Le paragraphe 10 est en : non detect
+==========================================
+Le paragraphe 10 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -119,23 +125,23 @@ un résumé pour une contribution affichée ou orale est repoussée au
 
 - le programme des conférences invitées ci-dessous n'attend plus qu'à 
 être complété par vos contributions!
-=======
+==========================================
 La phrase 2 est en : FRA
 	Pour les bio-informaticiens et modélisateurs en particulier il y aura 
 Syma Khalid et très certainement Toby Allen (information encore 
 officieuse), tous deux orateurs de premier renom.
-=======
+==========================================
 La phrase 3 est en : FRA
 	- le centre de Guéthary peut accueillir les participants dès le 
 dimanche 9 novembre (les habitations seront disponibles à partir 
 de 16h) en demi-pension (dîner, nuit et petit-déjeûner) au tarif de 
 62 euro en chambre double et 74 euro en single.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Pour en bénéficier 
 ou pour toute demande particulière relative à votre séjour, 
 contacter Laurence Salomé par mail à laurence.salome@ipbs.fr.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Au plaisir de vous retrouver à Guéthary,
 Pour le comité scientifique,
@@ -190,4 +196,4 @@ J-F Berret: Particles and nanowires in interaction with living cells:
 
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_64" est globalement en : FRA
+[('FRA', 0.43010701370007826), ('ENG', 0.7649692581782845)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD autre] Bio-informaticien plateform  e de génomique
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDD autre] Bio-informaticien plateform  e de génom
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bio-informaticien plateforme de génomique
 Type de poste : CDD autre
@@ -18,13 +24,13 @@ Nom du contact : Joel Lachuer
 Email du contact : lachuer@univ-lyon1.fr
 Laboratoire : ProfileXpert
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bio-informaticien-plateforme-de-g%C3%A9nomique
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : ProfileXpert
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bio-informaticien-plateforme-de-g%C3%A9nomique
 
-=======
+==========================================

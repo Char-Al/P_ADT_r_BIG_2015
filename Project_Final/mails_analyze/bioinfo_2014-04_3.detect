@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_3" est globalement en : FRA
+[('FRA', 0.42244888032775824), ('ENG', 31.339324952338785)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Formation "Initiation à la construction de bases de données " - 19 au 23 mai 2014
 
@@ -8,24 +14,24 @@ Subject : [bioinfo] Formation "Initiation à la construction de bases de donnée
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	veuillez trouver ci-dessous l'annonce de la formation continue «
 Initiation à la construction de bases de données » de l'Université d'Evry.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Yolande Diaz, Carène Rizzon.
 ###########################################################
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	#########################
 ANNONCE FORMATION CONTINUE :
 #########################
 INITIATION A LA CONSTRUCTION DE BASES DE DONNEES
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	#########################
 OBJECTIFS
@@ -36,7 +42,7 @@ machine avec des logiciels libres.
 Les participants peuvent venir avec leurs propres données pour construire
 la base.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	#########################
 PUBLIC
@@ -44,7 +50,7 @@ PUBLIC
 Techniciens, Ingénieurs, Doctorants, Chercheurs et Personnels de santé
 exerçant dans le domaine des sciences du vivant ou de la physique/chimie
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	#########################
 PROGRAMME
@@ -58,7 +64,7 @@ requête).
 • Construction sur machine de la base avec intégration des données.
 • Mise en place d'une interface web de consultation de la base de données.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	#########################
 CONDITIONS D’ADMISSION
@@ -69,7 +75,7 @@ n'est nécessaire.
 • Pour plus d'info voir : Pour plus d'info :
 http://www.univ-evry.fr/fr/professionnalisation/formation_continue/formations_courtes_du_departement_biologie.html
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	#########################
 MODALITES
@@ -81,14 +87,14 @@ de France, 91025 EVRY Cedex
 Organisation - Nombre de participants : 6 (minimum) – 12 (maximum) - 1 PC
 par personne
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	#########################
 TARIF
 #########################
 Coût (Net de taxe) : 1500 € par stagiaire (repas inclus)
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	#########################
 CONTACTS
@@ -100,7 +106,7 @@ Université d’Evry-Val-d’Essonne
 Tel : 01 69 47 70 67
 Email : sylvie.barreau (at) univ-evry.fr
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Renseignements – Formation
 Carène RIZZON, Yolande DIAZ
@@ -110,11 +116,11 @@ Tel : 01 64 85 35 40
 Courriel : carene.rizzon (at) genopole.cnrs.fr, yolande.diaz (at)
 genopole.cnrs.fr
 
-=======
-Le paragraphe 13 est en : non detect
+==========================================
+Le paragraphe 13 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -124,10 +130,10 @@ La phrase 1 est en : FRA
 
 veuillez trouver ci-dessous l'annonce de la formation continue «
 Initiation à la construction de bases de données » de l'Université d'Evry.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Yolande Diaz, Carène Rizzon.
-=======
+==========================================
 La phrase 3 est en : FRA
 	###########################################################
 
@@ -142,11 +148,11 @@ OBJECTIFS
 Construire d’une base de données, depuis la conception (prise en compte de
 la problématique, organisation des données) jusqu'à la mise en œuvre sur
 machine avec des logiciels libres.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Les participants peuvent venir avec leurs propres données pour construire
 la base.
-=======
+==========================================
 La phrase 5 est en : FRA
 	#########################
 PUBLIC
@@ -158,31 +164,31 @@ exerçant dans le domaine des sciences du vivant ou de la physique/chimie
 PROGRAMME
 #########################
 • Introduction à Unix.
-=======
+==========================================
 La phrase 6 est en : FRA
 	• Etablissement du cahier des charges de la base de données.
-=======
+==========================================
 La phrase 7 est en : FRA
 	• Formalisation à l'aide d'un schéma conceptuel des données brutes
 (données et concepts associés).
-=======
+==========================================
 La phrase 8 est en : FRA
 	• Bases théoriques (langage de représentation de données, langage de
 requête).
-=======
+==========================================
 La phrase 9 est en : FRA
 	• Construction sur machine de la base avec intégration des données.
-=======
+==========================================
 La phrase 10 est en : FRA
 	• Mise en place d'une interface web de consultation de la base de données.
-=======
+==========================================
 La phrase 11 est en : FRA
 	#########################
 CONDITIONS D’ADMISSION
 #########################
 • Pré-requis pour entrer en formation :aucune connaissance en informatique
 n'est nécessaire.
-=======
+==========================================
 La phrase 12 est en : FRA
 	• Date limite de dépôt de bulletin d’inscription : 25/04/2014
 • Pour plus d'info voir : Pour plus d'info :
@@ -223,4 +229,4 @@ Courriel : carene.rizzon (at) genopole.cnrs.fr, yolande.diaz (at)
 genopole.cnrs.fr
 
 
-=======
+==========================================

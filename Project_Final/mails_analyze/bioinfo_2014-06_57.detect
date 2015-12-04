@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_57" est globalement en : ENG
+[('ENG', 0.2906482582204998), ('FRA', 0.7705399869911297)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] ECCB 2014 Tutorial : Analysis of Cis-Regulatory Motifs from High-Throughput
  Sequence Sets
@@ -10,53 +16,53 @@ Le paragraphe 1 est en : ENG
 	ECCB Tutorial T01
 Analysis of Cis-Regulatory Motifs from High-Throughput Sequence Sets
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Date: Saturday Sept 6, 2014
 Place: Forum building of the Faculty of Medicine of Strasbourg
 Time: 9am – 6pm
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Contact e-mail: mthomas@biologie.ens.fr
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	More details: http://www.eccb14.org/program/tutorials/cis-r
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	How to register: http://www.eccb14.org/registration
 Registration includes lunch & coffee breaks on the day of the workshop
 and the tutorial material (.pdf and/or print). ECCB Tutorial rates: 110
 € (academic) or 60 € (student)
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	----------     Short description     ----------
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	This tutorial aims at introducing the theoretical principles and giving
 practical skills to use specialized software tools to extract motifs
 from full-scaled NGS datasets (typically covering tens of Mb).
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	---------    Teachers    ----------
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	- Jacques van Helden, Aix-Marseille Université (France)
 - Morgane Thomas-Chollier,  Ecole Normale Supérieure (France)
 - Carl Herrmann, University Heidelberg (Germany).
 - Alejandra Medina-Rivera, SickKids Research Institute, Toronto (Canada)
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	----------   Description   ----------
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	Next Generation Sequencing led to the development of novel methods
 (ChIP-seq, FAIRE-seq, clip-seq, ) to acquire massive data about diverse
@@ -66,38 +72,38 @@ chromatin conformation, RNA maturation, recombination, replication, ).
 specialized software tools, but also a good understanding of their
 principles and parameters.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	In this tutorial we will demonstrate how to analyze ChIP-seq data using
 the Regulatory Sequence Analysis Tools (RSAT, http://www.rsat.eu/), via
 their different ways of access: web-interface, command-line, and
 web-services.
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	This tutorial aims at introducing the theoretical principles and giving
 practical skills to use specialized software tools to extract motifs
 from full-scaled NGS datasets (typically covering tens of Mb).
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	----------    Contents    ----------
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	The tutorial will be organized in 2 half days:
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	1) Analysis of cis-regulatory elements with the Regulatory Sequence
 Analysis Tools (RSAT): methods and website utilization
 (http://www.rsat.eu/).
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	2) Using RSAT in command-line and via web services (SOAP/WSDL).
 
-=======
+==========================================
 Le paragraphe 18 est en : ENG
 	Topics: 	 Motif discovery in NGS peak sets.
 	 Impact of the background models.
@@ -106,69 +112,69 @@ Le paragraphe 18 est en : ENG
 	 Evaluating the quality of motifs extracted from NGS peaks.
 	 Building control sets to estimate the rates of false positives.
 
-=======
+==========================================
 Le paragraphe 19 est en : ENG
 	----------   Topics not covered   ----------
 
-=======
+==========================================
 Le paragraphe 20 est en : ENG
 	Other steps for the analysis of ChIP-seq data (e.g. read mapping, peak
 calling, functional enrichment of peaks, other tools for pattern
 discovery and matching).
 
-=======
+==========================================
 Le paragraphe 21 est en : ENG
 	----------   Target audience   ----------
 
-=======
+==========================================
 Le paragraphe 22 est en : ENG
 	The course is addressed to bioinformaticians and biologists. The
 afternoon will require being familiar with the Unix shell (Linux) and
 basic programming skills (Perl or Python) to implement clients for web
 services.
 
-=======
+==========================================
 Le paragraphe 23 est en : ENG
 	----------   In practice   ----------
 
-=======
+==========================================
 Le paragraphe 24 est en : ENG
 	* Participants will need to bring their own laptop
 
-=======
+==========================================
 Le paragraphe 25 est en : ENG
 	* All command-line programs will be run on the IDB's cloud platform
 (https://idee-b.ibcp.fr/cloud.html) managed by Christophe Blanchet
 (IBCP, Lyon, France). Each participant will be given a (free) account to
 access this cloud and thereby a fully functional virtual machine with RSAT.
 
-=======
+==========================================
 Le paragraphe 26 est en : ENG
 	* Wireless internet will be available at the conference venue. In the
 worse case, where the network would become unavailable during the day,
 we would still be able to give a demo on the teacher laptops.
 
-=======
+==========================================
 Le paragraphe 27 est en : ENG
 	* An indicative reading list will be available a few weeks before the
 tutorial.
 
-=======
+==========================================
 Le paragraphe 28 est en : ENG
 	* The hands-on will be organized in a cookbook mode: we will distribute
 protocols explaining the steps to solve selected test cases.
 
-=======
+==========================================
 Le paragraphe 29 est en : ENG
 	* For the practicals, we ensure that there is no need to transfer data
 from the conference room to the servers.
  ----------------------------------------------------------------
 
-=======
-Le paragraphe 30 est en : non detect
+==========================================
+Le paragraphe 30 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -188,7 +194,7 @@ More details: http://www.eccb14.org/program/tutorials/cis-r
 How to register: http://www.eccb14.org/registration
 Registration includes lunch & coffee breaks on the day of the workshop
 and the tutorial material (.pdf and/or print).
-=======
+==========================================
 La phrase 2 est en : ENG
 	ECCB Tutorial rates: 110
 € (academic) or 60 € (student)
@@ -198,14 +204,14 @@ La phrase 2 est en : ENG
 This tutorial aims at introducing the theoretical principles and giving
 practical skills to use specialized software tools to extract motifs
 from full-scaled NGS datasets (typically covering tens of Mb).
-=======
+==========================================
 La phrase 3 est en : FRA
 	---------    Teachers    ----------
 
 - Jacques van Helden, Aix-Marseille Université (France)
 - Morgane Thomas-Chollier,  Ecole Normale Supérieure (France)
 - Carl Herrmann, University Heidelberg (Germany).
-=======
+==========================================
 La phrase 4 est en : FRA
 	- Alejandra Medina-Rivera, SickKids Research Institute, Toronto (Canada)
 
@@ -215,23 +221,23 @@ Next Generation Sequencing led to the development of novel methods
 (ChIP-seq, FAIRE-seq, clip-seq, ) to acquire massive data about diverse
 signals involved in genome regulation and function (cis-regulation,
 chromatin conformation, RNA maturation, recombination, replication, ).
-=======
+==========================================
 La phrase 5 est en : ENG
 	Extracting relevant information from the raw data requires not only
 specialized software tools, but also a good understanding of their
 principles and parameters.
-=======
+==========================================
 La phrase 6 est en : ENG
 	In this tutorial we will demonstrate how to analyze ChIP-seq data using
 the Regulatory Sequence Analysis Tools (RSAT, http://www.rsat.eu/), via
 their different ways of access: web-interface, command-line, and
 web-services.
-=======
+==========================================
 La phrase 7 est en : ENG
 	This tutorial aims at introducing the theoretical principles and giving
 practical skills to use specialized software tools to extract motifs
 from full-scaled NGS datasets (typically covering tens of Mb).
-=======
+==========================================
 La phrase 8 est en : ENG
 	----------    Contents    ----------
 
@@ -240,49 +246,49 @@ The tutorial will be organized in 2 half days:
 1) Analysis of cis-regulatory elements with the Regulatory Sequence
 Analysis Tools (RSAT): methods and website utilization
 (http://www.rsat.eu/).
-=======
+==========================================
 La phrase 9 est en : ENG
 	2) Using RSAT in command-line and via web services (SOAP/WSDL).
-=======
+==========================================
 La phrase 10 est en : ENG
 	Topics: 	 Motif discovery in NGS peak sets.
-=======
+==========================================
 La phrase 11 est en : ENG
 	 Impact of the background models.
-=======
+==========================================
 La phrase 12 est en : ENG
 	 Comparison between motifs.
-=======
+==========================================
 La phrase 13 est en : FRA
 	 Motif enrichment in peak sequences.
-=======
+==========================================
 La phrase 14 est en : ENG
 	 Evaluating the quality of motifs extracted from NGS peaks.
-=======
+==========================================
 La phrase 15 est en : ENG
 	 Building control sets to estimate the rates of false positives.
-=======
+==========================================
 La phrase 16 est en : ENG
 	----------   Topics not covered   ----------
 
 Other steps for the analysis of ChIP-seq data (e.g.
-=======
+==========================================
 La phrase 17 est en : ENG
 	read mapping, peak
 calling, functional enrichment of peaks, other tools for pattern
 discovery and matching).
-=======
+==========================================
 La phrase 18 est en : ENG
 	----------   Target audience   ----------
 
 The course is addressed to bioinformaticians and biologists.
-=======
+==========================================
 La phrase 19 est en : ENG
 	The
 afternoon will require being familiar with the Unix shell (Linux) and
 basic programming skills (Perl or Python) to implement clients for web
 services.
-=======
+==========================================
 La phrase 20 est en : ENG
 	----------   In practice   ----------
 
@@ -291,32 +297,32 @@ La phrase 20 est en : ENG
 * All command-line programs will be run on the IDB's cloud platform
 (https://idee-b.ibcp.fr/cloud.html) managed by Christophe Blanchet
 (IBCP, Lyon, France).
-=======
+==========================================
 La phrase 21 est en : ENG
 	Each participant will be given a (free) account to
 access this cloud and thereby a fully functional virtual machine with RSAT.
-=======
+==========================================
 La phrase 22 est en : ENG
 	* Wireless internet will be available at the conference venue.
-=======
+==========================================
 La phrase 23 est en : ENG
 	In the
 worse case, where the network would become unavailable during the day,
 we would still be able to give a demo on the teacher laptops.
-=======
+==========================================
 La phrase 24 est en : ENG
 	* An indicative reading list will be available a few weeks before the
 tutorial.
-=======
+==========================================
 La phrase 25 est en : ENG
 	* The hands-on will be organized in a cookbook mode: we will distribute
 protocols explaining the steps to solve selected test cases.
-=======
+==========================================
 La phrase 26 est en : ENG
 	* For the practicals, we ensure that there is no need to transfer data
 from the conference room to the servers.
-=======
-La phrase 27 est en : non detect
+==========================================
+La phrase 27 est en : n
 	----------------------------------------------------------------
 
 
@@ -326,4 +332,4 @@ La phrase 27 est en : non detect
 
 
 
-=======
+==========================================

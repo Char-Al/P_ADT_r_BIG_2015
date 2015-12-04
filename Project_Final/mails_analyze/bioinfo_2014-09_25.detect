@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_25" est globalement en : ENG
+[('ENG', 0.518588231289176), ('FRA', 0.7855691339612176)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Postdoc announcement
 
@@ -10,7 +16,7 @@ Le paragraphe 1 est en : ENG
 hosted by LIRMM (http://www.lirmm.fr/,  Montpellier, France) is hiring
 a postdoc/software developer for 18 months, renewable.
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	He  will  work  in  a  stimulating environment  within  the  MAB  team
 (http://www.lirmm.fr/recherche/equipes/mab)      and      the      IBC
@@ -22,45 +28,45 @@ al. 2008).  The PhyML software  (Guindon and Gascuel 2003;  Guindon et
 al. 2010)  is a reference in  this field with over  8000 citations and
 thousands of users worldwide.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	In  collaboration with  researchers  and engineers,  the recruit  will
 develop the PhyML software and tools for phylogenomics, including:
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	- Partition and  mixture models,  in the line  of (Le et Gascuel 2008,
    2010, 2012)
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	- Statistical methods of model selection, in the line of ModelTest and
   ProtTest (Posada and Crandall 1998, Abascal et al. 2005).
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	- Ancestral sequence reconstruction based on PhyML calculations.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	- Develop  a   user-friendly  web   site  (in   the  same   spirit  as
   phylogeny.fr) to  provide a  complete set of  species and  genes tree
   inference methods (supertree and reconciliation problems).
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	- Develop tools to visualize phylogenetic trees, date internal nodes ,
   and integrate  extrinsic characters (ecological,  geographical, etc.)
   particularly in the context of epidemiology (Chevenet et al. 2013).
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	The recruit  must have a  solid experience in C  programming, advanced
 knowledge in evolutionary biology  and bioinformatics, and good skills
 in (some  of): statistics, collaborative development  tools, workflows
 (Taverna, Galaxy) and web services (WSDL, SOAP)
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	Montpellier is  a sunny city located  on the south coast  of France on
 the  Mediterranean Sea.  It is  a  university city  with an  important
@@ -69,19 +75,19 @@ medicine in  Europe). The  natural attractions around  Montpellier are
 very diverse, which is suitable for many activities including sailing,
 relaxing on the beach, hiking, climbing, canoeing, ...
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Use the web form:  http://ifb-gs.cnrs.fr/open-positions to apply. Your
 application will  include detailled CV, motivation  letter, references
 and publications.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Contacts:  -  Olivier  Gascuel  (gascuel@lirmm.fr)  -  Vincent  Lefort
 (lefort@lirmm.fr)
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -90,33 +96,33 @@ La phrase 1 est en : ENG
 	The  ATGC  bioinformatics  platform  (http://www.atgc-montpellier.fr/)
 hosted by LIRMM (http://www.lirmm.fr/,  Montpellier, France) is hiring
 a postdoc/software developer for 18 months, renewable.
-=======
+==========================================
 La phrase 2 est en : ENG
 	He  will  work  in  a  stimulating environment  within  the  MAB  team
 (http://www.lirmm.fr/recherche/equipes/mab)      and      the      IBC
 (http://www.ibc-montpellier.fr/).The   MAB  team   is  internationally
 recognized for  its contributions to  research in phylogeny.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Its work
 has  led  to   the  development  of  globally   utilized  services  in
 evolutionary   bioinformatics   (e.g.
-=======
+==========================================
 La phrase 4 est en : ENG
 	phylogeny.fr:   Dereeper   et
 al.
-=======
-La phrase 5 est en : non detect
+==========================================
+La phrase 5 est en : n
 	2008).
-=======
+==========================================
 La phrase 6 est en : ENG
 	The PhyML software  (Guindon and Gascuel 2003;  Guindon et
 al.
-=======
+==========================================
 La phrase 7 est en : ENG
 	2010)  is a reference in  this field with over  8000 citations and
 thousands of users worldwide.
-=======
+==========================================
 La phrase 8 est en : ENG
 	In  collaboration with  researchers  and engineers,  the recruit  will
 develop the PhyML software and tools for phylogenomics, including:
@@ -126,28 +132,28 @@ develop the PhyML software and tools for phylogenomics, including:
 
 - Statistical methods of model selection, in the line of ModelTest and
   ProtTest (Posada and Crandall 1998, Abascal et al.
-=======
-La phrase 9 est en : non detect
+==========================================
+La phrase 9 est en : n
 	2005).
-=======
+==========================================
 La phrase 10 est en : FRA
 	- Ancestral sequence reconstruction based on PhyML calculations.
-=======
+==========================================
 La phrase 11 est en : ENG
 	- Develop  a   user-friendly  web   site  (in   the  same   spirit  as
   phylogeny.fr) to  provide a  complete set of  species and  genes tree
   inference methods (supertree and reconciliation problems).
-=======
+==========================================
 La phrase 12 est en : ENG
 	- Develop tools to visualize phylogenetic trees, date internal nodes ,
   and integrate  extrinsic characters (ecological,  geographical, etc.)
-=======
+==========================================
 La phrase 13 est en : ENG
 	particularly in the context of epidemiology (Chevenet et al.
-=======
-La phrase 14 est en : non detect
+==========================================
+La phrase 14 est en : n
 	2013).
-=======
+==========================================
 La phrase 15 est en : ENG
 	The recruit  must have a  solid experience in C  programming, advanced
 knowledge in evolutionary biology  and bioinformatics, and good skills
@@ -156,26 +162,26 @@ in (some  of): statistics, collaborative development  tools, workflows
 
 Montpellier is  a sunny city located  on the south coast  of France on
 the  Mediterranean Sea.
-=======
+==========================================
 La phrase 16 est en : ENG
 	It is  a  university city  with an  important
 cultural and  scientific heritage (for  example the oldest  faculty of
 medicine in  Europe).
-=======
+==========================================
 La phrase 17 est en : ENG
 	The  natural attractions around  Montpellier are
 very diverse, which is suitable for many activities including sailing,
 relaxing on the beach, hiking, climbing, canoeing, ...
 
 Use the web form:  http://ifb-gs.cnrs.fr/open-positions to apply.
-=======
+==========================================
 La phrase 18 est en : ENG
 	Your
 application will  include detailled CV, motivation  letter, references
 and publications.
-=======
+==========================================
 La phrase 19 est en : ENG
 	Contacts:  -  Olivier  Gascuel  (gascuel@lirmm.fr)  -  Vincent  Lefort
 (lefort@lirmm.fr)
 
-=======
+==========================================

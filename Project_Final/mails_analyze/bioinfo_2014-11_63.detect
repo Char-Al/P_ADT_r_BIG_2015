@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_63" est globalement en : FRA
+[('FRA', 0.2860689948636451), ('ENG', 1.8249584091239206)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] Développementd’un module Dr  upal pour la gestion des données de génomes d  e plantes
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Développementd’un module Dr  upal pour la
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Développement d’un module Drupal pour la gestion des  
 données de génomes de plantes
@@ -19,13 +25,13 @@ Nom du contact : Valentin Guignon
 Email du contact : v.guignon@cgiar.org
 Laboratoire : Bioversity International
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-d%E2%80%99un-module-drupal-pour-la-gestion-des-donn%C3%A9es-de-g%C3%A9nomes-de-plantes
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : Bioversity International
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-d%E2%80%99un-module-drupal-pour-la-gestion-des-donn%C3%A9es-de-g%C3%A9nomes-de-plantes
 
-=======
+==========================================

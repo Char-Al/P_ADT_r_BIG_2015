@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_33" est globalement en : ENG
+[('FRA', 0.5513143239033464), ('ENG', 0.6066270150609202)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] CFP: IJCNN 2015 Special Session on "Multiple Clusterings"
 
@@ -8,13 +14,13 @@ Subject : [bioinfo] CFP: IJCNN 2015 Special Session on "Multiple Clusterings"
 Le paragraphe 1 est en : ENG
 	*** Apologies for cross-posting ***
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 				   Call for Papers
      IEEE IJCNN 2015 Special Session on "Multiple Clusterings"
        July 12 - 17, 2015, Killarney, Ireland.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	----------------------------------------------------------
 IMPORTANT DATES
@@ -24,7 +30,7 @@ Camera-ready submission: April 15th, 2015
 Conference Dates: July 12 - 17th, 2015
 ----------------------------------------------------------
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	*DESCRIPTION*
 Currently, more and more data are collected from multiple sources or  
@@ -35,7 +41,7 @@ data. As a consequence, in recent years, the interdisciplinary
 research topic on multiple clusterings has drawn significant attention  
 of the data mining community.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	The research in such a field encompasses those of well-established  
 areas, such as cluster ensemble, multi-objective clustering,  
@@ -43,13 +49,13 @@ multi-view clustering and constraint-based clustering. In this special
 session, we aim at bringing together researchers from these areas to  
 discuss questions in multiple clusterings.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	*TOPICS*
 Papers must present original work or review the state-of-the-art in  
 the following non-exhaustive list of topics:
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	- Cluster ensemble
 - Multi-objective clustering
@@ -60,47 +66,47 @@ Le paragraphe 7 est en : ENG
 - Applications (e.g., document mining, bioinformatics, marketing,  
 among others)
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	*SUBMISSION*
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	IMPORTANT: the ** deadline ** for paper submission to special sessions  
 is the same of that of IJCNN 2015, ** January 15th 2015***.
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Prospective authors are invited to submit papers via the IJCNN 2015  
 conference submission system at:
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	http://www.ijcnn.org/paper-submission
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Please make sure to select the Special Session "Multiple clusterings"  
 from the "S. SPECIAL SESSION TOPICS" name in the "Main Research topic"  
 drop-down list. Templates and instruction for authors are provided on  
 the IJCNN website.
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	All papers submitted to the special sessions will be subject to the  
 same peer-review procedure as regular papers. Accepted papers will be  
 published in the conference proceedings.
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	Further information about IJCNN 2015 can be found at http://www.ijcnn.org/
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	***********************************************************
 Special Session on "Multiple clusterings" at IJCNN 2015
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	*Organizers*
 Prof. Marcilio C. P. de Souto and Dr. Guillaume Cleuziou
@@ -110,11 +116,11 @@ University of Orléans, Orléans, France
 Email: marcilio.desouto@univ-orleans.fr, guillaume.cleuziou@univ-orleans.fr
 Website: https://sites.google.com/site/ijcnnmultipleclusterings/
 
-=======
-Le paragraphe 17 est en : non detect
+==========================================
+Le paragraphe 17 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -125,7 +131,7 @@ La phrase 1 est en : FRA
 			   Call for Papers
      IEEE IJCNN 2015 Special Session on "Multiple Clusterings"
        July 12 - 17, 2015, Killarney, Ireland.
-=======
+==========================================
 La phrase 2 est en : ENG
 	----------------------------------------------------------
 IMPORTANT DATES
@@ -139,27 +145,27 @@ Conference Dates: July 12 - 17th, 2015
 Currently, more and more data are collected from multiple sources or  
 represented by multiple views (e.g., text, video, images, biological  
 data, among others).
-=======
+==========================================
 La phrase 3 est en : FRA
 	In this context, clustering techniques are often  
 required to be able to provide several possibilities for analyzing the  
 data.
-=======
+==========================================
 La phrase 4 est en : ENG
 	As a consequence, in recent years, the interdisciplinary  
 research topic on multiple clusterings has drawn significant attention  
 of the data mining community.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The research in such a field encompasses those of well-established  
 areas, such as cluster ensemble, multi-objective clustering,  
 multi-view clustering and constraint-based clustering.
-=======
+==========================================
 La phrase 6 est en : ENG
 	In this special
 session, we aim at bringing together researchers from these areas to  
 discuss questions in multiple clusterings.
-=======
+==========================================
 La phrase 7 est en : ENG
 	*TOPICS*
 Papers must present original work or review the state-of-the-art in  
@@ -178,7 +184,7 @@ among others)
 
 IMPORTANT: the ** deadline ** for paper submission to special sessions  
 is the same of that of IJCNN 2015, ** January 15th 2015***.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Prospective authors are invited to submit papers via the IJCNN 2015  
 conference submission system at:
@@ -188,19 +194,19 @@ http://www.ijcnn.org/paper-submission
 Please make sure to select the Special Session "Multiple clusterings"  
 from the "S. SPECIAL SESSION TOPICS" name in the "Main Research topic"  
 drop-down list.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Templates and instruction for authors are provided on  
 the IJCNN website.
-=======
+==========================================
 La phrase 10 est en : ENG
 	All papers submitted to the special sessions will be subject to the  
 same peer-review procedure as regular papers.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Accepted papers will be  
 published in the conference proceedings.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Further information about IJCNN 2015 can be found at http://www.ijcnn.org/
 
@@ -217,4 +223,4 @@ Website: https://sites.google.com/site/ijcnnmultipleclusterings/
 
 
 
-=======
+==========================================

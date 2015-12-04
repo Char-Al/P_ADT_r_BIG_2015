@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-08_4" est globalement en : ENG
+[('ENG', 0.16693834542337468), ('FRA', 0.25523602596559075)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Analysing  large pollinator genomics and
  transcriptomics datasets
@@ -9,7 +15,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Analysing  large pollinator genomics
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Intitulé du poste : Analysing large pollinator genomics and transcriptomics
 datasets
@@ -20,16 +26,16 @@ Nom du contact : Yannick Wurm
 Email du contact : y.wurm@qmul.ac.uk
 Laboratoire : Queen Mary, University of London
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/analysing-large-pollinator-genomics-and-transcriptomics-datasets
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ Voir la description complète du poste sur
 http://www.sfbi.fr/content/analysing-large-pollinator-genomics-and-transcriptomics-datasets
 
 
-=======
+==========================================

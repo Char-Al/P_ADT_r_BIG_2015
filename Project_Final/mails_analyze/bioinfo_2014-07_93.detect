@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_93" est globalement en : FRA
+[('ENG', 0.7192759693228707), ('FRA', 1.065632950942259)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformatician
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformatician
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformatician
 Type de poste : Post-doc / IR
@@ -18,16 +24,16 @@ Nom du contact : Eileen Furlong
 Email du contact : furlong@embl.de
 Laboratoire : EMBL - Furlong Lab
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformatician-6
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -48,4 +54,4 @@ Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformatician-6
 
 
-=======
+==========================================

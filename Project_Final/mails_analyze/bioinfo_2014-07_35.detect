@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_35" est globalement en : FRA
+[('FRA', 0.5837875718337604), ('ENG', 1.2507217670187114)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] L'IFB-core recrute 4 ingénieurs en CDD
 
@@ -8,14 +14,14 @@ Subject : [bioinfo] L'IFB-core recrute 4 ingénieurs en CDD
 Le paragraphe 1 est en : FRA
 	*** L'IFB-core recrute 4 ingénieurs en CDD ***
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	L'IFB-core est le noeud national de l'Institut Français de 
 Bioinformatique (IFB). L'IFB est l'infrastructure nationale de service 
 en bioinformatique issue de l'appel à propositions « Infrastructure en 
 Biologie Santé » des Investissements d'Avenir.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	L'IFB-core est une unité mixte de services créée début 2013, localisée 
 sur le campus CNRS de Gif-sur-Yvette. Elle joue un rôle crucial dans la 
@@ -26,7 +32,7 @@ et Valorisation, et l'autre à l' e-Infrastructure nationale de l'IFB. Un
 des objectifs stratégiques est la mise en place d'un cloud académique à 
 destination de la communauté de recherche en sciences du vivant.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	La cellule Communication, Formation et Valorisation a pour tâches 
 principales la communication de l’IFB et la mise en place d’un programme 
@@ -36,7 +42,7 @@ plusieurs plates-formes logicielles : le site web de l’infrastructure et
 un environnement collaboratif, une plate-forme d’E-learning et une 
 plate-forme d’environnement virtuel pour la recherche
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	La cellule e-Infrastructure doit mettre en place et administrer 
 l’infrastructure nationale de l’IFB hébergée à l’IDRIS, et y déployer un 
@@ -49,30 +55,30 @@ des sciences de la vie. De façon à favoriser l’utilisation des outils
 bio-informatiques appropriés nous souhaitons encapsuler les logiciels 
 dans des machines virtuelles (VM) pouvant être exécutées sur le Cloud.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Nous recrutons quatre ingénieurs en contrat à durée déterminée sur les 
 profils suivants.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Pour plus de renseignements contacter : 
 jean-francois.gibrat@france-bioinformatique.fr
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Profils
 -------
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	* Ingénieur en charge du site Web : bioinformaticien(ne), niveau IE.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	(Au titre de la cellule Communication, Formation et Valorisation)
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	Missions : Sa tâche consistera à participer aux développements du site 
 Web puis à le mettre à jour régulièrement. Il/elle devra pour cela 
@@ -91,16 +97,16 @@ données ainsi que de fournir la documentation associée (avec
 éventuellement des tutoriels créés par les PF). Une bonne connaissance 
 des techniques de publications Web est nécessaire, notamment le CMS Drupal.
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	* Ingénieur « administrateur système » : informaticien(ne) expert(e) en 
 administration de systèmes informatiques complexes sous Linux, niveau IE.
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	(Au titre de la cellule e-Infrastructure)
 
-=======
+==========================================
 Le paragraphe 14 est en : FRA
 	Missions : La mission de cet ingénieur sera d'assurer l'administration 
 système de l'infrastructure nationale de l'IFB, et d'assurer l'interface 
@@ -119,12 +125,12 @@ requises. Des connaissances dans les techniques de virtualisation et les
 systèmes de service d'infrastructure cloud (StratusLab, OpenStack,...) 
 existants seront un avantage.
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	L'ingénieur(e) partagera son temps entre IFB-core et le centre de calcul 
 national hébergeur, séparés de quelques kilomètres:
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	IDRIS-CNRS
 Campus universitaire d'Orsay
@@ -132,17 +138,17 @@ rue John Von Neumann
 Bâtiment 506
 F-91403 Orsay cedex
 
-=======
+==========================================
 Le paragraphe 17 est en : FRA
 	* Ingénieur "cloud" : informaticien(ne) spécialiste des techniques de 
 calcul intensif et distribué et des problématiques associées au 
 déploiement d'un Cloud pour les sciences du vivant, niveau IR/IE.
 
-=======
+==========================================
 Le paragraphe 18 est en : FRA
 	(Au titre de la cellule e-Infrastructure)
 
-=======
+==========================================
 Le paragraphe 19 est en : FRA
 	Missions : Il/elle sera responsable de la mise en place du Cloud sur 
 l'infrastructure de l'IFB et il/elle en assurera ensuite la gestion et 
@@ -156,17 +162,17 @@ des systèmes de service d'infrastructure cloud (StratusLab,
 OpenStack,...) existants et des stockages associés (distribués, mode 
 bloc et objet parmi lesquels CEPH, Cassandra ou CouchBase) sont requises.
 
-=======
+==========================================
 Le paragraphe 20 est en : FRA
 	* Ingénieur expert en intégration des données biologiques et outils 
 bioinformatiques : informaticien(ne)s ou bioinformaticien(ne)s,
 niveau IR/IE.
 
-=======
+==========================================
 Le paragraphe 21 est en : FRA
 	(Au titre de la cellule e-Infrastructure)
 
-=======
+==========================================
 Le paragraphe 22 est en : FRA
 	Missions : La mission de cet ingénieur sera d'aider les utilisateurs à 
 tirer le meilleur parti de l'environnement proposé par le noeud 
@@ -185,44 +191,44 @@ déployer les solutions techniques émergentes de base de données NoSQL et
 de tableau multi-dimensionnel de grande taille permettant l’intégration 
 de données volumineuses et hétérogènes.
 
-=======
+==========================================
 Le paragraphe 23 est en : FRA
 	Durée
 -----
 
-=======
+==========================================
 Le paragraphe 24 est en : FRA
 	CDD de 18 mois avec prise de fonction dès que possible
 
-=======
+==========================================
 Le paragraphe 25 est en : FRA
 	Lieu
 ----
 
-=======
+==========================================
 Le paragraphe 26 est en : FRA
 	CNRS – UMS 3601 IFB-Core
 Avenue de la Terrasse, Bât 21
 91198 Gif-sur-Yvette Cedex
 
-=======
+==========================================
 Le paragraphe 27 est en : FRA
 	Diplôme requis
 --------------
 
-=======
+==========================================
 Le paragraphe 28 est en : FRA
 	- ingénieurs de recherche (IR) – niveau doctorat, agrégation et certains 
 diplômes d’ingénieur
 (université, école supérieure ou grande école)
 - ingénieurs d'études (IE) – niveau II, licence, DEA, DESS, IEP
 
-=======
+==========================================
 Le paragraphe 29 est en : FRA
 	Salaire
 -------
 
-=======
+==========================================
 Le paragraphe 30 est en : FRA
 	Le recrutement se fait en qualité d’agent contractuel au Centre National 
 de la Recherche Scientifique (CNRS), sur des fonctions d’ingénieur 
@@ -230,12 +236,12 @@ d’études (IE) ou d'ingénieur de recherche (IR) (suivant le profil de
 candidature). La rémunération correspond à la grille indiciaire en 
 vigueur (http://www.dgdr.cnrs.fr/drh/remuneration/grilles/default.htm).
 
-=======
+==========================================
 Le paragraphe 31 est en : FRA
 	Modalités de candidature
 ------------------------
 
-=======
+==========================================
 Le paragraphe 32 est en : FRA
 	Les candidat(e)s sont invité(e)s à soumettre un CV et une lettre de 
 motivation par e-mail à
@@ -244,12 +250,12 @@ A l’attention de :
 Monsieur le Directeur de IFB-core Jean-François GIBRAT
 CNRS – UMS 3601
 
-=======
-Le paragraphe 33 est en : non detect
+==========================================
+Le paragraphe 33 est en : n
 	-- 
 =========================================================================
 
-=======
+==========================================
 Le paragraphe 34 est en : FRA
 	Jean-Francois Gibrat                    Tel: +33 (1) 34 65 28 97
 Mathematique Informatique et Genome,    Fax: +33 (1) 34 65 29 01
@@ -257,15 +263,15 @@ Institut National de la Recherche       Email: jean-francois.gibrat@jouy.inra.fr
 Agronomique, Domaine de Vilvert,        http://mig.jouy.inra.fr
 78352, Jouy-en-Josas cedex, France
 
-=======
-Le paragraphe 35 est en : non detect
+==========================================
+Le paragraphe 35 est en : n
 	=========================================================================
 
-=======
-Le paragraphe 36 est en : non detect
+==========================================
+Le paragraphe 36 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -275,37 +281,37 @@ La phrase 1 est en : FRA
 
 L'IFB-core est le noeud national de l'Institut Français de 
 Bioinformatique (IFB).
-=======
+==========================================
 La phrase 2 est en : FRA
 	L'IFB est l'infrastructure nationale de service 
 en bioinformatique issue de l'appel à propositions « Infrastructure en 
 Biologie Santé » des Investissements d'Avenir.
-=======
+==========================================
 La phrase 3 est en : FRA
 	L'IFB-core est une unité mixte de services créée début 2013, localisée 
 sur le campus CNRS de Gif-sur-Yvette.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Elle joue un rôle crucial dans la 
 mise en place de l'IFB en prenant en charge les aspects administratifs 
 et techniques de l'infrastructure nationale.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Cette unité est constituée 
 de deux équipes (cellules), l'une dédiée à la Communication, Formation 
 et Valorisation, et l'autre à l' e-Infrastructure nationale de l'IFB.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Un 
 des objectifs stratégiques est la mise en place d'un cloud académique à 
 destination de la communauté de recherche en sciences du vivant.
-=======
+==========================================
 La phrase 7 est en : FRA
 	La cellule Communication, Formation et Valorisation a pour tâches 
 principales la communication de l’IFB et la mise en place d’un programme 
 de formation des utilisateurs s’appuyant sur des technologies 
 d’E-learning.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Pour cela, la cellule doit déployer et/ou administrer 
 plusieurs plates-formes logicielles : le site web de l’infrastructure et 
@@ -315,7 +321,7 @@ plate-forme d’environnement virtuel pour la recherche
 La cellule e-Infrastructure doit mettre en place et administrer 
 l’infrastructure nationale de l’IFB hébergée à l’IDRIS, et y déployer un 
 Cloud académique.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Cette infrastructure nationale ne doit pas seulement 
 se contenter de mettre à disposition des moyens matériels, mais doit 
@@ -323,16 +329,16 @@ permettre également l’accès aux multiples collections de données
 utilisées en biologie ainsi que l’utilisation des très nombreux 
 logiciels permettant d’analyser les données produites par la communauté 
 des sciences de la vie.
-=======
+==========================================
 La phrase 10 est en : FRA
 	De façon à favoriser l’utilisation des outils 
 bio-informatiques appropriés nous souhaitons encapsuler les logiciels 
 dans des machines virtuelles (VM) pouvant être exécutées sur le Cloud.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Nous recrutons quatre ingénieurs en contrat à durée déterminée sur les 
 profils suivants.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Pour plus de renseignements contacter : 
 jean-francois.gibrat@france-bioinformatique.fr
@@ -341,46 +347,46 @@ Profils
 -------
 
 * Ingénieur en charge du site Web : bioinformaticien(ne), niveau IE.
-=======
+==========================================
 La phrase 13 est en : FRA
 	(Au titre de la cellule Communication, Formation et Valorisation)
 
 Missions : Sa tâche consistera à participer aux développements du site 
 Web puis à le mettre à jour régulièrement.
-=======
+==========================================
 La phrase 14 est en : FRA
 	Il/elle devra pour cela 
 maintenir des relations étroites avec ses homologues des centres 
 régionaux, et les collaborateurs de l’IFB (porteurs des projets 
 thématiques, formateurs, …) pour les aider à publier leur contenu, 
 données et descriptions, sur l’infrastructure Web de l’IFB.
-=======
+==========================================
 La phrase 15 est en : FRA
 	La personne 
 recrutée sera également fortement impliquée dans le déploiement effectif 
 des outils de E-learning développés par la cellule.
-=======
+==========================================
 La phrase 16 est en : FRA
 	Il/elle participera 
 également au travail de recensement des outils bioinformatiques et 
 collections de données disponibles sur l'infrastructure IFB (sur le 
 noeud national et les PF régionales).
-=======
+==========================================
 La phrase 17 est en : FRA
 	Plus particulièrement, son rôle 
 sera d'assurer la partie technique d'une activité visant à organiser et 
 mettre à disposition une liste complète de ces outils et collection de 
 données ainsi que de fournir la documentation associée (avec 
 éventuellement des tutoriels créés par les PF).
-=======
+==========================================
 La phrase 18 est en : FRA
 	Une bonne connaissance 
 des techniques de publications Web est nécessaire, notamment le CMS Drupal.
-=======
+==========================================
 La phrase 19 est en : FRA
 	* Ingénieur « administrateur système » : informaticien(ne) expert(e) en 
 administration de systèmes informatiques complexes sous Linux, niveau IE.
-=======
+==========================================
 La phrase 20 est en : FRA
 	(Au titre de la cellule e-Infrastructure)
 
@@ -388,7 +394,7 @@ Missions : La mission de cet ingénieur sera d'assurer l'administration
 système de l'infrastructure nationale de l'IFB, et d'assurer l'interface 
 avec les équipes techniques du centre de calcul national hébergeant 
 celle-ci (l'IDRIS).
-=======
+==========================================
 La phrase 21 est en : FRA
 	La personne recrutée, en collaboration avec les 
 responsables techniques des PF régionales, devra mettre en place puis 
@@ -396,23 +402,23 @@ gérer un environnement informatique permettant aux utilisateurs des
 plateformes IFB nécessitant des moyens de calcul supplémentaires de 
 transiter du noeud régional au noeud national d'une manière la plus 
 transparente possible.
-=======
+==========================================
 La phrase 22 est en : FRA
 	Cet ingénieur devra donc implémenter la politique 
 d'utilisation de l'infrastructure décidée par l'IFB (organisation des 
 systèmes de fichiers, quotas, mise en oeuvre des priorités, etc.).
-=======
+==========================================
 La phrase 23 est en : FRA
 	De 
 bonnes connaissances en administration de systèmes Linux, de stockage 
 partagés, de réseau et d'infrastructure de calcul type cluster sont 
 requises.
-=======
+==========================================
 La phrase 24 est en : FRA
 	Des connaissances dans les techniques de virtualisation et les 
 systèmes de service d'infrastructure cloud (StratusLab, OpenStack,...) 
 existants seront un avantage.
-=======
+==========================================
 La phrase 25 est en : FRA
 	L'ingénieur(e) partagera son temps entre IFB-core et le centre de calcul 
 national hébergeur, séparés de quelques kilomètres:
@@ -427,70 +433,70 @@ F-91403 Orsay cedex
 * Ingénieur "cloud" : informaticien(ne) spécialiste des techniques de 
 calcul intensif et distribué et des problématiques associées au 
 déploiement d'un Cloud pour les sciences du vivant, niveau IR/IE.
-=======
+==========================================
 La phrase 26 est en : FRA
 	(Au titre de la cellule e-Infrastructure)
 
 Missions : Il/elle sera responsable de la mise en place du Cloud sur 
 l'infrastructure de l'IFB et il/elle en assurera ensuite la gestion et 
 l'évolution.
-=======
+==========================================
 La phrase 27 est en : FRA
 	L'ingénieur recruté(e) participera aux collaborations en 
 cours entre l'IFB et ses partenaires, notamment la communauté 
 StratusLab.
-=======
+==========================================
 La phrase 28 est en : FRA
 	Il/elle aura pour tâche d'évaluer les solutions techniques 
 envisagées, de déployer celles retenues et de définir les bonnes 
 pratiques d’installation à destination des plateformes IFB.
-=======
+==========================================
 La phrase 29 est en : FRA
 	De bonnes 
 connaissances des techniques de virtualisation (KVM et virtIO, libvirt), 
 des systèmes de service d'infrastructure cloud (StratusLab, 
 OpenStack,...) existants et des stockages associés (distribués, mode 
 bloc et objet parmi lesquels CEPH, Cassandra ou CouchBase) sont requises.
-=======
+==========================================
 La phrase 30 est en : FRA
 	* Ingénieur expert en intégration des données biologiques et outils 
 bioinformatiques : informaticien(ne)s ou bioinformaticien(ne)s,
 niveau IR/IE.
-=======
+==========================================
 La phrase 31 est en : FRA
 	(Au titre de la cellule e-Infrastructure)
 
 Missions : La mission de cet ingénieur sera d'aider les utilisateurs à 
 tirer le meilleur parti de l'environnement proposé par le noeud 
 national.
-=======
+==========================================
 La phrase 32 est en : FRA
 	Il/elle sera également responsable de l'installation et de la 
 mise à jour régulière des outils et des collections de données utilisés.
-=======
+==========================================
 La phrase 33 est en : FRA
 	Cela pourra inclure aussi bien l'aide à la construction de machines 
 virtuelles, que l'aide à la construction de modèles de données adaptés à 
 l'environnement de cloud, au choix des algorithmes, etc.
-=======
+==========================================
 La phrase 34 est en : FRA
 	L'ingénieur 
 aura vocation à travailler en synergie avec les bioinformaticiens des 
 plateformes IFB et les informaticiens du centre national de calcul 
 intensif hébergeur.
-=======
+==========================================
 La phrase 35 est en : FRA
 	Expert en intégration logicielle, il/elle sera 
 chargé d’aider à encapsuler les outils, pipelines et workflows produits 
 par les plateformes IFB sous la forme de machines virtuelles déployables 
 sur le Cloud.
-=======
+==========================================
 La phrase 36 est en : FRA
 	Il/elle aura également la tâche d'évaluer et de de 
 déployer les solutions techniques émergentes de base de données NoSQL et 
 de tableau multi-dimensionnel de grande taille permettant l’intégration 
 de données volumineuses et hétérogènes.
-=======
+==========================================
 La phrase 37 est en : FRA
 	Durée
 -----
@@ -519,11 +525,11 @@ Le recrutement se fait en qualité d’agent contractuel au Centre National
 de la Recherche Scientifique (CNRS), sur des fonctions d’ingénieur 
 d’études (IE) ou d'ingénieur de recherche (IR) (suivant le profil de 
 candidature).
-=======
+==========================================
 La phrase 38 est en : FRA
 	La rémunération correspond à la grille indiciaire en 
 vigueur (http://www.dgdr.cnrs.fr/drh/remuneration/grilles/default.htm).
-=======
+==========================================
 La phrase 39 est en : FRA
 	Modalités de candidature
 ------------------------
@@ -549,4 +555,4 @@ Agronomique, Domaine de Vilvert,        http://mig.jouy.inra.fr
 =========================================================================
 
 
-=======
+==========================================

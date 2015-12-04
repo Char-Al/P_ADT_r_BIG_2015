@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_89" est globalement en : FRA
+[('FRA', 0.8096300230795184), ('ENG', 1.2696652674524123)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Bioinformaticien
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDD Ingénieur ] Bioinformaticien
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformaticien
 Type de poste : CDD Ingénieur
@@ -18,13 +24,13 @@ Nom du contact : Danièle WERLING
 Email du contact : d.werling@ibmc-cnrs.unistra.fr
 Laboratoire : ARN-Institut de Biologie Moléculaire et Cellulaire du CNRS
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticien-3
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : ARN-Institut de Biologie Moléculaire et Cellulaire du CNRS
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticien-3
 
-=======
+==========================================

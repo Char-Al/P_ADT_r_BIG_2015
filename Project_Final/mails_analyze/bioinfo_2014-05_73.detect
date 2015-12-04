@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_73" est globalement en : ENG
+[('ENG', 0.5764023805742078), ('FRA', 0.9272772410669553)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Summer School in Bioinformatics and Scientific Visualization - Roscoff - july-august 2014
 
@@ -10,54 +16,54 @@ Le paragraphe 1 est en : ENG
 Scientific Trends at the interfaces
 Bioinformatics - Scientific Visualization
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Organizers: A.Carbone, P.Frey, E.Laine, C.Oberson-Ausoni, J.Tierny
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	July 15-August 8, 2014 Roscoff France
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Summer School Programme
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	The 4 weeks program covers two topics of active research :
  
 Term IJuly 15th to 25th : Bioinformatics
 Term IIJuly 28th	to August 8th: Scientific Visualization
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Summer School Terms I and II are interdisciplinary courses and can be taken independently: students may enrol for either or both, however you are encouraged to take both. The courses consist of morning plenary sessions, afternoon numerical simulation hands-on activities and evening lectures.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	By participating you will discover, some aspects of current research in bioinformatics and scientific visualization, and you will get a thorough introduction to familiarize yourself with the mathematical and computational methods applied to these challenging topics.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Term I: Bioinformatics is the application of computer science and information technology to the field of biology and medicine. Bioinformatics primarily focuses on developing computationally inten- sive techniques to increase the understanding of biological processes. This involves dealing with algorithms and computation theory, artificial intelligence, image and signal processing, discrete mathematics, con- trol and system theory, databases, information systems, and statistics.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Term II: Scientific Visualization is the development of visualisation methods to advance knowledge in many disciplines including biology. With nowadays complex numerical simulations, scientists are in need of abstract, general-purpose analysis methods to improve their under- standing of the phenomena they have simulated. Real-time interactive visualization can serve as interpretation, help building hypothesis and reasoning. Active research areas in this topic involve information theo- ry, computer graphics, mathematics, physics, and cognitive science.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	This advanced training is open to young and brilliant science students (Licence L3, Master M1, M2) and does not require any prior knowledge in bioinformatics nor scientific visualization, other than a solid 3-years scientific university background. The number of participants is limited.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	To benefit from this training, students need to have a strong desire to learn and understand new concepts. There will be ample time for filling gaps in understanding. Instructors will be happy to exchange with the students, either in individual discussions or during tutorial sessions.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Keynote Speakers and Supervisors
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	Marc Baaden, Director of Research at CNRS, Institute of Biology, Physics and Chemistry
 Alessandra Carbone, Professor at Université Pierre et Marie Curie 
@@ -74,23 +80,23 @@ Hugues Roest Crollius, Director of Research at CNRS, École Normale Supérieure 
 Claude Thermes, Director of Research at CNRS, Center of Molecular Genetics 
 Julien Tierny, Researcher at CNRS, Telecom Paris Tech
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	APPLICATION AND REGISTRATION
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	To secure your participation, we advise that you apply as soon as possible. The application form can be downloaded from the ICS website:
 http://www.ics.upmc.fr/en/events/summer_school.html 
 http://www.ics.upmc.fr/modules/resources/download/ics/Roscoff/formulaire.pdf
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	The booklet for the school can be found at the address below:
 http://www.ics.upmc.fr/modules/resources/download/ics/Roscoff/plaquette.pdf
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -113,49 +119,49 @@ Term IJuly 15th to 25th : Bioinformatics
 Term IIJuly 28th	to August 8th: Scientific Visualization
 
 Summer School Terms I and II are interdisciplinary courses and can be taken independently: students may enrol for either or both, however you are encouraged to take both.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The courses consist of morning plenary sessions, afternoon numerical simulation hands-on activities and evening lectures.
-=======
+==========================================
 La phrase 3 est en : ENG
 	By participating you will discover, some aspects of current research in bioinformatics and scientific visualization, and you will get a thorough introduction to familiarize yourself with the mathematical and computational methods applied to these challenging topics.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Term I: Bioinformatics is the application of computer science and information technology to the field of biology and medicine.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Bioinformatics primarily focuses on developing computationally inten- sive techniques to increase the understanding of biological processes.
-=======
+==========================================
 La phrase 6 est en : ENG
 	This involves dealing with algorithms and computation theory, artificial intelligence, image and signal processing, discrete mathematics, con- trol and system theory, databases, information systems, and statistics.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Term II: Scientific Visualization is the development of visualisation methods to advance knowledge in many disciplines including biology.
-=======
+==========================================
 La phrase 8 est en : ENG
 	With nowadays complex numerical simulations, scientists are in need of abstract, general-purpose analysis methods to improve their under- standing of the phenomena they have simulated.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Real-time interactive visualization can serve as interpretation, help building hypothesis and reasoning.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Active research areas in this topic involve information theo- ry, computer graphics, mathematics, physics, and cognitive science.
-=======
+==========================================
 La phrase 11 est en : ENG
 	This advanced training is open to young and brilliant science students (Licence L3, Master M1, M2) and does not require any prior knowledge in bioinformatics nor scientific visualization, other than a solid 3-years scientific university background.
-=======
+==========================================
 La phrase 12 est en : ENG
 	The number of participants is limited.
-=======
+==========================================
 La phrase 13 est en : ENG
 	To benefit from this training, students need to have a strong desire to learn and understand new concepts.
-=======
+==========================================
 La phrase 14 est en : ENG
 	There will be ample time for filling gaps in understanding.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Instructors will be happy to exchange with the students, either in individual discussions or during tutorial sessions.
-=======
+==========================================
 La phrase 16 est en : ENG
 	Keynote Speakers and Supervisors
 
@@ -163,7 +169,7 @@ Marc Baaden, Director of Research at CNRS, Institute of Biology, Physics and Che
 Alessandra Carbone, Professor at Université Pierre et Marie Curie 
 Chunlong Chen, Researcher at CNRS, Center of Molecular Genetics
 Jacques Chomilier,  Director  of  Research  at  CNRS,  Université  Pierre  et Marie Curie.
-=======
+==========================================
 La phrase 17 est en : FRA
 	Jérémy Foulon, Research Engineer at Université Pierre et Marie Curie 
 Pascal Frey, Professor at Université Pierre et Marie Curie 
@@ -180,7 +186,7 @@ Julien Tierny, Researcher at CNRS, Telecom Paris Tech
 APPLICATION AND REGISTRATION
 
 To secure your participation, we advise that you apply as soon as possible.
-=======
+==========================================
 La phrase 18 est en : ENG
 	The application form can be downloaded from the ICS website:
 http://www.ics.upmc.fr/en/events/summer_school.html 
@@ -189,4 +195,4 @@ http://www.ics.upmc.fr/modules/resources/download/ics/Roscoff/formulaire.pdf
 The booklet for the school can be found at the address below:
 http://www.ics.upmc.fr/modules/resources/download/ics/Roscoff/plaquette.pdf
 
-=======
+==========================================

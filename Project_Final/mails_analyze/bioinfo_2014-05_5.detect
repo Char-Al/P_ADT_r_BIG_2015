@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_5" est globalement en : ENG
+[('ENG', 0.5079021326413451), ('FRA', 1.966449829323769)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] ECCB 2014 - workshop on Logical Modelling and Analysis of Cellular
  Networks
@@ -13,7 +19,7 @@ Le paragraphe 1 est en : ENG
         http://www.eccb14.org/program/workshops/lmacn
 ---------------------------------------------------------------------------
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Since the seminal publications of Stuart Kauffman and René Thomas about 40
 years ago, logical modelling has been increasingly used to model the
@@ -40,7 +46,7 @@ general, as well as by using specific analysis methods.
 Three to four slots have been reserved for contributed talks by young
 researchers (PhD, postdocs), with limited support (registration waiving).
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Invited speakers:
    &#8226; Albert Reka
@@ -52,13 +58,13 @@ Le paragraphe 3 est en : ENG
    &#8226; Siegel Anne
    &#8226; Stoll Gautier
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Chairs:
    &#8226; Denis Thieffry (Ecole Normale Supérieure, France)
    &#8226; Ioannis Xenarios (Swiss Institute of Bioinformatics, Switzerland)
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Scientific committee:
    &#8226; Bockmayr Alexander
@@ -69,29 +75,29 @@ Le paragraphe 5 est en : FRA
    &#8226; Thieffry Denis
    &#8226; Xenarios Ioannis
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Key dates:
    &#8226; Abstract submission deadline: May 24th, 2014
    &#8226; Application for support: July 29th, 2014
    &#8226; Workshop: September 6th, 2014
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Contact:  lmacn.eccb14@biologie.ens.fr
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Note that this workshop is coupled with the tutorial "Computational Tools
 to Define and Analyse Logical Models of Cellular Networks", on the
 following day (Sunday, September 7th, 2014,
 http://www.eccb14.org/program/tutorials/lmcn).
 
-=======
-Le paragraphe 9 est en : non detect
+==========================================
+Le paragraphe 9 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -106,22 +112,22 @@ La phrase 1 est en : ENG
 Since the seminal publications of Stuart Kauffman and René Thomas about 40
 years ago, logical modelling has been increasingly used to model the
 dynamical behaviour of biological regulatory networks.
-=======
+==========================================
 La phrase 2 est en : ENG
 	However, behind the
 common denomination &#8220;logical questions.
-=======
+==========================================
 La phrase 3 est en : ENG
 	This workshop aims at providing an extensive and organised overview of
 recent developments that render possible the modelling and the analysis of
 large cellular networks, encompassing various signalling pathways,
 sophisticate transcriptional networks, as well as novel regulatory
 mechanisms (e.g.
-=======
+==========================================
 La phrase 4 est en : ENG
 	regulatory effects of miRNA, epigenetic regulations,
 etc.).
-=======
+==========================================
 La phrase 5 est en : ENG
 	More specifically, the workshop will cover:
    &#8226; methods enabling an efficient analysis of signalling fluxes,
@@ -131,21 +137,21 @@ La phrase 5 est en : ENG
    &#8226; model composition for simulation of multi-cellular networks,
    &#8226; methods enabling the automatic refinement of models based on
      high-throughput datasets.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Invited speakers will refer to applications dealing with the control of
 cell proliferation, cell differentiation and reprogramming, embryonic
 development, immune response, and cancer drug resistance.
-=======
+==========================================
 La phrase 7 est en : ENG
 	They will
 emphasise the biological insights gained with logical modelling in
 general, as well as by using specific analysis methods.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Three to four slots have been reserved for contributed talks by young
 researchers (PhD, postdocs), with limited support (registration waiving).
-=======
+==========================================
 La phrase 9 est en : ENG
 	Invited speakers:
    &#8226; Albert Reka
@@ -183,4 +189,4 @@ following day (Sunday, September 7th, 2014,
 http://www.eccb14.org/program/tutorials/lmcn).
 
 
-=======
+==========================================

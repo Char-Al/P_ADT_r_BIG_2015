@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_79" est globalement en : FRA
+[('FRA', 0.15453513547634273), ('ENG', 1.695374498972136)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] Développement d'interface pour   la visualisation de donnéesgénomiques et st  atistiques
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Développement d'interface pour   la visuali
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Développement d'interface pour la visualisation de  
 données génomiques et statistiques
@@ -20,13 +26,13 @@ Email du contact : tamby@evry.inra.fr
 Laboratoire : Unité de Recherche en Génomique Végétale (UMR1165  
 INRA-UEVE, ERL8196 CNRS)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-dinterface-pour-la-visualisation-de-donn%C3%A9es-g%C3%A9nomiques-et-statistiques
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -47,4 +53,4 @@ INRA-UEVE, ERL8196 CNRS)
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-dinterface-pour-la-visualisation-de-donn%C3%A9es-g%C3%A9nomiques-et-statistiques
 
-=======
+==========================================

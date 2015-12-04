@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_36" est globalement en : FRA
+[('ENG', 0.4286538077542865), ('FRA', 0.5353825735792801)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDI autre] CHEF DE PROJET informatique   « scientific data sharing »
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDI autre] CHEF DE PROJET informatique   « scienti
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : CHEF DE PROJET informatique « scientific data sharing  
 »
@@ -19,13 +25,13 @@ Nom du contact : Julie DUMONTET
 Email du contact : julie.dumontet@bioaster.org
 Laboratoire : BIOASTER
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/chef-de-projet-informatique-%C2%AB-scientific-data-sharing-%C2%BB
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : BIOASTER
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/chef-de-projet-informatique-%C2%AB-scientific-data-sharing-%C2%BB
 
-=======
+==========================================

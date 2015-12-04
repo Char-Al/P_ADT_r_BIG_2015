@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_1" est globalement en : ENG
+[('ENG', 0.5223272809153756), ('FRA', 1.092814032068574)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Gtpb] Global survey of Bioinformatics Training needs.
 
@@ -8,38 +14,38 @@ Subject : [bioinfo] [Gtpb] Global survey of Bioinformatics Training needs.
 Le paragraphe 1 est en : FRA
 	Dear all
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	You are receiving this request because you are a member of the GTPB  
 mailing list.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Bioinformatics Training aims at helping to improve  skills and  
 increase confidence in using bioinformatics approaches in research  
 environments.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	GOBLET (Global Organization for Bioinformatics Learning, Education and  
 Training, http://www.mygoblet.org/) coordinates bioinformatics  
 training activities worldwide.GOBLET has launched a global training  
 initiative.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	As  founding members of GOBLET , we are inviting you to give your  
 opinion in the following very short survey (nine simple questions):
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	https://www.surveymonkey.com/s/GOBLETsurvey
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	The survey will close at the end of March. Thank you very much for your help!
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Pedro Fernandes
 -- 
@@ -51,7 +57,7 @@ PORTUGAL
 Tel +351 21 4407912
 http://gtpb.igc.gulbenkian.pt
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	_______________________________________________
 Gtpb mailing list
@@ -59,7 +65,7 @@ Gtpb@igc.gulbenkian.pt
 https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -69,18 +75,18 @@ La phrase 1 est en : ENG
 
 You are receiving this request because you are a member of the GTPB  
 mailing list.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Bioinformatics Training aims at helping to improve  skills and  
 increase confidence in using bioinformatics approaches in research  
 environments.
-=======
+==========================================
 La phrase 3 est en : ENG
 	GOBLET (Global Organization for Bioinformatics Learning, Education and  
 Training, http://www.mygoblet.org/) coordinates bioinformatics  
 training activities worldwide.GOBLET has launched a global training  
 initiative.
-=======
+==========================================
 La phrase 4 est en : ENG
 	As  founding members of GOBLET , we are inviting you to give your  
 opinion in the following very short survey (nine simple questions):
@@ -88,10 +94,10 @@ opinion in the following very short survey (nine simple questions):
 https://www.surveymonkey.com/s/GOBLETsurvey
 
 The survey will close at the end of March.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Thank you very much for your help!
-=======
+==========================================
 La phrase 6 est en : FRA
 	Pedro Fernandes
 -- 
@@ -112,4 +118,4 @@ Gtpb mailing list
 Gtpb@igc.gulbenkian.pt
 https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
-=======
+==========================================

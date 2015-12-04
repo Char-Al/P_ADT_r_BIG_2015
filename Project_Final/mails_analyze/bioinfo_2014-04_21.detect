@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_21" est globalement en : ENG
+[('ENG', 0.296096092206161), ('FRA', 0.6303604214029324)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] IEEE BIBM 2014 Call for Workshop Proposals (IEEE International
  Conference on Bioinformatics and Biomedicine)
@@ -10,7 +16,7 @@ Le paragraphe 1 est en : ENG
 	
 Call for Workshop Proposals
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	2014 IEEE International Conference on Bioinformatics and Biomedicine
 http://scm.ulster.ac.uk/~bibm/2014/index.html
@@ -31,7 +37,7 @@ Conference.  All papers accepted for workshops will be included in the
 Workshop Proceedings published by the IEEE Computer Society Press, made 
 available at the Conference.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	The workshop organizers will also have the discretion of editing 
 selected papers (after their expansion and revision) into books or 
@@ -39,7 +45,7 @@ special journal issues.  Workshops should cover at least a single
 session (6 regular papers). The workshop organizers should ensure 
 registration and presence of   authors of accepted papers.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Workshop Topics
 Each workshop subject will focus on new research challenges and 
@@ -66,7 +72,7 @@ May 20, 2014: Notification to workshop proposers
 June 25, 2014: Each workshop organizer sends out Call for Workshops 
 Papers
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Guidelines for Workshop Proposals
 Proposals for 2014 IEEE BIBM Workshops should contain the following 
@@ -83,25 +89,25 @@ Sept 30, 2014: Notification of paper acceptance to authors
       Oct  10,  2014: Camera-ready of accepted papers
       Nov 2-5, 2014: Workshops
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	5. Program Chairs or co-chairs: (1-3 experts in the research areas of 
 workshop)
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	6. Program Committee Members: (at least 5 experts in the research 
 areas)
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	7. Invited keynote speakers (optional)
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Workshop Chairs:
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	Prof. Jesús Aguilar-Ruiz, Pablo de  Olavide University, Spain, 
 aguilar@upo.es
@@ -110,11 +116,11 @@ Ireland,hruskin@computing.dcu.ie
 Dr. Dewar Finlay, University of Ulster, UK, d.finlay@ulster.ac.uk
 Prof. Feng Luo, Clemson University, USA, luofeng@clemson.edu
 
-=======
-Le paragraphe 11 est en : non detect
+==========================================
+Le paragraphe 11 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -130,52 +136,52 @@ November 2-5, 2014, Belfast, UK
 The Program Committees of the 2014 IEEE International Conference on 
 Bioinformatics and Biomedicine (IEEE BIBM 2014) invite proposals for 
 Workshops.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Selected workshops will hold a central position within the 
 larger Conference, which will bring together top academic and industrial 
 researchers from all over the world to exchange cutting edge research 
 ideas in bioinformatics and biomedicine.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Within these fields, workshops 
 at BIBM form crucial focal points for emerging communities and forums 
 for the examination of new ideas.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Workshop organizers will be responsible for advertising the workshop, 
 forming the program committees, reviewing and selecting the papers, and 
 guaranteeing a high quality worthy of the prestige and breadth of the 
 Conference.
-=======
+==========================================
 La phrase 5 est en : ENG
 	All papers accepted for workshops will be included in the 
 Workshop Proceedings published by the IEEE Computer Society Press, made 
 available at the Conference.
-=======
+==========================================
 La phrase 6 est en : ENG
 	The workshop organizers will also have the discretion of editing 
 selected papers (after their expansion and revision) into books or 
 special journal issues.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Workshops should cover at least a single 
 session (6 regular papers).
-=======
+==========================================
 La phrase 8 est en : ENG
 	The workshop organizers should ensure 
 registration and presence of   authors of accepted papers.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Workshop Topics
 Each workshop subject will focus on new research challenges and 
 initiatives in Bioinformatics,  Biomedicine and Healthcare Informatics.
-=======
+==========================================
 La phrase 10 est en : ENG
 	The workshops should provide an informal and vibrant forum for 
 researchers and industry practitioners to share their research results 
 and practical development experiences in these three fields.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Workshop 
 topics may be narrow, e.g., “reverse-engineering” of  gene regulatory 
@@ -187,11 +193,11 @@ medical signal processing; or broad, e.g., computational proteomics,
 in-silico diagnosis and prognosis, data mining and machine learning 
 algorithms for biomedical applications, application of network research 
 to biology, emerging technology in healthcare, aging research etc.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Prospective workshop organizers
   are encouraged to contact workshop chairs for feedback.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Important Dates
 May 1, 2014: Workshop proposal submission due:
@@ -207,27 +213,27 @@ Papers
 Guidelines for Workshop Proposals
 Proposals for 2014 IEEE BIBM Workshops should contain the following 
 components.
-=======
-La phrase 14 est en : non detect
+==========================================
+La phrase 14 est en : n
 	1.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Workshop Title (e.g., mathematical modeling of signaling pathways)
 2.
-=======
+==========================================
 La phrase 16 est en : ENG
 	Introduction to workshop (a few sentences about the background, 
 importance, purpose, interests, etc.
-=======
+==========================================
 La phrase 17 est en : ENG
 	of workshop)
 3.
-=======
+==========================================
 La phrase 18 est en : ENG
 	Research topics included in the workshop (list a number of 
 interesting topics or areas covered by workshop)
 4.
-=======
+==========================================
 La phrase 19 est en : ENG
 	Important dates (Please do not change the final camera-ready 
 submission date, feel free to adjust other dates)
@@ -237,19 +243,19 @@ Sept 30, 2014: Notification of paper acceptance to authors
       Nov 2-5, 2014: Workshops
 
 5.
-=======
+==========================================
 La phrase 20 est en : ENG
 	Program Chairs or co-chairs: (1-3 experts in the research areas of 
 workshop)
 
 6.
-=======
+==========================================
 La phrase 21 est en : ENG
 	Program Committee Members: (at least 5 experts in the research 
 areas)
 
 7.
-=======
+==========================================
 La phrase 22 est en : ENG
 	Invited keynote speakers (optional)
 
@@ -265,4 +271,4 @@ Dr. Dewar Finlay, University of Ulster, UK, d.finlay@ulster.ac.uk
 Prof. Feng Luo, Clemson University, USA, luofeng@clemson.edu
 
 
-=======
+==========================================

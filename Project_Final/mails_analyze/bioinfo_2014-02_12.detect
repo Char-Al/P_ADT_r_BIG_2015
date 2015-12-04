@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_12" est globalement en : FRA
+[('FRA', 0.8366417608861003), ('ENG', 1.1081115843993312)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Cycle de formation "Bioinformatique par la pratique" 2014 (INRA Jouy)
 
@@ -8,18 +14,18 @@ Subject : [bioinfo] Cycle de formation "Bioinformatique par la pratique" 2014 (I
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	L'unité MIG et sa plateforme MIGALE, de l'INRA de Jouy-en-Josas,
 proposent un certain nombre de modules de formation dans le cadre de
 leur cycle 2014 "Bioinformatique par la pratique".
 http://migale.jouy.inra.fr/?q=formations
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voici une liste de modules non encore complets :
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	* Linux (1j) : 31 mars ou 13 mai ou 2 juin
 * Comparaison de séquences protéiques, recherche d'homologues dans les 
@@ -43,23 +49,23 @@ d'intérêt différentiellement exprimées (1j) : 15 mai
 * Edition de métadonnées de contenu pour les textes scientifiques (1j) : 
 19 juin (*EXCLUSIVITE*)
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Les plaquettes descriptives de chacun de ces modules ainsi que les
 tarifs (de 150EUR à 200EURHT selon le nb de jours) et les pré-requis
 sont disponibles sur le site http://migale.jouy.inra.fr/?q=formations.
 Règlement uniquement par bon de commande.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Pour toute information supplémentaire : formation.migale@jouy.inra.fr
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Cordialement,
 Sophie
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	-- 
     ___
@@ -76,7 +82,7 @@ Le paragraphe 8 est en : ENG
      ____________\||/____________________________________________
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -87,7 +93,7 @@ La phrase 1 est en : FRA
 L'unité MIG et sa plateforme MIGALE, de l'INRA de Jouy-en-Josas,
 proposent un certain nombre de modules de formation dans le cadre de
 leur cycle 2014 "Bioinformatique par la pratique".
-=======
+==========================================
 La phrase 2 est en : FRA
 	http://migale.jouy.inra.fr/?q=formations
 
@@ -96,7 +102,7 @@ Voici une liste de modules non encore complets :
 * Linux (1j) : 31 mars ou 13 mai ou 2 juin
 * Comparaison de séquences protéiques, recherche d'homologues dans les 
 banques.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Application à l'analyse fonctionnelle : attribution d'une 
 fonction aux produits des gènes (2j) : 1&2 avril
@@ -121,10 +127,10 @@ d'intérêt différentiellement exprimées (1j) : 15 mai
 Les plaquettes descriptives de chacun de ces modules ainsi que les
 tarifs (de 150EUR à 200EURHT selon le nb de jours) et les pré-requis
 sont disponibles sur le site http://migale.jouy.inra.fr/?q=formations.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Règlement uniquement par bon de commande.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Pour toute information supplémentaire : formation.migale@jouy.inra.fr
 
@@ -137,18 +143,18 @@ Sophie
   /=(_)=\\//
   \ =(_) (O}           Unite Mathematique, Informatique & Genome (MIG)
    \_____\\      .--.
-=======
+==========================================
 La phrase 6 est en : FRA
 	INRA - Domaine de Vilvert
     /=(_)\\\   .'_\/_'.
-=======
+==========================================
 La phrase 7 est en : FRA
 	F-78352 Jouy-en-Josas
     \____///   '.
-=======
-La phrase 8 est en : non detect
+==========================================
+La phrase 8 est en : n
 	/\ .'
-=======
+==========================================
 La phrase 9 est en : ENG
 	Tel : +33 1 34 65 28 90
          ())     "||"      Fax : +33 1 34 65 29 01
@@ -157,4 +163,4 @@ La phrase 9 est en : ENG
               (/\\||/      http://www.ssbgroup.fr
      ____________\||/____________________________________________
 
-=======
+==========================================

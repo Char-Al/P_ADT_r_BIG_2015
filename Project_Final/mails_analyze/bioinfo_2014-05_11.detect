@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_11" est globalement en : ENG
+[('ENG', 0.388048363647107), ('FRA', 0.6487276985098948)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] SIB joint course with the Doctoral Program StarOmics : "Next Generation
  Comparative Phylogenomics", 2-6 June 2014
@@ -9,16 +15,16 @@ Subject : [bioinfo] SIB joint course with the Doctoral Program StarOmics : "Next
 Le paragraphe 1 est en : FRA
 	Dear all,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	We are pleased to announce the following course from the Doctoral 
 Program StarOmics and organized by the SIB Swiss Institute of Bioinformatics
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	" Next Generation Comparative Phylogenomics".
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	This four-day course will be held in Geneva during the week of 2-6 June 
 2014. It will focus on the species classification, which is based on 
@@ -31,27 +37,27 @@ An extra day will be dedicated to a mini-symposium, where international
 experts will present studies on improving the quality of large-scale 
 analysis and application of comparative phylogenomics.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Further information and application form are available from: 
 http://edu.isb-sib.ch/course/view.php?id=156.
 Please note few seats are still available.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	For administrative questions, please contact staromics@cuso.ch
 For technical and scientific questions, please contact training@isb-sib.ch
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Hope to see you there!
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	For the organizers,
 Diana Marek
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	-- 
 Diana Marek, PhD
@@ -62,7 +68,7 @@ t +41 21 692 40 77 - f +41 21 692 40 65
 Diana.Marek@isb-sib.ch - www.vital-it.ch - www.isb-sib.ch
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -74,43 +80,43 @@ We are pleased to announce the following course from the Doctoral
 Program StarOmics and organized by the SIB Swiss Institute of Bioinformatics
 
 " Next Generation Comparative Phylogenomics".
-=======
+==========================================
 La phrase 2 est en : ENG
 	This four-day course will be held in Geneva during the week of 2-6 June 
 2014.
-=======
+==========================================
 La phrase 3 est en : ENG
 	It will focus on the species classification, which is based on 
 synapomorphies observed in comparative life science studies, including 
 morphology, anatomy, cell biology, developmental biology.
-=======
+==========================================
 La phrase 4 est en : ENG
 	In this 
 course, evolutionary concepts and biological findings will be linked to 
 associated alterations at the molecular level.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Course days will be an 
 alternance of lectures and practicals.
-=======
+==========================================
 La phrase 6 est en : ENG
 	An extra day will be dedicated to a mini-symposium, where international 
 experts will present studies on improving the quality of large-scale 
 analysis and application of comparative phylogenomics.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Further information and application form are available from: 
 http://edu.isb-sib.ch/course/view.php?id=156.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Please note few seats are still available.
-=======
+==========================================
 La phrase 9 est en : ENG
 	For administrative questions, please contact staromics@cuso.ch
 For technical and scientific questions, please contact training@isb-sib.ch
 
 Hope to see you there!
-=======
+==========================================
 La phrase 10 est en : ENG
 	For the organizers,
 Diana Marek
@@ -123,4 +129,4 @@ Quartier Sorge - Batiment Génopode - CH 1015 Lausanne -Switzerland
 t +41 21 692 40 77 - f +41 21 692 40 65
 Diana.Marek@isb-sib.ch - www.vital-it.ch - www.isb-sib.ch
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_85" est globalement en : FRA
+[('FRA', 0.4094652477387643), ('ENG', 2.257894529231559)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Post-doc / IR] Décryptage des process  us moléculairesimpliqués dans la différenci  ation des lymphocytes T
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Décryptage des process  us molécul
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Décryptage des processus moléculaires impliqués dans  
 la différenciation des lymphocytes T
@@ -20,13 +26,13 @@ Email du contact : christophe.battail@cea.fr
 Laboratoire : Laboratoire de bioinformatique, Centre National de Génotypage,  
 CEA
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9cryptage-des-processus-mol%C3%A9culaires-impliqu%C3%A9s-dans-la-diff%C3%A9renciation-des-lymphocytes-t
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -47,4 +53,4 @@ CEA
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9cryptage-des-processus-mol%C3%A9culaires-impliqu%C3%A9s-dans-la-diff%C3%A9renciation-des-lymphocytes-t
 
-=======
+==========================================

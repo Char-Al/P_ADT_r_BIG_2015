@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_25" est globalement en : ENG
+[('FRA', 0.8215408090033955), ('ENG', 1.7566716520064871)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] SeMoVi Seminar on Systems Biology: Markus Covert (Stanford University), Monday 31 March, INRIA Grenoble - Rhône -Alpes, Montbonnot
 
@@ -8,18 +14,18 @@ Subject : [bioinfo] SeMoVi Seminar on Systems Biology: Markus Covert (Stanford U
 Le paragraphe 1 est en : FRA
 	SEMINAR ANNOUNCEMENT:
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Semovi (Rhonalpin Seminar on Modeling in the Life Sciences)
 Special session on Systems Biology
 INRIA Grenoble - Rhône-Alpes (Montbonnot), March 31, 2014 - 14:00-17:00
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	*************************
 Program:
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	14:00-15:00 Markus Covert (Stanford University,
 http://covertlab.stanford.edu/) "The whole cell model of Mycoplasma 
@@ -27,31 +33,31 @@ genitalium"
 BBC News: "The virtual cell that simulates life"
 (http://www.bbc.com/news/science-environment-19016772)
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	15:00-15:30 Coffee break
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	15:30-16:00 Ina Attrée, CEA Grenoble " Multifactorial virulence of 
 Pseudomonas aeruginosa"
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	16:00-16:30 Hugues Berry (INRIA Grenoble - Rhône-Alpes, 
 http://www.inrialpes.fr/Berry/) "Location-location-location: the 
 importance of space for intracellular cell biochemistry"
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	16:30-17:00 General discussion
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	*************************
 Abstracts: http://www.biosyl.org/resources/semovi/semovi-march-31-2014
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	*************************
 Location:
@@ -59,22 +65,22 @@ Grand Amphithéâtre, INRIA Grenoble - Rhône-Alpes
 Access:
 http://www.inria.fr/en/centre/grenoble/overview/four-establishments-in-rhone-alpes
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	-- 
 Delphine Ropers                         INRIA Grenoble-Rhone-Alpes
 655 avenue de l'Europe, Montbonnot      Tel: (+33) (0)4 76 61 53 72
 38334 Saint-Ismier Cedex, France        Fax: (+33) (0)4 56 52 71 20
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	http://ibis.inrialpes.fr/article593.html
 
-=======
-Le paragraphe 13 est en : non detect
+==========================================
+Le paragraphe 13 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -123,4 +129,4 @@ Delphine Ropers                         INRIA Grenoble-Rhone-Alpes
 http://ibis.inrialpes.fr/article593.html
 
 
-=======
+==========================================

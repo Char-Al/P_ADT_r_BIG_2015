@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_23" est globalement en : ENG
+[('ENG', 0.5338825179967743), ('FRA', 0.8563886510244487)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Postdoc position in Bioinformatics  Biostatistics: Gif-sur-Yvette
 
@@ -8,83 +14,83 @@ Subject : [bioinfo] Postdoc position in Bioinformatics  Biostatistics: Gif-sur
 Le paragraphe 1 est en : ENG
 	A postdoc position in bioinformatics  biostatistics is available in the laboratory of Daan Noordermeer at the Center for Molecular Genetics of the French National Centre for Scientific Research located in the south of Paris (Gif-sur-Yvette), France.
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	The project focuses on the question how genome-wide changes in 3D genome organization associated with specific histone modifications influence transcriptional output during the normal mammalian life cycle and in cancer cells. The selected candidate will develop analysis tools to systematically correlate in-house generated HiC, 4C-seq, ChIP-seq and RNA-seq data. Of particular importance is the development of statistical solutions to the biases introduced by these different experimental approaches and their associated differences in resolution. 
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	From January 2015, the Center for Molecular Genetics will join the University Paris-Sud  Orsay and the CEA  Saclay to form the Institute for Integrative Biology of the Cell (Initiative dExcellence - Paris-Saclay), thereby forming one of the largest and most diverse molecular biology networks in France. 
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Within the institute, the candidate will work in a young and dynamic team with extensive experience in high-throughput sequencing, where cutting-edge experimental and computational approaches are mixed (http://www.cgm.cnrs-gif.fr/spip.php?article444&lang=fr). 
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Qualifications:
 We are looking for a motivated candidate that holds a Ph.D. in bioinformatics  biostatistics, preferably with experience in the analysis and correlation of different types of next generation sequencing data. Proficiency and independence in scripting languages (R, Python and/or Perl) is essential. The candidate has good communication skills and is fluent in both spoken and written English.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Details:
 Initial funding is for one year, with the possibility of renewal.
 Start date is between January  March 2015.
 The project is funded by the French Foundation for Medical Research (FRM  Fondation de Recherche Médicale).
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	How to apply:
 To apply, send your CV, a statement of research interests (1 page) and contact information for three references to Daan Noordermeer: daan.noordermeer@cgm.cnrs-gif.fr
 Deadline for application is September 26, 2014.
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : ENG
 	A postdoc position in bioinformatics  biostatistics is available in the laboratory of Daan Noordermeer at the Center for Molecular Genetics of the French National Centre for Scientific Research located in the south of Paris (Gif-sur-Yvette), France.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The project focuses on the question how genome-wide changes in 3D genome organization associated with specific histone modifications influence transcriptional output during the normal mammalian life cycle and in cancer cells.
-=======
+==========================================
 La phrase 3 est en : FRA
 	The selected candidate will develop analysis tools to systematically correlate in-house generated HiC, 4C-seq, ChIP-seq and RNA-seq data.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Of particular importance is the development of statistical solutions to the biases introduced by these different experimental approaches and their associated differences in resolution.
-=======
+==========================================
 La phrase 5 est en : ENG
 	From January 2015, the Center for Molecular Genetics will join the University Paris-Sud  Orsay and the CEA  Saclay to form the Institute for Integrative Biology of the Cell (Initiative dExcellence - Paris-Saclay), thereby forming one of the largest and most diverse molecular biology networks in France.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Within the institute, the candidate will work in a young and dynamic team with extensive experience in high-throughput sequencing, where cutting-edge experimental and computational approaches are mixed (http://www.cgm.cnrs-gif.fr/spip.php?article444&lang=fr).
-=======
+==========================================
 La phrase 7 est en : ENG
 	Qualifications:
 We are looking for a motivated candidate that holds a Ph.D. in bioinformatics  biostatistics, preferably with experience in the analysis and correlation of different types of next generation sequencing data.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Proficiency and independence in scripting languages (R, Python and/or Perl) is essential.
-=======
+==========================================
 La phrase 9 est en : ENG
 	The candidate has good communication skills and is fluent in both spoken and written English.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Details:
 Initial funding is for one year, with the possibility of renewal.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Start date is between January  March 2015.
-=======
+==========================================
 La phrase 12 est en : ENG
 	The project is funded by the French Foundation for Medical Research (FRM  Fondation de Recherche Médicale).
-=======
+==========================================
 La phrase 13 est en : ENG
 	How to apply:
 To apply, send your CV, a statement of research interests (1 page) and contact information for three references to Daan Noordermeer: daan.noordermeer@cgm.cnrs-gif.fr
 Deadline for application is September 26, 2014.
 
-=======
+==========================================

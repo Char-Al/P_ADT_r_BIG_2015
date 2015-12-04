@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_56" est globalement en : FRA
+[('ENG', 0.6768948690722244), ('FRA', 0.758417732968809)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Offre de poste :Bio-informaticien/Informaticien(e) Base de données
 
@@ -9,27 +15,27 @@ Le paragraphe 1 est en : FRA
 	
 De la part de Jean Loup Huret
 
-=======
-Le paragraphe 2 est en : non detect
+==========================================
+Le paragraphe 2 est en : n
 	=-=-=
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Intitulé du poste : Bio-informaticien/Informaticien(e) Base de données
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Au sein d'une Base de données/Encyclopédie de Génétique des Cancers
 sur Internet en anglais (45 000 pages dont 9 000 pages de journal scientifique écrites
 par 2 700 auteurs, et 34 000 pages de base de données, 1 million de visites par an
   à travers le monde)
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Lieu de travail
 Paris
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Missions
       1- Travail de développeur sur une base de données hybride utilisant les concepts
@@ -39,19 +45,19 @@ Le paragraphe 6 est en : FRA
       2- Travail de développeur en bio-informatique pour l'intégration de
          nouvelles fonctionnaliés.
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Activités principales
          Finaliser une base de données existante.
          Maintenir cette base de données, permettre des évolutions et les conduire.
          Participer aux développements bio-informatiques.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Niveau de diplôme requis
          bac+5 de Biologie/Informatique (diplôme Master 2 avec double compétence).
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Connaissances requises
          Connaissance des bases de données.
@@ -59,12 +65,12 @@ Le paragraphe 9 est en : FRA
          Connaissances générales en biologie et génétique humaine.
          Anglais lu et écrit exigé.
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Compétences requises
          En architecture des bases de données.
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	Qualités professionnelles
          Capacité d'écoute et compréhension des besoins des biologistes.
@@ -74,16 +80,16 @@ Le paragraphe 11 est en : FRA
          Enthousiasme.
          Curiosité intellectuelle (ouverture d’esprit).
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	Contacter
          Jean Loup HURET jean-loup.huret@chu-poitiers.fr double à: jlhuret@univ-poitiers.fr
 
-=======
-Le paragraphe 13 est en : non detect
+==========================================
+Le paragraphe 13 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -109,64 +115,64 @@ Missions
          de meta object facilities (MOF) dans une base de données relationnelle en
          environnement Microsoft avec ISS 7 sur un Windows Server 2008 R2 et avec SQL
          serveur 2008 R2.
-=======
+==========================================
 La phrase 2 est en : FRA
 	2- Travail de développeur en bio-informatique pour l'intégration de
          nouvelles fonctionnaliés.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Activités principales
          Finaliser une base de données existante.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Maintenir cette base de données, permettre des évolutions et les conduire.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Participer aux développements bio-informatiques.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Niveau de diplôme requis
          bac+5 de Biologie/Informatique (diplôme Master 2 avec double compétence).
-=======
+==========================================
 La phrase 7 est en : FRA
 	Connaissances requises
          Connaissance des bases de données.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Connaissances en bio-informatique.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Connaissances générales en biologie et génétique humaine.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Anglais lu et écrit exigé.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Compétences requises
          En architecture des bases de données.
-=======
+==========================================
 La phrase 12 est en : FRA
 	Qualités professionnelles
          Capacité d'écoute et compréhension des besoins des biologistes.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Rigueur mathématique.
-=======
+==========================================
 La phrase 14 est en : FRA
 	Disposition au travail d’équipe.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Autonomie.
-=======
+==========================================
 La phrase 16 est en : ENG
 	Enthousiasme.
-=======
+==========================================
 La phrase 17 est en : FRA
 	Curiosité intellectuelle (ouverture d’esprit).
-=======
+==========================================
 La phrase 18 est en : FRA
 	Contacter
          Jean Loup HURET jean-loup.huret@chu-poitiers.fr double à: jlhuret@univ-poitiers.fr
 
 
-=======
+==========================================

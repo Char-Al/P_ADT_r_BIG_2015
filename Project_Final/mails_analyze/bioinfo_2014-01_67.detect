@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_67" est globalement en : ENG
+[('ENG', 0.3987653417598311), ('FRA', 2.6068318371699095)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Workshop: DNA metabarcoding in Tromsø , Norway, 4 - 5 April 2014
 
@@ -8,31 +14,31 @@ Subject : [bioinfo] Workshop: DNA metabarcoding in Tromsø , Norway, 4 - 5 April
 Le paragraphe 1 est en : FRA
 	Dear Colleagues,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 		Thank you for your application to the DNA metabarcoding spring school in Tromsø. Registration for this
 event is now closed. This year this school is followed by a two days workshop the friday 4th and saturday 5th
 of April. The registration date for this second event is extended until February 20, 2014.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	The workshop is divided in four half days. Each of them introduced by a keynote lecture.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 		• Friday morning : 
 		Douglas Yu
 		University of East Anglia - UK, Kunming Institute of Zoology - China
 		• Reliable, verifiable, and efficient monitoring of biodiversity via metabarcoding
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 		• Friday afternoon : 
 		Pierre Taberlet
 		LECA - Grenoble University - CNRS - France
 		• DNA metabarcoding and palaeoenvironments
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 		• Saturday Morning : 
 		Xin Zhou
@@ -43,34 +49,34 @@ Le paragraphe 6 est en : ENG
 		• Saltwater inundation in Kakadu Nation Park: 
                  can ecogenomics assist in the management of sea-level rise? 
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	In addition to these lectures 6 short talks of 15min are planned by half days, you are kindly invited to submit
 abstracts if you are interested in presenting your DNA metabarcoding results during this event.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	There is no registration fee for this workshop, but registration is mandatory. 
 To register, please send an email to the workshop organizers:
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 			Drovetski, Sergei V. : serguei.drovetski@uit.no
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 			http://metabarcoding.org/spip.php?article66
 		http://metabarcoding2014.weebly.com/registration.html
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	All the best,
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Eric Coissac
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	===================================================
 Dr Eric Coissac
@@ -81,11 +87,11 @@ Domaine de Saint Martin d'Hères
 BP 53, 38041 Grenoble Cedex 9
 France
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	Eric Coissac
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	===================================================
 Eric Coissac
@@ -97,11 +103,11 @@ Domaine de Saint Martin d'Hères
 BP 53, 38041 Grenoble Cedex 9
 France
 
-=======
-Le paragraphe 16 est en : non detect
+==========================================
+Le paragraphe 16 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -110,24 +116,24 @@ La phrase 1 est en : ENG
 	Dear Colleagues,
 
 	Thank you for your application to the DNA metabarcoding spring school in Tromsø.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Registration for this
 event is now closed.
-=======
+==========================================
 La phrase 3 est en : ENG
 	This year this school is followed by a two days workshop the friday 4th and saturday 5th
 of April.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The registration date for this second event is extended until February 20, 2014.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The workshop is divided in four half days.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Each of them introduced by a keynote lecture.
-=======
+==========================================
 La phrase 7 est en : ENG
 	• Friday morning : 
 		Douglas Yu
@@ -143,20 +149,20 @@ La phrase 7 est en : ENG
 		Xin Zhou
 		• BGI - China
 		• Moving from COI metabarcoding to mitochondrial metabarcoding.
-=======
+==========================================
 La phrase 8 est en : ENG
 	• Keynote 4 : Anthony Chariton
 		• CSIRO - Australia
 		• Saltwater inundation in Kakadu Nation Park: 
                  can ecogenomics assist in the management of sea-level rise?
-=======
+==========================================
 La phrase 9 est en : ENG
 	In addition to these lectures 6 short talks of 15min are planned by half days, you are kindly invited to submit
 abstracts if you are interested in presenting your DNA metabarcoding results during this event.
-=======
+==========================================
 La phrase 10 est en : ENG
 	There is no registration fee for this workshop, but registration is mandatory.
-=======
+==========================================
 La phrase 11 est en : FRA
 	To register, please send an email to the workshop organizers:
 
@@ -176,7 +182,7 @@ Laboratoire d'Ecologie Alpine UMR CNRS-UJF 5553 / UMR CNRS 5553
 Université J. Fourier
 Domaine de Saint Martin d'Hères
 2233, rue de la piscine Bât.
-=======
+==========================================
 La phrase 12 est en : FRA
 	D Biologgie
 BP 53, 38041 Grenoble Cedex 9
@@ -195,7 +201,7 @@ Laboratoire d'Ecologie Alpine UMR CNRS-UJF 5553 / UMR CNRS 5553
 Université J. Fourier
 Domaine de Saint Martin d'Hères
 2233, rue de la piscine Bât.
-=======
+==========================================
 La phrase 13 est en : ENG
 	D Biologgie
 BP 53, 38041 Grenoble Cedex 9
@@ -206,4 +212,4 @@ France
 
 
 
-=======
+==========================================

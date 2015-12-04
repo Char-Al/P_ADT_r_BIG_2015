@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_5" est globalement en : ENG
+[('ENG', 0.12177292633222742), ('FRA', 0.35683196203187295)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [CMSR@ECCB'14] Deadline extension/registration open - Computational Methods for Structural RNAs workshop
 
@@ -8,41 +14,41 @@ Subject : [bioinfo] [CMSR@ECCB'14] Deadline extension/registration open - Comput
 Le paragraphe 1 est en : ENG
 	Due to popular demand (coupled with a crowded calendar), the submission deadline for CMSR'14 is extended by a week until the 8th of June. 
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Also, note that the registration is now open and must be made through the offical registration page of ECCB, available at:
   http://www.eccb14.org/registration
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Do not hesitate to visit the conference website at:
   http://cmsr2014.wordpress.com/
 or contact us (cmsr14.conference@gmail.com) for further inquiries.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Please find below our call for paper. Proceedings will be published by Springer, and extended versions of selected manuscripts will be fast-tracked at Journal of Computational Biology.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Best regards,
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Fabrice Jossinet, Yann Ponty and Jérôme Waldispühl
 
-=======
-Le paragraphe 7 est en : non detect
+==========================================
+Le paragraphe 7 est en : n
 	---------------------------------------------------------------------
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	**** Computational Methods for Structural RNAs - CMSR'14 ****
 An official ECCB'14 workshop
 September 7th, 2014, Strasbourg
 http://www.eccb14.org/program/workshops/structural-rnas
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Scope: Ribonucleic acids (RNAs) play key roles in various aspects of the gene transcription and regulation processes, and are the focus of an ever-increasing interest in all areas of molecular biology. Deciphering the function of a non-protein coding RNA requires an intimate knowledge of its structure, motivating the development of structure-centric analyses.
 This workshop aims to gather researchers and students, developing or using computational methods for predicting RNA structures or analyzing their contribution to biological processes. It will provide a forum for the dissemination of state-of-the-art methods and tools using discrete representations of folding landscapes in the context of big data. It will contribute to establish best-practices towards a better support for large-scale data within structure-centric algorithms. Relevant topics include but are not limited to:
@@ -62,20 +68,20 @@ Key dates:
     Paper Acceptance Notification: June 23rd, 2014
     Final version of accepted papers: July 7th, 2014
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	The meeting will feature keynotes from Jan Gorodkin (University of Copenhagen, Danemark) and Mihaela Zavolan (University of Basel, Switzerland).
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Proceedings of the workshop will be published in a special issue of Lecture Notes in Bioinformatics (LNBI). A selection of regular papers will be invited, but not required, to submit an edited version of the manuscript to the Journal of Computational Biology with high priority publishing. Authors of accepted papers (regular papers and highlights) will be given the opportunity to present their work at the workshop.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Submission guidelines: Contributions should be uploaded on the conference EasyChair instalment at:
   https://www.easychair.org/conferences/?conf=cmsr14
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	We invite two types of contributions.
   * Regular papers: Full papers (12pp) describing previously unpublished research.
@@ -85,18 +91,18 @@ Le paragraphe 13 est en : ENG
   * Highlights: Recently published (or in press) outstanding contributions (2pp).
 	Abstract of highlight papers should describe the context and challenge of the problem and summarize the contribution of the work. Submission should not exceed 2 pages using standard LNBI stylesheets. One figure can be included in the abstract. The authors must include a link to the online publication of the work and indicate the identity of the presenter.
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	The submission system will be open starting April 24th, 2014 and will close on June 1st, 2014 at 11:59pm (midnight) Greenwich Mean Time (GMT). Authors will be notified of acceptance or rejection by email on or before June 23rd, 2013. We request that an author of each accepted paper provides LaTeX files or an MS Word file in the special format for Lecture Notes in Bioinformatics by July 7th, 2014. Additionally, an author of each accepted paper is expected to attend the workshop and present the paper.
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	Steering Committee:
     Ivo Hofacker, University of Vienna, Austria
     Peter Stadler, University Leipzig, Germany
     Eric Westhof, University of Strasbourg, France
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	Program Committee:
     Rolf Backofen, University of Freiburg, Germany
@@ -117,14 +123,14 @@ Le paragraphe 16 est en : ENG
     Michal Ziv-Ukelson, Ben Gurion University of the Negev, Israel
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : ENG
 	Due to popular demand (coupled with a crowded calendar), the submission deadline for CMSR'14 is extended by a week until the 8th of June.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Also, note that the registration is now open and must be made through the offical registration page of ECCB, available at:
   http://www.eccb14.org/registration
@@ -132,13 +138,13 @@ La phrase 2 est en : ENG
 Do not hesitate to visit the conference website at:
   http://cmsr2014.wordpress.com/
 or contact us (cmsr14.conference@gmail.com) for further inquiries.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Please find below our call for paper.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Proceedings will be published by Springer, and extended versions of selected manuscripts will be fast-tracked at Journal of Computational Biology.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Best regards,
 
@@ -152,19 +158,19 @@ September 7th, 2014, Strasbourg
 http://www.eccb14.org/program/workshops/structural-rnas
 
 Scope: Ribonucleic acids (RNAs) play key roles in various aspects of the gene transcription and regulation processes, and are the focus of an ever-increasing interest in all areas of molecular biology.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Deciphering the function of a non-protein coding RNA requires an intimate knowledge of its structure, motivating the development of structure-centric analyses.
-=======
+==========================================
 La phrase 7 est en : ENG
 	This workshop aims to gather researchers and students, developing or using computational methods for predicting RNA structures or analyzing their contribution to biological processes.
-=======
+==========================================
 La phrase 8 est en : ENG
 	It will provide a forum for the dissemination of state-of-the-art methods and tools using discrete representations of folding landscapes in the context of big data.
-=======
+==========================================
 La phrase 9 est en : ENG
 	It will contribute to establish best-practices towards a better support for large-scale data within structure-centric algorithms.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Relevant topics include but are not limited to:
    * RNA folding prediction: Ab initio & comparative approaches, integrative methods incorporating probing and enzymatic data
@@ -184,67 +190,67 @@ Key dates:
     Final version of accepted papers: July 7th, 2014
 
 The meeting will feature keynotes from Jan Gorodkin (University of Copenhagen, Danemark) and Mihaela Zavolan (University of Basel, Switzerland).
-=======
+==========================================
 La phrase 11 est en : ENG
 	Proceedings of the workshop will be published in a special issue of Lecture Notes in Bioinformatics (LNBI).
-=======
+==========================================
 La phrase 12 est en : ENG
 	A selection of regular papers will be invited, but not required, to submit an edited version of the manuscript to the Journal of Computational Biology with high priority publishing.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Authors of accepted papers (regular papers and highlights) will be given the opportunity to present their work at the workshop.
-=======
+==========================================
 La phrase 14 est en : ENG
 	Submission guidelines: Contributions should be uploaded on the conference EasyChair instalment at:
   https://www.easychair.org/conferences/?conf=cmsr14
 
 We invite two types of contributions.
-=======
+==========================================
 La phrase 15 est en : FRA
 	* Regular papers: Full papers (12pp) describing previously unpublished research.
-=======
+==========================================
 La phrase 16 est en : ENG
 	Submissions should describe the work up to sufficient details, but should not exceed 12 page (including references) using standard LNCS template available at: http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0.
-=======
+==========================================
 La phrase 17 est en : ENG
 	The scientific content of papers will be evaluated by three independent reviewers and judged on novelty, relevance to the field, clarity and technical soundness.
-=======
+==========================================
 La phrase 18 est en : ENG
 	Papers rejected from the main ECCB conference may be resubmitted to the satellite workshop.
-=======
+==========================================
 La phrase 19 est en : ENG
 	These re-submissions will be evaluated through additional independent reviews.
-=======
+==========================================
 La phrase 20 est en : ENG
 	Authors must include with their submission the reviews received at ECCB together with a response addressing the concerns raised by the reviewers.
-=======
+==========================================
 La phrase 21 est en : ENG
 	* Highlights: Recently published (or in press) outstanding contributions (2pp).
-=======
+==========================================
 La phrase 22 est en : ENG
 	Abstract of highlight papers should describe the context and challenge of the problem and summarize the contribution of the work.
-=======
+==========================================
 La phrase 23 est en : ENG
 	Submission should not exceed 2 pages using standard LNBI stylesheets.
-=======
+==========================================
 La phrase 24 est en : ENG
 	One figure can be included in the abstract.
-=======
+==========================================
 La phrase 25 est en : ENG
 	The authors must include a link to the online publication of the work and indicate the identity of the presenter.
-=======
+==========================================
 La phrase 26 est en : ENG
 	The submission system will be open starting April 24th, 2014 and will close on June 1st, 2014 at 11:59pm (midnight) Greenwich Mean Time (GMT).
-=======
+==========================================
 La phrase 27 est en : ENG
 	Authors will be notified of acceptance or rejection by email on or before June 23rd, 2013.
-=======
+==========================================
 La phrase 28 est en : ENG
 	We request that an author of each accepted paper provides LaTeX files or an MS Word file in the special format for Lecture Notes in Bioinformatics by July 7th, 2014.
-=======
+==========================================
 La phrase 29 est en : ENG
 	Additionally, an author of each accepted paper is expected to attend the workshop and present the paper.
-=======
+==========================================
 La phrase 30 est en : ENG
 	Steering Committee:
     Ivo Hofacker, University of Vienna, Austria
@@ -269,4 +275,4 @@ Program Committee:
     Sebastian Will, University of Leipzig, Germany
     Michal Ziv-Ukelson, Ben Gurion University of the Negev, Israel
 
-=======
+==========================================

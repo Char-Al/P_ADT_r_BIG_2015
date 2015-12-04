@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_108" est globalement en : ENG
+[('ENG', 0.3433669442651201), ('FRA', 0.6595899715978611)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] 4th Cross Disciplinary Genomics Meeting
 
@@ -8,23 +14,23 @@ Subject : [bioinfo] 4th Cross Disciplinary Genomics Meeting
 Le paragraphe 1 est en : ENG
 	**4th Cross Disciplinary Genomics Meeting - Up-and-Coming Advances in Genome Sciences**
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Paris - UPMC - November 13-14, 2014
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Amphi Durand - Bât Esclangon - 4 place Jussieu 75005 Paris
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Register at: http://cross-genomics.sciencesconf.org/  (no registration fee). 
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Scientific topics: 
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	-Synthetic biology and genome engineering 
 -Computational genomics
@@ -45,11 +51,11 @@ Valentina PROSERPIO - EBI, Cambridge, UK
  Gaël YVERT - ENS, Lyon, France
  
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	We look forward seeing you. 
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	 The organizing comittee
  
@@ -60,16 +66,16 @@ Le paragraphe 8 est en : FRA
  Gilles Fischer
  Martin Weigt
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Laboratory of Computational and Quantitative Biology - UMR 7238 CNRS - 
 Université Pierre et Marie Curie
 
-=======
-Le paragraphe 10 est en : non detect
+==========================================
+Le paragraphe 10 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -82,7 +88,7 @@ Paris - UPMC - November 13-14, 2014
 Amphi Durand - Bât Esclangon - 4 place Jussieu 75005 Paris
 
 Register at: http://cross-genomics.sciencesconf.org/  (no registration fee).
-=======
+==========================================
 La phrase 2 est en : ENG
 	Scientific topics: 
 
@@ -106,7 +112,7 @@ Valentina PROSERPIO - EBI, Cambridge, UK
  
 
 We look forward seeing you.
-=======
+==========================================
 La phrase 3 est en : FRA
 	The organizing comittee
  
@@ -121,4 +127,4 @@ Laboratory of Computational and Quantitative Biology - UMR 7238 CNRS -
 Université Pierre et Marie Curie
 
 
-=======
+==========================================

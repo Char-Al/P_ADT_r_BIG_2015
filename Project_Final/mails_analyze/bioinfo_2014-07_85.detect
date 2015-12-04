@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_85" est globalement en : FRA
+[('ENG', 0.5680136586578511), ('FRA', 1.020233044914931)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Fwd: [Emploi][Post-doc / IR] Bio-based production of phenolic compounds
  found in berry fruits
@@ -9,7 +15,7 @@ Subject : [bioinfo] Fwd: [Emploi][Post-doc / IR] Bio-based production of phenoli
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bio-based production of phenolic compounds found in
 berry fruits
@@ -20,16 +26,16 @@ Nom du contact : Marie-France Sagot
 Email du contact : marie-france.sagot@inria.fr
 Laboratoire : INRIA (Bamboo team)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bio-based-production-phenolic-compounds-found-berry-fruits
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ Voir la description complète du poste sur
 http://www.sfbi.fr/content/bio-based-production-phenolic-compounds-found-berry-fruits
 
 
-=======
+==========================================

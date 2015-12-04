@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_75" est globalement en : FRA
+[('FRA', 0.33069674005351096), ('ENG', 36.12289259999686)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Dernière semaine appel àrésumés pour posters Colloque EMOTIONS 2014
 
@@ -8,25 +14,25 @@ Subject : [bioinfo] Dernière semaine appel àrésumés pour posters Colloque EM
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Vous trouverez ci-dessous l’appel à résumés pour posters au colloque EMOTIONS 2014.
 La date limite de soumission de ces résumés approche vite !
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Notez que l’inscription au colloque, gratuite mais obligatoire pour des raisons d’organisation,
 restera ouverte après cette date limite.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	bonne journée ! amicalement, Marie-France 
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	— 
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	COLLOQUE EMOTIONS 2014 : APPEL A RESUMES POUR POSTERS avant le 31 octobre 2014
  
@@ -83,7 +89,7 @@ For more information http://emotions2014.sciencesconf.org/?lang=en
  
  
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -92,17 +98,17 @@ La phrase 1 est en : FRA
 	Bonjour,
 
 Vous trouverez ci-dessous l’appel à résumés pour posters au colloque EMOTIONS 2014.
-=======
+==========================================
 La phrase 2 est en : FRA
 	La date limite de soumission de ces résumés approche vite !
-=======
+==========================================
 La phrase 3 est en : FRA
 	Notez que l’inscription au colloque, gratuite mais obligatoire pour des raisons d’organisation,
 restera ouverte après cette date limite.
-=======
+==========================================
 La phrase 4 est en : FRA
 	bonne journée !
-=======
+==========================================
 La phrase 5 est en : FRA
 	amicalement, Marie-France 
 
@@ -111,50 +117,50 @@ La phrase 5 est en : FRA
 COLLOQUE EMOTIONS 2014 : APPEL A RESUMES POUR POSTERS avant le 31 octobre 2014
  
 Le premier colloque scientifique international EMOTIONS -  « Ecological and Molecular mOdeling of infecTIONS » sur la modélisation des maladies infectieuses, organisé par le Laboratoire d’Excellence ECOFECT – dynamiques éco-évolutives des maladies infectieuses aura lieu les 10 et 11 décembre 2014 à Lyon.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Il s’adresse à une large communauté de chercheurs et étudiants en biologie, bio-informatique et modélisation mathématique du monde entier.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Un appel à résumés de posters est lancé jusqu’au 31 octobre 2014.
-=======
+==========================================
 La phrase 8 est en : FRA
 	L’objectif principal d’EMOTIONS 2014 est d’explorer les dimensions épidémiologique, écologique, moléculaire et évolutive des infections (humaines et animales) avec un accent particulier sur les modèles mathématiques et les méthodes informatiques qui peuvent être des instruments importants dans de telles études.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Dans le cadre de cet appel à résumés de posters, les travaux présentant un caractère interdisciplinaire marqué en lien avec les thématiques du colloque seront favorisés.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Instructions :
 La création d'un compte sciencesconf.org est nécessaire pour l'inscription et la soumission en ligne de votre résumé d'ici le 31 octobre 2014.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Pour votre inscription rendez-vous sur : http://emotions2014.sciencesconf.org/registration/index
 Pour la soumission de votre poster rendez-vous sur : http://emotions2014.sciencesconf.org/submission/submit
 - Les résumés des posters ne seront acceptés qu’en anglais.
-=======
+==========================================
 La phrase 12 est en : FRA
 	- Les résumés des posters ne devront pas dépasser 300 mots.
-=======
+==========================================
 La phrase 13 est en : FRA
 	- Merci d’indiquer si votre poster a déjà été présenté à d’autres occasions.
-=======
+==========================================
 La phrase 14 est en : FRA
 	Procédure de sélection :
 La date limite de soumission est le 31 octobre 2014.
-=======
+==========================================
 La phrase 15 est en : FRA
 	Les résumés de posters seront examinés par le Comité Scientifique d’EMOTIONS.
-=======
+==========================================
 La phrase 16 est en : FRA
 	Les premiers auteurs seront informés début novembre.
-=======
+==========================================
 La phrase 17 est en : FRA
 	Nous nous réjouissons de vous accueillir à EMOTIONS 2014 !
-=======
+==========================================
 La phrase 18 est en : ENG
 	Les inscriptions sont gratuites mais obligatoires.
-=======
+==========================================
 La phrase 19 est en : ENG
 	Pour en savoir plus : http://emotions2014.sciencesconf.org/
  
@@ -163,52 +169,52 @@ La phrase 19 est en : ENG
 EMOTIONS 2014 COLLOQUIUM: CALL FOR POSTERS PRESENTATIONS, DEADLINE OCTOBER 31st 2014
  
 The first international scientific colloquium EMOTIONS 2014 - ”Ecological and Molecular mOdeling of infecTIONS”, organized by the laboratory of Excellence ECOFECT – eco-evolutionary dynamics of infectious diseases will take place on December 10th and 11th, 2014 in Lyon.
-=======
+==========================================
 La phrase 20 est en : ENG
 	It is open to a wide community of students and researchers from biology and mathematical/computer science from all over the world.
-=======
+==========================================
 La phrase 21 est en : ENG
 	A call for posters presentations is open until October 31st, 2014.
-=======
+==========================================
 La phrase 22 est en : ENG
 	The main objective of EMOTIONS 2014 is to explore the epidemiological, ecological, molecular and evolutionary dimensions of infections (human, wildlife) with a special focus on the mathematical models and computational methods that may be important instruments for such investigations.
-=======
+==========================================
 La phrase 23 est en : ENG
 	Under this call for posters presentations, works presenting results with an interdisciplinary approach dealing with the themes of colloquium will be chosen.
-=======
+==========================================
 La phrase 24 est en : ENG
 	Instructions:
 To register and to submit an abstract online, you will have to create a sciencesconf.org account by filling the on-line registration and submission forms by October 31st, 2014.
-=======
+==========================================
 La phrase 25 est en : ENG
 	Registration at: http://emotions2014.sciencesconf.org/registration/index
 Submission of poster abstract at: http://emotions2014.sciencesconf.org/submission/submit
 - Abstracts must be written in English.
-=======
+==========================================
 La phrase 26 est en : ENG
 	-Abstracts must not exceed 300 words.
-=======
+==========================================
 La phrase 27 est en : ENG
 	- Please, indicate if your poster has already been presented somewhere else.
-=======
+==========================================
 La phrase 28 est en : ENG
 	Selection procedure :
 Deadline for submission is October 31st, 2014.
-=======
+==========================================
 La phrase 29 est en : ENG
 	Abstracts will be reviewed by the scientific committee of EMOTIONS.
-=======
+==========================================
 La phrase 30 est en : ENG
 	Primary authors will be notified in the beginning of November.
-=======
+==========================================
 La phrase 31 est en : ENG
 	We are looking forward to welcoming you in Lyon for EMOTIONS 2014!
-=======
+==========================================
 La phrase 32 est en : ENG
 	Registrations are free but compulsory.
-=======
+==========================================
 La phrase 33 est en : ENG
 	For more information http://emotions2014.sciencesconf.org/?lang=en
  
  
-=======
+==========================================

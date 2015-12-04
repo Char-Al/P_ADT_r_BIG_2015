@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_20" est globalement en : ENG
+[('ENG', 0.7949646898204817), ('FRA', 1.1363714917645071)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] AlCoB 2015: 1st call for papers
 
@@ -9,32 +15,32 @@ Le paragraphe 1 est en : ENG
 	*To be removed from our mailing list, please respond to this message with
 UNSUBSCRIBE in the subject line*
 
-=======
-Le paragraphe 2 est en : non detect
+==========================================
+Le paragraphe 2 est en : n
 	****************************************************************************
 ******
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	2nd INTERNATIONAL CONFERENCE ON ALGORITHMS FOR COMPUTATIONAL BIOLOGY
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	AlCoB 2015
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Mexico City, Mexico
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	August 4-6, 2015
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Organized by:
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Centre for Complexity Sciences (C3)
 School of Sciences
@@ -42,32 +48,32 @@ Institute for Research in Applied Mathematics and Systems (IIMAS)
 Graduate Program in Computing Science and Engineering
 National Autonomous University of Mexico
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Research Group on Mathematical Linguistics (GRLMC)
 Rovira i Virgili University
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	http://grammars.grlmc.com/alcob2015/
 
-=======
-Le paragraphe 11 est en : non detect
+==========================================
+Le paragraphe 11 est en : n
 	****************************************************************************
 ******
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	AIMS:
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	AlCoB aims at promoting and displaying excellent research using string and
 graph algorithms and combinatorial optimization to deal with problems in
 biological sequence analysis, genome rearrangement, evolutionary trees, and
 structure prediction.
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	The conference will address several of the current challenges in
 computational biology by investigating algorithms aimed at: 1) assembling
@@ -76,31 +82,31 @@ genome, 3) recognizing regulatory motifs, 4) aligning nucleotides and
 comparing genomes, 5) reconstructing regulatory networks of genes, and 6)
 inferring the evolutionary phylogeny of species.
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	Particular focus will be put on methodology and significant room will be
 reserved to young scholars at the beginning of their career.
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	VENUE:
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	AlCoB 2015 will take place in Mexico City, the oldest capital city in the
 Americas and the largest Spanish-speaking city in the world. The venue will
 be the main campus of the National Autonomous University of Mexico.
 
-=======
+==========================================
 Le paragraphe 18 est en : FRA
 	SCOPE:
 
-=======
+==========================================
 Le paragraphe 19 est en : ENG
 	Topics of either theoretical or applied interest include, but are not
 limited to:
 
-=======
+==========================================
 Le paragraphe 20 est en : ENG
 	Exact sequence analysis
 Approximate sequence analysis
@@ -121,33 +127,33 @@ metatranscriptomics ...
 Microbiome analysis
 Systems biology
 
-=======
+==========================================
 Le paragraphe 21 est en : FRA
 	STRUCTURE:
 
-=======
+==========================================
 Le paragraphe 22 est en : ENG
 	AlCoB 2015 will consist of:
 
-=======
+==========================================
 Le paragraphe 23 est en : ENG
 	invited talks
 invited tutorials
 peer-reviewed contributions
 
-=======
+==========================================
 Le paragraphe 24 est en : ENG
 	INVITED SPEAKERS:
 
-=======
+==========================================
 Le paragraphe 25 est en : ENG
 	to be announced
 
-=======
+==========================================
 Le paragraphe 26 est en : ENG
 	PROGRAMME COMMITTEE:
 
-=======
+==========================================
 Le paragraphe 27 est en : ENG
 	Stephen Altschul (National Center for Biotechnology Information, Bethesda,
 USA)
@@ -199,11 +205,11 @@ Mohammed J. Zaki (Rensselaer Polytechnic Institute, Troy, USA)
 Louxin Zhang (National University of Singapore, Singapore)
 Hongyu Zhao (Yale University, New Haven, USA)
 
-=======
+==========================================
 Le paragraphe 28 est en : ENG
 	ORGANIZING COMMITTEE:
 
-=======
+==========================================
 Le paragraphe 29 est en : ENG
 	Adrian Horia Dediu (Tarragona)
 Francisco Hernández-Quiroz (Mexico City)
@@ -211,11 +217,11 @@ Carlos Martín-Vide (Tarragona, co-chair)
 David A. Rosenblueth (Mexico City, co-chair)
 Florentina Lilica Voicu (Tarragona)
 
-=======
+==========================================
 Le paragraphe 30 est en : FRA
 	SUBMISSIONS:
 
-=======
+==========================================
 Le paragraphe 31 est en : ENG
 	Authors are invited to submit non-anonymized papers in English presenting
 original and unpublished research. Papers should not exceed 12 single-spaced
@@ -223,46 +229,46 @@ pages (including eventual appendices, references, proofs, etc.) and should
 be prepared according to the standard format for Springer Verlag's LNCS
 series (see http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
 
-=======
+==========================================
 Le paragraphe 32 est en : ENG
 	Submissions have to be uploaded to:
 
-=======
+==========================================
 Le paragraphe 33 est en : ENG
 	https://www.easychair.org/conferences/?conf=alcob2015
 
-=======
+==========================================
 Le paragraphe 34 est en : ENG
 	PUBLICATIONS:
 
-=======
+==========================================
 Le paragraphe 35 est en : ENG
 	A volume of proceedings published by Springer in the LNCS/LNBI series will
 be available by the time of the conference.
 
-=======
+==========================================
 Le paragraphe 36 est en : ENG
 	A special issue of a major journal will be later published containing
 peer-reviewed substantially extended versions of some of the papers
 contributed to the conference. Submissions to it will be by invitation.
 
-=======
+==========================================
 Le paragraphe 37 est en : ENG
 	REGISTRATION:
 
-=======
+==========================================
 Le paragraphe 38 est en : ENG
 	The registration form can be found at:
 
-=======
+==========================================
 Le paragraphe 39 est en : ENG
 	http://grammars.grlmc.com/alcob2015/Registration.php
 
-=======
+==========================================
 Le paragraphe 40 est en : FRA
 	DEADLINES:
 
-=======
+==========================================
 Le paragraphe 41 est en : ENG
 	Paper submission: March 2, 2015 (23:59 CET)
 Notification of paper acceptance or rejection: April 10, 2015
@@ -271,19 +277,19 @@ Early registration: April 19, 2015
 Late registration: July 21, 2015
 Submission to the journal special issue: November 6, 2015
 
-=======
+==========================================
 Le paragraphe 42 est en : FRA
 	QUESTIONS AND FURTHER INFORMATION:
 
-=======
+==========================================
 Le paragraphe 43 est en : FRA
 	florentinalilica.voicu@urv.cat
 
-=======
+==========================================
 Le paragraphe 44 est en : FRA
 	POSTAL ADDRESS:
 
-=======
+==========================================
 Le paragraphe 45 est en : ENG
 	AlCoB 2015
 Research Group on Mathematical Linguistics (GRLMC)
@@ -291,31 +297,31 @@ Rovira i Virgili University
 Av. Catalunya, 35
 43002 Tarragona, Spain
 
-=======
+==========================================
 Le paragraphe 46 est en : FRA
 	Phone: +34 977 559 543
 Fax: +34 977 558 386
 
-=======
+==========================================
 Le paragraphe 47 est en : ENG
 	ACKNOWLEDGEMENTS:
 
-=======
+==========================================
 Le paragraphe 48 est en : ENG
 	National Autonomous University of Mexico
 Rovira i Virgili University
 
-=======
+==========================================
 Le paragraphe 49 est en : ENG
 	---
 Este mensaje no contiene virus ni malware porque la protección de avast! Antivirus está activa.
 http://www.avast.com
 
-=======
-Le paragraphe 50 est en : non detect
+==========================================
+Le paragraphe 50 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -357,7 +363,7 @@ AlCoB aims at promoting and displaying excellent research using string and
 graph algorithms and combinatorial optimization to deal with problems in
 biological sequence analysis, genome rearrangement, evolutionary trees, and
 structure prediction.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The conference will address several of the current challenges in
 computational biology by investigating algorithms aimed at: 1) assembling
@@ -365,21 +371,21 @@ sequence reads into a complete genome, 2) identifying gene structures in the
 genome, 3) recognizing regulatory motifs, 4) aligning nucleotides and
 comparing genomes, 5) reconstructing regulatory networks of genes, and 6)
 inferring the evolutionary phylogeny of species.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Particular focus will be put on methodology and significant room will be
 reserved to young scholars at the beginning of their career.
-=======
+==========================================
 La phrase 4 est en : ENG
 	VENUE:
 
 AlCoB 2015 will take place in Mexico City, the oldest capital city in the
 Americas and the largest Spanish-speaking city in the world.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The venue will
 be the main campus of the National Autonomous University of Mexico.
-=======
+==========================================
 La phrase 6 est en : ENG
 	SCOPE:
 
@@ -444,7 +450,7 @@ Rodrigo López (European Bioinformatics Institute, Hinxton, UK)
 Andrei N. Lupas (Max Planck Institute for Developmental Biology, Tübingen,
 Germany)
 B.S.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Manjunath (University of California, Santa Barbara, USA)
 Carlos Martín-Vide (chair, Rovira i Virgili University, Tarragona, Spain)
@@ -484,16 +490,16 @@ SUBMISSIONS:
 
 Authors are invited to submit non-anonymized papers in English presenting
 original and unpublished research.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Papers should not exceed 12 single-spaced
 pages (including eventual appendices, references, proofs, etc.)
-=======
+==========================================
 La phrase 9 est en : ENG
 	and should
 be prepared according to the standard format for Springer Verlag's LNCS
 series (see http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
-=======
+==========================================
 La phrase 10 est en : ENG
 	Submissions have to be uploaded to:
 
@@ -503,15 +509,15 @@ PUBLICATIONS:
 
 A volume of proceedings published by Springer in the LNCS/LNBI series will
 be available by the time of the conference.
-=======
+==========================================
 La phrase 11 est en : ENG
 	A special issue of a major journal will be later published containing
 peer-reviewed substantially extended versions of some of the papers
 contributed to the conference.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Submissions to it will be by invitation.
-=======
+==========================================
 La phrase 13 est en : ENG
 	REGISTRATION:
 
@@ -538,7 +544,7 @@ AlCoB 2015
 Research Group on Mathematical Linguistics (GRLMC)
 Rovira i Virgili University
 Av.
-=======
+==========================================
 La phrase 14 est en : ENG
 	Catalunya, 35
 43002 Tarragona, Spain
@@ -554,12 +560,12 @@ Rovira i Virgili University
 
 ---
 Este mensaje no contiene virus ni malware porque la protección de avast!
-=======
+==========================================
 La phrase 15 est en : ENG
 	Antivirus está activa.
-=======
+==========================================
 La phrase 16 est en : ENG
 	http://www.avast.com
 
 
-=======
+==========================================

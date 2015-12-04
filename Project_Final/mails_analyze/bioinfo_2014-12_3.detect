@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_3" est globalement en : ENG
+[('ENG', 0.21707893123968977), ('FRA', 0.5559863831011909)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] CFP: The International Technology Management Conference (ITMC2015)
 
@@ -8,32 +14,32 @@ Subject : [bioinfo] CFP: The International Technology Management Conference (ITM
 Le paragraphe 1 est en : ENG
 	The International Technology Management Conference (ITMC2015)
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Manouba University
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	May 26-28, 2015 » Hammamat, Tunisia
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	http://sdiwc.net/conferences/itmc2015/
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	General Chairs
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Dr. Hatem Haddad, Manouba University, Tunisia
 Dr. Mohammad S. Salman, Mevlana University, Turkey
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Important Dates
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Submission Deadline Open from now until April 26, 2015
 Notification of acceptance 4 weeks from the submission date
@@ -42,11 +48,11 @@ Last day of registration May 16, 2015, however, it is recommended to
 do it few days before
 Conference dates May 26-28, 2015
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	The conference proceedings will be published in the digital library of SDIWC.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	You are invited to participate in ITMC2015 that will be held in
 Malaysia, on May 26-28, 2015. The event will be held over three days,
@@ -54,12 +60,12 @@ with presentations delivered by researchers from the international
 community, including presentations from keynote speakers and
 state-of-the-art lectures.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	The conference welcome papers on the following (but not limited to)
 research topics:
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	***INFORMATION TECHNOLOGY***
 Information and Data Management
@@ -77,7 +83,7 @@ Quality of Service, Scalability and Performance
 Information Security and Cryptography
 Data Stream Processing in Mobile/Sensor Networks
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	***COMPUTER SCIENCE***
 Biometrics Technologies
@@ -97,7 +103,7 @@ Artificial Intelligence
 Information Retrieval
 Natural Language Processing
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	***BUSINESS, AND TECHNOLOGY IN EDUCATION***
 Educational Technology
@@ -111,7 +117,7 @@ E- Learning E-Government
 Debugging Tools and Learning
 E-Business Applications and Software
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	***MANUFACTURING SYSTEMS***
 Design and Manufacturing
@@ -122,7 +128,7 @@ Design and Green Manufacturing
 Automation
 Networks Design, Protocols and Management
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	***ENGINEERING TECHNOLOGY***
 Bioinformatics & Biomedical Imaging
@@ -134,11 +140,11 @@ Biomedical Signal Processing
 Robotics and Mobile Machines
 Computer Architecture for Intelligent Machines
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	Best registered papers will be published in the following special issue journals
 
-=======
+==========================================
 Le paragraphe 18 est en : ENG
 	International Journal of New Computer Architectures and their
 Applications (IJNCAA)
@@ -148,33 +154,33 @@ International Journal of Cyber-Security and Digital Forensics (IJCSDF)
 International Journal of E-Learning and Educational Technologies in
 the Digital Media (IJEETDM)
 
-=======
-Le paragraphe 19 est en : non detect
+==========================================
+Le paragraphe 19 est en : n
 	-- 
 _______________________________________
 
-=======
+==========================================
 Le paragraphe 20 est en : ENG
 	Ass. Prof. Dr. Hatem Haddad
 Mevlana University
 Engineering Faculty
 Department of Computer Engineering
 
-=======
+==========================================
 Le paragraphe 21 est en : FRA
 	Yrd.Doç. Dr. Hatem Haddad
 Mevlana Universitesi
 Mühendislik Fakültesi
 Bilgisayar Mühendisliği Bölümü
 
-=======
+==========================================
 Le paragraphe 22 est en : FRA
 	Tel : +90-332-444 42 43
 Fax: +90-332 241 11 11
 Address: Yeni İstanbul Cad. No: 235 42003 Selçuklu / KONYA - TURKEY
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -204,17 +210,17 @@ Conference dates May 26-28, 2015
 
 
 The conference proceedings will be published in the digital library of SDIWC.
-=======
+==========================================
 La phrase 2 est en : ENG
 	You are invited to participate in ITMC2015 that will be held in
 Malaysia, on May 26-28, 2015.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The event will be held over three days,
 with presentations delivered by researchers from the international
 community, including presentations from keynote speakers and
 state-of-the-art lectures.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The conference welcome papers on the following (but not limited to)
 research topics:
@@ -298,7 +304,7 @@ the Digital Media (IJEETDM)
 _______________________________________
 
 Ass.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Prof. Dr. Hatem Haddad
 Mevlana University
@@ -306,7 +312,7 @@ Engineering Faculty
 Department of Computer Engineering
 
 Yrd.Doç.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Dr. Hatem Haddad
 Mevlana Universitesi
@@ -316,8 +322,8 @@ Bilgisayar Mühendisliği Bölümü
 Tel : +90-332-444 42 43
 Fax: +90-332 241 11 11
 Address: Yeni İstanbul Cad.
-=======
+==========================================
 La phrase 7 est en : FRA
 	No: 235 42003 Selçuklu / KONYA - TURKEY
 
-=======
+==========================================

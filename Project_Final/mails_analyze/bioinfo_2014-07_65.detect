@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_65" est globalement en : FRA
+[('FRA', 0.5863261000804909), ('ENG', 0.7014720146146665)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Bioinformaticien et biologiste de calcul
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformaticien et biologiste de calcul
 Type de poste : CDD Ingénieur
@@ -19,16 +25,16 @@ Nom du contact : Matthew Albert
 Email du contact : albertm@pasteur.fr
 Laboratoire : Immunobiologie des cellules dendritiques
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformaticien-et-biologiste-de-calcul
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ http://www.sfbi.fr/content/bioinformaticien-et-biologiste-de-calcul
 
 
 
-=======
+==========================================

@@ -1,18 +1,24 @@
 Le mail "bioinfo_2014-04_107" est globalement en : FRA
+[('FRA', 0.8105347532981454), ('ENG', 3.79843538536932)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][ Thèse ] PhD position in string algorithms/immunoinformatics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : non detect
+Le paragraphe 1 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Intitulé du poste : PhD position in string algorithms/immunoinformatics
 Type de poste : Thèse
@@ -22,16 +28,16 @@ Nom du contact : Mikael Salson
 Email du contact : mikael.salson@lifl.fr
 Laboratoire : LIFL, Inria
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/phd-position-string-algorithmsimmunoinformatics
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,4 +60,4 @@ http://www.sfbi.fr/content/phd-position-string-algorithmsimmunoinformatics
 
 
 
-=======
+==========================================

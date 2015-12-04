@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_24" est globalement en : FRA
+[('ENG', 0.3261480700872042), ('FRA', 0.8258688338672552)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDI autre] (Senior) Scientist System Biology
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : (Senior) Scientist System Biology
 Type de poste : CDI autre
@@ -19,16 +25,16 @@ Nom du contact : BASF job portal
 Email du contact : jobs@basf.com
 Laboratoire : CropDesign - BASF Plant Science
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/senior-scientist-system-biology
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ http://www.sfbi.fr/content/senior-scientist-system-biology
 
 
 
-=======
+==========================================

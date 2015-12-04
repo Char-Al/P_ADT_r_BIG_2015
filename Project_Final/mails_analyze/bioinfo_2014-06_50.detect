@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_50" est globalement en : FRA
+[('FRA', 0.7726006099433491), ('ENG', 1.0435615073233533)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] situation emploi scientifique
 
@@ -9,16 +15,16 @@ Le paragraphe 1 est en : FRA
 	
 ---- Merci de diffuser aux membres de vos unité ou de vos GdR ---
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Mardi a eu lieu une session plénière du comité national de la recherche
 scientifique.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	La convocation de cette session plénière par le président du CNRS à la
 suite d'une demande des présidents de section et de conseils 
@@ -27,51 +33,51 @@ fait exceptionnel (qui s'est produit 5 fois en 70 ans). Elle fait
 suite à un appel du Conseil Scientifique du Cnrs, en mars dernier qui
 s'alarmait devant la crise de l'emploi scientifique en France.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Le comité national a produit plusieurs propositions:
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	http://www.cnrs.fr/comitenational/doc/odj/autres/2014/Propositions_emploi_scientifique_CN_adoptees.pdf 
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Il a été particulièrement discuté du CIR (crédit impôt recherche):
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	"Chaque pourcent du CIR représente la création de 1000 nouveaux postes
 de chercheurs, enseignants-chercheurs, ingénieurs et techniciens."
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	et de son évaluation.
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Ci-dessous le message du comité d'organisation de la plénière
 avec un lien vers un intéressant diaporama sur l'emploi scientifique:
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	http://www.cnrs.fr/comitenational/doc/odj/autres/2014/diaporama_pleniere_final2.pdf 
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	Cordialement
 Frédérique Bassino,
 Présidente de la section 6 du comité national.
 
-=======
-Le paragraphe 13 est en : non detect
+==========================================
+Le paragraphe 13 est en : n
 	******************************************************************
 
-=======
+==========================================
 Le paragraphe 14 est en : FRA
 	Chères et chers collègues,
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	Le Comité national de la recherche scientifique, réuni en session
 plénière extraordinaire mercredi 11 juin, a constaté la gravité de la
@@ -79,12 +85,12 @@ situation de l'emploi scientifique dans notre pays, qui met en danger
 notre système de recherche tout entier. Il a formulé et adopté des
 propositions pour y remédier de toute urgence.
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	Le texte de ces propositions, à diffuser très largement, est en ligne à :
 http://www.cnrs.fr/comitenational/doc/odj/autres/2014/Propositions_emploi_scientifique_CN_adoptees.pdf 
 
-=======
+==========================================
 Le paragraphe 17 est en : FRA
 	Il faut que tous ensemble, dans les labos et les services, entre
 collègues, nous cherchions activement les moyens de convaincre l'opinion
@@ -97,29 +103,29 @@ dont nous avons besoin, dès demain.  Il est de la responsabilité
 collective des personnels statutaires, donc de chacun.e d'entre vous, de
 porter ce message jusqu'à ce qu'il soit entendu.
 
-=======
+==========================================
 Le paragraphe 18 est en : FRA
 	Le comité d'organisation de la plénière
 
-=======
+==========================================
 Le paragraphe 19 est en : FRA
 	Philippe Büttgen, Bruno Chaudret, Sophie Duchesne, Frédérique Bassino,
 François Bonnarel, Marie-José Casanove, François Hammer, Claire
 Mouradian, Alain Trautmann, Matias Velazquez, et Renée Ventura.
 
-=======
+==========================================
 Le paragraphe 20 est en : FRA
 	-- 
 Frederique Bassino
 
-=======
+==========================================
 Le paragraphe 21 est en : FRA
 	  LIPN UMR 7030                               Tel: +33 1 49 40 40 84
   Universite Paris 13 - CNRS                  Institut Galilee Bureau A104
   99, avenue J.-B. Clement
   93430 Villetaneuse - FRANCE
 
-=======
+==========================================
 Le paragraphe 22 est en : ENG
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
@@ -130,11 +136,11 @@ Tel. (33 or 0 from France) 4 67 41 86 64
 Fax. (33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 
-=======
-Le paragraphe 23 est en : non detect
+==========================================
+Le paragraphe 23 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -147,18 +153,18 @@ Bonjour,
 
 Mardi a eu lieu une session plénière du comité national de la recherche
 scientifique.
-=======
+==========================================
 La phrase 2 est en : FRA
 	La convocation de cette session plénière par le président du CNRS à la
 suite d'une demande des présidents de section et de conseils 
 scientifiques est un évènement tout a
 fait exceptionnel (qui s'est produit 5 fois en 70 ans).
-=======
+==========================================
 La phrase 3 est en : FRA
 	Elle fait
 suite à un appel du Conseil Scientifique du Cnrs, en mars dernier qui
 s'alarmait devant la crise de l'emploi scientifique en France.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Le comité national a produit plusieurs propositions:
 
@@ -169,10 +175,10 @@ Il a été particulièrement discuté du CIR (crédit impôt recherche):
 
 "Chaque pourcent du CIR représente la création de 1000 nouveaux postes
 de chercheurs, enseignants-chercheurs, ingénieurs et techniciens."
-=======
+==========================================
 La phrase 5 est en : FRA
 	et de son évaluation.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Ci-dessous le message du comité d'organisation de la plénière
 avec un lien vers un intéressant diaporama sur l'emploi scientifique:
@@ -185,7 +191,7 @@ http://www.cnrs.fr/comitenational/doc/odj/autres/2014/diaporama_pleniere_final2.
 Cordialement
 Frédérique Bassino,
 Présidente de la section 6 du comité national.
-=======
+==========================================
 La phrase 7 est en : FRA
 	******************************************************************
 
@@ -195,11 +201,11 @@ Le Comité national de la recherche scientifique, réuni en session
 plénière extraordinaire mercredi 11 juin, a constaté la gravité de la
 situation de l'emploi scientifique dans notre pays, qui met en danger
 notre système de recherche tout entier.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Il a formulé et adopté des
 propositions pour y remédier de toute urgence.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Le texte de ces propositions, à diffuser très largement, est en ligne à :
 http://www.cnrs.fr/comitenational/doc/odj/autres/2014/Propositions_emploi_scientifique_CN_adoptees.pdf 
@@ -210,25 +216,25 @@ collègues, nous cherchions activement les moyens de convaincre l'opinion
 et les parlementaires de la gravité de la situation, afin d'obtenir du
 gouvernement un plan pluriannuel ambitieux d'emploi scientifique
 statutaire.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Pour résorber la précarité et redonner aux jeunes l'envie de
 faire de la recherche, ce sont des milliers de postes
 d'enseignants-chercheurs, de chercheurs, d'ingénieurs et de techniciens
 dont nous avons besoin, dès demain.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Il est de la responsabilité
 collective des personnels statutaires, donc de chacun.e d'entre vous, de
 porter ce message jusqu'à ce qu'il soit entendu.
-=======
+==========================================
 La phrase 12 est en : FRA
 	Le comité d'organisation de la plénière
 
 Philippe Büttgen, Bruno Chaudret, Sophie Duchesne, Frédérique Bassino,
 François Bonnarel, Marie-José Casanove, François Hammer, Claire
 Mouradian, Alain Trautmann, Matias Velazquez, et Renée Ventura.
-=======
+==========================================
 La phrase 13 est en : FRA
 	-- 
 Frederique Bassino
@@ -236,7 +242,7 @@ Frederique Bassino
   LIPN UMR 7030                               Tel: +33 1 49 40 40 84
   Universite Paris 13 - CNRS                  Institut Galilee Bureau A104
   99, avenue J.-B.
-=======
+==========================================
 La phrase 14 est en : ENG
 	Clement
   93430 Villetaneuse - FRANCE
@@ -247,14 +253,14 @@ CNRS Research Director & Head of GDR Bioinformatique Moléculaire
 LIRMM - UMR 5506 - CC 06 001
 95 Rue de la Galéra - 34095 Montpellier cedex 5 FRANCE
 Tel.
-=======
+==========================================
 La phrase 15 est en : ENG
 	(33 or 0 from France) 4 67 41 86 64
 Fax.
-=======
+==========================================
 La phrase 16 est en : ENG
 	(33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 
 
-=======
+==========================================

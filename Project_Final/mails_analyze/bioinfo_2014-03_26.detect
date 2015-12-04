@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_26" est globalement en : ENG
+[('ENG', 0.19865000427224166), ('FRA', 0.4571311694180932)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Researcher Position in Bioinformatics for Translational Research 
 
@@ -8,43 +14,43 @@ Subject : [bioinfo] Researcher Position in Bioinformatics for Translational Rese
 Le paragraphe 1 est en : ENG
 	Researcher Position in Bioinformatics for Translational Research at CNRS-EISBM, Lyon, in relation to the IMI-eTRIKS Consortium.
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	**
 KEYWORDS: Computational Systems Biology, Pathways and Networks, Data Integration and Modelling, Machine Learning
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	A Researcher position is available as part of the eTRIKS (European Translational Research Information and Knowledge Management Services) project, funded by the Innovative Medicines Initiative (IMI) of the European Commission 7th Framework Programme and the European Federation of Pharmaceutical Industries and Associations: http://www.imi.europa.eu/
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	**
 SCIENTIFIC PROJECT: The eTRIKS Consortium is dedicated to delivering European Translational Information and Knowledge Management Services initially for all IMI projects, then for other European translational research projects. 
 These projects encompass translational bioinformatics, clinical research informatics, health/clinical informatics and the development of new analytical tools. They use tranSMART as part of the software knowledge management platform: http://www.etriks.org; http://www.transmartproject.org
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	**
 JOB CONTEXT: High throughput experimental methods are generating large amounts of heterogenous data associated with patient populations. This data includes multiple ‘omics data such as transcriptomics, proteomics, metabolomics and genome structural variations. The integration of these data with clinical data relating to disease progression and outcome has the potential to impact on strategies for personalised medicine. 
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	**
 JOB DESCRIPTION: The successful applicant will work on data analytics and will evaluate existing, and develop new approaches for the integration of clinical data with multiple types of high dimensional ‘omics data. The approaches for integration will be used for biomarker discovery and the identifciation of new disease subtypes in a large portfolio of IMI and non-IMI projects. She/he will contribute to enhancement of the underlying tranSMART system with required analytical functions and workflows for the analysis and integration of clinical and ‘omics data.
 The selected candidate will be based in Lyon-Gerland within the CNRS-EISBM team led by Charles Auffray, hosted by Claude Bernard University on the Charles Mérieux campus: http://www.eisbm.org; http://workshop.eisbm.eu
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	**
 REQUIRED EXPERIENCE/SKILLS: Candidates should have a PhD degree in computer science, mathematics, physics, bioinformatics or engineering. Good programming skills in either Python, Matlab, C/C++, R or similar are essential, as is a strong mathematical background. Experience of analysis of biological networks and machine learning is desirable. The position requires good communication skills in English and involves working in collaboration with eTRIKS partners on translational medicine projects across Europe.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	**
 CONTRACT DURATION: Available immediately for two years with possible one-year extension.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	**
 SALARY: Depending on qualifications and experience, based on CNRS salary grid.
@@ -52,23 +58,23 @@ SALARY: Depending on qualifications and experience, based on CNRS salary grid.
 **
 APPLICATION: Send CV, cover letter and names of two references to Charles Auffray
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Email: jobs@eisbm.org
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	More information:
 http://job.eisbm.org/researcher-position-in-bioinformatics/
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : ENG
 	Researcher Position in Bioinformatics for Translational Research at CNRS-EISBM, Lyon, in relation to the IMI-eTRIKS Consortium.
-=======
+==========================================
 La phrase 2 est en : ENG
 	**
 KEYWORDS: Computational Systems Biology, Pathways and Networks, Data Integration and Modelling, Machine Learning
@@ -77,56 +83,56 @@ A Researcher position is available as part of the eTRIKS (European Translational
 
 **
 SCIENTIFIC PROJECT: The eTRIKS Consortium is dedicated to delivering European Translational Information and Knowledge Management Services initially for all IMI projects, then for other European translational research projects.
-=======
+==========================================
 La phrase 3 est en : ENG
 	These projects encompass translational bioinformatics, clinical research informatics, health/clinical informatics and the development of new analytical tools.
-=======
+==========================================
 La phrase 4 est en : ENG
 	They use tranSMART as part of the software knowledge management platform: http://www.etriks.org; http://www.transmartproject.org
 
 **
 JOB CONTEXT: High throughput experimental methods are generating large amounts of heterogenous data associated with patient populations.
-=======
+==========================================
 La phrase 5 est en : ENG
 	This data includes multiple ‘omics data such as transcriptomics, proteomics, metabolomics and genome structural variations.
-=======
+==========================================
 La phrase 6 est en : ENG
 	The integration of these data with clinical data relating to disease progression and outcome has the potential to impact on strategies for personalised medicine.
-=======
+==========================================
 La phrase 7 est en : ENG
 	**
 JOB DESCRIPTION: The successful applicant will work on data analytics and will evaluate existing, and develop new approaches for the integration of clinical data with multiple types of high dimensional ‘omics data.
-=======
+==========================================
 La phrase 8 est en : ENG
 	The approaches for integration will be used for biomarker discovery and the identifciation of new disease subtypes in a large portfolio of IMI and non-IMI projects.
-=======
+==========================================
 La phrase 9 est en : ENG
 	She/he will contribute to enhancement of the underlying tranSMART system with required analytical functions and workflows for the analysis and integration of clinical and ‘omics data.
-=======
+==========================================
 La phrase 10 est en : ENG
 	The selected candidate will be based in Lyon-Gerland within the CNRS-EISBM team led by Charles Auffray, hosted by Claude Bernard University on the Charles Mérieux campus: http://www.eisbm.org; http://workshop.eisbm.eu
 
 
 **
 REQUIRED EXPERIENCE/SKILLS: Candidates should have a PhD degree in computer science, mathematics, physics, bioinformatics or engineering.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Good programming skills in either Python, Matlab, C/C++, R or similar are essential, as is a strong mathematical background.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Experience of analysis of biological networks and machine learning is desirable.
-=======
+==========================================
 La phrase 13 est en : ENG
 	The position requires good communication skills in English and involves working in collaboration with eTRIKS partners on translational medicine projects across Europe.
-=======
+==========================================
 La phrase 14 est en : ENG
 	**
 CONTRACT DURATION: Available immediately for two years with possible one-year extension.
-=======
+==========================================
 La phrase 15 est en : ENG
 	**
 SALARY: Depending on qualifications and experience, based on CNRS salary grid.
-=======
+==========================================
 La phrase 16 est en : ENG
 	**
 APPLICATION: Send CV, cover letter and names of two references to Charles Auffray
@@ -135,4 +141,4 @@ Email: jobs@eisbm.org
 
 More information:
 http://job.eisbm.org/researcher-position-in-bioinformatics/
-=======
+==========================================

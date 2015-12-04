@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_101" est globalement en : FRA
+[('ENG', 0.6174231705461667), ('FRA', 0.7012382413030193)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Postes MCF et PR au LIF - Aix-Marseille
 
@@ -8,17 +14,17 @@ Subject : [bioinfo] Postes MCF et PR au LIF - Aix-Marseille
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	[désolé pour les réceptions multiples]
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	5 postes de MCF et PR (CNU 27 section) seront ouverts au concours 2014 à 
 Aix-Marseille avec rattachement recherche au Laboratoire d'Informatique 
 Fondamentale (LIF).
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Des candidatures sur des thématiques de bio-informatique, avec 
 rattachement à l'équipe "Informatique mathématique et dynamique 
@@ -31,7 +37,7 @@ Sciences (profil fléché pour l'équipe IMDB),
 - le poste PR du département Informatique et Interactions de l'UFR de 
 Sciences (profil ouvert).
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	L'équipe IMDB est une jeune équipe du LIF (créée en septembre 2013) dont 
 les thématiques de recherche se placent à la frontière de l'informatique 
@@ -47,25 +53,25 @@ mathématiques intéressés par les aspects fondamentaux et/ou appliqués de
 la modélisation des systèmes d'interactions biologiques sont 
 particulièrement recherchés.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Plus de détails sont disponibles sur le site web du LIF : 
 http://www.lif.univ-mrs.fr/
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Bien cordialement,
 S.
 
-=======
-Le paragraphe 8 est en : non detect
+==========================================
+Le paragraphe 8 est en : n
 	-- 
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Sylvain Sené
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Professeur des universités
 Laboratoire d'informatique fondamentale (LIF)
@@ -74,7 +80,7 @@ Parc scientifique et technologique de Luminy
 F-13288 Marseille Cedex 9
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -87,17 +93,17 @@ La phrase 1 est en : FRA
 5 postes de MCF et PR (CNU 27 section) seront ouverts au concours 2014 à 
 Aix-Marseille avec rattachement recherche au Laboratoire d'Informatique 
 Fondamentale (LIF).
-=======
+==========================================
 La phrase 2 est en : FRA
 	Des candidatures sur des thématiques de bio-informatique, avec 
 rattachement à l'équipe "Informatique mathématique et dynamique 
 biologique" (IMDB) du LIF, sont les bienvenues.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Bien que ces postes 
 soient tous ouverts à l'ensemble des équipes du LIF, certains sont 
 affichés avec une priorité.
-=======
+==========================================
 La phrase 4 est en : FRA
 	En ce qui concerne directement IMDB, deux 
 ressortent :
@@ -105,18 +111,18 @@ ressortent :
 Sciences (profil fléché pour l'équipe IMDB),
 - le poste PR du département Informatique et Interactions de l'UFR de 
 Sciences (profil ouvert).
-=======
+==========================================
 La phrase 5 est en : FRA
 	L'équipe IMDB est une jeune équipe du LIF (créée en septembre 2013) dont 
 les thématiques de recherche se placent à la frontière de l'informatique 
 fondamentale et de la biologie.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Elle a pour vocation d'étudier les 
 réseaux d'interactions au sens large au moyen de méthodes issues de 
 l'informatique et des mathématiques discrètes (systèmes dynamiques, 
 complexité, calculabilité).
-=======
+==========================================
 La phrase 7 est en : FRA
 	Son domaine d'applications privilégié est la 
 biologie moléculaire, au travers des systèmes d'interactions biologiques 
@@ -126,7 +132,7 @@ Des profils ayant un ancrage disciplinaire en (bio-)informatique ou en
 mathématiques intéressés par les aspects fondamentaux et/ou appliqués de 
 la modélisation des systèmes d'interactions biologiques sont 
 particulièrement recherchés.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Plus de détails sont disponibles sur le site web du LIF : 
 http://www.lif.univ-mrs.fr/
@@ -144,4 +150,4 @@ Parc scientifique et technologique de Luminy
 163, avenue de Luminy - Case 901
 F-13288 Marseille Cedex 9
 
-=======
+==========================================

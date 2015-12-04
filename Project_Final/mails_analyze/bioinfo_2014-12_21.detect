@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_21" est globalement en : FRA
+[('ENG', 0.3786551713068068), ('FRA', 0.8858898287157733)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Symposium HTS-ADEFACE 9 avril 2015
 
@@ -8,11 +14,11 @@ Subject : [bioinfo] Symposium HTS-ADEFACE 9 avril 2015
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Comme l'an passé le réseau HTS supporté par le labex BASC (campus Paris Saclay) organise sur une journée, le 9 avril 2015, un symposium autour du séquençage à haut débit (HTS) et de l'Adaptation Des Eucaryotes FACE aux changements globaux. Quatre thématiques ont été identifiées (Transcriptomique, Traces de sélection; Epigénomique, variants structuraux) avec comme format trois orateurs (dont un invité) par thématique. Des posters pourront être également présentés. Ce symposium est gratuit, le réseau prendra en charge votre repas du midi mais l' INSCRIPTION EST OBLIGATOIRE  (avant le 15 janvier)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Vous pouvez dés à présent remplir le doodle suivant :
   http://doodle.com/emqndcc2xzkqtx8z  
@@ -22,7 +28,7 @@ en indiquant
 - si vous souhaitez déjeuner
 - si vous souhaitez vous inscrire au réseau (si vous n'êtes pas encore inscrit)
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	-- 
 Julien Fumey
@@ -34,11 +40,11 @@ CNRS UPR 9034
 julien.fumey@legs.cnrs-gif.fr
 01 69 82 37 59
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -47,13 +53,13 @@ La phrase 1 est en : FRA
 	Bonjour,
 
 Comme l'an passé le réseau HTS supporté par le labex BASC (campus Paris Saclay) organise sur une journée, le 9 avril 2015, un symposium autour du séquençage à haut débit (HTS) et de l'Adaptation Des Eucaryotes FACE aux changements globaux.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Quatre thématiques ont été identifiées (Transcriptomique, Traces de sélection; Epigénomique, variants structuraux) avec comme format trois orateurs (dont un invité) par thématique.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Des posters pourront être également présentés.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Ce symposium est gratuit, le réseau prendra en charge votre repas du midi mais l' INSCRIPTION EST OBLIGATOIRE  (avant le 15 janvier)
 
@@ -62,13 +68,13 @@ Vous pouvez dés à présent remplir le doodle suivant :
 en indiquant
 - si vous serez présent au symposium (9h30-18h, lieu à préciser selon le nombre de participants)
 - si vous souhaitez présenter un poster ou une communication.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Dans ce cas, faites moi parvenir avant le 9 février un résumé par mail (myriam.harry@legs.cnrs-gif.fr).
-=======
+==========================================
 La phrase 6 est en : FRA
 	Le comité d'organisation du symposium se réunira pour sélectionner les communications.
-=======
+==========================================
 La phrase 7 est en : FRA
 	- si vous souhaitez déjeuner
 - si vous souhaitez vous inscrire au réseau (si vous n'êtes pas encore inscrit)
@@ -84,4 +90,4 @@ julien.fumey@legs.cnrs-gif.fr
 01 69 82 37 59
 
 
-=======
+==========================================

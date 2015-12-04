@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_86" est globalement en : FRA
+[('FRA', 0.42340502978785044), ('ENG', 0.4821826880510708)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Formation Bioinformatique - Fouille de données et analyses NGS avec le langage R
 
@@ -8,19 +14,19 @@ Subject : [bioinfo] Formation Bioinformatique - Fouille de données et analyses 
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation en Bio-informatique intitulée : "Fouille de données et analyses NGS avec le langage R" à Bordeaux sur 4 jours (du lundi 13/10/2014 au jeudi 16/10/2014). Il reste encore quelques places disponibles donc n'hésitez pas à vous inscrire !
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Adresse:
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex). Ce campus est situé à proximité du CHU Pellegrin.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Objectifs:
 1. Savoir manipuler et visualiser de grands ensembles de données biologiques
@@ -28,23 +34,23 @@ Le paragraphe 5 est en : FRA
 3. Déterminer les ANRs messagers différentiellement exprimés à l'aide de données RNA-Seq
 4. Enrichir les résultats en utilisant des bases de connaissances
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Prérequis:
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Avoir des bases d'utilisation de ligne de commande 
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Programme:
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	 Cette formation introduira le langage R, les techniques de fouille et de visualisation de données, ainsi que les paquetages Bioconductor permettant l'analyse de données issues du séquençage nouvelle génération.
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	- Le langage R et ses commandes essentielles
 - Les formats de fichiers, la lecture et l'écriture de données tabulées
@@ -56,33 +62,33 @@ Le paragraphe 10 est en : FRA
 - L'analyse d'expression différentielle (paquetage edgeR)
 - Les techniques d'enrichissement (DAVID, GO, SPIA)
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	-Dernière demi-journée consacrée à un atelier pédagogique d'analyse et de réflexion sur les données apportées par les stagiaires
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	Cette formation sera organisée en courtes présentations (20 % du temps) suivies de travaux pratiques basés sur des jeux de données réels (80 % du temps). 
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous:
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	http://cnrsformation.cnrs.fr/stage.php?stage=14284
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	Pour toute information complémentaire (public visé, niveau, cout, ...), merci de contacter:
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	- Aurélien Barré (aurelien.barre@u-bordeaux.fr)
 - Hayssam Soueidan (massyah@gmail.com)
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -91,34 +97,34 @@ La phrase 1 est en : FRA
 	Bonjour,
 
 Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation en Bio-informatique intitulée : "Fouille de données et analyses NGS avec le langage R" à Bordeaux sur 4 jours (du lundi 13/10/2014 au jeudi 16/10/2014).
-=======
+==========================================
 La phrase 2 est en : FRA
 	Il reste encore quelques places disponibles donc n'hésitez pas à vous inscrire !
-=======
+==========================================
 La phrase 3 est en : FRA
 	Adresse:
 
 Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex).
-=======
+==========================================
 La phrase 4 est en : FRA
 	Ce campus est situé à proximité du CHU Pellegrin.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Objectifs:
 1.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Savoir manipuler et visualiser de grands ensembles de données biologiques
 2.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Analyser et aligner des séquences venant de reads NGS
 3.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Déterminer les ANRs messagers différentiellement exprimés à l'aide de données RNA-Seq
 4.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Enrichir les résultats en utilisant des bases de connaissances
 
@@ -129,7 +135,7 @@ Avoir des bases d'utilisation de ligne de commande
 Programme:
 
  Cette formation introduira le langage R, les techniques de fouille et de visualisation de données, ainsi que les paquetages Bioconductor permettant l'analyse de données issues du séquençage nouvelle génération.
-=======
+==========================================
 La phrase 10 est en : FRA
 	- Le langage R et ses commandes essentielles
 - Les formats de fichiers, la lecture et l'écriture de données tabulées
@@ -144,7 +150,7 @@ La phrase 10 est en : FRA
 -Dernière demi-journée consacrée à un atelier pédagogique d'analyse et de réflexion sur les données apportées par les stagiaires
 
 Cette formation sera organisée en courtes présentations (20 % du temps) suivies de travaux pratiques basés sur des jeux de données réels (80 % du temps).
-=======
+==========================================
 La phrase 11 est en : FRA
 	Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous:
 
@@ -155,4 +161,4 @@ Pour toute information complémentaire (public visé, niveau, cout, ...), merci 
 - Aurélien Barré (aurelien.barre@u-bordeaux.fr)
 - Hayssam Soueidan (massyah@gmail.com)
 
-=======
+==========================================

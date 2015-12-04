@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_89" est globalement en : ENG
+[('ENG', 0.24122177976390094), ('FRA', 0.47589392001384817)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Post-doctoral position in bioimage and bioinformatics for microRNA therapeutics in heart failure
 
@@ -8,39 +14,39 @@ Subject : [bioinfo] Post-doctoral position in bioimage and bioinformatics for mi
 Le paragraphe 1 est en : FRA
 	Job Advertisement: Position at the post-doctoral level for 1 year at the Systems and Modeling research unit at the GIGA Biomedical Research Center and at the Montefiore Institute of Electrical Engineering and Computer Science, at the University of Liège, Belgium.
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Within European FP7 Marie Curie Work Programme coordinated by Prof. dr. S. Heymans (Maastricht University), we are looking for an excellent, highly competitive researcher at the post-doctoral level.  He/she should have worked for at least 3 years outside Belgium during the past years.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Topic : Development & application of machine learning, image analysis, and bioinformatics techniques for high-throughput and high-content  analysis for microRNA-medicines for Cardiac Metabolic Diseases.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Keywords: Machine Learning – Image Analysis – Bioimage Informatics - Bioinformatics
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Environment: The GIGA Research Center with excellent research groups in biology, bioinformatics, and machine learning fields grouped together.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Project:  The researcher will be working closely with a team of software developers, researchers in machine learning & bioinformatics, and biologists, to advance high-throughput automated analysis of bioimaging & microRNA data. The applicant will be involved in the application of existing algorithms and the design of novel algorithms and their large-scale evaluation for cellular image recognition and phenotype quantification to discover novel microRNAs implicated in heart failure. She/He will have access to a high-performance computing environment and various bioinformatics tools including the inhouse developed Cytomine platform able to process terabytes of imaging data.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Capacities & Experiences: Applicants should hold a PhD and have strong knowledge in machine learning, bioinformatics and/or computer vision. Programming and data analysis skills are also highly desirable. The candidates should be highly motivated, with a strong interest in large-scale biomedical applications. A working knowledge of English language is mandatory
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	This project is a collaborative project (exchange of people) between Maastricht University (Netherlands), Cenix Biosciences (Dresden, Germany) and SystMod (GIGA, Liège, Belgium).
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Interested candidates should send a CV,  a brief statement of research and development interests, three relevant publications, and the names and contact details of two references by e-mail  (with subject “Postdoc CardiomiR”) to: raphael.maree@ulg.ac.be; p.geurts@ulg.ac.be
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	Related links:
 http://www.montefiore.ulg.ac.be/systmod
@@ -51,51 +57,51 @@ http://www.cytomine.be/
 http://www.montefiore.ulg.ac.be/~maree
 http://www.montefiore.ulg.ac.be/~geurts
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : FRA
 	Job Advertisement: Position at the post-doctoral level for 1 year at the Systems and Modeling research unit at the GIGA Biomedical Research Center and at the Montefiore Institute of Electrical Engineering and Computer Science, at the University of Liège, Belgium.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Within European FP7 Marie Curie Work Programme coordinated by Prof. dr. S. Heymans (Maastricht University), we are looking for an excellent, highly competitive researcher at the post-doctoral level.
-=======
+==========================================
 La phrase 3 est en : ENG
 	He/she should have worked for at least 3 years outside Belgium during the past years.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Topic : Development & application of machine learning, image analysis, and bioinformatics techniques for high-throughput and high-content  analysis for microRNA-medicines for Cardiac Metabolic Diseases.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Keywords: Machine Learning – Image Analysis – Bioimage Informatics - Bioinformatics
 
 Environment: The GIGA Research Center with excellent research groups in biology, bioinformatics, and machine learning fields grouped together.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Project:  The researcher will be working closely with a team of software developers, researchers in machine learning & bioinformatics, and biologists, to advance high-throughput automated analysis of bioimaging & microRNA data.
-=======
+==========================================
 La phrase 7 est en : ENG
 	The applicant will be involved in the application of existing algorithms and the design of novel algorithms and their large-scale evaluation for cellular image recognition and phenotype quantification to discover novel microRNAs implicated in heart failure.
-=======
+==========================================
 La phrase 8 est en : ENG
 	She/He will have access to a high-performance computing environment and various bioinformatics tools including the inhouse developed Cytomine platform able to process terabytes of imaging data.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Capacities & Experiences: Applicants should hold a PhD and have strong knowledge in machine learning, bioinformatics and/or computer vision.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Programming and data analysis skills are also highly desirable.
-=======
+==========================================
 La phrase 11 est en : ENG
 	The candidates should be highly motivated, with a strong interest in large-scale biomedical applications.
-=======
+==========================================
 La phrase 12 est en : ENG
 	A working knowledge of English language is mandatory
 
 This project is a collaborative project (exchange of people) between Maastricht University (Netherlands), Cenix Biosciences (Dresden, Germany) and SystMod (GIGA, Liège, Belgium).
-=======
+==========================================
 La phrase 13 est en : ENG
 	Interested candidates should send a CV,  a brief statement of research and development interests, three relevant publications, and the names and contact details of two references by e-mail  (with subject “Postdoc CardiomiR”) to: raphael.maree@ulg.ac.be; p.geurts@ulg.ac.be
 
@@ -107,4 +113,4 @@ http://www.cenix.com
 http://www.cytomine.be/
 http://www.montefiore.ulg.ac.be/~maree
 http://www.montefiore.ulg.ac.be/~geurts
-=======
+==========================================

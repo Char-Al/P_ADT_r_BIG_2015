@@ -1,0 +1,5 @@
+python3 main.py -g -f generate_data/FRA_test.txt -e generate_data/ENG_test.txt -o data_stats/
+
+python3 main.py -s -e learning/ENG.txt -f learning/FRA.txt -i data_stats/ -o ./ -m 5
+
+python3 main.py -d -e learning/ENG.txt -f learning/FRA.txt -i mails -o mails_analyze/

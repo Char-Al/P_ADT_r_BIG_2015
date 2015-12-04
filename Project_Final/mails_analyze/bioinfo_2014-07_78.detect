@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_78" est globalement en : FRA
+[('FRA', 1.2230730019065044), ('ENG', 1.8651152924900436)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Colloquium EMOTIONS 2014
 
@@ -26,11 +32,11 @@ Les inscriptions (gratuites mais obligatoires) sont ouvertes !
 Pour en savoir plus, rdv sur : http://emotions2014.sciencesconf.org/
  
 
-=======
-Le paragraphe 2 est en : non detect
+==========================================
+Le paragraphe 2 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -41,7 +47,7 @@ La phrase 1 est en : FRA
 Explorer les dimensions épidémiologique, écologique, moléculaire et évolutive des infections (humaines et animales), tel est l’objectif d’EMOTIONS 2014 - "Ecological and Molecular mOdeling of infecTIONS" 
  
 Ce premier colloque international organisé par le Labex ECOFECT - dynamiques éco-évolutives des maladies infectieuses (http://ecofect.universite-lyon.fr) - s’adresse à une large communauté nationale et internationale de chercheurs et étudiants en biologie, bio-informatique et modélisation mathématique.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Au programme :
 - Minus van Baalen (Université Pierre et Marie Curie, France)
@@ -53,10 +59,10 @@ La phrase 2 est en : ENG
 - Vanessa Sperandio (University of Texas, USA)
  
 Les inscriptions (gratuites mais obligatoires) sont ouvertes !
-=======
+==========================================
 La phrase 3 est en : FRA
 	Pour en savoir plus, rdv sur : http://emotions2014.sciencesconf.org/
  
 
 
-=======
+==========================================

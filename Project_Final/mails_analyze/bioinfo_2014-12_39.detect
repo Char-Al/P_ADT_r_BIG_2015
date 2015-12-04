@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_39" est globalement en : ENG
+[('ENG', 0.3451462470964051), ('FRA', 0.7433321907593192)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Computational Methods in Systems Biology 2015, Nantes, September 16-18 2015
 
@@ -10,7 +16,7 @@ Le paragraphe 1 est en : ENG
 We are very pleased to announce that the 13th International Conference on Computational Methods in Systems Biology (CMSB 2015) will be organized in Nantes, France by Jérémie Bourdon (Université de Nantes) & Olivier Roux (Ecole Centrale de Nantes), on September 16-18 2015. 
 CMSB 2015 will be a great opportunity to hear about the latest research on the analysis of biological systems, networks, and data. The conference aims to bring together computer scientists, biologists, mathematicians, engineers, and physicists interested in a system-level understanding of biological processes. The entire event will be held at La Cité Nantes Event Center (~2 hours from Paris by train). 
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	The key dates are: 
 - Paper abstract submission 13th April 2015
@@ -18,18 +24,18 @@ Le paragraphe 2 est en : ENG
 - Paper notification 8th June 2015
 - Poster submission deadline 22th June 2015
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	More details can be found here 
 http://cmsb2015.sciencesconf.org
 Please note that a limited number of travel stipends will be available for students and postdocs. 
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	See you there, 
 Sincerely,
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Damien Eveillard PhD
 Ass. Professor, Computational Biology group
@@ -37,11 +43,11 @@ LINA - UMR 6241, CNRS, EMN, Université de Nantes
 TEL: +33 2 51 12 59 85
 http://pagesperso.lina.univ-nantes.fr/~eveillard-d
 
-=======
-Le paragraphe 6 est en : non detect
+==========================================
+Le paragraphe 6 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -49,16 +55,16 @@ Le paragraphe 6 est en : non detect
 La phrase 1 est en : FRA
 	Dear all, 
 We are very pleased to announce that the 13th International Conference on Computational Methods in Systems Biology (CMSB 2015) will be organized in Nantes, France by Jérémie Bourdon (Université de Nantes) & Olivier Roux (Ecole Centrale de Nantes), on September 16-18 2015.
-=======
+==========================================
 La phrase 2 est en : ENG
 	CMSB 2015 will be a great opportunity to hear about the latest research on the analysis of biological systems, networks, and data.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The conference aims to bring together computer scientists, biologists, mathematicians, engineers, and physicists interested in a system-level understanding of biological processes.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The entire event will be held at La Cité Nantes Event Center (~2 hours from Paris by train).
-=======
+==========================================
 La phrase 5 est en : ENG
 	The key dates are: 
 - Paper abstract submission 13th April 2015
@@ -69,7 +75,7 @@ La phrase 5 est en : ENG
 More details can be found here 
 http://cmsb2015.sciencesconf.org
 Please note that a limited number of travel stipends will be available for students and postdocs.
-=======
+==========================================
 La phrase 6 est en : ENG
 	See you there, 
 Sincerely,
@@ -77,7 +83,7 @@ Sincerely,
 
 Damien Eveillard PhD
 Ass.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Professor, Computational Biology group
 LINA - UMR 6241, CNRS, EMN, Université de Nantes
@@ -85,4 +91,4 @@ TEL: +33 2 51 12 59 85
 http://pagesperso.lina.univ-nantes.fr/~eveillard-d
 
 
-=======
+==========================================

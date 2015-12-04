@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_20" est globalement en : FRA
+[('ENG', 0.19603657690831708), ('FRA', 0.27270081756115033)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Postes Chercheurs CNRS - Campagne 2015 : Site 'de nouveau en ligne' et conseils
 
@@ -8,11 +14,11 @@ Subject : [bioinfo] Postes Chercheurs CNRS - Campagne 2015 : Site 'de nouveau en
 Le paragraphe 1 est en : FRA
 	Petite piqûre de rappel sur les postes CNRS 'interface *-bio' (CID51), à l'occasion de la remise en ligne du site au CNRS.
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	...Please scroll down for the English version...
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	-------------------------------------------------------------------
 Chers collègues,
@@ -25,7 +31,7 @@ Quatre postes de DR2 sans fléchage ou coloriage. Cela facilitera le recrutement
  
 Si un candidat souhaite postuler à différents postes, il doit soumettre son dossier (adapté) à chaque poste. 
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Le concours est ouvert depuis le 1er Décembre et les informations sont en ligne:
 http://gestionoffres.dsi.cnrs.fr/fo/offres/default-fr.php
@@ -33,7 +39,7 @@ http://gestionoffres.dsi.cnrs.fr/fo/offres/default-fr.php
 Au vu des spécificités des sections interdisciplinaires, il est très fortement recommandé de consulter les critères de candidature et les conseils aux candidats, disponibles sur le site de la CID 51:
 http://cid51.imag.fr/
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Les lettres de recommandation devront être envoyés directement au CNRS (voir information sur les sites du CNRS ou de la CID51).
  
@@ -41,40 +47,40 @@ La date limite de candidature est le 6 Janvier 2015.
 -------------------------------------------------------------------
 Dear colleagues,
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	The Centre National de Recherche Scientifique (CNRS) is the largest research institution in Europe and will have open 9 positions in the domain of bioinformatics and modelling in biological sciences in 2015 (commission CID51). These positions correspond to two levels of seniority.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Five junior tenured positions: two for any CNRS laboratory in any pertinent domain in bioinformatics and modelling in biological sciences, two specifically for laboratories of the INS2I institute (CNRS computer science institute), and one for laboratories of the INSMI (CNRS mathematics institute). There is a pre-selection on this campaign, and only some candidates will be selected for an audition. 
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Four senior positions for any CNRS laboratory in any pertinent domain in bioinformatics and modelling in biological sciences. Note that there will be no pre-selection on the senior positions and (by law) all candidates will be auditioned independently of the committee perception on the application. The positions are open to CNRS researchers and outsiders.  
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Candidates wishing to apply to different positions should send an adapted application for each of them. 
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	The web site of the CID51 provides advices and a FAQ on how to present your application. As a rule, candidates should contact the labs they wish to apply to before the application.  
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Recommendation letters should be sent directly to the CNRS. The call is open since December 1st and will remain open until January 6th 2015.   
 http://gestionoffres.dsi.cnrs.fr/fo/offres/default-fr.php
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : FRA
 	Petite piqûre de rappel sur les postes CNRS 'interface *-bio' (CID51), à l'occasion de la remise en ligne du site au CNRS.
-=======
+==========================================
 La phrase 2 est en : FRA
 	...Please scroll down for the English version...
 
@@ -84,16 +90,16 @@ Chers collègues,
 En 2015 la CID51 aura neuf postes au concours:
  
 Cinq postes de CR2: deux postes ouverts à tous les domaines de la CID, deux postes pour des candidats dont le projet de recherche devra s'inscrire dans des laboratoires de l'INS2I, et un poste dont le projet de recherche devra s'inscrire dans des laboratoires de lINSMI.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Quatre postes de DR2 sans fléchage ou coloriage.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Cela facilitera le recrutement de nouveaux chercheurs seniors au CNRS, quils soient déjà chargés de recherche au CNRS ou non.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Si un candidat souhaite postuler à différents postes, il doit soumettre son dossier (adapté) à chaque poste.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Le concours est ouvert depuis le 1er Décembre et les informations sont en ligne:
 http://gestionoffres.dsi.cnrs.fr/fo/offres/default-fr.php
@@ -102,48 +108,48 @@ Au vu des spécificités des sections interdisciplinaires, il est très fortemen
 http://cid51.imag.fr/
 
 Les lettres de recommandation devront être envoyés directement au CNRS (voir information sur les sites du CNRS ou de la CID51).
-=======
+==========================================
 La phrase 7 est en : FRA
 	La date limite de candidature est le 6 Janvier 2015.
-=======
+==========================================
 La phrase 8 est en : ENG
 	-------------------------------------------------------------------
 Dear colleagues,
 
 The Centre National de Recherche Scientifique (CNRS) is the largest research institution in Europe and will have open 9 positions in the domain of bioinformatics and modelling in biological sciences in 2015 (commission CID51).
-=======
+==========================================
 La phrase 9 est en : ENG
 	These positions correspond to two levels of seniority.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Five junior tenured positions: two for any CNRS laboratory in any pertinent domain in bioinformatics and modelling in biological sciences, two specifically for laboratories of the INS2I institute (CNRS computer science institute), and one for laboratories of the INSMI (CNRS mathematics institute).
-=======
+==========================================
 La phrase 11 est en : ENG
 	There is a pre-selection on this campaign, and only some candidates will be selected for an audition.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Four senior positions for any CNRS laboratory in any pertinent domain in bioinformatics and modelling in biological sciences.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Note that there will be no pre-selection on the senior positions and (by law) all candidates will be auditioned independently of the committee perception on the application.
-=======
+==========================================
 La phrase 14 est en : ENG
 	The positions are open to CNRS researchers and outsiders.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Candidates wishing to apply to different positions should send an adapted application for each of them.
-=======
+==========================================
 La phrase 16 est en : ENG
 	The web site of the CID51 provides advices and a FAQ on how to present your application.
-=======
+==========================================
 La phrase 17 est en : ENG
 	As a rule, candidates should contact the labs they wish to apply to before the application.
-=======
+==========================================
 La phrase 18 est en : ENG
 	Recommendation letters should be sent directly to the CNRS.
-=======
+==========================================
 La phrase 19 est en : ENG
 	The call is open since December 1st and will remain open until January 6th 2015.   
 http://gestionoffres.dsi.cnrs.fr/fo/offres/default-fr.php
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_10" est globalement en : FRA
+[('FRA', 0.33840291308400866), ('ENG', 0.48137773607265383)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Master Bioinformatique de Rouen - candidatures
 
@@ -10,7 +16,7 @@ Le paragraphe 1 est en : FRA
 Les candidatures au Master 1 de BioInforMatique de l'université de Rouen 
 - Normandie Université sont ouvertes jusqu'au 30 juin 2014.
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Ce master est ouvert aux étudiants titulaires d'une licence de biologie, 
 d'informatique ou de mathématiques.
@@ -22,17 +28,17 @@ Il forme des futurs doctorants et des ingénieurs bioinformaticiens,
 biostatisticiens, destinés à travailler à l'interface des sciences du 
 vivant, de l'informatique et des mathématiques/statistiques.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Les dossiers de candidatures et toutes les informations utiles sont 
 disponibles sur le site masterbioinfo.formations.univ-rouen.fr
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Contact : master.bioinfo@univ-rouen.fr
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -41,28 +47,28 @@ La phrase 1 est en : FRA
 	
 Les candidatures au Master 1 de BioInforMatique de l'université de Rouen 
 - Normandie Université sont ouvertes jusqu'au 30 juin 2014.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Ce master est ouvert aux étudiants titulaires d'une licence de biologie, 
 d'informatique ou de mathématiques.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Il accueille aussi des salariés en reprise d'études, en reconversion ou 
 demandeurs d'emploi.
-=======
+==========================================
 La phrase 4 est en : FRA
 	La formation s'organise en trois ans dont deux années en alternance et 
 apprentissage en master 2.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Il forme des futurs doctorants et des ingénieurs bioinformaticiens, 
 biostatisticiens, destinés à travailler à l'interface des sciences du 
 vivant, de l'informatique et des mathématiques/statistiques.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Les dossiers de candidatures et toutes les informations utiles sont 
 disponibles sur le site masterbioinfo.formations.univ-rouen.fr
 
 Contact : master.bioinfo@univ-rouen.fr
 
-=======
+==========================================

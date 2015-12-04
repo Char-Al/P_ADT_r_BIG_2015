@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_10" est globalement en : FRA
+[('FRA', 0.4365903147994711), ('ENG', 2.7006474508541927)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] 12èmeédition des Rencontres des plates-formes de Bioinformatique du Grand Ouest (IFB-GO)
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] 12èmeédition des Rencontres des plates-formes de Bioinform
 Le paragraphe 1 est en : FRA
 	Pour rappel.
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	> Bonjour,
 >
@@ -21,25 +27,25 @@ Le paragraphe 2 est en : FRA
 >
 > Pour plus d'informations : http://registration.genouest.org/?ee=22
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	> *La participation à cet événement est gratuite* mais pour des raisons 
 > de logistique l'inscription est obligatoire.
 >
 >
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	-- 
 Re: t *Audrey BIHOUEE*
 Plate-forme Bioinformatique BiRD
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Tél. : +33 (0)2 28 08 00 55
 **www.pf-bird.univ-nantes.fr* <http://www.pf-bird.univ-nantes.fr/> **
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	*Inserm UMR 1087/CNRS UMR 6291
 IRS-UN - 8 quai Moncousu - BP 70721
@@ -47,24 +53,24 @@ IRS-UN - 8 quai Moncousu - BP 70721
 *www.umr1087.univ-nantes.fr* <http://www.umr1087.univ-nantes.fr/>
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : FRA
 	Pour rappel.
-=======
+==========================================
 La phrase 2 est en : FRA
 	> Bonjour,
 >
 > Comme chaque année les plates-formes de Bio-informatique de 
 > Biogenouest organisent une journée de rencontres.
-=======
+==========================================
 La phrase 3 est en : FRA
 	> Cette année, pour la 12ème édition de ces rencontres, la journée sera 
 > consacrée *aux données en bio-informatique*.
-=======
+==========================================
 La phrase 4 est en : FRA
 	>
 > Elle aura lieu le 14 Novembre 2014 à IRISA / INRIA de Rennes
@@ -73,7 +79,7 @@ La phrase 4 est en : FRA
 
 > *La participation à cet événement est gratuite* mais pour des raisons 
 > de logistique l'inscription est obligatoire.
-=======
+==========================================
 La phrase 5 est en : FRA
 	>
 >
@@ -83,7 +89,7 @@ Re: t *Audrey BIHOUEE*
 Plate-forme Bioinformatique BiRD
 
 Tél.
-=======
+==========================================
 La phrase 6 est en : ENG
 	: +33 (0)2 28 08 00 55
 **www.pf-bird.univ-nantes.fr* <http://www.pf-bird.univ-nantes.fr/> **
@@ -93,4 +99,4 @@ IRS-UN - 8 quai Moncousu - BP 70721
 44007 Nantes Cedex 1
 *www.umr1087.univ-nantes.fr* <http://www.umr1087.univ-nantes.fr/>
 
-=======
+==========================================

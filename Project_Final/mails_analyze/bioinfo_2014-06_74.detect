@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_74" est globalement en : ENG
+[('ENG', 0.41943208318641856), ('FRA', 1.7119120798243423)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] ECCB Worshop on Logical Modelling and Analysis of Cellular Networks
 
@@ -8,34 +14,34 @@ Subject : [bioinfo] ECCB Worshop on Logical Modelling and Analysis of Cellular N
 Le paragraphe 1 est en : FRA
 	Dear all,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	The program of the ECCB workshop dedicated to the "Logical Modelling and
 Analysis of Cellular Networks" is now published at the url:
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	http://www.eccb14.org/program/workshops/lmacn
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Instruction for registration can be found on the ECCB website.
 Some financial support (registration cost) is available for students and
 postdocs (cf. application instructions on the website).
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	We hope to see many of you at this occasion!
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	With best regards,
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Ioannis Xenarios and Denis Thieffry
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	-- 
 Prof. Denis THIEFFRY
@@ -43,11 +49,11 @@ Ecole Normale Supérieure - Département de Biologie
 IBENS - UMR ENS - CNRS 8197 - INSERM 1024
 46 rue d'Ulm, 75230 Paris Cedex 05
 
-=======
-Le paragraphe 9 est en : non detect
+==========================================
+Le paragraphe 9 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -61,17 +67,17 @@ Analysis of Cellular Networks" is now published at the url:
 http://www.eccb14.org/program/workshops/lmacn
 
 Instruction for registration can be found on the ECCB website.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Some financial support (registration cost) is available for students and
 postdocs (cf.
-=======
+==========================================
 La phrase 3 est en : ENG
 	application instructions on the website).
-=======
+==========================================
 La phrase 4 est en : ENG
 	We hope to see many of you at this occasion!
-=======
+==========================================
 La phrase 5 est en : FRA
 	With best regards,
 
@@ -85,4 +91,4 @@ IBENS - UMR ENS - CNRS 8197 - INSERM 1024
 46 rue d'Ulm, 75230 Paris Cedex 05
 
 
-=======
+==========================================

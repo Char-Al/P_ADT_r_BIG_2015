@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_28" est globalement en : FRA
+[('FRA', 0.41500103660918497), ('ENG', 0.7671841801087129)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Formations thématiques de la plate-forme MicroScope - avril 2014
 
@@ -8,14 +14,14 @@ Subject : [bioinfo] Formations thématiques de la plate-forme MicroScope - avril
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	La plate-forme MicroScope propose 2 formations thématiques dédiées à 
 l'exploration du métabolisme bactérien et à la l'analyse des données de 
 transcriptomique. Les prochaines sessions de formation auront lieu en 
 Avril 2014 à l'Université d'Evry-Val d'Essonne.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	- « Bacterial metabolic networks prediction, comparison and annotation 
 »
@@ -31,7 +37,7 @@ effectuer des analyses comparatives de métabolisme
 utiliser de manière autonome, les outils de microscope pour analyser et 
 curer les données métaboliques de génomes d'intérêt.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	- « RNA-Seq Analyses using the MicroScope Platform »
 Jeudi 10 Avril et vendredi 11 Avril 2014 (matin) - date limite 
@@ -45,7 +51,7 @@ connaître et comprendre les principales étapes d'analyses RNAseq
 utiliser de manière autonome l'outil TAMARA de la PF MicroScope
 appliquer les méthodes présentées à l'analyse d'un génome d'intérêt
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Pour plus d'information et pour s'inscrire : 
 https://www.genoscope.cns.fr/agc/microscope/training
@@ -57,16 +63,16 @@ projet d'annotation sur cette plate-forme et souhaitant approfondir son
 utilisation, qu'à celles souhaitant s'initier à la génomique 
 microbienne.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Cordialement,
 L'équipe LABGeM
 
-=======
-Le paragraphe 7 est en : non detect
+==========================================
+Le paragraphe 7 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -77,11 +83,11 @@ La phrase 1 est en : FRA
 La plate-forme MicroScope propose 2 formations thématiques dédiées à 
 l'exploration du métabolisme bactérien et à la l'analyse des données de 
 transcriptomique.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Les prochaines sessions de formation auront lieu en 
 Avril 2014 à l'Université d'Evry-Val d'Essonne.
-=======
+==========================================
 La phrase 3 est en : FRA
 	- « Bacterial metabolic networks prediction, comparison and annotation 
 »
@@ -96,7 +102,7 @@ réaction
 effectuer des analyses comparatives de métabolisme
 utiliser de manière autonome, les outils de microscope pour analyser et 
 curer les données métaboliques de génomes d'intérêt.
-=======
+==========================================
 La phrase 4 est en : FRA
 	- « RNA-Seq Analyses using the MicroScope Platform »
 Jeudi 10 Avril et vendredi 11 Avril 2014 (matin) - date limite 
@@ -115,16 +121,16 @@ https://www.genoscope.cns.fr/agc/microscope/training
 Nos collaborateurs de l'Université d'Evry-Val d'Essonne en charge de 
 l'organisation de la formation prendront ensuite contact avec vous afin 
 de vous transmettre le devis, ainsi que la convention de formation.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Ces formations s'adressent aussi bien aux personnes ayant déjà un 
 projet d'annotation sur cette plate-forme et souhaitant approfondir son 
 utilisation, qu'à celles souhaitant s'initier à la génomique 
 microbienne.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Cordialement,
 L'équipe LABGeM
 
 
-=======
+==========================================

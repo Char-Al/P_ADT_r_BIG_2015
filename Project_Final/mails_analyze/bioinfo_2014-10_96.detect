@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_96" est globalement en : FRA
+[('ENG', 1.2641176238757408), ('FRA', 2.076469809288182)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Bioinformations 8
 
@@ -8,24 +14,24 @@ Subject : [bioinfo] Bioinformations 8
 Le paragraphe 1 est en : FRA
 	Chers collègues
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	L'été joue les prolongations cette année, de quoi nous rendre tous satisfaits. En complément, nous venons de gagner une heure de week-end via le changement d'heure. Et comme les bonnes nouvelles n'arrivent jamais seules, pour vous donner encore plus le sourire, nous sommes heureux de vous présenter la 8 ème version des Bioinformations.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	http://www.bioinformations.fr
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Bonne lecture à tous!
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	L'équipe de la rédaction
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -34,19 +40,19 @@ La phrase 1 est en : FRA
 	Chers collègues
 
 L'été joue les prolongations cette année, de quoi nous rendre tous satisfaits.
-=======
+==========================================
 La phrase 2 est en : ENG
 	En complément, nous venons de gagner une heure de week-end via le changement d'heure.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Et comme les bonnes nouvelles n'arrivent jamais seules, pour vous donner encore plus le sourire, nous sommes heureux de vous présenter la 8 ème version des Bioinformations.
-=======
+==========================================
 La phrase 4 est en : FRA
 	http://www.bioinformations.fr
 
 Bonne lecture à tous!
-=======
+==========================================
 La phrase 5 est en : FRA
 	L'équipe de la rédaction
 
-=======
+==========================================

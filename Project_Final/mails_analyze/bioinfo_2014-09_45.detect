@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_45" est globalement en : FRA
+[('FRA', 0.793670533548011), ('ENG', 2.1348485350729867)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][PR] Ingénieur Informatique Scientifiq  ue
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][PR] Ingénieur Informatique Scientifiq  ue
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Ingénieur Informatique Scientifique
 Type de poste : PR
@@ -18,13 +24,13 @@ Nom du contact : Daniel CABERO
 Email du contact : daniel.cabero@euralis.com
 Laboratoire : EURALIS-SEMENCES: Service Systèmes d'Informations Recherche
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-informatique-scientifique-2
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : EURALIS-SEMENCES: Service Systèmes d'Informations Recherche
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-informatique-scientifique-2
 
-=======
+==========================================

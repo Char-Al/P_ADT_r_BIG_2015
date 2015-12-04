@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_7" est globalement en : FRA
+[('ENG', 0.6919018087094104), ('FRA', 1.022923934390601)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] site de la SFBI indisponible 6-7 mars
 
@@ -8,23 +14,23 @@ Subject : [bioinfo] site de la SFBI indisponible 6-7 mars
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	la SFBI est en train de migrer son site web www.sfbi.fr sur un nouveau 
 serveur.
 Le site sera donc en principe indisponible de jeudi 6 mars 17h à 
 vendredi 7 mars 11h.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Merci d'avance pour votre compréhension,
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Sophie Schbath
 Présidente de la SFBI
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	-- 
     ___
@@ -40,11 +46,11 @@ Le paragraphe 5 est en : ENG
               (/\\||/      http://www.ssbgroup.fr
      ____________\||/____________________________________________
 
-=======
-Le paragraphe 6 est en : non detect
+==========================================
+Le paragraphe 6 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,11 +60,11 @@ La phrase 1 est en : ENG
 
 la SFBI est en train de migrer son site web www.sfbi.fr sur un nouveau 
 serveur.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Le site sera donc en principe indisponible de jeudi 6 mars 17h à 
 vendredi 7 mars 11h.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Merci d'avance pour votre compréhension,
 
@@ -71,18 +77,18 @@ Présidente de la SFBI
   /=(_)=\\//
   \ =(_) (O}           Unite Mathematique, Informatique & Genome (MIG)
    \_____\\      .--.
-=======
+==========================================
 La phrase 4 est en : FRA
 	INRA - Domaine de Vilvert
     /=(_)\\\   .'_\/_'.
-=======
+==========================================
 La phrase 5 est en : FRA
 	F-78352 Jouy-en-Josas
     \____///   '.
-=======
-La phrase 6 est en : non detect
+==========================================
+La phrase 6 est en : n
 	/\ .'
-=======
+==========================================
 La phrase 7 est en : ENG
 	Tel : +33 1 34 65 28 90
          ())     "||"      Fax : +33 1 34 65 29 01
@@ -92,4 +98,4 @@ La phrase 7 est en : ENG
      ____________\||/____________________________________________
 
 
-=======
+==========================================

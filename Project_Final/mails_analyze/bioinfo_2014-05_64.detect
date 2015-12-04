@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_64" est globalement en : FRA
+[('FRA', 0.40506983420010434), ('ENG', 56.35176497352027)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] poste à l'IRISA (Rennes) en GénomiqueIntégrative
 
@@ -8,34 +14,34 @@ Subject : [bioinfo] poste à l'IRISA (Rennes) en GénomiqueIntégrative
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Veuillez trouvez ci-dessous la description d'un poste dans l'équipe  
 Dyliss (IRISA/INRIA, Rennes) :
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Offre d’emploi en Génomique Intégrative
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Lieu : Rennes
 Employeur :CNRS, UMR IRISA
 Durée : du 1er juin 2014 au 31 décembre 2015
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Compétences requises : Doctorat en bioinformatique ou M2  
 bioinformatique avec une expérience en analyse de données.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Contacts :
 - Fabrice Legeai (INRA, UMR IGEPP, Rennes) : fabrice.legeai@rennes.inra.fr
 - Anne Siegel (CNRS, IRISA, Rennes) : anne.siegel@irisa.fr
 - Denis Tagu (INRA, UMR IGEPP, Rennes) : denis.tagu@rennes.inra.fr
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Contexte :
 Nous recherchons un(e) scientifique(e) pour développer un programme de  
@@ -52,7 +58,7 @@ longs ARN non codants, des marques épigénétiques (méthylation des
 histones, méthylation de l’ADN, accessibilité de l'ADN). Un réseau de  
 régulation autour des microARN a été généré à partir de ces données.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Projet :
 L’étude à mener vise à développer une approche intégrative pour mettre  
@@ -65,7 +71,7 @@ ingénieurs de BIPAA (http://www.bipaa.inra.fr), et de la plateforme
 GenOuest, le scientifique devra proposer des outils permettant  
 d’interroger, de croiser, de visualiser et d’extraire ces données.
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Le scientifique sera affecté au laboratoire d’informatique de Rennes  
 (UMR IRISA), dans l'équipe de bioinformatique IRISA/Inria Dyliss, sous  
@@ -79,7 +85,7 @@ des solutions de stockage (100 Tb), ainsi qu'une importante variété
 d'outils et de banques de données dédiés au traitement et à l'analyse  
 des données biologiques.--
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	--
 Fabrice Legeai
@@ -90,11 +96,11 @@ INRIA/IRISA - équipe GenScale
 adresse : IRISA, Campus Beaulieu, 35042 Rennes cedex
 tel : +33.(0)2.99.84.71.18
 
-=======
-Le paragraphe 11 est en : non detect
+==========================================
+Le paragraphe 11 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -115,7 +121,7 @@ Durée : du 1er juin 2014 au 31 décembre 2015
 
 Compétences requises : Doctorat en bioinformatique ou M2  
 bioinformatique avec une expérience en analyse de données.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Contacts :
 - Fabrice Legeai (INRA, UMR IGEPP, Rennes) : fabrice.legeai@rennes.inra.fr
@@ -127,33 +133,33 @@ Nous recherchons un(e) scientifique(e) pour développer un programme de
 recherche en génomique intégrative dans le cadre d’un programme ANR en  
 cours  
 (http://www6.rennes.inra.fr/igepp/EQUIPES-DE-RECHERCHE/Ecologie-et-Genetique-des-Insectes/Projets/MiRNAdapt2) piloté par Denis Tagu.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Ce programme vise à décrire les mécanismes de régulations géniques lors d’embryogenèses chez un insecte (le puceron du pois) afin d’identifier des fonctions clefs de la plasticité phénotypique.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Il s’agit d’un mécanisme adaptatif qui permet de développer des phénotypes alternatifs à partir d’un même génome, en fonction des conditions environnementales.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Ici, il s‘agit de phénotypes alternatifs concernant le mode de reproduction : en fonction de la photopériode (et donc des saisons), les individus peuvent se multiplier soit par parthénogenèse clonale vivipare soit par reproduction  
 sexuée
 ovipare.
-=======
+==========================================
 La phrase 6 est en : FRA
 	L’IGEPP (INRA, Rennes) a généré de nombreuses données omiques à  
 différents stades de l’embryogénèse du puceron et pour différentes  
 morphes adultes (sexuées ou parthénogénétiques).
-=======
+==========================================
 La phrase 7 est en : FRA
 	Ces données  
 concernent des niveaux d’expression d’ARNm, de microARN, de piARN, de  
 longs ARN non codants, des marques épigénétiques (méthylation des  
 histones, méthylation de l’ADN, accessibilité de l'ADN).
-=======
+==========================================
 La phrase 8 est en : FRA
 	Un réseau de  
 régulation autour des microARN a été généré à partir de ces données.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Projet :
 L’étude à mener vise à développer une approche intégrative pour mettre  
@@ -161,14 +167,14 @@ en relation les différents jeux de données et d’autres
 caractéristiques génomiques (par exemple le type de chromosomes (X ou  
 autosome), la présence d’éléments transposables, les duplications, …)  
 avec le réseau de régulation déjà construit.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Afin de rendre accessible  
 et étudiable par une large communauté, en collaboration avec les  
 ingénieurs de BIPAA (http://www.bipaa.inra.fr), et de la plateforme  
 GenOuest, le scientifique devra proposer des outils permettant  
 d’interroger, de croiser, de visualiser et d’extraire ces données.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Le scientifique sera affecté au laboratoire d’informatique de Rennes  
 (UMR IRISA), dans l'équipe de bioinformatique IRISA/Inria Dyliss, sous  
@@ -176,12 +182,12 @@ la responsabilité d’Anne Siegel, qui développe des méthodes formelles
 pour l’intégration de données, et Fabrice Legeai qui a une forte  
 expérience dans le traitement et l’analyse bioinformatique de données  
 génomiques.
-=======
+==========================================
 La phrase 12 est en : FRA
 	L'équipe est associée à la plateforme de bioinformatique  
 GenOuest qui offre une infrastructure pour le calcul intensif en  
 bioinformatique incluant un cluster de calcul (approx.
-=======
+==========================================
 La phrase 13 est en : FRA
 	300 cpu), et  
 des solutions de stockage (100 Tb), ainsi qu'une importante variété  
@@ -196,9 +202,9 @@ Plantes (IGEPP)
 INRIA/IRISA - équipe GenScale
 adresse : IRISA, Campus Beaulieu, 35042 Rennes cedex
 tel : +33.
-=======
-La phrase 14 est en : non detect
+==========================================
+La phrase 14 est en : n
 	(0)2.99.84.71.18
 
 
-=======
+==========================================

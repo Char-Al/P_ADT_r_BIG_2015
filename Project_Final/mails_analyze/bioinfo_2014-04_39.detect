@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_39" est globalement en : FRA
+[('FRA', 0.707164249392389), ('ENG', 43.08258992087478)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Thèse sur l'indexation de séquences de lymphocytes à Lille
 
@@ -8,21 +14,21 @@ Subject : [bioinfo] Thèse sur l'indexation de séquences de lymphocytes à Lill
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	L'équipe Bonsai (LIFL, Inria) à Lille dispose d'un financement pour une
 thèse en algorithmique du texte appliquée au suivi de la leucémie.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Titre : Indexation de réarrangements lymphoïdes VDJ pour le suivi de la
 leucémie
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Date limite : 30 avril 2014
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Sujet :
 Le but de cette thèse est d'étudier finement la population clonale
@@ -38,11 +44,11 @@ développements algorithmiques (conception d'une structure d'indexation
 adaptée) afin d'améliorer l'information fournie aux cliniciens ou
 biologistes.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Sujet détaillé : http://www.lifl.fr/~salson/these-vdj.pdf
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	*Candidature*
 Nous cherchons une personne ayant de bonnes connaissances en
@@ -54,16 +60,16 @@ candidature veuillez envoyer :
 – trois adresses électroniques de personnes pouvant donner un avis sur
 votre candidature.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Cordialement,
 Mikaël Salson.
 
-=======
-Le paragraphe 9 est en : non detect
+==========================================
+Le paragraphe 9 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -73,7 +79,7 @@ La phrase 1 est en : FRA
 
 L'équipe Bonsai (LIFL, Inria) à Lille dispose d'un financement pour une
 thèse en algorithmique du texte appliquée au suivi de la leucémie.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Titre : Indexation de réarrangements lymphoïdes VDJ pour le suivi de la
 leucémie
@@ -84,31 +90,31 @@ Sujet :
 Le but de cette thèse est d'étudier finement la population clonale
 complète d'un patient atteint de leucémie, en se positionnant  au-delà
 du suivi d'un clone connu lors du diagnostic.
-=======
+==========================================
 La phrase 3 est en : FRA
 	On souhaite pouvoir
 observer l'ensemble des réarrangements V(D)J, leur évolution et leur
 abondance relative.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Les algorithmes développés dans l'équipe de
 bioinformatique Bonsai au sein du logiciel Vidjil suivent déjà
 plusieurs clones au cours du temps, mais ne permettent pour l'instant
 pas de reconstituer « l'histoire évolutive » d'un ensemble de clones.
-=======
+==========================================
 La phrase 5 est en : FRA
 	L'objectif de la thèse est donc d'enrichir Vidjil de nouveaux
 développements algorithmiques (conception d'une structure d'indexation
 adaptée) afin d'améliorer l'information fournie aux cliniciens ou
 biologistes.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Sujet détaillé : http://www.lifl.fr/~salson/these-vdj.pdf
 
 *Candidature*
 Nous cherchons une personne ayant de bonnes connaissances en
 algorithmique du texte avec un goût pour la biologie.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Pour toute
 candidature veuillez envoyer :
@@ -117,10 +123,10 @@ candidature veuillez envoyer :
 – les notes (et classements) de cette année et des deux années précédentes ;
 – trois adresses électroniques de personnes pouvant donner un avis sur
 votre candidature.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Cordialement,
 Mikaël Salson.
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_26" est globalement en : ENG
+[('ENG', 0.4541499486654149), ('FRA', 0.548316752463668)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Postdoctoral Position in String Algorithms for DNA Sequencing
 
@@ -10,46 +16,46 @@ Le paragraphe 1 est en : FRA
 Sujet : 	POSTDOCTORAL POSITION IN STRING ALGORITHMS FOR DNA SEQUENCING
 Date : 	Sun, 07 Dec 2014 15:26:05 +0100
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	POSTDOCTORAL POSITION IN STRING ALGORITHMS FOR DNA SEQUENCING
 
-=======
-Le paragraphe 3 est en : non detect
+==========================================
+Le paragraphe 3 est en : n
 	------------------------------------------------------------------------------------------------------------
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Dear Colleague,
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	I am looking for a postdoc to work on algorithms and software for a
 next-next-gen assembler for long read sequencers.The required attributes
 are:
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	·Training and expertise in the area of combinatorial algorithms (e.g.
 CPM, WABI, RECOMB)
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	·Great coding skills in C and an interest in “algorithm engineering”
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	A desirable additional factor would be direct experience with DNA
 sequence assembly algorithms.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Mygroup is at the Max-Planck Institute for Molecular Biology and
 Genetics in Dresden, Germany.It is primarily an interdisciplinary
 algorithms/software team with a smaller subgroup that builds novel
 microscopes.See Myers Lab Homepage<http://myerslab.mpi-cbg.de>.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	I have two PacBio long read sequencers with which we have already
 produced a significant amount of long read data (600Gbp), and our goal
@@ -59,33 +65,33 @@ specific area one can take a look at the Dazzler Blog
 <http://www.dazzlerblog.wordpress.com>and our recent WABI 2014 Paper
 <http://myerslab.mpi-cbg.de/wp-content/uploads/2014/09/WABI.2014.pdf>
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	The position is available immediately.The prospective candidate should
 send a CV and the name and e-mail contacts for 3 references to
 myers@mpi-cbg.de  <mailto:myers@mpi-cbg.de>.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	Sincerely,
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	Gene Myers
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	Director, Tschira Chair for Systems Biology
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	MPI for Molecular Cell Biology and Genetics
 
-=======
-Le paragraphe 16 est en : non detect
+==========================================
+Le paragraphe 16 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -111,7 +117,7 @@ next-next-gen assembler for long read sequencers.The required attributes
 are:
 
 ·Training and expertise in the area of combinatorial algorithms (e.g.
-=======
+==========================================
 La phrase 2 est en : ENG
 	CPM, WABI, RECOMB)
 
@@ -119,13 +125,13 @@ La phrase 2 est en : ENG
 
 A desirable additional factor would be direct experience with DNA
 sequence assembly algorithms.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Mygroup is at the Max-Planck Institute for Molecular Biology and
 Genetics in Dresden, Germany.It is primarily an interdisciplinary
 algorithms/software team with a smaller subgroup that builds novel
 microscopes.See Myers Lab Homepage<http://myerslab.mpi-cbg.de>.
-=======
+==========================================
 La phrase 4 est en : ENG
 	I have two PacBio long read sequencers with which we have already
 produced a significant amount of long read data (600Gbp), and our goal
@@ -138,7 +144,7 @@ specific area one can take a look at the Dazzler Blog
 The position is available immediately.The prospective candidate should
 send a CV and the name and e-mail contacts for 3 references to
 myers@mpi-cbg.de  <mailto:myers@mpi-cbg.de>.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Sincerely,
 
@@ -149,4 +155,4 @@ Director, Tschira Chair for Systems Biology
 MPI for Molecular Cell Biology and Genetics
 
 
-=======
+==========================================

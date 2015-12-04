@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_52" est globalement en : FRA
+[('FRA', 0.9823840170074475), ('ENG', 1.6193786360443176)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][IE] Chef de projet informatique scientifique
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][IE] Chef de projet informatique scientifique
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Chef de projet informatique scientifique
 Type de poste : IE
@@ -18,13 +24,13 @@ Nom du contact : Sonia GUILLOT
 Email du contact : jobs@discngine.com
 Laboratoire : DISCGINE
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/chef-de-projet-informatique-scientifique
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : DISCGINE
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/chef-de-projet-informatique-scientifique
 
-=======
+==========================================

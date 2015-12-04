@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_50" est globalement en : ENG
+[('ENG', 0.22761483368893876), ('FRA', 0.7684697737025351)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Santorini 2014 conference on systems biology and applications to personalized health and therapy
 
@@ -8,24 +14,24 @@ Subject : [bioinfo] Santorini 2014 conference on systems biology and application
 Le paragraphe 1 est en : FRA
 	Dear Colleague,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	You are kindly invited to participate and possibly contribute an abstract (until end of February) to the upcoming Santorini 2014 conference on systems biology and applications to personalized health and therapy (be it pharmaceutical or nutritional).
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	The Santorini Conferences are bringing together scientists from various origins interested in genetics and biochemical variations in man and its impact on the origin, prediction, prevention, diagnosis and therapy of human multifactorial disorders.   http://www.santorini2014.org/santorini_program.php
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Best wishes,
 François KEPES
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -34,10 +40,10 @@ La phrase 1 est en : ENG
 	Dear Colleague,
 
 You are kindly invited to participate and possibly contribute an abstract (until end of February) to the upcoming Santorini 2014 conference on systems biology and applications to personalized health and therapy (be it pharmaceutical or nutritional).
-=======
+==========================================
 La phrase 2 est en : ENG
 	The Santorini Conferences are bringing together scientists from various origins interested in genetics and biochemical variations in man and its impact on the origin, prediction, prevention, diagnosis and therapy of human multifactorial disorders.
-=======
+==========================================
 La phrase 3 est en : ENG
 	http://www.santorini2014.org/santorini_program.php
 
@@ -45,4 +51,4 @@ Best wishes,
 François KEPES
 
 
-=======
+==========================================

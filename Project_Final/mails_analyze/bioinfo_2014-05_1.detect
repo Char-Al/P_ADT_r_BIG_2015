@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_1" est globalement en : ENG
+[('ENG', 0.3544940985169056), ('FRA', 0.6097182832981526)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Gtpb] IBSTAT14 Introductory Biostatistics - Training course
  announcement
@@ -10,13 +16,13 @@ Le paragraphe 1 est en : ENG
 	
                      GTPB Course Announcement
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	    IMPORTANT DATES for this Course
     Deadline for applications: May 15th 2014
     Course date: June 2nd - June 6th 2014
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	This is one of our "Foundations" type courses, providing a systematic  
 and detailed review of fundamental concepts and techniques in  
@@ -33,20 +39,20 @@ methods that we cover.
 Main topics: Descriptive Statistics; Probability; Statistical  
 Inference; Design of Experiments.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	More information, including instructions for applicants
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Thank you for your interest!
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Pedro Fernandes
 GTPB Coordinator
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	-- 
 Pedro Fernandes
@@ -57,7 +63,7 @@ PORTUGAL
 Tel +351 21 4407912
 http://gtpb.igc.gulbenkian.pt
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	_______________________________________________
 Gtpb mailing list
@@ -65,7 +71,7 @@ Gtpb@igc.gulbenkian.pt
 https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -81,40 +87,40 @@ La phrase 1 est en : ENG
 This is one of our "Foundations" type courses, providing a systematic  
 and detailed review of fundamental concepts and techniques in  
 Biostatistics.
-=======
+==========================================
 La phrase 2 est en : ENG
 	Participants can expect to go through a set of  
 exercises that are based on biomedical problems.
-=======
+==========================================
 La phrase 3 est en : ENG
 	These exercises are  
 preceded by short lectures that are simple to follow.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The lectures are  
 designed to provide the conceptual framework that is needed to release  
 the training power of the exercises, not to flood the participants  
 with formality, which will be kept to a minimum.
-=======
+==========================================
 La phrase 5 est en : ENG
 	We will make use of a  
 highly interactive methodology, taking advantage of our well equipped  
 Bioinformatics training room.
-=======
+==========================================
 La phrase 6 est en : ENG
 	With this approach, we expect to bring  
 the participants to a high degree of usage independence in using the  
 methods that we cover.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Main topics: Descriptive Statistics; Probability; Statistical  
 Inference; Design of Experiments.
-=======
+==========================================
 La phrase 8 est en : ENG
 	More information, including instructions for applicants
 
 Thank you for your interest!
-=======
+==========================================
 La phrase 9 est en : FRA
 	Pedro Fernandes
 GTPB Coordinator
@@ -139,4 +145,4 @@ Gtpb mailing list
 Gtpb@igc.gulbenkian.pt
 https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
-=======
+==========================================

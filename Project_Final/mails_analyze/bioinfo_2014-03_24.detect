@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_24" est globalement en : FRA
+[('FRA', 0.9691993931863891), ('ENG', 1.6176763617346257)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Colloquium UMPC: Claude Berrou
 
@@ -8,25 +14,25 @@ Subject : [bioinfo] Colloquium UMPC: Claude Berrou
 Le paragraphe 1 est en : FRA
 	Bonjour à tous,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	C'est avec plaisir que nous vous convions à assister au prochain exposé
 organisé dans le cadre du Colloquium d'informatique de l'UPMC Sorbonne
 Universités :
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	L'information Mentale
 Claude Berrou
 Telecom Bretagne
 http://colloquium.lip6.fr/Berrou-2014-03-25/  <http://colloquium.lip6.fr/>
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Ce colloquium s'adresse à un public large, et est ouvert à tous les
 chercheurs et étudiants en informatique.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	L'exposé sera en anglais et aura lieu:
 Mardi 25 mars 2014 à 18h
@@ -35,28 +41,28 @@ Université Pierre et Marie Curie
 4, place Jussieu (métro Jussieu)
 75005 Paris
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Pour s'y rendre :
 http://www.upmc.fr/fr/universite/campus_et_sites/a_paris_et_en_idf/jussieu.html
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	La conférence sera diffusée en direct sur
 http://video.upmc.fr/direct.php?id=direct_colloquium_lip6, et sera
 accessible en différé, quelques jours plus tard, à partir de
 colloquium.lip6.fr<http://colloquium.lip6.fr/>.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Un cocktail est prévu à 17h15 en prélude à la conférence.
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	------
 Résumé :
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Notre raison s'appuie sur toutes sortes d'éléments de connaissance
 laborieusement emmagasinés et conservés dans notre réseau cortical
@@ -69,11 +75,11 @@ tout cela reste bien en place. Cette robustesse et cette pérennité de
 l'information mentale peuvent être expliquées par les propriétés du
 codage redondant distribué.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Biographie :
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	Claude Berrou est professeur à Télécom Bretagne. Il a inventé et mis au
 point, avec Alain Glavieux, les turbocodes et les décodeurs itératifs
@@ -89,7 +95,7 @@ dans les sciences de l'information.
 Il est détenteur des 7 prix scientifiques. Son activité de recherche est
 aujourd'hui presque entièrement consacrée à l'intelligence artificielle.
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
@@ -100,11 +106,11 @@ Tel. (33 or 0 from France) 4 67 41 86 64
 Fax. (33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.u-psud.fr
 
-=======
-Le paragraphe 14 est en : non detect
+==========================================
+Le paragraphe 14 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -123,7 +129,7 @@ http://colloquium.lip6.fr/Berrou-2014-03-25/  <http://colloquium.lip6.fr/>
 
 Ce colloquium s'adresse à un public large, et est ouvert à tous les
 chercheurs et étudiants en informatique.
-=======
+==========================================
 La phrase 2 est en : FRA
 	L'exposé sera en anglais et aura lieu:
 Mardi 25 mars 2014 à 18h
@@ -139,10 +145,10 @@ La conférence sera diffusée en direct sur
 http://video.upmc.fr/direct.php?id=direct_colloquium_lip6, et sera
 accessible en différé, quelques jours plus tard, à partir de
 colloquium.lip6.fr<http://colloquium.lip6.fr/>.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Un cocktail est prévu à 17h15 en prélude à la conférence.
-=======
+==========================================
 La phrase 4 est en : FRA
 	------
 Résumé :
@@ -150,7 +156,7 @@ Résumé :
 Notre raison s'appuie sur toutes sortes d'éléments de connaissance
 laborieusement emmagasinés et conservés dans notre réseau cortical
 pendant de nombreuses années.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Malgré les incessantes agressions
 physico-chimiques que nos neurones subissent depuis leur installation
@@ -158,46 +164,46 @@ physico-chimiques que nos neurones subissent depuis leur installation
 les tables de multiplication, les prénoms dans notre famille, Le Corbeau
 et le Renard,
 tout cela reste bien en place.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Cette robustesse et cette pérennité de
 l'information mentale peuvent être expliquées par les propriétés du
 codage redondant distribué.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Biographie :
 
 Claude Berrou est professeur à Télécom Bretagne.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Il a inventé et mis au
 point, avec Alain Glavieux, les turbocodes et les décodeurs itératifs
 associés.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Ces codes ont été les premiers codes correcteurs quasi-optimaux, au sens
 de la théorie de Shannon développée en 1948.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Ils sont aujourd'hui utilisés dans la téléphonie mobile 3G et 4G.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Il a
 ensuite contribué à l'extension du principe turbo
 aux différentes fonctions d'un récepteur de télécommunication
 (turbo-détection, turbo-égalisation, etc.).
-=======
+==========================================
 La phrase 12 est en : FRA
 	Claude Berrou  est l'un des dix scientifiques français les plus cités
 dans les sciences de l'information.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Il est détenteur des 7 prix scientifiques.
-=======
+==========================================
 La phrase 14 est en : FRA
 	Son activité de recherche est
 aujourd'hui presque entièrement consacrée à l'intelligence artificielle.
-=======
+==========================================
 La phrase 15 est en : ENG
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
@@ -205,14 +211,14 @@ CNRS Research Director & Head of GDR Bioinformatique Moléculaire
 LIRMM - UMR 5506 - CC 06 001
 95 Rue de la Galéra - 34095 Montpellier cedex 5 FRANCE
 Tel.
-=======
+==========================================
 La phrase 16 est en : ENG
 	(33 or 0 from France) 4 67 41 86 64
 Fax.
-=======
+==========================================
 La phrase 17 est en : ENG
 	(33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.u-psud.fr
 
 
-=======
+==========================================

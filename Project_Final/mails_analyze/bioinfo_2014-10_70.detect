@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_70" est globalement en : ENG
+[('FRA', 1.225631524957483), ('ENG', 1.402507345491254)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] First EuBIAS and QBI joint meeting in January in Paris
 
@@ -8,27 +14,27 @@ Subject : [bioinfo] First EuBIAS and QBI joint meeting in January in Paris
 Le paragraphe 1 est en : ENG
 	Two imaging-related meetings are coming in the beginning of January 2015 in Paris. We are looking forward to your participation!
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	--->EUBIAS 5, 6 of January, Institut Curie, Paris
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	www.eubias.org/eubias2015
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	The showcase meeting of EuBIAS aims at promoting the use of state-of-art image processing algorithms by increasing the communication within the image analysis community. Developers from various software packages and libraries are invited for presenting their recent activities and Image analysts and biologists will then be updated with the latest scene of the tool development, and at the same time are expected to provide feedback and to get in direct contact with the developers of the tools that they are using in everyday research. Moreover, we will discuss on the further development of bioimage analysis community.  
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Abstract submission deadline: Nov. 1st
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Organizers
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	  Jean Salamero (Institut Curie, Paris)
   Perrine Paul-Gilloteaux (Institut Curie, Paris)
@@ -36,23 +42,23 @@ Le paragraphe 7 est en : FRA
   Sébastien Tosi (IRB, Barcelona)
   Kota Miura (EMBL, Heidelberg)
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	--->QBI,  7, 8, 9 of January, Institut Pasteur, Paris
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	www.quantitativebioimaging.com
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	The Quantitative BioImaging (QBI) 2015 will be the 3rd international conference in this series with focus on the quantitative analysis of bioimaging data in an interdisciplinary manner. It will bring together researchers from engineering, (bio)physics, biology and chemistry who work on quantitative aspects of microscopy.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Organizers:
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	  Jean-Christophe Olivo-Marin (Institut Pasteur, Paris, France)
   Charles Kervrann (Inria Rennes, Rennes, France)
@@ -62,35 +68,35 @@ Le paragraphe 12 est en : ENG
   Bernd Rieger (Delft University of Technology, Netherlands)
   Diane S. Lidke (University of New Mexico, USA)
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	Both Eubias conference and QBI conference are strongly supported by France Bio Imaging (FBI). Eubias conference is supported by the french microscopy society (sfmu). The complete list of sponsors is available on our websites.
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : ENG
 	Two imaging-related meetings are coming in the beginning of January 2015 in Paris.
-=======
+==========================================
 La phrase 2 est en : ENG
 	We are looking forward to your participation!
-=======
+==========================================
 La phrase 3 est en : ENG
 	--->EUBIAS 5, 6 of January, Institut Curie, Paris
 
 www.eubias.org/eubias2015
 
 The showcase meeting of EuBIAS aims at promoting the use of state-of-art image processing algorithms by increasing the communication within the image analysis community.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Developers from various software packages and libraries are invited for presenting their recent activities and Image analysts and biologists will then be updated with the latest scene of the tool development, and at the same time are expected to provide feedback and to get in direct contact with the developers of the tools that they are using in everyday research.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Moreover, we will discuss on the further development of bioimage analysis community.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Abstract submission deadline: Nov. 1st
 
@@ -107,10 +113,10 @@ Organizers
 www.quantitativebioimaging.com
 
 The Quantitative BioImaging (QBI) 2015 will be the 3rd international conference in this series with focus on the quantitative analysis of bioimaging data in an interdisciplinary manner.
-=======
+==========================================
 La phrase 7 est en : ENG
 	It will bring together researchers from engineering, (bio)physics, biology and chemistry who work on quantitative aspects of microscopy.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Organizers:
 
@@ -123,11 +129,11 @@ La phrase 8 est en : ENG
   Diane S. Lidke (University of New Mexico, USA)
 
 Both Eubias conference and QBI conference are strongly supported by France Bio Imaging (FBI).
-=======
+==========================================
 La phrase 9 est en : ENG
 	Eubias conference is supported by the french microscopy society (sfmu).
-=======
+==========================================
 La phrase 10 est en : ENG
 	The complete list of sponsors is available on our websites.
 
-=======
+==========================================

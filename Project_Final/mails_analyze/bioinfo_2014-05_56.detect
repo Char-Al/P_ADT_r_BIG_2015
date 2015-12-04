@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_56" est globalement en : FRA
+[('ENG', 0.47119670895999005), ('FRA', 0.726274046322338)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDI autre] SENIOR BIOSTATISTICIAN - BIOINFORMATICIAN
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : SENIOR BIOSTATISTICIAN - BIOINFORMATICIAN
 Type de poste : CDI autre
@@ -19,16 +25,16 @@ Nom du contact : Isabelle CHARPENTIER
 Email du contact : jobs@genfit.com
 Laboratoire : GENFIT SA
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/senior-biostatistician-bioinformatician
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ http://www.sfbi.fr/content/senior-biostatistician-bioinformatician
 
 
 
-=======
+==========================================

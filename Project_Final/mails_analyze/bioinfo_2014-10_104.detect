@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_104" est globalement en : FRA
+[('FRA', 0.12855874150438382), ('ENG', 19.486691535294554)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] Stage M2 : Prédiction d'intera  ctions entre brins β dans les structures de pr  otéinesà partir de données de coévolution
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Stage M2 : Prédiction d'intera  ctions entr
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Stage M2 : Prédiction d'interactions entre brins β  
 dans les structures de protéines à partir de données de coévolution
@@ -19,13 +25,13 @@ Nom du contact : Jessica Andreani
 Email du contact : jessica.andreani@mpibpc.mpg.de
 Laboratoire : Computational Biology Group (Dr. Johannes Soeding)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-m2-pr%C3%A9diction-dinteractions-entre-brins-%CE%B2-dans-les-structures-de-prot%C3%A9ines-%C3%A0-partir-de
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : Computational Biology Group (Dr. Johannes Soeding)
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-m2-pr%C3%A9diction-dinteractions-entre-brins-%CE%B2-dans-les-structures-de-prot%C3%A9ines-%C3%A0-partir-de
 
-=======
+==========================================

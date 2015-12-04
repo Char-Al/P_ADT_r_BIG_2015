@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_91" est globalement en : ENG
+[('ENG', 0.294432173308555), ('FRA', 0.5710292462842377)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Postdoc in bioinformatics / systems medicine at Max-Planck Institute in Göttingen , Germany
 
@@ -8,51 +14,51 @@ Subject : [bioinfo] Postdoc in bioinformatics / systems medicine at Max-Planck I
 Le paragraphe 1 est en : FRA
 	JOB DESCRIPTION
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Atherosclerosis and its medical sequels, coronary artery disease (CAD) and stroke, are expected to become the leading cause of death worldwide by 2020. We are looking for a postdoctoral researcher with a background in bioinformatics, computational biology, systems medicine, computer science, physics, statistics or related fields to investigate the origins of atherosclerosis using a systems-level approach.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	The project is part of the e:AtheroSysMed consortium, which comprises leading clinical experts on coronary artery disease (CAD) and stroke, statistical geneticists, epidemiologists and computational biologists. Through our collaborators, we have access to unique data (genotypes, transcription, mass spec, methylation) from large clinical GWA studies on CAD and stroke. We want to develop novel methods for statistical modeling and machine learning to analyze these data, integrating them with publicly available functional genomics data. The goal is to identify transcriptional subnetworks that tend to be deregulated in high-risk individuals and that could lead to novel therapeutic or diagnostic targets.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	This project is financed by the German Ministry for Education and Research (BMBF) for 3 years, with the possibility of extension by two years in case of a favorable review of our e:AtheroSysMed consortium. The position is available at the earliest convenience. The salary will be according to TvöD E13 (http://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2014&matrix=1).
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	DESIRED SKILLS AND EXPERIENCE
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	If you are motivated by working to improve the health and quality of life of many, if you are enthusiastic about turning data into insight, if you value a team of dedicated experts that share the same goals, if you cherish the challenge and independence that a job in research offers, if you are skilled and experienced in quantitative data analysis and programming, then we would be very interested to receive your application.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	You will be part of the Computational Biology Group at the Max-Planck Institute for Biophysical Chemistry. We develop statistical and machine learning methods and software to address questions in biology and biomedicine, see http://www.soeding.genzentrum.lmu.de and https://www.mpibpc.mpg.de/de/soeding.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Please send a cover letter briefly summarizing your motivation to apply and why you would fit this project, a Curriculum Vitae, references, a list of publications and study transcripts including grades as a single pdf file to Johannes Söding, soeding@mpibpc.mpg.de
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	About the institute and the Max-Planck Society
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	The Max-Planck Society is Germany’s premier institution for fundamental research. For information about our institute, the largest one in the society, see https://www.mpibpc.mpg.de/en.
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Equal Opportunity Disclaimer: The Max Planck Society seeks to increase the number of women in those areas where they are underrepresented and therefore explicitly encourages women to apply. The Max-Planck society is committed to increasing the number of individuals with disabilities in its workforce and therefore encourages applications from such qualified individuals.
 
-=======
-Le paragraphe 12 est en : non detect
+==========================================
+Le paragraphe 12 est en : n
 	___________________________________________
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	Johannes Soeding
 Computational Biology Group
@@ -63,11 +69,11 @@ Fax: +49 551 201 2803
 Email: soeding@mpibpc.mpg.de
 ___________________________________________
 
-=======
-Le paragraphe 14 est en : non detect
+==========================================
+Le paragraphe 14 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -76,42 +82,42 @@ La phrase 1 est en : ENG
 	JOB DESCRIPTION
 
 Atherosclerosis and its medical sequels, coronary artery disease (CAD) and stroke, are expected to become the leading cause of death worldwide by 2020.
-=======
+==========================================
 La phrase 2 est en : ENG
 	We are looking for a postdoctoral researcher with a background in bioinformatics, computational biology, systems medicine, computer science, physics, statistics or related fields to investigate the origins of atherosclerosis using a systems-level approach.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The project is part of the e:AtheroSysMed consortium, which comprises leading clinical experts on coronary artery disease (CAD) and stroke, statistical geneticists, epidemiologists and computational biologists.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Through our collaborators, we have access to unique data (genotypes, transcription, mass spec, methylation) from large clinical GWA studies on CAD and stroke.
-=======
+==========================================
 La phrase 5 est en : ENG
 	We want to develop novel methods for statistical modeling and machine learning to analyze these data, integrating them with publicly available functional genomics data.
-=======
+==========================================
 La phrase 6 est en : ENG
 	The goal is to identify transcriptional subnetworks that tend to be deregulated in high-risk individuals and that could lead to novel therapeutic or diagnostic targets.
-=======
+==========================================
 La phrase 7 est en : ENG
 	This project is financed by the German Ministry for Education and Research (BMBF) for 3 years, with the possibility of extension by two years in case of a favorable review of our e:AtheroSysMed consortium.
-=======
+==========================================
 La phrase 8 est en : ENG
 	The position is available at the earliest convenience.
-=======
+==========================================
 La phrase 9 est en : ENG
 	The salary will be according to TvöD E13 (http://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2014&matrix=1).
-=======
+==========================================
 La phrase 10 est en : ENG
 	DESIRED SKILLS AND EXPERIENCE
 
 If you are motivated by working to improve the health and quality of life of many, if you are enthusiastic about turning data into insight, if you value a team of dedicated experts that share the same goals, if you cherish the challenge and independence that a job in research offers, if you are skilled and experienced in quantitative data analysis and programming, then we would be very interested to receive your application.
-=======
+==========================================
 La phrase 11 est en : ENG
 	You will be part of the Computational Biology Group at the Max-Planck Institute for Biophysical Chemistry.
-=======
+==========================================
 La phrase 12 est en : ENG
 	We develop statistical and machine learning methods and software to address questions in biology and biomedicine, see http://www.soeding.genzentrum.lmu.de and https://www.mpibpc.mpg.de/de/soeding.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Please send a cover letter briefly summarizing your motivation to apply and why you would fit this project, a Curriculum Vitae, references, a list of publications and study transcripts including grades as a single pdf file to Johannes Söding, soeding@mpibpc.mpg.de
 
@@ -119,16 +125,16 @@ La phrase 13 est en : ENG
 About the institute and the Max-Planck Society
 
 The Max-Planck Society is Germany’s premier institution for fundamental research.
-=======
+==========================================
 La phrase 14 est en : ENG
 	For information about our institute, the largest one in the society, see https://www.mpibpc.mpg.de/en.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Equal Opportunity Disclaimer: The Max Planck Society seeks to increase the number of women in those areas where they are underrepresented and therefore explicitly encourages women to apply.
-=======
+==========================================
 La phrase 16 est en : ENG
 	The Max-Planck society is committed to increasing the number of individuals with disabilities in its workforce and therefore encourages applications from such qualified individuals.
-=======
+==========================================
 La phrase 17 est en : ENG
 	___________________________________________
 
@@ -145,4 +151,4 @@ ___________________________________________
 
 
 
-=======
+==========================================

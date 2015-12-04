@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_16" est globalement en : FRA
+[('FRA', 0.15641394559734334), ('ENG', 2.283631423130784)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] Développementd’une interfac  e utilisateur pour un nouvel outil d’identifi  cation de groupes de gènes co- régulés et de   clustérisation des données (CORGI).
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Développementd’une interfac  e utilisateu
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Développement d’une interface utilisateur pour un  
 nouvel outil d’identification de groupes de gènes co-régulés et de  
@@ -20,13 +26,13 @@ Nom du contact : Sandra Pelletier
 Email du contact : contact-bioinfo.irhs@angers.inra.fr
 Laboratoire : IRHS UMR1345 INRA/AGROCAMPUS-Ouest/Université d’Angers
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-d%E2%80%99une-interface-utilisateur-pour-un-nouvel-outil-d%E2%80%99identification-de-groupes-d
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -37,7 +43,7 @@ La phrase 1 est en : FRA
 Intitulé du poste : Développement d’une interface utilisateur pour un  
 nouvel outil d’identification de groupes de gènes co-régulés et de  
 clustérisation des données (CORGI).
-=======
+==========================================
 La phrase 2 est en : FRA
 	Type de poste : Stage
 Durée du poste : 6 mois
@@ -49,4 +55,4 @@ Laboratoire : IRHS UMR1345 INRA/AGROCAMPUS-Ouest/Université d’Angers
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-d%E2%80%99une-interface-utilisateur-pour-un-nouvel-outil-d%E2%80%99identification-de-groupes-d
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_92" est globalement en : FRA
+[('ENG', 0.5039731806617034), ('FRA', 0.8111427383611363)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDI autre] Bioinformaticien
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDI autre] Bioinformaticien
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformaticien
 Type de poste : CDI autre
@@ -19,16 +25,16 @@ Email du contact : yannick.blanchard@anses.fr
 Laboratoire : Agence Nationale de Sécurité Sanitaire (ANSES), Unité
 Génétique Virale et Biosécurité
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformaticien-8
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformaticien-8
 
 
-=======
+==========================================

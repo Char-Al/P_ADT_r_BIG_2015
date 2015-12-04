@@ -1,14 +1,20 @@
 Le mail "bioinfo_2014-10_27" est globalement en : ENG
+[('ENG', 0.5189525006515243), ('FRA', 0.7733059118742981)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] 2 Postdoctoral Positions at CEA
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : non detect
+Le paragraphe 1 est en : n
 	
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	The CEA (Commisariat à l’Energie Atomique et aux Energies Alternatives), 
 in order to sustain its research activities on Genetics and Personalized 
@@ -20,7 +26,7 @@ numériques intelligents) are offering 2 postdoctoral positions to
 develop computational approaches/pipelines to integrate and analyze 
 large scale genomics data for diagnostic purposes.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Following recent advances in high throughput sequencing, it is expected 
 that, in the near future, more and more individuals will have their 
@@ -32,7 +38,7 @@ before genome sequencing being a routine diagnostic solution. In this
 context, the CEA aims to develop a platform to analyze, store and 
 process the genomes able to scale up with the growth of the generated data.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	1/ Post-Doctoral Fellowship: Clinical Genomics:
 The postdoctoral holder will define and participate to the development 
@@ -55,7 +61,7 @@ genomics approaches. The postdoc will be engaged into active
 collaborations with fundamentals (math, statistics, computational) 
 groups located at Palaiseau (about 30 kms).
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	We are seeking individuals with a strong background in genomics and/or 
 computer sciences, and expertise with biological data-handling, 
@@ -64,12 +70,12 @@ would be appreciated.
 Contacts: François Artiguenave (artigue@cng.fr), Lorène Allano 
 (Lorene.Allano@cea.fr)
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	2/ Post-Doctoral Fellowship: Optimized variants calling by integration 
 of supervised and unsupervised methods:
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Detection of variants in the human genome is usually based on mapping of 
 reads on a reference genome. However parts of genomes are very complex 
@@ -101,16 +107,16 @@ applications.
 [Iqbal12] Iqbal Z, Caccamo M, Turner I, Flicek P, McVean G, (2012) De 
 novo assembly and genotyping of variants using colored de Bruijn graphs.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Contacts: Lorène Allano (Lorene.Allano@cea.fr), François Artiguenave 
 (artigue@cng.fr
 
-=======
-Le paragraphe 9 est en : non detect
+==========================================
+Le paragraphe 9 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -122,7 +128,7 @@ The CEA (Commisariat à l’Energie Atomique et aux Energies Alternatives),
 in order to sustain its research activities on Genetics and Personalized 
 Medicine is initiating a new flagship program at the frontier between 
 biology and information technologies.
-=======
+==========================================
 La phrase 2 est en : FRA
 	As part of this iniative, the 
 CEA/DSV/IG/CNG (Institut de Génomique – Centre National de Génotypage) 
@@ -130,71 +136,71 @@ and the CEA/DRT/LIST (Direction de la Recherche Technologique – Systèmes
 numériques intelligents) are offering 2 postdoctoral positions to 
 develop computational approaches/pipelines to integrate and analyze 
 large scale genomics data for diagnostic purposes.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Following recent advances in high throughput sequencing, it is expected 
 that, in the near future, more and more individuals will have their 
 whole genome extracted, stored and analyzed in a routine fashion.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Although this perspective is full of promises in terms of personalized 
 preventive and curative medicine, as well as medical research, it raises 
 different technological and methodological challenges to be solved 
 before genome sequencing being a routine diagnostic solution.
-=======
+==========================================
 La phrase 5 est en : ENG
 	In this 
 context, the CEA aims to develop a platform to analyze, store and 
 process the genomes able to scale up with the growth of the generated data.
-=======
+==========================================
 La phrase 6 est en : ENG
 	1/ Post-Doctoral Fellowship: Clinical Genomics:
 The postdoctoral holder will define and participate to the development 
 of an analytical workflow to interpret whole genome sequencing.
-=======
+==========================================
 La phrase 7 est en : ENG
 	He will 
 have to:
 - Define an analytical workflow (pipelines) to predict diagnostic status 
 based on sequencing and defined markers.
-=======
+==========================================
 La phrase 8 est en : ENG
 	For this task, he will have to 
 explore impact of technological biases on the clinical predictions 
 (sequencing coverage issues, reproducibilty issues) and uncertainty 
 about clinically reportable findings.
-=======
+==========================================
 La phrase 9 est en : ENG
 	- Build a reference genotype/phenotype knowledge database by integrating 
 and curating different resources (pubmed, HGMD, clinVar, Omim, Cosmics…).
-=======
+==========================================
 La phrase 10 est en : ENG
 	- Implement, in collaboration with bioinformaticians from the CNG 
 (Centre National de Génotypage, Evry) and mathematicians from the LIST, 
 a full prototype demonstrating robustness, scalability, and security.
-=======
+==========================================
 La phrase 11 est en : ENG
 	The position is located at Evry (CEA, Centre National de Genotypage).
-=======
+==========================================
 La phrase 12 est en : ENG
 	Successful candidates will join a young and multidisciplinary 
 bioinformatics team playing a central role in the development of novel 
 genomics approaches.
-=======
+==========================================
 La phrase 13 est en : ENG
 	The postdoc will be engaged into active 
 collaborations with fundamentals (math, statistics, computational) 
 groups located at Palaiseau (about 30 kms).
-=======
+==========================================
 La phrase 14 est en : ENG
 	We are seeking individuals with a strong background in genomics and/or 
 computer sciences, and expertise with biological data-handling, 
 modeling, and bioinformatics.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Additional background in clinical genetics 
 would be appreciated.
-=======
+==========================================
 La phrase 16 est en : FRA
 	Contacts: François Artiguenave (artigue@cng.fr), Lorène Allano 
 (Lorene.Allano@cea.fr)
@@ -206,70 +212,70 @@ of supervised and unsupervised methods:
 
 Detection of variants in the human genome is usually based on mapping of 
 reads on a reference genome.
-=======
+==========================================
 La phrase 17 est en : ENG
 	However parts of genomes are very complex 
 and changing for one individual to another and mapping based approach 
 are not sufficient.
-=======
+==========================================
 La phrase 18 est en : ENG
 	In this case, it has been proposed to integrate 
 mapping based approaches to assembly based methods [Rimmer14].
-=======
+==========================================
 La phrase 19 est en : ENG
 	This 
 approach is very promising but still presents some limits such as the 
 size of reads to be aligned.
-=======
+==========================================
 La phrase 20 est en : FRA
 	An example of unsupervised methods is De 
 Bruijn graph to represent overlapping information in reads.
-=======
+==========================================
 La phrase 21 est en : ENG
 	This type of 
 graph could be generalized to several samples into “colored De Bruijn 
 Graph” [Iqbal12].
-=======
+==========================================
 La phrase 22 est en : ENG
 	These are promising methods but there are still some 
 open questions to apply it in complex zones such as HLA (human leukocyte 
 antigen).
-=======
+==========================================
 La phrase 23 est en : ENG
 	The position is located at Saclay (CEA LIST).
-=======
+==========================================
 La phrase 24 est en : ENG
 	Successful candidates will 
 join a young and multidisciplinary applied mathematics team.
-=======
+==========================================
 La phrase 25 est en : ENG
 	The postdoc will be engaged into active collaborations with the 
 bioinformatics team of (Centre National de Genotypage) located at Evry 
 (about 30 kms).
-=======
+==========================================
 La phrase 26 est en : ENG
 	We are seeking PhD in applied Mathematics with a strong background in 
 optimization and graph theory.
-=======
+==========================================
 La phrase 27 est en : ENG
 	Additional background in genetics would 
 be appreciated.
-=======
+==========================================
 La phrase 28 est en : ENG
 	Candidates with a strong qualification and experience can also be 
 eligible to the CEA Enhanced Eurotalents program funded by the European 
 Commission and operated by CEA to promote and to support the mobility of 
 scientists.
-=======
+==========================================
 La phrase 29 est en : ENG
 	[Rimmer14] Rimmer A et al., (2014) Integrating mapping-, assembly- and 
 haplotype-based approaches for calling variants in clinical sequencing 
 applications.
-=======
+==========================================
 La phrase 30 est en : ENG
 	[Iqbal12] Iqbal Z, Caccamo M, Turner I, Flicek P, McVean G, (2012) De 
 novo assembly and genotyping of variants using colored de Bruijn graphs.
-=======
+==========================================
 La phrase 31 est en : FRA
 	Contacts: Lorène Allano (Lorene.Allano@cea.fr), François Artiguenave 
 (artigue@cng.fr
@@ -277,4 +283,4 @@ La phrase 31 est en : FRA
 
 
 
-=======
+==========================================

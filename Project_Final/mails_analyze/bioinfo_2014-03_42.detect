@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_42" est globalement en : FRA
+[('FRA', 0.55474351437176), ('ENG', 1.263234710582353)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][ Thèse ] Models and algorithms for the analyses of gene alternative transcripts, with applications to health issues
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][ Thèse ] Models and algorithms for the analyses of
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Models and algorithms for the analyses of gene 
 alternative transcripts, with applications to health issues
@@ -19,16 +25,16 @@ Nom du contact : Mikaël Salson
 Email du contact : Mikael.Salson@lifl.fr
 Laboratoire : INRIA Lille / LIFL / Université Lille 1
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/models-and-algorithms-analyses-gene-alternative-transcripts-applications-health-issues
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -49,4 +55,4 @@ Voir la description complète du poste sur
 http://www.sfbi.fr/content/models-and-algorithms-analyses-gene-alternative-transcripts-applications-health-issues
 
 
-=======
+==========================================

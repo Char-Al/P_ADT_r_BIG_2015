@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_19" est globalement en : FRA
+[('ENG', 0.2390521584790125), ('FRA', 0.4001426592598778)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] High-dimensional Prediction Models for Identifying
  Cancer Driver Mutations
@@ -10,7 +16,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : High-dimensional Prediction Models for Identifying
 Cancer Driver Mutations
@@ -22,16 +28,16 @@ Email du contact : Stefan.MICHIELS@gustaveroussy.fr
 Laboratoire : Biostatistics and Epidemiology Unit of Gustave Roussy Cancer
 Center
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/high-dimensional-prediction-models-identifying-cancer-driver-mutations
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -55,4 +61,4 @@ http://www.sfbi.fr/content/high-dimensional-prediction-models-identifying-cancer
 
 
 
-=======
+==========================================

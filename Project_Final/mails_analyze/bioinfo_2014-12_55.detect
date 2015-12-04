@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_55" est globalement en : ENG
+[('FRA', 0.3569760442808901), ('ENG', 2.2156023112108953)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Stage Master M2, modélisationmoléculaire , Sanofi R&D
 
@@ -8,31 +14,31 @@ Subject : [bioinfo] Stage Master M2, modélisationmoléculaire , Sanofi R&D
 Le paragraphe 1 est en : FRA
 	Annonce d’ouverture de stage Master M2 (modélisation moléculaire), Sanofi R&D
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Title: Molecular modelling of nanoparticles for drug delivery
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Description:
 Formulation of drugs in nanoparticles is a major research field in pharmaceutical sciences. The identification of optimal drug – polymer matrix matches is a critical step in the development of such formulations. The proposed internship project is integrated in the establishment of novel in silico approaches in our department to support the design of nanoparticles for drug delivery by molecular modelling. The project requires parameterization of coarse-grain models and modelling amphiphilic co-polymer self-assembly in aqueous media (see e.g. G. Srinivas et al. J. Phys. Chem. B 2004, 108, 8153). The successful candidate will use molecular dynamics simulations with Gromacs and Desmond molecular dynamics codes.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Benefit to internship student:
 Practical experience in small molecule and polymer modelling to support drug-nanoparticle formulation; insight into industrial applied research in a well-established, experienced team in the department Structure, Design, and Informatics; the results of the project will be published in peer-reviewed journals; the candidate will have an opportunity to interact with people from Marie-Curie Initial Training Network “NANODRUG”.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Requirements:
 Master M2 level with knowledge in molecular modelling, computational and physical chemistry acquired during university course work and internships; basic knowledge in programming, scripting, and computing; good scientific English (oral & written communication); autonomous and pro-active mind-set.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Length of internship, envisioned start & localization:
 6 month starting in January/February 2014; Vitry-sur-Seine. Supervisors: Dr. Andrey FROLOV and Dr. Anke STEINMETZ.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Interested candidates, please, address Curriculum Vitae and letter of motivation to:
 Mr. Andrey FROLOV, PhD
@@ -47,7 +53,7 @@ Tel: +33 (0)1 58 93 33 16
 E-mail : andrey dot frolov at sanofi dot com
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -59,46 +65,46 @@ Title: Molecular modelling of nanoparticles for drug delivery
 
 Description:
 Formulation of drugs in nanoparticles is a major research field in pharmaceutical sciences.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The identification of optimal drug – polymer matrix matches is a critical step in the development of such formulations.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The proposed internship project is integrated in the establishment of novel in silico approaches in our department to support the design of nanoparticles for drug delivery by molecular modelling.
-=======
+==========================================
 La phrase 4 est en : FRA
 	The project requires parameterization of coarse-grain models and modelling amphiphilic co-polymer self-assembly in aqueous media (see e.g.
-=======
+==========================================
 La phrase 5 est en : ENG
 	G. Srinivas et al.
-=======
+==========================================
 La phrase 6 est en : ENG
 	J. Phys.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Chem.
-=======
+==========================================
 La phrase 8 est en : ENG
 	B 2004, 108, 8153).
-=======
+==========================================
 La phrase 9 est en : ENG
 	The successful candidate will use molecular dynamics simulations with Gromacs and Desmond molecular dynamics codes.
-=======
+==========================================
 La phrase 10 est en : ENG
 	Benefit to internship student:
 Practical experience in small molecule and polymer modelling to support drug-nanoparticle formulation; insight into industrial applied research in a well-established, experienced team in the department Structure, Design, and Informatics; the results of the project will be published in peer-reviewed journals; the candidate will have an opportunity to interact with people from Marie-Curie Initial Training Network “NANODRUG”.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Requirements:
 Master M2 level with knowledge in molecular modelling, computational and physical chemistry acquired during university course work and internships; basic knowledge in programming, scripting, and computing; good scientific English (oral & written communication); autonomous and pro-active mind-set.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Length of internship, envisioned start & localization:
 6 month starting in January/February 2014; Vitry-sur-Seine.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Supervisors: Dr. Andrey FROLOV and Dr. Anke STEINMETZ.
-=======
+==========================================
 La phrase 14 est en : ENG
 	Interested candidates, please, address Curriculum Vitae and letter of motivation to:
 Mr. Andrey FROLOV, PhD
@@ -112,4 +118,4 @@ Centre de recherche Vitry-sur-Seine
 Tel: +33 (0)1 58 93 33 16
 E-mail : andrey dot frolov at sanofi dot com
 
-=======
+==========================================

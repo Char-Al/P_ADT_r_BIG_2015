@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_96" est globalement en : FRA
+[('FRA', 0.5274301023528861), ('ENG', 3.3938018290658394)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][ Thèse ] PhD positions in German-Canadian bioinformatics program
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : PhD positions in German-Canadian bioinformatics program
 Type de poste : Thèse
@@ -20,16 +26,16 @@ Email du contact : didy@uni-bielefeld.de
 Laboratoire : Computational Methods for the Analysis of the Diversity and
 Dynamics of Genomes
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/phd-positions-german-canadian-bioinformatics-program
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -52,4 +58,4 @@ http://www.sfbi.fr/content/phd-positions-german-canadian-bioinformatics-program
 
 
 
-=======
+==========================================

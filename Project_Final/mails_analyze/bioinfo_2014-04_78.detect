@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_78" est globalement en : FRA
+[('ENG', 0.49539532631643446), ('FRA', 0.8719003131373211)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformaticien / Bioanalyste
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformaticien / Bioanalyste
 Type de poste : Post-doc / IR
@@ -19,16 +25,16 @@ Nom du contact : Christophe Battail
 Email du contact : cbattail@cng.fr
 Laboratoire : Centre National de Génotypage
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformaticien-bioanalyste
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -51,4 +57,4 @@ http://www.sfbi.fr/content/bioinformaticien-bioanalyste
 
 
 
-=======
+==========================================

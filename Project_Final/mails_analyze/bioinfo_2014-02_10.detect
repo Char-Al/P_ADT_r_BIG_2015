@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_10" est globalement en : FRA
+[('FRA', 1.4056661849282799), ('ENG', 1.4257003937344064)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Offre CDD Biostatistiques
 
@@ -8,16 +14,16 @@ Subject : [bioinfo] Offre CDD Biostatistiques
 Le paragraphe 1 est en : FRA
 	Bonjour, 
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Veuillez trouver ci-jointe une offre de CDD de 6 mois pour un poste d'ingénieur à l'ISEM de Montpellier.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	*Mission*
 Dans le cadre d'un projet visant à différentier des séquences nucléotidiques par méthodes mathématiques, nous recherchons un ingénieur d'étude pour une durée de 6 mois, à compter du 1er mars 2014. Le/la candidat(e) s'attachera à déterminer des modèles mathématiques et des méthodes statistiques les plus aptes à différencier lesdites séquences à partir des travaux que nous avons déjà réalisés. Si le temps le permet, le/la candidat(e) concevra une interface conviviale qui permettra de réaliser ces opérations de façon automatique, et de visualiser les résultats sous forme graphique.   
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	*Compétences souhaitées*
 - Master en mathématiques appliquées, en biostatistique ou en biomathématique ;
@@ -25,17 +31,17 @@ Le paragraphe 4 est en : FRA
 - autonomie, esprit d'initative;
 - bon niveau d'anglais.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	*Lieu*
 Ce travail sera réalisé à l'Université Montpellier 2, au sein de l'Institut des Sciences de l'Evolution de Montpellier (ISEM), en collaboration étroite avec le Laboratoire de Physique Industrielle et Traitement de l'Information de l'Université Montpellier 1.
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	*Rémunération*
 Suivant les grilles de la fonction publique, sera fonction du type de diplôme et du niveau d'expérience. 
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	*Candidature*
 Merci d'adresser une lettre de motivation accompagnée d'un CV détaillé à:
@@ -43,13 +49,13 @@ Christelle Reynes (christelle.reynes@univ-montp1.fr), Maître de Conférences au
 et
 Jean-Christophe Avarre (jean-christophe.avarre@ird.fr), chercheur à l'Institut des Sciences de l'Evolution de Montpellier 
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	-- 
 --------------------------------------------
              Christelle REYNES
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	     Laboratoire de Physique Industrielle       
         et Traitement de l'Information
@@ -63,11 +69,11 @@ Le paragraphe 9 est en : FRA
 <  .  > 
 --"-"----------------------------------------
 
-=======
-Le paragraphe 10 est en : non detect
+==========================================
+Le paragraphe 10 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -76,32 +82,32 @@ La phrase 1 est en : FRA
 	Bonjour, 
 
 Veuillez trouver ci-jointe une offre de CDD de 6 mois pour un poste d'ingénieur à l'ISEM de Montpellier.
-=======
+==========================================
 La phrase 2 est en : FRA
 	*Mission*
 Dans le cadre d'un projet visant à différentier des séquences nucléotidiques par méthodes mathématiques, nous recherchons un ingénieur d'étude pour une durée de 6 mois, à compter du 1er mars 2014.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Le/la candidat(e) s'attachera à déterminer des modèles mathématiques et des méthodes statistiques les plus aptes à différencier lesdites séquences à partir des travaux que nous avons déjà réalisés.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Si le temps le permet, le/la candidat(e) concevra une interface conviviale qui permettra de réaliser ces opérations de façon automatique, et de visualiser les résultats sous forme graphique.
-=======
+==========================================
 La phrase 5 est en : FRA
 	*Compétences souhaitées*
 - Master en mathématiques appliquées, en biostatistique ou en biomathématique ;
 - très bonnes connaissances de la programmation sous R;
 - autonomie, esprit d'initative;
 - bon niveau d'anglais.
-=======
+==========================================
 La phrase 6 est en : FRA
 	*Lieu*
 Ce travail sera réalisé à l'Université Montpellier 2, au sein de l'Institut des Sciences de l'Evolution de Montpellier (ISEM), en collaboration étroite avec le Laboratoire de Physique Industrielle et Traitement de l'Information de l'Université Montpellier 1.
-=======
+==========================================
 La phrase 7 est en : FRA
 	*Rémunération*
 Suivant les grilles de la fonction publique, sera fonction du type de diplôme et du niveau d'expérience.
-=======
+==========================================
 La phrase 8 est en : FRA
 	*Candidature*
 Merci d'adresser une lettre de motivation accompagnée d'un CV détaillé à:
@@ -118,7 +124,7 @@ Jean-Christophe Avarre (jean-christophe.avarre@ird.fr), chercheur à l'Institut 
         et Traitement de l'Information
 		    EA 2415
      UFR Pharmacie - Univ.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Montpellier 1
     15, avenue Charles Flahault - BP 14491
@@ -127,10 +133,10 @@ La phrase 9 est en : FRA
             Tel : 04 11 75 96 83           
  (o,o)      Fax : 04 11 75 97 27   
 <  .
-=======
-La phrase 10 est en : non detect
+==========================================
+La phrase 10 est en : n
 	> 
 --"-"----------------------------------------
 
 
-=======
+==========================================

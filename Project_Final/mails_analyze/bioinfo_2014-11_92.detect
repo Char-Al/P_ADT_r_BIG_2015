@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_92" est globalement en : FRA
+[('FRA', 0.23471080062281327), ('ENG', 1.7716008633565241)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Simulation de cellules   bactériennes
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDD Ingénieur ] Simulation de cellules   bactérie
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Simulation de cellules bactériennes
 Type de poste : CDD Ingénieur
@@ -18,13 +24,13 @@ Nom du contact : anne goelzer
 Email du contact : anne.goelzer@jouy.inra.fr
 Laboratoire : MIG
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/simulation-de-cellules-bact%C3%A9riennes
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : MIG
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/simulation-de-cellules-bact%C3%A9riennes
 
-=======
+==========================================

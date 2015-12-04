@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_14" est globalement en : FRA
+[('FRA', 0.467235867512078), ('ENG', 3.690345191292543)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][PR] Professeur de Biologie Moléculair  e et Epigénétique
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][PR] Professeur de Biologie Moléculair  e et Epigé
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Professeur de Biologie Moléculaire et Epigénétique
 Type de poste : PR
@@ -18,13 +24,13 @@ Nom du contact : Hervé Daniel
 Email du contact : herve.daniel@u-psud.fr
 Laboratoire : Institut de Biologie intégrative de la Cellule (I2BC)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/professeur-de-biologie-mol%C3%A9culaire-et-epig%C3%A9n%C3%A9tique
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : Institut de Biologie intégrative de la Cellule (I2BC)
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/professeur-de-biologie-mol%C3%A9culaire-et-epig%C3%A9n%C3%A9tique
 
-=======
+==========================================

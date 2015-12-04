@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_56" est globalement en : FRA
+[('ENG', 0.6332561064178723), ('FRA', 0.8616786631769453)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post Doc Protein Function
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Post Doc Protein Function
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Post Doc Protein Function
 Type de poste : Post-doc / IR
@@ -18,13 +24,13 @@ Nom du contact : Igor N. Berezovsky, PhD
 Email du contact : igorb@bii.a-star.edu.sg
 Laboratoire : Bioinformatics Institute
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-protein-function
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : Bioinformatics Institute
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-protein-function
 
-=======
+==========================================

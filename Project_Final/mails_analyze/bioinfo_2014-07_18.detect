@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_18" est globalement en : FRA
+[('ENG', 0.2951182354702025), ('FRA', 0.4619130978803571)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Postdoc in Ancient DNA and Evolutionary Genomics
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Postdoc in Ancient DNA and Evolutionary Genomics
 Type de poste : Post-doc / IR
@@ -19,16 +25,16 @@ Nom du contact : Ludovic Orlando
 Email du contact : orlando.ludovic@gmail.com
 Laboratoire : Centre for GeoGenetics, University of Copenhagen, Denmark
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/postdoc-ancient-dna-and-evolutionary-genomics
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ http://www.sfbi.fr/content/postdoc-ancient-dna-and-evolutionary-genomics
 
 
 
-=======
+==========================================

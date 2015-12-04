@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_58" est globalement en : FRA
+[('ENG', 1.2729354720673258), ('FRA', 1.3874022704773579)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] formation bioinformatique NGS
 
@@ -9,21 +15,21 @@ Le paragraphe 1 est en : FRA
 	
 Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Au printemps 2015, la plateforme ATGC organise une formation en 
 bioinformatique pour l'analyse de données de séquençage haut débit à 
 Montpellier (campus du CNRS route de Mende) :
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	http://cnrsformation.cnrs.fr/stage.php?stage=15205
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Dates:  du mardi 24/03/2015 au vendredi 27/03/2015.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Objectifs :
 - Savoir choisir les outils d'analyse
@@ -33,25 +39,25 @@ Le paragraphe 5 est en : FRA
 - Etre capable d'évaluer la qualité des données
 - Savoir analyser avec ou sans génome de référence
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Prérequis
 - Notions de base en informatique : fichiers, répertoire...
 - Notions du système linux et des lignes de commandes
 - Niveau master
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Les inscriptions se font sur le site web de la formation ou auprès de 
 CNRS Formation.
 Pour toute information complémentaire contactez : atgc-hts@lirmm.fr
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	bien cordialement
 Eric Rivals
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
@@ -62,11 +68,11 @@ Tel. (33 or 0 from France) 4 67 41 86 64
 Fax. (33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 
-=======
-Le paragraphe 10 est en : non detect
+==========================================
+Le paragraphe 10 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -82,7 +88,7 @@ Montpellier (campus du CNRS route de Mende) :
 http://cnrsformation.cnrs.fr/stage.php?stage=15205
 
 Dates:  du mardi 24/03/2015 au vendredi 27/03/2015.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Objectifs :
 - Savoir choisir les outils d'analyse
@@ -99,7 +105,7 @@ Prérequis
 
 Les inscriptions se font sur le site web de la formation ou auprès de 
 CNRS Formation.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Pour toute information complémentaire contactez : atgc-hts@lirmm.fr
 
@@ -112,14 +118,14 @@ CNRS Research Director & Head of GDR Bioinformatique Moléculaire
 LIRMM - UMR 5506 & Univ Montpellier 2 (CC 05016)
 860 rue de St Priest - 34095 Montpellier cedex 5 FRANCE
 Tel.
-=======
+==========================================
 La phrase 4 est en : ENG
 	(33 or 0 from France) 4 67 41 86 64
 Fax.
-=======
+==========================================
 La phrase 5 est en : ENG
 	(33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 
 
-=======
+==========================================

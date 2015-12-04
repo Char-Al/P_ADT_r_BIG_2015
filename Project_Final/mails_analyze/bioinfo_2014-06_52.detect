@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_52" est globalement en : ENG
+[('FRA', 1.7592200907450495), ('ENG', 16.016621204302304)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Offre de thèse / PhD position
 
@@ -13,7 +19,7 @@ protéines et capsides virales est financée pour 3 ans (début avant fin
 Description de la thèse à
 http://www.edit.u-psud.fr/sujets_2014/BRESSANELLI_ingenierie_2014.pdf
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	A PhD position is open for 3 years, to be filled before the end of 2014, 
 at CEA Saclay in the Paris area. The PhD candidate will apply modelling 
@@ -38,14 +44,14 @@ domains) and all-atom parts (e.g. the N-terminal arm). The strategy for
 or more rational (molecular design) approaches will be used at this 
 stage, followed by simulations.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Contacts:
 stephane.bressanelli@vms.cnrs-gif.fr
 Yves.BOULARD@cea.fr
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -55,67 +61,67 @@ La phrase 1 est en : FRA
 Une thèse portant sur des simulations de dynamiques moléculaires de 
 protéines et capsides virales est financée pour 3 ans (début avant fin 
 2014) au CEA Saclay en région parisienne.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Description de la thèse à
 http://www.edit.u-psud.fr/sujets_2014/BRESSANELLI_ingenierie_2014.pdf
 
 A PhD position is open for 3 years, to be filled before the end of 2014, 
 at CEA Saclay in the Paris area.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The PhD candidate will apply modelling 
 and molecular dynamics simulations (MD) to the question of Norovirus 
 assembly under the guidance of Yves Boulard (MD, modeling) and Stéphane 
 Bressanelli (Structure analysis, modeling).
-=======
+==========================================
 La phrase 4 est en : ENG
 	This computational work will 
 be central in
 1) Determining whether the unexpected NB2 assembly mechanisms (Tresset, 
 JACS 2013) are conserved in human Noroviruses with >50% sequence 
 divergence between genogroups.
-=======
+==========================================
 La phrase 5 est en : ENG
 	2) Unraveling the role of the N-terminal arms in promoting or delaying 
 protein-protein interactions to direct self-assembly first into the 
 intermediate(s), then into the final capsid.
-=======
+==========================================
 La phrase 6 est en : ENG
 	3) Assessing likely targets for chemical compounds along the Norovirus 
 assembly pathway(s) by in silico screening.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Several simulation approaches will be combined: Coarse-grained (package 
 GROMACS) for a faster but less precise exploration followed by all-atom 
 (suite AMBER 12) for the more interesting structures.
-=======
+==========================================
 La phrase 8 est en : ENG
 	We will also study 
 hybrid systems with both coarse-grained parts (e.g.
-=======
+==========================================
 La phrase 9 est en : ENG
 	the two VP1 rigid 
 domains) and all-atom parts (e.g.
-=======
+==========================================
 La phrase 10 est en : ENG
 	the N-terminal arm).
-=======
+==========================================
 La phrase 11 est en : ENG
 	The strategy for 
 3) will depend on results in 1) and 2).
-=======
+==========================================
 La phrase 12 est en : ENG
 	Combinatory (e.g.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Monte Carlo) 
 or more rational (molecular design) approaches will be used at this 
 stage, followed by simulations.
-=======
+==========================================
 La phrase 14 est en : ENG
 	Contacts:
 stephane.bressanelli@vms.cnrs-gif.fr
 Yves.BOULARD@cea.fr
 
-=======
+==========================================

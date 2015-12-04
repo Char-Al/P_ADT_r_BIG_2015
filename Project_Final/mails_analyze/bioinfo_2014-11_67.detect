@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_67" est globalement en : FRA
+[('FRA', 0.3043640942434449), ('ENG', 4.394670399894767)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] IngénieurDévelop peme  nt / Administrateur de données
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDD Ingénieur ] IngénieurDévelop peme  nt / Admi
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : IngénieurDéveloppement / Administrateur de données
 Type de poste : CDD Ingénieur
@@ -18,13 +24,13 @@ Nom du contact : Baglinière Jean-Luc
 Email du contact : jean-luc.bagliniere@rennes.inra.fr
 Laboratoire : INRA Ecologie et Santé des Ecosystèmes
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieurd%C3%A9veloppement-administrateur-de-donn%C3%A9es
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : INRA Ecologie et Santé des Ecosystèmes
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieurd%C3%A9veloppement-administrateur-de-donn%C3%A9es
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_25" est globalement en : FRA
+[('FRA', 0.3076985067939969), ('ENG', 1.6994869535512802)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] Conception d’une banque de do  nnées MS/MS de protéines
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Conception d’une banque de do  nnées MS/M
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Conception d’une banque de données MS/MS de  
 protéines
@@ -19,13 +25,13 @@ Nom du contact : Pech
 Email du contact : catherine.pech@sanofi.com
 Laboratoire : Sanofi Aventis
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/conception-d%E2%80%99une-banque-de-donn%C3%A9es-msms-de-prot%C3%A9ines
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : Sanofi Aventis
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/conception-d%E2%80%99une-banque-de-donn%C3%A9es-msms-de-prot%C3%A9ines
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_1" est globalement en : FRA
+[('ENG', 0.5364312017403586), ('FRA', 0.9501902489724245)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Postdoctoral Position - RNA Biology - High
  Throughput Sequencing
@@ -10,7 +16,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Postdoctoral Position - RNA Biology - High Throughput
 Sequencing
@@ -21,16 +27,16 @@ Nom du contact : Michele
 Email du contact : mtrabucchi@unice.fr
 Laboratoire : Control of Gene Expression/ INSERM U1065
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/postdoctoral-position-rna-biology-high-throughput-sequencing
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -53,4 +59,4 @@ http://www.sfbi.fr/content/postdoctoral-position-rna-biology-high-throughput-seq
 
 
 
-=======
+==========================================

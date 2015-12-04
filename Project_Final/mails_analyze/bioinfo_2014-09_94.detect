@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_94" est globalement en : ENG
+[('ENG', 0.2345083083025108), ('FRA', 0.42578142463149315)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Special Issue On "Epigenomics Analysis in Cellular Models of
  Biology and Disease"
@@ -9,21 +15,21 @@ Subject : [bioinfo] Special Issue On "Epigenomics Analysis in Cellular Models of
 Le paragraphe 1 est en : FRA
 	Dear colleagues,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Let me kindly inform you that BioMed Research International is now welcoming the submission of original research works as well as review articles on "Epigenomics Analysis in Cellular Models of Biology and Disease”. More information can be found here: http://www.hindawi.com/journals/bmri/si/420450/cfp/ .
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	BioMed Research International (BMRI) is an open access journal, which means that all published articles are made freely available online without a subscription, and authors retain the copyright of their work. Moreover, all published articles will be made available on PubMed Central and indexed in PubMed at the time of publication. The most recent Impact Factor for BioMed Research International is 2.706 according to Journal Citation Reports released by Thomson Reuters (ISI).
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Manuscript Due: Friday, 20 March 2015
 First Round of Reviews: Friday, 12 June 2015
 Publication Date: Friday, 7 August 2015
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Best regards,
 ---
@@ -35,16 +41,16 @@ Centre for Translational Medicine
 Singapore 117599
 Office phone: (+65) 6516 1025 :: Fax: (+65) 6873 9664
 
-=======
-Le paragraphe 6 est en : non detect
+==========================================
+Le paragraphe 6 est en : n
 	________________________________
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Important: This email is confidential and may be privileged. If you are not the intended recipient, please delete it and notify us immediately; you should not copy or use it for any purpose, nor disclose its contents to any other person. Thank you.
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -53,19 +59,19 @@ La phrase 1 est en : ENG
 	Dear colleagues,
 
 Let me kindly inform you that BioMed Research International is now welcoming the submission of original research works as well as review articles on "Epigenomics Analysis in Cellular Models of Biology and Disease”.
-=======
+==========================================
 La phrase 2 est en : ENG
 	More information can be found here: http://www.hindawi.com/journals/bmri/si/420450/cfp/ .
-=======
+==========================================
 La phrase 3 est en : ENG
 	BioMed Research International (BMRI) is an open access journal, which means that all published articles are made freely available online without a subscription, and authors retain the copyright of their work.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Moreover, all published articles will be made available on PubMed Central and indexed in PubMed at the time of publication.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The most recent Impact Factor for BioMed Research International is 2.706 according to Journal Citation Reports released by Thomson Reuters (ISI).
-=======
+==========================================
 La phrase 6 est en : ENG
 	Manuscript Due: Friday, 20 March 2015
 First Round of Reviews: Friday, 12 June 2015
@@ -85,11 +91,11 @@ Office phone: (+65) 6516 1025 :: Fax: (+65) 6873 9664
 ________________________________
 
 Important: This email is confidential and may be privileged.
-=======
+==========================================
 La phrase 7 est en : ENG
 	If you are not the intended recipient, please delete it and notify us immediately; you should not copy or use it for any purpose, nor disclose its contents to any other person.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Thank you.
 
-=======
+==========================================

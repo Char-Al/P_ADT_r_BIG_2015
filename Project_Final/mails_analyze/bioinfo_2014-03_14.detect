@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_14" est globalement en : ENG
+[('ENG', 0.49097090621128586), ('FRA', 1.1583432068474244)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Fwd: PhD and Postdoc Position in Computational Biology
 
@@ -8,36 +14,36 @@ Subject : [bioinfo] Fwd: PhD and Postdoc Position in Computational Biology
 Le paragraphe 1 est en : FRA
 	Dear Colleagues,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	My lab has an opening for a Ph.D. candidate or Postdoctoral fellow.
 Please send to interested candidates.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	best regards,
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Ivan G. Costa
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	The Computational Biology Group of Interdisciplinary Center for
 Clinical Research (IZKF) Aachen, RWTH Aachen University Hospital,
 Aachen, invites applicants for PhD candidate or postdoctoral position
 in computational biology in one of the following topics:
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	1) Statistical machine learning methods for the analysis of medical
 epigenomics data.
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	2) Sequence analysis algorithms for detection of RNA-DNA interactions.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Applicants should hold a M.Sc . or PhD in Computer Science or related
 areas. Experience in the analysis of biological sequences, gene
@@ -46,7 +52,7 @@ solid programming skills (C, Python and/or R) and acquaintance with
 Linux. Experience with high performance computing is a plus. The
 working language of the group is English.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	The position is based on the German TV-L 13 salary scale, including
 all German social benefits (health insurance and pension scheme). The
@@ -54,14 +60,14 @@ expected starting date is September 2014. Interested candidates should
 send a CV, statement of research interests and the names of three
 references to jobs@costalab.org.
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	www.costalab.org
 IZKF Computational Biology Research Group
 RWTH University Hospital Aachen
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -70,10 +76,10 @@ La phrase 1 est en : ENG
 	Dear Colleagues,
 
 My lab has an opening for a Ph.D. candidate or Postdoctoral fellow.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Please send to interested candidates.
-=======
+==========================================
 La phrase 3 est en : ENG
 	best regards,
 
@@ -87,49 +93,49 @@ in computational biology in one of the following topics:
 
 1) Statistical machine learning methods for the analysis of medical
 epigenomics data.
-=======
+==========================================
 La phrase 4 est en : FRA
 	2) Sequence analysis algorithms for detection of RNA-DNA interactions.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Applicants should hold a M.Sc .
-=======
+==========================================
 La phrase 6 est en : ENG
 	or PhD in Computer Science or related
 areas.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Experience in the analysis of biological sequences, gene
 expression and gene regulation is desirable.
-=======
+==========================================
 La phrase 8 est en : ENG
 	The candidate should have
 solid programming skills (C, Python and/or R) and acquaintance with
 Linux.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Experience with high performance computing is a plus.
-=======
+==========================================
 La phrase 10 est en : ENG
 	The
 working language of the group is English.
-=======
+==========================================
 La phrase 11 est en : ENG
 	The position is based on the German TV-L 13 salary scale, including
 all German social benefits (health insurance and pension scheme).
-=======
+==========================================
 La phrase 12 est en : FRA
 	The
 expected starting date is September 2014.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Interested candidates should
 send a CV, statement of research interests and the names of three
 references to jobs@costalab.org.
-=======
+==========================================
 La phrase 14 est en : ENG
 	www.costalab.org
 IZKF Computational Biology Research Group
 RWTH University Hospital Aachen
 
-=======
+==========================================

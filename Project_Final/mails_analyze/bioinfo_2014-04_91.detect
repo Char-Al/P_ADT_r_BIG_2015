@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_91" est globalement en : FRA
+[('FRA', 0.9186826832965683), ('ENG', 9.699083789182778)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Concours pour la bannière du site ECCB'14
 
@@ -8,25 +14,25 @@ Subject : [bioinfo] Concours pour la bannière du site ECCB'14
 Le paragraphe 1 est en : FRA
 	Bonjour à tous,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Pour rappel, le concours pour la bannière du site ECCB'14 est ouvert à tous jusqu'au 5 mai (même si vous n'êtes pas inscrits à la conférence). 
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Vous avez encore quelques jours pour participer avec à la clef la possibilité de gagner l'admiration éternelle de toute la communauté internationale bioinformatique (et aussi un iPad..).
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	http://www.eccb14.org/guidelines/banner-contest
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Bonne chance !
 Le comité d'organisation ECCB'14
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -35,16 +41,16 @@ La phrase 1 est en : FRA
 	Bonjour à tous,
 
 Pour rappel, le concours pour la bannière du site ECCB'14 est ouvert à tous jusqu'au 5 mai (même si vous n'êtes pas inscrits à la conférence).
-=======
+==========================================
 La phrase 2 est en : FRA
 	Vous avez encore quelques jours pour participer avec à la clef la possibilité de gagner l'admiration éternelle de toute la communauté internationale bioinformatique (et aussi un iPad..).
-=======
+==========================================
 La phrase 3 est en : ENG
 	http://www.eccb14.org/guidelines/banner-contest
 
 Bonne chance !
-=======
+==========================================
 La phrase 4 est en : FRA
 	Le comité d'organisation ECCB'14
 
-=======
+==========================================

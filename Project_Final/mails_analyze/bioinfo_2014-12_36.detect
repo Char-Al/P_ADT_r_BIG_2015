@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_36" est globalement en : FRA
+[('ENG', 0.2893977153063125), ('FRA', 0.7295082746246784)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : Re: [bioinfo] Symposium HTS-ADEFACE 9 avril 2015
 
@@ -8,11 +14,11 @@ Subject : Re: [bioinfo] Symposium HTS-ADEFACE 9 avril 2015
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Petite précision : lors de votre inscription, si vous ne faites pas parti du réseau HTS-ADEFACE, merci d'indiquer votre adresse mail en plus de votre nom et prénom ou d'envoyer un mail à Myriam Harry (myriam.harry@legs.cnrs-gif.fr) pour lui indiquer vos coordonnées. Cela nous permettra de vous recontacter avec les détails de la journée.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	> Le 05 déc. 2014 à 15:06, Julien Fumey <julien.fumey@legs.cnrs-gif.fr> a écrit :
 > 
@@ -42,11 +48,11 @@ Le paragraphe 3 est en : FRA
 > http://www.sfbi.fr
 > Archives : http://listes.sfbi.fr/wws/arc/bioinfo
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -55,26 +61,26 @@ La phrase 1 est en : FRA
 	Bonjour,
 
 Petite précision : lors de votre inscription, si vous ne faites pas parti du réseau HTS-ADEFACE, merci d'indiquer votre adresse mail en plus de votre nom et prénom ou d'envoyer un mail à Myriam Harry (myriam.harry@legs.cnrs-gif.fr) pour lui indiquer vos coordonnées.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Cela nous permettra de vous recontacter avec les détails de la journée.
-=======
+==========================================
 La phrase 3 est en : FRA
 	> Le 05 déc.
-=======
+==========================================
 La phrase 4 est en : FRA
 	2014 à 15:06, Julien Fumey <julien.fumey@legs.cnrs-gif.fr> a écrit :
 > 
 > Bonjour,
 > 
 > Comme l'an passé le réseau HTS supporté par le labex BASC (campus Paris Saclay) organise sur une journée, le 9 avril 2015, un symposium autour du séquençage à haut débit (HTS) et de l'Adaptation Des Eucaryotes FACE aux changements globaux.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Quatre thématiques ont été identifiées (Transcriptomique, Traces de sélection; Epigénomique, variants structuraux) avec comme format trois orateurs (dont un invité) par thématique.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Des posters pourront être également présentés.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Ce symposium est gratuit, le réseau prendra en charge votre repas du midi mais l' INSCRIPTION EST OBLIGATOIRE  (avant le 15 janvier)
 > 
@@ -82,13 +88,13 @@ La phrase 7 est en : FRA
 > http://doodle.com/emqndcc2xzkqtx8z  en indiquant
 > - si vous serez présent au symposium (9h30-18h, lieu à préciser selon le nombre de participants) ET INDIQUER A COTE DE VOTRE NOM sur le doodle VOTRE ADRESSE email ou m'envoyer un mail (myriam.harry@legs.cnrs-gif.fr) SI VOUS N'ETES PAS INSCRIT AU RESEAU (ce qui n'est pas obligatoire pour participer au symposium)
 > - si vous souhaitez présenter un poster ou une communication.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Dans ce cas, faites moi parvenir avant le 9 février un résumé par mail (myriam.harry@legs.cnrs-gif.fr).
-=======
+==========================================
 La phrase 9 est en : FRA
 	Le comité d'organisation du symposium se réunira pour sélectionner les communications.
-=======
+==========================================
 La phrase 10 est en : FRA
 	> - si vous souhaitez déjeuner
 > - si vous souhaitez vous inscrire au réseau (si vous n'êtes pas encore inscrit)
@@ -109,4 +115,4 @@ La phrase 10 est en : FRA
 > Archives : http://listes.sfbi.fr/wws/arc/bioinfo
 
 
-=======
+==========================================

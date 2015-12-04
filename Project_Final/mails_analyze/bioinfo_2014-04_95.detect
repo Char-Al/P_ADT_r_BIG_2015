@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_95" est globalement en : FRA
+[('FRA', 0.33613095384852215), ('ENG', 1.7635326594639187)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDI autre] Chef de Projet en analyse de donnéesgénomiques
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Chef de Projet en analyse de données génomiques
 Type de poste : CDI autre
@@ -19,16 +25,16 @@ Nom du contact : contact-cit
 Email du contact : contact-cit@ligue-cancer.net
 Laboratoire : Equipe du programme CIT - Ligue nationale contre le cancer
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/chef-de-projet-en-analyse-de-donn%C3%A9es-g%C3%A9nomiques
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ http://www.sfbi.fr/content/chef-de-projet-en-analyse-de-donn%C3%A9es-g%C3%A9nomi
 
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_62" est globalement en : FRA
+[('FRA', 1.4543308093018015), ('ENG', 2.5514081465239253)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] MODIS - Ingénieur bioinformatique JAVA JEE
 
@@ -10,11 +16,11 @@ Le paragraphe 1 est en : FRA
 Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
 En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique. Elle sappuie sur un réseau de 7 agences. Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie. Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Pour renforcer nos équipes, nous recherchons un ingénieur bioinformatique JAVA/ JEE qui aura pour mission :
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Rattaché(e) au responsable et en lien étroit avec le chef de projet, vous interviendrez sur lévolution dune application de gestion de centre de ressources biologiques de micro-organismes :
 Vous serez principalement chargé(e) :
@@ -34,43 +40,43 @@ Diplômé BAC + 5 (écoles dIngénieur) ou équivalent en Bio-informatique, vo
 Idéalement vous disposez également de connaissances en microbiologie, et dun intérêt pour ce secteur.
 Vous savez travailler en équipe et vous êtes force de proposition. On vous reconnaît des qualités de méthodes et de rigueur, même lorsque vous devez gérer plusieurs sujets en parallèle.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée. 
 Pour découvrir lensemble des postes ouverts, notre culture, nos atouts  Rendez-vous directement sur notre site www.modisfrance.fr. 
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Ce poste est ouvert à tous.
 En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
 
-=======
-Le paragraphe 6 est en : non detect
+==========================================
+Le paragraphe 6 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
 La phrase 1 est en : FRA
 	MODIS société internationale réalise un CA de 2,4 milliard deuros en 2012.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
-=======
+==========================================
 La phrase 3 est en : FRA
 	En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Elle sappuie sur un réseau de 7 agences.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Pour renforcer nos équipes, nous recherchons un ingénieur bioinformatique JAVA/ JEE qui aura pour mission :
 
@@ -81,7 +87,7 @@ Vous serez principalement chargé(e) :
 - De réaliser linterface avec dautres bases de données
 - Deffectuer un travail de récupération et dintégration de données
 - De participer au traitement des améliorations requises pour répondre aux nouveaux besoins et à lévolution de la réglementation.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Diplômé BAC + 5 (écoles dIngénieur) ou équivalent en Bio-informatique, vous disposez des compétences suivantes :
 - Expérience confirmée en JAVA / JEE (JSF2, Hibernate, Maven)
@@ -91,22 +97,22 @@ La phrase 8 est en : FRA
 - Maitrise de langlais (lu, écrit)
  
 Idéalement vous disposez également de connaissances en microbiologie, et dun intérêt pour ce secteur.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Vous savez travailler en équipe et vous êtes force de proposition.
-=======
+==========================================
 La phrase 10 est en : FRA
 	On vous reconnaît des qualités de méthodes et de rigueur, même lorsque vous devez gérer plusieurs sujets en parallèle.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Pour découvrir lensemble des postes ouverts, notre culture, nos atouts  Rendez-vous directement sur notre site www.modisfrance.fr.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Ce poste est ouvert à tous.
-=======
+==========================================
 La phrase 14 est en : FRA
 	En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
 
@@ -114,4 +120,4 @@ La phrase 14 est en : FRA
 
 
 
-=======
+==========================================

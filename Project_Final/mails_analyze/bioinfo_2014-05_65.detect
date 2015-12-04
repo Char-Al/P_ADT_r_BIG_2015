@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-05_65" est globalement en : ENG
+[('ENG', 0.612386024425533), ('FRA', 1.2599901250542471)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Postdoctoral position in Bio-CAD for Synthetic Biology
 
@@ -17,11 +23,11 @@ Qualifications: The successful candidate will have a recent Ph.D. in biology, ch
 We offer a competitive compensation package, which will be commensurate upon qualifications and experience. Applicants should send their CV, a cover letter, and three names of references to Prof. Jean-Loup Faulon to the following contact e-mail address: brs-job@issb.genopole.fr
  
 
-=======
-Le paragraphe 2 est en : non detect
+==========================================
+Le paragraphe 2 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -30,37 +36,37 @@ La phrase 1 est en : ENG
 	Postdoctoral position in Bio-CAD for Synthetic Biology
  
 The institute of Systems and Synthetic Biology (iSSB) has an immediate opening to develop Computer-Aided Design tools for Synthetic Biology applications.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The institute is part of Genopole, a consortium of leading research academic and private laboratories in genomics, post-genomics and related sciences.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The job location is in Evry, 35 km south of Paris, 30 min by suburban train.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Job Description: The position awardee (1 year renewable) will join iSSB’s Bio-RetroSynth team and will be responsible for developing software based on in-house chemical fingerprints and kernel methods to design novel metabolic pathways.
-=======
+==========================================
 La phrase 5 est en : ENG
 	More information on the work the research team is currently pursuing can be found in Nucleic Acids Res 2014, PMID: 24792156 and ACS Synth.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Biol.
-=======
+==========================================
 La phrase 7 est en : ENG
 	2013, PMID: 24131345, as well as at http://www.issb.genopole.fr/~faulon.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Qualifications: The successful candidate will have a recent Ph.D. in biology, chemistry or computer science.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Essential qualifications include background knowledge in machine learning applied to bioinformatics and/or cheminformatics and excellent programming skills in languages such as C++, Java, Perl, Python, PHP, as well as scientific software (R or Matlab).
-=======
+==========================================
 La phrase 10 est en : ENG
 	Experience with software project development, strong collaborative skills and ability to work and communicate in a team environment are also desirable.
-=======
+==========================================
 La phrase 11 est en : ENG
 	We offer a competitive compensation package, which will be commensurate upon qualifications and experience.
-=======
+==========================================
 La phrase 12 est en : ENG
 	Applicants should send their CV, a cover letter, and three names of references to Prof. Jean-Loup Faulon to the following contact e-mail address: brs-job@issb.genopole.fr
  
@@ -71,4 +77,4 @@ La phrase 12 est en : ENG
 
 
 
-=======
+==========================================

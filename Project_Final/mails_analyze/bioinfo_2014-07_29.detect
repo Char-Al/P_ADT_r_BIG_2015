@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_29" est globalement en : FRA
+[('ENG', 0.5279824938024144), ('FRA', 0.8642707154211126)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Sciences en Marche en BD
 
@@ -9,11 +15,11 @@ Le paragraphe 1 est en : ENG
 	De la part de Patrick Lemaire
 ---------------------------------
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Une BD signée Aurélien Miralles a été réalisée pour présenter Sciences 
 En Marche, la grande marche pour la défense des sciences et de 
@@ -22,22 +28,22 @@ Une très belle initiative pour expliquer en images et avec humour la
 situation catastrophique de la recherche et de l'enseignement supérieur 
 français et pour proposer des solutions.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Si vous n'aimez ni les Sciences ni la BD, ne partagez surtout pas ce 
 lien avec vos contacts dans le monde académique et dans le grand 
 public!!! http://sciencesenmarche.org/fr/sciencesenmarche-en-bd/
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Pour en savoir plus sur Sciences en Marche et nous rejoindre, visitez le 
 site SciencesEnMarche.org et abonnez vous à notre liste de diffusion.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Patrick Lemaire pour le collectif Sciences en Marche
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Patrick Lemaire
 CRBM
@@ -47,11 +53,11 @@ France
 http://www.crbm.cnrs.fr/index.php/en/patrick-lemaire-uk
 email: patrick.lemaire@crbm.cnrs.fr
 
-=======
-Le paragraphe 8 est en : non detect
+==========================================
+Le paragraphe 8 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -65,23 +71,23 @@ Bonjour,
 Une BD signée Aurélien Miralles a été réalisée pour présenter Sciences 
 En Marche, la grande marche pour la défense des sciences et de 
 l'enseignement supérieur qui se déroulera du 27 septembre au 19 octobre.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Une très belle initiative pour expliquer en images et avec humour la 
 situation catastrophique de la recherche et de l'enseignement supérieur 
 français et pour proposer des solutions.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Si vous n'aimez ni les Sciences ni la BD, ne partagez surtout pas ce 
 lien avec vos contacts dans le monde académique et dans le grand 
 public!!!
-=======
+==========================================
 La phrase 4 est en : FRA
 	http://sciencesenmarche.org/fr/sciencesenmarche-en-bd/
 
 Pour en savoir plus sur Sciences en Marche et nous rejoindre, visitez le 
 site SciencesEnMarche.org et abonnez vous à notre liste de diffusion.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Patrick Lemaire pour le collectif Sciences en Marche
 
@@ -94,4 +100,4 @@ http://www.crbm.cnrs.fr/index.php/en/patrick-lemaire-uk
 email: patrick.lemaire@crbm.cnrs.fr
 
 
-=======
+==========================================

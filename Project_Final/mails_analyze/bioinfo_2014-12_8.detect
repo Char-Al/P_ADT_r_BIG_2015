@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_8" est globalement en : FRA
+[('ENG', 0.331476025078388), ('FRA', 0.5370323856334569)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Stage] STAGIAIRE INGENIEUR EN BIOINFORMATIQUE (Ontology, Reasoning, Resistome)
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] STAGIAIRE INGENIEUR EN BIOINFORMATIQUE (Onto
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : STAGIAIRE INGENIEUR EN BIOINFORMATIQUE (Ontology,  
 Reasoning, Resistome)
@@ -19,13 +25,13 @@ Nom du contact : Stéphane Schicklin
 Email du contact : stephane.schicklin@biomerieux.com
 Laboratoire : bioMérieux
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stagiaire-ingenieur-en-bioinformatique-ontology-reasoning-resistome
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : bioMérieux
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stagiaire-ingenieur-en-bioinformatique-ontology-reasoning-resistome
 
-=======
+==========================================

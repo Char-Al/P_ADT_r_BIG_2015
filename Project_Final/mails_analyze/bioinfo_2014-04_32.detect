@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_32" est globalement en : ENG
+[('FRA', 1.2159849296648237), ('ENG', 129.92744592109312)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] projets de thèseà Inria Nancy
 
@@ -8,21 +14,21 @@ Subject : [bioinfo] projets de thèseà Inria Nancy
 Le paragraphe 1 est en : FRA
 	Bonjour à tous et toutes,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Deux projets de thèse en bioinformatique structurale sont proposés à 
 Inria Nancy, les deux par l'entrée en concurrence:
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Project #1: Multi-Component Protein Assembly Using Dynamic Programming 
 and Distance Constraints.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	http://www.inria.fr/institut/recrutement-metiers/offres/theses/campagne-2014/%28view%29/details.html?id=PGTFK026203F3VBQB6G68LONZ&LOV5=4509&LOV2=4490&LOV28=7838&LG=FR&Resultsperpage=20&nPostingID=8507&nPostingTargetID=14278&option=52&sort=DESC&nDepartmentID=28
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	This project is offered through Inria's annual competitive entry 
 recruitment campaign (closing date 4th May 2014). If selected, the 
@@ -32,30 +38,30 @@ details and to apply on-line. This project is also advertised on the
 IAEM doctoral school web site (closing date: 01 June 2014 for a doctoral 
 school bursary):
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	http://www.adum.fr/as/ed/voirproposition.pl?langue=&site=IAEM&matricule_prop=6418
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Project #2: Large-Scale Exploration of 3D Protein Domain Family Binding 
 Sites.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	This project is offered by competitive entry through the IAEM doctoral 
 school (closing date: 01 June 2014). If selected, the successful 
 candidate will be given a salary for three years at the standard rate:
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	http://www.adum.fr/as/ed/voirproposition.pl?langue=&site=IAEM&matricule_prop=6417
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	The working languages at Inria Nancy are French and English.
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	-- 
 E: dave.ritchie@inria.fr
@@ -67,15 +73,15 @@ P: INRIA Nancy Grand Est, LORIA
    54600 Villers-les-Nancy
    France
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	W: http://www.loria.fr/~ritchied/
 
-=======
-Le paragraphe 13 est en : non detect
+==========================================
+Le paragraphe 13 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -88,22 +94,22 @@ Inria Nancy, les deux par l'entrée en concurrence:
 
 Project #1: Multi-Component Protein Assembly Using Dynamic Programming 
 and Distance Constraints.
-=======
+==========================================
 La phrase 2 est en : ENG
 	http://www.inria.fr/institut/recrutement-metiers/offres/theses/campagne-2014/%28view%29/details.html?id=PGTFK026203F3VBQB6G68LONZ&LOV5=4509&LOV2=4490&LOV28=7838&LG=FR&Resultsperpage=20&nPostingID=8507&nPostingTargetID=14278&option=52&sort=DESC&nDepartmentID=28
 
 This project is offered through Inria's annual competitive entry 
 recruitment campaign (closing date 4th May 2014).
-=======
+==========================================
 La phrase 3 est en : ENG
 	If selected, the 
 successful candidate will be given a salary for three years at the 
 standard Inria doctoral rate.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Please follow the above link for more 
 details and to apply on-line.
-=======
+==========================================
 La phrase 5 est en : ENG
 	This project is also advertised on the 
 IAEM doctoral school web site (closing date: 01 June 2014 for a doctoral 
@@ -113,11 +119,11 @@ http://www.adum.fr/as/ed/voirproposition.pl?langue=&site=IAEM&matricule_prop=641
 
 Project #2: Large-Scale Exploration of 3D Protein Domain Family Binding 
 Sites.
-=======
+==========================================
 La phrase 6 est en : ENG
 	This project is offered by competitive entry through the IAEM doctoral 
 school (closing date: 01 June 2014).
-=======
+==========================================
 La phrase 7 est en : ENG
 	If selected, the successful 
 candidate will be given a salary for three years at the standard rate:
@@ -125,7 +131,7 @@ candidate will be given a salary for three years at the standard rate:
 http://www.adum.fr/as/ed/voirproposition.pl?langue=&site=IAEM&matricule_prop=6417
 
 The working languages at Inria Nancy are French and English.
-=======
+==========================================
 La phrase 8 est en : ENG
 	-- 
 E: dave.ritchie@inria.fr
@@ -140,4 +146,4 @@ P: INRIA Nancy Grand Est, LORIA
 W: http://www.loria.fr/~ritchied/
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_39" est globalement en : FRA
+[('FRA', 0.43428109434486356), ('ENG', 22.701839252016196)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ]  Ingénieur / Développeur analyse de données NGS àvisée diagnostique
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDD Ingénieur ]  Ingénieur / Développeur analyse
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Ingénieur/Développeur analyse de données NGS à visée 
 diagnostique
@@ -20,16 +26,16 @@ Email du contact : marie.detayrac@univ-rennes1.fr
 Laboratoire : CHU Rennes Pontchaillou, Service de Génétique Moléculaire 
 et Génomique (UF 3143 de Génomique Médicale)
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/ingénieurdéveloppeur-analyse-de-données-ngs-à-visée-diagnostique
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -52,4 +58,4 @@ http://www.sfbi.fr/content/ingénieurdéveloppeur-analyse-de-données-ngs-à-vis
 
 
 
-=======
+==========================================

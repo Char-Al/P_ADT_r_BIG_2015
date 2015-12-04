@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_57" est globalement en : FRA
+[('ENG', 0.45060612043926007), ('FRA', 0.7003713174839609)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : Re: [bioinfo] Offre de poste :Bio-informaticien/Informaticien(e) 
      Calcul scientifique NOEMI CNRS
@@ -11,7 +17,7 @@ Le paragraphe 1 est en : FRA
 Intitulé du poste : Ingénieur en Informatique, Statistique et Calcul
 Scientifique  Développement et Déploiement dApplications. NOEMI CNRS
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Missions:
 L'ingénieur en Informatique, Statistiques et Calcul Scientifique sera
@@ -23,11 +29,11 @@ dadapter, en interaction étroite avec les chercheurs, des logiciels
 danalyses ou de traitement du signal existant aux besoins spécifiques des
 équipes de l'UMR.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Contraintes particulières: Pas de contraintes particulières
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Activités:
 Compétences:
@@ -37,22 +43,22 @@ statistique, traitement de signal, traitement dimage.
 - Maitrise des bases de données relationnelles. Langage (Matlab, R
 ,Labview).
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Aptitudes
 - Savoir travailler en équipe
 - Avoir un sens réel de la vie en laboratoire, et de l'organisation
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Diplôme(s) souhaité(s): Niveau bac +5 (M2, école d'ingénieur....)
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Expérience professionnelle souhaitée:
 Avoir déjà une expérience de laboratoire, et des publications scientifiques
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Justification de la demande:
 Nous avons développé au sein de lUMR un laboratoire dédié à lanalyse de
@@ -74,7 +80,7 @@ développement denvironnement danalyse plus spécifique ; suivie vidéo
 danimaux sur de longues périodes, participer à limplantation dappareil
 de mesure sur les souris.
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Le poste est de niveau IE ou IR. Il est ouvert à la mobilité pour le
 laboratoire Neuroscience Paris Seine en BAP E; la personne doit être en
@@ -82,7 +88,7 @@ poste au CNRS. Cette personne sera également amenée à travailler dans le
 cadre de projets industriels et de recherche clinique avec des
 applications possibles au niveau des diagnostiques cliniques.
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	-- 
 Laure Rondi-Reig, PhD, CNRS Research Director
@@ -94,11 +100,11 @@ Neuroscience Paris Seine, UMR8246 CNRS/U1130 Inserm/ UMCR18 UPMC
 F-75005, Paris, France
 Phone:   +33-1 44 27 20 44
 
-=======
-Le paragraphe 11 est en : non detect
+==========================================
+Le paragraphe 11 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -107,7 +113,7 @@ La phrase 1 est en : FRA
 	
 Intitulé du poste : Ingénieur en Informatique, Statistique et Calcul
 Scientifique  Développement et Déploiement dApplications.
-=======
+==========================================
 La phrase 2 est en : FRA
 	NOEMI CNRS
 
@@ -115,19 +121,19 @@ La phrase 2 est en : FRA
 Missions:
 L'ingénieur en Informatique, Statistiques et Calcul Scientifique sera
 chargé de lanalyse et du traitement de données.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Ces données seront de
 plusieurs types: électrophysiologiques, comportementales... Il sagira de
 développer ou mettre en place des programmes spécifiques danalyses, de la
 base de données aux traitements de données.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Il sera par ailleurs chargé
 dadapter, en interaction étroite avec les chercheurs, des logiciels
 danalyses ou de traitement du signal existant aux besoins spécifiques des
 équipes de l'UMR.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Contraintes particulières: Pas de contraintes particulières
 
@@ -135,17 +141,17 @@ Activités:
 Compétences:
 - Adaptation et mise en uvre de méthodes danalyses mathématiques:
 statistique, traitement de signal, traitement dimage.
-=======
+==========================================
 La phrase 6 est en : FRA
 	- Compétences en informatique industrielle de base serait un plus.
-=======
+==========================================
 La phrase 7 est en : FRA
 	- Maitrise des bases de données relationnelles.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Langage (Matlab, R
 ,Labview).
-=======
+==========================================
 La phrase 9 est en : FRA
 	Aptitudes
 - Savoir travailler en équipe
@@ -160,52 +166,52 @@ Justification de la demande:
 Nous avons développé au sein de lUMR un laboratoire dédié à lanalyse de
 modèles murins de pathologie en associant électrophysiologie chez des
 animaux anesthésié et vigiles, génétique et comportement.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Pour le
 développement de cette nouvelle thématique, nous avons acquis des systèmes
 complets denregistrement dactivité comportementale et dactivité
 électrophysiologique sur animal vigile.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Les protocoles utilisés nous
 permettent de récolter un ensemble de données hétérogènes (vidéo,
 comportement, électrophysiologie cellule unique, tétrodes...).
-=======
+==========================================
 La phrase 12 est en : FRA
 	La mise en
 place dune chaine de traitement allant de lacquisition des données à
 leur intégration dans une base de données et dans des programmes danalyse
 est maintenant nécessaire et requiert le recrutement dun ingénieur.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Plusieurs équipes de lUMR utiliseront ces approches et sont intéressé par
 le développement de base de données et/ou danalyse de signaux
 électrophysiologiques multi-unitaires.
-=======
+==========================================
 La phrase 14 est en : FRA
 	Le travail de cet ingénieur sera
 mutualisé.
-=======
+==========================================
 La phrase 15 est en : FRA
 	A plus long terme lingénieur pourra participer au
 développement denvironnement danalyse plus spécifique ; suivie vidéo
 danimaux sur de longues périodes, participer à limplantation dappareil
 de mesure sur les souris.
-=======
+==========================================
 La phrase 16 est en : FRA
 	Le poste est de niveau IE ou IR.
-=======
+==========================================
 La phrase 17 est en : FRA
 	Il est ouvert à la mobilité pour le
 laboratoire Neuroscience Paris Seine en BAP E; la personne doit être en
 poste au CNRS.
-=======
+==========================================
 La phrase 18 est en : FRA
 	Cette personne sera également amenée à travailler dans le
 cadre de projets industriels et de recherche clinique avec des
 applications possibles au niveau des diagnostiques cliniques.
-=======
+==========================================
 La phrase 19 est en : FRA
 	-- 
 Laure Rondi-Reig, PhD, CNRS Research Director
@@ -219,4 +225,4 @@ Phone:   +33-1 44 27 20 44
 
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_62" est globalement en : FRA
+[('ENG', 0.13453609035792027), ('FRA', 0.17352195256782457)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDI autre] DIRECTEUR DATA MANAGEMENT
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Intitulé du poste : DIRECTEUR DATA MANAGEMENT
 Type de poste : CDI autre
@@ -19,16 +25,16 @@ Nom du contact : Kenza BOUMEZBEUR
 Email du contact : kenza.boumezbeur@kellyscientifique.tm.fr
 Laboratoire : Laboratoire de biotechnologie
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/directeur-data-management
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ http://www.sfbi.fr/content/directeur-data-management
 
 
 
-=======
+==========================================

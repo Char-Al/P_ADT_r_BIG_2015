@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_86" est globalement en : ENG
+[('ENG', 0.4150377186006223), ('FRA', 0.9503888913433783)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] European course on Comparative Genomics - 26 January - 6 February
  2015 (Lyon, France)
@@ -9,53 +15,53 @@ Subject : [bioinfo] European course on Comparative Genomics - 26 January - 6 Feb
 Le paragraphe 1 est en : FRA
 	Dear colleagues,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Registrations for the next edition of the European course on 
 "Comparative Genomics" are open.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	This course is organized by the Ecole Normale Supérieure (ENS) of Lyon 
 (France) since 2008.
 It is aimed at students from the ENS and is open to master and PhD 
 students from European universities.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	The course focuses on major discoveries, big challenges, innovative 
 concepts and original approaches in the field of comparative genomics, 
 their applications in biology, medicine and biotechnology, and their 
 impact on society.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	This year the course will be held on 26 January - 6 February 2015 at the 
 ENS (Lyon, France).
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Registration is free. Lectures are in English.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	The preliminary program and registration form are available at:
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	http://lbbe-dmz.univ-lyon1.fr/spip_cg/
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Jean-Nicolas Volff (ENS, Lyon) and Céline Brochier (Univ. Lyon1)
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	--
 Pr Céline Brochier-Armanet
 Membre de l'Institut Universitaire de France
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	Université Lyon 1
 Laboratoire de Biométrie et Biologie Evolutive
@@ -67,11 +73,11 @@ Tel: 33 (0)4 26 23 44 76
 Mail: celine.brochier-armanet@univ-lyon1.fr
 Web page: http://www.frangun.org
 
-=======
-Le paragraphe 12 est en : non detect
+==========================================
+Le paragraphe 12 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -81,38 +87,38 @@ La phrase 1 est en : ENG
 
 Registrations for the next edition of the European course on 
 "Comparative Genomics" are open.
-=======
+==========================================
 La phrase 2 est en : ENG
 	This course is organized by the Ecole Normale Supérieure (ENS) of Lyon 
 (France) since 2008.
-=======
+==========================================
 La phrase 3 est en : FRA
 	It is aimed at students from the ENS and is open to master and PhD 
 students from European universities.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The course focuses on major discoveries, big challenges, innovative 
 concepts and original approaches in the field of comparative genomics, 
 their applications in biology, medicine and biotechnology, and their 
 impact on society.
-=======
+==========================================
 La phrase 5 est en : ENG
 	This year the course will be held on 26 January - 6 February 2015 at the 
 ENS (Lyon, France).
-=======
+==========================================
 La phrase 6 est en : ENG
 	Registration is free.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Lectures are in English.
-=======
+==========================================
 La phrase 8 est en : ENG
 	The preliminary program and registration form are available at:
 
 http://lbbe-dmz.univ-lyon1.fr/spip_cg/
 
 Jean-Nicolas Volff (ENS, Lyon) and Céline Brochier (Univ.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Lyon1)
 
@@ -131,4 +137,4 @@ Mail: celine.brochier-armanet@univ-lyon1.fr
 Web page: http://www.frangun.org
 
 
-=======
+==========================================

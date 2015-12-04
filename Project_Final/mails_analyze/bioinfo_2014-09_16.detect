@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-09_16" est globalement en : FRA
+[('FRA', 0.7426267913844768), ('ENG', 2.198201040946854)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [bioinfo] Formation Bioinformatique - Analyse avancée de séquences
 
@@ -8,42 +14,42 @@ Subject : [bioinfo] [bioinfo] Formation Bioinformatique - Analyse avancée de s�
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation en Bio-informatique intitulée : "Analyse avancée de séquences" à Bordeaux sur 2 jours (du 6 au 7 novembre 2014):
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Adresse:
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle à Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex). Ce campus est situé à proximité du CHU Pellegrin.
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Objectifs:
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	1. Maitriser les stratégies et les outils d'annotation de séquences bactériennes
 2. Pouvoir prédire de novo les gènes bactériens
 3. Savoir annoter des ARNs
 4. Maitriser les outils de phylogénie, savoir comment les paramétrer, pouvoir analyser les résultats de logiciels de phylogénie
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Prérequis:
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Avoir suivi la formation "Bioinformatique : initiation" (Réf. 14227, ce catalogue) ou niveau équivalent 
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Programme:
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	Jour 1
 Comment annoter un contig avec les outils en ligne, présentation de la stratégie et des outils en ligne pour le faire. L'exemple traité en formation sera celui de génomes bactériens.
@@ -52,7 +58,7 @@ Comment annoter un contig avec les outils en ligne, présentation de la stratég
 - Recherche de motifs et domaines
 - Environnement pour annoter, allant de la prédiction, à la visualisation de résultats, saisie des annotations et genome browser
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	Jour 2
 Les stagiaires vont acquérir des connaissances en phylogénie afin de pouvoir faire le choix, le paramétrage et l'analyse des résultats des programmes de phylogénie.
@@ -60,35 +66,35 @@ Les stagiaires vont acquérir des connaissances en phylogénie afin de pouvoir f
 - Orthologues / paralogues
 - Détection de transfert horizontal bactérien
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	Cette formation alterne les cours et les TP (50-50 %)
 1 intervenant par sous-groupe de 5 personnes pour les TP 
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	Cette formation vise les personnes souhaitant développer des analyses bioinformatique à partir de logiciels en ligne. elle s'adresse aussi bien aux ingénieurs ou chercheurs qu'aux biologistes de formation.
 
-=======
+==========================================
 Le paragraphe 14 est en : FRA
 	Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous:
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	https://cnrsformation.cnrs.fr/stage.php?stage=14228&axe=62
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	Pour toute information complémentaire (public visé, niveau, cout, ...), merci de contacter:
 
-=======
+==========================================
 Le paragraphe 17 est en : FRA
 	- Aurélien Barré (aurelien.barre@u-bordeaux.fr)
 - Raluca Uricaru (ruricaru@labri.fr)
 - Benjamin Dartigues (benjamin.dartigues@u-bordeaux.fr) 
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -101,34 +107,34 @@ Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation en Bio-in
 Adresse:
 
 Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle à Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex).
-=======
+==========================================
 La phrase 2 est en : FRA
 	Ce campus est situé à proximité du CHU Pellegrin.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Objectifs:
 
 1.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Maitriser les stratégies et les outils d'annotation de séquences bactériennes
 2.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Pouvoir prédire de novo les gènes bactériens
 3.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Savoir annoter des ARNs
 4.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Maitriser les outils de phylogénie, savoir comment les paramétrer, pouvoir analyser les résultats de logiciels de phylogénie
 
 Prérequis:
 
 Avoir suivi la formation "Bioinformatique : initiation" (Réf.
-=======
+==========================================
 La phrase 8 est en : FRA
 	14227, ce catalogue) ou niveau équivalent 
 
@@ -136,10 +142,10 @@ Programme:
 
 Jour 1
 Comment annoter un contig avec les outils en ligne, présentation de la stratégie et des outils en ligne pour le faire.
-=======
+==========================================
 La phrase 9 est en : FRA
 	L'exemple traité en formation sera celui de génomes bactériens.
-=======
+==========================================
 La phrase 10 est en : FRA
 	- Les prédicteurs de gènes
 - A partir des CDS, les traduire puis les annoter : blastp ou blastx
@@ -148,7 +154,7 @@ La phrase 10 est en : FRA
 
 Jour 2
 Les stagiaires vont acquérir des connaissances en phylogénie afin de pouvoir faire le choix, le paramétrage et l'analyse des résultats des programmes de phylogénie.
-=======
+==========================================
 La phrase 11 est en : FRA
 	- Introduction à la phylogénie et méthodes de reconstruction phylogénétique
 - Orthologues / paralogues
@@ -158,10 +164,10 @@ Cette formation alterne les cours et les TP (50-50 %)
 1 intervenant par sous-groupe de 5 personnes pour les TP 
 
 Cette formation vise les personnes souhaitant développer des analyses bioinformatique à partir de logiciels en ligne.
-=======
+==========================================
 La phrase 12 est en : FRA
 	elle s'adresse aussi bien aux ingénieurs ou chercheurs qu'aux biologistes de formation.
-=======
+==========================================
 La phrase 13 est en : FRA
 	Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous:
 
@@ -173,4 +179,4 @@ Pour toute information complémentaire (public visé, niveau, cout, ...), merci 
 - Raluca Uricaru (ruricaru@labri.fr)
 - Benjamin Dartigues (benjamin.dartigues@u-bordeaux.fr) 
 
-=======
+==========================================

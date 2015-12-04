@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_50" est globalement en : FRA
+[('ENG', 0.37135094648094397), ('FRA', 0.976452034367123)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Workshop BGE : date limite des soumissions ce vendredi
 
@@ -8,31 +14,31 @@ Subject : [bioinfo] Workshop BGE : date limite des soumissions ce vendredi
 Le paragraphe 1 est en : FRA
 	Bonjour à tous,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Il ne vous reste plus que quatre jours pour soumettre vos résumés au workshop "Bioinformatique pour la Génomique Environnementale" qui se déroulera à Lyon les 27 et 28 mai prochains. En effet, je vous rappelle que la date limite pour les soumissions a été fixée au vendredi 18 avril minuit. Par ailleurs, la date limite pour l'inscription est le dimanche 27 avril.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Ce workshop est organisé sous l'égide du Réseau Thématique Pluridisciplinaire en Génomique Environnementale (RTP-GE) du CNRS et il vise à rassembler des chercheurs de différents domaines qui utilisent (ou sont désireux d'utiliser) les nouvelles technologies de séquençage ainsi que les développements les plus récents en bioinformatique, ceci dans le but d'étudier des questions relatives à l'écologie, l'évolution, la biodiversité, la systématique ainsi que la génomique des populations.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Le site Web pour l'inscription et la soumission des résmés est accessible à l'adresse :
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	http://ge-lyon2014.sciencesconf.org
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Notez qu'un tutorial est également organisé en ouverture du workshop le lundi 26 mai. Ce tutorial est organisé en collaboration avec le Réseau Européen des plateformes en Bioinformatique (EMBnet) et le nombre maximum de participants est fixé à 60.
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Les frais d’inscriptions au workshop s’élèvent à 50€ TTC et incluent les déjeuners, pauses café et le cocktail dînatoire du 27 mai. Les frais d'inscription au tutorial s’élèvent à 50€ TTC et incluent la pause déjeuner à la caféteria de l'université. L'inscription conjointe au workshop et au tutorial se montent à 100€ TTC.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Pour le Comité Scientifique du RTP-GE et le Comité de Programme,
 --
@@ -40,11 +46,11 @@ Guy Perrière - Laboratoire BBE - Université Claude Bernard Lyon 1
 43 bd. du 11 Novembre 1918 - 69622 Villeurbanne Cedex - France
 http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html
 
-=======
-Le paragraphe 9 est en : non detect
+==========================================
+Le paragraphe 9 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -53,44 +59,44 @@ La phrase 1 est en : FRA
 	Bonjour à tous,
 
 Il ne vous reste plus que quatre jours pour soumettre vos résumés au workshop "Bioinformatique pour la Génomique Environnementale" qui se déroulera à Lyon les 27 et 28 mai prochains.
-=======
+==========================================
 La phrase 2 est en : FRA
 	En effet, je vous rappelle que la date limite pour les soumissions a été fixée au vendredi 18 avril minuit.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Par ailleurs, la date limite pour l'inscription est le dimanche 27 avril.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Ce workshop est organisé sous l'égide du Réseau Thématique Pluridisciplinaire en Génomique Environnementale (RTP-GE) du CNRS et il vise à rassembler des chercheurs de différents domaines qui utilisent (ou sont désireux d'utiliser) les nouvelles technologies de séquençage ainsi que les développements les plus récents en bioinformatique, ceci dans le but d'étudier des questions relatives à l'écologie, l'évolution, la biodiversité, la systématique ainsi que la génomique des populations.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Le site Web pour l'inscription et la soumission des résmés est accessible à l'adresse :
 
 http://ge-lyon2014.sciencesconf.org
 
 Notez qu'un tutorial est également organisé en ouverture du workshop le lundi 26 mai.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Ce tutorial est organisé en collaboration avec le Réseau Européen des plateformes en Bioinformatique (EMBnet) et le nombre maximum de participants est fixé à 60.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Les frais d’inscriptions au workshop s’élèvent à 50€ TTC et incluent les déjeuners, pauses café et le cocktail dînatoire du 27 mai.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Les frais d'inscription au tutorial s’élèvent à 50€ TTC et incluent la pause déjeuner à la caféteria de l'université.
-=======
+==========================================
 La phrase 9 est en : FRA
 	L'inscription conjointe au workshop et au tutorial se montent à 100€ TTC.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Pour le Comité Scientifique du RTP-GE et le Comité de Programme,
 --
 Guy Perrière - Laboratoire BBE - Université Claude Bernard Lyon 1
 43 bd.
-=======
+==========================================
 La phrase 11 est en : ENG
 	du 11 Novembre 1918 - 69622 Villeurbanne Cedex - France
 http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html
 
 
-=======
+==========================================

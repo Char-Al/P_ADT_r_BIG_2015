@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-07_71" est globalement en : FRA
+[('FRA', 0.3639116352927164), ('ENG', 3.9701349380797573)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur en développement et déploiement d'applications
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Ingénieur en développement et déploiement
 d'applications
@@ -20,16 +26,16 @@ Nom du contact : Yannick De Oliveira
 Email du contact : ydeoliveira@moulon.inra.fr
 Laboratoire : UMR Génétique Végétale - Le Moulon
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-en-d%C3%A9veloppement-et-d%C3%A9ploiement-dapplications
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -52,4 +58,4 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-en-d%C3%A9veloppement-et-d%C3%A9ploiem
 
 
 
-=======
+==========================================

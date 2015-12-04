@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_8" est globalement en : FRA
+[('ENG', 1.7143011009168414), ('FRA', 3.820484836430435)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] biopython
 
@@ -8,17 +14,17 @@ Subject : [bioinfo] biopython
 Le paragraphe 1 est en : FRA
 	Bonjour à tous
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Une petite info: le journal GNU/Linux Magazine recherche actuellement 
 des auteurs d'articles sur python, et en particulier sur biopython.
 Les auteur-e-s seront rémunéré-e-s....
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Contacter directement tristan@gnulinuxmag.com (pas moi !)
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	-- 
 Emmanuel COURCELLEemmanuel.courcelle@toulouse.inra.fr
@@ -26,11 +32,11 @@ L.I.P.M. (UMR CNRS-INRA 2594/441) tel (33) 5-61-28-54-50
 I.N.R.A. - 24 chemin de Borde Rouge - Auzeville
 CS52627 - 31326 CASTANET TOLOSAN Cedex - FRANCE
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -40,24 +46,24 @@ La phrase 1 est en : FRA
 
 Une petite info: le journal GNU/Linux Magazine recherche actuellement 
 des auteurs d'articles sur python, et en particulier sur biopython.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Les auteur-e-s seront rémunéré-e-s....
 
 Contacter directement tristan@gnulinuxmag.com (pas moi !)
-=======
+==========================================
 La phrase 3 est en : FRA
 	-- 
 Emmanuel COURCELLEemmanuel.courcelle@toulouse.inra.fr
 L.I.P.M.
-=======
+==========================================
 La phrase 4 est en : ENG
 	(UMR CNRS-INRA 2594/441) tel (33) 5-61-28-54-50
 I.N.R.A.
-=======
+==========================================
 La phrase 5 est en : ENG
 	- 24 chemin de Borde Rouge - Auzeville
 CS52627 - 31326 CASTANET TOLOSAN Cedex - FRANCE
 
 
-=======
+==========================================

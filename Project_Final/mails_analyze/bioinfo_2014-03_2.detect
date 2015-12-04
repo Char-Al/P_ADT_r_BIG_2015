@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_2" est globalement en : ENG
+[('ENG', 0.41269157189205485), ('FRA', 1.3913454288005525)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] "NGS and non-coding RNA data analysis" workshop
 
@@ -8,47 +14,47 @@ Subject : [bioinfo] "NGS and non-coding RNA data analysis" workshop
 Le paragraphe 1 est en : FRA
 	Dear all,
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	The registration for this COST WS is now opened.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	We are happy to announce the upcoming "NGS and non-coding RNA data analysis" workshop II (2014) 15-16 May, Plovdiv, Bulgaria
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	The SeqAhead COST action BM1006 is organising a 2 day workshop with presentations on non-coding RNA (ncRNA) research, bioinformatics, data analysis and stimulate discussions between biologists and bioinformaticians. 
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	The Workshop will concentrate on current topics in NGS and non-coding RNAs, with special emphasis on data analysis. The ultimate goal of the workshop is to bring closer software developers, bioinformaticians and experimental scientists, bridging the gap between users' needs and developers' goals.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Workshop Target:
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	-biologists with research in ncRNA (ncRNA, small RNAs, miRNAs) applying or planning to apply Next Generation Sequencing technologies
 -bioinformaticians involved in data analysis or developing algorithms for data analysis of ncRNA data.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	The workshop is open for everybody in the ncRNA and NGS field. The workshop is free of charge and participants have to pay their own hotel and travel. COST will offer travel reimbursement to some selected researchers and you will need to provide a poster abstract.
 For more detailed information visit the WS homepage:
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	http://seqahead.plantgene.eu
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	For more specific information please contact Dr. Vesselin Baev {vebaev@plantgene.eu}
 --------
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -57,33 +63,33 @@ La phrase 1 est en : ENG
 	Dear all,
 
 The registration for this COST WS is now opened.
-=======
+==========================================
 La phrase 2 est en : ENG
 	We are happy to announce the upcoming "NGS and non-coding RNA data analysis" workshop II (2014) 15-16 May, Plovdiv, Bulgaria
 
 The SeqAhead COST action BM1006 is organising a 2 day workshop with presentations on non-coding RNA (ncRNA) research, bioinformatics, data analysis and stimulate discussions between biologists and bioinformaticians.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The Workshop will concentrate on current topics in NGS and non-coding RNAs, with special emphasis on data analysis.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The ultimate goal of the workshop is to bring closer software developers, bioinformaticians and experimental scientists, bridging the gap between users' needs and developers' goals.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Workshop Target:
 
 -biologists with research in ncRNA (ncRNA, small RNAs, miRNAs) applying or planning to apply Next Generation Sequencing technologies
 -bioinformaticians involved in data analysis or developing algorithms for data analysis of ncRNA data.
-=======
+==========================================
 La phrase 6 est en : ENG
 	The workshop is open for everybody in the ncRNA and NGS field.
-=======
+==========================================
 La phrase 7 est en : ENG
 	The workshop is free of charge and participants have to pay their own hotel and travel.
-=======
+==========================================
 La phrase 8 est en : ENG
 	COST will offer travel reimbursement to some selected researchers and you will need to provide a poster abstract.
-=======
+==========================================
 La phrase 9 est en : ENG
 	For more detailed information visit the WS homepage:
 
@@ -92,4 +98,4 @@ http://seqahead.plantgene.eu
 For more specific information please contact Dr. Vesselin Baev {vebaev@plantgene.eu}
 --------
 
-=======
+==========================================

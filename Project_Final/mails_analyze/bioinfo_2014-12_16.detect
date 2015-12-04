@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_16" est globalement en : FRA
+[('FRA', 0.4920615048025098), ('ENG', 0.8502138701741344)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] M2 biostatistique : analyse sta  tistique de la polarité cellulaire chez la pla  nte
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] M2 biostatistique : analyse sta  tistique de
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : M2 biostatistique : analyse statistique de la polarité  
 cellulaire chez la plante
@@ -19,13 +25,13 @@ Nom du contact : Jasmine Burguet
 Email du contact : Jasmine.Burguet@versailles.inra.fr
 Laboratoire : Institut Jean-Pierre Bourgin
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-biostatistique-analyse-statistique-de-la-polarit%C3%A9-cellulaire-chez-la-plante
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,4 +51,4 @@ Laboratoire : Institut Jean-Pierre Bourgin
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-biostatistique-analyse-statistique-de-la-polarit%C3%A9-cellulaire-chez-la-plante
 
-=======
+==========================================

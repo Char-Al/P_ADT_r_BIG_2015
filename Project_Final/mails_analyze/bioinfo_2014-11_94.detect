@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_94" est globalement en : FRA
+[('ENG', 0.5892822116828326), ('FRA', 0.8275485382052117)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] domain annotation
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] domain annotation
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Intitulé du poste : domain annotation
 Type de poste : Post-doc / IR
@@ -18,13 +24,13 @@ Nom du contact : Alessandra Carbone
 Email du contact : Alessandra.Carbone@lip6.fr
 Laboratoire : Laboratory of Computational and Quantitative Biology
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/domain-annotation
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +49,4 @@ Laboratoire : Laboratory of Computational and Quantitative Biology
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/domain-annotation
 
-=======
+==========================================

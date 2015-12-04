@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_59" est globalement en : FRA
+[('FRA', 0.25223680882564037), ('ENG', 32.80732076340809)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Stage] Base de données et outils d'an  alyse visant à aider àl’interprétatio n de   la pathogénicité de variants génomiques d  ’untrès grand gène (TTN).
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Stage] Base de données et outils d'an  alyse visan
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Base de données et outils d'analyse visant à aider à  
 l’interprétation de la pathogénicité de variants génomiques d’un  
@@ -20,13 +26,13 @@ Nom du contact : Isabelle Richard
 Email du contact : richard@genethon.fr
 Laboratoire : Genethon
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/base-de-donn%C3%A9es-et-outils-danalyse-visant-%C3%A0-aider-%C3%A0-l%E2%80%99interpr%C3%A9tation-de-la-pathog%C3%A9nicit%C3%A9-de-
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -37,7 +43,7 @@ La phrase 1 est en : FRA
 Intitulé du poste : Base de données et outils d'analyse visant à aider à  
 l’interprétation de la pathogénicité de variants génomiques d’un  
 très grand gène (TTN).
-=======
+==========================================
 La phrase 2 est en : ENG
 	Type de poste : Stage
 Durée du poste : 6 mois
@@ -49,4 +55,4 @@ Laboratoire : Genethon
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/base-de-donn%C3%A9es-et-outils-danalyse-visant-%C3%A0-aider-%C3%A0-l%E2%80%99interpr%C3%A9tation-de-la-pathog%C3%A9nicit%C3%A9-de-
 
-=======
+==========================================

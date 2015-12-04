@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-02_30" est globalement en : ENG
+[('ENG', 0.35852767379396344), ('FRA', 1.0723787474838984)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] ESWC 2014 Second Call for Challenge: Semantic Publishing
 
@@ -9,18 +15,18 @@ Le paragraphe 1 est en : ENG
 	
 ** apologies for cross-posting **
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	==== Second Call for Challenge: Semantic Publishing ====
 Challenge Website: http://challenges.2014.eswc-conferences.org/SemPub
 Call Web page: http://2014.eswc-conferences.org/important-dates/call-SemPub
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	** NEWS: 
 **     an open in-use task has been added!
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	11th Extended Semantic Web Conference (ESWC) 2014
 Dates: May 25 - 29, 2014
@@ -34,205 +40,205 @@ Challenge Chairs:
 - Angelo Di Iorio (Department of Computer Science and Engineering, University of Bologna, IT)
 - Christoph Lange (Enterprise Information Systems, University of Bonn / Fraunhofer IAIS, DE)
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	MOTIVATION AND OBJECTIVES
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Scholarly publishing is increasingly enabling a new wave of applications that better support researchers in disseminating, exploiting and evaluating their results. The potential of publishing scientific papers enriched with semantic information is huge and raises interesting and challenging issues. Semantic Web technologies play a central role in this context, as they can help publishers to make scientific results available in an open format the whole research community can benefit from.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	The Semantic Publishing Challenge 2014 is intended to be the first in a series of events at ESWC for producing and exploiting semantic publishing data. The main focus this year is on extracting information and using this information to assess the quality of scientific productions.
 Linked open datasets about scientific production exist - e.g. DBLP - but they usually cover basic bibliographic information, which is not sufficient to assess quality. Quality-related information are often hidden and not yet available as LOD. 
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	There is also a growing interest in alternative forms of publishing scientific data as (semantic) datasets that can be more easily shared, linked to each other, and reasoned on. Alternative metrics for scientific impact are also gaining relevance.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	We are seeking the most innovative and impacting applications in this emerging contexts. 
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	TARGET AUDIENCE
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	The Challenge is open to everyone from industry and academia.
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	TASKS
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	The Challenge includes three tasks. Participants can participate in as many tasks as they like.
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	= Extraction Tasks =
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	We ask challengers to automatically annotate a set of multi-format and multi-source input documents and to produce a Linked Open Dataset that fully describes these documents, their context, and relevant parts of their content. The evaluation will consist of evaluating a set of queries against the produced dataset to assess its correctness and completeness. The input dataset will be split in two parts: a training/testing part and an evaluation part, which will disclosed a few days before the submission deadline. Participants will be asked to run their tool on the evaluation dataset and to produce the final Linked Open Dataset.
 
-=======
+==========================================
 Le paragraphe 16 est en : ENG
 	== Task 1: Extraction and assessment of workshop proceedings information ==
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	Participants are required to extract information from a set of HTML tables of contents, partly including microformat and RDFa annotations but not necessarily being valid HTML, of selected computer science workshop proceedings published with the CEUR-WS.org open access service. The extracted information is expected to answer queries about the quality of these workshops, for instance by measuring their growth, longevity, connection with other events, distribution of papers and authors.
 
-=======
+==========================================
 Le paragraphe 18 est en : ENG
 	== Task 2: Extraction and characterization of citations ==
 
-=======
+==========================================
 Le paragraphe 19 est en : ENG
 	Participants are required to extract information about the citations in scientific journals and their relevance. Input documents are in XML JATS and TaxPub, an official extension of JATS customized for taxonomic treatments, and selected from the PubMedCentral Open Access Subset and the Pensoft Biodiversity Data Journal and ZooKeys archive. The extracted information is expected to be used for assessing the value of citations, for instance by considering their position in the paper, their co-location with other citations or their purpose.
 
-=======
+==========================================
 Le paragraphe 20 est en : ENG
 	== In-use Task 3: Semantic technologies in improving scientific production ==
 
-=======
+==========================================
 Le paragraphe 21 est en : ENG
 	Participants are asked to submit demos that showcase the potential of Semantic Web technology for enhancing and assessing the quality of scientific production. 
 
-=======
+==========================================
 Le paragraphe 22 est en : ENG
 	The task has a completely open structure and is, in particular, independent from tasks 1 and 2: participants are free to decide which tool to show and which dataset to use.
 
-=======
+==========================================
 Le paragraphe 23 est en : ENG
 	The evaluation will be different from other tasks and will consist of two phases: after a first round of review, a number of submissions will be invited to demo their work at ESWC. The final decision will be taken at the Conference by a jury formed of PC members present at the event and other invited experts.
 
-=======
+==========================================
 Le paragraphe 24 est en : ENG
 	Further details are available at: http://challenges.2014.eswc-conferences.org/index.php/SemPub/Task3
 
-=======
+==========================================
 Le paragraphe 25 est en : FRA
 	EVALUATION
 
-=======
+==========================================
 Le paragraphe 26 est en : ENG
 	= Extraction Tasks 1 and 2 =
 
-=======
+==========================================
 Le paragraphe 27 est en : ENG
 	Participants will be requested to submit the LOD that their tool produces from the evaluation dataset, as well as a paper that describes their approach. They will also be given a set of queries in natural language form and will be asked to translate those queries into a SPARQL form that works on their LOD.
 
-=======
+==========================================
 Le paragraphe 28 est en : ENG
 	The results of the queries on the produced LOD will be compared with the expected output, and precision and recall will be measured to identify the best performing approach. Separately, the most original approach will be assigned by the Program Committee.
 
-=======
+==========================================
 Le paragraphe 29 est en : ENG
 	= In-use Task 3 =
 
-=======
+==========================================
 Le paragraphe 30 est en : FRA
 	Participants are required to submit a paper description as for tasks 1 and 2 and a demo version of the tool (open source appreciated but not mandatory).
 
-=======
+==========================================
 Le paragraphe 31 est en : ENG
 	The evaluation will consist of two phases: after a first round of review, a number of submissions will be invited to demo their work at ESWC. The final decision will be taken at the Conference by a jury formed of PC members present at the event and other invited experts. The winner will be selected according to its potential impact, originality, breakthrough, the quality of the demo, and the appropriateness for ESWC.
 
-=======
+==========================================
 Le paragraphe 32 est en : ENG
 	Further details about the evaluation are provided on the challenge wiki.
 
-=======
+==========================================
 Le paragraphe 33 est en : ENG
 	FEEDBACK AND DISCUSSION
 
-=======
+==========================================
 Le paragraphe 34 est en : ENG
 	A discussion group is open for participants to ask questions and to receive updates about the challenge (see link at bottom). Participants are invited to subscribe to this group as soon as possible and to communicate their intention to participate. They are also invited to use this channel to discuss problems in the input dataset and to suggest changes.
 
-=======
+==========================================
 Le paragraphe 35 est en : ENG
 	JUDGING AND PRIZES
 
-=======
+==========================================
 Le paragraphe 36 est en : ENG
 	The Program Committee and the chairs will select a number of submissions conforming to the challenge requirements that will be invited to present their work. Submissions accepted for presentation will receive constructive reviews from the Program Committee, they will be included in the Springer LNCS post-proceedings of ESWC, and they will also have a presentation slot in a poster session dedicated to the challenge. 
 
-=======
+==========================================
 Le paragraphe 37 est en : ENG
 	In addition, the winners will present their work in a special slot of the main program of ESWC and will be invited to submit a revised and extended paper to a dedicated Semantic Web Journal special issue.
 
-=======
+==========================================
 Le paragraphe 38 est en : ENG
 	Five winners will be selected. For each of Tasks 1 and 2 we will select:
 * best performing tool, given to the paper which will get the highest score in the evaluation
 * most original approach, selected by the Challenge Committee with the reviewing process
 
-=======
+==========================================
 Le paragraphe 39 est en : ENG
 	The winner of Task 3 will be selected by the jury according to its potential impact, originality, breakthrough, the quality of the demo, and the appropriateness for ESWC.
 
-=======
+==========================================
 Le paragraphe 40 est en : ENG
 	Winners will be selected only for tasks with at least 3 participants. In any case all submissions will be reviewed and, if accepted, published in ESWC post-proceedings.
 
-=======
+==========================================
 Le paragraphe 41 est en : ENG
 	An amount of 700 Euro has already been secured for the final prize. We are currently working on securing further funding.
 
-=======
+==========================================
 Le paragraphe 42 est en : ENG
 	 
 HOW TO PARTICIPATE
 
-=======
+==========================================
 Le paragraphe 43 est en : ENG
 	Participants are required to submit:
 * Abstract: no more than 200 words.
 * Description: It should explain the details of the automated annotation system, including why the system is innovative, how it uses Semantic Web technology, what features or functions the system provides, what design choices were made and what lessons were learned. The description should also summarize how participants have addressed the evaluation tasks. An outlook towards how the data could be consumed is appreciated but not strictly required. Papers must be submitted in PDF format, following the style of the Springer's Lecture Notes in Computer Science (LNCS) series (http://www.springer.com/computer/lncs/lncs+authors), and not exceeding 5 pages in length.
 
-=======
+==========================================
 Le paragraphe 44 est en : ENG
 	Submissions for task 1 and task 2 also have to include:
 * The Linked Open Dataset produced by the tool on the evaluation dataset (as a file or as a URL, in Turtle or RDF/XML). 
 * A set of SPARQL queries that work on that LOD and correspond to the natural language queries provided as input
 * Participants will also be asked to submit their tool (source and/or binaries, or a link these can be downloaded from, or a web service URL) for verification purposes.
 
-=======
+==========================================
 Le paragraphe 45 est en : ENG
 	Submissions for the in-use task 3 have to include:
 * a demo version of the tool. The demo must be made available along with the paper submission but participants are allowed to refine it until the presentation at ESWC-14. 
 
-=======
+==========================================
 Le paragraphe 46 est en : ENG
 	All papers submissions should be provided via EasyChair:
 
-=======
+==========================================
 Le paragraphe 47 est en : ENG
 	https://www.easychair.org/conferences/?conf=eswc2014-challenges
 
-=======
+==========================================
 Le paragraphe 48 est en : ENG
 	MAILING LIST
 
-=======
+==========================================
 Le paragraphe 49 est en : ENG
 	We invite the potential participants to subscribe to our mailing list in order to be kept up to date with the latest news related to the challenge. 
 
-=======
+==========================================
 Le paragraphe 50 est en : ENG
 	https://lists.sti2.org/mailman/listinfo/eswc2014-sempub-challenge
 
-=======
+==========================================
 Le paragraphe 51 est en : ENG
 	IMPORTANT DATES
 
-=======
+==========================================
 Le paragraphe 52 est en : ENG
 	* December 3, 2013: Publication of the full description of the extraction tasks 1 and 2, rules and queries; publication of the training/testing dataset 
 * January 31, 2014, 23:59 CET: Deadline for making remarks to the task 1 and 2 training/testing datasets
@@ -243,11 +249,11 @@ Le paragraphe 52 est en : ENG
 * April 9, 2014, 23:59 CET: Notification of acceptance
 * May 27-29, 2014: Demo at ESWC-14, and winner selection
 
-=======
+==========================================
 Le paragraphe 53 est en : ENG
 	PROGRAM COMMITTEE
 
-=======
+==========================================
 Le paragraphe 54 est en : ENG
 	Soren Auer (University of Bonn / Fraunhofer IAIS, DE) (supervisor)
 Chris Bizer (University of Mannheim, DE)
@@ -264,12 +270,12 @@ Lyubomir Penev (Pensoft Publishers, BG)
 Robert Stevens (University of Manchester, UK)
 Jun Zhao (Lancaster University, UK)
 
-=======
+==========================================
 Le paragraphe 55 est en : ENG
 	We are inviting further members.
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -284,7 +290,7 @@ Call Web page: http://2014.eswc-conferences.org/important-dates/call-SemPub
 
 ** NEWS: 
 **     an open in-use task has been added!
-=======
+==========================================
 La phrase 2 est en : ENG
 	11th Extended Semantic Web Conference (ESWC) 2014
 Dates: May 25 - 29, 2014
@@ -302,97 +308,97 @@ Challenge Chairs:
 MOTIVATION AND OBJECTIVES
 
 Scholarly publishing is increasingly enabling a new wave of applications that better support researchers in disseminating, exploiting and evaluating their results.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The potential of publishing scientific papers enriched with semantic information is huge and raises interesting and challenging issues.
-=======
+==========================================
 La phrase 4 est en : ENG
 	Semantic Web technologies play a central role in this context, as they can help publishers to make scientific results available in an open format the whole research community can benefit from.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The Semantic Publishing Challenge 2014 is intended to be the first in a series of events at ESWC for producing and exploiting semantic publishing data.
-=======
+==========================================
 La phrase 6 est en : ENG
 	The main focus this year is on extracting information and using this information to assess the quality of scientific productions.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Linked open datasets about scientific production exist - e.g.
-=======
+==========================================
 La phrase 8 est en : ENG
 	DBLP - but they usually cover basic bibliographic information, which is not sufficient to assess quality.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Quality-related information are often hidden and not yet available as LOD.
-=======
+==========================================
 La phrase 10 est en : ENG
 	There is also a growing interest in alternative forms of publishing scientific data as (semantic) datasets that can be more easily shared, linked to each other, and reasoned on.
-=======
+==========================================
 La phrase 11 est en : ENG
 	Alternative metrics for scientific impact are also gaining relevance.
-=======
+==========================================
 La phrase 12 est en : ENG
 	We are seeking the most innovative and impacting applications in this emerging contexts.
-=======
+==========================================
 La phrase 13 est en : ENG
 	TARGET AUDIENCE
 
 The Challenge is open to everyone from industry and academia.
-=======
+==========================================
 La phrase 14 est en : ENG
 	TASKS
 
 The Challenge includes three tasks.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Participants can participate in as many tasks as they like.
-=======
+==========================================
 La phrase 16 est en : ENG
 	= Extraction Tasks =
 
 We ask challengers to automatically annotate a set of multi-format and multi-source input documents and to produce a Linked Open Dataset that fully describes these documents, their context, and relevant parts of their content.
-=======
+==========================================
 La phrase 17 est en : ENG
 	The evaluation will consist of evaluating a set of queries against the produced dataset to assess its correctness and completeness.
-=======
+==========================================
 La phrase 18 est en : ENG
 	The input dataset will be split in two parts: a training/testing part and an evaluation part, which will disclosed a few days before the submission deadline.
-=======
+==========================================
 La phrase 19 est en : ENG
 	Participants will be asked to run their tool on the evaluation dataset and to produce the final Linked Open Dataset.
-=======
+==========================================
 La phrase 20 est en : ENG
 	== Task 1: Extraction and assessment of workshop proceedings information ==
 
 Participants are required to extract information from a set of HTML tables of contents, partly including microformat and RDFa annotations but not necessarily being valid HTML, of selected computer science workshop proceedings published with the CEUR-WS.org open access service.
-=======
+==========================================
 La phrase 21 est en : ENG
 	The extracted information is expected to answer queries about the quality of these workshops, for instance by measuring their growth, longevity, connection with other events, distribution of papers and authors.
-=======
+==========================================
 La phrase 22 est en : ENG
 	== Task 2: Extraction and characterization of citations ==
 
 Participants are required to extract information about the citations in scientific journals and their relevance.
-=======
+==========================================
 La phrase 23 est en : ENG
 	Input documents are in XML JATS and TaxPub, an official extension of JATS customized for taxonomic treatments, and selected from the PubMedCentral Open Access Subset and the Pensoft Biodiversity Data Journal and ZooKeys archive.
-=======
+==========================================
 La phrase 24 est en : ENG
 	The extracted information is expected to be used for assessing the value of citations, for instance by considering their position in the paper, their co-location with other citations or their purpose.
-=======
+==========================================
 La phrase 25 est en : ENG
 	== In-use Task 3: Semantic technologies in improving scientific production ==
 
 Participants are asked to submit demos that showcase the potential of Semantic Web technology for enhancing and assessing the quality of scientific production.
-=======
+==========================================
 La phrase 26 est en : ENG
 	The task has a completely open structure and is, in particular, independent from tasks 1 and 2: participants are free to decide which tool to show and which dataset to use.
-=======
+==========================================
 La phrase 27 est en : ENG
 	The evaluation will be different from other tasks and will consist of two phases: after a first round of review, a number of submissions will be invited to demo their work at ESWC.
-=======
+==========================================
 La phrase 28 est en : ENG
 	The final decision will be taken at the Conference by a jury formed of PC members present at the event and other invited experts.
-=======
+==========================================
 La phrase 29 est en : ENG
 	Further details are available at: http://challenges.2014.eswc-conferences.org/index.php/SemPub/Task3
 
@@ -402,110 +408,110 @@ EVALUATION
 = Extraction Tasks 1 and 2 =
 
 Participants will be requested to submit the LOD that their tool produces from the evaluation dataset, as well as a paper that describes their approach.
-=======
+==========================================
 La phrase 30 est en : ENG
 	They will also be given a set of queries in natural language form and will be asked to translate those queries into a SPARQL form that works on their LOD.
-=======
+==========================================
 La phrase 31 est en : ENG
 	The results of the queries on the produced LOD will be compared with the expected output, and precision and recall will be measured to identify the best performing approach.
-=======
+==========================================
 La phrase 32 est en : ENG
 	Separately, the most original approach will be assigned by the Program Committee.
-=======
+==========================================
 La phrase 33 est en : ENG
 	= In-use Task 3 =
 
 Participants are required to submit a paper description as for tasks 1 and 2 and a demo version of the tool (open source appreciated but not mandatory).
-=======
+==========================================
 La phrase 34 est en : ENG
 	The evaluation will consist of two phases: after a first round of review, a number of submissions will be invited to demo their work at ESWC.
-=======
+==========================================
 La phrase 35 est en : ENG
 	The final decision will be taken at the Conference by a jury formed of PC members present at the event and other invited experts.
-=======
+==========================================
 La phrase 36 est en : ENG
 	The winner will be selected according to its potential impact, originality, breakthrough, the quality of the demo, and the appropriateness for ESWC.
-=======
+==========================================
 La phrase 37 est en : ENG
 	Further details about the evaluation are provided on the challenge wiki.
-=======
+==========================================
 La phrase 38 est en : ENG
 	FEEDBACK AND DISCUSSION
 
 A discussion group is open for participants to ask questions and to receive updates about the challenge (see link at bottom).
-=======
+==========================================
 La phrase 39 est en : ENG
 	Participants are invited to subscribe to this group as soon as possible and to communicate their intention to participate.
-=======
+==========================================
 La phrase 40 est en : ENG
 	They are also invited to use this channel to discuss problems in the input dataset and to suggest changes.
-=======
+==========================================
 La phrase 41 est en : ENG
 	JUDGING AND PRIZES
 
 The Program Committee and the chairs will select a number of submissions conforming to the challenge requirements that will be invited to present their work.
-=======
+==========================================
 La phrase 42 est en : ENG
 	Submissions accepted for presentation will receive constructive reviews from the Program Committee, they will be included in the Springer LNCS post-proceedings of ESWC, and they will also have a presentation slot in a poster session dedicated to the challenge.
-=======
+==========================================
 La phrase 43 est en : ENG
 	In addition, the winners will present their work in a special slot of the main program of ESWC and will be invited to submit a revised and extended paper to a dedicated Semantic Web Journal special issue.
-=======
+==========================================
 La phrase 44 est en : ENG
 	Five winners will be selected.
-=======
+==========================================
 La phrase 45 est en : ENG
 	For each of Tasks 1 and 2 we will select:
 * best performing tool, given to the paper which will get the highest score in the evaluation
 * most original approach, selected by the Challenge Committee with the reviewing process
 
 The winner of Task 3 will be selected by the jury according to its potential impact, originality, breakthrough, the quality of the demo, and the appropriateness for ESWC.
-=======
+==========================================
 La phrase 46 est en : ENG
 	Winners will be selected only for tasks with at least 3 participants.
-=======
+==========================================
 La phrase 47 est en : ENG
 	In any case all submissions will be reviewed and, if accepted, published in ESWC post-proceedings.
-=======
+==========================================
 La phrase 48 est en : ENG
 	An amount of 700 Euro has already been secured for the final prize.
-=======
+==========================================
 La phrase 49 est en : ENG
 	We are currently working on securing further funding.
-=======
+==========================================
 La phrase 50 est en : ENG
 	HOW TO PARTICIPATE
 
 Participants are required to submit:
 * Abstract: no more than 200 words.
-=======
+==========================================
 La phrase 51 est en : ENG
 	* Description: It should explain the details of the automated annotation system, including why the system is innovative, how it uses Semantic Web technology, what features or functions the system provides, what design choices were made and what lessons were learned.
-=======
+==========================================
 La phrase 52 est en : ENG
 	The description should also summarize how participants have addressed the evaluation tasks.
-=======
+==========================================
 La phrase 53 est en : ENG
 	An outlook towards how the data could be consumed is appreciated but not strictly required.
-=======
+==========================================
 La phrase 54 est en : ENG
 	Papers must be submitted in PDF format, following the style of the Springer's Lecture Notes in Computer Science (LNCS) series (http://www.springer.com/computer/lncs/lncs+authors), and not exceeding 5 pages in length.
-=======
+==========================================
 La phrase 55 est en : ENG
 	Submissions for task 1 and task 2 also have to include:
 * The Linked Open Dataset produced by the tool on the evaluation dataset (as a file or as a URL, in Turtle or RDF/XML).
-=======
+==========================================
 La phrase 56 est en : ENG
 	* A set of SPARQL queries that work on that LOD and correspond to the natural language queries provided as input
 * Participants will also be asked to submit their tool (source and/or binaries, or a link these can be downloaded from, or a web service URL) for verification purposes.
-=======
+==========================================
 La phrase 57 est en : ENG
 	Submissions for the in-use task 3 have to include:
 * a demo version of the tool.
-=======
+==========================================
 La phrase 58 est en : ENG
 	The demo must be made available along with the paper submission but participants are allowed to refine it until the presentation at ESWC-14.
-=======
+==========================================
 La phrase 59 est en : ENG
 	All papers submissions should be provided via EasyChair:
 
@@ -515,7 +521,7 @@ https://www.easychair.org/conferences/?conf=eswc2014-challenges
 MAILING LIST
 
 We invite the potential participants to subscribe to our mailing list in order to be kept up to date with the latest news related to the challenge.
-=======
+==========================================
 La phrase 60 est en : ENG
 	https://lists.sti2.org/mailman/listinfo/eswc2014-sempub-challenge
 
@@ -551,4 +557,4 @@ Jun Zhao (Lancaster University, UK)
 
 We are inviting further members.
 
-=======
+==========================================

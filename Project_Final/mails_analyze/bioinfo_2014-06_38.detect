@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_38" est globalement en : ENG
+[('ENG', 0.12465359586686997), ('FRA', 0.14087373062344646)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Postdoc/Research Engineer Position in data analysis available at
  Ecole Normale Superieure, Paris, France
@@ -10,17 +16,17 @@ Le paragraphe 1 est en : ENG
 	 From Auguste Genovesio:
 -----------------------
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Data analysis for ependymal cells development
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	The Spassky lab and the Computational Biology & Bioinformatic Platform 
 are jointly seeking for a highly motivated post-doctoral researcher or 
 research engineer in data analysis.
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	The overall goal of this interdisciplinary project is to reconstruct the 
 chain of morphological and molecular events leading to the 
@@ -30,7 +36,7 @@ cell measurements, but will also require an ability to perform
 functional analysis of differential expression profiles (although a 
 previous experience working with the last is not required).
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	The candidate should hold a PhD degree in computer science and have a 
 good background in data analysis (although candidate with a master 
@@ -41,37 +47,37 @@ a plus. The candidate should also have a good background in applied
 mathematics/statistics, a good English level and a perfect knowledge of 
 a programming language such as Python, Java or R.
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Net monthly salary is between 2000 and 2400 euros, depending on previous 
 experience, including health coverage. The call will close on June 30, 
 2014. Future candidates will be selected and notified for an interview 
 between July 1st and 15th, 2014.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Applicants should send a CV, a motivation letter and contact details of 
 2 references to
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Nathalie Spassky, nathalie.spassky@ens.fr, Tel : 33 1 44 32 23 27
 Auguste Genovesio, auguste.genovesio@ens.fr, Tel : 33 1 44 32 23 54
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Recent selected references:
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	GUIRAO B, et al., and SPASSKY N. Nat Cell Biol (2010), 12(4) :341-50.
 AGUILAR A, et al., and SPASSKY N. PNAS (2012) 109(42) :16951-6.
 
-=======
-Le paragraphe 11 est en : non detect
+==========================================
+Le paragraphe 11 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -85,30 +91,30 @@ Data analysis for ependymal cells development
 The Spassky lab and the Computational Biology & Bioinformatic Platform 
 are jointly seeking for a highly motivated post-doctoral researcher or 
 research engineer in data analysis.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The overall goal of this interdisciplinary project is to reconstruct the 
 chain of morphological and molecular events leading to the 
 differentiation process of neural stem cells into ependymal cells.
-=======
+==========================================
 La phrase 3 est en : ENG
 	The 
 work will mainly consist in analyzing image and large dataset of single 
 cell measurements, but will also require an ability to perform 
 functional analysis of differential expression profiles (although a 
 previous experience working with the last is not required).
-=======
+==========================================
 La phrase 4 est en : ENG
 	The candidate should hold a PhD degree in computer science and have a 
 good background in data analysis (although candidate with a master 
 degree showing promising ability will definitely be interviewed and 
 should not hesitate to apply).
-=======
+==========================================
 La phrase 5 est en : ENG
 	A previous experience in a collaborative 
 environment such as a research Institute in Biology would be considered 
 a plus.
-=======
+==========================================
 La phrase 6 est en : ENG
 	The candidate should also have a good background in applied 
 mathematics/statistics, a good English level and a perfect knowledge of 
@@ -116,15 +122,15 @@ a programming language such as Python, Java or R.
 
 Net monthly salary is between 2000 and 2400 euros, depending on previous 
 experience, including health coverage.
-=======
+==========================================
 La phrase 7 est en : ENG
 	The call will close on June 30, 
 2014.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Future candidates will be selected and notified for an interview 
 between July 1st and 15th, 2014.
-=======
+==========================================
 La phrase 9 est en : ENG
 	Applicants should send a CV, a motivation letter and contact details of 
 2 references to
@@ -136,9 +142,9 @@ Auguste Genovesio, auguste.genovesio@ens.fr, Tel : 33 1 44 32 23 54
 Recent selected references:
 
 GUIRAO B, et al., and SPASSKY N. Nat Cell Biol (2010), 12(4) :341-50.
-=======
+==========================================
 La phrase 10 est en : ENG
 	AGUILAR A, et al., and SPASSKY N. PNAS (2012) 109(42) :16951-6.
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_58" est globalement en : FRA
+[('ENG', 0.32207321089018137), ('FRA', 0.494882984318561)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doc position in Computational Genomics: Annotation and analysis of the genome of Aegilops tauschii
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doc position in Computational G
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	Intitulé du poste : Post-doc position in Computational Genomics: Annotation  
 and analysis of the genome of Aegilops tauschii
@@ -21,13 +27,13 @@ Laboratoire : Dr. Katrien M. Devos, Institute of Plant Breeding, Genetics and
 Genomics, and Dept. of Plant Biology, and Dr. Jeffrey L. Bennetzen, Dept. of  
 Genetics at the University of Georgia, Athens
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-position-computational-genomics-annotation-and-analysis-genome-aegilops-tauschii
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -44,10 +50,10 @@ Nom du contact : Dr. Katrien M. Devos
 Email du contact : kdevos@uga.edu
 Laboratoire : Dr. Katrien M. Devos, Institute of Plant Breeding, Genetics and  
 Genomics, and Dept.
-=======
+==========================================
 La phrase 2 est en : ENG
 	of Plant Biology, and Dr. Jeffrey L. Bennetzen, Dept.
-=======
+==========================================
 La phrase 3 est en : ENG
 	of  
 Genetics at the University of Georgia, Athens
@@ -55,4 +61,4 @@ Genetics at the University of Georgia, Athens
 Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-position-computational-genomics-annotation-and-analysis-genome-aegilops-tauschii
 
-=======
+==========================================

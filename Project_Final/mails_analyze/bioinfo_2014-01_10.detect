@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-01_10" est globalement en : FRA
+[('FRA', 0.8607360643292409), ('ENG', 1.0436395468998811)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] RE: Sujets stage de Master 2 (Montpellier) - projet SIFR
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] RE: Sujets stage de Master 2 (Montpellier) - projet SIFR
 Le paragraphe 1 est en : FRA
 	Bonjour à tous, 
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	2 stages sont encore disponibles dans le cadre du projet SIFR au
 LIRMM/CIRAD :
@@ -18,13 +24,13 @@ Clement)
 http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2-Lemoisson_ViewpointsUI
 .html 
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	- Expérimentation du calcul hétérogène dans l'approche Viewpoints (Fabien,
 Guillaume)
 http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2_ViewpointsGPU.html 
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Pour ceux qui cherchent des projets étudiants (niveau ~M1), stage court de
 développement, nous proposons aussi :
@@ -34,7 +40,7 @@ www.lirmm.fr/sifr/positions/2014_TER_M1_Jonquet_viewpoints.html
 Nhésitez pas à me contacter pour de plus ample information.
 CJ
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	De : Clement Jonquet [mailto:jonquet@lirmm.fr] 
 Envoyé : mercredi 11 décembre 2013 13:23
@@ -42,28 +48,28 @@ Envoyé : mercredi 11 décembre 2013 13:23
 liste-egc@polytech.univ-nantes.fr; bioinfo@sfbi.fr
 Objet : Sujets stage de Master 2 (Montpellier) - projet SIFR
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Le LIRMM (Montpellier) propose 4 stages de M2 dans le contexte du projet
 SIFR (indexation sémantique de données biomédicales à laide dontologie).
 Commencement début mars.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Nhésitez pas à me/nous contacter si vous êtes intéressé :
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	- Conception dun prototype dannotateur sémantique biomédical francophone
 (Clement)
 http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2-Jonquet_FrenchAnnotato
 r.html
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	- Construction dune application web pour la navigation et la recherche
 dinformation au sein dun graphe de connaissances communautaires (Philippe,
@@ -71,24 +77,24 @@ Clement)
 http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2-Lemoisson_ViewpointsUI
 .html 
 
-=======
+==========================================
 Le paragraphe 11 est en : ENG
 	- Acquisition de vocabulaire patient (Sandra)
 http://www.lirmm.fr/~teisseir/StagesMasterR/SujetM2VocaPatientMedecin2013.pd
 f 
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	- Expérimentation du calcul hétérogène dans l'approche Viewpoints (Fabien,
 Guillaume)
 http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2_ViewpointsGPU.html 
 
-=======
+==========================================
 Le paragraphe 13 est en : FRA
 	Nhésitez pas à me contacter pour de plus ample information.
 CJ
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	----------------------------------------------------------------------------
 ----------------------------------------
@@ -96,12 +102,12 @@ Dr. Clement JONQUET  -  PhD in Informatics  -  Assistant Professor
 PI of the SIFR project: Semantic Indexing of French Biomedical Data
 Resources (ANR, UM2, CNRS)
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	jonquet@lirmm.fr
 http://www.lirmm.fr/~jonquet 
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	                University of Montpellier                          Tel:
                        +33/4 67 14 97 43
@@ -119,11 +125,11 @@ Google:               jonquet.lirmm@gmail.com
 ----------------------------------------------------------------------------
 ----------------------------------------
 
-=======
-Le paragraphe 17 est en : non detect
+==========================================
+Le paragraphe 17 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -149,7 +155,7 @@ développement, nous proposons aussi :
 ressources du Web (Clement, Philippe)
 www.lirmm.fr/sifr/positions/2014_TER_M1_Jonquet_viewpoints.html
 Nhésitez pas à me contacter pour de plus ample information.
-=======
+==========================================
 La phrase 2 est en : FRA
 	CJ
 
@@ -163,10 +169,10 @@ Bonjour,
 
 Le LIRMM (Montpellier) propose 4 stages de M2 dans le contexte du projet
 SIFR (indexation sémantique de données biomédicales à laide dontologie).
-=======
+==========================================
 La phrase 3 est en : FRA
 	Commencement début mars.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Nhésitez pas à me/nous contacter si vous êtes intéressé :
 
@@ -190,7 +196,7 @@ Guillaume)
 http://www.lirmm.fr/sifr/positions/2014_Fiche-StageM2_ViewpointsGPU.html 
 
 Nhésitez pas à me contacter pour de plus ample information.
-=======
+==========================================
 La phrase 5 est en : FRA
 	CJ
 
@@ -222,4 +228,4 @@ Google:               jonquet.lirmm@gmail.com
 
 
 
-=======
+==========================================

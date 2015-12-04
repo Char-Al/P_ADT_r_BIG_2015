@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_29" est globalement en : FRA
+[('FRA', 0.764669077845144), ('ENG', 23.13696051385524)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Poste de responsable d' équipeà l'institut de Biologie Systémique & Synthétique , Evry
 
@@ -8,25 +14,25 @@ Subject : [bioinfo] Poste de responsable d' équipeà l'institut de Biologie Sys
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Notre recrutons un responsable d'équipe à l'institut de Biologie Systémique & Synthétique (iSSB, Evry, www.issb.genopole.fr ) dans le domaine de la biologie de synthèse. Nous vous serions reconnaissants de diffuser cette information à toute personne intéressée dans votre entourage. 
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Le chercheur recruté devra développer une thématique originale et indépendante de recherche dans le domaine de la biologie de synthèse, en synergie avec les activités de recherche de l'institut. Les exemples incluent - mais ne sont pas limités à : la conception, construction et caractérisation de circuits génétiques, l’ingénierie au niveau cellulaire, les cellules minimales, la biologie de synthèse in vitro, et les communications intercellulaires. Des fonds de démarrage, maximum 500 k€, seront mis à la disposition du chercheur recruté pour lui permettre de construire son propre laboratoire de recherche et son équipe au sein de l'institut.
 L'institut fait partie de Genopole® ( http://www.genopole.fr), un biocluster de laboratoires de recherche universitaires et privés en génomique, post-génomique et sciences connexes. Genopole® est le plus grand bioparc français et est situé à 30 km environ au sud de Paris. 
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Le candidat doit avoir un doctorat ou un M.D. Ph.D. en biologie, en sciences informatiques ou en sciences physiques, et plusieurs années d'expérience en biologie des systèmes ou de synthèse attestées par une liste de publications. Une expérience avérée et réussie dans l'élaboration de programmes de recherche financés par des contrats, et dans la direction d'équipes de chercheurs, est essentielle.
 Les candidats doivent envoyer leur CV, une lettre de motivation, un rapport sur les activités de recherche passées et futures, et trois noms de références, au comité de recrutement : sb-recruiting@issb.genopole.fr
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Cordialement,
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	institute of Systems & Synthetic Biology (iSSB)
 Genopole®, CNRS FRE3561, UniverSud Paris, University of Evry
@@ -35,11 +41,11 @@ Genopole Campus 1 - Genavenir 6
 Phone : 331 69 47 44 46- Fax : 331 69 47 44 37
 www.issb.genopole.fr/
 
-=======
-Le paragraphe 7 est en : non detect
+==========================================
+Le paragraphe 7 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -48,34 +54,34 @@ La phrase 1 est en : FRA
 	Bonjour,
 
 Notre recrutons un responsable d'équipe à l'institut de Biologie Systémique & Synthétique (iSSB, Evry, www.issb.genopole.fr ) dans le domaine de la biologie de synthèse.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Nous vous serions reconnaissants de diffuser cette information à toute personne intéressée dans votre entourage.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Le chercheur recruté devra développer une thématique originale et indépendante de recherche dans le domaine de la biologie de synthèse, en synergie avec les activités de recherche de l'institut.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Les exemples incluent - mais ne sont pas limités à : la conception, construction et caractérisation de circuits génétiques, l’ingénierie au niveau cellulaire, les cellules minimales, la biologie de synthèse in vitro, et les communications intercellulaires.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Des fonds de démarrage, maximum 500 k€, seront mis à la disposition du chercheur recruté pour lui permettre de construire son propre laboratoire de recherche et son équipe au sein de l'institut.
-=======
+==========================================
 La phrase 6 est en : FRA
 	L'institut fait partie de Genopole® ( http://www.genopole.fr), un biocluster de laboratoires de recherche universitaires et privés en génomique, post-génomique et sciences connexes.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Genopole® est le plus grand bioparc français et est situé à 30 km environ au sud de Paris.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Le candidat doit avoir un doctorat ou un M.D.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Ph.D. en biologie, en sciences informatiques ou en sciences physiques, et plusieurs années d'expérience en biologie des systèmes ou de synthèse attestées par une liste de publications.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Une expérience avérée et réussie dans l'élaboration de programmes de recherche financés par des contrats, et dans la direction d'équipes de chercheurs, est essentielle.
-=======
+==========================================
 La phrase 11 est en : FRA
 	Les candidats doivent envoyer leur CV, une lettre de motivation, un rapport sur les activités de recherche passées et futures, et trois noms de références, au comité de recrutement : sb-recruiting@issb.genopole.fr
 
@@ -93,4 +99,4 @@ www.issb.genopole.fr/
 
 
 
-=======
+==========================================

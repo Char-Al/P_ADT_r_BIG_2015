@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_58" est globalement en : FRA
+[('ENG', 0.6342855411358753), ('FRA', 0.6952579774130825)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Bioinformaticien - Developpement d'applications WEB
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] [Emploi][CDD Ingénieur ] Bioinformaticien - Developpement d
 Le paragraphe 1 est en : FRA
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Bioinformaticien - Developpement d'applications WEB
 Type de poste : CDD Ingénieur
@@ -18,16 +24,16 @@ Nom du contact : Daniel Jacob
 Email du contact : djacob@u-bordeaux2.fr
 Laboratoire : INRA UMR 1332 Biologie du Fruit
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/bioinformaticien-developpement-dapplications-web
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -47,4 +53,4 @@ Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformaticien-developpement-dapplications-web
 
 
-=======
+==========================================

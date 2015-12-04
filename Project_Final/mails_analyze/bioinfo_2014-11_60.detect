@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-11_60" est globalement en : FRA
+[('FRA', 0.9141462853359003), ('ENG', 14.268787782730756)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Soutenance de Thèse - Pierre- François Roux
 
@@ -8,26 +14,26 @@ Subject : [bioinfo] Soutenance de Thèse - Pierre- François Roux
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	J'ai le plaisir de vous inviter à ma soutenance de thèse de doctorat intitulée :
 "Apport de la détection de polymorphismes nucléotidiques à l’échelle du génome pour la dissection de caractères complexes et la caractérisation de l’éditome ».
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	La soutenance aura lieu le vendredi 5 décembre 2014, à 14h dans l’amphithéâtre Camille Moule (bâtiment 11) d’Agrocampus Ouest - Rennes situé à l’adresse :
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Agrocampus Ouest - Rennes
 65 rue de Saint Brieuc
 35000 RENNES
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Le jury est composé de :
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Richard REDON, Directeur de Recherche, Inserm Nantes - France (rapporteur)
 Frédéric FARNIR, Professeur, Université de Liège - Belgique (rapporteur)
@@ -36,48 +42,48 @@ Jean-Christophe SIMON, Directeur de Recherche, INRA Rennes - France (examinateur
 Sandrine LAGARRIGUE, Professeure, Agrocampus Ouest Rennes - France (co-encadrante)
 Olivier DEMEURE, Chargé de Recherche, INRA Rennes - France (co-encadrant)
 
-=======
+==========================================
 Le paragraphe 7 est en : FRA
 	Vous êtes également conviés au pot qui suivra et se tiendra à proximité de l’amphithéâtre Camille Moule d’Agrocampus Ouest - Rennes.
 Afin que je puisse anticiper sur le nombre de personnes présentes à ce pot, je vous serais reconnaissant de bien vouloir remplir le doodle suivant si vous souhaitez vous joindre à nous (http://doodle.com/6qf4iw3d5c99hdsw).
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Au plaisir de vous voir nombreux le 5 décembre,
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	Pierre-François Roux
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	RÉSUMÉ : 
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	Démocratisées à la fin des années 2000, les technologies de séquençage haut-débit (NGS) ont progressivement révolutionné les domaines de la génétique et de la transcriptomique. Alors qu’historiquement, les premières études basées sur ces technologies s’attachaient à la création de séquences de référence pour des espèces variées, la diminution des coûts du séquençage a ouvert la porte aux projets focalisés sur l’étude des génomes et transcriptomes individuels. Les travaux présentés dans ce manuscrit mettent en lumière le potentiel des NGS pour la caractérisation de SNPs, et leur utilisation pour la dissection génétique des caractères complexes et pour l’identification du phénomène d’édition de l’ARN. L’originalité de nos travaux porte sur l’utilisation conjointe de multiples approches génétiques et expressionnelles (détection de QTLs, de traces de sélection, annotation de SNPs, différentiel d’expression, analyse d’expression allèle-spécifique) pour la dissection génétique de l’adiposité, leur intégration nous ayant permis d’identifier deux nouveaux candidats à la régulation de ce caractère : les gènes PARK2 et JAG2. Nous proposons, par ailleurs, les premières caractérisations d’éditomes chez une espèce vertébrée non-mammalienne  - la poule - et montrons que ce phénomène rare est influencé par des facteurs tels que le sexe, l’âge, le génotype et l’alimentation. A l’heure actuelle, certains artefacts associés aux NGS sont encore négligés. Nous montrons ici que leur non-considération a un impact important sur l’identification d’événements singuliers comme l’édition de l’ARN.
 
-=======
+==========================================
 Le paragraphe 12 est en : FRA
 	MOTS-CLÉS : Séquençage haut-débit - DNA-seq - RNA-seq - Biais - Génome - Transcriptome - Polymorphismes nucléotidiques - Génétique quantitative - Caractères complexes - Adiposité - JAG2 - PARK2 - Editome - Poulet
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	ABSTRACT :
 
-=======
+==========================================
 Le paragraphe 14 est en : ENG
 	Next-generation sequencing technologies (NGS) have progressively revolutionized genetic and transcriptomic research fields since their democratization at the end of the 2000s. While there were mainly used to decipher genomes for many species, major sequencing cost decreases gradually allowed studies focusing on individual genomes and transcriptomes. Studies described in this manuscript highlight the potential of single nucleotide polymorphisms detection in a high-throughput manner at the genome and transcriptome-wide scales thanks to NGS, for the genetic dissection of complex traits, and for the identification of RNA editing events. The original aspect of our works is lying on the integrative strategy we used to genetically dissect the adiposity, based on several genetic and expressional approaches such as QTL and selective sweep mappings, SNP annotation and prioritization, differential expression and allele-specific expression analyses. Combining those complementary approaches allowed us to shed light on two new candidate genes for the adiposity regulation: JAG2 and PARK2. Focusing on the description of RNA editing events, we report the first studies describing editomes in a non-mammalian vertebrate species - the chicken - and highlight how limited is this phenomenon. We also reveal that environmental and genetic factors such as sex, age, genotype and diet regulate editing levels. Currently, some artifacts related to NGS are still neglected in many studies. Here, we clearly show that ignoring them may deeply impact analyses focusing on rare events such as RNA editing
 
-=======
+==========================================
 Le paragraphe 15 est en : ENG
 	KEYWORDS : High-throughput sequencing - DNA-seq - RNA-seq - Biases - Genome - Transcriptome - Single nucleotide polymorphisms - Quantitative genetics - Complex traits - Adiposity - JAG2 - PARK2 - Editome - Chicken
 
-=======
-Le paragraphe 16 est en : non detect
+==========================================
+Le paragraphe 16 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -87,7 +93,7 @@ La phrase 1 est en : FRA
 
 J'ai le plaisir de vous inviter à ma soutenance de thèse de doctorat intitulée :
 "Apport de la détection de polymorphismes nucléotidiques à l’échelle du génome pour la dissection de caractères complexes et la caractérisation de l’éditome ».
-=======
+==========================================
 La phrase 2 est en : FRA
 	La soutenance aura lieu le vendredi 5 décembre 2014, à 14h dans l’amphithéâtre Camille Moule (bâtiment 11) d’Agrocampus Ouest - Rennes situé à l’adresse :
 
@@ -105,10 +111,10 @@ Sandrine LAGARRIGUE, Professeure, Agrocampus Ouest Rennes - France (co-encadrant
 Olivier DEMEURE, Chargé de Recherche, INRA Rennes - France (co-encadrant)
 
 Vous êtes également conviés au pot qui suivra et se tiendra à proximité de l’amphithéâtre Camille Moule d’Agrocampus Ouest - Rennes.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Afin que je puisse anticiper sur le nombre de personnes présentes à ce pot, je vous serais reconnaissant de bien vouloir remplir le doodle suivant si vous souhaitez vous joindre à nous (http://doodle.com/6qf4iw3d5c99hdsw).
-=======
+==========================================
 La phrase 4 est en : FRA
 	Au plaisir de vous voir nombreux le 5 décembre,
 
@@ -118,25 +124,25 @@ Pierre-François Roux
 RÉSUMÉ : 
 
 Démocratisées à la fin des années 2000, les technologies de séquençage haut-débit (NGS) ont progressivement révolutionné les domaines de la génétique et de la transcriptomique.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Alors qu’historiquement, les premières études basées sur ces technologies s’attachaient à la création de séquences de référence pour des espèces variées, la diminution des coûts du séquençage a ouvert la porte aux projets focalisés sur l’étude des génomes et transcriptomes individuels.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Les travaux présentés dans ce manuscrit mettent en lumière le potentiel des NGS pour la caractérisation de SNPs, et leur utilisation pour la dissection génétique des caractères complexes et pour l’identification du phénomène d’édition de l’ARN.
-=======
+==========================================
 La phrase 7 est en : FRA
 	L’originalité de nos travaux porte sur l’utilisation conjointe de multiples approches génétiques et expressionnelles (détection de QTLs, de traces de sélection, annotation de SNPs, différentiel d’expression, analyse d’expression allèle-spécifique) pour la dissection génétique de l’adiposité, leur intégration nous ayant permis d’identifier deux nouveaux candidats à la régulation de ce caractère : les gènes PARK2 et JAG2.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Nous proposons, par ailleurs, les premières caractérisations d’éditomes chez une espèce vertébrée non-mammalienne  - la poule - et montrons que ce phénomène rare est influencé par des facteurs tels que le sexe, l’âge, le génotype et l’alimentation.
-=======
+==========================================
 La phrase 9 est en : FRA
 	A l’heure actuelle, certains artefacts associés aux NGS sont encore négligés.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Nous montrons ici que leur non-considération a un impact important sur l’identification d’événements singuliers comme l’édition de l’ARN.
-=======
+==========================================
 La phrase 11 est en : FRA
 	MOTS-CLÉS : Séquençage haut-débit - DNA-seq - RNA-seq - Biais - Génome - Transcriptome - Polymorphismes nucléotidiques - Génétique quantitative - Caractères complexes - Adiposité - JAG2 - PARK2 - Editome - Poulet
 
@@ -144,28 +150,28 @@ La phrase 11 est en : FRA
 ABSTRACT :
 
 Next-generation sequencing technologies (NGS) have progressively revolutionized genetic and transcriptomic research fields since their democratization at the end of the 2000s.
-=======
+==========================================
 La phrase 12 est en : ENG
 	While there were mainly used to decipher genomes for many species, major sequencing cost decreases gradually allowed studies focusing on individual genomes and transcriptomes.
-=======
+==========================================
 La phrase 13 est en : ENG
 	Studies described in this manuscript highlight the potential of single nucleotide polymorphisms detection in a high-throughput manner at the genome and transcriptome-wide scales thanks to NGS, for the genetic dissection of complex traits, and for the identification of RNA editing events.
-=======
+==========================================
 La phrase 14 est en : ENG
 	The original aspect of our works is lying on the integrative strategy we used to genetically dissect the adiposity, based on several genetic and expressional approaches such as QTL and selective sweep mappings, SNP annotation and prioritization, differential expression and allele-specific expression analyses.
-=======
+==========================================
 La phrase 15 est en : ENG
 	Combining those complementary approaches allowed us to shed light on two new candidate genes for the adiposity regulation: JAG2 and PARK2.
-=======
+==========================================
 La phrase 16 est en : ENG
 	Focusing on the description of RNA editing events, we report the first studies describing editomes in a non-mammalian vertebrate species - the chicken - and highlight how limited is this phenomenon.
-=======
+==========================================
 La phrase 17 est en : ENG
 	We also reveal that environmental and genetic factors such as sex, age, genotype and diet regulate editing levels.
-=======
+==========================================
 La phrase 18 est en : ENG
 	Currently, some artifacts related to NGS are still neglected in many studies.
-=======
+==========================================
 La phrase 19 est en : ENG
 	Here, we clearly show that ignoring them may deeply impact analyses focusing on rare events such as RNA editing
 
@@ -173,4 +179,4 @@ KEYWORDS : High-throughput sequencing - DNA-seq - RNA-seq - Biases - Genome - Tr
 
 
 
-=======
+==========================================

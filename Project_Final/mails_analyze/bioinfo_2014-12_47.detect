@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-12_47" est globalement en : FRA
+[('ENG', 0.46359705196403), ('FRA', 0.8691834574772984)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Liste bioinfo : choses et autres
 
@@ -8,17 +14,17 @@ Subject : [bioinfo] Liste bioinfo : choses et autres
 Le paragraphe 1 est en : FRA
 	Bonsoir à toutes et tous,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	1. Historique
 2. Envoi des offres d'emploi, stages etc
 3. Possibilité de passer en mode digest
 
-=======
-Le paragraphe 3 est en : non detect
+==========================================
+Le paragraphe 3 est en : n
 	=-=
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	1. Historique
 Cela fait 22 ans que la liste bioinfo@... existe.
@@ -37,17 +43,17 @@ commun. Il y a quelques départs à la retraite et changement de
 thématique de temps en temps, et l'arrivée d'étudiants ou de chercheurs 
 régulièrement.
 
-=======
-Le paragraphe 5 est en : non detect
+==========================================
+Le paragraphe 5 est en : n
 	=-=
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	2. Envoi des offres d'emploi, stages etc
 Voici le mél type que vous pourriez recevoir si vous postez une annonce 
 directement sur la liste bioinfo :
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	 > Bonjour,
  >
@@ -65,7 +71,7 @@ bioinformatique,
  >
  > Merci d'avance.
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	Nous sommes depuis quelques années une modératrice et deux modérateurs, 
 cela nous demande pas mal de travail malgré tout et cela en plus de 
@@ -81,11 +87,11 @@ L'autre avantage est que les objets des méls sont marqués
 [bioinfo][Emploi][etc...], ce qui permet à ceux qui ne sont pas 
 intéressés de les filtrer vers la corbeille.
 
-=======
-Le paragraphe 9 est en : non detect
+==========================================
+Le paragraphe 9 est en : n
 	=-=
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	3. Possibilité de passer en mode digest
 Certain(e)s d'entre vous m'ont fait la remarque qu'il y avait beaucoup 
@@ -95,17 +101,17 @@ Sélectionnez dans le menu de gauche "Options d'abonné" puis passez le
 "Mode de réception" en digest. Vous recevrez un mél par semaine, avec 
 tout dedans, le samedi matin.
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	Voilà,
 Sur ce, nous vous souhaitons à toutes et tous une bonne fin de semaine,
 (pour la modératrice et les modérateurs) Laurent
 
-=======
-Le paragraphe 12 est en : non detect
+==========================================
+Le paragraphe 12 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -114,62 +120,62 @@ La phrase 1 est en : FRA
 	Bonsoir à toutes et tous,
 
 1.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Historique
 2.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Envoi des offres d'emploi, stages etc
 3.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Possibilité de passer en mode digest
 
 =-=
 
 1.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Historique
 Cela fait 22 ans que la liste bioinfo@... existe.
-=======
+==========================================
 La phrase 6 est en : FRA
 	Sa création remonte à l'automne 1992, à la suite d'une réunion bioinfo 
 organisée à l'IMAG de Grenoble.
-=======
+==========================================
 La phrase 7 est en : FRA
 	La liste de participants à cette réunion 
 (environ 80 personnes) a servi à constituer une base d'adresses.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Il y 
 avait alors quelques messages par mois, sans site www.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Cette liste a permis, depuis sa création, de fédérer la communauté, à un 
 certain (j'espère bon) nombre de personnes de trouver un emploi, et la 
 constitution de la Société Française de Bio-Informatique.
-=======
+==========================================
 La phrase 10 est en : FRA
 	La diffusion d'une annonce sur cette liste est gratuite, que ce soit 
 pour les individus, les organismes publics ou les entreprises.
-=======
+==========================================
 La phrase 11 est en : FRA
 	La liste bioinfo@sfbi.fr contient aujourd'hui un peu plus de 5300 noms, 
 tou(te)s ne sont pas bioinformaticien(ne)s mais ont cet intérêt en 
 commun.
-=======
+==========================================
 La phrase 12 est en : FRA
 	Il y a quelques départs à la retraite et changement de 
 thématique de temps en temps, et l'arrivée d'étudiants ou de chercheurs 
 régulièrement.
-=======
-La phrase 13 est en : non detect
+==========================================
+La phrase 13 est en : n
 	=-=
 
 2.
-=======
+==========================================
 La phrase 14 est en : FRA
 	Envoi des offres d'emploi, stages etc
 Voici le mél type que vous pourriez recevoir si vous postez une annonce 
@@ -179,7 +185,7 @@ directement sur la liste bioinfo :
  >
  > merci d'avoir utilisé la liste de diffusion de la SFBI pour diffuser 
 votre offre d'emploi/thèse/stage.
-=======
+==========================================
 La phrase 15 est en : ENG
 	>
  > Néanmoins, pour votre prochaine annonce, nous vous demandons de la 
@@ -192,50 +198,50 @@ bioinformatique,
  > * de la poster automatiquement sur la liste de diffusion bioinfo@sfbi.fr
  >
  > Merci d'avance.
-=======
+==========================================
 La phrase 16 est en : FRA
 	Nous sommes depuis quelques années une modératrice et deux modérateurs, 
 cela nous demande pas mal de travail malgré tout et cela en plus de 
 notre travail de tous les jours.
-=======
+==========================================
 La phrase 17 est en : FRA
 	Nous souhaitons avoir à envoyer ce mél 
 le moins souvent possible, nous vous demandons par conséquent de bien 
 vouloir faire cet effort.
-=======
+==========================================
 La phrase 18 est en : FRA
 	C'est un peu moins souple que par le passé, mais cela permet à l'annonce 
 d'être plus largement diffusée.
-=======
+==========================================
 La phrase 19 est en : FRA
 	Nous faisons ou allons faire tout notre possible pour supprimer 
 l'annonce lorsque le poste est pourvu (nous sommes en train de voir 
 comment faire la même chose sur l'archivage de la liste de diffusion).
-=======
+==========================================
 La phrase 20 est en : FRA
 	L'autre avantage est que les objets des méls sont marqués 
 [bioinfo][Emploi][etc...], ce qui permet à ceux qui ne sont pas 
 intéressés de les filtrer vers la corbeille.
-=======
-La phrase 21 est en : non detect
+==========================================
+La phrase 21 est en : n
 	=-=
 
 3.
-=======
+==========================================
 La phrase 22 est en : FRA
 	Possibilité de passer en mode digest
 Certain(e)s d'entre vous m'ont fait la remarque qu'il y avait beaucoup 
 de messages sur la liste depuis quelques temps, je vous inciterais, si 
 cela vous dérange, à vous connecter sur le serveur de listes.
-=======
+==========================================
 La phrase 23 est en : FRA
 	Sélectionnez dans le menu de gauche "Options d'abonné" puis passez le 
 "Mode de réception" en digest.
-=======
+==========================================
 La phrase 24 est en : FRA
 	Vous recevrez un mél par semaine, avec 
 tout dedans, le samedi matin.
-=======
+==========================================
 La phrase 25 est en : FRA
 	Voilà,
 Sur ce, nous vous souhaitons à toutes et tous une bonne fin de semaine,
@@ -243,4 +249,4 @@ Sur ce, nous vous souhaitons à toutes et tous une bonne fin de semaine,
 
 
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-10_43" est globalement en : FRA
+[('FRA', 0.37889555617783155), ('ENG', 1.3315131368596962)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Faire remonter les problématiques de recherche et santé : Oncologie & Bioinformatique
 
@@ -8,35 +14,35 @@ Subject : [bioinfo] Faire remonter les problématiques de recherche et santé : 
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	L'association Hacking Health vous invite ce jeudi 16 Octobre 2014 à 19h30 à Cancer Campus pour discuter et débattre des problématiques de santé autour des thèmes : Oncologie & Bioinformatique. Cet évènement représente une occasion privilégiée de discuter directement avec les médecins et professionnels de santé à propos des besoins en données inhérents à la recherche, tant au niveau de leur acquisition que de leur exploitation. L'objectif est de réfléchir, ensemble, aux évolutions possibles de nos process actuels.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Flyer de l'évènement : http://goo.gl/65bo0z
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Pour vous inscrire (gratuit) : https://www.eventbrite.fr/e/billets-cafe-oncologie-bioinformatique-13332025447
 Plan d'accès : http://goo.gl/ZpZEoT
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Qu'est ce que Hacking Health ?
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Hacking Health est un mouvement international indépendant qui met en relation et accompagne les professionnels de santé, les patients et les experts des nouvelles technologies, afin quils élaborent ensemble des solutions améliorant lefficience du système de santé ou la santé des patients. L'association, récemment arrivée en France, est déjà appuyée par de nombreux partenaires et instances gouvernementales. Plus de détails ici : http://goo.gl/6eEw4R et sur le site de l'association : http://www.hhfrance.fr.
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Hacking Health France
 Contact : hhealthfrance@gmail.com
 Web : http://www.hhfrance.fr
 
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -45,13 +51,13 @@ La phrase 1 est en : FRA
 	Bonjour,
 
 L'association Hacking Health vous invite ce jeudi 16 Octobre 2014 à 19h30 à Cancer Campus pour discuter et débattre des problématiques de santé autour des thèmes : Oncologie & Bioinformatique.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Cet évènement représente une occasion privilégiée de discuter directement avec les médecins et professionnels de santé à propos des besoins en données inhérents à la recherche, tant au niveau de leur acquisition que de leur exploitation.
-=======
+==========================================
 La phrase 3 est en : FRA
 	L'objectif est de réfléchir, ensemble, aux évolutions possibles de nos process actuels.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Flyer de l'évènement : http://goo.gl/65bo0z
 
@@ -59,19 +65,19 @@ Pour vous inscrire (gratuit) : https://www.eventbrite.fr/e/billets-cafe-oncologi
 Plan d'accès : http://goo.gl/ZpZEoT
 
 Qu'est ce que Hacking Health ?
-=======
+==========================================
 La phrase 5 est en : FRA
 	Hacking Health est un mouvement international indépendant qui met en relation et accompagne les professionnels de santé, les patients et les experts des nouvelles technologies, afin quils élaborent ensemble des solutions améliorant lefficience du système de santé ou la santé des patients.
-=======
+==========================================
 La phrase 6 est en : FRA
 	L'association, récemment arrivée en France, est déjà appuyée par de nombreux partenaires et instances gouvernementales.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Plus de détails ici : http://goo.gl/6eEw4R et sur le site de l'association : http://www.hhfrance.fr.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Hacking Health France
 Contact : hhealthfrance@gmail.com
 Web : http://www.hhfrance.fr
 
-=======
+==========================================

@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-04_109" est globalement en : FRA
+[('FRA', 0.643808341495589), ('ENG', 5.672864879677882)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] [Emploi][Post-doc / IR] Métagénomiquecomparée de biofilms périphytiques
 
@@ -9,7 +15,7 @@ Le paragraphe 1 est en : FRA
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Intitulé du poste : Métagénomique comparée de biofilms périphytiques
 Type de poste : Post-doc / IR
@@ -19,16 +25,16 @@ Nom du contact : Berthe Thierry
 Email du contact : thierry.berthe@univ-rouen.fr
 Laboratoire : UMR M2C 6143
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/m%C3%A9tag%C3%A9nomique-compar%C3%A9e-de-biofilms-p%C3%A9riphytiques
 
-=======
-Le paragraphe 4 est en : non detect
+==========================================
+Le paragraphe 4 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -50,4 +56,4 @@ http://www.sfbi.fr/content/m%C3%A9tag%C3%A9nomique-compar%C3%A9e-de-biofilms-p%C
 
 
 
-=======
+==========================================

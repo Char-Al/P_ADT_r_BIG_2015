@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_85" est globalement en : FRA
+[('FRA', 0.3537463326771876), ('ENG', 2.015541188013062)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Post-doc de 6 mois en annotation sémantiqued’information textuelle en biologie végétale .
 
@@ -10,7 +16,7 @@ Le paragraphe 1 est en : FRA
 Post-doc ou ingénieur, 6 mois en annotation sémantique de textes
 ======================================
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	L’équipe Bibliome de l’unité MIG (INRA) recherche un post-doctorant ou 
 ingénieur à temps plein pour une durée de 6 mois sur l’annotation 
@@ -19,7 +25,7 @@ un modèle de connaissance dans le cadre du projet DataChallenge conjoint
 MIG et LIMSI (CNRS). Il est financé par le Center for Data Science (Idex 
 Paris-Saclay).
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	La personne engagée coordonnera la finalisation de l’annotation manuelle 
 d’articles de biologie moléculaire par des experts biologistes en vue de 
@@ -32,18 +38,18 @@ procaryotes). Un modèle unifié pourra être proposé pour la
 représentation des connaissances du texte qui soit approprié à son 
 utilisation en Biologie des Systèmes.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Compétences: extraction d’information, annotation manuelle de texte, 
 ingénierie de la connaissance, biologie moléculaire.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Candidature : envoi du CV et de publications par email.
 Contact : Claire Nédellec (claire.nedellec@jouy.inra.fr) et Robert Bossy 
 (robert.bossy@jouy.inra.fr)
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	Lieu de travail : Unité MIG, centre de recherche INRA de Jouy-en-Josas.
 Date : A partir juillet 2014
@@ -56,11 +62,11 @@ http://www.campus-paris-saclay.fr/index.php/en/Idex-Paris-Saclay/Les-Lidex/Paris
 https://sites.google.com/site/bionlpst2013/
 -----------
 
-=======
-Le paragraphe 7 est en : non detect
+==========================================
+Le paragraphe 7 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -75,45 +81,45 @@ ingénieur à temps plein pour une durée de 6 mois sur l’annotation
 manuelle et automatique d’articles scientifiques de biologie guidée par 
 un modèle de connaissance dans le cadre du projet DataChallenge conjoint 
 MIG et LIMSI (CNRS).
-=======
+==========================================
 La phrase 2 est en : FRA
 	Il est financé par le Center for Data Science (Idex 
 Paris-Saclay).
-=======
+==========================================
 La phrase 3 est en : FRA
 	La personne engagée coordonnera la finalisation de l’annotation manuelle 
 d’articles de biologie moléculaire par des experts biologistes en vue de 
 la préparation d'une tâche pour un challenge d’extraction automatique 
 d’information à partir de textes.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Le domaine concerné est le 
 développement de la graine chez l'arabette (Arabidopsis thaliana).
-=======
+==========================================
 La phrase 5 est en : FRA
 	Le 
 modèle de connaissances qui est utilisé pour l'annotation devra être 
 comparé à d'autres modèles proposés pour d’autres espèces (humain, 
 procaryotes).
-=======
+==========================================
 La phrase 6 est en : FRA
 	Un modèle unifié pourra être proposé pour la 
 représentation des connaissances du texte qui soit approprié à son 
 utilisation en Biologie des Systèmes.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Compétences: extraction d’information, annotation manuelle de texte, 
 ingénierie de la connaissance, biologie moléculaire.
-=======
+==========================================
 La phrase 8 est en : FRA
 	Candidature : envoi du CV et de publications par email.
-=======
+==========================================
 La phrase 9 est en : FRA
 	Contact : Claire Nédellec (claire.nedellec@jouy.inra.fr) et Robert Bossy 
 (robert.bossy@jouy.inra.fr)
 
 Lieu de travail : Unité MIG, centre de recherche INRA de Jouy-en-Josas.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Date : A partir juillet 2014
 Rémunération : grille de salaire INRA
@@ -126,4 +132,4 @@ https://sites.google.com/site/bionlpst2013/
 -----------
 
 
-=======
+==========================================

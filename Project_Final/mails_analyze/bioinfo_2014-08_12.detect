@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-08_12" est globalement en : ENG
+[('ENG', 0.25841169624006854), ('FRA', 0.4778513000212494)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Machine Learning for Personalized Medicine summer school, Sep
  11-19, Institut Curie, Paris
@@ -10,18 +16,18 @@ Le paragraphe 1 est en : FRA
 	
 Call for participation
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	2nd Machine Learning for Personalized Medicine (MLPM) summer school
 Sep 11-19, 2014
 Institut Curie, Paris, France
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	Information and registration
 http://mlpm.eu/summer-school/summer-school-2014/
 
-=======
+==========================================
 Le paragraphe 4 est en : ENG
 	Presentation
 The 2nd MLPM summer school is open to students, researchers and  
@@ -35,12 +41,12 @@ personalized medical treatment of patients according to their genetic
 and molecular properties and who are aware of the scientific, clinical  
 and industrial implications of this research.
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	Organizers
 Chloé Azencott, Florence Demenais, Jean-Philippe Vert
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	Speakers
 Pierre Baldi (UC Irvine)
@@ -60,14 +66,14 @@ Gaël Varoquaux (INRIA)
 Patrice Wegener (Max Planck Institute for Biological Cybernetics)
 Chen Yanover (IBM)
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	Schedule
 The schedule is available on the web site. The summer school will take  
 place from Sep 11 to Sep 19, with a break from saturday, Sep 13 to  
 monday, Sep 15, for general participants.
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	Registration
 Please register directly through the web site. There is a registration  
@@ -76,18 +82,18 @@ two conference dinners.
 Attendance is limited and will be allocated on a  
 first-come-first-served basis.
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	Accommodation and transportation
 You will have to arrange accommodation and transportation by yourself.  
 The web sites contains information on how to reach the summer school  
 venue and on local hotels.
 
-=======
-Le paragraphe 10 est en : non detect
+==========================================
+Le paragraphe 10 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -108,7 +114,7 @@ The 2nd MLPM summer school is open to students, researchers and
 professionals interested in bringing together machine learning and  
 statistical genetics to contribute to the development of data-driven,  
 personalized medicine.
-=======
+==========================================
 La phrase 2 est en : ENG
 	The summer school will mix invited talks,  
 scientific lectures and complementary skills courses to educate  
@@ -117,7 +123,7 @@ computational and statistical tools that are necessary to enable
 personalized medical treatment of patients according to their genetic  
 and molecular properties and who are aware of the scientific, clinical  
 and industrial implications of this research.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Organizers
 Chloé Azencott, Florence Demenais, Jean-Philippe Vert
@@ -142,33 +148,33 @@ Chen Yanover (IBM)
 
 Schedule
 The schedule is available on the web site.
-=======
+==========================================
 La phrase 4 est en : ENG
 	The summer school will take  
 place from Sep 11 to Sep 19, with a break from saturday, Sep 13 to  
 monday, Sep 15, for general participants.
-=======
+==========================================
 La phrase 5 est en : ENG
 	Registration
 Please register directly through the web site.
-=======
+==========================================
 La phrase 6 est en : ENG
 	There is a registration  
 fee of 600 euros which covers all lectures, lunches, coffee breaks and  
 two conference dinners.
-=======
+==========================================
 La phrase 7 est en : ENG
 	Attendance is limited and will be allocated on a  
 first-come-first-served basis.
-=======
+==========================================
 La phrase 8 est en : ENG
 	Accommodation and transportation
 You will have to arrange accommodation and transportation by yourself.
-=======
+==========================================
 La phrase 9 est en : ENG
 	The web sites contains information on how to reach the summer school  
 venue and on local hotels.
 
 
 
-=======
+==========================================

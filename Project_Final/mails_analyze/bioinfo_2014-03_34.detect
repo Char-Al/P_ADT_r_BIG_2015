@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-03_34" est globalement en : ENG
+[('ENG', 0.5262876524936554), ('FRA', 0.6977117784735437)]
+Language by Stop Words : english
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : ENG
 Subject : [bioinfo] Postdoc in Bacterial Transcriptomics, Station biologique, Roscoff
 
@@ -8,7 +14,7 @@ Subject : [bioinfo] Postdoc in Bacterial Transcriptomics, Station biologique, Ro
 Le paragraphe 1 est en : FRA
 	*Job description*
 
-=======
+==========================================
 Le paragraphe 2 est en : ENG
 	A two year postdoc position is available in the /Marine Phototrophic 
 Prokaryotes/ team to study the impact of the variation of various 
@@ -20,7 +26,7 @@ strains in culture representative of most ecotypes identified in the
 field are now available, which allow them to be studied at all levels of 
 organization from genes to the global ocean.
 
-=======
+==========================================
 Le paragraphe 3 est en : ENG
 	In the framework of the ANR project SAMOSA (2014-2018), we plan to 
 develop a system biology approach to characterize and model the main 
@@ -43,11 +49,11 @@ studying their distribution/expression in metagenomes and
 metatranscriptomes from various oceanic regions and depths showing 
 contrasted environmental parameters, available from the TARA-Oceans cruise.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	*Required qualifications*
 
-=======
+==========================================
 Le paragraphe 5 est en : ENG
 	The candidate should have experience in bioinformatics applied to DNA or 
 RNA sequence analysis (comparative genomics, metagenome analysis, 
@@ -55,11 +61,11 @@ phylogeny, microbial diversity and evolution) and/or bacterial
 transcriptomics (RNA extraction, real time PCR, RNA-Seq library 
 preparation).
 
-=======
+==========================================
 Le paragraphe 6 est en : ENG
 	*Terms of employment*
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	/Host lab:/The postdoc will be based in the Marine Phototrophic 
 Prokaryote (MaPP) team at the Station Biologique de Roscoff 
@@ -67,7 +73,7 @@ Prokaryote (MaPP) team at the Station Biologique de Roscoff
 /Beginning of the post doc/: sept 2014; 24 months
 /Salary : /about 1900-2000 euros/months
 
-=======
+==========================================
 Le paragraphe 8 est en : ENG
 	*The application should be written in French or English and include a 
 letter explaining the competences and scientific motivation, a CV, a 
@@ -75,7 +81,7 @@ publication list as well as recommendation letters from previous
 supervisors. All documents should be sent by email to Laurence 
 Garczarek: laurence.garczarek@sb-roscoff.fr. *
 
-=======
+==========================================
 Le paragraphe 9 est en : FRA
 	-- 
 ___________________________________________________________________
@@ -88,7 +94,7 @@ Place G. Tessier
 CS 90074
 29688 Roscoff Cedex FRANCE
 
-=======
+==========================================
 Le paragraphe 10 est en : ENG
 	E-mail: laurence.garczarek@sb-roscoff.fr
 Phone: +33 2 98 29 25 38   Fax: +33 2 98 29 23 24
@@ -96,11 +102,11 @@ MaPP team: http://www.sb-roscoff.fr/en-ppm.html
 Phytoplankton group: http://www.sb-roscoff.fr/Phyto/
 ___________________________________________________________________
 
-=======
-Le paragraphe 11 est en : non detect
+==========================================
+Le paragraphe 11 est en : n
 	
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -111,18 +117,18 @@ La phrase 1 est en : ENG
 A two year postdoc position is available in the /Marine Phototrophic 
 Prokaryotes/ team to study the impact of the variation of various 
 environmental factors on the marine picocyanobacteria /Synechococcus/.
-=======
+==========================================
 La phrase 2 est en : FRA
 	This genus is among the most pertinent biological models to tackle this 
 question since it is ecologically relevant and ubiquitous.
-=======
+==========================================
 La phrase 3 est en : ENG
 	Furthermore, 
 numerous genome sequences (41 /Synechococcus/, 3 /Cyanobium/) and 
 strains in culture representative of most ecotypes identified in the 
 field are now available, which allow them to be studied at all levels of 
 organization from genes to the global ocean.
-=======
+==========================================
 La phrase 4 est en : ENG
 	In the framework of the ANR project SAMOSA (2014-2018), we plan to 
 develop a system biology approach to characterize and model the main 
@@ -131,20 +137,20 @@ evolutionary) mechanisms involved in the differential responses of
 /Synechococcus/ clades/ecotypes to environmental fluctuations, with the 
 goal to better predict their respective adaptability, and hence dynamics 
 and distribution in the field in the context of global change.
-=======
+==========================================
 La phrase 5 est en : ENG
 	The 
 selected candidate will participate in the experiment setup, the culture 
 harvesting and the preparation of RNA samples as well as in the 
 bioinformatic analyses of transcriptomic data obtained by RNA-Seq 
 technologies.
-=======
+==========================================
 La phrase 6 est en : ENG
 	Physiological experiments will consist in submitting 
 strains representative of the dominant ecotypes to various environmental 
 stresses (e.g., high light, UV, temperature) under continuous light or 
 light-dark cycle conditions.
-=======
+==========================================
 La phrase 7 est en : ENG
 	The postdoctoral fellow could also be 
 involved in i) the further characterization of genes identified by 
@@ -153,7 +159,7 @@ stress adaptation of /Synechococcus/ ecotypes, using mutagenesis and ii)
 studying their distribution/expression in metagenomes and 
 metatranscriptomes from various oceanic regions and depths showing 
 contrasted environmental parameters, available from the TARA-Oceans cruise.
-=======
+==========================================
 La phrase 8 est en : FRA
 	*Required qualifications*
 
@@ -162,7 +168,7 @@ RNA sequence analysis (comparative genomics, metagenome analysis,
 phylogeny, microbial diversity and evolution) and/or bacterial 
 transcriptomics (RNA extraction, real time PCR, RNA-Seq library 
 preparation).
-=======
+==========================================
 La phrase 9 est en : ENG
 	*Terms of employment*
 
@@ -176,11 +182,11 @@ Prokaryote (MaPP) team at the Station Biologique de Roscoff
 letter explaining the competences and scientific motivation, a CV, a 
 publication list as well as recommendation letters from previous 
 supervisors.
-=======
+==========================================
 La phrase 10 est en : ENG
 	All documents should be sent by email to Laurence 
 Garczarek: laurence.garczarek@sb-roscoff.fr.
-=======
+==========================================
 La phrase 11 est en : ENG
 	*
 
@@ -189,7 +195,7 @@ La phrase 11 est en : ENG
 ___________________________________________________________________
 Laurence Garczarek
 Resp.
-=======
+==========================================
 La phrase 12 est en : ENG
 	équipe MaPP
 Chargé de Recherche CNRS
@@ -206,4 +212,4 @@ Phytoplankton group: http://www.sb-roscoff.fr/Phyto/
 ___________________________________________________________________
 
 
-=======
+==========================================

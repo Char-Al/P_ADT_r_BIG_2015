@@ -1,4 +1,10 @@
 Le mail "bioinfo_2014-06_14" est globalement en : FRA
+[('FRA', 0.5783426558493718), ('ENG', 0.7274081689374308)]
+Language by Stop Words : french
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++
 Le sujet du mail est en : FRA
 Subject : [bioinfo] Tutoriel « Utilisation du Cloud pour la Biologie » - NOUVELLE DATE - 19 juin 2014
 
@@ -8,29 +14,29 @@ Subject : [bioinfo] Tutoriel « Utilisation du Cloud pour la Biologie » - NOUVE
 Le paragraphe 1 est en : FRA
 	Bonjour,
 
-=======
+==========================================
 Le paragraphe 2 est en : FRA
 	Le tutoriel  « Utilisation du Cloud pour la Biologie », prévu initialement le 18 mars à Lyon, avait été reporté à une date ultérieure. Cette nouvelle session se fera le 19 juin 2014, cependant veuillez noter qu'elle aura lieu dans les locaux de l'Institut Français de Bioinformatique (IFB) à Gif-sur-Yvette (en région parisienne) et non plus à Lyon.  Le programme reste inchangé et nous vous le joignons pour rappel à la fin de ce mail.
 
-=======
+==========================================
 Le paragraphe 3 est en : FRA
 	Il reste quelques places.En effet, pour cette nouvelle session nous avons privilégié les personnes inscrites pour la session initiale mais il y a eu quelques désistements. Si vous êtes intéressés, nous vous demandons de nous envoyer rapidement votre bulletin d'inscription par mail (détails ci-dessous). Les inscriptions seront prises dans l’ordre d’arrivée.
 
-=======
+==========================================
 Le paragraphe 4 est en : FRA
 	Bien sincèrement,
 
-=======
+==========================================
 Le paragraphe 5 est en : FRA
 	Christophe et Olivier.
 (pour le comité d'organisation)
 
-=======
+==========================================
 Le paragraphe 6 est en : FRA
 	## Date: 19 juin 2014, 9h-17h30
 Lieu: Institut Français de Bioinformatique , Avenue de la Terrasse  Bât 21, 91190 Gif-sur-Yvette
 
-=======
+==========================================
 Le paragraphe 7 est en : ENG
 	## Formateurs
 Christophe BLANCHET (IFB)
@@ -40,57 +46,57 @@ Charles LOOMIS (LAL)
 Cyril MONJEAUD (GenOuest)
 Olivier SALLOU (GenOuest)
 
-=======
+==========================================
 Le paragraphe 8 est en : FRA
 	## Programme
 (chaque session comprendra une partie théorique et une mise en application sur les clouds académiques en production à l'IFB, GenOuest et P2IO)
 
-=======
+==========================================
 Le paragraphe 9 est en : ENG
 	9h00: Accueil
 
-=======
+==========================================
 Le paragraphe 10 est en : FRA
 	9h30: Cloud computing: principes généraux et exemple de StratusLab (C. Loomis)
 
-=======
+==========================================
 Le paragraphe 11 est en : FRA
 	11h00: pause café
 
-=======
+==========================================
 Le paragraphe 12 est en : ENG
 	11h30: Cloud pour la biologie: exemples des clouds IDB-IBCP (C. Blanchet, C. Gauthey) et GenOuest (O. Sallou, C. Monjeaud).
 
-=======
+==========================================
 Le paragraphe 13 est en : ENG
 	13h00: repas
 
-=======
+==========================================
 Le paragraphe 14 est en : FRA
 	14h00: Exemples d’applications de cloud en NGS (Galaxy), protéomique et analyse de séquences intensive avec Hadoop MapReduce
 
-=======
+==========================================
 Le paragraphe 15 est en : FRA
 	15h30: pause café
 
-=======
+==========================================
 Le paragraphe 16 est en : FRA
 	16h00: Perspectives et cas d’usage de la salle (Tous)
 
-=======
+==========================================
 Le paragraphe 17 est en : ENG
 	17h30: fin du tutoriel
 
-=======
+==========================================
 Le paragraphe 18 est en : FRA
 	## Bulletin d’inscription
 à envoyer à : Christophe Blanchet <christophe.blanchet@ibcp.fr>, Olivier Collin <olivier.collin@irisa.fr>
 
-=======
+==========================================
 Le paragraphe 19 est en : FRA
 	Souhaite participer au Tutoriel « Utilisation du Cloud pour la Biologie » le 19 juin 2014 à l'IFB.
 
-=======
+==========================================
 Le paragraphe 20 est en : FRA
 	Civilité (Mme, M., Pr., Dr):
 NOM:
@@ -103,7 +109,7 @@ Fonction:
 Laboratoire (Nom et Sigle) :
 Adresse postale:
 
-=======
+==========================================
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -112,27 +118,27 @@ La phrase 1 est en : FRA
 	Bonjour,
 
 Le tutoriel  « Utilisation du Cloud pour la Biologie », prévu initialement le 18 mars à Lyon, avait été reporté à une date ultérieure.
-=======
+==========================================
 La phrase 2 est en : FRA
 	Cette nouvelle session se fera le 19 juin 2014, cependant veuillez noter qu'elle aura lieu dans les locaux de l'Institut Français de Bioinformatique (IFB) à Gif-sur-Yvette (en région parisienne) et non plus à Lyon.
-=======
+==========================================
 La phrase 3 est en : FRA
 	Le programme reste inchangé et nous vous le joignons pour rappel à la fin de ce mail.
-=======
+==========================================
 La phrase 4 est en : FRA
 	Il reste quelques places.En effet, pour cette nouvelle session nous avons privilégié les personnes inscrites pour la session initiale mais il y a eu quelques désistements.
-=======
+==========================================
 La phrase 5 est en : FRA
 	Si vous êtes intéressés, nous vous demandons de nous envoyer rapidement votre bulletin d'inscription par mail (détails ci-dessous).
-=======
+==========================================
 La phrase 6 est en : FRA
 	Les inscriptions seront prises dans l’ordre d’arrivée.
-=======
+==========================================
 La phrase 7 est en : FRA
 	Bien sincèrement,
 
 Christophe et Olivier.
-=======
+==========================================
 La phrase 8 est en : FRA
 	(pour le comité d'organisation)
 
@@ -158,7 +164,7 @@ Olivier SALLOU (GenOuest)
 11h00: pause café
 
 11h30: Cloud pour la biologie: exemples des clouds IDB-IBCP (C. Blanchet, C. Gauthey) et GenOuest (O. Sallou, C. Monjeaud).
-=======
+==========================================
 La phrase 9 est en : FRA
 	13h00: repas
 
@@ -174,22 +180,22 @@ La phrase 9 est en : FRA
 à envoyer à : Christophe Blanchet <christophe.blanchet@ibcp.fr>, Olivier Collin <olivier.collin@irisa.fr>
 
 Souhaite participer au Tutoriel « Utilisation du Cloud pour la Biologie » le 19 juin 2014 à l'IFB.
-=======
+==========================================
 La phrase 10 est en : FRA
 	Civilité (Mme, M., Pr., Dr):
 NOM:
 Prénom:
 Email:
 Tél.
-=======
+==========================================
 La phrase 11 est en : ENG
 	:
 Statut (chercheur, ens.-cherch., thésard, postdoc, etc.)
-=======
+==========================================
 La phrase 12 est en : ENG
 	:
 Organisme :
 Fonction:
 Laboratoire (Nom et Sigle) :
 Adresse postale:
-=======
+==========================================
