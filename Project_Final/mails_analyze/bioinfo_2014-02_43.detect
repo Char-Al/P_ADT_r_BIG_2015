@@ -1,361 +1,361 @@
-Le mail "bioinfo_2014-02_43" est globalement en : ENG
-[('ENG', 0.4586554406654052), ('FRA', 0.6511851959432092)]
+Le mail "bioinfo_2014-02_43" est globalement en : english
+[('english', 0.21643725302004935), ('french', 0.5428396187689287)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] LATA 2014: call for participation
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	*To be removed from our mailing list, please respond to this message with UNSUBSCRIBE in the subject line*
 
 ==========================================
-Le paragraphe 2 est en : n
+Le paragraphe 2 est en : non detect
 	*************************************************************************
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	8th INTERNATIONAL CONFERENCE ON LANGUAGE AND AUTOMATA THEORY AND APPLICATIONS
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	LATA 2014
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Madrid, Spain
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	March 10-14, 2014
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	http://grammars.grlmc.com/lata2014/
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	*********************************************************************
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	PROGRAM
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Monday, March 10:
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	9:30 - 10:30 	Registration
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	10:30 - 10:40 	Opening
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	10:40 - 11:30	Helmut Seidl: Interprocedural Information Flow Analysis of XML Processors - Invited Lecture
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	11:30 - 11:45 	Break
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	11:45 - 13:00 	Alberto Dennunzio, Enrico Formenti, Luca Manzoni: Extremal Combinatorics of Reaction Systems
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Fernando Arroyo, Sandra Gómez Canaval, Victor Mitrana, Ștefan Popescu: Networks of Polarized Evolutionary Processors are Computationally Complete
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	Liang Ding, Abdul Samad, Xingran Xue, Xiuzhen Huang, Russell L. Malmberg, Liming Cai: Stochastic k-Tree Grammar and its Application in Biomolecular Structure Modeling
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	13:00 - 14:30 	Lunch
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	14:30 - 15:45 	Béatrice Bérard, Olivier Carton: Channel Synthesis Revisited
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	Daniel Průša: Weight-reducing Hennie Machines and Their Descriptional Complexity
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : french
 	Manfred Droste, Stefan Dück: Weighted Automata and Logics for Infinite Nested Words
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	15:45 - 16:00 	Break
 
 ==========================================
-Le paragraphe 23 est en : FRA
+Le paragraphe 23 est en : french
 	16:00 - 17:15 	Friedrich Otto, František Mráz: Extended Two-Way Ordered Restarting Automata for Picture Languages
 
 ==========================================
-Le paragraphe 24 est en : ENG
+Le paragraphe 24 est en : english
 	Sang-Ki Ko, Yo-Sub Han, Kai Salomaa: Top-Down Tree Edit-Distance of Regular Tree Languages
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	Bertram Felgenhauer, René Thiemann: Reachability Analysis with State-Compatible Automata
 
 ==========================================
-Le paragraphe 26 est en : ENG
+Le paragraphe 26 est en : english
 	17:15 - 17:45 	Coffee Break
 
 ==========================================
-Le paragraphe 27 est en : FRA
+Le paragraphe 27 est en : french
 	17:45 - 18:35 	Leslie A. Goldberg: The Complexity of Approximate Counting - Invited Lecture
 
 ==========================================
-Le paragraphe 28 est en : ENG
+Le paragraphe 28 est en : english
 	Tuesday, March 11:
 
 ==========================================
-Le paragraphe 29 est en : ENG
+Le paragraphe 29 est en : english
 	9:00 - 9:50 	Sanjeev Khanna: Matchings, Random Walks, and Sampling - Invited Lecture
 
 ==========================================
-Le paragraphe 30 est en : ENG
+Le paragraphe 30 est en : english
 	9:50 - 10:00 	Break
 
 ==========================================
-Le paragraphe 31 est en : ENG
+Le paragraphe 31 est en : english
 	10:00 - 11:15 	Niko Beerenwinkel, Stefano Beretta, Paola Bonizzoni, Riccardo Dondi, Yuri Pirola: Covering Pairs in Directed Acyclic Graphs
 
 ==========================================
-Le paragraphe 32 est en : ENG
+Le paragraphe 32 est en : english
 	Eike Best, Raymond Devillers: Characterisation of the State Spaces of Live and Bounded Marked Graph Petri Nets
 
 ==========================================
-Le paragraphe 33 est en : ENG
+Le paragraphe 33 est en : english
 	María Martos-Salgado, Fernando Rosa-Velardo: Expressiveness of Dynamic Networks of Timed Petri Nets
 
 ==========================================
-Le paragraphe 34 est en : ENG
+Le paragraphe 34 est en : english
 	11:15 - 11:45 	Coffee Break
 
 ==========================================
-Le paragraphe 35 est en : ENG
+Le paragraphe 35 est en : english
 	11:45 - 13:00 	Bireswar Das, Patrick Scharpfenecker, Jacobo Torán: Succinct Encodings of Graph Isomorphism
 
 ==========================================
-Le paragraphe 36 est en : ENG
+Le paragraphe 36 est en : english
 	Matthias Gallé, Matías Tealdi: On Context-Diverse Repeats and their Incremental Computation
 
 ==========================================
-Le paragraphe 37 est en : ENG
+Le paragraphe 37 est en : english
 	Marcella Anselmo, Dora Giammarresi, Maria Madonia: Picture Codes with Finite Deciphering Delay
 
 ==========================================
-Le paragraphe 38 est en : ENG
+Le paragraphe 38 est en : english
 	13:00 - 14:30 	Lunch
 
 ==========================================
-Le paragraphe 39 est en : ENG
+Le paragraphe 39 est en : english
 	14:30 - 15:45 	Paul Tarau: Computing with Catalan Families
 
 ==========================================
-Le paragraphe 40 est en : ENG
+Le paragraphe 40 est en : english
 	Joan Boyar, Shahin Kamali, Kim S. Larsen, Alejandro López-Ortiz: On the List Update Problem with Advice
 
 ==========================================
-Le paragraphe 41 est en : ENG
+Le paragraphe 41 est en : english
 	Rob Gysel: Minimal Triangulation Algorithms for Perfect Phylogeny Problems
 
 ==========================================
-Le paragraphe 42 est en : ENG
+Le paragraphe 42 est en : english
 	15:45 - 16:00 	Break
 
 ==========================================
-Le paragraphe 43 est en : FRA
+Le paragraphe 43 est en : french
 	16:00 - 17:15 	Grégoire Laurence, Aurélien Lemay, Joachim Niehren, Sławek Staworko, Marc Tommasi: Learning Sequential Tree-to-word Transducers
 
 ==========================================
-Le paragraphe 44 est en : ENG
+Le paragraphe 44 est en : english
 	Dariusz Kalociński: On Computability and Learnability of the Pumping Lemma Function
 
 ==========================================
-Le paragraphe 45 est en : ENG
+Le paragraphe 45 est en : english
 	Slimane Bellaouar, Hadda Cherroun, Djelloul Ziadi: Efficient List-based Computation of the String Subsequence Kernel
 
 ==========================================
-Le paragraphe 46 est en : ENG
+Le paragraphe 46 est en : english
 	Wednesday, March 12:
 
 ==========================================
-Le paragraphe 47 est en : ENG
+Le paragraphe 47 est en : english
 	9:00 - 9:50 	Oscar H. Ibarra: On the Parikh Membership Problem for FAs, PDAs, and CMs - Invited Lecture
 
 ==========================================
-Le paragraphe 48 est en : ENG
+Le paragraphe 48 est en : english
 	9:50 - 10:00 	Break
 
 ==========================================
-Le paragraphe 49 est en : ENG
+Le paragraphe 49 est en : english
 	10:00 - 11:15 	Marius Konitzer, Hans Ulrich Simon: DFA with a Bounded Activity Level
 
 ==========================================
-Le paragraphe 50 est en : ENG
+Le paragraphe 50 est en : english
 	Shenggen Zheng, Jozef Gruska, Daowen Qiu: On the State Complexity of Semi-Quantum Finite Automata
 
 ==========================================
-Le paragraphe 51 est en : ENG
+Le paragraphe 51 est en : english
 	Vojtěch Vorel: Complexity of a Problem Concerning Reset Words for Eulerian Binary Automata
 
 ==========================================
-Le paragraphe 52 est en : ENG
+Le paragraphe 52 est en : english
 	11:15 - 11:45 	Coffee Break
 
 ==========================================
-Le paragraphe 53 est en : ENG
+Le paragraphe 53 est en : english
 	11:45 - 13:00 	Pascal Caron, Marianne Flouret, Ludovic Mignot: (k,l)-Unambiguity and Quasi-Deterministic Structures: an Alternative for the Determinization
 
 ==========================================
-Le paragraphe 54 est en : ENG
+Le paragraphe 54 est en : english
 	Zuzana Bednárová, Viliam Geffert: Two Double-Exponential Gaps for Automata with a Limited Pushdown
 
 ==========================================
-Le paragraphe 55 est en : ENG
+Le paragraphe 55 est en : english
 	Parosh Aziz Abdulla, Mohamed Faouzi Atig, Jari Stenman: Computing Optimal Reachability Costs in Priced Dense-Timed Pushdown Automata
 
 ==========================================
-Le paragraphe 56 est en : ENG
+Le paragraphe 56 est en : english
 	13:00 - 14:30 	Lunch
 
 ==========================================
-Le paragraphe 57 est en : ENG
+Le paragraphe 57 est en : english
 	15:45 - 17:45 	Sightseeing in Madrid by Bus
 
 ==========================================
-Le paragraphe 58 est en : ENG
+Le paragraphe 58 est en : english
 	Thursday, March 13:
 
 ==========================================
-Le paragraphe 59 est en : ENG
+Le paragraphe 59 est en : english
 	9:00 - 9:50 	Javier Esparza: A Brief History of Strahler Numbers (I) - Invited Tutorial
 
 ==========================================
-Le paragraphe 60 est en : ENG
+Le paragraphe 60 est en : english
 	9:50 - 10:00 	Break
 
 ==========================================
-Le paragraphe 61 est en : ENG
+Le paragraphe 61 est en : english
 	10:00 - 11:15 	Zeinab Mazadi, Ziyuan Gao, Sandra Zilles: Distinguishing Pattern Languages with Membership Examples
 
 ==========================================
-Le paragraphe 62 est en : ENG
+Le paragraphe 62 est en : english
 	Francine Blanchet-Sadri, Andrew Lohr, Sean Simmons, Brent Woodhouse: Computing Depths of Patterns
 
 ==========================================
-Le paragraphe 63 est en : FRA
+Le paragraphe 63 est en : french
 	Alexandre Blondin Massé, Sébastien Gaboury, Sylvain Hallé, Michaël Larouche: Solving Equations on Words with Morphisms and Antimorphisms
 
 ==========================================
-Le paragraphe 64 est en : ENG
+Le paragraphe 64 est en : english
 	11:15 - 11:45 	Coffee Break
 
 ==========================================
-Le paragraphe 65 est en : ENG
+Le paragraphe 65 est en : english
 	11:45 - 13:00 	Anton Cerný: Solutions to the Multi-Dimensional Equal Powers Problem Constructed by Composition of Rectangular Morphisms
 
 ==========================================
-Le paragraphe 66 est en : ENG
+Le paragraphe 66 est en : english
 	Enrico Formenti, Markus Holzer, Martin Kutrib, Julien Provillard: ω-rational Languages: High Complexity Classes vs. Borel Hierarchy
 
 ==========================================
-Le paragraphe 67 est en : ENG
+Le paragraphe 67 est en : english
 	Thomas Weidner: Probabilistic ω-Regular Expressions
 
 ==========================================
-Le paragraphe 68 est en : ENG
+Le paragraphe 68 est en : english
 	13:00 - 14:30 	Lunch
 
 ==========================================
-Le paragraphe 69 est en : FRA
+Le paragraphe 69 est en : french
 	14:30 - 15:45 	Haizhou Li, François Pinet, Farouk Toumani: Probabilistic Simulation for Probabilistic Data-aware Business Processes
 
 ==========================================
-Le paragraphe 70 est en : ENG
+Le paragraphe 70 est en : english
 	Daniel Bundala, Jakub Závodný: Optimal Sorting Networks
 
 ==========================================
-Le paragraphe 71 est en : ENG
+Le paragraphe 71 est en : english
 	Etienne Dubourg, David Janin: Algebraic Tools for the Overlapping Tile Product
 
 ==========================================
-Le paragraphe 72 est en : ENG
+Le paragraphe 72 est en : english
 	15:45 - 16:00 	Break
 
 ==========================================
-Le paragraphe 73 est en : ENG
+Le paragraphe 73 est en : english
 	16:00 - 17:15 	Luca Breveglieri, Stefano Crespi Reghizzi, Angelo Morzenti: Shift-Reduce Parsers for Transition Networks
 
 ==========================================
-Le paragraphe 74 est en : ENG
+Le paragraphe 74 est en : english
 	Gadi Aleksandrowicz, Andrei Asinowski, Gill Barequet, Ronnie Barequet: Formulae for Polyominoes on Twisted Cylinders
 
 ==========================================
-Le paragraphe 75 est en : ENG
+Le paragraphe 75 est en : english
 	Alexandre Blondin Massé, Amadou Makhtar Tall, Hugo Tremblay: On the Arithmetics of Discrete Figures
 
 ==========================================
-Le paragraphe 76 est en : ENG
+Le paragraphe 76 est en : english
 	Friday, March 14:
 
 ==========================================
-Le paragraphe 77 est en : ENG
+Le paragraphe 77 est en : english
 	9:00 - 9:50 	Javier Esparza: A Brief History of Strahler Numbers (II) - Invited Tutorial
 
 ==========================================
-Le paragraphe 78 est en : ENG
+Le paragraphe 78 est en : english
 	9:50 - 10:00 	Break
 
 ==========================================
-Le paragraphe 79 est en : ENG
+Le paragraphe 79 est en : english
 	10:00 - 11:15 	Hanna Klaudel, Maciej Koutny, Zhenhua Duan: Interval Temporal Logic Semantics of Box Algebra
 
 ==========================================
-Le paragraphe 80 est en : ENG
+Le paragraphe 80 est en : english
 	Pierre Ganty, Ahmed Rezine: Ordered Counter-Abstraction: Refinable Subword Relations for Parameterized Verification
 
 ==========================================
-Le paragraphe 81 est en : ENG
+Le paragraphe 81 est en : english
 	Matthew Gwynne, Oliver Kullmann: On SAT Representations of XOR Constraints
 
 ==========================================
-Le paragraphe 82 est en : ENG
+Le paragraphe 82 est en : english
 	11:15 - 11:45 	Coffee Break
 
 ==========================================
-Le paragraphe 83 est en : ENG
+Le paragraphe 83 est en : english
 	11:45 - 13:00 	Bernd Finkbeiner, Hazem Torfah: Counting Models of Linear-time Temporal Logic
 
 ==========================================
-Le paragraphe 84 est en : ENG
+Le paragraphe 84 est en : english
 	Claudia Carapelle, Shiguang Feng, Oliver Fernández Gil, Karin Quaas: Satisfiability for MTL and TPTL over Non-Monotonic Data Words
 
 ==========================================
-Le paragraphe 85 est en : ENG
+Le paragraphe 85 est en : french
 	Joachim Klein, David Müller, Christel Baier, Sascha Klüppelholz: Are Good-for-games Automata Good for Probabilistic Model Checking?
 
 ==========================================
-Le paragraphe 86 est en : ENG
+Le paragraphe 86 est en : english
 	13:00 		Closing
 
 ==========================================
-Le paragraphe 87 est en : n
+Le paragraphe 87 est en : non detect
 	
 
 ==========================================
@@ -363,7 +363,7 @@ Le paragraphe 87 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	*To be removed from our mailing list, please respond to this message with UNSUBSCRIBE in the subject line*
 
 *************************************************************************
@@ -534,7 +534,7 @@ Claudia Carapelle, Shiguang Feng, Oliver Fernández Gil, Karin Quaas: Satisfiabi
 
 Joachim Klein, David Müller, Christel Baier, Sascha Klüppelholz: Are Good-for-games Automata Good for Probabilistic Model Checking?
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	13:00 		Closing
 
 

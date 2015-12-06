@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-05_62" est globalement en : FRA
-[('FRA', 0.6055711967427134), ('ENG', 2.2229879233794594)]
+Le mail "bioinfo_2014-05_62" est globalement en : french
+[('french', 0.6313963646093365), ('english', 1.1027629373602625)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Ingénieurs Bioinformatique évolutive
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieurs Bioinformatique évolutive
 Type de poste : Post-doc / IR
 Durée du poste : 18 mois
@@ -26,12 +26,12 @@ Email du contact : gascuel@lirmm.fr
 Laboratoire : LIRMM
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieurs-bioinformatique-%C3%A9volutive
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

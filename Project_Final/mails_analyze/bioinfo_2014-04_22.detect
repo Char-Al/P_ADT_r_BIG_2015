@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-04_22" est globalement en : FRA
-[('FRA', 1.259796636052905), ('ENG', 7.447424134742652)]
+Le mail "bioinfo_2014-04_22" est globalement en : french
+[('french', 0.18109453583833124), ('english', 0.45693967909789207)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Sujet Métagénomique  CJS (Contrat jeune scientifique: thèse +2 ans)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Vous trouverez dans le liens suivant le descriptif d'un sujet CJS 
 tournant autour de la métagénomique avec des approches algorithmiques et 
 statistiques, proposé en co-encadrement par l' INRA - UR MIG (Sophie 
@@ -23,35 +23,35 @@ Schbath), l'INRA AgroParistech (Stéphane Robin) et l'Inria Rennes-equipe
 Genscale (Pierre Peterlongo).
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	<http://team.inria.fr/genscale/job-offers/contrat-jeune-scientifique-these-2-ans/> 
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Développement de méthodes statistiques et algorithmiques en 
 métagénomique comparative 
 <http://team.inria.fr/genscale/job-offers/contrat-jeune-scientifique-these-2-ans/> 
 https://team.inria.fr/genscale/job-offers/contrat-jeune-scientifique-these-2-ans/
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	-- 
 Document sans titre
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	*Pierre Peterlongo - INRIA* - Research Associate / Chargé de recherche
 http://people.rennes.inria.fr/Pierre.Peterlongo/
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Campus de Beaulieu- Rennes
 35042 Rennes Cedex, France
 Tel : +33 (0)2 99 84 74 59
 Fax : +33 (0)2 99 84 71 71
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	
 
 ==========================================
@@ -59,7 +59,7 @@ Le paragraphe 8 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Vous trouverez dans le liens suivant le descriptif d'un sujet CJS 
@@ -68,7 +68,7 @@ statistiques, proposé en co-encadrement par l' INRA - UR MIG (Sophie
 Schbath), l'INRA AgroParistech (Stéphane Robin) et l'Inria Rennes-equipe 
 Genscale (Pierre Peterlongo).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	<http://team.inria.fr/genscale/job-offers/contrat-jeune-scientifique-these-2-ans/> 
 
 

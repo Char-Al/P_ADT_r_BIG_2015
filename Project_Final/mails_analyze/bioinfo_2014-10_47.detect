@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_47" est globalement en : ENG
-[('ENG', 0.3121783635739791), ('FRA', 0.6352818624437087)]
+Le mail "bioinfo_2014-10_47" est globalement en : english
+[('english', 0.0336632966086137), ('french', 0.5885092734754308)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Research associate in Bioinformatics/Cheminformatics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Research associate in Bioinformatics/Cheminformatics 
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Closing date : 13/11/2014
 Reference : E&PS-05386
 Faculty / Organisational unit : Engineering & Physical Sciences 
@@ -28,35 +28,35 @@ Salary : £30,434 to £37,394 per annum (about 2500€ to 3000€ net per month)
 Hours per week : Full time
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	You will take part in a project, which aims to metabolically engineer chemicals in microbial chassis strains. The project comprises a design, a build and a test component and necessitates close collaboration between computational and wet laboratories. You will participate in the design task and be responsible for developing and deploying software based on chemical fingerprints and machine learning kernel methods to design reaction rules producing novel metabolic pathways.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	You will have a recent PhD in computational chemistry, computational biology or computer science. Essential qualifications include background knowledge in cheminformatics and/or bioinformatics, experience with machine learning and/or structure activity relationships, and excellent programming skills in languages such as C++, Java, Perl, Python, PHP, as well as scientific software (R or Matlab). Strong collaborative skills and the ability to work and communicate in a team environment are also required. Experience with software project development and familiarity with relational databases is not a prerequisite but is desirable.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Informal enquiries
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Informal enquiries can be made to Professor Jean-Loup Faulon
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Email: jfaulon@gmail.com
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	The School of Chemistry is committed to promoting equality and diversity, including the Athena SWAN charter for promoting women’s careers in STEMM subjects (science, technology, engineering, mathematics and medicine) in higher education. The School received a Silver Award in 2013 for their commitment to the representation of women in the workplace and we particularly welcome applications from women for this post. Appointment will always be made on merit. 
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	For further information, please visit http://www.chemistry.manchester.ac.uk/about-us/athena-swan/.
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	————-
 
 ==========================================
@@ -64,7 +64,7 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Research associate in Bioinformatics/Cheminformatics 
 
 Closing date : 13/11/2014
@@ -81,25 +81,25 @@ Hours per week : Full time
 
 You will take part in a project, which aims to metabolically engineer chemicals in microbial chassis strains.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The project comprises a design, a build and a test component and necessitates close collaboration between computational and wet laboratories.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	You will participate in the design task and be responsible for developing and deploying software based on chemical fingerprints and machine learning kernel methods to design reaction rules producing novel metabolic pathways.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	You will have a recent PhD in computational chemistry, computational biology or computer science.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Essential qualifications include background knowledge in cheminformatics and/or bioinformatics, experience with machine learning and/or structure activity relationships, and excellent programming skills in languages such as C++, Java, Perl, Python, PHP, as well as scientific software (R or Matlab).
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Strong collaborative skills and the ability to work and communicate in a team environment are also required.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Experience with software project development and familiarity with relational databases is not a prerequisite but is desirable.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Informal enquiries
 
 Informal enquiries can be made to Professor Jean-Loup Faulon
@@ -108,15 +108,15 @@ Email: jfaulon@gmail.com
 
 The School of Chemistry is committed to promoting equality and diversity, including the Athena SWAN charter for promoting women’s careers in STEMM subjects (science, technology, engineering, mathematics and medicine) in higher education.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	The School received a Silver Award in 2013 for their commitment to the representation of women in the workplace and we particularly welcome applications from women for this post.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Appointment will always be made on merit.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	For further information, please visit http://www.chemistry.manchester.ac.uk/about-us/athena-swan/.
 ==========================================
-La phrase 12 est en : n
+La phrase 12 est en : non detect
 	————-
 ==========================================

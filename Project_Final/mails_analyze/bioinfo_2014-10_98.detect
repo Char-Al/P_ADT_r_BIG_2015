@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_98" est globalement en : FRA
-[('FRA', 0.4135263556769099), ('ENG', 5.974586805894999)]
+Le mail "bioinfo_2014-10_98" est globalement en : french
+[('french', 0.5081066693693751), ('english', 1.1283111962933394)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Dévelopementsystème d'inform  ation Phenomique végétale
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Dévelopement système d'information Phenomique  
 végétale
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : cyril.pommier@versailles.inra.fr
 Laboratoire : URGI - INRA
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9velopement-syst%C3%A8me-dinformation-phenomique-v%C3%A9g%C3%A9tale
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/d%C3%A9velopement-syst%C3%A8me-dinformation-phenomiqu
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Dévelopement système d'information Phenomique  

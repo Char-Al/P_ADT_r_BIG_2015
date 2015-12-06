@@ -1,37 +1,37 @@
-Le mail "bioinfo_2014-02_50" est globalement en : FRA
-[('FRA', 0.2780500118209388), ('ENG', 7.2463535943259005)]
+Le mail "bioinfo_2014-02_50" est globalement en : french
+[('french', 0.04231129225924675), ('english', 2.6820988758690367)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Bourse de thèsefinancée : Biodiversité et évolution des virus présents dans les métagénomes animaux
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Je souhaite attirer votre attention sur une bourse de thèse financée au sein
 de l¹école doctorale en Santé, Sciences Biologiques et Chimie du Vivant
 (Ecole Doctorale 549, SSBCV) de l¹Université de Tours.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	http://recherche-valorisation.univ-tours.fr/recherche/offres-d-allocations-d
 octorales-en-sante-sciences-biologiques-et-chimie-du-vivant-ecole-doctorale-
 549-ssbcv-pour-la-rentree-universitaire-2014--390435.kjsp
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Bien cordialement,
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Dr Elisabeth Herniou
 Institut de Recherche sur la Biologie de l¹Insecte (IRBI)
 Universite de Tours
@@ -43,7 +43,7 @@ Fax: +33 247366966
 http://irbi.univ-tours.fr//
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Bourse de Thèse 2014
  
 1. Encadrement
@@ -57,7 +57,7 @@ Groupe Evolution des Virus Entomopathogènes (EVE)
 Biodiversité et évolution des virus présents dans les métagénomes animaux
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	3. Résumé : 
 Les virus sont des éléments majeurs des systèmes biologiques, qui appliquent
 des pressions de sélection sur la physiologie de leurs hôtes et jouent sur
@@ -73,7 +73,7 @@ indispensable de quantifier et d¹analyser cette biodiversité virale, à la
 source des maladies émergentes importantes.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Ce sujet de thèse propose de combler en partie nos lacunes sur la
 biodiversité virale par l¹analyse à grande échelle de données d¹animaux
 non-modèles obtenues par NGS. Le but étant de découvrir et de caractériser
@@ -92,13 +92,13 @@ LSV-like chez les fourmis ouvre de nouvelles perspectives sur la
 transmission de ces virus pouvant avoir une portée en science appliquée.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Les objectifs de cette thèse sont: 1) de découvrir de nouveaux virus à
 partir de transcriptomes d¹animaux sauvages non modèles 2) de comprendre
 l¹écologie et l¹évolution d¹un nouveaux virus associé aux fourmis.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Axe 1 : Découverte de nouveaux virus par approche bioinformatique. La
 stratégie à façon déjà mise en ¦uvre par l¹équipe d¹accueil pourra être
 utilisée et améliorée. Le pipeline bioinformatique consiste à assembler de
@@ -109,7 +109,7 @@ positionnement taxonomique de ces virus. Le résultat de cette méta-analyse
 donnera une vision globale de la biodiversité virale chez les métazoaires.
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Axe 2 : Caractérisation moléculaire et évolutive d¹un nouveau virus de
 fourmis. La nature virale des séquences LSV-like sera démontrée par la
 caractérisation en microscopie électronique des particules virales. Afin de
@@ -121,11 +121,11 @@ autres virus qui seront découverts dans l¹axe 1, permettront de retracer
 l¹histoire coévolutive de ces virus et de leurs hôtes.
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	4. Etudiant
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Nous recherchons un(e) étudiant(e) très motivé(e), fortement intéressé(e)
 par la bioinformatique, la biologie évolutive ou la virologie. Une
 expérience dans l'analyse des données NGS est souhaitable.
@@ -137,7 +137,7 @@ présélectionnés le 7 Avril, auront lieu dans la Semaine du 14 au 18 Avril.
 Les auditions à l'Ecole Doctorale sont prévues le mardi 13 mai.
 
 ==========================================
-Le paragraphe 14 est en : n
+Le paragraphe 14 est en : non detect
 	
 
 ==========================================
@@ -145,14 +145,14 @@ Le paragraphe 14 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous,
 
 Je souhaite attirer votre attention sur une bourse de thèse financée au sein
 de l¹école doctorale en Santé, Sciences Biologiques et Chimie du Vivant
 (Ecole Doctorale 549, SSBCV) de l¹Université de Tours.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	http://recherche-valorisation.univ-tours.fr/recherche/offres-d-allocations-d
 octorales-en-sante-sciences-biologiques-et-chimie-du-vivant-ecole-doctorale-
 549-ssbcv-pour-la-rentree-universitaire-2014--390435.kjsp
@@ -174,7 +174,7 @@ Bourse de Thèse 2014
  
 1.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Encadrement
             Dr Elisabeth Herniou et Dr Philippe Gayral
  Unité : IRBI, UMR CNRS 7261 Université François Rabelais
@@ -184,157 +184,157 @@ Groupe Evolution des Virus Entomopathogènes (EVE)
 <mailto:elisabeth.herniou@univ-tours.fr> & philippe.gayral@univ-tours.fr
 2.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Titre de la thèse :
 Biodiversité et évolution des virus présents dans les métagénomes animaux
 
 3.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Résumé : 
 Les virus sont des éléments majeurs des systèmes biologiques, qui appliquent
 des pressions de sélection sur la physiologie de leurs hôtes et jouent sur
 l¹équilibre des écosystèmes.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Les techniques de séquençage de nouvelle
 génération (NGS) ont révélé l¹extraordinaire diversité virale.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	La
 métaviromique rend possible l¹étude de l¹ensemble de la diversité virale au
 sein d¹un échantillon environnemental.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Les analyses bioinformatiques des
 viromes permettent ainsi la découverte de nouveaux virus.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Si les viromes
 d¹organismes modèles commencent à être bien caractérisés, la majorité des
 viromes demeurent inconnue.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	A l¹heure où la mondialisation facilite la
 rencontre entre virus et espèces hôtes potentielles, il apparait
 indispensable de quantifier et d¹analyser cette biodiversité virale, à la
 source des maladies émergentes importantes.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Ce sujet de thèse propose de combler en partie nos lacunes sur la
 biodiversité virale par l¹analyse à grande échelle de données d¹animaux
 non-modèles obtenues par NGS.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Le but étant de découvrir et de caractériser
 de nouveaux virus mais également de comprendre leur évolution.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	En
 collaboration avec l¹ISEM de Montpellier, l¹équipe d¹accueil a obtenu par la
 méthode Illumina de 430 transcriptomes, appartenant à 33 groupes
 taxonomiques d¹animaux sauvages, représentatifs de la diversité des
 métazoaires.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Les résultats préliminaires réalisés à partir de seulement 6%
 des données montrent l¹extraordinaire potentiel de ces transcriptomes pour
 la découverte de nouveaux virus et l¹étude de l¹évolution virale.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Parmi les
 9 virus déjà découverts, nous souhaitons d¹ores et déjà approfondir l¹étude
 d¹un virus de fourmis proche du Lake Sinaï Virus (LSV, +ssRNA virus non
 assigné).
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Le LSV, récemment décrit chez l¹abeille serait potentiellement
 impliqué dans le syndrome d¹effondrement des colonies.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	La découverte de
 LSV-like chez les fourmis ouvre de nouvelles perspectives sur la
 transmission de ces virus pouvant avoir une portée en science appliquée.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Les objectifs de cette thèse sont: 1) de découvrir de nouveaux virus à
 partir de transcriptomes d¹animaux sauvages non modèles 2) de comprendre
 l¹écologie et l¹évolution d¹un nouveaux virus associé aux fourmis.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	Axe 1 : Découverte de nouveaux virus par approche bioinformatique.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	La
 stratégie à façon déjà mise en ¦uvre par l¹équipe d¹accueil pourra être
 utilisée et améliorée.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Le pipeline bioinformatique consiste à assembler de
 novo des transcriptomes, détecter des ORFs et rechercher des protéines
 virales homologues.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	Ceci permet de détecter des génomes viraux.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	La génomique
 comparative et la phylogénétique permettent ensuite de définir le
 positionnement taxonomique de ces virus.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	Le résultat de cette méta-analyse
 donnera une vision globale de la biodiversité virale chez les métazoaires.
 ==========================================
-La phrase 25 est en : FRA
+La phrase 25 est en : french
 	Axe 2 : Caractérisation moléculaire et évolutive d¹un nouveau virus de
 fourmis.
 ==========================================
-La phrase 26 est en : FRA
+La phrase 26 est en : french
 	La nature virale des séquences LSV-like sera démontrée par la
 caractérisation en microscopie électronique des particules virales.
 ==========================================
-La phrase 27 est en : FRA
+La phrase 27 est en : french
 	Afin de
 pouvoir étudier la prévalence du virus dans la nature, une méthode de
 détection par PCR sera mise au point.
 ==========================================
-La phrase 28 est en : FRA
+La phrase 28 est en : french
 	Cette méthode sera complétée par un
 titrage par qPCR afin de mieux évaluer la répartition du virus dans les
 tissus de l¹hôte.
 ==========================================
-La phrase 29 est en : FRA
+La phrase 29 est en : french
 	Ces données, replacées dans le contexte des nombreux
 autres virus qui seront découverts dans l¹axe 1, permettront de retracer
 l¹histoire coévolutive de ces virus et de leurs hôtes.
 ==========================================
-La phrase 30 est en : n
+La phrase 30 est en : non detect
 	4.
 ==========================================
-La phrase 31 est en : FRA
+La phrase 31 est en : french
 	Etudiant
 
 Nous recherchons un(e) étudiant(e) très motivé(e), fortement intéressé(e)
 par la bioinformatique, la biologie évolutive ou la virologie.
 ==========================================
-La phrase 32 est en : FRA
+La phrase 32 est en : french
 	Une
 expérience dans l'analyse des données NGS est souhaitable.
 ==========================================
-La phrase 33 est en : FRA
+La phrase 33 est en : french
 	Pour candidater, envoyer un CV accompagné de vos bulletin de notes de
 licence et master, une lettre de motivation ainsi que les noms et e-mail de
 3 référents.
 ==========================================
-La phrase 34 est en : FRA
+La phrase 34 est en : french
 	La date limite est le lundi 31 of Mars 2014.
 ==========================================
-La phrase 35 est en : FRA
+La phrase 35 est en : french
 	Des auditions, de candidats
 présélectionnés le 7 Avril, auront lieu dans la Semaine du 14 au 18 Avril.
 ==========================================
-La phrase 36 est en : FRA
+La phrase 36 est en : french
 	Les auditions à l'Ecole Doctorale sont prévues le mardi 13 mai.
 
 

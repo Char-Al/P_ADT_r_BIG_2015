@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-04_61" est globalement en : FRA
-[('FRA', 0.4478248208184286), ('ENG', 6.324216076193156)]
+Le mail "bioinfo_2014-04_61" est globalement en : french
+[('french', 0.36520331519732624), ('english', 1.0081586286220565)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Emergence de pathogènes opportunistes d' huîtres dans des populations naturelles de Vibrio
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Emergence de pathogènes opportunistes d'huîtres dans
 des populations naturelles de Vibrio
 Type de poste : Post-doc / IR
@@ -27,12 +27,12 @@ Email du contact : frederique.le-roux@sb-roscoff.fr
 Laboratoire : UPMC-CNRS UMR 8227-Equipe Ifremer "Génomique des vibrios"
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/emergence-de-pathog%C3%A8nes-opportunistes-dhu%C3%AEtres-dans-des-populations-naturelles-de-vibrio
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

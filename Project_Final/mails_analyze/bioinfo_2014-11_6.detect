@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-11_6" est globalement en : FRA
-[('FRA', 0.48378901948826775), ('ENG', 0.5227969849970645)]
+Le mail "bioinfo_2014-11_6" est globalement en : french
+[('french', 0.10750443522353122), ('english', 1.9134307543262872)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Prospectom 2014: programme et derniers jours d'inscriptions
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Atelier PROSPECTOM 19, 20 et 21 Novembre 2014 - Grenoble
 ********************************************************
 Etude visuelle et interactive des protéomes par apprentissage statistique et intégration des bases de données et de connaissances spectrométriques et « omiques ».
@@ -19,17 +19,17 @@ Etude visuelle et interactive des protéomes par apprentissage statistique et in
 http://prospectom.liglab.fr/atelier-2014
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Il est encore possible de s'inscrire à Prospectom jusqu'à la fin de la semaine (vendredi 7 novembre) :
 http://prospectom.liglab.fr/atelier-2014/inscription.html
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Par ailleurs, le programme de l'atelier est maintenant disponible:
 http://prospectom.liglab.fr/atelier-2014/programme.html
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Mercredi 19 novembre après-midi
 Cette première demi-journée sera consacrée  à deux tutoriels qui se dérouleront en parallèle.
 Tutoriel 1 : Laurent Gatto (Cambridge Center for Proteomics, Cambridge) : «  An introduction to R/BioConductor for computational proteomics » Tutoriel 2 : Caroline Truntzer (Clinical Proteomic Platform, Dijon): «  Introduction aux biostatistiques pour la découverte de biomarqueurs »
@@ -39,7 +39,7 @@ Tutoriel 1 : Laurent Gatto (Cambridge Center for Proteomics, Cambridge) : «  An
 15h45-17h00 : Tutoriels, partie II
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Jeudi 20 novembre
 9h00-9h45 : Accueil des participants + café/thé
 9h45-10H00 : Ouverture des journées
@@ -55,7 +55,7 @@ Le paragraphe 5 est en : FRA
 20h00 : Diner de gala (lieu à préciser)
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Vendredi 21 novembre
 9h00-10h00 : Conférence « Machine Learning » : Jean-Philippe VERT (Inst. Curie, Ecole des Mines, Paris) « Machine Learning for personalized medicine »
 10h00-10h30 : Pause-Café
@@ -67,29 +67,29 @@ Le paragraphe 6 est en : FRA
 16h00-16h15 : Remerciement et conclusion
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	NB : Le dernier jours, l'horaire de clôture a été déterminé afin que les participants puissent aisément arriver à la gare de Grenoble (trajet direct en tramway - ligne B, en 25 minutes environ) avant 17h00, à temps pour les trains de 17h20 pour Paris, de 17h30 pour Marseille, ou de 17h54 pour Genève.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Au plaisir de vous voir à Grenoble !
 Thomas
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	--
 Thomas Burger - CNRS Researcher, PhD
 https://sites.google.com/site/thomasburgerswebpage/
 iRTSV-BGE (Univ. Grenoble Alpes - CNRS - CEA - INSERM)
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	CEA de Grenoble - Bât. 42b      | Tel.  : +33 4 38 78 22 72
 17 avenue des Martyrs           | Sec.  : +33 4 38 78 39 97
 38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51   
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Exploring the Dynamics of Proteomes : http://edyp.fr/
 
 
@@ -98,12 +98,12 @@ Le paragraphe 11 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Atelier PROSPECTOM 19, 20 et 21 Novembre 2014 - Grenoble
 ********************************************************
 Etude visuelle et interactive des protéomes par apprentissage statistique et intégration des bases de données et de connaissances spectrométriques et « omiques ».
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	********************************************************
 http://prospectom.liglab.fr/atelier-2014
 
@@ -117,7 +117,7 @@ http://prospectom.liglab.fr/atelier-2014/programme.html
 Mercredi 19 novembre après-midi
 Cette première demi-journée sera consacrée  à deux tutoriels qui se dérouleront en parallèle.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Tutoriel 1 : Laurent Gatto (Cambridge Center for Proteomics, Cambridge) : «  An introduction to R/BioConductor for computational proteomics » Tutoriel 2 : Caroline Truntzer (Clinical Proteomic Platform, Dijon): «  Introduction aux biostatistiques pour la découverte de biomarqueurs »
 13h30-14h00 : Accueil des participants aux tutoriels
 14h00-15h15 : Tutoriels, partie I
@@ -131,7 +131,7 @@ Jeudi 20 novembre
 11H00-11H30 : Pause-Café + installation des posters des participants
 11H30-12H30 : Conférence « visual analytics » : David AUBER (LaBRI, Bordeaux) « Visualisation interactive de données avec Tulip.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Application aux réseaux biologiques »
 12H30-14H00 : Repas
 14H00-15h30 : Atelier Visualisation, partie I : collecte des besoins de la communauté Protéomique
@@ -144,7 +144,7 @@ La phrase 4 est en : FRA
 Vendredi 21 novembre
 9h00-10h00 : Conférence « Machine Learning » : Jean-Philippe VERT (Inst.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Curie, Ecole des Mines, Paris) « Machine Learning for personalized medicine »
 10h00-10h30 : Pause-Café
 10h30-11h30 : Session participant II : biostatistics and biomarker discovery  (présentation de 10 min sans questions, pour préparer les posters)
@@ -156,10 +156,10 @@ La phrase 5 est en : FRA
 
 NB : Le dernier jours, l'horaire de clôture a été déterminé afin que les participants puissent aisément arriver à la gare de Grenoble (trajet direct en tramway - ligne B, en 25 minutes environ) avant 17h00, à temps pour les trains de 17h20 pour Paris, de 17h30 pour Marseille, ou de 17h54 pour Genève.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Au plaisir de vous voir à Grenoble !
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Thomas
 
 
@@ -168,19 +168,19 @@ Thomas Burger - CNRS Researcher, PhD
 https://sites.google.com/site/thomasburgerswebpage/
 iRTSV-BGE (Univ.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Grenoble Alpes - CNRS - CEA - INSERM)
 
 CEA de Grenoble - Bât.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	42b      | Tel.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	: +33 4 38 78 22 72
 17 avenue des Martyrs           | Sec.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	: +33 4 38 78 39 97
 38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51   
 

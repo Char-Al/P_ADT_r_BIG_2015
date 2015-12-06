@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_1" est globalement en : FRA
-[('FRA', 0.27733869258058413), ('ENG', 0.7459319782507086)]
+Le mail "bioinfo_2014-10_1" est globalement en : french
+[('french', 0.4082834974456904), ('english', 0.6569099967055919)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Analyses statistiques e  t biomodélisation des trajectoires temporelles   de la biodiversité
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Analyses statistiques et biomodélisation des  
 trajectoires temporelles de la biodiversité
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact :  luc.peiry@univ-bpclermont.fr
 Laboratoire : GEOLAB
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/analyses-statistiques-et-biomod%C3%A9lisation-des-trajectoires-temporelles-de-la-biodiversit%C3%A9
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/analyses-statistiques-et-biomod%C3%A9lisation-des-tra
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Analyses statistiques et biomodélisation des  

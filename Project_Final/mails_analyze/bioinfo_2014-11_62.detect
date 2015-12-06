@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_62" est globalement en : FRA
-[('FRA', 0.3894232629121406), ('ENG', 1.7722871711326305)]
+Le mail "bioinfo_2014-11_62" est globalement en : french
+[('french', 0.5345171168579138), ('english', 1.0554227534351823)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDI autre] IngénieurDéveloppement I  nformatique / Bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur Développement Informatique / Bioinformatique
 Type de poste : CDI autre
 Durée du poste : indéterminée
@@ -25,7 +25,7 @@ Email du contact : fcrozet@sycomore-tech.com
 Laboratoire : SYCOMORE TECHNOLOGIES
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9veloppement-informatique-bioinformatique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9veloppement-informatique-bioinf
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur Développement Informatique / Bioinformatique

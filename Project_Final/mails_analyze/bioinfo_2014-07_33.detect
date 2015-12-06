@@ -1,26 +1,26 @@
-Le mail "bioinfo_2014-07_33" est globalement en : ENG
-[('ENG', 0.6550055045671774), ('FRA', 1.2242184798043987)]
+Le mail "bioinfo_2014-07_33" est globalement en : english
+[('english', 0.15602362471414397), ('french', 0.3507057536565192)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : french
 Subject : [bioinfo] PhD Position in Saarbrücken
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	 From Dr Tobias Marschall
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The newly established Algorithms for Computational Genomics group headed 
 by Tobias Marschall is looking for highly motivated PhD students.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The group is affiliated with the Center for Bioinformatics at Saarland 
 University and the Max Planck Institute for Informatics in Saarbrücken, 
 Germany. We develop algorithms and statistical methods for computational 
@@ -35,11 +35,11 @@ processing to questions of population genetics. Some examples of current
 projects can be found at http://compgen.mpi-inf.mpg.de/research.php.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The successful applicant will have:
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	  * a master level degree in computer science, bioinformatics, 
 mathematics or a related field,
   * interest in developing algorithms,
@@ -47,7 +47,7 @@ mathematics or a related field,
   * interest in working in an interdisciplinary setting.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : french
 	Saarbrücken is one of the best and largest hubs for Computer Science in 
 Europe. The Computer Science research landscape includes two Max Planck 
 Institutes, the Center for Bioinformatics, the German Research Center 
@@ -58,7 +58,7 @@ successful applicant will be given the opportunity to contribute to the
 success of this vibrant research environment.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Applications should include a motivation letter, a CV, copies of 
 relevant certificates, a publication list (if any) and contact details 
 of one to three references. We also appreciate a link to your 
@@ -68,12 +68,12 @@ applications until the position is filled. All applications arriving
 until *July 21* will receive full consideration.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	For questions, please contact Tobias Marschall
 (t.marschall@mpi-inf.mpg.de).
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
 CNRS Research Director & Head of GDR Bioinformatique Moléculaire
@@ -84,7 +84,7 @@ Fax. (33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -92,41 +92,41 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	 From Dr Tobias Marschall
 
 The newly established Algorithms for Computational Genomics group headed 
 by Tobias Marschall is looking for highly motivated PhD students.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : french
 	The group is affiliated with the Center for Bioinformatics at Saarland 
 University and the Max Planck Institute for Informatics in Saarbrücken, 
 Germany.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	We develop algorithms and statistical methods for computational 
 genomics.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	In particular, we work on methods to analyze high-throughput 
 sequencing data to study genetic diversity, epigenetics, and cancer.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	On 
 the one hand, we develop the required theoretical foundations in 
 algorithmic statistics, combinatorial optimization, and sequence 
 algorithms and, on the other hand, we apply the resulting methods in 
 collaboration with biomedical researchers to gain biological insights.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Topics addressed in the group range from algorithms for low level data 
 processing to questions of population genetics.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Some examples of current 
 projects can be found at http://compgen.mpi-inf.mpg.de/research.php.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The successful applicant will have:
 
   * a master level degree in computer science, bioinformatics, 
@@ -135,51 +135,51 @@ mathematics or a related field,
   * good programming skills,
   * interest in working in an interdisciplinary setting.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : french
 	Saarbrücken is one of the best and largest hubs for Computer Science in 
 Europe.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	The Computer Science research landscape includes two Max Planck 
 Institutes, the Center for Bioinformatics, the German Research Center 
 for Artificial Intelligence and the Cluster of Excellence on Multimodal 
 Computing and Interaction.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	We count some 70 professors/group leaders, 
 around 180 postdocs and 350 PhD students in Computer Science.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	The 
 successful applicant will be given the opportunity to contribute to the 
 success of this vibrant research environment.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Applications should include a motivation letter, a CV, copies of 
 relevant certificates, a publication list (if any) and contact details 
 of one to three references.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	We also appreciate a link to your 
 bachelor/master thesis, if available.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Send your application as a single 
 PDF to Tobias Marschall (t.marschall@mpi-inf.mpg.de).
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	We consider 
 applications until the position is filled.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	All applications arriving 
 until *July 21* will receive full consideration.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	For questions, please contact Tobias Marschall
 (t.marschall@mpi-inf.mpg.de).
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
 CNRS Research Director & Head of GDR Bioinformatique Moléculaire
@@ -187,11 +187,11 @@ LIRMM - UMR 5506 - CC 06 001
 95 Rue de la Galéra - 34095 Montpellier cedex 5 FRANCE
 Tel.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	(33 or 0 from France) 4 67 41 86 64
 Fax.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	(33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 

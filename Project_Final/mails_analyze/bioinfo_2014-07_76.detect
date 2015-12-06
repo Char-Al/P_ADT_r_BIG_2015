@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_76" est globalement en : FRA
-[('ENG', 0.24687266216740858), ('FRA', 0.51087481315287)]
+Le mail "bioinfo_2014-07_76" est globalement en : french
+[('french', 0.5767554794587433), ('english', 0.8885924990563394)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDD autre] Administrateur systeme labo bioinfo
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Administrateur systeme labo bioinfo
 Type de poste : CDD autre
 Durée du poste : 12
@@ -26,12 +26,12 @@ Email du contact : arnaud.droit@crchuq.ulaval.ca
 Laboratoire : Centre de recherche du CHU de Québec
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/administrateur-systeme-labo-bioinfo
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

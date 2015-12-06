@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-04_36" est globalement en : ENG
-[('ENG', 0.4079819511287768), ('FRA', 0.5726729935271446)]
+Le mail "bioinfo_2014-04_36" est globalement en : english
+[('english', 0.574817724081076), ('french', 0.8550278822975601)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Bioinformatics Officer, 2 positions in the University of Queensland Diamantina Institute
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	We have two positions opening in UQDI, Brisbane, Australia.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	More details on these links:
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Bioinformatics Officer (GWAS)
 UQJobs Ref: 495889
 http://uqjobs.uq.edu.au/jobDetails.asp?sJobIDs=495889&lWorkTypeID=&lLocationID=&lCategoryID=&lBrandID=1734&stp=AW&sLanguage=en
@@ -31,11 +31,11 @@ http://uqjobs.uq.edu.au/jobDetails.asp?sJobIDs=495890&lWorkTypeID=&lLocationID=&
  
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Please note that the application deadline is April 17, 2014!
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Kim-Anh
 
 
@@ -44,10 +44,10 @@ Le paragraphe 5 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	We have two positions opening in UQDI, Brisbane, Australia.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	More details on these links:
 
 Bioinformatics Officer (GWAS)
@@ -62,7 +62,7 @@ http://uqjobs.uq.edu.au/jobDetails.asp?sJobIDs=495890&lWorkTypeID=&lLocationID=&
 
 Please note that the application deadline is April 17, 2014!
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Kim-Anh
 
 ==========================================

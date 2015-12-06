@@ -1,40 +1,40 @@
-Le mail "bioinfo_2014-04_92" est globalement en : ENG
-[('ENG', 0.633671074801085), ('FRA', 1.7971267675239517)]
+Le mail "bioinfo_2014-04_92" est globalement en : english
+[('english', 0.056198509465308404), ('french', 0.7805406009684006)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] BioNetVisA workshop at ECCB'14 in Strasbourg
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	BioNetVisA workshop: From biological network reconstruction to data visualization and analysis in molecular biology and medicine.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The workshop will take place in Strasbourg, France, on September 7th, 2014 as part of the European Conference on Computational Biology ECCB14
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The abstracts submission for talks and posters is open now (the deadline is on May 15th)
 https://sysbio.curie.fr/bionetvisa
 http://www.eccb14.org/program/workshops/bionetvisa
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	A travel fellowship for funding participation of young researchers will be available. Priority will be given to selected speakers.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Scope:
 One day workshop, BioNetVisA will be focused on computational pathway analysis, applications in research, clinics, biotech and beyond. 
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	The goal of BioNetVisA workshop is to build a discussion around:
 - Approaches for biological knowledge formalisation, data integration and analysis.
 - Compatibility between different methods and biological networks resources available in the field.
@@ -42,19 +42,19 @@ Le paragraphe 6 est en : ENG
 - Accessibility of available tools for wide range of user in every-day standalone application in biological, clinical and biotech labs.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	The workshop is suitable for wide audience as database providers, networks creators, computational and experimental biologists, clinicians and anyone who is interested to be exposed to the different paradigms of network biology and the latest achievements in the field.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Please spread a word and forward this advertisement to your colleagues.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	If you have any question, contact us at bionetvisa@curie.fr
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	BioNetVisA workshop organising committee:
 Inna Kuperstein (Institut Curie, Paris, France)
 Emmanuel Barillot (Institut Curie, Paris, France)
@@ -71,10 +71,10 @@ Benno Schwikowski (Institut Pasteur, France)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	BioNetVisA workshop: From biological network reconstruction to data visualization and analysis in molecular biology and medicine.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The workshop will take place in Strasbourg, France, on September 7th, 2014 as part of the European Conference on Computational Biology ECCB14
 
 The abstracts submission for talks and posters is open now (the deadline is on May 15th)
@@ -83,33 +83,33 @@ http://www.eccb14.org/program/workshops/bionetvisa
 
 A travel fellowship for funding participation of young researchers will be available.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Priority will be given to selected speakers.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Scope:
 One day workshop, BioNetVisA will be focused on computational pathway analysis, applications in research, clinics, biotech and beyond.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The goal of BioNetVisA workshop is to build a discussion around:
 - Approaches for biological knowledge formalisation, data integration and analysis.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	- Compatibility between different methods and biological networks resources available in the field.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	- Applicability for concrete research and clinical projects based on high-throughput data.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	- Accessibility of available tools for wide range of user in every-day standalone application in biological, clinical and biotech labs.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	The workshop is suitable for wide audience as database providers, networks creators, computational and experimental biologists, clinicians and anyone who is interested to be exposed to the different paradigms of network biology and the latest achievements in the field.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Please spread a word and forward this advertisement to your colleagues.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	If you have any question, contact us at bionetvisa@curie.fr
 
 BioNetVisA workshop organising committee:

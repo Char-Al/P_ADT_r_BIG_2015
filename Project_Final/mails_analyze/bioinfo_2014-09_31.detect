@@ -1,53 +1,53 @@
-Le mail "bioinfo_2014-09_31" est globalement en : ENG
-[('ENG', 0.3642237335066274), ('FRA', 0.8240240397869202)]
+Le mail "bioinfo_2014-09_31" est globalement en : english
+[('english', 0.026064436473745865), ('french', 0.4500231888246183)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Call for papers: NIPS 2014 workshop on Machine Learning in
  Computational Biology
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	
 NIPS 2014 workshop on Machine Learning in Computational Biology
 ----------
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Call for contributions
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	     Workshop on Machine Learning in Computational Biology
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	                    http://www.mlcb.org
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	    A workshop at the Twenty-Seventh Annual Conference on
      Neural Information Processing Systems (NIPS 2014)
        Montreal, QC, Canada, December 13, 2014.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Important dates:
 Oct 22, 2014 : Deadline for submission of extended abstracts
 Nov 4, 2014: Acceptance notification
 Dec 13, 2014: Workshop date
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	WORKSHOP DESCRIPTION
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	The field of computational biology has seen dramatic growth over
 the past few years, in terms of newly available data, new
 scientific questions and new challenges for learning and
@@ -67,7 +67,7 @@ technologies are yielding terabyte scale data sets that require
 novel algorithmic solutions.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	The workshop will host presentations of emerging problems and
 machine learning techniques in computational biology.  We encourage
 contributions describing either progress on new bioinformatics
@@ -78,35 +78,35 @@ and other techniques applied to relevant bioinformatics problems
 would all be appropriate for the workshop.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	SUBMISSION INSTRUCTIONS
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Researchers interested in contributing should upload an extended
 abstract of 4 pages in PDF format to the MLCB submission web site
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	https://easychair.org/conferences/?conf=mlcb2014
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	by Oct 22,  2014, 11:59pm (time zone of your choice).
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	No special style is required. Authors may use the NIPS style file, but
 are also free to use other styles as long as they use standard font
 size (11 pt) and margins (1 in).
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	*Submissions should be suitably anonymized and meet the
 requirements for double-blind reviewing.*
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	All submissions will be anonymously peer reviewed and will be
 evaluated on the basis of their technical content.  A strong
 submission to the workshop typically presents a new learning method
@@ -117,7 +117,7 @@ also be considered. Examples of research presented in previous years
 can be found online at http://www.mlcb.org/nipscompbio/previous/.
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	The workshop allows submissions of papers that are under review or
 have been recently published in a conference or a journal. This is
 done to encourage presentation of mature research projects that are
@@ -125,20 +125,20 @@ interesting to the community. The authors should clearly state any
 overlapping published work at time of submission.
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	INVITED SPEAKERS
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	Mark Gerstein (Yale University)
 Anshul Kundaje (Stanford University)
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	ORGANIZERS
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	Anna Goldenberg (University of Toronto)
 Sara Mostafavi (UBC)
 Oliver Stegle (EMBL-EBI)
@@ -146,7 +146,7 @@ Su-In Lee (University of Washington)
 Martin Renqiang Min (NEC Labs America)
 
 ==========================================
-Le paragraphe 22 est en : FRA
+Le paragraphe 22 est en : french
 	-- 
 Jean-Philippe Vert
 Cancer computational genomics and bioinformatics
@@ -154,7 +154,7 @@ Mines ParisTech - Institut Curie - INSERM U900
 http://cbio.ensmp.fr/~jvert
 
 ==========================================
-Le paragraphe 23 est en : n
+Le paragraphe 23 est en : non detect
 	
 
 ==========================================
@@ -162,7 +162,7 @@ Le paragraphe 23 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 NIPS 2014 workshop on Machine Learning in Computational Biology
 ----------
@@ -178,7 +178,7 @@ Call for contributions
      Neural Information Processing Systems (NIPS 2014)
        Montreal, QC, Canada, December 13, 2014.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Important dates:
 Oct 22, 2014 : Deadline for submission of extended abstracts
 Nov 4, 2014: Acceptance notification
@@ -191,12 +191,12 @@ the past few years, in terms of newly available data, new
 scientific questions and new challenges for learning and
 inference.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	In particular, biological data is often relationally
 structured and highly diverse, and thus requires combining multiple
 types of weak evidence from heterogeneous sources.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	These sources include
 sequenced genomes of a variety of organisms, gene expression data
 from multiple technologies, protein sequence and 3D structural
@@ -205,34 +205,34 @@ databases, genetic variation data (such as SNPs), high-content
 phenotypic screening data, and an enormous
 amount of text data in the biological and medical literature.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	New
 types of scientific and clinical problems require novel
 supervised and unsupervised learning approaches that can use these
 growing resources.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Furthermore, next generation sequencing
 technologies are yielding terabyte scale data sets that require
 novel algorithmic solutions.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The workshop will host presentations of emerging problems and
 machine learning techniques in computational biology.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	We encourage
 contributions describing either progress on new bioinformatics
 problems or work on established problems using methods that are
 substantially different from standard approaches.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Kernel methods,
 graphical models, semi-supervised approaches, feature selection
 and other techniques applied to relevant bioinformatics problems
 would all be appropriate for the workshop.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	SUBMISSION INSTRUCTIONS
 
 Researchers interested in contributing should upload an extended
@@ -242,53 +242,53 @@ https://easychair.org/conferences/?conf=mlcb2014
 
 by Oct 22,  2014, 11:59pm (time zone of your choice).
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	No special style is required.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Authors may use the NIPS style file, but
 are also free to use other styles as long as they use standard font
 size (11 pt) and margins (1 in).
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	*Submissions should be suitably anonymized and meet the
 requirements for double-blind reviewing.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	*
 
 All submissions will be anonymously peer reviewed and will be
 evaluated on the basis of their technical content.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	A strong
 submission to the workshop typically presents a new learning method
 that yields new biological insights, or applies an existing learning
 method to a new biological problem.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	However, submissions that improve
 upon existing methods for solving previously studied problems will
 also be considered.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	Examples of research presented in previous years
 can be found online at http://www.mlcb.org/nipscompbio/previous/.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	The workshop allows submissions of papers that are under review or
 have been recently published in a conference or a journal.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	This is
 done to encourage presentation of mature research projects that are
 interesting to the community.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	The authors should clearly state any
 overlapping published work at time of submission.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	INVITED SPEAKERS
 
 Mark Gerstein (Yale University)

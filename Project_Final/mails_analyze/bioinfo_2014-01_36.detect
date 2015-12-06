@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_36" est globalement en : FRA
-[('FRA', 0.6920392270563235), ('ENG', 2.019070632960147)]
+Le mail "bioinfo_2014-01_36" est globalement en : french
+[('french', 0.5298900317695291), ('english', 1.3704144189574983)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] STATISTIQUE GENETIQUE ET BIO-INFORMATIQUE
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : STATISTIQUE GENETIQUE ET BIO-INFORMATIQUE
 Type de poste : Post-doc / IR
 Durée du poste : 36
@@ -26,7 +26,7 @@ Laboratoire : Unité de Génétique Evolutive Humaine, CNRS URA3012, Institut
 Pasteur
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/statistique-genetique-et-bio-informatique
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/statistique-genetique-et-bio-informatique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : STATISTIQUE GENETIQUE ET BIO-INFORMATIQUE

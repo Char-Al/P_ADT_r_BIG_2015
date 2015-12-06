@@ -1,63 +1,63 @@
-Le mail "bioinfo_2014-04_55" est globalement en : ENG
-[('ENG', 0.1793357652483715), ('FRA', 0.30779734821291815)]
+Le mail "bioinfo_2014-04_55" est globalement en : english
+[('english', 0.03951680676130922), ('french', 0.4516574535828946)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Post-doctoral position in computer science at Agrocampus Ouest (France, Rennes, Brittany)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	POSTDOCTORAL  FELLOWSHIP in COMPUTATIONAL SCIENCE / BIOINFORMATICS
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	--
 Employer
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The research team "Genetics & Genomics " in the PEGASE laboratory, composed of INRA researchers and AGROCAMPUS OUEST lecturers and researchers, is seeking for a post-doctoral fellow in computational science / bioinformatics.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	--
 Project Description
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	This postdoctoral fellowship is a part of the GenInnov project, funded by the Brittany region as part of a call for projects Strategy of Sustainable Action. The GenInnov project aims to develop tools for training and research in the field of genomic selection.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	The GenInnov project forms part of the partnership with EVOLUTION, a leader in the bovine animal breeding in France with more than 1000 employees, located in Rennes. The objective is the development of a genomic analysis workflow of the relationship between genotypes and phenotypes. More specifically, this second will consist to modify and/or develop tools in order to 1) manage the data, 2) identify QTL regions and 3) provide the functional annotation of the regions of interest. This workflow will be used by the research team for existing and future research projects, for research projects in collaboration with the company EVOLUTION during the scholarship of Agrocampus students and in the future collaborations of the research team.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	--
 Applicant profile
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	We are seeking for a PhD in computer science / computational biology with an experience in methods development and their implementation and the development of analyses workflow. An experience in the development of method for simulation of the data will be valuable.
 Knowledge in genetic and/or biology would be also valuable.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	--
 Applicant skills
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Computer: good mastery of one or more programming languages &#8203;&#8203;(C, Fortran, Python, etc.).
 Staff: ability to work with a multidisciplinary team (molecular and quantitative genetics, bioinformatics and computer scientists), leadership for the project.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	--
 Date of employment: June, 6th  2014 (negotiable)
 Income: 2000 euros / month  12 months
@@ -70,7 +70,7 @@ Contacts: sophie.allais@agrocampus-ouest.fr, frederic.lecerf@agrocampus-ouest.fr
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	POSTDOCTORAL  FELLOWSHIP in COMPUTATIONAL SCIENCE / BIOINFORMATICS
 
 --
@@ -78,55 +78,55 @@ Employer
 
 The research team "Genetics & Genomics " in the PEGASE laboratory, composed of INRA researchers and AGROCAMPUS OUEST lecturers and researchers, is seeking for a post-doctoral fellow in computational science / bioinformatics.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	--
 Project Description
 
 This postdoctoral fellowship is a part of the GenInnov project, funded by the Brittany region as part of a call for projects Strategy of Sustainable Action.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The GenInnov project aims to develop tools for training and research in the field of genomic selection.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The GenInnov project forms part of the partnership with EVOLUTION, a leader in the bovine animal breeding in France with more than 1000 employees, located in Rennes.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The objective is the development of a genomic analysis workflow of the relationship between genotypes and phenotypes.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	More specifically, this second will consist to modify and/or develop tools in order to 1) manage the data, 2) identify QTL regions and 3) provide the functional annotation of the regions of interest.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	This workflow will be used by the research team for existing and future research projects, for research projects in collaboration with the company EVOLUTION during the scholarship of Agrocampus students and in the future collaborations of the research team.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	--
 Applicant profile
 
 We are seeking for a PhD in computer science / computational biology with an experience in methods development and their implementation and the development of analyses workflow.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	An experience in the development of method for simulation of the data will be valuable.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Knowledge in genetic and/or biology would be also valuable.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	--
 Applicant skills
 
 Computer: good mastery of one or more programming languages &#8203;&#8203;(C, Fortran, Python, etc.).
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Staff: ability to work with a multidisciplinary team (molecular and quantitative genetics, bioinformatics and computer scientists), leadership for the project.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	--
 Date of employment: June, 6th  2014 (negotiable)
 Income: 2000 euros / month  12 months
 Closing date for applications: May, 12th 2014.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Contacts: sophie.allais@agrocampus-ouest.fr, frederic.lecerf@agrocampus-ouest.fr
 
 ==========================================

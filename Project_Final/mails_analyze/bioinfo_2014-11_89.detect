@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_89" est globalement en : FRA
-[('FRA', 0.2471998225288624), ('ENG', 0.5327601057138023)]
+Le mail "bioinfo_2014-11_89" est globalement en : french
+[('french', 0.509796028714865), ('english', 0.7943727880639548)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IE] INGENIEUR SUPPORT APPLICATIF R&D (  médecine translationnelle) 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : INGENIEUR SUPPORT APPLICATIF R&D (médecine  
 translationnelle)
 Type de poste : IE
@@ -26,7 +26,7 @@ Email du contact : arnaud.coulon@infogene.fr
 Laboratoire : SANOFI
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ingenieur-support-applicatif-rd-m%C3%A9decine-translationnelle
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ingenieur-support-applicatif-rd-m%C3%A9decine-transla
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : INGENIEUR SUPPORT APPLICATIF R&D (médecine  

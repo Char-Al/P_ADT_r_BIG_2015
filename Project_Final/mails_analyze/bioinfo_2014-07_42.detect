@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_42" est globalement en : FRA
-[('FRA', 0.3541928325249092), ('ENG', 4.565223371990462)]
+Le mail "bioinfo_2014-07_42" est globalement en : french
+[('french', 0.3996905182418366), ('english', 1.0633136075054346)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Exploitation de donénes NGS pour l' étude d'une famille de gènes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Exploitation de donénes NGS pour l'étude d'une famille
 de gènes
 Type de poste : CDD Ingénieur
@@ -27,12 +27,12 @@ Email du contact : didier.merdinoglu@colmar.inra.fr
 Laboratoire : UMR 1131 SVQV INRA -Université de Strasbourg
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/exploitation-de-don%C3%A9nes-ngs-pour-l%C3%A9tude-dune-famille-de-g%C3%A8nes
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

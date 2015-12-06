@@ -1,31 +1,31 @@
-Le mail "bioinfo_2014-05_11" est globalement en : ENG
-[('ENG', 0.388048363647107), ('FRA', 0.6487276985098948)]
+Le mail "bioinfo_2014-05_11" est globalement en : english
+[('english', 0.038644424544509344), ('french', 0.7031342903729899)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] SIB joint course with the Doctoral Program StarOmics : "Next Generation
  Comparative Phylogenomics", 2-6 June 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear all,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	We are pleased to announce the following course from the Doctoral 
 Program StarOmics and organized by the SIB Swiss Institute of Bioinformatics
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	" Next Generation Comparative Phylogenomics".
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	This four-day course will be held in Geneva during the week of 2-6 June 
 2014. It will focus on the species classification, which is based on 
 synapomorphies observed in comparative life science studies, including 
@@ -38,27 +38,27 @@ experts will present studies on improving the quality of large-scale
 analysis and application of comparative phylogenomics.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Further information and application form are available from: 
 http://edu.isb-sib.ch/course/view.php?id=156.
 Please note few seats are still available.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	For administrative questions, please contact staromics@cuso.ch
 For technical and scientific questions, please contact training@isb-sib.ch
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Hope to see you there!
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	For the organizers,
 Diana Marek
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	-- 
 Diana Marek, PhD
 Vital-IT group & Training and Outreach Group
@@ -73,7 +73,7 @@ Diana.Marek@isb-sib.ch - www.vital-it.ch - www.isb-sib.ch
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear all,
 
 We are pleased to announce the following course from the Doctoral 
@@ -81,43 +81,43 @@ Program StarOmics and organized by the SIB Swiss Institute of Bioinformatics
 
 " Next Generation Comparative Phylogenomics".
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	This four-day course will be held in Geneva during the week of 2-6 June 
 2014.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	It will focus on the species classification, which is based on 
 synapomorphies observed in comparative life science studies, including 
 morphology, anatomy, cell biology, developmental biology.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	In this 
 course, evolutionary concepts and biological findings will be linked to 
 associated alterations at the molecular level.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Course days will be an 
 alternance of lectures and practicals.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	An extra day will be dedicated to a mini-symposium, where international 
 experts will present studies on improving the quality of large-scale 
 analysis and application of comparative phylogenomics.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Further information and application form are available from: 
 http://edu.isb-sib.ch/course/view.php?id=156.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Please note few seats are still available.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	For administrative questions, please contact staromics@cuso.ch
 For technical and scientific questions, please contact training@isb-sib.ch
 
 Hope to see you there!
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	For the organizers,
 Diana Marek
 

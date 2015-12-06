@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-05_19" est globalement en : FRA
-[('FRA', 0.37622994959828904), ('ENG', 3.813953155462585)]
+Le mail "bioinfo_2014-05_19" est globalement en : french
+[('french', 0.3208167808711329), ('english', 1.2944441989919768)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur de développement et de déploiement d'applications
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur de développement et de déploiement
 d'applications
 Type de poste : CDD Ingénieur
@@ -28,12 +28,12 @@ Laboratoire : IMGT, Laboratoire d'ImmunoGénétique Moléculaire LIGM,
 Institut de Génétique Humaine IGH,  UPR CNRS 1142
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-de-d%C3%A9veloppement-et-de-d%C3%A9ploiement-dapplications
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -41,7 +41,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

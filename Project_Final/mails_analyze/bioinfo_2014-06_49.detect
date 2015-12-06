@@ -1,26 +1,26 @@
-Le mail "bioinfo_2014-06_49" est globalement en : FRA
-[('FRA', 0.636223635772599), ('ENG', 1.8524284777016364)]
+Le mail "bioinfo_2014-06_49" est globalement en : french
+[('french', 0.04109588339943425), ('english', 2.538169213837151)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Journée“biodiversité et bioinformatique” - Montpellier 16 septembre 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à toutes et à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	La cinquième édition de la journée “biodiversité et bioinformatique” 
 aura lieu à Montpellier le 16 septembre 2014.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Les domaines de l’écologie et de l’évolution font de plus en plus appel 
 aux outils bioinformatiques et au calcul intensif pour le traitement et 
 l’analyse de très grands jeux de données (issus du séquençage ou du 
@@ -32,75 +32,75 @@ domaines de l’écologie et de l’évolution, afin de discuter et d’échange
 sur des aspects conceptuels et techniques liés à ces questions.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Huit orateurs et oratrices sont invité(e)s
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	- Julien Dutheil (Max Planck Institute, Marburg, Allemagne)
 Contrasting patterns of extant and ancient diversity along the Primate X 
 chromosome suggest genomic conflicts and recurrent selective sweeps
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	- Gabriel Marais (Laboratoire de Biométrie et Biologie Evolutive, Lyon)
 A cheap and efficient approach to identify sex-linked genes using NGS: 
 applications to the study of dioecious plants
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	- Pierre Pudlo (Institut de Mathématiques et Modélisation de Montpellier)
 Problème d’inférence en génétique des populations neutre
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	- Denis Roze (Station biologique, Roscoff)
 Reproductive systems and interference between genes
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	- Christine Dillmann (Station de génétique végétale, Le Moulon, 
 Université Paris Sud)
 Adaptive landscapes, heredity and the genotype-phenotype map in yeasts
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	- Edouardo Rocha (Institut Pasteur, Paris)
 Trade-offs shaping temperate phages as deadly, accommodated, and 
 serviceable pathogens.
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	- Sandrine Pavoine (Centre d’Ecologie et des Sciences de la 
 Conservation, MNHM Paris)
 La mesure parfaite de biodiversité existe-t-elle?
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	- Sonia Kefi (Institut des Sciences de l’Evolution, Montpellier)
 Conséquences des interactions positives pour le fonctionnement de 
 communautés écologiques complexes
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Programme détaillé et inscription :
 http://kimura.univ-montp2.fr/jbb/
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	L'inscription est gratuite mais obligatoire.
 Le nombre de places est limité à 150.
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	N'hésitez pas à diffuser l'information.
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	Sylvain Glémin
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	-- 
 khalid BELKHIR
 Institut des Sciences de l'Evolution
@@ -108,7 +108,7 @@ UM2-CNRS-IRD UMR 5554 - Université de Montpellier II
 Montpellier  (0)4 67 14 3913  fax  (0)4 67 14 4554
 
 ==========================================
-Le paragraphe 18 est en : n
+Le paragraphe 18 est en : non detect
 	
 
 ==========================================
@@ -116,27 +116,27 @@ Le paragraphe 18 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à toutes et à tous,
 
 
 La cinquième édition de la journée “biodiversité et bioinformatique” 
 aura lieu à Montpellier le 16 septembre 2014.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Les domaines de l’écologie et de l’évolution font de plus en plus appel 
 aux outils bioinformatiques et au calcul intensif pour le traitement et 
 l’analyse de très grands jeux de données (issus du séquençage ou du 
 phénotypage haut-débit, de la construction de bases de données 
 écologiques et climatiques, …) et à la modélisation de processus complexes.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	L’objectif de cette journée est de réunir des chercheurs manipulant ou 
 développant des outils de bioinformatique ou de modélisation dans les 
 domaines de l’écologie et de l’évolution, afin de discuter et d’échanger 
 sur des aspects conceptuels et techniques liés à ces questions.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Huit orateurs et oratrices sont invité(e)s
 
 - Julien Dutheil (Max Planck Institute, Marburg, Allemagne)
@@ -161,12 +161,12 @@ Adaptive landscapes, heredity and the genotype-phenotype map in yeasts
 Trade-offs shaping temperate phages as deadly, accommodated, and 
 serviceable pathogens.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	- Sandrine Pavoine (Centre d’Ecologie et des Sciences de la 
 Conservation, MNHM Paris)
 La mesure parfaite de biodiversité existe-t-elle?
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	- Sonia Kefi (Institut des Sciences de l’Evolution, Montpellier)
 Conséquences des interactions positives pour le fonctionnement de 
 communautés écologiques complexes
@@ -177,13 +177,13 @@ http://kimura.univ-montp2.fr/jbb/
 
 L'inscription est gratuite mais obligatoire.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Le nombre de places est limité à 150.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	N'hésitez pas à diffuser l'information.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Sylvain Glémin
 
 -- 

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_11" est globalement en : FRA
-[('FRA', 0.6509587200471547), ('ENG', 3.31104507429715)]
+Le mail "bioinfo_2014-12_11" est globalement en : french
+[('french', 0.7286856409708994), ('english', 2.7081113904146967)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 Spécialité Bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 Spécialité Bioinformatique
 Type de poste : Stage
 Durée du poste : 4 à 6 mois
@@ -25,7 +25,7 @@ Email du contact : fcrozet@sycomore-tech.com
 Laboratoire : SYCOMORE TECHNOLOGIES
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-sp%C3%A9cialit%C3%A9-bioinformatique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/m2-sp%C3%A9cialit%C3%A9-bioinformatique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 Spécialité Bioinformatique

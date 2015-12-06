@@ -1,40 +1,40 @@
-Le mail "bioinfo_2014-06_81" est globalement en : ENG
-[('ENG', 0.4435096931813411), ('FRA', 0.7936347176767341)]
+Le mail "bioinfo_2014-06_81" est globalement en : english
+[('english', 0.02384408031860286), ('french', 0.37027627821443676)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Postdoc positions at Inria in Lyon, France
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Two postdoc opportunities at Inria in Lyon, France
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	In the context of a FP7 KBBE European Project, BacHBerry (“BACterial 
 Hosts for production of Bioactive phenolics from bERRY fruits"), we are 
 seeking two postdoc candidates, each for one year, renewable for up 
 to two years. 
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The candidates will work in the BAMBOO team at the Inria-UCBL in 
 Lyon, France (http://team.inria.fr/bamboo/), in interaction with the
 partners of BacHBerry, in particular the CSI team at the IDMEC-IST 
 in Lisbon, Portugal (http://www.idmec.ist.utl.pt/). 
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Both BAMBOO and CSI are methodological teams with an expertise 
 in computational and systems biology. 
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	This project aims at tapping the potential of living organisms or systems 
 to develop or make natural chemical compounds that are believed to be 
 useful for medicine, agriculture, bioremediation, biodegradation, or etc. 
@@ -46,7 +46,7 @@ for better efficiency. In some cases, the transplant might better be split
 among a community of different bacteria in interaction.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	BacHBerry is more specifically interested in the generation of bacterial 
 platforms for sustainable bio-based production of phenolic compounds 
 found in berry fruits. Phenolics are recognised for their antioxydant 
@@ -54,29 +54,29 @@ health-promoting and functional properties, and applied across
 applications as diverse as aromas, colours, nutraceuticals, and medicines.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	More specifically, we are looking for candidates with a PhD in one of 
 the following areas: computer science, mathematics, statistics, computational 
 biology, metabolic engineering, regulation, or related, with a strong taste 
 for inter-disciplinary research, and with very good interpersonal skills. 
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Ideally, the person will have a long experience with graph algorithms,
 discrete combinatorics and/or optimisation techniques.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Unsual CVs are welcome. Knowledge of the portuguese language would 
 also be a plus :-)
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Applications should include a motivation letter, a CV, and the address 
 of three references. 
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	The applications should be sent to:
 Marie-France Sagot, marie-france.sagot@inria.fr
 putting also in copy the partner in Lisbon:
@@ -88,7 +88,7 @@ ideally before July 31, 2014.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Two postdoc opportunities at Inria in Lyon, France
 
 In the context of a FP7 KBBE European Project, BacHBerry (“BACterial 
@@ -96,66 +96,66 @@ Hosts for production of Bioactive phenolics from bERRY fruits"), we are
 seeking two postdoc candidates, each for one year, renewable for up 
 to two years.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The candidates will work in the BAMBOO team at the Inria-UCBL in 
 Lyon, France (http://team.inria.fr/bamboo/), in interaction with the
 partners of BacHBerry, in particular the CSI team at the IDMEC-IST 
 in Lisbon, Portugal (http://www.idmec.ist.utl.pt/).
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Both BAMBOO and CSI are methodological teams with an expertise 
 in computational and systems biology.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	This project aims at tapping the potential of living organisms or systems 
 to develop or make natural chemical compounds that are believed to be 
 useful for medicine, agriculture, bioremediation, biodegradation, or etc.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Most often, the compound is already produced by the organism but in 
 small quantity, and one needs then to manipulate it in order for the 
 production to be increased.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Other situations require transplanting part of 
 the chemical factory of an organism into another, in general a bacterium, 
 for better efficiency.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	In some cases, the transplant might better be split 
 among a community of different bacteria in interaction.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	BacHBerry is more specifically interested in the generation of bacterial 
 platforms for sustainable bio-based production of phenolic compounds 
 found in berry fruits.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Phenolics are recognised for their antioxydant 
 health-promoting and functional properties, and applied across 
 applications as diverse as aromas, colours, nutraceuticals, and medicines.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	More specifically, we are looking for candidates with a PhD in one of 
 the following areas: computer science, mathematics, statistics, computational 
 biology, metabolic engineering, regulation, or related, with a strong taste 
 for inter-disciplinary research, and with very good interpersonal skills.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Ideally, the person will have a long experience with graph algorithms,
 discrete combinatorics and/or optimisation techniques.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Unsual CVs are welcome.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Knowledge of the portuguese language would 
 also be a plus :-)
 
 Applications should include a motivation letter, a CV, and the address 
 of three references.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	The applications should be sent to:
 Marie-France Sagot, marie-france.sagot@inria.fr
 putting also in copy the partner in Lisbon:

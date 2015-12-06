@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_62" est globalement en : FRA
-[('FRA', 0.6445680105007608), ('ENG', 1.894001608974951)]
+Le mail "bioinfo_2014-03_62" est globalement en : french
+[('french', 0.4444483109846336), ('english', 1.1551371450511714)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur en Bioinformatique/Bioanalyse
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur en Bioinformatique/Bioanalyse
 Type de poste : CDD Ingénieur
 Durée du poste : 12 mois
@@ -25,12 +25,12 @@ Email du contact : joelle.amselem@versailles.inra.fr
 Laboratoire : URGI - Unité de Recherche en Génomique-Info
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/ingénieur-en-bioinformatiquebioanalyse
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -38,7 +38,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur en Bioinformatique/Bioanalyse

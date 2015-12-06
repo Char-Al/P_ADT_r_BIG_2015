@@ -1,11 +1,11 @@
-Le mail "bioinfo_2014-04_2" est globalement en : ENG
-[('ENG', 0.16318937207485434), ('FRA', 0.29079381834397605)]
+Le mail "bioinfo_2014-04_2" est globalement en : english
+[('english', 0.07478910703314251), ('french', 0.2957708327142384)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Postdoctoral position: identification of targetable splicing
 	aberrations in microsatellite instable (MSI) colorectal cancer by
 	RNA-sequencing analysis (Paris, France)
@@ -13,7 +13,7 @@ Subject : [bioinfo] Postdoctoral position: identification of targetable splicing
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	
 [Project Description]
 The aim of the post-doctoral project is to decipher splicing aberrations
@@ -23,7 +23,7 @@ sequencing (RNA-seq) data of a large cohort of tumors. The entire project
 is detailed below.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The main missions will be:
 - Genome-guided and denovo transcriptome reconstruction to identify robust
 splicing events (exon skipping, exon fusion...) potentially implicated in
@@ -35,7 +35,7 @@ with mutation and expression profiles) and disease knowledge will be
 carried out to select the variants which will be experimentally assessed.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	[Research Environment]
 The candidate will be part of the ŒMicrosatellite Instability (MSI) and
 Cancer¹ team located at the Saint-Antoine Hospital (Paris, 12) and will be
@@ -45,7 +45,7 @@ be developed in collaboration with the ŒNational Genotyping Center¹ (CNG)
 and the ŒJean Dausset Foundation ­ CEPH.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	[Qualifications]
 Candidates should have:
 - a PhD in bioinformatics/biostatistics or a related domain.
@@ -61,7 +61,7 @@ and isoform abundance estimation and differential splicing analysis
 - good programming skills (R, perl/python, Shell/Unix command line).
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	[Application]
 Candidates who are interested should send to Dr Alex DUVAL
 (alex.duval(at)inserm.fr):
@@ -71,7 +71,7 @@ Candidates who are interested should send to Dr Alex DUVAL
 Deadline for applications: May 10, 2014
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	[Funding]
 We will apply for a postdoctoral allowance from the Ligue Nationale Contre
 le Cancer 
@@ -80,7 +80,7 @@ Starting Date: January 2015
 Duration: 3 years
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	[Detailed Description of the Research Environment]
 The team ŒMicrosatellite Instability (MSI) and Cancer¹ was created on
 January 1st, 2006. In 2009, our laboratory joined the Saint-Antoine
@@ -98,7 +98,7 @@ The team¹s approved by the ŒFrench National League against Cancer¹ is
 ongoing for the next 3 years.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : english
 	5 Selected Publications from the ŒMicrosatellite Instability (MSI) and
 Cancer¹ Lab (last 5 years) :
 Collura A, Lagrange A, Svrcek M, Marisa L, Buhard O, Guilloux A,
@@ -135,7 +135,7 @@ according to Msh2 mismatch repair gene status. J. Nat. Cancer Inst. 2010
 102 : 1731-40.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	The ŒTumor Identity Cards¹ (CIT) program aims at characterizing
 extensively the genetic and epigenetic alterations in a variety of
 cancers. The CIT program is based on a network of researchers and
@@ -150,7 +150,7 @@ expertise in bioinformatics and biostatistics, which will be crucial for
 the success of this project.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	[Detailed Description of the Post-Doctoral Project]
 BACKGROUND
 The human tumour phenotype referred to as MSI (Microsatellite Instability)
@@ -192,7 +192,7 @@ positively associated with the increasing size of somatic T17 deletions
 due to MSI in CRC.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	AIMS OF THE POST-DOCTORAL PROJECT
 In this project, we will aim at showing that MSI CRC is a splicing
 pathology by identifying other frequent and clinically relevant splicing
@@ -248,12 +248,12 @@ we will particularly pay attention to mutant proteins that may constitute
 future promising druggable therapeutic targets in MSI colon tumours.
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	-- 
 Laetitia MARISA
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Programme Cartes d'Identité des Tumeurs (CIT)
 Ligue Nationale Contre le Cancer
 http://cit.ligue-cancer.net
@@ -261,14 +261,14 @@ Tel : +33 1 53 55 25 13
 Fax : +33 1 53 55 25 34
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	************************************************************************************
 This footnote confirms that this email message has been scanned by
 PineApp Mail-SeCure for the presence of malicious code, vandals & computer viruses.
 ************************************************************************************
 
 ==========================================
-Le paragraphe 15 est en : n
+Le paragraphe 15 est en : non detect
 	
 
 ==========================================
@@ -276,7 +276,7 @@ Le paragraphe 15 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 [Project Description]
 The aim of the post-doctoral project is to decipher splicing aberrations
@@ -284,63 +284,63 @@ due to microsatellite instability (MSI) in colorectal cancer (CRC) and to
 find out new specific therapeutic targets by analyzing high-throughput RNA
 sequencing (RNA-seq) data of a large cohort of tumors.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The entire project
 is detailed below.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The main missions will be:
 - Genome-guided and denovo transcriptome reconstruction to identify robust
 splicing events (exon skipping, exon fusion...) potentially implicated in
 MSI CRC tumours.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	- Differential splicing analysis between MSI tumours and normal tissues to
 get candidate events significantly associated to MSI cancer.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	- Prioritization of splicing variants based on data support (integration
 with mutation and expression profiles) and disease knowledge will be
 carried out to select the variants which will be experimentally assessed.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	[Research Environment]
 The candidate will be part of the ŒMicrosatellite Instability (MSI) and
 Cancer¹ team located at the Saint-Antoine Hospital (Paris, 12) and will be
 in strong interaction with the biostatical team of the ŒCartes d¹Identité
 des Tumeurs¹(CIT) program (http://cit.ligue-cancer.net).
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	This project will
 be developed in collaboration with the ŒNational Genotyping Center¹ (CNG)
 and the ŒJean Dausset Foundation ­ CEPH.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	[Qualifications]
 Candidates should have:
 - a PhD in bioinformatics/biostatistics or a related domain.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	- a real motivation and extensive expertise in RNA-seq analysis.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	- a good knowledge of molecular biology and in particular of the RNA
 splicing process.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	- experience in processing and analyzing various types of Œ-omics¹ data.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	- experience in NGS analysis would be a plus, especially in split-read
 mapping, denovo read assembly, transcriptome reconstruction, denovo gene
 fusion detection (Bwa, Tophat, Trinity, AbySS, Cufflinks, ChimeraScan...)
 and isoform abundance estimation and differential splicing analysis
 (DEseq, Cuffdiff...).
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	- good programming skills (R, perl/python, Shell/Unix command line).
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	[Application]
 Candidates who are interested should send to Dr Alex DUVAL
 (alex.duval(at)inserm.fr):
@@ -355,7 +355,7 @@ We will apply for a postdoctoral allowance from the Ligue Nationale Contre
 le Cancer 
 (http://www.ligue-cancer.net/article/27236_appels-projets-recherche).
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Starting Date: January 2015
 Duration: 3 years
 
@@ -364,33 +364,33 @@ Duration: 3 years
 The team ŒMicrosatellite Instability (MSI) and Cancer¹ was created on
 January 1st, 2006.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	In 2009, our laboratory joined the Saint-Antoine
 Research Center (UMRS 938, Inserm and Faculty Pierre et Marie Curie,
 Paris).
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	This hospital is internationally recognized for cancer treatment,
 predominantly in the area of gastrointestinal oncology.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Since founded, our
 group has built a unique collection of tumor samples and clinical
 databases, entirely dedicated to MSI cancer patients and notably
 colorectal tumors.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Together with original biological tools, mouse models
 and techniques that we specifically designed or adapted for the study of
 these malignancies, these resources have allowed us to perform major
 recent advances in understanding the pathophysiology of MSI colon cancer,
 as well as to opening important new clinical perspectives in the field.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	The team¹s approved by the ŒFrench National League against Cancer¹ is
 ongoing for the next 3 years.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	5 Selected Publications from the ŒMicrosatellite Instability (MSI) and
 Cancer¹ Lab (last 5 years) :
 Collura A, Lagrange A, Svrcek M, Marisa L, Buhard O, Guilloux A,
@@ -400,43 +400,43 @@ Lepage C, Bouvier AM, Gaub MP, Milano G, Selves J, Senet P, Delarue P,
 Arzouk H, Lacoste C, Coquelle A, Bengrine-lefèvre L, Tournigand C, Lefèvre
 JH, Parc Y, Biard DS, Fléjou JF, Garrido C, Duval A.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Patients With
 Colorectal Tumors With Microsatellite Instability And Large Deletions In
 Hsp110 T17 Have Improved Response To 5-Fluorouracil-Based Chemotherapy.
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	Gastroenterology 2014 146(2) : 401-411.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	Marisa L, de Reyniès A, Duval A, Selves J, Gaub MP, Vescovo L,
 Etienne-Grimaldi MC, Schiappa R, Guenot D, Ayadi M, Kirzin S, Chazal M,
 Fléjou JF, Benchimol D, Berger A, Lagarde A, Pencreach E, Piard F, Elias
 D, Parc Y, Olschwang S, Milano G, Laurent-Puig P, Boige V. PLoS Med.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	2013
 May;10(5):e1001453.
 ==========================================
-La phrase 26 est en : FRA
+La phrase 26 est en : french
 	Dorard C, de Thonel A, Collura A, Marisa L, Svrcek M, Lagrange A, Jego G,
 Wanherdrick K, Joly AL, Buhard O, Gobbo J, Penard-Lacronique V, Zouali H,
 Tubacher E, Kirzin S, Selves J, Milano G, Etienne-Grimaldi MC,
 Bengrine-Lefèvre L, Louvet C, Tournigand C, Lefèvre J, Parc Y, Tiret E,
 Fléjou JF, Gaub MP, Garrido C, Duval A.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	Expression of a mutant HSP110
 sensitized colorectal cancer cells to chemotherapy and improves disease
 prognosis.
 ==========================================
-La phrase 28 est en : FRA
+La phrase 28 est en : french
 	Nature Med.
 ==========================================
-La phrase 29 est en : n
+La phrase 29 est en : non detect
 	2011 17(10) : 1283-9.
 ==========================================
-La phrase 30 est en : ENG
+La phrase 30 est en : english
 	Svrcek M, Buhard O, Colas C, Coulet F, Dumont S, Massaoudi I, Lamri A,
 Hamelin R, Cosnes J, Oliveira C, Seruca R, Gaub MP, Legrain M, Collura A,
 Lascols O, Tiret E, Fléjou JF, Duval A. Methylation tolerance due to
@@ -444,242 +444,242 @@ O6-methylguanine DNA methyltransferase (MGMT) field defect in the colonic
 mucosa : an initiating step in the development of mismatch repair
 deficient colorectal cancers.
 ==========================================
-La phrase 31 est en : ENG
+La phrase 31 est en : english
 	Gut 2010 59 : 1516-26.
 ==========================================
-La phrase 32 est en : ENG
+La phrase 32 est en : english
 	Chalastanis A, Penard-Lacronique V, Svrcek M, Dewafeux V, Antoine N,
 Buhard O, Dumont S, Fabiani B, Renault I, Tubacher E, Fléjou JF, te Riele
 H, Duval A, Muleris M. Azathioprine-induced carcinogenesis in mice
 according to Msh2 mismatch repair gene status.
 ==========================================
-La phrase 33 est en : FRA
+La phrase 33 est en : french
 	J. Nat.
 ==========================================
-La phrase 34 est en : ENG
+La phrase 34 est en : english
 	Cancer Inst.
 ==========================================
-La phrase 35 est en : n
+La phrase 35 est en : non detect
 	2010
 102 : 1731-40.
 ==========================================
-La phrase 36 est en : FRA
+La phrase 36 est en : french
 	The ŒTumor Identity Cards¹ (CIT) program aims at characterizing
 extensively the genetic and epigenetic alterations in a variety of
 cancers.
 ==========================================
-La phrase 37 est en : ENG
+La phrase 37 est en : english
 	The CIT program is based on a network of researchers and
 clinicians involving over 50 teams from all over France.
 ==========================================
-La phrase 38 est en : ENG
+La phrase 38 est en : english
 	In the past 10
 years, the CIT bioinformatics group has analyzed more than 10,000 samples
 using a combination of high-throughput omics technologies (SNP, expression
 and methylation arrays, miRNA and exome sequencing), leading to more than
 100 publications (http://cit.ligue-cancer.net/?page_id=59).
 ==========================================
-La phrase 39 est en : ENG
+La phrase 39 est en : english
 	These studies
 provide a basis to enable personalized medicine tailored to the genomic
 characteristics of each tumor.
 ==========================================
-La phrase 40 est en : ENG
+La phrase 40 est en : english
 	This unique platform in France has a strong
 expertise in bioinformatics and biostatistics, which will be crucial for
 the success of this project.
 ==========================================
-La phrase 41 est en : ENG
+La phrase 41 est en : english
 	[Detailed Description of the Post-Doctoral Project]
 BACKGROUND
 The human tumour phenotype referred to as MSI (Microsatellite Instability)
 is associated with inactivating alterations in MMR genes (Mismatch
 Repair).
 ==========================================
-La phrase 42 est en : ENG
+La phrase 42 est en : english
 	MSI tumours develop through a distinctive molecular pathway
 characterized by the genetic instability of numerous microsatellite DNA
 repeat sequences throughout the genome.
 ==========================================
-La phrase 43 est en : ENG
+La phrase 43 est en : english
 	The MSI and MSS types
 (Microsatellite Stable, also referred to as CIN for Chromosomal
 Instability) are mutually exclusive and represent approximately 15% and
 85% of colorectal cancer (CRC), respectively.
 ==========================================
-La phrase 44 est en : ENG
+La phrase 44 est en : english
 	Clinically, MSI colorectal
 cancers (CRCs) have been reported to be poorly metastatic.
 ==========================================
-La phrase 45 est en : ENG
+La phrase 45 est en : english
 	They show
 improved survival but bad response to 5-Fluorouracil (5-FU)-based
 chemotherapy.
 ==========================================
-La phrase 46 est en : ENG
+La phrase 46 est en : english
 	The underlying reasons for these clinical characteristics
 are poorly understood.
 ==========================================
-La phrase 47 est en : ENG
+La phrase 47 est en : english
 	To date, no specific therapeutic approach for MSI
 colon tumours has been developed that takes into account their specific
 mode of transformation.
 ==========================================
-La phrase 48 est en : ENG
+La phrase 48 est en : english
 	MSI is expected to be oncogenic when it affects repeated sequences that
 have a functional role.
 ==========================================
-La phrase 49 est en : ENG
+La phrase 49 est en : english
 	These last twenty years, studies from our group
 and others have reported somatic mutations in Small Coding Repeats (SCR)
 located within the sequences of various cancer-related genes in MSI
 tumours (DNA repeats exceeding 8-10 bp in size are not observed in coding
 sequences).
 ==========================================
-La phrase 50 est en : ENG
+La phrase 50 est en : english
 	These alterations are selected during tumour development when
 they give selective advantage to the tumour cells in which they occur.
 ==========================================
-La phrase 51 est en : ENG
+La phrase 51 est en : english
 	Besides the instability of SCR, MSI also affects Long Non-Coding Repeats
 (LNCR) in cancer cells.
 ==========================================
-La phrase 52 est en : ENG
+La phrase 52 est en : english
 	Only a few of them are endowed with biological
 activity.
 ==========================================
-La phrase 53 est en : ENG
+La phrase 53 est en : english
 	An example of this is with pre-mRNA splicing whereby a
 mononucleotidic LNCR is located near the splice junction.
 ==========================================
-La phrase 54 est en : ENG
+La phrase 54 est en : english
 	To date, this
 area has received very little attention.
 ==========================================
-La phrase 55 est en : ENG
+La phrase 55 est en : english
 	In our lab, we recently
 identified a mutant of HSP110 (HSP110DE9) lacking the HSP110
 substrate-binding domain in MSI CRC that was generated due to somatic
 deletion in a LNCR (T17 intronic DNA repeat).
 ==========================================
-La phrase 56 est en : ENG
+La phrase 56 est en : english
 	We showed that the
 shortening of T17 LNCR correlated with increased synthesis of an aberrant
 HSP110 transcript due to exon 9 skipping.
 ==========================================
-La phrase 57 est en : ENG
+La phrase 57 est en : english
 	HSP110DE9 abrogated the
 chaperone activity and anti-apoptotic function of HSP110 in a
 dominant-negative manner.
 ==========================================
-La phrase 58 est en : ENG
+La phrase 58 est en : english
 	HSP110DE9 expression also increased the
 sensitivity to anticancer agents.
 ==========================================
-La phrase 59 est en : ENG
+La phrase 59 est en : english
 	In agreement with these in vitro
 findings, we demonstrated that the survival of patients with MSI CRC was
 positively associated with the increasing size of somatic T17 deletions
 due to MSI in CRC.
 ==========================================
-La phrase 60 est en : ENG
+La phrase 60 est en : english
 	AIMS OF THE POST-DOCTORAL PROJECT
 In this project, we will aim at showing that MSI CRC is a splicing
 pathology by identifying other frequent and clinically relevant splicing
 aberrations in these tumours.
 ==========================================
-La phrase 61 est en : ENG
+La phrase 61 est en : english
 	Some LNCR may constitute obligatory hot
 spots for insertion/deletion in MSI CRC cell and we hypothesized that
 mutations at their level could be observed in future relevant therapeutic
 targets and have a deleterious impact during tumour development (like with
 HSP110).
 ==========================================
-La phrase 62 est en : ENG
+La phrase 62 est en : english
 	This last point is novel and original, suggesting that MSI might
 not only constitute an oncogenic force but also a limit for colon cancer
 development (in line with the clinical features of MSI CRCs, see above).
 ==========================================
-La phrase 63 est en : ENG
+La phrase 63 est en : english
 	Our objectives are the following:
 (1) To identify other aberrant splicing events due to MSI in CRC.
 ==========================================
-La phrase 64 est en : ENG
+La phrase 64 est en : english
 	Overall,
 the aim of this project is to decipher the splicing aberrations due to MSI
 in CRC and to find out new specific therapeutic targets which is an
 important unmet medical need.
 ==========================================
-La phrase 65 est en : ENG
+La phrase 65 est en : english
 	This study will also help to identify the
 sub-populations of CRC patients that would benefit most from either
 classical or new personalized medicine depending on important somatic
 genetic characteristics of their tumour.
 ==========================================
-La phrase 66 est en : ENG
+La phrase 66 est en : english
 	High throughput RNA Sequencing
 (RNASeq) of 150 MSI colon tumours and paired adjacent normal mucosa
 obtained from patients of the Saint-Antoine hospital is in progress at the
 CNG (Centre National de Génotypage, France.
 ==========================================
-La phrase 67 est en : ENG
+La phrase 67 est en : english
 	Financial support: France
 Genomics).
 ==========================================
-La phrase 68 est en : ENG
+La phrase 68 est en : english
 	Fifty MSS colon tumours and paired adjacent normal mucosa are
 also analysed in the same conditions (controls) as well as a series of 10
 CRC cell lines (5 MSI, 5 MSS).
 ==========================================
-La phrase 69 est en : ENG
+La phrase 69 est en : english
 	All data will be available and therefore
 ready to be exploited for the present project before September 2014.
 ==========================================
-La phrase 70 est en : FRA
+La phrase 70 est en : french
 	NB: the total sequencing volume expected after RNA sequencing of 300
 paired normal/tumor samples is about 2813 giga bases (Gb).
 ==========================================
-La phrase 71 est en : ENG
+La phrase 71 est en : english
 	(2) To check the functional link between MSI and some of the detected
 aberrant splicing events.
 ==========================================
-La phrase 72 est en : ENG
+La phrase 72 est en : english
 	About 2000 human genes contain at least one
 intron with LNCR very closely to the AG splice acceptor site at the
 intron-exon junction.
 ==========================================
-La phrase 73 est en : ENG
+La phrase 73 est en : english
 	A preliminary screen we already performed using exon
 arrays highlighted that at least one hundred were likely to be affected by
 recurrent aberrant splicing events in tumour RNAs (mostly exon skipping;
 experiments performed in a small series of CRC cell lines and primary
 tumours.
 ==========================================
-La phrase 74 est en : ENG
+La phrase 74 est en : english
 	Unpublished).
 ==========================================
-La phrase 75 est en : FRA
+La phrase 75 est en : french
 	For retained exon candidates (e.g.
 ==========================================
-La phrase 76 est en : ENG
+La phrase 76 est en : english
 	those with
 recurrent and specific aberrant profiles in MSI tumour samples as compared
 to controls), allelic profiles of LNCR will be analysed using fluorescence
 genotyping in the panel of MSI and MSS CRC cell lines and primary tumours,
 as well as in control LBLs to assess their polymorphic status.
 ==========================================
-La phrase 77 est en : ENG
+La phrase 77 est en : english
 	As for
 HSP110, we will then evaluated in each case whether the detected splicing
 aberrations are MSI-driven or not (e.g.
 ==========================================
-La phrase 78 est en : ENG
+La phrase 78 est en : english
 	due to somatic deletions or
 insertions in tumour DNA, see above our analysis of the T17 of HSP110);
 (3) To identify the splicing events and/or LNCR mutations with clinical
 relevance in MSI CRC patients.
 ==========================================
-La phrase 79 est en : ENG
+La phrase 79 est en : english
 	This will be done in a large cohort of 458
 MSI CRC patients (frozen and/or paraffin tumour material together with
 clinical data are already available; see our recent publication in the
@@ -689,12 +689,12 @@ chemotherapy in CRC patients);
 clinically relevant cancer-related genes whose splicing will be highly
 perturbed due to MSI in cancer cells will be initiated.
 ==========================================
-La phrase 80 est en : ENG
+La phrase 80 est en : english
 	Like for HSP110,
 we will particularly pay attention to mutant proteins that may constitute
 future promising druggable therapeutic targets in MSI colon tumours.
 ==========================================
-La phrase 81 est en : ENG
+La phrase 81 est en : english
 	-- 
 Laetitia MARISA
 
@@ -711,7 +711,7 @@ Fax : +33 1 53 55 25 34
 This footnote confirms that this email message has been scanned by
 PineApp Mail-SeCure for the presence of malicious code, vandals & computer viruses.
 ==========================================
-La phrase 82 est en : n
+La phrase 82 est en : non detect
 	************************************************************************************
 
 

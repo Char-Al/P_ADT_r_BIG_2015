@@ -1,44 +1,44 @@
-Le mail "bioinfo_2014-11_11" est globalement en : FRA
-[('FRA', 2.3955374680737647), ('ENG', 38.943139031468576)]
+Le mail "bioinfo_2014-11_11" est globalement en : french
+[('french', 0.057105432953243405), ('english', 8.518378001067356)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Thèses et HDRs
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tou(te)s,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	La SFBI essaye de tenir à jour un répertoire des thèses et HDR passées en France. C'est utile, ne serait-ce que pour donner une image du dynamisme de notre thématique ou pour guider des responsables des Universités qui hésitent à flécher un poste et se demandent s'il y aura des candidats.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Les statistiques (descriptives) sont alarmantes : Pour les thèses et HDR, j'ai relevé
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	2011 : 41, 8
 2012 : 28, 6
 2013 : 23, 4
 2014 : 2, 4
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Certes, 2014 n'est pas terminée et la course aux qualifications place beaucoup de soutenances en fin d'année. Mais n'oubliez pas d'envoyer l'information (avec Ecole doctorale, jury et résumé (français et/ou anglais)) à la liste bioinfo@sfbi.fr 
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Merci
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Alain Guénoche
 IMM - CNRS - Marseille
 
@@ -47,15 +47,15 @@ IMM - CNRS - Marseille
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tou(te)s,
 
 La SFBI essaye de tenir à jour un répertoire des thèses et HDR passées en France.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	C'est utile, ne serait-ce que pour donner une image du dynamisme de notre thématique ou pour guider des responsables des Universités qui hésitent à flécher un poste et se demandent s'il y aura des candidats.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Les statistiques (descriptives) sont alarmantes : Pour les thèses et HDR, j'ai relevé
 
 2011 : 41, 8
@@ -65,7 +65,7 @@ La phrase 3 est en : FRA
 
 Certes, 2014 n'est pas terminée et la course aux qualifications place beaucoup de soutenances en fin d'année.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Mais n'oubliez pas d'envoyer l'information (avec Ecole doctorale, jury et résumé (français et/ou anglais)) à la liste bioinfo@sfbi.fr 
 
 Merci

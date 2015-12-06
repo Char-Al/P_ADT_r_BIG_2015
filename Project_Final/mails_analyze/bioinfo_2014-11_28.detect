@@ -1,49 +1,49 @@
-Le mail "bioinfo_2014-11_28" est globalement en : ENG
-[('ENG', 0.4420680976154935), ('FRA', 1.2261408493798909)]
+Le mail "bioinfo_2014-11_28" est globalement en : english
+[('english', 0.1731537131742244), ('french', 0.6968464152157249)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo]PhD and Post-Doc Positions in Systems Biology at
  Gothenburg Sweden
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	PhD and Post-Doc Positions in Systems Biology at Gothenburg Sweden
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Several PhD and Post-doc positions in systems biology are available in Chalmers University of Technology. The research project will focus on the systems biology of metabolism.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The PhD student or Post-doc fellow will work in Systems and Synthetic Biology, Chalmers University of Technology with Professor Jens Nielsen.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The research of Jens Nielsen's group focus on:
 Studying regulatory pathways that are conserved in the Eukaryal kingdom such as the Snf1/AMPK pathway, the Tor1/mTOR pathway, protein folding, secretion and degradation and regulation of lipid biosynthesis and degradation.
 Developing efficient cell factories (yeast and Aspergilli) for sustainable production of fuels and chemicals. We are looking into both the production of high-value chemicals such as isoprenoids that can be used as fine chemicals, commodity chemicals that can be used as feedstocks in the chemical industry for polymer production, and novel advanced biofuels.
 Developing metabolic models for Eukaryal cells, including rodent and human cells, and using these models as scaffolds for analysis of omics data with the objective to understand global responses to nutrient and disease. Experimental work is carried out in collaboration with other research groups.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	For the detail information of the lab, please visit the website (http://www.sysbio.se/).
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	To apply or for the detail of the PhD fellowship and post-doc positions, please contact Prof. Jens Nielsen (nielsenj@chalmers.se)
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	I would be grateful if you could pass this on to talented and motivated students or PhD you think might be interested.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : french
 	Boyang Ji
 PhD, Post-Doc Researcher
 Systems and Synthetic Biology
@@ -53,7 +53,7 @@ SE-412 96 Göteborg
 SWEDEN
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -61,42 +61,42 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	PhD and Post-Doc Positions in Systems Biology at Gothenburg Sweden
 
 Several PhD and Post-doc positions in systems biology are available in Chalmers University of Technology.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The research project will focus on the systems biology of metabolism.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The PhD student or Post-doc fellow will work in Systems and Synthetic Biology, Chalmers University of Technology with Professor Jens Nielsen.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The research of Jens Nielsen's group focus on:
 Studying regulatory pathways that are conserved in the Eukaryal kingdom such as the Snf1/AMPK pathway, the Tor1/mTOR pathway, protein folding, secretion and degradation and regulation of lipid biosynthesis and degradation.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Developing efficient cell factories (yeast and Aspergilli) for sustainable production of fuels and chemicals.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	We are looking into both the production of high-value chemicals such as isoprenoids that can be used as fine chemicals, commodity chemicals that can be used as feedstocks in the chemical industry for polymer production, and novel advanced biofuels.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Developing metabolic models for Eukaryal cells, including rodent and human cells, and using these models as scaffolds for analysis of omics data with the objective to understand global responses to nutrient and disease.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Experimental work is carried out in collaboration with other research groups.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	For the detail information of the lab, please visit the website (http://www.sysbio.se/).
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	To apply or for the detail of the PhD fellowship and post-doc positions, please contact Prof. Jens Nielsen (nielsenj@chalmers.se)
 
 I would be grateful if you could pass this on to talented and motivated students or PhD you think might be interested.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : french
 	Boyang Ji
 PhD, Post-Doc Researcher
 Systems and Synthetic Biology

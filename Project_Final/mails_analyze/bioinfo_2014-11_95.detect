@@ -1,47 +1,47 @@
-Le mail "bioinfo_2014-11_95" est globalement en : FRA
-[('FRA', 0.6817424139937307), ('ENG', 23.945393644682305)]
+Le mail "bioinfo_2014-11_95" est globalement en : french
+[('french', 0.046170358818445965), ('english', 1.4714928146296513)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Atelier Fouille de Grands Graphes : Application à la bio-informatique (FGG @ EGC2015)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Désolé pour les réceptions multiples.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	
                      ******     Appel à communications     ******
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Fouille de Grands Graphes : Application à la bio-informatique (FGG-EGC)  
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	https://sites.google.com/site/fggegc15/
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Luxembourg, 27 janvier 2015, dans le cadre de la conférence EGC'15 
 
 ==========================================
-Le paragraphe 6 est en : n
+Le paragraphe 6 est en : non detect
 	
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Après le  succès des  premières  éditions  de cet atelier qui s'étaient  déroulées  dans le cadre  d'EGC 2013 et 2014, avec des thématiques ouvertes 
 sur la fouille de grands graphes. Cette  année,  nous  souhaitons  que  l'atelier  soit  plus  centré  sur  les applications en "bio-informatique » et letude des réseaux biologiques. 
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	*******
 Dates importantes  (dates étendues) :
 *******
@@ -50,7 +50,7 @@ Notification aux auteurs :     20 décembre 2014
 Version finale :        5 janvier 2015
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	*******
 Objectifs et thématiques :
 ********
@@ -60,7 +60,7 @@ Notre ambition est de permettre aux participants d'aborder  les problèmes renco
 De façon non limitative, nous sollicitons des communications sur les thématiques suivantes (liste non exhaustive) :
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Analyse et dynamique des grands graphes
 Recherche de communautés
 Clustering de graphes
@@ -75,7 +75,7 @@ Modèles graphiques probabilistes
 Analyse conjointe des liens et des attributs
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Applications :
 Biologie des systèmes et réseaux biologiques
 Expression des gènes, les relations de régulation
@@ -85,7 +85,7 @@ Ontologies, génomique fonctionnelle
 Intégration, visualisation et analyse de données « Omique »
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	*****
 Soumission :
 *****
@@ -93,7 +93,7 @@ article  court  de 2 à 6  pages  (donnant lieu à présentation orale) en  suiv
 Les soumissions sont à faire via le site easychair (https://easychair.org/conferences/?conf=fggegc2015).
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	*****
 Organisateurs  :
 ******
@@ -102,7 +102,7 @@ Mohamed Elati (iSSB - Université Evry Val dEssonne)
 Blaise Hanczar (LIPADE -  Université Paris Descartes)
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	*****
 Comité de programme (en cours d'élaboration) :
 ******
@@ -115,7 +115,7 @@ Amedeo Napoli (LORIA - Nancy)
 ..
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	---------------------------------------------------------------------
 Mohamed Elati
 Maître de Conférences, UEVE
@@ -131,10 +131,10 @@ http://www.issb.genopole.fr/~elati/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Désolé pour les réceptions multiples.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	
                      ******     Appel à communications     ******
 
@@ -150,10 +150,10 @@ Luxembourg, 27 janvier 2015, dans le cadre de la conférence EGC'15
 Après le  succès des  premières  éditions  de cet atelier qui s'étaient  déroulées  dans le cadre  d'EGC 2013 et 2014, avec des thématiques ouvertes 
 sur la fouille de grands graphes.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Cette  année,  nous  souhaitons  que  l'atelier  soit  plus  centré  sur  les applications en "bio-informatique » et letude des réseaux biologiques.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	*******
 Dates importantes  (dates étendues) :
 *******
@@ -167,10 +167,10 @@ Objectifs et thématiques :
 L'édition  2015  de  l'atelier  fouille  de  grands  graphes  a   pour  but  de  réunir  les  chercheurs  intéressés  par  lanalyse,  la  fouille  et  la  visualisation  
 de  grands  graphes  et  leurs  application dans les problématiques en bio-informatique et biologie des systèmes.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Notre ambition est de permettre aux participants d'aborder  les problèmes rencontrés  liés  aux données biologiques et de présenter leurs approches de traitement.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	De façon non limitative, nous sollicitons des communications sur les thématiques suivantes (liste non exhaustive) :
 
 Analyse et dynamique des grands graphes
@@ -199,10 +199,10 @@ Soumission :
 *****
 article  court  de 2 à 6  pages  (donnant lieu à présentation orale) en  suivant  le  format  d'EGC  (voir  http://egc2015.lippmann.lu/fr/conference/soumission/).
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Les soumissions sont à faire via le site easychair (https://easychair.org/conferences/?conf=fggegc2015).
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	*****
 Organisateurs  :
 ******

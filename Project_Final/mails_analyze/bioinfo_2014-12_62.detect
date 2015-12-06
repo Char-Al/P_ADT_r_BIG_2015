@@ -1,70 +1,70 @@
-Le mail "bioinfo_2014-12_62" est globalement en : ENG
-[('ENG', 0.6051470608642917), ('FRA', 0.8399881606385875)]
+Le mail "bioinfo_2014-12_62" est globalement en : english
+[('english', 0.05587601774627317), ('french', 0.2200493668133928)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Summer School in Bioinformatics - Angers - july 2015
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	SUMMER SCHOOL IN BIOINFORMATICS
 http://summerschools.univ-angers.fr/en/index/schools/bioinformatics.html
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	June 29 - July 10 2015, Angers France
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Coordinators: Dr. Jérémie BOURDON, Dr. Frédéric LARDEUX
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	OBJECTIVES
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	  Dealing with big data and big models in biology: current challenges in bioinformatics
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	  Bioinformatics is an exciting new area of interdisciplinary science.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	  The future of many biological and medical studies promotes smart use of computational tools as an essential knowledge in scientists background.The program developed in this summer school aims at bringing students the ability to conduct ambitious biological studies from big data analysis to extract relevant biomarkers to large scale models engineering in order to enhance biological production. Topics to be covered include different fields of bioinformatics: data processing of genomic data, optimization methods in systems biology, statistics and classification for biomarker extraction, meta-genomics and a few more. Focus is also made on valorization concerns. Workshops and visits of institutes in bioinformatics facilities are of course included.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Summer School PROGRAM
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Workshops:
   Visits of international research institutes
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	  - Bioinformatics platforms, University of Nantes
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	  The program relies on interactive classes and hands-on ativities. Several workshops are organized, among them:
   - "Creating a locus-specific database"
   - "Analysis of a metabolic network"
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Sessions:
   Plenary conference (the speaker will be announced soon)
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	  - Warm up session : Informatics for beginners 
   - Session 1: Statistics and classification for genomic studies                
   - Session 2: Clinicobiological Databases in genetics 
@@ -77,11 +77,11 @@ Le paragraphe 13 est en : ENG
   - Session 9: Computer modeling of living systems: a guided tour to synthetic biology
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	ADMISSION
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Criteria
   This program is ideal for those wishing to develop advanced skills in bioinformatics. Prior experience in computer science and computer programming is not required.
   This summer school is aimed at undergraduate students from 3th year to Ph.D. in biological sciences / medicine / pharmacy / informatics / engineering or other scientific background. 
@@ -96,18 +96,18 @@ Registration fees: 700 Euro
   A certificate of attendance and 6 ECTS will be delivered to the students.
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Keynote Speakers
   Intended speakers will be announced soon.
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	APPLICATION AND REGISTRATION
   To secure your participation, we advise that you apply as soon as possible. 
   The application form can be downloaded from the summer school website:
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	  http://summerschools.univ-angers.fr/en/index/schools/bioinformatics/admission.html
 
 
@@ -116,7 +116,7 @@ Le paragraphe 18 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	SUMMER SCHOOL IN BIOINFORMATICS
 http://summerschools.univ-angers.fr/en/index/schools/bioinformatics.html
 
@@ -131,19 +131,19 @@ OBJECTIVES
 
   Bioinformatics is an exciting new area of interdisciplinary science.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The future of many biological and medical studies promotes smart use of computational tools as an essential knowledge in scientists background.The program developed in this summer school aims at bringing students the ability to conduct ambitious biological studies from big data analysis to extract relevant biomarkers to large scale models engineering in order to enhance biological production.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Topics to be covered include different fields of bioinformatics: data processing of genomic data, optimization methods in systems biology, statistics and classification for biomarker extraction, meta-genomics and a few more.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Focus is also made on valorization concerns.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Workshops and visits of institutes in bioinformatics facilities are of course included.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Summer School PROGRAM
 
 Workshops:
@@ -153,7 +153,7 @@ Workshops:
 
   The program relies on interactive classes and hands-on ativities.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Several workshops are organized, among them:
   - "Creating a locus-specific database"
   - "Analysis of a metabolic network"
@@ -178,13 +178,13 @@ ADMISSION
 Criteria
   This program is ideal for those wishing to develop advanced skills in bioinformatics.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Prior experience in computer science and computer programming is not required.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	This summer school is aimed at undergraduate students from 3th year to Ph.D. in biological sciences / medicine / pharmacy / informatics / engineering or other scientific background.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Application deadline
   Application deadline: April 15th 2015
   Final answer about your selection: May 1st 2015
@@ -193,21 +193,21 @@ La phrase 10 est en : ENG
 Registration fees: 700 Euro
   Fees include tuition, accommodation, lunches, scheduled excursions and extracurricular activities during the course.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	The Summer Schools do not cover the costs of passports, visas, health insurance, or travel to and from France.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	A certificate of attendance and 6 ECTS will be delivered to the students.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Keynote Speakers
   Intended speakers will be announced soon.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	APPLICATION AND REGISTRATION
   To secure your participation, we advise that you apply as soon as possible.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	The application form can be downloaded from the summer school website:
 
   http://summerschools.univ-angers.fr/en/index/schools/bioinformatics/admission.html

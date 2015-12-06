@@ -1,45 +1,45 @@
-Le mail "bioinfo_2014-07_84" est globalement en : ENG
-[('ENG', 0.3745469544720936), ('FRA', 0.5891877729305376)]
+Le mail "bioinfo_2014-07_84" est globalement en : english
+[('english', 0.3314559571012687), ('french', 0.4033432085663824)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] SASB, Munich, September 10, 2014 - Call for Participation
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	                    Call for Participation
 ------------------------------------------------------------------
                          SASB 2014
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	5th International Workshop on Static Analysis and Systems Biology
 ------------------------------------------------------------------
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	10 September 2014,
 Munich, Germany
 Satellite Workshop of SAS 2014
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	http://www.lri.fr/sasb2014/
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	SASB aims at promoting discussions and collaborations between biologists
 (modelers), computer scientists and applied-mathematicians interested in
 designing or using methods to reduce the complexity of modeling, simulating or
 analyzing biological systems.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Static analysis refers to a wide range of techniques for characterizing and 
 identifying important features from a model without its exhaustive execution.
 Static analysis is used for helping the design of models, the test of models
@@ -53,58 +53,58 @@ dimension of a model while preserving important behaviors; characterization of
 dynamical properties with respect to the topology of the model; etc.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	The program of SASB 2014 consists of 2 invited talks
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	- Gheorghe Craciun (University of Wisconsin-Madison, USA)
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : french
 	- Fabian Theis (Institute of Computational Biology, Helmholtz Zentrum München)
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	and 6 contributed talks.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	A preliminary program is available at http://www.lri.fr/sasb2014/#program
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Registration: http://cs.uni-muenster.de/sev/sas14/registration.php
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	PUBLICATION
 -----------
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	The proceedings of the workshop will be published electronically via ENTCS.
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	ORGANIZERS
 ----------
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	* Program Co-Chairs:
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	  Heinz Koeppl              Technische Universität Darmstadt, Germany
   Loic Paulevé              CNRS/LRI, Université Paris-Sud, France
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	* Program Committee:
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : french
 	  Claudine Chaouyia         IGC, Portugal
   Gheorghe Craciun          University of Wisconsin-Madison, USA
   Damien Eveillard          Université de Nantes, France
@@ -121,7 +121,7 @@ Le paragraphe 19 est en : ENG
   Andrei Zinovyev           Institut Curie, France-- 
 
 ==========================================
-Le paragraphe 20 est en : n
+Le paragraphe 20 est en : non detect
 	
 
 ==========================================
@@ -129,7 +129,7 @@ Le paragraphe 20 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	                    Call for Participation
 ------------------------------------------------------------------
                          SASB 2014
@@ -148,15 +148,15 @@ SASB aims at promoting discussions and collaborations between biologists
 designing or using methods to reduce the complexity of modeling, simulating or
 analyzing biological systems.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Static analysis refers to a wide range of techniques for characterizing and 
 identifying important features from a model without its exhaustive execution.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Static analysis is used for helping the design of models, the test of models
 against experimental data, and the prediction of behaviors.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Static analysis can involve, for instance, modeling paradigms, such as
 rule-based modeling, that ease the characterization of the behaviors of a
 model; abstractions that prevent a full exploration of the potential concrete
@@ -165,7 +165,7 @@ computation of various properties; model reductions, that decrease the
 dimension of a model while preserving important behaviors; characterization of 
 dynamical properties with respect to the topology of the model; etc.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : french
 	The program of SASB 2014 consists of 2 invited talks
 
 - Gheorghe Craciun (University of Wisconsin-Madison, USA)
@@ -175,7 +175,7 @@ La phrase 5 est en : ENG
 
 and 6 contributed talks.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	A preliminary program is available at http://www.lri.fr/sasb2014/#program
 
 
@@ -188,7 +188,7 @@ PUBLICATION
 
 The proceedings of the workshop will be published electronically via ENTCS.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : french
 	ORGANIZERS
 ----------
 

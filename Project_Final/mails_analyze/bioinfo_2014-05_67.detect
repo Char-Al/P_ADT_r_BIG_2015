@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-05_67" est globalement en : ENG
-[('ENG', 0.38678827362201457), ('FRA', 0.6094920493241586)]
+Le mail "bioinfo_2014-05_67" est globalement en : english
+[('english', 0.031982231947441805), ('french', 0.25846316268133146)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Postdoc position (Montpellier): Discovering RNA motifs bound by RNA-binding proteins
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Metazoan genomes  encode hundreds of RNA-binding  proteins (RBPs), which
 form dynamic interactions with  coding and non-coding RNAs in functional
 units  called  ribonucleoproteins  (RNPs).  The  formation  of  RNPs  is
@@ -26,7 +26,7 @@ human diseases  ranging from neurological disorders to  AIDS and cancers
 (Lukong et al., Trends Genet, 2008).
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Motif  discovery  is one  of  the most  ancient  fields  of research  in
 bioinformatics,  and  numerous approaches  for  this  problem have  been
 proposed in the context of DNA (for example our method in Lajoie et al.,
@@ -37,18 +37,18 @@ candidate  to develop  a new  computational approach  dedicated  to this
 specific problem.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The successful candidate will  have strong programming skill (preferably
 C++)  and good  knowledge in  one or  several of  the  following topics:
 probabilistic models and statistic, motif discovery, RNA structure, gene
 expression data
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : english
 	Lab: LIRMM/IBC, Montpellier
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	If you are interested, please contact Laurent Bréhélin (brehelin@lirmm.fr)
 and Charles Lecellier (charles.lecellier@igmm.cnrs.fr) before June 15 2014.
 
@@ -58,44 +58,44 @@ and Charles Lecellier (charles.lecellier@igmm.cnrs.fr) before June 15 2014.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 
 Metazoan genomes  encode hundreds of RNA-binding  proteins (RBPs), which
 form dynamic interactions with  coding and non-coding RNAs in functional
 units  called  ribonucleoproteins  (RNPs).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The  formation  of  RNPs  is
 governed by specific molecular  determinants, in particular specific RNA
 motifs  and  structures.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Deciphering   these  mechanisms  is  of  prime
 importance because strong evidences show  that RBPs are involved in many
 human diseases  ranging from neurological disorders to  AIDS and cancers
 (Lukong et al., Trends Genet, 2008).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Motif  discovery  is one  of  the most  ancient  fields  of research  in
 bioinformatics,  and  numerous approaches  for  this  problem have  been
 proposed in the context of DNA (for example our method in Lajoie et al.,
 Genome  Bio.
 ==========================================
-La phrase 5 est en : n
+La phrase 5 est en : non detect
 	2012).
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	However,  because  they do  not  take into  account
 several fundamental aspects  of RNA it is still  very difficult to infer
 RBP  preferences  with  these  approaches.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	We  are  seeking  a  postdoc
 candidate  to develop  a new  computational approach  dedicated  to this
 specific problem.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The successful candidate will  have strong programming skill (preferably
 C++)  and good  knowledge in  one or  several of  the  following topics:
 probabilistic models and statistic, motif discovery, RNA structure, gene

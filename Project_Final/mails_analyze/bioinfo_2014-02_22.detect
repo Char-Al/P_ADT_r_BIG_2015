@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-02_22" est globalement en : FRA
-[('FRA', 1.130821896855067), ('ENG', 2.5358324556024923)]
+Le mail "bioinfo_2014-02_22" est globalement en : french
+[('french', 0.13035491589128956), ('english', 1.4029160978522879)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Stage M2 Recherche : Provenance dans un système de workflows pour la bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 Veuillez trouver ci-dessous une offre de stage de M2R pour la conception
 d'un module de provenance dans un système de workflows pour la
@@ -20,16 +20,16 @@ Cordialement,
 Sarah Cohen-Boulakia
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Sujet de stage M2 Recherche 
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Conception dun module de Provenance dans un système de workflow pour la
 bioinformatique
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Mots clés : plateformes d'analyses; intégration d'informations; bases de
 données; algorithmique (graphes)
  
@@ -41,7 +41,7 @@ Contact : cohen@lri.fr
 Contexte
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	La taille et la quantité des données scientifiques produites et disponibles
 ont considérablement augmentées au cours des dernières années. En plus de
 devoir être stockées et gérées, la tâche la plus importante réalisée sur ces
@@ -64,7 +64,7 @@ débouchant sur la proposition dun standard très général de provenance OPM,
 Open Provenance Model [MCF+11]. 
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Dans ce stage on s'intéressera plus particulièrement à l'un des deux
 systèmes suivants : 
 * Galaxy [GNT+10] qui est lun des systèmes de workflows les plus utilisés
@@ -75,14 +75,14 @@ modélisation du fonctionnement et de la croissance de larchitecture des
 plantes qui compte aujourdhui plusieurs centaines dutilisateurs. 
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	LInstitut de Biologie Computationnelle de Montpellier a de nombreux
 utilisateurs et concepteurs de workflows Galaxy et OpenAlea. En fonction de
 la sensibilité du stagiaire, on pourra travailler sur lun ou lautre de ces
 systèmes. La problématique restant identique.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Lobjectif général de ce stage est de proposer un *module de provenance*
 capable de garder la trace précise de la composition des workflows et des
 exécutions (outils utilisés, paramètres et données prises en entrée et
@@ -101,11 +101,11 @@ de détails plus ou moins important selon ses souhaits pour ne pas être
 submergé dinformations.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Travail attendu
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Le but de ce stage est (i) de proposer une représentation concise,
 expressive et capable de prendre en compte des niveaux de granularités de
 provenance différents des workflow de Galaxy ou Open Alea et de leurs
@@ -115,7 +115,7 @@ exécutions. Plus spécifiquement, les différentes tâches attendues sont les
 suivantes :
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 		Représentation des workflows (modules et les liens entre les
 modules), représentation des exécutions des workflows (données consommées et
 produites lors dune exécution et exécution de modules), définition de la
@@ -130,11 +130,11 @@ workflows et dexécutions à divers niveaux de granularités
 différenciation des workflows et exécutions dans Galaxy ou OpenAlea
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Références
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : french
 	[ABM+09] Anand, M. K., Bowers, S., McPhillips, T., & Ludäscher, B. (2009,
 March). Efficient provenance storage over nested data collections. In
 Proceedings of the 12th International Conference on Extending Database
@@ -169,12 +169,12 @@ third provenance challenge on using the open provenance model for
 interoperability. Future Generation Computer Systems, 27(6), 737-742.
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Autres informations
 Rémunération (gratification) : 436 euros/mois
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	--
 Sarah Cohen-Boulakia
 Maître de conférences
@@ -182,7 +182,7 @@ Laboratoire de Recherche en Informatique
 Université Paris Sud
 
 ==========================================
-Le paragraphe 16 est en : n
+Le paragraphe 16 est en : non detect
 	
 
 ==========================================
@@ -190,13 +190,13 @@ Le paragraphe 16 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 Veuillez trouver ci-dessous une offre de stage de M2R pour la conception
 d'un module de provenance dans un système de workflows pour la
 bioinformatique.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Cordialement,
 Sarah Cohen-Boulakia
 
@@ -218,24 +218,24 @@ Contexte
 La taille et la quantité des données scientifiques produites et disponibles
 ont considérablement augmentées au cours des dernières années.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	En plus de
 devoir être stockées et gérées, la tâche la plus importante réalisée sur ces
 ensembles de données est leur analyse qui met en jeu une série doutils
 bioinformatiques complexes et dédiés au domaine détude.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Une telle analyse
 est typiquement réalisée par lassemblage détapes impliquant une multitude
 de scripts, doutils et dalgorithmes.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Des efforts considérables ont été
 réalisés dans le développement de systèmes et plateformes capables de
 fournir un soutien à lutilisateur lors de la conception et la gestion de
 telles analyses (appelés systèmes de workflows).
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Certains de ces systèmes
 ont depuis quelques années des modules de provenance, capable de garder la
 trace précise des lancements denchaînements doutils effectués, offrant à
@@ -244,14 +244,14 @@ et daccéder à des informations relatives à la qualité des résultats obten
 (qualité relative à la fiabilité des outils utilisés, des données prises en
 entrées, des types de paramètres utilisés etc.).
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Face à la multitude de
 représentations disponibles pour les données de provenance [MPB10], [ABM+09]
 une série de Provenance Challenges [MLA+08] [SGM11] a été organisée,
 débouchant sur la proposition dun standard très général de provenance OPM,
 Open Provenance Model [MCF+11].
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Dans ce stage on s'intéressera plus particulièrement à l'un des deux
 systèmes suivants : 
 * Galaxy [GNT+10] qui est lun des systèmes de workflows les plus utilisés
@@ -261,44 +261,44 @@ biologiques
 modélisation du fonctionnement et de la croissance de larchitecture des
 plantes qui compte aujourdhui plusieurs centaines dutilisateurs.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	LInstitut de Biologie Computationnelle de Montpellier a de nombreux
 utilisateurs et concepteurs de workflows Galaxy et OpenAlea.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	En fonction de
 la sensibilité du stagiaire, on pourra travailler sur lun ou lautre de ces
 systèmes.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	La problématique restant identique.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Lobjectif général de ce stage est de proposer un *module de provenance*
 capable de garder la trace précise de la composition des workflows et des
 exécutions (outils utilisés, paramètres et données prises en entrée et
 générées).
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Ce module devra permettre aux utilisateurs de connaître
 lévolution dun workflow : « quel module a été modifié ou ajouté entre deux
 versions de ce workflow ?», « quelles sont les différences entre deux
 workflows ayant le même but général (ie produisant le même type de donnée)
 mais ayant été conçu par deux équipes/personnes différentes » ?...
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Ce module devra aussi permettre aux utilisateurs de comprendre mieux les
 résultats différents obtenus par les exécutions dun même workflow (rôle du
 paramétrage des outils impliqués dans le workflow, rôle des données
 dentrée) [BCD+09].
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Les réponses à ces questions doivent pouvoir être considérées à différents
 niveaux de granularité [BCD+08] en fournissant à lutilisateur des niveaux
 de détails plus ou moins important selon ses souhaits pour ne pas être
 submergé dinformations.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Travail attendu
 
 Le but de ce stage est (i) de proposer une représentation concise,
@@ -308,7 +308,7 @@ exécutions (compatible avec les standards de provenance) et (ii)
 dintroduire un algorithme efficace de comparaison de ces workflows et
 exécutions.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Plus spécifiquement, les différentes tâches attendues sont les
 suivantes :
 
@@ -317,12 +317,12 @@ modules), représentation des exécutions des workflows (données consommées et
 produites lors dune exécution et exécution de modules), définition de la
 relation entre ces représentations ("models of computation").
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Différents
 niveaux de granularité/détail devront pouvoir être considérés dans ces
 représentations.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 		Proposition dune structure de stockage et dun format déchange
 pour les workflows et leurs exécutions
 	Conception et implémentation dun algorithme de comparaison de
@@ -334,143 +334,143 @@ Références
 
 [ABM+09] Anand, M. K., Bowers, S., McPhillips, T., & Ludäscher, B.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	(2009,
 March).
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	Efficient provenance storage over nested data collections.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	In
 Proceedings of the 12th International Conference on Extending Database
 Technology: Advances in Database Technology (pp.
 ==========================================
-La phrase 23 est en : n
+La phrase 23 est en : non detect
 	958-969).
 ==========================================
-La phrase 24 est en : ENG
+La phrase 24 est en : english
 	ACM.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	[BCD+09] Bao, Z., Cohen-Boulakia, S., Davidson, S. B., Eyal, A., & Khanna,
 S. (2009, March).
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	Differencing provenance in scientific workflows.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	In Data
 Engineering, 2009.
 ==========================================
-La phrase 28 est en : FRA
+La phrase 28 est en : french
 	ICDE'09.
 ==========================================
-La phrase 29 est en : ENG
+La phrase 29 est en : english
 	IEEE 25th International Conference on (pp.
 ==========================================
-La phrase 30 est en : n
+La phrase 30 est en : non detect
 	808-819).
 ==========================================
-La phrase 31 est en : FRA
+La phrase 31 est en : french
 	IEEE.
 ==========================================
-La phrase 32 est en : ENG
+La phrase 32 est en : english
 	[BCD+08] Biton, O., Cohen-Boulakia, S., Davidson, S. B., & Hara, C. S.
 (2008, April).
 ==========================================
-La phrase 33 est en : ENG
+La phrase 33 est en : english
 	Querying and managing provenance through user views in
 scientific workflows.
 ==========================================
-La phrase 34 est en : ENG
+La phrase 34 est en : english
 	In Data Engineering, 2008.
 ==========================================
-La phrase 35 est en : FRA
+La phrase 35 est en : french
 	ICDE 2008.
 ==========================================
-La phrase 36 est en : ENG
+La phrase 36 est en : english
 	IEEE 24th
 International Conference on (pp.
 ==========================================
-La phrase 37 est en : n
+La phrase 37 est en : non detect
 	1072-1081).
 ==========================================
-La phrase 38 est en : FRA
+La phrase 38 est en : french
 	IEEE.
 ==========================================
-La phrase 39 est en : ENG
+La phrase 39 est en : english
 	[GNT+10] Goecks, J., Nekrutenko, A., Taylor, J., & Team, T. G. (2010).
 ==========================================
-La phrase 40 est en : ENG
+La phrase 40 est en : english
 	Galaxy: a comprehensive approach for supporting accessible, reproducible,
 and transparent computational research in the life sciences.
 ==========================================
-La phrase 41 est en : ENG
+La phrase 41 est en : english
 	Genome Biol,
 11(8), R86.
 ==========================================
-La phrase 42 est en : ENG
+La phrase 42 est en : french
 	[MCF+11] Moreau, L., Clifford, B., Freire, J., Futrelle, J., Gil, Y., Groth,
 P., & den Bussche, J. V. (2011).
 ==========================================
-La phrase 43 est en : ENG
+La phrase 43 est en : english
 	The open provenance model core
 specification (v1.
 ==========================================
-La phrase 44 est en : n
+La phrase 44 est en : non detect
 	1).
 ==========================================
-La phrase 45 est en : ENG
+La phrase 45 est en : english
 	Future Generation Computer Systems, 27(6), 743-756.
 ==========================================
-La phrase 46 est en : ENG
+La phrase 46 est en : french
 	[MLA+08] Moreau, L., Ludäscher, B., Altintas, I., Barga, R. S., Bowers, S.,
 Callahan, S., et al (2008).
 ==========================================
-La phrase 47 est en : ENG
+La phrase 47 est en : english
 	Special issue: The first provenance challenge.
 ==========================================
-La phrase 48 est en : FRA
+La phrase 48 est en : french
 	Concurrency and computation: practice and experience, 20(5), 409-418.
 ==========================================
-La phrase 49 est en : ENG
+La phrase 49 est en : english
 	[MPB10] Missier, P., Paton, N. W., & Belhajjame, K. (2010, March).
 ==========================================
-La phrase 50 est en : ENG
+La phrase 50 est en : english
 	Fine-grained and efficient lineage querying of collection-based workflow
 provenance.
 ==========================================
-La phrase 51 est en : ENG
+La phrase 51 est en : english
 	In Proceedings of the 13th International Conference on Extending
 Database Technology (pp.
 ==========================================
-La phrase 52 est en : n
+La phrase 52 est en : non detect
 	299-310).
 ==========================================
-La phrase 53 est en : ENG
+La phrase 53 est en : english
 	ACM.
 ==========================================
-La phrase 54 est en : ENG
+La phrase 54 est en : english
 	[PDB+08] C. Pradal, S. Dufour-Kowalski, F. Boudon, C. Fournier, C. Godin.
 ==========================================
-La phrase 55 est en : ENG
+La phrase 55 est en : english
 	OpenAlea: A visual programming and component-based software platform for
 plant modeling.
 ==========================================
-La phrase 56 est en : ENG
+La phrase 56 est en : english
 	Functional Plant Biology
 [SGM11] Simmhan, Y., Groth, P., & Moreau, L. (2011).
 ==========================================
-La phrase 57 est en : ENG
+La phrase 57 est en : english
 	Special Section: The
 third provenance challenge on using the open provenance model for
 interoperability.
 ==========================================
-La phrase 58 est en : ENG
+La phrase 58 est en : english
 	Future Generation Computer Systems, 27(6), 737-742.
 ==========================================
-La phrase 59 est en : FRA
+La phrase 59 est en : french
 	Autres informations
 Rémunération (gratification) : 436 euros/mois
 

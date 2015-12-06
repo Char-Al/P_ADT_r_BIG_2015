@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-06_55" est globalement en : FRA
-[('FRA', 0.16114873673859853), ('ENG', 3.0071042828226786)]
+Le mail "bioinfo_2014-06_55" est globalement en : french
+[('french', 0.03236717930349025), ('english', 1.438230849620256)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Un(e) ingénieur(e) en développementd’applications , en contrat CDD, ARCAD Web-Services et portail national des ressources génétiquesvégétales
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	L’UMR AGAP (Amélioration Génétique et Adaptation des Plantes 
 méditerranéennes et tropicales) recherche :
 Un(e) ingénieur(e) en développement d’applications, en contrat CDD
@@ -43,7 +43,7 @@ Une expérience du langage Java serait un plus.
 Bonne capacité de communication, et rédactionnelle, en anglais.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Formation :
 Master 2 (bioinformatique, informatique) ou Ecole d’Ingénieur
 Contact :
@@ -51,32 +51,32 @@ Manuel Ruiz (manuel.ruiz@cirad.fr), Chantal Hamelin
 (chantal.hamelin@cirad.fr)
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	-- 
 Manuel Ruiz
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	CIRAD-BIOS
 UMR Amélioration Génétique et Adaptation des Plantes méditerranéennes et tropicales
 Equipe "Intégration des données"
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	TA A-108/03
 Avenue Agropolis
 34398 Montpellier Cedex 5
 France
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Tel : (33) 4 67 61 65 29
 Fax : (33) 4 67 61 56 05
 e-mail : manuel.ruiz@cirad.fr
 http://agents.cirad.fr/index.php/manuel+ruiz/manuel_ruiz_en
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	
 
 ==========================================
@@ -84,7 +84,7 @@ Le paragraphe 7 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	L’UMR AGAP (Amélioration Génétique et Adaptation des Plantes 
 méditerranéennes et tropicales) recherche :
 Un(e) ingénieur(e) en développement d’applications, en contrat CDD
@@ -100,7 +100,7 @@ du système d’information national sur les ressources génétiques
 végétales, dans le cadre du projet ARCAD2, incluant l’INRA, le CIRAD et 
 l’IRD.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Les missions principales de ce poste seront : 1- d’élaborer et de 
 mettre en place le portail Web d’information sur les ressources 
 génétiques végétales, incluant différents modules de visualisation des 
@@ -108,26 +108,26 @@ données, de commande, et d’information et 2- de mettre en place les Web
 Services pour permettre l’interconnexion du portail avec les différents 
 services fournisseurs de données.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Pour ce deuxième point, le travail se 
 fera entre autres en lien avec l’URGI de l’INRA Versailles pour 
 récupérer les données présentes au sein du système SIREGAL.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Compétences :
 Fortes compétences nécessaires en technologies Web (Web Services, XML, 
 JSON, etc.)
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Expérience en bases de données relationnelles
 Maîtrise de l’environnement Unix/Linux
 Pratique d’un IDE (Eclipse)
 Une expérience du langage Java serait un plus.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Bonne capacité de communication, et rédactionnelle, en anglais.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Formation :
 Master 2 (bioinformatique, informatique) ou Ecole d’Ingénieur
 Contact :

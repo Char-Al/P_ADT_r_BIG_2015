@@ -1,50 +1,50 @@
-Le mail "bioinfo_2014-12_46" est globalement en : FRA
-[('FRA', 28.52819080594876), ('ENG', 75.95403845196324)]
+Le mail "bioinfo_2014-12_46" est globalement en : french
+[('french', 0.0627124001288633), ('english', 4.649154981598207)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Soutenance de thèse - Gaëlle Garet
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	j'ai le plaisir de vous inviter à ma soutenance de thèse intitulée
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	"Classification et caractérisation de familles enzymatiques à l'aide
 de méthodes formelles".
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Cette soutenance aura lieu :
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	mardi 16 décembre 2014 à 10h en salle Markov du centre Inria/irisa de
 Rennes situé à l'adresse suivante :
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Irisa - Inria Bretagne Atlantique
 Campus universitaire de Beaulieu
 263 Avenue Général Leclerc
 35042 Rennes Cedex
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Le jury de thèse est composé de :
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Jean-Christophe Janodet, Professeur à l'Université
 d'Evry-Val-d'Essonne (rapporteur)
 Amedeo Napoli, Directeur de recherche au Loria, Nancy (rapporteur)
@@ -55,11 +55,11 @@ Jacques Nicolas, Directeur de recherche à Inria, Rennes (directeur de thèse)
 François Coste, Chargé de recherche à Inria, Rennes (co-directeur de thèse)
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Résumé :
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Cette thèse propose une nouvelle approche de découverte de signatures
 de familles (et superfamilles) d'enzymes. Dans un premier temps, étant
 donné un échantillon aligné de séquences appartenant à une même
@@ -76,11 +76,11 @@ qui permet la détection de nouvelles familles et la découverte des
 motifs fonctionnels pour améliorer les signatures précédentes.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Abstract :
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	This thesis proposes a new approach to discover signatures of families
 (and superfamilies) enzymes. At first, given a sample of aligned
 sequences belonging to the same family, this approach infers
@@ -95,11 +95,11 @@ detection of new families and the discovery of patterns to improve
 functional previous signatures.
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Gaëlle Garet
 
 
@@ -108,7 +108,7 @@ Le paragraphe 14 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 j'ai le plaisir de vous inviter à ma soutenance de thèse intitulée
@@ -116,7 +116,7 @@ j'ai le plaisir de vous inviter à ma soutenance de thèse intitulée
 "Classification et caractérisation de familles enzymatiques à l'aide
 de méthodes formelles".
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Cette soutenance aura lieu :
 
 mardi 16 décembre 2014 à 10h en salle Markov du centre Inria/irisa de
@@ -146,58 +146,58 @@ Résumé :
 Cette thèse propose une nouvelle approche de découverte de signatures
 de familles (et superfamilles) d'enzymes.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Dans un premier temps, étant
 donné un échantillon aligné de séquences appartenant à une même
 famille, cette approche infère des grammaires algébriques
 caractérisant cette famille.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Pour ce faire, de nouveaux principes de
 généralisation et de nouvelles classes de langages ont été introduites
 sur la base de la substituabilité locale.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Un algorithme a également
 été développé à cet effet qui produit une grammaire réduite,
 conservant la structuration des exemples, d'un langage substituable.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Dans un second temps, ce manuscrit présente une méthode de
 classification des séquences d'une superfamille en familles à l'aide
 d'une analyse de concepts formels basée sur l'alignement des séquences
 qui permet la détection de nouvelles familles et la découverte des
 motifs fonctionnels pour améliorer les signatures précédentes.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Abstract :
 
 This thesis proposes a new approach to discover signatures of families
 (and superfamilies) enzymes.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	At first, given a sample of aligned
 sequences belonging to the same family, this approach infers
 context-free grammars characteristic of this family.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	To do this, new
 principles of generalization and new classes have been introduced
 based on substitutability.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	An algorithm has also been developed for
 this purpose, which produces a reduced grammar able to retain the
 structure of examples.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	In a second step, this manuscript presents a
 method for classification of a superfamily sequences into families
 with a formal concept analysis based on alignement sequences allowing
 detection of new families and the discovery of patterns to improve
 functional previous signatures.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Cordialement,
 
 Gaëlle Garet

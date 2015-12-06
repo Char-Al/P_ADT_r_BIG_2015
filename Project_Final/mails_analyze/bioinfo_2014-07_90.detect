@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-07_90" est globalement en : FRA
-[('FRA', 0.26273571524170586), ('ENG', 2.9936859419116475)]
+Le mail "bioinfo_2014-07_90" est globalement en : french
+[('french', 0.3504378645916975), ('english', 0.9728354587890079)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD autre] Datamanager/Gestionnaires de donnéesbiomédicalesdébutant ou confirmé
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Datamanager/Gestionnaires de données biomédicales
 débutant ou confirmé
 Type de poste : CDD autre
@@ -27,12 +27,12 @@ Laboratoire : Unité de Recherche Clinique, Hopital européen Georges
 Pompidou
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/datamanagergestionnaires-de-donn%C3%A9es-biom%C3%A9dicales-d%C3%A9butant-ou-confirm%C3%A9
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 

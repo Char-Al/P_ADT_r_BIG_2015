@@ -1,27 +1,27 @@
-Le mail "bioinfo_2014-06_69" est globalement en : FRA
-[('FRA', 0.7610288456985472), ('ENG', 0.7891220088162734)]
+Le mail "bioinfo_2014-06_69" est globalement en : french
+[('french', 0.07068639230390542), ('english', 1.518773479730748)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] OPPORTUNITE DE MISSION - SUPPORT APPLICATIF - MODIS
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	MODIS société internationale réalise un CA de 2,4 milliard deuros en 2012.
 Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
 En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique. Elle sappuie sur un réseau de 7 agences. Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie. Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Description du poste :
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Pour renforcer nos équipes, nous recherchons un ingénieur support applicatif H/F qui aura pour mission : Constant and regular updates from the community to add new functionality and patch bugs:
 - Fix bugs / anomalies
 - Perform (routine) administration tasks
@@ -33,13 +33,13 @@ implement code changes
 - Provide assistance/support to users with the Expert User
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The solution specialist:
 - is in charge of Level 2-3 support from the IS application side
 - manages the changes in the computerized system application from the IS application side
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Skill sets:
 Apache Tomcat
 Apache Solr
@@ -53,29 +53,29 @@ Skilled in bioinformatics, research informatics
 Skilled in clinical and scientific data management (standards, etc.)
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	De formation Bac +5, vous justifiez dune expérience en tant quingénieur support applicatif en milieu scientifique. Vous êtes reconnu pour vos qualités dorganisation, de rigueur et votre sens du service.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Mission à pourvoir ASAP, localisée en Ile de France.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée. 
 Pour découvrir lensemble des postes ouverts, notre culture, nos atouts  Rendez-vous directement sur notre site www.modisfrance.fr. 
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Ce poste est ouvert à tous.
 En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Pour postuler, Cv à envoyer à: lisa.perchenet@modisfrance.fr
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -83,25 +83,25 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	MODIS société internationale réalise un CA de 2,4 milliard deuros en 2012.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Elle sappuie sur un réseau de 7 agences.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Description du poste :
 
 Pour renforcer nos équipes, nous recherchons un ingénieur support applicatif H/F qui aura pour mission : Constant and regular updates from the community to add new functionality and patch bugs:
@@ -110,7 +110,7 @@ Pour renforcer nos équipes, nous recherchons un ingénieur support applicatif H
 - Create and/or edit dictionaries, create new metadata field
 - Manage user accounts, etc.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	- Review the source code of prospective enhancements to determine impact and 
 implement code changes 
 - Develop enhancements
@@ -132,28 +132,28 @@ Expertise in ETL technologies - Pentaho/Kettle 	(data loading)
 Skilled in bioinformatics, research informatics
 Skilled in clinical and scientific data management (standards, etc.)
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	De formation Bac +5, vous justifiez dune expérience en tant quingénieur support applicatif en milieu scientifique.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Vous êtes reconnu pour vos qualités dorganisation, de rigueur et votre sens du service.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Mission à pourvoir ASAP, localisée en Ile de France.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Pour découvrir lensemble des postes ouverts, notre culture, nos atouts  Rendez-vous directement sur notre site www.modisfrance.fr.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Ce poste est ouvert à tous.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Pour postuler, Cv à envoyer à: lisa.perchenet@modisfrance.fr
 
 

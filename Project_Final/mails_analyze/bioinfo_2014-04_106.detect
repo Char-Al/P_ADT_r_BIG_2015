@@ -1,28 +1,28 @@
-Le mail "bioinfo_2014-04_106" est globalement en : FRA
-[('FRA', 1.0130371935270501), ('ENG', 1.1294861107923841)]
+Le mail "bioinfo_2014-04_106" est globalement en : french
+[('french', 0.021751684119041294), ('english', 3.5577018109315266)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Offre de poste bioinfo Ingénieur - Inria Rennes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à toutes et à tous.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Dans le cadre du projet Colib'read (http://colibread.inria.fr/), 
 l'équipe Irisa/Inria Genscale (http://team.inria.fr/genscale) recrute 
 un(e) ingénieur(e) de développement pour une durée de 18 mois.
 Poste à pourvoir dès que possible.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Profil du poste
 - Assurer le développement d'outils issus du projet de recherche 
 Colib'read: détection de variants, assemblage précis de données de 
@@ -31,20 +31,20 @@ déjà prototypées, au codage de nouvelles méthodes ou à l'amélioration
 (via la parallélisation par exemple) d'outils existants.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	- Avoir un regard critique sur les résultats des outils. Le/la 
 candidat(e) recruté aura pour mission de mettre en place des méthodes de 
 simulation et de test permettant de comparer et de valider les approches 
 proposées.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	- Le poste, basé sur un profil d'ingénierie, comprend une forte 
 coloration "recherche". La personne recrutée devra donc avoir un goût 
 pour ces aspects plus prospectifs.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	*Environnement de travail*
 - Le poste sera basé à Rennes au sein de l'équipe GenScale. Les 
 interactions seront fréquentes avec les autres équipes du projet 
@@ -53,7 +53,7 @@ conséquents et pourra s'appuyer sur les données et l'expertise de nos
 collaborateurs biologistes.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Formation et compétences requises
 - Master informatique et algorithmique ou master bioinfo.
 - Forte motivation et connaissances dans le domaine de la biologie 
@@ -76,7 +76,7 @@ texte, ...)
 à partir de 2530€ brut mensuel
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	*Envoyer le dossier de candidature* (lettre de motivation et CV) à : 
 pierre.peterlongo@inria.fr - indiquer "inge_colibread_2014" dans le 
 titre du mail SVP.
@@ -84,19 +84,19 @@ titre du mail SVP.
 Document sans titre
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	*Pierre Peterlongo - INRIA* - Research Associate / Chargé de recherche
 http://people.rennes.inria.fr/Pierre.Peterlongo/
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Campus de Beaulieu- Rennes
 35042 Rennes Cedex, France
 Tel : +33 (0)2 99 84 74 59
 Fax : +33 (0)2 99 84 71 71
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -104,68 +104,68 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à toutes et à tous.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Dans le cadre du projet Colib'read (http://colibread.inria.fr/), 
 l'équipe Irisa/Inria Genscale (http://team.inria.fr/genscale) recrute 
 un(e) ingénieur(e) de développement pour une durée de 18 mois.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Poste à pourvoir dès que possible.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Profil du poste
 - Assurer le développement d'outils issus du projet de recherche 
 Colib'read: détection de variants, assemblage précis de données de 
 séquençage.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ce développement pourra consister au déploiement de méthodes 
 déjà prototypées, au codage de nouvelles méthodes ou à l'amélioration 
 (via la parallélisation par exemple) d'outils existants.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	- Avoir un regard critique sur les résultats des outils.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Le/la 
 candidat(e) recruté aura pour mission de mettre en place des méthodes de 
 simulation et de test permettant de comparer et de valider les approches 
 proposées.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	- Le poste, basé sur un profil d'ingénierie, comprend une forte 
 coloration "recherche".
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	La personne recrutée devra donc avoir un goût 
 pour ces aspects plus prospectifs.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	*Environnement de travail*
 - Le poste sera basé à Rennes au sein de l'équipe GenScale.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Les 
 interactions seront fréquentes avec les autres équipes du projet 
 Colib'read.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Le/la candidate aura accès à des moyens de calculs 
 conséquents et pourra s'appuyer sur les données et l'expertise de nos 
 collaborateurs biologistes.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Formation et compétences requises
 - Master informatique et algorithmique ou master bioinfo.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	- Forte motivation et connaissances dans le domaine de la biologie 
 moléculaire, en particulier des techniques NGS.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	- Forte motivation pour les aspects recherche (prises de risques, 
 publications, ...)
 - Algorithmique avancées (techniques d'indexation, algorithmique du 
@@ -176,7 +176,7 @@ texte, ...)
 * Travail collaboratif (GIT, SVN)
 * Connaissance des outils d’analyse statistique.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	* Maîtrise de l’anglais
 *
 **Limite de soumission des dossiers* : Vendredi 30 Mai 2014
@@ -189,7 +189,7 @@ La phrase 16 est en : FRA
 pierre.peterlongo@inria.fr - indiquer "inge_colibread_2014" dans le 
 titre du mail SVP.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	-- 
 Document sans titre
 

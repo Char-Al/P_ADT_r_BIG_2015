@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_26" est globalement en : FRA
-[('FRA', 0.34449257046800574), ('ENG', 1.4687345513819854)]
+Le mail "bioinfo_2014-07_26" est globalement en : french
+[('french', 0.5252488543204705), ('english', 1.028998754347496)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Développeur d'applications informatiques Big Data
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développeur d'applications informatiques Big Data
 Type de poste : CDD Ingénieur
 Durée du poste : 18 mois
@@ -26,12 +26,12 @@ Email du contact : bcsb72@curie.fr
 Laboratoire : Institut Curie - Plateforme de Bioinformatique U900
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/d%C3%A9veloppeur-dapplications-informatiques-big-data
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

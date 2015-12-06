@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_68" est globalement en : FRA
-[('ENG', 0.22885746341163762), ('FRA', 0.34818956859725314)]
+Le mail "bioinfo_2014-09_68" est globalement en : french
+[('french', 0.4350340810846875), ('english', 0.6162861016090027)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Modeling of the NMDA receptor allosteric regulation
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Modeling of the NMDA receptor allosteric regulation
 Type de poste : Post-doc / IR
 Durée du poste : 24 mois
@@ -26,7 +26,7 @@ Laboratoire : CMLA (Centre des Mathématiques et Leurs Applications, ENS
 Cachan)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/modeling-nmda-receptor-allosteric-regulation
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/modeling-nmda-receptor-allosteric-regulation
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Modeling of the NMDA receptor allosteric regulation

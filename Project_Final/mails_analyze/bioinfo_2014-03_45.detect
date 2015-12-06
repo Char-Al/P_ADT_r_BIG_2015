@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_45" est globalement en : FRA
-[('ENG', 0.5092456707420348), ('FRA', 0.8566334525702096)]
+Le mail "bioinfo_2014-03_45" est globalement en : french
+[('french', 0.6935710479720314), ('english', 0.8688398595042329)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDD Post-doc/IR] Bioanalyst/bioinformatician
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioanalyst/bioinformatician
 Type de poste : CDD Post-doc/IR
 Durée du poste : 12-24 months
@@ -25,12 +25,12 @@ Email du contact : hanna.debiec@upmc.fr
 Laboratoire : INSERM UMR_S1155
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/bioanalystbioinformatician
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -38,7 +38,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Bioanalyst/bioinformatician

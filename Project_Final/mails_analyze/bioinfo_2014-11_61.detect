@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-11_61" est globalement en : ENG
-[('ENG', 0.15239278807070966), ('FRA', 0.32112480360006296)]
+Le mail "bioinfo_2014-11_61" est globalement en : english
+[('english', 0.04964528089145036), ('french', 0.4072392107102108)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] international conference 'Perspectives in Environmental and Systems
  Biology' (Grenoble, France, April 13-15, 2015) - First announcement
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Grenoble, at the heart of the French Alpes, will host an outstanding 
 international scientific event in the field of systems biology: The 
 conference *Perspectives in Environmental and Systems Biology* will 
@@ -28,7 +28,7 @@ Environmental and Systems Biology on the campus of the University
 Grenoble Alpes *on April 13-15, 2015*.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	*Perspectives in Environmental and Systems Biology* will emphasize the 
 inter- and cross-disciplinary character of systems biology, and 
 integrate contributions of various classical disciplines ranging from 
@@ -39,58 +39,58 @@ biology in medicine, and synthetic biology. More than 25 distinguished
 scientists have already accepted to present their view of systems biology.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Retrieve the conference program on the dedicated website: www.beesy2015.com
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	***  Invited speakers
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	http://beesy2015.com/speakers_sessions.php
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	***  Registration
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Preferential rate before December 31st, 2014: Student: 140 € - Regular: 
 280 €
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	The price includes coffee breaks and lunches on April 13, 14 and 15.
 Participation at the Welcome Dinner requires separate registration.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Registration: http://beesy2015.com/registration.php
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	***  Abstract Submission
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Posters will be displayed. In addition, 5 abstracts will be selected for 
 short talks.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	All abstracts must be submitted electronically by February 28th, 2015
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	http://beesy2015.com/submission_of_abstract.php
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	***  Travel award
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	The scientific committee will bestow travel awards for students and 
 postdoctoral fellows for attending the conference as presenting author. 
 Each travel award may be used for waiving registration fee and travel 
@@ -100,28 +100,28 @@ his/her excellent achievements in a separate email to the scientific
 committee (kcucheval@knoe.fr)
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	***  Contact
 
 ==========================================
-Le paragraphe 18 est en : FRA
+Le paragraphe 18 est en : french
 	SOCIETE K’Noë - BEESY 2015
 15 rue Carnot - 94270 Le Kremlin-Bicetre - FRANCE
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	Ph: +33 (0)1 56 20 28 28
 Fax: +33 (0)1 56 20 28 29
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	Coordination: Kelly Cucheval kcucheval@knoe.fr
 Information & Subscription: contact@beesy2015.com
 Exhibition & Sponsoring: sponsorship@beesy2015.com
 Abstracts: abstracts@beesy2015.com
 
 ==========================================
-Le paragraphe 21 est en : n
+Le paragraphe 21 est en : non detect
 	
 
 ==========================================
@@ -129,7 +129,7 @@ Le paragraphe 21 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 
 Grenoble, at the heart of the French Alpes, will host an outstanding 
@@ -139,28 +139,28 @@ bring together more than 150 scientists from all over the world,
 including biologists, physicians, health professionals, environmental 
 scientists, and specialists in mathematical and computational modeling.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The conference is organized by the Grenoble Federal Research Structure 
 Environmental and Systems Biology on the campus of the University 
 Grenoble Alpes *on April 13-15, 2015*.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	*Perspectives in Environmental and Systems Biology* will emphasize the 
 inter- and cross-disciplinary character of systems biology, and 
 integrate contributions of various classical disciplines ranging from 
 molecular and cellular biology to medicine and ecology, informatics and 
 applied mathematics.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	It will discuss topics such as multi-scale 
 approaches, the analysis of networks, computational modelling, systems 
 biology in medicine, and synthetic biology.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	More than 25 distinguished 
 scientists have already accepted to present their view of systems biology.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Retrieve the conference program on the dedicated website: www.beesy2015.com
 
 
@@ -176,10 +176,10 @@ Preferential rate before December 31st, 2014: Student: 140 € - Regular:
 
 The price includes coffee breaks and lunches on April 13, 14 and 15.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Participation at the Welcome Dinner requires separate registration.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Registration: http://beesy2015.com/registration.php
 
 
@@ -187,11 +187,11 @@ La phrase 8 est en : ENG
 
 Posters will be displayed.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	In addition, 5 abstracts will be selected for 
 short talks.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	All abstracts must be submitted electronically by February 28th, 2015
 
 http://beesy2015.com/submission_of_abstract.php
@@ -202,15 +202,15 @@ http://beesy2015.com/submission_of_abstract.php
 The scientific committee will bestow travel awards for students and 
 postdoctoral fellows for attending the conference as presenting author.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Each travel award may be used for waiving registration fee and travel 
 costs and will not exceed 500 €.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Application can be made when submitting 
 abstract.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Advisors are expected to recommend their trainee by detailing 
 his/her excellent achievements in a separate email to the scientific 
 committee (kcucheval@knoe.fr)

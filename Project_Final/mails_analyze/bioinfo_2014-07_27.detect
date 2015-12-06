@@ -1,36 +1,36 @@
-Le mail "bioinfo_2014-07_27" est globalement en : ENG
-[('ENG', 0.25374610287292954), ('FRA', 0.5823805699588914)]
+Le mail "bioinfo_2014-07_27" est globalement en : english
+[('english', 0.050324441277456694), ('french', 0.41189101221269236)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Offre de PostDoc - Biologie Structurale - George Mason University
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Transmise par Amarda Shehu.
 
 ==========================================
-Le paragraphe 2 est en : n
+Le paragraphe 2 est en : non detect
 	---
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Call for Postdoctoral Fellow in Evolutionary Computation and 
 Computational Structural Biology
 George Mason University
 Department of Computer Science
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	PIs: Amarda Shehu and Kenneth A De Jong
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	We are looking for a highly motivated postdoctoral fellow to lead a 
 research project funded by the National Science Foundation. The project 
 aims to extend the capability of evolutionary algorithms for structural 
@@ -39,16 +39,16 @@ novel algorithm design, but someone with prior experience in protein
 structure modeling is ideal for the position. The position is for two years.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Applications are being accepted now and will continue until the position 
 is filled.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	The candidate should have:
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	- Ph.D. in Computer Science
 - Prior experience and expertise designing evolutionary algorithms
 - Excellent programming skills in C++
@@ -59,25 +59,25 @@ Le paragraphe 8 est en : ENG
 asAMBER
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Starting date: flexible
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	How to apply: Submit CV andnames and emails of 2-3 references via email 
 to either of the two contacts below
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	To apply or for more information, please contact:
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Prof. Amarda Shehu, Computational Biology, amarda@gmu.edu
 Prof. Kenneth A De Jong, Evolutionary Computation, kdejong@gmu.edu
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	See also: http://www.cs.gmu.edu/~ashehu/?q=StudentOpenings
 
 
@@ -86,10 +86,10 @@ Le paragraphe 13 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Transmise par Amarda Shehu.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	---
 
 Call for Postdoctoral Fellow in Evolutionary Computation and 
@@ -102,24 +102,24 @@ PIs: Amarda Shehu and Kenneth A De Jong
 We are looking for a highly motivated postdoctoral fellow to lead a 
 research project funded by the National Science Foundation.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The project 
 aims to extend the capability of evolutionary algorithms for structural 
 characterization of dynamic multi-basin proteins.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The emphasis is on 
 novel algorithm design, but someone with prior experience in protein 
 structure modeling is ideal for the position.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The position is for two years.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Applications are being accepted now and will continue until the position 
 is filled.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The candidate should have:
 
 - Ph.D. in Computer Science

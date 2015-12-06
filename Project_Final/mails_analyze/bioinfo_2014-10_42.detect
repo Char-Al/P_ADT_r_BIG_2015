@@ -1,43 +1,43 @@
-Le mail "bioinfo_2014-10_42" est globalement en : FRA
-[('ENG', 0.5190241686070725), ('FRA', 1.2375216633138408)]
+Le mail "bioinfo_2014-10_42" est globalement en : french
+[('french', 0.03264093330456922), ('english', 2.634678517390037)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Offre de stage Master 1
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	voici une offre de stage pour un master 1
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Offre de stage
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	LIEU DE TRAVAIL:
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Institut de Recherche pour le Développement
 911 Avenue Agropolis
 34934 Montpellier
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	CONTEXTE SCIENTIFIQUE:
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 		Les projets de recherche de l’UMR DIADE (DIversité Adaptation et 
 DEveloppement des plantes http://www.diade-research.fr/ ) visent à 
 comprendre la nature et le rôle des mécanismes de diversification 
@@ -58,23 +58,23 @@ ancêtre sauvage O.barthii nécessite d'avoir au moins une référence de
 chacune de ces deux espèces http://oryza.mpl.ird.fr/?q=home.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	DUREE DU STAGE:
 entre 2 et 4 mois
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	PROFIL SOUHAITE:
 Connaissances en Perl, Serveur Linux, utilisation des lignes de commandes
 Bon sens relationnel
 Rigueur dans le travail et la gestion des données
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	SUJET DU STAGE:
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Création de nouvelles séquences de références sur de nouvelles accessions (3 
 O.barthii, espèce sauvage ;  1 O.glaberrima, espèce cultivée). Utilisation 
 de logiciel d'assemblage sur un cluster de calcul. Comparaison des 
@@ -82,11 +82,11 @@ assemblages entre eux et avec d'autres assemblages références. Utilisation
 d'outils de comparaison. Statistiques basiques.
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : french
 	MISSIONS DU STAGIAIRE:
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Réaliser les assemblages des individus sauvages (3) et cultivé (1).
 Comparaison des assemblages grâce à des outils logiciels :
 - Comparaison des trois assemblages sauvages entre eux.
@@ -96,35 +96,35 @@ existantes au laboratoire.
 Statistiques basiques sur la qualité des assemblages obtenus
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	REMUNERATION :
 Le montant de la gratification due au stagiaire est fixé à 436.05 euros par 
 mois (35h hebdomaires)
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	CONTACT:
 Pour plus de renseignements ou pour soumettre votre candidature (CV + lettre 
 de motivation)
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	Cécile Monat – Doctorante
 cecile.monat@ird.fr 		
 04 67 41 62 40
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	François Sabot – Chercheur
 francois.sabot@ird.fr
 04 67 41 64 18
 
 ==========================================
-Le paragraphe 18 est en : FRA
+Le paragraphe 18 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	Cécile Monat
  
 
@@ -134,7 +134,7 @@ Le paragraphe 19 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 voici une offre de stage pour un master 1
@@ -157,28 +157,28 @@ diversité et structures de leurs populations au cours des processus de
 spéciation, d’adaptation aux variations naturelles du milieu ou aux 
 modifications d’origine anthropique.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	L'équipe GDR (Génome et Développement du Riz) étudie les mécanismes de la 
 divergence et de la variabilité des génomes de quelques espèces du genre 
 Oryza, et de leur impact sur la plasticité de caractères biologiques lié à 
 la fécondation, au développement et à la résistance aux stress.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Nous menons 
 ces études selon plusieurs niveaux d’intégration : à l’intérieur de 
 l’espèce, selon l’appartenance à une sous-espèce, selon le type biologique, 
 analyses comparatives entre espèces domestiquées ou sauvages.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	C'est dans ce 
 dernier cadre que s'incrit la thématique de ce stage.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	La comparaison des espèces de riz Africain cultivé O.glaberrima et de son 
 ancêtre sauvage O.barthii nécessite d'avoir au moins une référence de 
 chacune de ces deux espèces http://oryza.mpl.ird.fr/?q=home.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	DUREE DU STAGE:
 entre 2 et 4 mois
 
@@ -192,38 +192,38 @@ SUJET DU STAGE:
 Création de nouvelles séquences de références sur de nouvelles accessions (3 
 O.barthii, espèce sauvage ;  1 O.glaberrima, espèce cultivée).
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Utilisation 
 de logiciel d'assemblage sur un cluster de calcul.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Comparaison des 
 assemblages entre eux et avec d'autres assemblages références.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Utilisation 
 d'outils de comparaison.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Statistiques basiques.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	MISSIONS DU STAGIAIRE:
 
 Réaliser les assemblages des individus sauvages (3) et cultivé (1).
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Comparaison des assemblages grâce à des outils logiciels :
 - Comparaison des trois assemblages sauvages entre eux.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	- Comparaison de l'assemblage cultivé avec deux autres références déjà 
 existantes au laboratoire.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	- Comparaison des assemblages sauvages et cultivés.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Statistiques basiques sur la qualité des assemblages obtenus
 
 

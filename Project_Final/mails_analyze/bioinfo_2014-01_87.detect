@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-01_87" est globalement en : FRA
-[('FRA', 0.6220278144630855), ('ENG', 0.9311141889620204)]
+Le mail "bioinfo_2014-01_87" est globalement en : french
+[('french', 0.04712655168135159), ('english', 2.4379076633565773)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Offre de stage M1/M2 - Inria Rennes - assemblage metagénomique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Titre:
 Assemblage de multi-metagenomes.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Résumé:
 Les séquenceurs nouvelles génération (NGS) permettent de lire l'ADN des 
 cellules d'organismes vivants. Ces dernières années, le tarif du 
@@ -31,7 +31,7 @@ Graph") avant de rechercher dans ce graphe des chemins approximant au
 mieux la séquence originale.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	En outre, cette dernière décennie a vu l'émergence de la métagénomique 
 où le but n'est plus de séquencer un individu mais un milieu (biotope) 
 complet. Dans ce cadre, aux difficultés usuelles de l'assemblage 
@@ -40,7 +40,7 @@ similarités entres génomes séquencés, les inconnues concernant le nombre
 et la taille des génomes en présence, etc.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	L'objet de ce stage est d'explorer une nouvelle approche pour 
 l'assemblage de métagénomes. Nous nous plaçons dans le cadre où 
 plusieurs metagénomes (multi-métagenomes) sont disponibles et liés par 
@@ -49,7 +49,7 @@ l'ensemble des informations disponibles pour proposer de nouvelles
 méthodes d'assemblage.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Ce stage réunit des aspects méthodologiques avec des aspects analyse de 
 données. Le/la candidat(e) retenu(e) aura donc un profil en adéquation 
 avec ces besoins.
@@ -58,17 +58,17 @@ http://team.inria.fr/genscale, et sera effectué en collaboration avec le
 Genoscope - Institut de Génomique du CEA.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Rémunération:
 environ 400 € (indemnité standard).
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Durée:
 3à 6 mois
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Contact:
 Informations complémentaires et candidatures: 
 pierre.peterlongo@inria.fr, 02 99 84 74 59
@@ -76,19 +76,19 @@ pierre.peterlongo@inria.fr, 02 99 84 74 59
 Document sans titre
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	*Pierre Peterlongo - INRIA* - Research Associate / Chargé de recherche
 http://people.rennes.inria.fr/Pierre.Peterlongo/
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Campus de Beaulieu- Rennes
 35042 Rennes Cedex, France
 Tel : +33 (0)2 99 84 74 59
 Fax : +33 (0)2 99 84 71 71
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -96,79 +96,79 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Titre:
 Assemblage de multi-metagenomes.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Résumé:
 Les séquenceurs nouvelles génération (NGS) permettent de lire l'ADN des 
 cellules d'organismes vivants.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Ces dernières années, le tarif du 
 séquençage couplé avec l'augmentation vertigineuse de la capacité de 
 production de ces machines ont profondément modifié le paysage de la 
 biologie.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Cependant, les séquenceurs ne permettent que la lecture de 
 courtes séquences (appelées des "reads") de centaines de caractères.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Le 
 chevauchement de ces séquences, tel un puzzle, permet la reconstruction 
 des génomes initiaux.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Cette étape, appelée l'assemblage, consiste à 
 organiser les données dans un graphe ("string graph" ou "de Bruijn 
 Graph") avant de rechercher dans ce graphe des chemins approximant au 
 mieux la séquence originale.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	En outre, cette dernière décennie a vu l'émergence de la métagénomique 
 où le but n'est plus de séquencer un individu mais un milieu (biotope) 
 complet.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Dans ce cadre, aux difficultés usuelles de l'assemblage 
 s'ajoutent de nouveaux obstacles dus à l’hétérogénéité des données, les 
 similarités entres génomes séquencés, les inconnues concernant le nombre 
 et la taille des génomes en présence, etc.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	L'objet de ce stage est d'explorer une nouvelle approche pour 
 l'assemblage de métagénomes.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Nous nous plaçons dans le cadre où 
 plusieurs metagénomes (multi-métagenomes) sont disponibles et liés par 
 des informations connexes.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Dans ce cadre nous chercherons à exploiter 
 l'ensemble des informations disponibles pour proposer de nouvelles 
 méthodes d'assemblage.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Ce stage réunit des aspects méthodologiques avec des aspects analyse de 
 données.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Le/la candidat(e) retenu(e) aura donc un profil en adéquation 
 avec ces besoins.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Le stage aura lieu à l'Inria de Rennes, dans l'équipe GenScale 
 http://team.inria.fr/genscale, et sera effectué en collaboration avec le 
 Genoscope - Institut de Génomique du CEA.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Rémunération:
 environ 400 € (indemnité standard).
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Durée:
 3à 6 mois
 

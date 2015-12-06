@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_95" est globalement en : FRA
-[('FRA', 0.5348246137490267), ('ENG', 2.2944283660835403)]
+Le mail "bioinfo_2014-09_95" est globalement en : french
+[('french', 0.4776044180271109), ('english', 1.2804853478625682)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur bioinformat  icien NGS développement / diagnostic
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur bioinformaticien NGS développement /  
 diagnostic
 Type de poste : CDD Ingénieur
@@ -26,7 +26,7 @@ Email du contact : ivan.bieche@curie.fr
 Laboratoire : Institut Curie, Service de Génétique
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformaticien-ngs-d%C3%A9veloppement-diagnostic
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformaticien-ngs-d%C3%A9veloppemen
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur bioinformaticien NGS développement /  

@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-06_29" est globalement en : FRA
-[('FRA', 0.5479811933411394), ('ENG', 6.610457952707697)]
+Le mail "bioinfo_2014-06_29" est globalement en : french
+[('french', 0.3258023544273061), ('english', 1.0029985965407446)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] Réseaux microbiens de dégradation des hydrocarbures aux interfaces oxie/anoxie dans les écosystèmes marins côtiers
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Réseaux microbiens de dégradation des hydrocarbures
 aux interfaces oxie/anoxie dans les écosystèmes marins côtiers
 Type de poste : Thèse
@@ -27,12 +27,12 @@ Email du contact : cristiana.cravo-laureau@univ-pau.fr
 Laboratoire : Equipe Environnement et Microbiologie UMR IPREM5254
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/r%C3%A9seaux-microbiens-de-d%C3%A9gradation-des-hydrocarbures-aux-interfaces-oxieanoxie-dans-les-%C3%A9cosy
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

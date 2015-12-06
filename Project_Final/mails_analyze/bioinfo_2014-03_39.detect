@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_39" est globalement en : FRA
-[('FRA', 0.43428109434486356), ('ENG', 22.701839252016196)]
+Le mail "bioinfo_2014-03_39" est globalement en : french
+[('french', 0.32529516128433256), ('english', 5.196489769514858)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ]  Ingénieur / Développeur analyse de données NGS àvisée diagnostique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur/Développeur analyse de données NGS à visée 
 diagnostique
 Type de poste : CDD Ingénieur
@@ -27,12 +27,12 @@ Laboratoire : CHU Rennes Pontchaillou, Service de Génétique Moléculaire
 et Génomique (UF 3143 de Génomique Médicale)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/ingénieurdéveloppeur-analyse-de-données-ngs-à-visée-diagnostique
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur/Développeur analyse de données NGS à visée 

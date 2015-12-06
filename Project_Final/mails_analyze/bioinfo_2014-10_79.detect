@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_79" est globalement en : FRA
-[('FRA', 0.15453513547634273), ('ENG', 1.695374498972136)]
+Le mail "bioinfo_2014-10_79" est globalement en : french
+[('french', 0.32593529078471845), ('english', 1.1012670573953336)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Développement d'interface pour   la visualisation de donnéesgénomiques et st  atistiques
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développement d'interface pour la visualisation de  
 données génomiques et statistiques
 Type de poste : Stage
@@ -27,7 +27,7 @@ Laboratoire : Unité de Recherche en Génomique Végétale (UMR1165
 INRA-UEVE, ERL8196 CNRS)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-dinterface-pour-la-visualisation-de-donn%C3%A9es-g%C3%A9nomiques-et-statistiques
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/d%C3%A9veloppement-dinterface-pour-la-visualisation-d
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Développement d'interface pour la visualisation de  

@@ -1,33 +1,33 @@
-Le mail "bioinfo_2014-09_37" est globalement en : ENG
-[('ENG', 0.34617711233951975), ('FRA', 0.8078277721719925)]
+Le mail "bioinfo_2014-09_37" est globalement en : english
+[('english', 0.051119087266565534), ('french', 0.23208459656056418)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] 5 years Bionfo Research assistant
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Bioinformatic Research Assistant-Curie Paris
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	"Analysis of long non-coding RNA and epigenetics landscape from high throughput sequencing"
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Keywords : ncRNA, epigenetics, pervasive transcription, RNA-seq, NET-seq
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Starting date : November 2014 to January 2015
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	A 3-years (+2) Bioinformatic Research assistant (IE) position is available to study the long non-coding RNA in human (cancer cells and tissue) and in yeast in the regulation of the epigenetics landscape. Using human cancer tissues (or dedicated cell lines) and yeast models, the project aims at:
 1) Performing primary and secondary analysis of our RNA/CHIP/NET-seq experiments
 2) Starting comparative genomics approaches to determine putative link between lncRNA expression and epigenetic changes.
@@ -36,7 +36,7 @@ We are looking for highly motivated, science-driven candidates with an excellent
 The successful candidate will work in the group of Antonin Morillon (ncRNA, epigenetics and genome fluidity) in the Department of Dynamic of Genome Instability at the Institut Curie in Paris, a premier scientific institution, which offers state-of the-art core facilities and platforms in a highly dynamic and international environment.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	To apply, please send :
 -curriculum vitae
 -list of publications/communications
@@ -44,7 +44,7 @@ Le paragraphe 6 est en : ENG
 -names/contact information of two references.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Contact:
 Antonin Morillon
 Institut Curie-Pavillon Trouillet-UMR3244
@@ -60,7 +60,7 @@ Team : http://umr3244.curie.fr/en/research-groups/epigenetic-ncrna-chromatin-yea
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Bioinformatic Research Assistant-Curie Paris
 
 "Analysis of long non-coding RNA and epigenetics landscape from high throughput sequencing"
@@ -71,34 +71,34 @@ Starting date : November 2014 to January 2015
 
 A 3-years (+2) Bioinformatic Research assistant (IE) position is available to study the long non-coding RNA in human (cancer cells and tissue) and in yeast in the regulation of the epigenetics landscape.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Using human cancer tissues (or dedicated cell lines) and yeast models, the project aims at:
 1) Performing primary and secondary analysis of our RNA/CHIP/NET-seq experiments
 2) Starting comparative genomics approaches to determine putative link between lncRNA expression and epigenetic changes.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Successful applicants must have experimental expertise in high-throughput sequencing computational analyses with capacity to develop scripts in R, Perl or Python.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Conceptual and technical background in eukaryotic chromatin and transcriptome would be appreciated.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	We are looking for highly motivated, science-driven candidates with an excellent master 2.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The salary will be provided through an ERC grant for a 3 year minimum with a potential 2 years extension.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The successful candidate will work in the group of Antonin Morillon (ncRNA, epigenetics and genome fluidity) in the Department of Dynamic of Genome Instability at the Institut Curie in Paris, a premier scientific institution, which offers state-of the-art core facilities and platforms in a highly dynamic and international environment.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	To apply, please send :
 -curriculum vitae
 -list of publications/communications
 -cover letter outlining your motivation
 -names/contact information of two references.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Contact:
 Antonin Morillon
 Institut Curie-Pavillon Trouillet-UMR3244

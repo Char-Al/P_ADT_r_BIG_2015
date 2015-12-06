@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_63" est globalement en : FRA
-[('FRA', 0.7040147959040629), ('ENG', 1.6630849445944123)]
+Le mail "bioinfo_2014-02_63" est globalement en : french
+[('french', 0.5162340327450237), ('english', 0.758614423249596)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur biostatisti  cien / bioinformaticien
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur biostatisticien / bioinformaticien
 Type de poste : CDD Ingénieur
 Durée du poste : 6 mois avec perspectives de CDI
@@ -25,7 +25,7 @@ Email du contact : bruno.corman@profilomic.com
 Laboratoire : PROFILOMIC
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-biostatisticien-bioinformaticien
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-biostatisticien-bioinformaticien
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur biostatisticien / bioinformaticien

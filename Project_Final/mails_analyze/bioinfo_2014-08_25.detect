@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-08_25" est globalement en : FRA
-[('FRA', 0.34024019001436206), ('ENG', 4.546121126754428)]
+Le mail "bioinfo_2014-08_25" est globalement en : french
+[('french', 0.5723731281321276), ('english', 1.1315185617761432)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur d'Etude en   Protéomique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur d'Etude en Protéomique
 Type de poste : CDD Ingénieur
 Durée du poste : 36 mois
@@ -25,7 +25,7 @@ Email du contact : nicolas.bourmeyster@univ-poitiers.fr
 Laboratoire : ProteomeUP
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-detude-en-prot%C3%A9omique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-detude-en-prot%C3%A9omique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur d'Etude en Protéomique

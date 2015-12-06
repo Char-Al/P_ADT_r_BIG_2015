@@ -1,36 +1,36 @@
-Le mail "bioinfo_2014-11_58" est globalement en : FRA
-[('ENG', 1.2729354720673258), ('FRA', 1.3874022704773579)]
+Le mail "bioinfo_2014-11_58" est globalement en : french
+[('french', 0.14508742300811367), ('english', 0.6304247043403728)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] formation bioinformatique NGS
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Au printemps 2015, la plateforme ATGC organise une formation en 
 bioinformatique pour l'analyse de données de séquençage haut débit à 
 Montpellier (campus du CNRS route de Mende) :
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	http://cnrsformation.cnrs.fr/stage.php?stage=15205
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Dates:  du mardi 24/03/2015 au vendredi 27/03/2015.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Objectifs :
 - Savoir choisir les outils d'analyse
 - Etre autonome pour effectuer un pipeline d'analyse
@@ -40,25 +40,25 @@ Le paragraphe 5 est en : FRA
 - Savoir analyser avec ou sans génome de référence
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Prérequis
 - Notions de base en informatique : fichiers, répertoire...
 - Notions du système linux et des lignes de commandes
 - Niveau master
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Les inscriptions se font sur le site web de la formation ou auprès de 
 CNRS Formation.
 Pour toute information complémentaire contactez : atgc-hts@lirmm.fr
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	bien cordialement
 Eric Rivals
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
 CNRS Research Director & Head of GDR Bioinformatique Moléculaire
@@ -69,7 +69,7 @@ Fax. (33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -77,7 +77,7 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Bonjour,
 
@@ -89,7 +89,7 @@ http://cnrsformation.cnrs.fr/stage.php?stage=15205
 
 Dates:  du mardi 24/03/2015 au vendredi 27/03/2015.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Objectifs :
 - Savoir choisir les outils d'analyse
 - Etre autonome pour effectuer un pipeline d'analyse
@@ -106,7 +106,7 @@ Prérequis
 Les inscriptions se font sur le site web de la formation ou auprès de 
 CNRS Formation.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Pour toute information complémentaire contactez : atgc-hts@lirmm.fr
 
 bien cordialement
@@ -119,11 +119,11 @@ LIRMM - UMR 5506 & Univ Montpellier 2 (CC 05016)
 860 rue de St Priest - 34095 Montpellier cedex 5 FRANCE
 Tel.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	(33 or 0 from France) 4 67 41 86 64
 Fax.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	(33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 

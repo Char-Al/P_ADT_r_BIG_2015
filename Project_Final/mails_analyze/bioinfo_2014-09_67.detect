@@ -1,24 +1,24 @@
-Le mail "bioinfo_2014-09_67" est globalement en : FRA
-[('FRA', 0.35589359800962883), ('ENG', 2.205948608504027)]
+Le mail "bioinfo_2014-09_67" est globalement en : french
+[('french', 0.07098395621318891), ('english', 1.3522910581298069)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Développement en imagerie moléculaire - ImaBiotech
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	FONCTION : Ingénieur d’études
 SECTEUR : Biotechnologie - Informatique
 SOCIETE : ImaBiotech
 DESCRIPTIF : Ingénieur d’études en (bio) informatique
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	ImaBiotech est une société de service dont la mission est d’accompagner 
 les laboratoires de recherches dans les processus de développement de 
 molécules.
@@ -32,7 +32,7 @@ interne, le service informatique d'ImaBiotech développe des applicatifs
 internes réalisés autour du BigData Hypertable et de l'imagerie moléculaire.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	MISSION :
 Le cadre du stage s'articulera sur des thématiques de recherche et 
 développements informatique dont la finalité est de proposer des 
@@ -44,7 +44,7 @@ spectrométrie de masse
 * Maintenance applicative du métier basé sur une structure en WCF/NoSQL
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	ENVIRONNEMENT DE TRAVAIL: Visual Studio Ultimate, TFS, WPF/ WCF/ C#, C++, R
 COMPETENCES RECHERCHEES : Algorithme, Programmation C#/Java/C++/SGBD, 
 Scientifique, Statistique
@@ -58,7 +58,7 @@ CONTACTS ET INFORMATIONS : recrutement@imabiotech.com – www.imabiotech.com
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	FONCTION : Ingénieur d’études
 SECTEUR : Biotechnologie - Informatique
 SOCIETE : ImaBiotech
@@ -68,26 +68,26 @@ ImaBiotech est une société de service dont la mission est d’accompagner
 les laboratoires de recherches dans les processus de développement de 
 molécules.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Expertise, qualité et flexibilité sont associées autour d’une plateforme 
 technologique innovante pour accélérer la découverte et le développement 
 de molécules
 dans les domaines de la médecine, de la pharmacologie, de l’agrochimie 
 et de l’environnement.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Dans le cadre de ses programmes de recherches et 
 développement
 interne, le service informatique d'ImaBiotech développe des applicatifs 
 internes réalisés autour du BigData Hypertable et de l'imagerie moléculaire.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	MISSION :
 Le cadre du stage s'articulera sur des thématiques de recherche et 
 développements informatique dont la finalité est de proposer des 
 nouveaux modules métiers intégrables dans un logiciel développé en équipe.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Les sujets envisagés sont:
 * Développement de nouveaux modules métiers basés sur l’imagerie par 
 spectrométrie de masse
@@ -99,7 +99,7 @@ COMPETENCES RECHERCHEES : Algorithme, Programmation C#/Java/C++/SGBD,
 Scientifique, Statistique
 DUREE : 6 mois – Début envisagé : Fév/Mars.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	2015
 REGION : Lille, France (Loos)
 CONTACTS ET INFORMATIONS : recrutement@imabiotech.com – www.imabiotech.com

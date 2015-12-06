@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_73" est globalement en : FRA
-[('FRA', 0.21913005335605226), ('ENG', 0.9149168086022605)]
+Le mail "bioinfo_2014-07_73" est globalement en : french
+[('french', 0.29633363233146315), ('english', 0.5212982676284525)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Exploration des génomes de champignons symbiotiques forestiers et analyses fonctionnelles de donnéesmétatranscriptomi ques
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Exploration des génomes de champignons symbiotiques
 forestiers et analyses fonctionnelles de données métatranscriptomiques
 Type de poste : Post-doc / IR
@@ -27,12 +27,12 @@ Email du contact : emmanuelle.morin@nancy.inra.fr
 Laboratoire : INRA UMR 1136, Interactions Arbres/Microorganismes (IaM)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/exploration-des-g%C3%A9nomes-de-champignons-symbiotiques-forestiers-et-analyses-fonctionnelles-de
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

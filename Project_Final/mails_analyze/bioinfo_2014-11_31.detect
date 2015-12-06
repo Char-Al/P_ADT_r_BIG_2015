@@ -1,53 +1,53 @@
-Le mail "bioinfo_2014-11_31" est globalement en : FRA
-[('ENG', 0.45444441733234325), ('FRA', 0.9337269830399628)]
+Le mail "bioinfo_2014-11_31" est globalement en : french
+[('french', 0.23772359981141067), ('english', 2.9598787163862865)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Galaxy Day 2014 - Ouverture des inscriptions
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Le Groupe de Travail Galaxy-IFB (http://www.ifb-galaxy.org/index.html) organise une journée d'animation autour de la plateforme Galaxy le mercredi 3 décembre à Paris (Institut Curie).
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Cette journée permettra à la communauté d'exposer des retours d'expériences autour de la plateforme Galaxy.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Les inscriptions sont ouvertes et gratuites (limitées à 90 personnes).
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Le programme, le formulaire d’inscription  ainsi que toutes les informations pratiques sont disponibles via l'url:
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	http://www.ifb-galaxy.org/GALAXYDAYS2014.html
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	La date limite des inscriptions est le 21 novembre.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Le groupe de travail IFB-Galaxy,
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	URGI, GenoToul, MIGALE, PFEM,  SouthGreen, ABiMS, Institut Curie
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	--
 Alban Lermine
 Unité 900: INSERM - Mines ParisTech - Institut Curie
@@ -60,25 +60,25 @@ Tel: +33 (0) 1 56 24 69 84
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Le Groupe de Travail Galaxy-IFB (http://www.ifb-galaxy.org/index.html) organise une journée d'animation autour de la plateforme Galaxy le mercredi 3 décembre à Paris (Institut Curie).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Cette journée permettra à la communauté d'exposer des retours d'expériences autour de la plateforme Galaxy.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Les inscriptions sont ouvertes et gratuites (limitées à 90 personnes).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Le programme, le formulaire d’inscription  ainsi que toutes les informations pratiques sont disponibles via l'url:
 
 http://www.ifb-galaxy.org/GALAXYDAYS2014.html
 
 La date limite des inscriptions est le 21 novembre.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Le groupe de travail IFB-Galaxy,
 
 URGI, GenoToul, MIGALE, PFEM,  SouthGreen, ABiMS, Institut Curie

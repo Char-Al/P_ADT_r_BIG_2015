@@ -1,45 +1,45 @@
-Le mail "bioinfo_2014-02_72" est globalement en : FRA
-[('FRA', 0.33188622312765625), ('ENG', 1.7957855817096433)]
+Le mail "bioinfo_2014-02_72" est globalement en : french
+[('french', 0.034102259900550484), ('english', 1.779838875347122)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] recrutement ingénieur (bio)informatique génomique comparative CDD UPSUD
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Ingénieur en Bioinformatique : génomique comparative
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Contrat à durée déterminée (CDD Université Paris Sud)    Durée  12 mois renouvelable
 Formation informatique ou bioinformatique, Niveau : Bac+3 minimum
 Salaire 1700 à 2500  brut par mois selon profil et expérience.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Affectation : UMR 8621, Institut de Génétique et Microbiologie (IGM), Université Paris Sud (91 Orsay) 
 Emploi en laboratoire de recherche, informatique appliquée à la biologie, génomique comparative et nouvelles technologies de séquençage. Bases de données de variations génétiques chez les microorganismes.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Mission 
 Dans le cadre d'un projet d'évaluation du potentiel de la phagothérapie (traitement d'infections bactériennes par des virus de bactéries), analyser le génome de souches bactériennes pour identifier les mutations génétiques responsables de caractéristiques nouvelles (changements phénotypiques, résistances aux virus).
 Mettre en place des outils pouvant être utilisés par les biologistes non informaticiens de l'équipe.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Activités principales 
 - Développer les procédures d'analyse de données de séquençage pour savoir identifier les mutations pertinentes
 - Savoir interagir avec les microbiologistes de l'équipe pour prendre en compte leurs attentes
 - Adapter les applications informatiques en collaboration et interaction avec les bioinformaticiens et informaticiens de l'institut pour quelles répondent au besoin du projet
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Compétences et Savoir-faire opérationnels
 * bonne maîtrise d'au moins un langage de programmation objet
 * connaissance de Linux
@@ -47,18 +47,18 @@ Le paragraphe 6 est en : FRA
 * si non bioinformaticien : intérêt pour la biologie et les nouvelles technologies associées
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Environnement technique :
 Python, PHP, Apache, MySQL, Django
 Linux et Windows
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Formation:
 Licence, Master, diplôme d'ingénieur ou thèse, en bioinformatique ou informatique
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Qualités humaines
 Goût pour la communication et le travail en équipe, intérêt pour la biologie
 Rigueur
@@ -67,21 +67,21 @@ Envie de transmettre son savoir, dassurer la pérennité, la maintenance de so
 Goût pour lécriture de spécifications, de documentations
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Environnement professionnel
 Voir le site http://www.igmors.u-psud.fr/
 L'équipe d'accueil du poste mène des recherches destinées à lutter contre certaines infections bactériennes par l'utilisation de virus de bactéries comme agents anti-infectieux. Le laboratoire s'occupe en particulier d'évaluer les risques et les limites éventuelles de cette approche, jugée très prometteuse. Plus généralement, les travaux de recherche de l'équipe trouvent des applications directes pour améliorer le contrôle des agents infectieux. L'équipe entretient de nombreuses collaborations avec des services de microbiologie clinique en France, mais aussi en Europe, Afrique et Asie. L'équipe a développé trois sites internet qui constituent des ressources de référence du domaine : un site sur les répétitions en tandem de microorganismes, un site sur les structures dites CRISPR, et un site de données de génotypage de différents pathogènes 
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	(cf portail http:// minisatellites-rec.igmors.u-psud.fr/ et http://mlva.u-psud.fr).
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Contact : Gilles Vergnaud  gilles.vergnaud@u-psud.fr, tel. : 01 69 15 62 08
 
 ==========================================
-Le paragraphe 13 est en : n
+Le paragraphe 13 est en : non detect
 	
 
 ==========================================
@@ -89,28 +89,28 @@ Le paragraphe 13 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Ingénieur en Bioinformatique : génomique comparative
 
 Contrat à durée déterminée (CDD Université Paris Sud)    Durée  12 mois renouvelable
 Formation informatique ou bioinformatique, Niveau : Bac+3 minimum
 Salaire 1700 à 2500  brut par mois selon profil et expérience.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Affectation : UMR 8621, Institut de Génétique et Microbiologie (IGM), Université Paris Sud (91 Orsay) 
 Emploi en laboratoire de recherche, informatique appliquée à la biologie, génomique comparative et nouvelles technologies de séquençage.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Bases de données de variations génétiques chez les microorganismes.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Mission 
 Dans le cadre d'un projet d'évaluation du potentiel de la phagothérapie (traitement d'infections bactériennes par des virus de bactéries), analyser le génome de souches bactériennes pour identifier les mutations génétiques responsables de caractéristiques nouvelles (changements phénotypiques, résistances aux virus).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Mettre en place des outils pouvant être utilisés par les biologistes non informaticiens de l'équipe.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Activités principales 
 - Développer les procédures d'analyse de données de séquençage pour savoir identifier les mutations pertinentes
 - Savoir interagir avec les microbiologistes de l'équipe pour prendre en compte leurs attentes
@@ -140,24 +140,24 @@ Environnement professionnel
 Voir le site http://www.igmors.u-psud.fr/
 L'équipe d'accueil du poste mène des recherches destinées à lutter contre certaines infections bactériennes par l'utilisation de virus de bactéries comme agents anti-infectieux.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Le laboratoire s'occupe en particulier d'évaluer les risques et les limites éventuelles de cette approche, jugée très prometteuse.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Plus généralement, les travaux de recherche de l'équipe trouvent des applications directes pour améliorer le contrôle des agents infectieux.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	L'équipe entretient de nombreuses collaborations avec des services de microbiologie clinique en France, mais aussi en Europe, Afrique et Asie.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	L'équipe a développé trois sites internet qui constituent des ressources de référence du domaine : un site sur les répétitions en tandem de microorganismes, un site sur les structures dites CRISPR, et un site de données de génotypage de différents pathogènes 
 
 (cf portail http:// minisatellites-rec.igmors.u-psud.fr/ et http://mlva.u-psud.fr).
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Contact : Gilles Vergnaud  gilles.vergnaud@u-psud.fr, tel.
 ==========================================
-La phrase 12 est en : n
+La phrase 12 est en : non detect
 	: 01 69 15 62 08
 
 

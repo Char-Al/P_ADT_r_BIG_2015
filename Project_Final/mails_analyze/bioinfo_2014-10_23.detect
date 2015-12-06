@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_23" est globalement en : FRA
-[('FRA', 0.19986747001361474), ('ENG', 3.0277455975222014)]
+Le mail "bioinfo_2014-10_23" est globalement en : french
+[('french', 0.34377456957312685), ('english', 1.6691861463360826)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 statistique : Evaluation des   performances de méthodes de détection en tem  ps réel des épidémies de grippe
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 statistique : Evaluation des performances de  
 méthodes de détection en temps réel des épidémies de grippe
 Type de poste : Stage
@@ -27,7 +27,7 @@ Laboratoire : Institut Pierre Louis d'Epidémiologie et de Santé Publique,
 UMRS 1136, Inserm UPMC, Réseau Sentinelles
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-statistique-evaluation-des-performances-de-m%C3%A9thodes-de-d%C3%A9tection-en-temps-r%C3%A9el-des-%C3%A9pid%C3%A9m
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/m2-statistique-evaluation-des-performances-de-m%C3%A9
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 statistique : Evaluation des performances de  

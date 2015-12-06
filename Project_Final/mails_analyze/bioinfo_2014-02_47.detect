@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_47" est globalement en : FRA
-[('FRA', 0.4786442606653202), ('ENG', 1.7278576927571652)]
+Le mail "bioinfo_2014-02_47" est globalement en : french
+[('french', 0.5601716690925386), ('english', 1.176095106394594)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur de Recherch  e en Bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur de Recherche en Bioinformatique
 Type de poste : CDD Ingénieur
 Durée du poste : 36 mois
@@ -25,7 +25,7 @@ Email du contact : guy.perriere@univ-lyon1.fr
 Laboratoire : Biométrie et Biologie Evolutive, UMR CNRS 5558
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-de-recherche-en-bioinformatique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-de-recherche-en-bioinformatique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur de Recherche en Bioinformatique

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_105" est globalement en : FRA
-[('FRA', 0.1938705596910646), ('ENG', 0.3477796049401405)]
+Le mail "bioinfo_2014-10_105" est globalement en : french
+[('french', 0.43671012617969995), ('english', 0.6566702427979565)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Stage M2 : Analyse des interact  ions protéines - nanoparticules
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Stage M2 : Analyse des interactions protéines -  
 nanoparticules
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : jean-christophe.aude@cea.fr
 Laboratoire : CEA / DSV / iBiTec-S / SBIGeM / LSOC
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-m2-analyse-des-interactions-prot%C3%A9ines-nanoparticules
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/stage-m2-analyse-des-interactions-prot%C3%A9ines-nano
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Stage M2 : Analyse des interactions protéines -  

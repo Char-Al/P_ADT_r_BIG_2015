@@ -1,53 +1,53 @@
-Le mail "bioinfo_2014-04_54" est globalement en : ENG
-[('FRA', 0.4677905353003438), ('ENG', 0.5274155492880426)]
+Le mail "bioinfo_2014-04_54" est globalement en : english
+[('english', 0.022950540508438623), ('french', 0.2925159844280546)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Postdoc: UNotreDame Malaria Mosquito Population Genomics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 POSTDOC: Population Genomics of Malaria Mosquitoes
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	A Postdoctoral position (1 year with possible extensions up to 5 years) is available immediately in the evolutionary genomics group of Nora Besansky (www3.nd.edu/~nbesansk/).
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	We are seeking highly qualified and enthusiastic applicants with a quantitative background in theoretical/statistical population genetics and evolutionary biology, experience in genomic data analysis, and at least some knowledge of primary short read analysis.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Our ongoing research centers on the evolutionary, ecological and population genomics of Anopheles mosquitoes that transmit malaria. In particular, we study those species responsible for the majority of malaria cases and deaths on the African continent, An. gambiae and An. funestus. These two Afrotropical species each belong to cryptic species complexes bearing their names, and both nominal taxa display considerable genetic heterogeneity and population structure suggesting further genetic subdivision and potential speciation. We study their population genomics at different spatial scales, from local to regional and continental.  We are particularly interested in how spatially varying selection (e.g., along environmental gradients of aridity: Cheng et al 2012, Genetics 190:1417), ongoing ecological speciation (e.g., Cassone et al 2014, Mol Ecol 10.1111/mec.12733; Guelbeogo et al 2014, Malar J 13:65), and genetic introgression (e.g., Besansky et al. 2003, PNAS 100:10818) impact 
 patterns of genomic and transcriptomic variation. Specific projects ongoing in the laboratory include the functional genomics of chromosomal inversions--which we are approaching through systems genetics and genome-wide association studies, the genetic basis of saltwater tolerance in the An. gambiae complex, Y chromosome structure and evolution in the An. gambiae complex, and the ecological genomics of incipient species of An. gambiae and An. funestus.  The availability of annotated reference genome assemblies for both species (Neafsey et al 2013, G3 3:1191), and their relatively small genome size (~250 Mb) allows us to use whole genome sequencing of pools or barcoded individual mosquitoes from natural populations to approach these questions.  Our work on these large data sets is facilitated by extensive collaboration with computer scientists both on and off campus (S. Emrich, ND; A. Phillippy & S. Koren, Battelle National Biodefense Institute), and with a statistical genetic
 ist (M. Hahn, Indiana University, Bloomington). In addition to the NIH-funded projects based in the Besansky lab, we are actively engaged in large international consortia, one of which is modeled on the Human HapMap project and has sequenced over 1000 individual An. gambiae genomes sampled across Africa (MalariaGen; www.malariagen.net/projects/vector). Furthermore, opportunities for collaboration and exchange are available with partners in Europe and Africa [F. Simard, C. Costantini: IRD, Montpellier; D. Ayala: IRD/Gabon; M.C. Fontaine: Univ. of Groningen, Netherlands (beginning Fall 2014)]. The successful candidate will help develop and lead a project in at least one of the areas of ongoing research in the laboratory, and would be expected to contribute collaboratively to others.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	REQUIREMENTS: (1) A PhD in genetics/genomics, evolutionary biology, bioinformatics, or a related discipline; (2) a strong background in statistics and population genetics; (3) proficiency in the Linux/Unix computing environment and familiarity with R and at least one other programming language (e.g. Python or Perl); (4) experience with the analysis of high throughput biological data sets; and (5) good communication skills and proficiency in English, both speaking and writing. 
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	PREFERENCES: If the Ph.D. was conferred in the biological sciences, we are looking for subsequent qualification and/or experience in bioinformatics; if the Ph.D. was conferred in statistics, computer science, or mathematics, we are looking for subsequent qualification and/or experience in the biological sciences.  In addition to meeting all the requirements, the ideal candidate will be a highly motivated individual with demonstrated expertise in population genomics or human genetics and evolutionary biology, strong statistical skills, experience with next generation sequence and analysis of whole genome sequence data, a good understanding of molecular biology, and an excellent record of scientific publication. Fluency in French is a plus.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	HOW TO APPLY: Applicants should submit a single PDF file (to nbesansk [at] nd.edu) containing (1) a cover letter briefly summarizing past research accomplishments and future goals; (2) a CV; (3) two recent publications; and (4) the names and contact information for three references. Screening of applicants will begin immediately and continue until the position is filled. The starting date is flexible and can be as early as April 2014.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	ADDITIONAL INFORMATION: The University of Notre Dame is located on the northern limits of South Bend, Indiana [90 miles (150 km) east of Chicago]. The Department of Biological Sciences is the center for research and teaching in the life sciences at the University. Housed mainly in the Galvin Life Sciences Building, the department is home to some 60 research and/or teaching faculty, 120 graduate students, and 40 postdoctoral fellows. This vibrant research and teaching community continues to expand its faculty, both within the Department and with new associated faculty in the nearby Indiana University School of Medicine ? South Bend, and in other departments in the College of Science and the College of Engineering. New Centers and Institutes enhance our intellectual mission, and include the Eck Institute for Global Health, Center for Rare and Neglected Diseases, Environmental Change Initiative, Center for Aquatic Conservation, Center for Zebrafish Research, the Harper Cancer Re
 search Institute, Keck Center for Transgene Research, and Center for the Study of Biocomplexity. Available resources include the Freimann Animal Facility and state of the art core facilities: Genomics, Proteomics, and Integrated Imaging. The Center for Research Computing operates a High Performance Computing (HPC) facility providing parallel supercomputers, clusters, grid networks and storage (~18,000 cores and 500TB storage) in systems of various architectures and interconnects, and access and interface to the TeraGrid and Open Science Grid.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	The University of Notre Dame is an Equal Opportunity / Affirmative Action Employer.
 
 ==========================================
@@ -55,129 +55,129 @@ Le paragraphe 9 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 POSTDOC: Population Genomics of Malaria Mosquitoes
 
 A Postdoctoral position (1 year with possible extensions up to 5 years) is available immediately in the evolutionary genomics group of Nora Besansky (www3.nd.edu/~nbesansk/).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	We are seeking highly qualified and enthusiastic applicants with a quantitative background in theoretical/statistical population genetics and evolutionary biology, experience in genomic data analysis, and at least some knowledge of primary short read analysis.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Our ongoing research centers on the evolutionary, ecological and population genomics of Anopheles mosquitoes that transmit malaria.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	In particular, we study those species responsible for the majority of malaria cases and deaths on the African continent, An.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	gambiae and An.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	funestus.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	These two Afrotropical species each belong to cryptic species complexes bearing their names, and both nominal taxa display considerable genetic heterogeneity and population structure suggesting further genetic subdivision and potential speciation.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	We study their population genomics at different spatial scales, from local to regional and continental.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	We are particularly interested in how spatially varying selection (e.g., along environmental gradients of aridity: Cheng et al 2012, Genetics 190:1417), ongoing ecological speciation (e.g., Cassone et al 2014, Mol Ecol 10.1111/mec.12733; Guelbeogo et al 2014, Malar J 13:65), and genetic introgression (e.g., Besansky et al.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	2003, PNAS 100:10818) impact 
 patterns of genomic and transcriptomic variation.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Specific projects ongoing in the laboratory include the functional genomics of chromosomal inversions--which we are approaching through systems genetics and genome-wide association studies, the genetic basis of saltwater tolerance in the An.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	gambiae complex, Y chromosome structure and evolution in the An.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	gambiae complex, and the ecological genomics of incipient species of An.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	gambiae and An.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	funestus.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	The availability of annotated reference genome assemblies for both species (Neafsey et al 2013, G3 3:1191), and their relatively small genome size (~250 Mb) allows us to use whole genome sequencing of pools or barcoded individual mosquitoes from natural populations to approach these questions.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	Our work on these large data sets is facilitated by extensive collaboration with computer scientists both on and off campus (S. Emrich, ND; A. Phillippy & S. Koren, Battelle National Biodefense Institute), and with a statistical genetic
 ist (M. Hahn, Indiana University, Bloomington).
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	In addition to the NIH-funded projects based in the Besansky lab, we are actively engaged in large international consortia, one of which is modeled on the Human HapMap project and has sequenced over 1000 individual An.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	gambiae genomes sampled across Africa (MalariaGen; www.malariagen.net/projects/vector).
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	Furthermore, opportunities for collaboration and exchange are available with partners in Europe and Africa [F. Simard, C. Costantini: IRD, Montpellier; D. Ayala: IRD/Gabon; M.C.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	Fontaine: Univ.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	of Groningen, Netherlands (beginning Fall 2014)].
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	The successful candidate will help develop and lead a project in at least one of the areas of ongoing research in the laboratory, and would be expected to contribute collaboratively to others.
 ==========================================
-La phrase 24 est en : ENG
+La phrase 24 est en : english
 	REQUIREMENTS: (1) A PhD in genetics/genomics, evolutionary biology, bioinformatics, or a related discipline; (2) a strong background in statistics and population genetics; (3) proficiency in the Linux/Unix computing environment and familiarity with R and at least one other programming language (e.g.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	Python or Perl); (4) experience with the analysis of high throughput biological data sets; and (5) good communication skills and proficiency in English, both speaking and writing.
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	PREFERENCES: If the Ph.D. was conferred in the biological sciences, we are looking for subsequent qualification and/or experience in bioinformatics; if the Ph.D. was conferred in statistics, computer science, or mathematics, we are looking for subsequent qualification and/or experience in the biological sciences.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	In addition to meeting all the requirements, the ideal candidate will be a highly motivated individual with demonstrated expertise in population genomics or human genetics and evolutionary biology, strong statistical skills, experience with next generation sequence and analysis of whole genome sequence data, a good understanding of molecular biology, and an excellent record of scientific publication.
 ==========================================
-La phrase 28 est en : ENG
+La phrase 28 est en : english
 	Fluency in French is a plus.
 ==========================================
-La phrase 29 est en : ENG
+La phrase 29 est en : english
 	HOW TO APPLY: Applicants should submit a single PDF file (to nbesansk [at] nd.edu) containing (1) a cover letter briefly summarizing past research accomplishments and future goals; (2) a CV; (3) two recent publications; and (4) the names and contact information for three references.
 ==========================================
-La phrase 30 est en : ENG
+La phrase 30 est en : english
 	Screening of applicants will begin immediately and continue until the position is filled.
 ==========================================
-La phrase 31 est en : ENG
+La phrase 31 est en : english
 	The starting date is flexible and can be as early as April 2014.
 ==========================================
-La phrase 32 est en : ENG
+La phrase 32 est en : english
 	ADDITIONAL INFORMATION: The University of Notre Dame is located on the northern limits of South Bend, Indiana [90 miles (150 km) east of Chicago].
 ==========================================
-La phrase 33 est en : ENG
+La phrase 33 est en : english
 	The Department of Biological Sciences is the center for research and teaching in the life sciences at the University.
 ==========================================
-La phrase 34 est en : ENG
+La phrase 34 est en : english
 	Housed mainly in the Galvin Life Sciences Building, the department is home to some 60 research and/or teaching faculty, 120 graduate students, and 40 postdoctoral fellows.
 ==========================================
-La phrase 35 est en : ENG
+La phrase 35 est en : english
 	This vibrant research and teaching community continues to expand its faculty, both within the Department and with new associated faculty in the nearby Indiana University School of Medicine ?
 ==========================================
-La phrase 36 est en : ENG
+La phrase 36 est en : english
 	South Bend, and in other departments in the College of Science and the College of Engineering.
 ==========================================
-La phrase 37 est en : ENG
+La phrase 37 est en : english
 	New Centers and Institutes enhance our intellectual mission, and include the Eck Institute for Global Health, Center for Rare and Neglected Diseases, Environmental Change Initiative, Center for Aquatic Conservation, Center for Zebrafish Research, the Harper Cancer Re
 search Institute, Keck Center for Transgene Research, and Center for the Study of Biocomplexity.
 ==========================================
-La phrase 38 est en : ENG
+La phrase 38 est en : english
 	Available resources include the Freimann Animal Facility and state of the art core facilities: Genomics, Proteomics, and Integrated Imaging.
 ==========================================
-La phrase 39 est en : ENG
+La phrase 39 est en : english
 	The Center for Research Computing operates a High Performance Computing (HPC) facility providing parallel supercomputers, clusters, grid networks and storage (~18,000 cores and 500TB storage) in systems of various architectures and interconnects, and access and interface to the TeraGrid and Open Science Grid.
 ==========================================
-La phrase 40 est en : ENG
+La phrase 40 est en : english
 	The University of Notre Dame is an Equal Opportunity / Affirmative Action Employer.
 ==========================================

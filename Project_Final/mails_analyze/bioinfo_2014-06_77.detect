@@ -1,34 +1,34 @@
-Le mail "bioinfo_2014-06_77" est globalement en : FRA
-[('FRA', 0.8494907544762558), ('ENG', 52.73431257945781)]
+Le mail "bioinfo_2014-06_77" est globalement en : french
+[('french', 0.15119763180134066), ('english', 4.3051250608899165)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Mobilité IE bioinformatique à l'INRA de Toulouse
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Un poste IE bioinfo est ouvert à la mobilité sur la plateforme de séquençage GeT-PlaGe (http://get.genotoul.fr/).
 Le profil de ce poste est disponible à l'adresse : http://jobs.inra.fr/offers/emploi_perm//mobilite-it/?concours=113825&campagne=23130&annonce=15069&annonce_id=28#annonce
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Rappel de la date limite de dépôt de dossier : 03/07/2014
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Merci de bien vouloir diffuser aux personnes potentiellement intéressées.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	-- 
 Gérald Salin
 Informatique - Plateforme GeT-PlaGe
@@ -43,19 +43,19 @@ web : http://get.genotoul.fr
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Un poste IE bioinfo est ouvert à la mobilité sur la plateforme de séquençage GeT-PlaGe (http://get.genotoul.fr/).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le profil de ce poste est disponible à l'adresse : http://jobs.inra.fr/offers/emploi_perm//mobilite-it/?concours=113825&campagne=23130&annonce=15069&annonce_id=28#annonce
 
 Rappel de la date limite de dépôt de dossier : 03/07/2014
 
 Merci de bien vouloir diffuser aux personnes potentiellement intéressées.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	-- 
 Gérald Salin
 Informatique - Plateforme GeT-PlaGe

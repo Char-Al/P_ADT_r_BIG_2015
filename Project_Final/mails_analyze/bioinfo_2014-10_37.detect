@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_37" est globalement en : FRA
-[('ENG', 0.2773778398109967), ('FRA', 0.4496885628829341)]
+Le mail "bioinfo_2014-10_37" est globalement en : french
+[('french', 0.4546771773983018), ('english', 0.7641010448219226)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformatics / comparative genomics and transcriptomics of plant-associated fungi.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformatics / comparative genomics and  
 transcriptomics of plant-associated fungi.
 Type de poste : Post-doc / IR
@@ -27,7 +27,7 @@ Laboratoire : Biodiversité et Biotechnologie des chanpignons
 (INRA-Aix-Marseille University)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatics-comparative-genomics-and-transcriptomics-plant-associated-fungi
 
@@ -37,13 +37,13 @@ http://www.sfbi.fr/content/bioinformatics-comparative-genomics-and-transcriptomi
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Bioinformatics / comparative genomics and  
 transcriptomics of plant-associated fungi.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Type de poste : Post-doc / IR
 Durée du poste : 2 ans
 Ville : Marseille

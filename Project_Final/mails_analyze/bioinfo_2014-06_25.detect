@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-06_25" est globalement en : FRA
-[('FRA', 0.28870446173250347), ('ENG', 2.2836743313775325)]
+Le mail "bioinfo_2014-06_25" est globalement en : french
+[('french', 0.5415827711983053), ('english', 0.976603472985086)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Spécialiste Consolidation Données
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Spécialiste Consolidation Données
 Type de poste : Stage
 Durée du poste : 6 mois
@@ -26,12 +26,12 @@ Email du contact : pauline.deparscau@biomerieux.com
 Laboratoire : BIOMERIEUX
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/sp%C3%A9cialiste-consolidation-donn%C3%A9es
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

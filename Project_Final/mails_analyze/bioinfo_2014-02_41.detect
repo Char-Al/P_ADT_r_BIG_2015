@@ -1,55 +1,55 @@
-Le mail "bioinfo_2014-02_41" est globalement en : FRA
-[('FRA', 0.3585456579387586), ('ENG', 27.825929056356728)]
+Le mail "bioinfo_2014-02_41" est globalement en : french
+[('french', 0.1717553421659393), ('english', 4.915686190049516)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Mer.26/02 : Atelier BioSyl : reconstruction de réseauxmétaboliques (14h à 18h, La Doua, 69) 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	BioSyL, structure qui fédère 50 équipes de recherche en biologie systémique en Rhône-Alpes, a le plaisir de vous convier à un atelier dédié à la reconstruction de réseaux métaboliques, qui aura lieu :
 MERCREDI 26 FEVRIER de 14 à 18h, bâtiment Gregor MENDEL, 2ème étage, salle de formation du PRABI, Campus La Doua à Villeurbanne - à quelques mètres de l'arrêt de tram "La Doua Gaston Berger".
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : english
 	Plan d'accès : http://www.univ-lyon1.fr/informations-pratiques/sites-et-campus/campus-lyontech-la-doua-19678.kjsp?RH=MEN.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	L'objectif de cet atelier est de rassembler des chercheurs qui développent des modèles et/ou des problématiques biologiques nécessitant des reconstructions métaboliques. L'atelier sera organisé de façon à privilégier les discussions entre les participants.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Seront présentés des méthodes et des outils de reconstruction de réseaux métaboliques à partir de données génomiques annotées, de même que des outils de visualisation et dexploration de réseaux métaboliques (CycADS, BioCyc, MetExplore), mais ne seront pas abordés les problèmes dassemblage, ni de détection de séquences codantes.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Les discussions porteront sur lannotation fonctionnelle des gènes par homologie et sur les subtilités de linférence de fonction des enzymes.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Modélisateurs et biologistes aguerris ou novices sont bienvenus.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	La participation est gratuite, mais une inscription est demandée sur le lien suivant :
 http://www.doodle.com/is2b2p3s4x5ke6ra
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Le programme est disponible sur : http://www.biosyl.org/news/26-02-atelier-reconstruction-de-reseaux-metaboliques-campus-la-doua.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Avec nos meilleures salutations.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Contact : Emilie NOGUEZ, BioSyL - www.biosyl.org, 04.72.44.81.90, emilie.noguez(at)biosyl.org
 
 
@@ -58,38 +58,38 @@ Le paragraphe 10 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	BioSyL, structure qui fédère 50 équipes de recherche en biologie systémique en Rhône-Alpes, a le plaisir de vous convier à un atelier dédié à la reconstruction de réseaux métaboliques, qui aura lieu :
 MERCREDI 26 FEVRIER de 14 à 18h, bâtiment Gregor MENDEL, 2ème étage, salle de formation du PRABI, Campus La Doua à Villeurbanne - à quelques mètres de l'arrêt de tram "La Doua Gaston Berger".
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : english
 	Plan d'accès : http://www.univ-lyon1.fr/informations-pratiques/sites-et-campus/campus-lyontech-la-doua-19678.kjsp?RH=MEN.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	L'objectif de cet atelier est de rassembler des chercheurs qui développent des modèles et/ou des problématiques biologiques nécessitant des reconstructions métaboliques.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	L'atelier sera organisé de façon à privilégier les discussions entre les participants.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Seront présentés des méthodes et des outils de reconstruction de réseaux métaboliques à partir de données génomiques annotées, de même que des outils de visualisation et dexploration de réseaux métaboliques (CycADS, BioCyc, MetExplore), mais ne seront pas abordés les problèmes dassemblage, ni de détection de séquences codantes.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Les discussions porteront sur lannotation fonctionnelle des gènes par homologie et sur les subtilités de linférence de fonction des enzymes.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Modélisateurs et biologistes aguerris ou novices sont bienvenus.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	La participation est gratuite, mais une inscription est demandée sur le lien suivant :
 http://www.doodle.com/is2b2p3s4x5ke6ra
 
 Le programme est disponible sur : http://www.biosyl.org/news/26-02-atelier-reconstruction-de-reseaux-metaboliques-campus-la-doua.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Avec nos meilleures salutations.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Contact : Emilie NOGUEZ, BioSyL - www.biosyl.org, 04.72.44.81.90, emilie.noguez(at)biosyl.org
 
 ==========================================

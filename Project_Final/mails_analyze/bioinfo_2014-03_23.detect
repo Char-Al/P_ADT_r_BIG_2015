@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_23" est globalement en : ENG
-[('ENG', 0.5001351364407189), ('FRA', 1.3223463709910166)]
+Le mail "bioinfo_2014-03_23" est globalement en : english
+[('english', 0.053992167207511835), ('french', 0.45531520888975274)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Fwd: ECCB 2014: 1st call for poster and 2nd call for papers
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Apologizes for cross-posting !!!
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	----- Mail transféré -----
 > De: "Marie-Dominique Devignes" <marie-dominique.devignes@loria.fr>
 > À: "info-eccb2014" <info@eccb14.org>
@@ -148,10 +148,10 @@ Le paragraphe 2 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Apologizes for cross-posting !!!
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	----- Mail transféré -----
 > De: "Marie-Dominique Devignes" <marie-dominique.devignes@loria.fr>
 > À: "info-eccb2014" <info@eccb14.org>
@@ -194,11 +194,11 @@ La phrase 2 est en : ENG
 > 
 > Posters should report a scientific result, technique or application.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Posters
 > should not represent advertisements for commercial products.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	> 
 > The abstract must be submitted in plain text, and must be no longer than 3000
 > characters including spaces (~ 500 words)
@@ -207,18 +207,18 @@ La phrase 4 est en : ENG
 > notification of acceptance will be provided to the corresponding author no
 > later than July 4th, 2014.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	> 
 > At least one author per each successful submission is required to register
 > and present the poster at the conference.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	> 
 > Submission of poster abstracts must be done via Easy Chair at:
 > https://www.easychair.org/conferences/?conf=poster-eccb2014
 > (*Please note that this website is not the same used for paper submissions*).
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	> 
 > Questions on this Call for Posters should be sent to poster@eccb14.org
 >  
@@ -252,47 +252,47 @@ La phrase 7 est en : ENG
 > Papers submitted for review should represent original, previously unpublished
 > work.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	At the time the paper is submitted to ECCB'14, and for the entire
 > review period, the paper should not be under review by any other conference
 > or scientific journal.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Submissions will be generally reviewed by three
 > members of the Program Committee.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	> Accepted original papers will be published as conference proceedings in a
 > special online open-access issue of Bioinformatics (Oxford University
 > Press).
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	They will be citable as regular articles and indexed in Medline and
 > ISI.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	> Presenters of accepted papers will be given a time slot in the conference
 > schedule to provide a summary and update to their work.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	> 
 > At least one author per each successful submission is required to register
 > and present the paper at the conference.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	>  
 > Instructions for the authors
 > Manuscript (up to 7 pages) should be prepared according to the Oxford
 > University Press Bioinformatics guidelines for original research papers.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	> Word and LaTex templates can be downloaded from:
 > http://www.oxfordjournals.org/our_journals/bioinformatics/for_authors/submission_online.html
 > 
 > Online submission (PDF format) must be done through the conference EasyChair
 > submission system.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	> https://www.easychair.org/conferences/?conf=eccb2014
 > 
 > Any question on the call for papers should be sent to program@eccb14.org
@@ -300,7 +300,7 @@ La phrase 16 est en : ENG
 > Please help spread the word for the strongest possible participation by
 > sharing this mail with your colleagues and collaborators.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	> 
 > We look forward to welcoming you in Strasbourg in September
 > 

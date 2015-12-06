@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_24" est globalement en : FRA
-[('FRA', 0.4062989838067994), ('ENG', 1.118597581504498)]
+Le mail "bioinfo_2014-12_24" est globalement en : french
+[('french', 0.9732444850929446), ('english', 1.3427221694526228)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Développer des web se  rvices en bio-informatique structurale
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développer des web services en bio-informatique  
 structurale
 Type de poste : CDD Ingénieur
@@ -26,7 +26,7 @@ Email du contact : raphael.terreux@ibcp.fr
 Laboratoire : BMSSI, UMR 5086, “Plateforme Prabi+ ”
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9velopper-des-web-services-en-bio-informatique-structurale
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/d%C3%A9velopper-des-web-services-en-bio-informatique-
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Développer des web services en bio-informatique  

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_18" est globalement en : FRA
-[('FRA', 0.19295072024041218), ('ENG', 0.253211184841527)]
+Le mail "bioinfo_2014-09_18" est globalement en : french
+[('french', 0.32032301239477196), ('english', 0.5370379340487875)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Stage Master 2 : Structure et f  onction des longs ARN non-codant (lncRNAs) impl  iqués dans les cancers : Application aux cance  rs canins
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Stage Master 2 : Structure et fonction des longs ARN  
 non-codant (lncRNAs) impliqués dans les cancers : Application aux cancers  
 canins
@@ -27,7 +27,7 @@ Email du contact : lavenier@irisa.fr
 Laboratoire : GenScale/IRISA
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-master-2-structure-et-fonction-des-longs-arn-non-codant-lncrnas-impliqu%C3%A9s-dans-les-can
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/stage-master-2-structure-et-fonction-des-longs-arn-no
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Stage Master 2 : Structure et fonction des longs ARN  

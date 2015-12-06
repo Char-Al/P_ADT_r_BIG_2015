@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-06_12" est globalement en : FRA
-[('ENG', 0.4987459748896569), ('FRA', 0.5091278270160513)]
+Le mail "bioinfo_2014-06_12" est globalement en : french
+[('french', 0.06252162509578663), ('english', 0.4454053592308751)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Master ISDD (M1, M2) / Candidatures
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Les candidatures au Master 1 et 2 "In Silico Drug Design" appelé aussi
 "Innovation thérapeutique assistée par ordinateur a l’interface chimie
 biologie" sont ouvertes.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Ce master forme des professionnels(les) du privé et du public, au
 niveau français mais aussi européen, acteurs de la recherche et de la
 santé publique, à l’aide des approches in silico dans le domaine de
@@ -25,7 +25,7 @@ l’innovation thérapeutique et/ou orientés vers le développement de
 molécules pharmacologiques.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	L’interdisciplinarite et l’internationalisation de ce master est
 ouvert aux etudiants desireux de travailler a l’interface de la
 chimie, la biologie et l’informatique.
@@ -35,16 +35,16 @@ biologie, biologie-informatique, secteur medical, pharmacie, sciences
 bio-médicales.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Les dossiers de candidatures et toutes les informations utiles sont
 disponibles sur le site:
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	http://isddteach.sdv.univ-paris-diderot.fr
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Contact:
 -------------------------------------------------------
 Pr Anne-Claude CAMPROUX
@@ -59,7 +59,7 @@ mail : anne-claude.camproux@univ-paris-diderot.fr
 ---------------------------------------------------------
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Michel Petitjean
 MTi, INSERM UMR-S 973, University Paris 7,
 35 rue Helene Brion, 75205 Paris Cedex 13, France.
@@ -74,30 +74,30 @@ http://petitjeanmichel.free.fr/itoweb.petitjean.freeware.html
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Les candidatures au Master 1 et 2 "In Silico Drug Design" appelé aussi
 "Innovation thérapeutique assistée par ordinateur a l’interface chimie
 biologie" sont ouvertes.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Ce master forme des professionnels(les) du privé et du public, au
 niveau français mais aussi européen, acteurs de la recherche et de la
 santé publique, à l’aide des approches in silico dans le domaine de
 l’innovation thérapeutique et/ou orientés vers le développement de
 molécules pharmacologiques.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	L’interdisciplinarite et l’internationalisation de ce master est
 ouvert aux etudiants desireux de travailler a l’interface de la
 chimie, la biologie et l’informatique.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Ce master acceuille des étudiants de diverses formations initiales
 (universitaires ou ecoles d’ingenieurs) en biochimie, chimie,
 biologie, biologie-informatique, secteur medical, pharmacie, sciences
 bio-médicales.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Les dossiers de candidatures et toutes les informations utiles sont
 disponibles sur le site:
 
@@ -121,7 +121,7 @@ Michel Petitjean
 MTi, INSERM UMR-S 973, University Paris 7,
 35 rue Helene Brion, 75205 Paris Cedex 13, France.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Phone: +331 5727 8434; Fax: +331 5727 8372
 E-mail: petitjean.chiral@gmail.com (preferred),
             michel.petitjean@univ-paris-diderot.fr

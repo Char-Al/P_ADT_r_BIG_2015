@@ -1,32 +1,32 @@
-Le mail "bioinfo_2014-09_54" est globalement en : ENG
-[('ENG', 0.3685249296244934), ('FRA', 1.1486298125082743)]
+Le mail "bioinfo_2014-09_54" est globalement en : french (conflict)
+[('french', 0.489377130115807), ('english', 2.144018602946648)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : french
 Subject : [bioinfo] Change of date: SPMGD'15 in Münich , February 12-13, 2015
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear all,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The 2015 annual workshop on Statistical Methods for Post Genomic Data (SMPGD) will take place at Ludwig-Maximilians University (LMU) in Munich, on February 12-13, 2015. Its aim is to present works from mathematical to applied Statistics, but also new areas in high throughput Biology that could need new statistical developments.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The key dates are:
    Abstract submission deadline: 5 December 2015
    Notification of acceptance: 19 December 2014
    Registration deadline: 15 January 2015
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : french
 	This workshop will feature 4 keynote speakers:
     Wolfgang Huber (European Molecular Biology Laboratory, Heidelberg)
     Guillaume Filion (Centre of Genomic Regulation, Barcelona)
@@ -34,18 +34,18 @@ Le paragraphe 4 est en : ENG
     Sylvain Arlot (École Normale Supérieure, Paris)
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : french
 	We will also have the following invited sessions on:
     Single-cell genomics session – Chairman: John Marioni (European Bioinformatics Institute, Hinxton)
     Systems genetics session – Chairman: Julien Gagneur (Ludwig-Maximilians Universität, Munich)
     Epigenomics session
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Registration is free of charge and includes coffee breaks and drinks during the poster session. We welcome submission of abstracts for contributed talks (15 min. including questions) and posters. These may, but need not to, relate to the invited session topics.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Steering committee:
     Sylvie Huet (INRA, MIA, Jouy-en-Josas)
     Béatrice Laurent-Bonneau (INSA, Toulouse)
@@ -53,17 +53,17 @@ Le paragraphe 7 est en : FRA
     Stéphane Robin (AgroParisTech, Paris)
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : french
 	Local committee:
     Anne-Laure Boulesteix (Ludwig-Maximilians Universität, Munich)
     Julien Gagneur (Ludwig-Maximilians Universität, Munich)
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	If you have any other enquiry, feel free to contact us at smpgd15@genzentrum.lmu.de.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	-- 
 -------------------------------------------------------------
 Stéphane ROBIN    INRA (dépt MIA) / AgroParisTech (dépt MMIP)
@@ -73,7 +73,7 @@ Personal page: www.agroparistech.fr/mia/robin
 tél: (33) (0)1.44.08.72.07         fax: (33) (0)1.44.08.16.66
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -81,15 +81,15 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear all,
 
 The 2015 annual workshop on Statistical Methods for Post Genomic Data (SMPGD) will take place at Ludwig-Maximilians University (LMU) in Munich, on February 12-13, 2015.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Its aim is to present works from mathematical to applied Statistics, but also new areas in high throughput Biology that could need new statistical developments.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : french
 	The key dates are:
    Abstract submission deadline: 5 December 2015
    Notification of acceptance: 19 December 2014
@@ -108,16 +108,16 @@ We will also have the following invited sessions on:
 
 Registration is free of charge and includes coffee breaks and drinks during the poster session.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We welcome submission of abstracts for contributed talks (15 min.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	including questions) and posters.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	These may, but need not to, relate to the invited session topics.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Steering committee:
     Sylvie Huet (INRA, MIA, Jouy-en-Josas)
     Béatrice Laurent-Bonneau (INSA, Toulouse)
@@ -130,7 +130,7 @@ Local committee:
 
 If you have any other enquiry, feel free to contact us at smpgd15@genzentrum.lmu.de.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	-- 
 -------------------------------------------------------------
 Stéphane ROBIN    INRA (dépt MIA) / AgroParisTech (dépt MMIP)

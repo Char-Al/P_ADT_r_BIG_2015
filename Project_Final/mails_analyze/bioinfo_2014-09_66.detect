@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_66" est globalement en : ENG
-[('ENG', 0.4843524603316752), ('FRA', 0.9313946038847811)]
+Le mail "bioinfo_2014-09_66" est globalement en : english (conflict)
+[('english', 0.49849339743977766), ('french', 0.7148257943836873)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Stage] workflow de modélisation : de  s donnéesmétabolomiquesà l' interpréta  tion biologique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : workflow de modélisation : des données  
 métabolomiques à l'interprétation biologique
 Type de poste : Stage
@@ -27,7 +27,7 @@ Laboratoire : Unité de Nutrition Humaine (UNH), équipe MAPPING (MetAbolic
 PhenotyPe, nutrItioN and modelinG)
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/workflow-de-mode%CC%81lisation-des-donne%CC%81es-me%CC%81tabolomiques-a%CC%80-linterpre%CC%81tation-biologique
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/workflow-de-mode%CC%81lisation-des-donne%CC%81es-me%C
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : workflow de modélisation : des données  

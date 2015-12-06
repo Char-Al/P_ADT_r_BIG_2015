@@ -1,24 +1,24 @@
-Le mail "bioinfo_2014-09_64" est globalement en : FRA
-[('ENG', 2.005614233261431), ('FRA', 3.955364489750491)]
+Le mail "bioinfo_2014-09_64" est globalement en : french
+[('french', 0.3375078579776412), ('english', 0.40448711216340083)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] 19th EBM
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	La version 19 de l'ebm se passera du 15 au 18 septembre 2015
 voir 
 http://aeeb.fr/?page_id=333
 http://sites.univ-provence.fr/evol-cgr/
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Pierre Pontarotti
 
 
@@ -27,7 +27,7 @@ Le paragraphe 2 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	La version 19 de l'ebm se passera du 15 au 18 septembre 2015
 voir 
 http://aeeb.fr/?page_id=333

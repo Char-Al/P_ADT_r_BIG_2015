@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_2" est globalement en : FRA
-[('FRA', 0.29502691981198653), ('ENG', 4.064433422848571)]
+Le mail "bioinfo_2014-09_2" est globalement en : french
+[('french', 0.4748233372202204), ('english', 1.1000723873062053)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IR] Ingénieur R&D en modélisation bi  ophysique de la croissance végétale 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur R&D en modélisation biophysique de la  
 croissance végétale
 Type de poste : IR
@@ -26,7 +26,7 @@ Email du contact : contact@cybeletech.com
 Laboratoire : CybeleTech SAS
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-rd-en-mod%C3%A9lisation-biophysique-de-la-croissance-v%C3%A9g%C3%A9tale
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-rd-en-mod%C3%A9lisation-biophysique-de
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur R&D en modélisation biophysique de la  

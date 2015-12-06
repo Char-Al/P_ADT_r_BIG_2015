@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-05_84" est globalement en : ENG
-[('ENG', 0.17781440077323912), ('FRA', 0.4902761435282236)]
+Le mail "bioinfo_2014-05_84" est globalement en : english (conflict)
+[('english', 0.41196606009868914), ('french', 0.56227321073811)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Postdoctoral computer scientist – Kernel methods and network analysis for data fusion in chemobioinformatics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Intitulé du poste : Postdoctoral computer scientist – Kernel methods and
 network analysis for data fusion in chemobioinformatics
 Type de poste : Post-doc / IR
@@ -30,12 +30,12 @@ Email du contact : yves.moreau@esat.kuleuven.be
 Laboratoire : KU Leuven ESAT STADIUS iMinds Medical Information Technologies
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/postdoctoral-computer-scientist-%E2%80%93-kernel-methods-and-network-analysis-data-fusion-chemobioin
 
 ==========================================
-Le paragraphe 5 est en : n
+Le paragraphe 5 est en : non detect
 	
 
 ==========================================
@@ -43,7 +43,7 @@ Le paragraphe 5 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr

@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-03_29" est globalement en : FRA
-[('ENG', 0.5379524334960331), ('FRA', 0.544726279701104)]
+Le mail "bioinfo_2014-03_29" est globalement en : french
+[('french', 0.08667757122896849), ('english', 25.684886131218345)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] « Utilisation du Cloud pour la Biologie »  18 mars : ANNULATION
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 A cause de l'hospitalisation en urgence de l'organisateur de la journée, 
 le tutoriel  « Utilisation du Cloud pour la Biologie », prévu le 18 mars 
@@ -23,12 +23,12 @@ sont pré-inscrites pour la prochaine session à Lyon. A noter que deux
 sessions seront proposées, à Lyon et à Rennes.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Merci de votre compréhension,
 Olivier Collin
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	-- 
 --------------------------------------------------------
 Olivier Collin - Plate-forme GenOuest
@@ -38,7 +38,7 @@ Tél:   +33 (0) 2 99 84 72 78
 Fax:   +33 (0) 2 99 84 71 71
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -46,29 +46,29 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 A cause de l'hospitalisation en urgence de l'organisateur de la journée, 
 le tutoriel  « Utilisation du Cloud pour la Biologie », prévu le 18 mars 
 à Lyon, est reporté à une date ultérieure.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Nous vous prions de nous excuser pour ce délai bien indépendant de notre 
 volonté.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Une date pour nouvelle une session vous sera communiquée 
 ultérieurement.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Les personnes déjà inscrites à la session du 18 mars 
 sont pré-inscrites pour la prochaine session à Lyon.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	A noter que deux 
 sessions seront proposées, à Lyon et à Rennes.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Merci de votre compréhension,
 Olivier Collin
 

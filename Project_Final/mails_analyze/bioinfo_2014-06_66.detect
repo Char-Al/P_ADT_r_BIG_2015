@@ -1,28 +1,28 @@
-Le mail "bioinfo_2014-06_66" est globalement en : ENG
-[('ENG', 0.3148789464383907), ('FRA', 0.8335895509722845)]
+Le mail "bioinfo_2014-06_66" est globalement en : english
+[('english', 0.11858645971286666), ('french', 1.8359250752877405)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Upcoming deadline for EMBL Conference: Frontiers in Fungal Systems
  Biology
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	On behalf of Anne-Claude Gavin
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	------------------------------------------------------
 EMBL Conference: Frontiers in Fungal Systems Biology
 ------------------------------------------------------
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The confirmed speakers are:
 Brenda Andrews <http://www.utoronto.ca/andrewslab/homepage.html>, 
 /University of Toronto/
@@ -66,11 +66,11 @@ Christine Vogel <http://biology.as.nyu.edu/object/ChristineVogel.html>,
 /New York University/
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The abstract deadline is coming up on 3 July 2014.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Please find below some further logistical information:
 Agenda The most up-to-date agenda and information regarding the 
 conference can be found on the following webpage 
@@ -78,7 +78,7 @@ http://www.embl.de/training/events/2014/FUN14-01/programme/index.html
 -
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	_______________________________________________________
 Anne-Claude Gavin, PhD, Group Leader, Senior Scientist
 European Molecular Biology Laboratory, EMBL
@@ -86,22 +86,22 @@ Meyerhofstrasse 1, D-69117 Heidelberg, Germany
 Tel: +49 6221 387 8816, Fax: +49 6221 387 8519
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	e-mail: gavin@embl.de
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	----------------------------------
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Christine Brun, PhD
 TAGC Inserm U1090, Université Aix-Marseille, Parc Technologique de Luminy, Case 928, 13288 Marseille cedex 9 France
 Tel: 33 4 91 82 87 12 Fax: 33 4 91 82 87 01
 brun@tagc.univ-mrs.fr
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -109,7 +109,7 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	On behalf of Anne-Claude Gavin
 
 ------------------------------------------------------
@@ -160,7 +160,7 @@ Christine Vogel <http://biology.as.nyu.edu/object/ChristineVogel.html>,
 
 The abstract deadline is coming up on 3 July 2014.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Please find below some further logistical information:
 Agenda The most up-to-date agenda and information regarding the 
 conference can be found on the following webpage 

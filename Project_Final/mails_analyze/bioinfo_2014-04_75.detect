@@ -1,48 +1,48 @@
-Le mail "bioinfo_2014-04_75" est globalement en : ENG
-[('ENG', 1.1549050767967415), ('FRA', 5.566787922557839)]
+Le mail "bioinfo_2014-04_75" est globalement en : english
+[('english', 0.03994483047016778), ('french', 0.7000005998063785)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] CFP:  2nd Workshop on Dynamic Networks and Knowledge Discovery (DyNaK,
  2014)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	——-  With our apologies in case of multiple reception ———
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	===============================================================================
 CFP:  2nd Workshop on Dynamic Networks and Knowledge Discovery (DyNaK 2014)
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	co-located with ECML PKDD 2014, September 15-19, 2014, Nancy, France
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	http://lipn.univ-paris13.fr/dynak2/
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Submission deadline: 20 June 2014
 Submission site: https://www.easychair.org/conferences/?conf=dynak2
 
 ==========================================
-Le paragraphe 6 est en : n
+Le paragraphe 6 est en : non detect
 	===============================================================================
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Aim and Scope
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Modeling and analyzing networks is a major emerging topic in different 
 research areas, such as computational biology, social science, document 
 retrieval, etc. Nowadays, the scientific communities have access to huge 
@@ -54,7 +54,7 @@ allows the time component to play a key role in the comprehension of the
 evolutionary behavior of the network.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Handling such data is a major challenge for current research in machine
 learning and data mining, and it has led to the development of recent
 innovative techniques that consider complex/multi-level networks, 
@@ -63,7 +63,7 @@ requires scalable algorithms that are able to manage huge and complex
 networks.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	DyNaK workshop is motivated by the interest of providing a meeting point 
 for scientists with different backgrounds that are interested in the 
 study of large complex networks and the dynamic aspects of such 
@@ -72,18 +72,18 @@ networks analysis: large real network analysis and modeling, and
 knowledge discovery within those networks.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Topics of interest
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Authors are invited to submit previously unpublished papers on their 
 theortical research and/or applications in any topic related to one or 
 more of the workshop topics. A non exhaustive list of topics is given 
 hereafter.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Methods:
     * Network inference from raw data
     * Graphical models
@@ -103,7 +103,7 @@ Le paragraphe 13 est en : ENG
     * Social & biological networks analogy
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Applications:
     * Recommender systems
     * System biology: regulatory gene networks, protein-protein 
@@ -114,41 +114,41 @@ networks, social media, collaborative networks
 sensor networks
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Key Dates
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : french
 	    * Paper Submission due: June 20, 2014
     * Notification of Acceptance: July 11, 2014
     * Camera Ready Papers due: July 25, 2014
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	Organization
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	    * Rushed Kanawati, University of Paris Nord, France
       rushed.kanawati@lipn.univ-paris13.fr
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	    * Ruggero G. Pensa, University of Torino, Italy
       pensa@di.unito.it
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	    * Céline Rouveirol, University of Paris Nord, France
       celine.rouveirol@lipn.univ-paris13.fr
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	Program Committee
 (under construction)
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	    * Luca Aiello, Yahoo! Research, Barcelona, Spain
     * Michele Berlingerio, IBM Research, Dublin, Irela nd
     * Guillaume Beslon, INSA-Lyon, France
@@ -168,11 +168,11 @@ Le paragraphe 22 est en : ENG
     ...
 
 ==========================================
-Le paragraphe 23 est en : FRA
+Le paragraphe 23 est en : french
 	Paper Submission
 
 ==========================================
-Le paragraphe 24 est en : ENG
+Le paragraphe 24 est en : english
 	We welcome original contributions, either theoretical or empirical, 
 describing  ongoing projects or completed work (even partially 
 published). The instructions for authors and the LaTeX packages can be 
@@ -180,11 +180,11 @@ found at
 http://www.springer.de/comp/lncs/authors.html.
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	Paper length should not exceed 12 pages.
 
 ==========================================
-Le paragraphe 26 est en : ENG
+Le paragraphe 26 est en : english
 	Following the first edition of DyNak workshop, a special issue of the
 International journal of Intelligent Data Analysis has been published. 
 We expect to do the same for this second edition.
@@ -195,7 +195,7 @@ We expect to do the same for this second edition.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	——-  With our apologies in case of multiple reception ———
 
 ===============================================================================
@@ -216,22 +216,22 @@ Modeling and analyzing networks is a major emerging topic in different
 research areas, such as computational biology, social science, document 
 retrieval, etc.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Nowadays, the scientific communities have access to huge 
 volumes of network-structured data, such as social networks, 
 gene/protein /metabolic networks, sensor networks, peer-to-peer 
 networks.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Most often, these data are not only static, but they are 
 collected at different time points.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	This dynamic view of the system 
 allows the time component to play a key role in the comprehension of the 
 evolutionary behavior of the network.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Handling such data is a major challenge for current research in machine
 learning and data mining, and it has led to the development of recent
 innovative techniques that consider complex/multi-level networks, 
@@ -239,29 +239,29 @@ time-evolving graphs, heterogeneous information (nodes and links), and
 requires scalable algorithms that are able to manage huge and complex 
 networks.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	DyNaK workshop is motivated by the interest of providing a meeting point 
 for scientists with different backgrounds that are interested in the 
 study of large complex networks and the dynamic aspects of such 
 networks.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	It aims at attracting contributions from both aspects of 
 networks analysis: large real network analysis and modeling, and 
 knowledge discovery within those networks.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Topics of interest
 
 Authors are invited to submit previously unpublished papers on their 
 theortical research and/or applications in any topic related to one or 
 more of the workshop topics.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	A non exhaustive list of topics is given 
 hereafter.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Methods:
     * Network inference from raw data
     * Graphical models
@@ -311,7 +311,7 @@ Program Committee
 
     * Luca Aiello, Yahoo!
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Research, Barcelona, Spain
     * Michele Berlingerio, IBM Research, Dublin, Irela nd
     * Guillaume Beslon, INSA-Lyon, France
@@ -337,19 +337,19 @@ We welcome original contributions, either theoretical or empirical,
 describing  ongoing projects or completed work (even partially 
 published).
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	The instructions for authors and the LaTeX packages can be 
 found at
 http://www.springer.de/comp/lncs/authors.html.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Paper length should not exceed 12 pages.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Following the first edition of DyNak workshop, a special issue of the
 International journal of Intelligent Data Analysis has been published.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	We expect to do the same for this second edition.
 
 ==========================================

@@ -1,33 +1,33 @@
-Le mail "bioinfo_2014-07_63" est globalement en : FRA
-[('FRA', 0.367410058483242), ('ENG', 10.070645455156221)]
+Le mail "bioinfo_2014-07_63" est globalement en : french
+[('french', 0.37355218938840967), ('english', 6.317054940457228)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Offre de thèse : Étude de l'origine génétique et contraintes évolutives des nouveaux, gènes codant
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Deux offres de thèse assorties de trois ans de financement sont proposées
 par la "Münster Graduate School of Evolution"
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Un des sujets est proposé par l'équipe /Evolutionary Bioinformatics/ et 
 porte
 sur l'étude de l'origine génétique et contraintes évolutives des nouveaux
 gènes codant à l'échelle des populations.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	*** Attention date limite de candidature : 01 / 08 / 2014 ***
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : french
 	Le projet joint est porté par :
 Prof. Erich Bornberg-Bauer (Research Group Evolutionary Bioinformatics, 
 Münster)
@@ -35,23 +35,23 @@ Prof. Matthias Löwe (Institute of Mathematical Statistics, Münster)
 Prof. Jürgen Gadau (School of Life Sciences, Arizona State University)
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Appel original + procédure de candidature:
 http://www.uni-muenster.de/Evolution/mgse/jobs/index.shtml
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Laboratoire:
 http://www.bornberglab.org/
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Münster, ville universitaire, massivement cycliste et excellente qualité 
 de vie
 (Première ville mondiale en 2004, Liv-Com Award):
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Conditions:
 *La/Le Candidat(e) ne peut être Allemand. (voir conditions sur le site 
 du DAAD ou MGSE)
@@ -62,7 +62,7 @@ du DAAD ou MGSE)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Deux offres de thèse assorties de trois ans de financement sont proposées
 par la "Münster Graduate School of Evolution"
 
@@ -71,7 +71,7 @@ porte
 sur l'étude de l'origine génétique et contraintes évolutives des nouveaux
 gènes codant à l'échelle des populations.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : french
 	*** Attention date limite de candidature : 01 / 08 / 2014 ***
 
 
@@ -99,7 +99,7 @@ de vie
 Conditions:
 *La/Le Candidat(e) ne peut être Allemand.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	(voir conditions sur le site 
 du DAAD ou MGSE)
 

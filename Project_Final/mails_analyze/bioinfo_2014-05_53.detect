@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-05_53" est globalement en : ENG
-[('FRA', 0.2700184934569129), ('ENG', 15.812930084189869)]
+Le mail "bioinfo_2014-05_53" est globalement en : english
+[('english', 0.030540548178364553), ('french', 0.42085500758419475)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Financement de thèse - Appel à candidature - Computational Protein Design & Optimisation  combinatoire
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	PhD position: Development of Computational Protein Design Tools
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	We are looking for a highly motivated candidate for a three year PhD to 
 work at the intersection of Discrete Optimization and Computational 
 Structural Biology, on models and algorithms for Computation Protein 
@@ -27,7 +27,7 @@ actors in renewable bio-energy processes. As proteins, these enzymes are
 also eco-friendly (degradable, usable at ambient pression/temperature).
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Various algorithms and models have already been defined to optimize 
 protein designs, with different targets but all are faced with the huge 
 discrete space defined by protein sequences and their 3D structures, 
@@ -48,22 +48,22 @@ for activity. A computing cluster with thousands of cores can be
 accessed at INRA Toulouse.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Duties and eligibility: Motivated candidates with an academic degree at 
 the Masters level in either
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	- Computer Science/Discrete optimization with a strong taste for 
 applications in Biology are invited to apply for this position or
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	- Structural Bioinformatics/Molecular Modeling of proteins with a strong 
 taste for algorithms, programming and mathematics.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	A strong interest in both Computer Science and Structural Bioinformatics 
 is absolutely required. Because of the interdisciplinary nature of the 
 project, candidates will be evaluated on a case-by-case basis and 
@@ -78,7 +78,7 @@ written English is a highly valuable asset. A good knowledge of spoken
 French is also appreciated. If needed, training can be provided.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	A PhD grant is provided for 3 years, at a current level of 1,757€/month 
 (gross salary). Applications should include a CV, a brief description of 
 research interests and past research experience, copies of 
@@ -89,14 +89,14 @@ of at most two reference persons. The evaluation of candidates will
 begin on June 20, 2014 and will continue until the position is filled.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Further information can be obtained from Sophie.Barbe 
 (Sophie.Barbe@insa-toulouse.fr) and Thomas Schiex 
 (Thomas.Schiex@toulouse.inra.fr). An overview of the recent obtained 
 results can be found in the following references:
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	[1] A New Framework for Computational Protein Design through Cost 
 Function Network Optimization
 S. Traoré, D. Allouche, I. André, S. de Givry, G. Katsirelos, T. Schiex, 
@@ -104,7 +104,7 @@ S. Barbe, Bioinformatics, 2013.
 http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btt374
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	[2] Computational Protein Design as an Optimization Problem. D. 
 Allouche, J. Davies, S. de Givry, G. Katsirelos, T. Schiex, S. Traoré, 
 I. André, S. Barbe, S. Prestwich, B. O'Sullivan. Artificial Intelligence 
@@ -112,12 +112,12 @@ Journal, March 2014.
 http://www.sciencedirect.com/science/article/pii/S0004370214000332
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	and related publications on the biological and optimization sides can be 
 accessed below:
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	[A] Insights into lid movements of Burkholderia cepacia lipase inferred 
 from molecular dynamics simulations. S. Barbe, V. Lafaquiere, D. 
 Guieysse, P. Monsan, M. Remaud-Simeon, I. André. Proteins. 
@@ -125,13 +125,13 @@ Guieysse, P. Monsan, M. Remaud-Simeon, I. André. Proteins.
 http://www.ncbi.nlm.nih.gov/pubmed/23842814
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	[B] Soft Arc Consistency Revisited. MC. Cooper, S. de Givry, M. Sanchez, 
 T. Schiex, M. Zytnicki, T. Werner. Artificial Intelligence, 2010.
 http://www.sciencedirect.com/science/article/pii/S0004370210000147
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	Sophie Barbe
 Laboratoire d’Ingénierie des Systèmes Biologiques et des Procédés
 INSA de Toulouse (INRA 792 - CNRS 5504)
@@ -141,7 +141,7 @@ Sophie.Barbe@insa-toulouse.fr
 Phone: (+33) 5.61.55.99.63
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Thomas Schiex
 Laboratoire de Mathématiques et Informatiques Appliquées de Toulouse
 INRA de Toulouse (INRA 875)
@@ -157,7 +157,7 @@ Phone: (+33) 5.61.28.54.28
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	PhD position: Development of Computational Protein Design Tools
 
 We are looking for a highly motivated candidate for a three year PhD to 
@@ -165,39 +165,39 @@ work at the intersection of Discrete Optimization and Computational
 Structural Biology, on models and algorithms for Computation Protein 
 Design (CPD).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	CPD's aim is to rationally design and optimize proteins in 
 order to define, enhance, or modify the properties of enzymes to create 
 new bio-catalysts.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	These may have important uses in the synthesis of 
 other valuable molecules (food, drugs, cosmetics...) or as crucial 
 actors in renewable bio-energy processes.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	As proteins, these enzymes are 
 also eco-friendly (degradable, usable at ambient pression/temperature).
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Various algorithms and models have already been defined to optimize 
 protein designs, with different targets but all are faced with the huge 
 discrete space defined by protein sequences and their 3D structures, 
 defining NP-hard problems.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The work will take place in an ongoing 
 project involving a team of structural biologists specialized in 
 molecular modeling from LISBP (INRA, CNRS, Toulouse) and computer 
 scientists specialized in discrete optimization from INRA, Toulouse.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Together, we have recently shown that recent discrete exact optimization 
 techniques introduced to solve Weighted Constraint Satisfaction problems 
 (or Cost Function Networks) could speed-up existing exact approaches to 
 CPD by several orders of magnitude [1,2].
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The aim of the PhD will be to 
 bring these improvements to a new level by tackling more complex protein 
 design models, incorporating local or global backbone flexibility as 
@@ -206,11 +206,11 @@ stability and affinity, positive and negative design targets, with an
 ultimate practical goal of producing an ensemble of sequences to test 
 for activity.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	A computing cluster with thousands of cores can be 
 accessed at INRA Toulouse.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Duties and eligibility: Motivated candidates with an academic degree at 
 the Masters level in either
 
@@ -220,63 +220,63 @@ applications in Biology are invited to apply for this position or
 - Structural Bioinformatics/Molecular Modeling of proteins with a strong 
 taste for algorithms, programming and mathematics.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	A strong interest in both Computer Science and Structural Bioinformatics 
 is absolutely required.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Because of the interdisciplinary nature of the 
 project, candidates will be evaluated on a case-by-case basis and 
 interested candidates with a background in bioinformatics with an 
 emphasis in algorithms will also be considered.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	The work will include 
 algorithm design, implementation and testing on actual protein designs, 
 protein flexibility modeling as well as preparation of protein designs 
 by different methods and writing of research papers.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Excellent 
 programming skills, ideally in efficient compiled languages such as 
 C/C++, will be extremely beneficial.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	A good knowledge of spoken and 
 written English is a highly valuable asset.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	A good knowledge of spoken 
 French is also appreciated.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	If needed, training can be provided.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	A PhD grant is provided for 3 years, at a current level of 1,757€/month 
 (gross salary).
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Applications should include a CV, a brief description of 
 research interests and past research experience, copies of 
 exam-certificates and grades, a copy of your Master’s thesis (or a 
 summary) and a cover letter motivating why you are interested in the 
 position.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	The candidates are encouraged to provide contact information 
 of at most two reference persons.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	The evaluation of candidates will 
 begin on June 20, 2014 and will continue until the position is filled.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Further information can be obtained from Sophie.Barbe 
 (Sophie.Barbe@insa-toulouse.fr) and Thomas Schiex 
 (Thomas.Schiex@toulouse.inra.fr).
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	An overview of the recent obtained 
 results can be found in the following references:
 
@@ -288,12 +288,12 @@ http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btt374
 
 [2] Computational Protein Design as an Optimization Problem.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	D. 
 Allouche, J. Davies, S. de Givry, G. Katsirelos, T. Schiex, S. Traoré, 
 I. André, S. Barbe, S. Prestwich, B. O'Sullivan.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	Artificial Intelligence 
 Journal, March 2014.
 http://www.sciencedirect.com/science/article/pii/S0004370214000332
@@ -304,27 +304,27 @@ accessed below:
 [A] Insights into lid movements of Burkholderia cepacia lipase inferred 
 from molecular dynamics simulations.
 ==========================================
-La phrase 26 est en : FRA
+La phrase 26 est en : french
 	S. Barbe, V. Lafaquiere, D. 
 Guieysse, P. Monsan, M. Remaud-Simeon, I. André.
 ==========================================
-La phrase 27 est en : FRA
+La phrase 27 est en : french
 	Proteins.
 ==========================================
-La phrase 28 est en : ENG
+La phrase 28 est en : english
 	77(3):509-523, 2009.
 http://www.ncbi.nlm.nih.gov/pubmed/23842814
 
 [B] Soft Arc Consistency Revisited.
 ==========================================
-La phrase 29 est en : ENG
+La phrase 29 est en : english
 	MC.
 ==========================================
-La phrase 30 est en : ENG
+La phrase 30 est en : english
 	Cooper, S. de Givry, M. Sanchez, 
 T. Schiex, M. Zytnicki, T. Werner.
 ==========================================
-La phrase 31 est en : FRA
+La phrase 31 est en : english
 	Artificial Intelligence, 2010.
 http://www.sciencedirect.com/science/article/pii/S0004370210000147
 

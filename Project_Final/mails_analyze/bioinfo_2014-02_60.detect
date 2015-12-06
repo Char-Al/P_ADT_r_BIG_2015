@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_60" est globalement en : FRA
-[('ENG', 0.29995147721386745), ('FRA', 0.5310602728064487)]
+Le mail "bioinfo_2014-02_60" est globalement en : french
+[('french', 0.5862700731983114), ('english', 2.014793360924087)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDD autre] Senior Bioanalyst / computational biologist
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Senior Bioanalyst / computational biologist
 Type de poste : CDD autre
 Durée du poste : 12 à 18 mois
@@ -25,7 +25,7 @@ Email du contact : job@genosplice.com
 Laboratoire : GenoSplice
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/senior-bioanalyst-computational-biologist
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/senior-bioanalyst-computational-biologist
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Senior Bioanalyst / computational biologist

@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-06_10" est globalement en : FRA
-[('FRA', 0.33840291308400866), ('ENG', 0.48137773607265383)]
+Le mail "bioinfo_2014-06_10" est globalement en : french
+[('french', 0.0792508260829458), ('english', 1.7447738538495106)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Master Bioinformatique de Rouen - candidatures
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Les candidatures au Master 1 de BioInforMatique de l'université de Rouen 
 - Normandie Université sont ouvertes jusqu'au 30 juin 2014.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Ce master est ouvert aux étudiants titulaires d'une licence de biologie, 
 d'informatique ou de mathématiques.
 Il accueille aussi des salariés en reprise d'études, en reconversion ou 
@@ -29,12 +29,12 @@ biostatisticiens, destinés à travailler à l'interface des sciences du
 vivant, de l'informatique et des mathématiques/statistiques.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Les dossiers de candidatures et toutes les informations utiles sont 
 disponibles sur le site masterbioinfo.formations.univ-rouen.fr
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Contact : master.bioinfo@univ-rouen.fr
 
 
@@ -43,29 +43,29 @@ Le paragraphe 4 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Les candidatures au Master 1 de BioInforMatique de l'université de Rouen 
 - Normandie Université sont ouvertes jusqu'au 30 juin 2014.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Ce master est ouvert aux étudiants titulaires d'une licence de biologie, 
 d'informatique ou de mathématiques.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Il accueille aussi des salariés en reprise d'études, en reconversion ou 
 demandeurs d'emploi.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	La formation s'organise en trois ans dont deux années en alternance et 
 apprentissage en master 2.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Il forme des futurs doctorants et des ingénieurs bioinformaticiens, 
 biostatisticiens, destinés à travailler à l'interface des sciences du 
 vivant, de l'informatique et des mathématiques/statistiques.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Les dossiers de candidatures et toutes les informations utiles sont 
 disponibles sur le site masterbioinfo.formations.univ-rouen.fr
 

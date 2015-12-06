@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-02_86" est globalement en : FRA
-[('FRA', 0.8892631493267392), ('ENG', 1.1959126092118715)]
+Le mail "bioinfo_2014-02_86" est globalement en : french
+[('french', 0.03923757484216984), ('english', 3.283482258359751)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Offre Poste Ingénieur Bioinformatique NGS Tours
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 Pourriez vous diffuser l'annonce d'offre d'emploi ci-dessous sur le réseau de la SFBI. Je vous remercie.
 Cordialement
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Patrick Vourc'h, MCU-PH
 Service de Biochimie et Biologie Moléculaire, UTTIL, CHRU de Tours
 2 Bd Tonnellé, 37032 Tours, tel: 02 34 37 89 10
@@ -25,41 +25,41 @@ UMR INSERM U930, Université François-Rabelais, Tours
 10 Bd Tonnellé, 37044 Tours
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	-----------------------------------------------
 L’Unité 930 de l’INSERM recrute
 un INGENIEUR BIOINFORMATICIEN (NGS) – (H/F)
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Lieu: Tours, Site Tonnellé (Faculté de Médecine)
 Début: avril 2014
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Vous travaillerez dans le Département de Génomique (PPF ASB, sité Tonnellé) de l’Université François Rabelais de Tours qui est une plateforme mutualisant des appareils et des compétences en Génétique, Génomique et Transcriptomique au service des Equipes de l'Université François Rabelais, des équipes des grands organismes (INSERM, CNRS, INRA, CEA), du CHRU de Tours et du secteur privé.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Le Département dispose de la technologie de séquençage haut-débit NGS Illumina (MiSeq, GAIIx). Vous devrez mettre en œuvre et développer des approches bioinformatiques pour l’analyse de données générées par reséquençage ciblé (principalement). Vous participerez aussi à la construction de projets, à la mise en place de pipelines d’analyse et à la veille technologique autour du NGS. 
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Le poste est proposé dans le cadre du Projet Européen STRENGTH (JPND), « Survival, Trigger and Risk, Epigenetic, eNvironnemental and Genetic Targets for motor neuron Health ». Ce poste en CDD de 24 mois renouvelable 12 mois, est à pourvoir dès début avril 2014.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Le(la) candidat(e), titulaire d'au moins un diplôme d’ingénieur, une licence ou un master devra :
 • Maîtriser la gestion et le traitement de données bioinformatiques (UNIX/Linux)
 • Avoir une expérience dans l'analyse de données NGS (Illumina de préférence)
 • Faire preuve d’autonomie et aimer le travail en équipe.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Les candidatures (CV détaillé, lettre de motivation) sont à adresser par email à : vourch@med.univ-tours.fr
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Dr P. VOURC’H
 Département de Génomique PPF ASB, Université François Rabelais
 INSERM U930, Faculté de Médecine
@@ -72,14 +72,14 @@ INSERM U930, Faculté de Médecine
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : french
 	Bonjour,
 Pourriez vous diffuser l'annonce d'offre d'emploi ci-dessous sur le réseau de la SFBI.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Je vous remercie.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Cordialement
 
 Patrick Vourc'h, MCU-PH
@@ -98,28 +98,28 @@ Début: avril 2014
 
 Vous travaillerez dans le Département de Génomique (PPF ASB, sité Tonnellé) de l’Université François Rabelais de Tours qui est une plateforme mutualisant des appareils et des compétences en Génétique, Génomique et Transcriptomique au service des Equipes de l'Université François Rabelais, des équipes des grands organismes (INSERM, CNRS, INRA, CEA), du CHRU de Tours et du secteur privé.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Le Département dispose de la technologie de séquençage haut-débit NGS Illumina (MiSeq, GAIIx).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Vous devrez mettre en œuvre et développer des approches bioinformatiques pour l’analyse de données générées par reséquençage ciblé (principalement).
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Vous participerez aussi à la construction de projets, à la mise en place de pipelines d’analyse et à la veille technologique autour du NGS.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Le poste est proposé dans le cadre du Projet Européen STRENGTH (JPND), « Survival, Trigger and Risk, Epigenetic, eNvironnemental and Genetic Targets for motor neuron Health ».
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Ce poste en CDD de 24 mois renouvelable 12 mois, est à pourvoir dès début avril 2014.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Le(la) candidat(e), titulaire d'au moins un diplôme d’ingénieur, une licence ou un master devra :
 • Maîtriser la gestion et le traitement de données bioinformatiques (UNIX/Linux)
 • Avoir une expérience dans l'analyse de données NGS (Illumina de préférence)
 • Faire preuve d’autonomie et aimer le travail en équipe.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Les candidatures (CV détaillé, lettre de motivation) sont à adresser par email à : vourch@med.univ-tours.fr
 
 Dr P. VOURC’H

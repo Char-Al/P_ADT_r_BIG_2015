@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_68" est globalement en : FRA
-[('FRA', 0.20592472522162078), ('ENG', 1.5653340343574726)]
+Le mail "bioinfo_2014-10_68" est globalement en : french
+[('french', 0.43542377364820756), ('english', 0.7934819606237402)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Méthode automatique basée sur   une approche MKL pour la prédiction des ARNs   non-codants
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Méthode automatique basée sur une approche MKL pour la  
 prédiction des ARNs non-codants
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : tahi@ibisc.univ-evry.fr
 Laboratoire : URGV et IBISC
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m%C3%A9thode-automatique-bas%C3%A9e-sur-une-approche-mkl-pour-la-pr%C3%A9diction-des-arns-non-codants
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m%C3%A9thode-automatique-bas%C3%A9e-sur-une-approche-
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Méthode automatique basée sur une approche MKL pour la  

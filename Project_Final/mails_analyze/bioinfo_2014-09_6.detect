@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_6" est globalement en : FRA
-[('FRA', 0.4814085197949356), ('ENG', 0.4904037093085366)]
+Le mail "bioinfo_2014-09_6" est globalement en : french
+[('french', 0.44195251167499583), ('english', 0.7877651771563573)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] RESPONSABLE DEPARTEMENT BIO-INFORMATIQUE
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : RESPONSABLE DEPARTEMENT BIO-INFORMATIQUE
 Type de poste : Post-doc / IR
 Durée du poste : indéterminée
@@ -25,7 +25,7 @@ Email du contact : christophe.castel@dimensionrh.fr
 Laboratoire : Confidentiel - l'information sera donnée au premier contact
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/responsable-departement-bio-informatique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/responsable-departement-bio-informatique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : RESPONSABLE DEPARTEMENT BIO-INFORMATIQUE

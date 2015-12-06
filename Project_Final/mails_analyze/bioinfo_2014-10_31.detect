@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-10_31" est globalement en : FRA
-[('FRA', 0.8022745484523405), ('ENG', 109.52047702405515)]
+Le mail "bioinfo_2014-10_31" est globalement en : french
+[('french', 0.5769000430329599), ('english', 1.4992602677073328)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Open Access Journal à $2000 l'article
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 La liste bioinfo est depuis son origine, en octobre 1992, accessible à 
 toutes et tous gratuitement.
@@ -31,7 +31,7 @@ PS:
 3. http://www.nature.com/news/specials/scipublishing/index.html
 
 ==========================================
-Le paragraphe 2 est en : n
+Le paragraphe 2 est en : non detect
 	
 
 ==========================================
@@ -39,25 +39,25 @@ Le paragraphe 2 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 La liste bioinfo est depuis son origine, en octobre 1992, accessible à 
 toutes et tous gratuitement.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Nous n'avons jamais fait payer les annonces publiées par les entreprises 
 privées ou bien évidemment par les structures de recherche publiques.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Il ne me paraît pas raisonnable de faire paraître des annonces pour des 
 journaux open access, des livres open access avec des coûts de 
 participation par article de l'ordre de $2000 sachant que nous n'avons 
 (en tout cas moi) jamais été rétribué pour le travail de rapporteur.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Ce type de mél ne sera donc pas diffusé sur la liste.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Bien cordialement,
 (pour la modératrice et les modérateurs qui sont, je l'espère, d'accord) 
 Laurent

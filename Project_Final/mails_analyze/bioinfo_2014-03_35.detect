@@ -1,26 +1,26 @@
-Le mail "bioinfo_2014-03_35" est globalement en : ENG
-[('ENG', 0.26590873476267246), ('FRA', 2.0616401847425503)]
+Le mail "bioinfo_2014-03_35" est globalement en : english
+[('english', 0.20124783464415388), ('french', 1.1991900667730895)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Fwd: Please help us find dynamic and knowledgeable individuals who
  will coordinate training in the UK and across Europe.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Vous trouverez ci-joint deux propositions de postes pour ELIXIR.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Dear All,
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Please can you help us to define applicants for these two posts that lie
 at the heart of the ELIXIR-UK project. Obtaining the best people for
 these posts is absolutely essential for the success of the
@@ -28,61 +28,61 @@ training-centred programme of ELIXIR-UK and we hope that they will
 contribute greatly to coordinating the training agenda across Europe too.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	We are committed in ELIXIR-UK to find the best applicants for these
 posts.  We will consider applicants who might bridge between our
 ELIXIR-UK partners by, for example, working remotely from the post’s
 host institution, i.e. Oxford.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Please do send this email on to anyone who might be interested in these
 posts, and feel free to Tweet and repost to Web Sites etc.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Training Coordinator for Research Science post:
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112514 
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	<https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112514>
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Training Outreach Manager post:
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112532 
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	<https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112532>
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	(Apologies for the cross-posting).
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Best wishes,
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Chris
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	PS Currently these are advertised in the OxUniv website, jobs.ac.uk,
 Nature Online, EURAXESS, and bioinformatics.org. We will also post to
 Goblet and will update the ELIXIR-UK website.
 
 ==========================================
-Le paragraphe 16 est en : n
+Le paragraphe 16 est en : non detect
 	
 
 ==========================================
@@ -90,38 +90,38 @@ Le paragraphe 16 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Vous trouverez ci-joint deux propositions de postes pour ELIXIR.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Dear All,
 
 Please can you help us to define applicants for these two posts that lie
 at the heart of the ELIXIR-UK project.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Obtaining the best people for
 these posts is absolutely essential for the success of the
 training-centred programme of ELIXIR-UK and we hope that they will
 contribute greatly to coordinating the training agenda across Europe too.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We are committed in ELIXIR-UK to find the best applicants for these
 posts.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	We will consider applicants who might bridge between our
 ELIXIR-UK partners by, for example, working remotely from the post’s
 host institution, i.e.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Oxford.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Please do send this email on to anyone who might be interested in these
 posts, and feel free to Tweet and repost to Web Sites etc.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Training Coordinator for Research Science post:
 
 https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112514 
@@ -136,7 +136,7 @@ https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p
 
 (Apologies for the cross-posting).
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Best wishes,
 
 Chris
@@ -144,7 +144,7 @@ Chris
 PS Currently these are advertised in the OxUniv website, jobs.ac.uk,
 Nature Online, EURAXESS, and bioinformatics.org.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	We will also post to
 Goblet and will update the ELIXIR-UK website.
 

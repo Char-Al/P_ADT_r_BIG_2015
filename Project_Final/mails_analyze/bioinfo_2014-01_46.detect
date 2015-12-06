@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_46" est globalement en : FRA
-[('ENG', 0.4440469328744954), ('FRA', 0.6854305884103902)]
+Le mail "bioinfo_2014-01_46" est globalement en : french
+[('french', 0.624544721445226), ('english', 0.8008949184661862)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-Doc in Neuroimaging-genetics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Post-Doc in Neuroimaging-genetics
 Type de poste : Post-doc / IR
 Durée du poste : 12+12 months
@@ -25,7 +25,7 @@ Email du contact : vincent.frouin@cea.fr
 Laboratoire : CEA-Saclay NeuroSpin
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-neuroimaging-genetics
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/post-doc-neuroimaging-genetics
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Post-Doc in Neuroimaging-genetics

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_70" est globalement en : FRA
-[('FRA', 0.43011601035111313), ('ENG', 5.048670262563656)]
+Le mail "bioinfo_2014-11_70" est globalement en : french
+[('french', 0.4589526700467737), ('english', 0.9285853280798508)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Programmation parallèle pour l  a sélectiongénomique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Programmation parallèle pour la sélection génomique
 Type de poste : Stage
 Durée du poste : 6 mois
@@ -25,7 +25,7 @@ Email du contact : vitaliy.feoktistov@limagrain.com
 Laboratoire : Centre de Recherche Limagrain Europe
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/programmation-parall%C3%A8le-pour-la-s%C3%A9lection-g%C3%A9nomique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/programmation-parall%C3%A8le-pour-la-s%C3%A9lection-g
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Programmation parallèle pour la sélection génomique

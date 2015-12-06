@@ -1,87 +1,87 @@
-Le mail "bioinfo_2014-04_4" est globalement en : FRA
-[('ENG', 0.45330236048707173), ('FRA', 0.7854819865986289)]
+Le mail "bioinfo_2014-04_4" est globalement en : french
+[('french', 0.1273593124234593), ('english', 0.8758079606748951)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Bioinformatics Summer School Angers'14
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Chers collègues, Chers étudiants,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Veuillez trouver à l’adresse suivante les programmes scientifiques des cinq écoles d’été de l’Université d’Angers qui se dérouleront du 30 juin au 12 juillet 2014, dont une est consacrée cette année à la bio-informatique:
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	http://summerschools.univ-angers.fr
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Chaque programme entièrement réalisé en anglais comprend des conférences par des chercheurs internationaux, des activités pratiques, des visites d'installations de recherche et d'entreprises de biotechnologie, ainsi qu'un programme social attractif. 
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Date limite d'inscription le 1er mai 2014. Le coût d'inscription pour 2 semaines couvre les frais de scolarité, l'hébergement, les repas, les excursions programmées et les activités parascolaires.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Venez rencontrer à Angers des étudiants internationaux qui partagent votre passion pour la Science! 
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Pour les organisateurs,
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	*****
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Dear Colleagues, Dear Students,
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Please find at the following address the summer programs of the University of Angers, France, in the field of health sciences and plant science which will be held from June 30th to July 12th 2014, including this year a Bioinformatics Summer School.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	http://summerschools.univ-angers.fr
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Our summer schools offer an unique opportunity for students from all over the world to enjoy Science in a beautiful environment.
 Each program entirely conducted in English includes conferences by international researchers, hands-on activities, visits of research facilities and biotech companies and an attractive social program.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Application deadline 1st May 2014. Registration cost for 2 weeks cover the tuition, lodging, lunches, scheduled excursions, and extracurricular activities.
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Come and meet in Angers international students who share your passion for Science!
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	For the organisers,
 
 ==========================================
-Le paragraphe 16 est en : n
+Le paragraphe 16 est en : non detect
 	*****
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	M. FERRE
 CHU Angers - CNRS 6214/INSERM 1083
 
 ==========================================
-Le paragraphe 18 est en : n
+Le paragraphe 18 est en : non detect
 	
 
 ==========================================
@@ -89,7 +89,7 @@ Le paragraphe 18 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Chers collègues, Chers étudiants,
 
 Veuillez trouver à l’adresse suivante les programmes scientifiques des cinq écoles d’été de l’Université d’Angers qui se dérouleront du 30 juin au 12 juillet 2014, dont une est consacrée cette année à la bio-informatique:
@@ -98,16 +98,16 @@ http://summerschools.univ-angers.fr
 
 Chaque programme entièrement réalisé en anglais comprend des conférences par des chercheurs internationaux, des activités pratiques, des visites d'installations de recherche et d'entreprises de biotechnologie, ainsi qu'un programme social attractif.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Date limite d'inscription le 1er mai 2014.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Le coût d'inscription pour 2 semaines couvre les frais de scolarité, l'hébergement, les repas, les excursions programmées et les activités parascolaires.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Venez rencontrer à Angers des étudiants internationaux qui partagent votre passion pour la Science!
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Pour les organisateurs,
 
 *****
@@ -116,24 +116,24 @@ Dear Colleagues, Dear Students,
 
 Please find at the following address the summer programs of the University of Angers, France, in the field of health sciences and plant science which will be held from June 30th to July 12th 2014, including this year a Bioinformatics Summer School.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	http://summerschools.univ-angers.fr
 
 Our summer schools offer an unique opportunity for students from all over the world to enjoy Science in a beautiful environment.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Each program entirely conducted in English includes conferences by international researchers, hands-on activities, visits of research facilities and biotech companies and an attractive social program.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Application deadline 1st May 2014.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Registration cost for 2 weeks cover the tuition, lodging, lunches, scheduled excursions, and extracurricular activities.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Come and meet in Angers international students who share your passion for Science!
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	For the organisers,
 
 *****

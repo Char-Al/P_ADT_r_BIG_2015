@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_41" est globalement en : FRA
-[('FRA', 0.41175842291521936), ('ENG', 2.2589456832194266)]
+Le mail "bioinfo_2014-11_41" est globalement en : french
+[('french', 0.641976642176578), ('english', 1.6278923605840387)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Implémentation de base   de données
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Implémentation de base de données
 Type de poste : Post-doc / IR
 Durée du poste : 1 an
@@ -25,7 +25,7 @@ Email du contact :  alicia.sanchez-mazas@unige.ch
 Laboratoire : Unité d'anthropologie - Dep. Génétique et évolution
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/impl%C3%A9mentation-de-base-de-donn%C3%A9es
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/impl%C3%A9mentation-de-base-de-donn%C3%A9es
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Implémentation de base de données
@@ -46,7 +46,7 @@ Nom du contact : Alicia Sanchez-Mazas
 Email du contact :  alicia.sanchez-mazas@unige.ch
 Laboratoire : Unité d'anthropologie - Dep.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Génétique et évolution
 
 Voir la description complète du poste sur  

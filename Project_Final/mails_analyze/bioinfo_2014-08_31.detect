@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-08_31" est globalement en : FRA
-[('FRA', 0.13904843621912139), ('ENG', 2.6295902611784356)]
+Le mail "bioinfo_2014-08_31" est globalement en : french
+[('french', 0.21549340351865826), ('english', 1.097838971139072)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Approche innovante du pilotage   de systèmesd’imagerie biologique : Dévelop  pement d’un prototype d’interface utilisate  ur et de codes embarquésgénérés par modél  isation en machine d’états .
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Approche innovante du pilotage de systèmes d’imagerie  
 biologique : Développement d’un prototype d’interface utilisateur et de  
 codes embarqués générés par modélisation en machine d’états.
@@ -28,7 +28,7 @@ Laboratoire : IGDR (Institute of Genetics and Developmental biology of
 Rennes) CNRS UMR 6290 - Faculté de Médecine (Univ. Rennes 1)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/approche-innovante-du-pilotage-de-syst%C3%A8mes-d%E2%80%99imagerie-biologique-d%C3%A9veloppement-d%E2%80%99un-prototyp
 
@@ -38,14 +38,14 @@ http://www.sfbi.fr/content/approche-innovante-du-pilotage-de-syst%C3%A8mes-d%E2%
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Approche innovante du pilotage de systèmes d’imagerie  
 biologique : Développement d’un prototype d’interface utilisateur et de  
 codes embarqués générés par modélisation en machine d’états.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Type de poste : Stage
 Durée du poste : 6 mois
 Ville : Rennes
@@ -54,7 +54,7 @@ Email du contact : jacques.pecreaux@univ-rennes1.fr
 Laboratoire : IGDR (Institute of Genetics and Developmental biology of  
 Rennes) CNRS UMR 6290 - Faculté de Médecine (Univ.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : english
 	Rennes 1)
 
 Voir la description complète du poste sur  

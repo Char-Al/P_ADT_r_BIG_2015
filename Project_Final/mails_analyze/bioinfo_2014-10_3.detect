@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_3" est globalement en : FRA
-[('FRA', 1.007376517070782), ('ENG', 1.1260870432847814)]
+Le mail "bioinfo_2014-10_3" est globalement en : french
+[('french', 0.7826768376346356), ('english', 1.0239379872244394)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 Bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : M2 Bioinformatique
 Type de poste : Stage
 Durée du poste : 6 mois
@@ -25,7 +25,7 @@ Email du contact : pierrick.gautier@bayer.com
 Laboratoire : Bayer CropScience
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-bioinformatique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/m2-bioinformatique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 Bioinformatique

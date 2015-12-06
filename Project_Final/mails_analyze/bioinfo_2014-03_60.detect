@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_60" est globalement en : FRA
-[('FRA', 0.7381703373795256), ('ENG', 1.1566569269342082)]
+Le mail "bioinfo_2014-03_60" est globalement en : french
+[('french', 0.5864883462482156), ('english', 0.8775815496178341)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Bioinformaticien(ne)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformaticien(ne)
 Type de poste : CDD Ingénieur
 Durée du poste : 14 mois
@@ -25,7 +25,7 @@ Email du contact : guillaume.meurice@igr.fr
 Laboratoire : Plateforme de Bioinformatique, Institut Gustave Roussy
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/bioinformaticienne-1
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/bioinformaticienne-1
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Bioinformaticien(ne)

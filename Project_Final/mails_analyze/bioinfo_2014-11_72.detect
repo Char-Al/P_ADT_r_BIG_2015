@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_72" est globalement en : ENG
-[('ENG', 0.3501844829262241), ('FRA', 0.8875295234267631)]
+Le mail "bioinfo_2014-11_72" est globalement en : english (conflict)
+[('english', 0.7090726597459575), ('french', 1.0748948457847172)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] protein family knowledge and predictions
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : protein family knowledge and predictions
 Type de poste : Post-doc / IR
 Durée du poste : 12 mois
@@ -25,7 +25,7 @@ Email du contact : rh@isb-sib.ch
 Laboratoire : SIB Swiss Institute of Bioinformatics, CALIPHO group
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/protein-family-knowledge-and-predictions
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/protein-family-knowledge-and-predictions
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : protein family knowledge and predictions

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_61" est globalement en : FRA
-[('FRA', 0.8101446662133864), ('ENG', 4.691466622812518)]
+Le mail "bioinfo_2014-12_61" est globalement en : french
+[('french', 0.48647469546388605), ('english', 0.9400928989315016)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] projet ANR – ARCHIPEP   -  Molecular Modelling of the Structure and Sp  ectroscopic properties of peptoïds based objec  ts.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : projet ANR – ARCHIPEP -  Molecular Modelling of the  
 Structure and Spectroscopic properties of peptoïds based objects.
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact : franck.jolibois@univ-tlse3.fr
 Laboratoire : LPCNO-Toulouse / ICBMS-Lyon
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/projet-anr-%E2%80%93-archipep-molecular-modelling-structure-and-spectroscopic-properties-pepto%C3%AFds-ba
 
@@ -36,13 +36,13 @@ http://www.sfbi.fr/content/projet-anr-%E2%80%93-archipep-molecular-modelling-str
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : projet ANR – ARCHIPEP -  Molecular Modelling of the  
 Structure and Spectroscopic properties of peptoïds based objects.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : english
 	Type de poste : Post-doc / IR
 Durée du poste : 15 mois
 Ville : Toulouse / Lyon

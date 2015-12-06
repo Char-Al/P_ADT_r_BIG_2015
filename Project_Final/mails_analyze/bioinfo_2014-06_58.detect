@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-06_58" est globalement en : FRA
-[('ENG', 0.27407595574842053), ('FRA', 0.36920164931388194)]
+Le mail "bioinfo_2014-06_58" est globalement en : french
+[('french', 0.5601679748348741), ('english', 1.0760018068992068)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Environmental demogenetics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Environmental demogenetics
 Type de poste : Post-doc / IR
 Durée du poste : 2 ans
@@ -26,12 +26,12 @@ Email du contact : dupas@legs.cnrs-gif.fr
 Laboratoire : Evolution Génomes et Spéciation (CNRS/IRD)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/environmental-demogenetics
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

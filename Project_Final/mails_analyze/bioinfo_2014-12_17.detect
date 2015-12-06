@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_17" est globalement en : FRA
-[('FRA', 0.2287349148260618), ('ENG', 2.8443503347863075)]
+Le mail "bioinfo_2014-12_17" est globalement en : french
+[('french', 0.4635077753657166), ('english', 1.0860701827352903)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Analyse génomique int  égrée des tumeurs endocrines
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Analyse génomique intégrée des tumeurs endocrines
 Type de poste : Post-doc / IR
 Durée du poste : 12 mois
@@ -25,7 +25,7 @@ Email du contact : guillaume.assie@cch.aphp.fr
 Laboratoire : Institut Cochin
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/analyse-g%C3%A9nomique-int%C3%A9gr%C3%A9e-des-tumeurs-endocrines
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/analyse-g%C3%A9nomique-int%C3%A9gr%C3%A9e-des-tumeurs
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Analyse génomique intégrée des tumeurs endocrines

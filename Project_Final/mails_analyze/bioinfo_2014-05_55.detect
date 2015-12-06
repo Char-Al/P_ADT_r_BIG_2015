@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-05_55" est globalement en : FRA
-[('FRA', 0.5508705084486458), ('ENG', 0.7319441993572817)]
+Le mail "bioinfo_2014-05_55" est globalement en : french
+[('french', 0.5381697676650711), ('english', 1.0219777215008867)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] POST-DOC Génome , structure et fonction
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : POST-DOC Génome, structure et fonction
 Type de poste : Post-doc / IR
 Durée du poste : 2 ans
@@ -27,12 +27,12 @@ Laboratoire : Génétique et Biologie des Sarcomes - INSERMU916 - Institut
 Bergonié
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/post-doc-g%C3%A9nome-structure-et-fonction
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

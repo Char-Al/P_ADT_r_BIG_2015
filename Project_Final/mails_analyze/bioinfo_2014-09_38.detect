@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_38" est globalement en : ENG
-[('FRA', 1.001430639028659), ('ENG', 1.0254456125842126)]
+Le mail "bioinfo_2014-09_38" est globalement en : english (conflict)
+[('english', 0.9955014801192293), ('french', 1.176149212766435)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Java Programmer
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Java Programmer
 Type de poste : Post-doc / IR
 Durée du poste : 24 mois
@@ -25,7 +25,7 @@ Email du contact : simon.andrews@babraham.ac.uk
 Laboratoire : Babraham Institute
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/java-programmer
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/java-programmer
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Java Programmer

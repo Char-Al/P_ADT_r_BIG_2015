@@ -1,78 +1,78 @@
-Le mail "bioinfo_2014-01_5" est globalement en : FRA
-[('FRA', 0.7387096834136812), ('ENG', 0.773995574005995)]
+Le mail "bioinfo_2014-01_5" est globalement en : french (conflict)
+[('french', 0.24562534249352133), ('english', 0.5613851930689918)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Colloque "Indexing scientific big data" - registration < 9 jan
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Hello, Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	_French version: _
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	nous vous convions au
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	  Colloque "Indexing for scientific big data"
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	qui aura lieu le 15 janvier 2014 au siège du CNRS à Paris.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Durant cette journée, nous échangerons sur les méthodes et enjeux de 
 l'indexation de grands volumes de données (textes, génomes, images, 
 données multimedia, ontologies) autour de 6 exposés.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	L'inscription est obligatoire pour accèder au siège du CNRS (avant *9 
 janvier 2014)*. Le programme détaillé et le lien d'inscription sont 
 disponibles à
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	http://www.cnrs.fr/mi/spip.php?article371
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	La participation est gratuite.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	bien cordialement
 Eric Rivals pour le comité d'organisation
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	_English version_
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	You are cordially invited to participate to the
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	  Colloquium "Indexing for scientific big data"
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	that will take place on the 15th of January 2014 at the CNRS in Paris.
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	This colloquium represents a unique forum to boost exchanges about 
 methods and prospects of indexing for large data volume (texts, genomes, 
 images/multimedia data, ontologies).
@@ -80,22 +80,22 @@ and an opportunity to hear 6 introductory talks on indexing and its
 applications.
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Note that the registration **is compulsory, open until *9 janvier 2014*, 
 and grants the access to the CNRS auditorium. A detailed program and the 
 link for free registration are available at:
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	http://www.cnrs.fr/mi/spip.php?article371
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	best regards,
 Eric Rivals for the organisation committee
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
 CNRS Research Director & Head of GDR Bioinformatique Moléculaire
@@ -106,7 +106,7 @@ Fax. (33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.u-psud.fr
 
 ==========================================
-Le paragraphe 20 est en : n
+Le paragraphe 20 est en : non detect
 	
 
 ==========================================
@@ -114,7 +114,7 @@ Le paragraphe 20 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Hello, Bonjour,
 
 _French version: _
@@ -126,16 +126,16 @@ nous vous convions au
 
 qui aura lieu le 15 janvier 2014 au siège du CNRS à Paris.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Durant cette journée, nous échangerons sur les méthodes et enjeux de 
 l'indexation de grands volumes de données (textes, génomes, images, 
 données multimedia, ontologies) autour de 6 exposés.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	L'inscription est obligatoire pour accèder au siège du CNRS (avant *9 
 janvier 2014)*.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Le programme détaillé et le lien d'inscription sont 
 disponibles à
 
@@ -143,7 +143,7 @@ http://www.cnrs.fr/mi/spip.php?article371
 
 La participation est gratuite.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	bien cordialement
 Eric Rivals pour le comité d'organisation
 
@@ -156,20 +156,20 @@ You are cordially invited to participate to the
 
 that will take place on the 15th of January 2014 at the CNRS in Paris.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	This colloquium represents a unique forum to boost exchanges about 
 methods and prospects of indexing for large data volume (texts, genomes, 
 images/multimedia data, ontologies).
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	and an opportunity to hear 6 introductory talks on indexing and its 
 applications.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Note that the registration **is compulsory, open until *9 janvier 2014*, 
 and grants the access to the CNRS auditorium.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	A detailed program and the 
 link for free registration are available at:
 
@@ -185,11 +185,11 @@ LIRMM - UMR 5506 - CC 06 001
 95 Rue de la Galéra - 34095 Montpellier cedex 5 FRANCE
 Tel.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	(33 or 0 from France) 4 67 41 86 64
 Fax.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	(33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.u-psud.fr
 

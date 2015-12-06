@@ -1,27 +1,27 @@
-Le mail "bioinfo_2014-09_5" est globalement en : FRA
-[('ENG', 0.5955131671340318), ('FRA', 1.5253440814780332)]
+Le mail "bioinfo_2014-09_5" est globalement en : french
+[('french', 0.10042059779447741), ('english', 0.14623900656768027)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Formation phylogenie
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Nous organisons une formation en phylogenie moleculaire a Montpellier 
 (campus du CNRS route de Mende) sur 5 jours (du 13 au 17 octobre):
 https://cnrsformation.cnrs.fr/stage.php?stage=14134&axe=62
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Objectifs:
 1. acquerir des connaissances theoriques et pratiques en phylogenie 
 moleculaire
@@ -30,7 +30,7 @@ moleculaire
 des programmes de phylogenie
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Les inscriptions se font sur le site web de la formation ou aupres de 
 CNRS Formation.
 Lors de votre inscription, vous recevrez un questionnaire qui nous 
@@ -38,14 +38,14 @@ permettra d'evaluer votre niveau. Merci de nous le retourner directement
 (lefort@lirmm.fr gascuel@lirmm.fr).
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Pour toute information complementaire (public vise, niveau, cout, ...), 
 merci de contacter:
 - Olivier Gascuel (gascuel@lirmm.fr)
 - Vincent Lefort (lefort@lirmm.fr)
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	-- 
 Vincent Lefort
 CNRS - LIRMM
@@ -55,7 +55,7 @@ Tel: +33 4 67 14 97 62
 http://www.lirmm.fr/~lefort/
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	
 
 ==========================================
@@ -63,7 +63,7 @@ Le paragraphe 7 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Nous organisons une formation en phylogenie moleculaire a Montpellier 
@@ -80,15 +80,15 @@ des programmes de phylogenie
 Les inscriptions se font sur le site web de la formation ou aupres de 
 CNRS Formation.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Lors de votre inscription, vous recevrez un questionnaire qui nous 
 permettra d'evaluer votre niveau.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Merci de nous le retourner directement 
 (lefort@lirmm.fr gascuel@lirmm.fr).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Pour toute information complementaire (public vise, niveau, cout, ...), 
 merci de contacter:
 - Olivier Gascuel (gascuel@lirmm.fr)

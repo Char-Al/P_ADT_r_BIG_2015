@@ -1,67 +1,67 @@
-Le mail "bioinfo_2014-09_63" est globalement en : ENG
-[('ENG', 0.3027324974266761), ('FRA', 0.35997222633316117)]
+Le mail "bioinfo_2014-09_63" est globalement en : english
+[('english', 0.021132402972132935), ('french', 0.45701966393630095)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Call for papers: "Metagenomics profiling : advances in algorithmic approaches and biomedical applications"
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear colleagues,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Let me kindly inform you that Frontiers in Bioengineering and Biotechnology is now welcoming the submission of contributions to a Research Topic titled "Metagenomics profiling : advances in algorithmic approaches and biomedical applications" (http://journal.frontiersin.org/ResearchTopic/3144)
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Abstract submission deadline: 27 Feb 2015
 Article submission deadline: 29 May 2015
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Call for Papers
 ---------------------
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The microbiome can be actually considered as a human organ, with its own physiology and pathology and a collective health that can be damaged when its population structure is altered. The advent of metagenomics using high-throughput sequencing has revolutionized the analysis of the microbiome, but also the nature of its related discoveries. For example, many more diseases can now be attributed to viral agents that infect commensals bacteria and the description of these viromes is making huge progresses. Moreover, the eukaryotic component of the human microbiome remains relatively unexplored, although there is feeling that it can deeply influence pathological and physiological states as well as the ecological and evolutionary principles that govern the microbiota. There are likely many complex interactions between virus, bacterial, archaea, eukaryotic microbiota that influence human health. 
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	In this Frontiers in Bioinformatics and Computational Biology Research Topic on Metagenomics, we will discuss the latest advances in bioinformatics algorithms and computational biology case studies that are currently making the state of art of this discipline. 
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Bioinformatics analysis typically aims at assessing the composition of samples by identifying, classifying and quantifying their biological diversity, which is a complex task. Since the available taxonomies can differ in both the topology and the adopted names, there is the need to perform assignments not only relying on the widely used NCBI taxonomy, but also on other specific reference taxonomic databases. For example, for the 16S common used database are RDP (which contains also fungal 28S and 5.8S information) and Greengenes, while for the 18S and 28S a common choice is adopt SILVA (which contains also 16S information), and for the ITS the most commonly adopted database is ITSoneDB. Moreover, in the case of viruses, absence of such reference taxonomies as well as certain mimetism of the host sequence that is typical of viruses, makes their taxonomic classification particularly challenging from the computational point of view.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	What experimental approaches and analysis pipelines exist for metagenomics? What are the advantages of performing selective analysis of rRNA and when is it better to sequence everything? How is it possible to achieve accurate estimations of the relative abundance of each strains in a sample? How can we annotate or understand the functions of new viral genes? How do we determine the role of a newly discovered bacteria in higher order processes? How can the metagenomic approach be implemented in a clinical setting? What does the composition of a host-associated viral community tell us about the health status of its host? How stable is the community composition across time and space? And of course: what have we already discovered by using metagenomics? 
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	For this Research Topic, we want to collect works ranging from algorithmic methods for metagenomics data analysis to specific microbiome sequencing studies. For this reason, we solicit original research papers from both experimental and bioinformatics groups. Moreover, we will also reserve some space for reviews and perspectives that address the questions listed above or other hot topics from the frontiers of the metagenomics field.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Topic Editors
 -------------------
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Stefano Beretta, Istituto di Tecnologie Biomediche - CNR, Italy
 Ivan Merelli, Institute for Biomedical Technologies, Milan, Italy
 Macha Nikolski, CNRS (Centre de Recherche Scientifique), Bordeaux, France
 Gabriel Valiente, Technical University of Catalonia, Spain
 
 ==========================================
-Le paragraphe 12 est en : n
+Le paragraphe 12 est en : non detect
 	
 
 ==========================================
@@ -69,7 +69,7 @@ Le paragraphe 12 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear colleagues,
 
 Let me kindly inform you that Frontiers in Bioengineering and Biotechnology is now welcoming the submission of contributions to a Research Topic titled "Metagenomics profiling : advances in algorithmic approaches and biomedical applications" (http://journal.frontiersin.org/ResearchTopic/3144)
@@ -82,70 +82,70 @@ Call for Papers
 
 The microbiome can be actually considered as a human organ, with its own physiology and pathology and a collective health that can be damaged when its population structure is altered.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The advent of metagenomics using high-throughput sequencing has revolutionized the analysis of the microbiome, but also the nature of its related discoveries.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	For example, many more diseases can now be attributed to viral agents that infect commensals bacteria and the description of these viromes is making huge progresses.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Moreover, the eukaryotic component of the human microbiome remains relatively unexplored, although there is feeling that it can deeply influence pathological and physiological states as well as the ecological and evolutionary principles that govern the microbiota.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	There are likely many complex interactions between virus, bacterial, archaea, eukaryotic microbiota that influence human health.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	In this Frontiers in Bioinformatics and Computational Biology Research Topic on Metagenomics, we will discuss the latest advances in bioinformatics algorithms and computational biology case studies that are currently making the state of art of this discipline.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Bioinformatics analysis typically aims at assessing the composition of samples by identifying, classifying and quantifying their biological diversity, which is a complex task.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Since the available taxonomies can differ in both the topology and the adopted names, there is the need to perform assignments not only relying on the widely used NCBI taxonomy, but also on other specific reference taxonomic databases.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	For example, for the 16S common used database are RDP (which contains also fungal 28S and 5.8S information) and Greengenes, while for the 18S and 28S a common choice is adopt SILVA (which contains also 16S information), and for the ITS the most commonly adopted database is ITSoneDB.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Moreover, in the case of viruses, absence of such reference taxonomies as well as certain mimetism of the host sequence that is typical of viruses, makes their taxonomic classification particularly challenging from the computational point of view.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	What experimental approaches and analysis pipelines exist for metagenomics?
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	What are the advantages of performing selective analysis of rRNA and when is it better to sequence everything?
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	How is it possible to achieve accurate estimations of the relative abundance of each strains in a sample?
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	How can we annotate or understand the functions of new viral genes?
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	How do we determine the role of a newly discovered bacteria in higher order processes?
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	How can the metagenomic approach be implemented in a clinical setting?
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	What does the composition of a host-associated viral community tell us about the health status of its host?
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	How stable is the community composition across time and space?
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	And of course: what have we already discovered by using metagenomics?
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	For this Research Topic, we want to collect works ranging from algorithmic methods for metagenomics data analysis to specific microbiome sequencing studies.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	For this reason, we solicit original research papers from both experimental and bioinformatics groups.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Moreover, we will also reserve some space for reviews and perspectives that address the questions listed above or other hot topics from the frontiers of the metagenomics field.
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	Topic Editors
 -------------------
 

@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-06_88" est globalement en : FRA
-[('ENG', 0.6553287633880114), ('FRA', 1.0997486902662197)]
+Le mail "bioinfo_2014-06_88" est globalement en : french
+[('french', 0.669984574596344), ('english', 0.6730671744797918)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Computational Biology in the BacHBerry FP7
  project
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Computational Biology in the BacHBerry FP7 project
 Type de poste : Post-doc / IR
 Durée du poste : 12 months renewable for up to 24 months
@@ -28,12 +28,12 @@ Laboratoire : Bamboo Team, Inria & Laboratoire de Biométrie et Biologie
 Évolutive
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/computational-biology-bachberry-fp7-project
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -41,7 +41,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

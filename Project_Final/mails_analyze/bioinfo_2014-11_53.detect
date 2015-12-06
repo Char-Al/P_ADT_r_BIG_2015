@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_53" est globalement en : FRA
-[('FRA', 0.14764646665748574), ('ENG', 2.243235277886872)]
+Le mail "bioinfo_2014-11_53" est globalement en : french
+[('french', 0.20123838312499115), ('english', 0.8199288286065014)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur en statisti  que chargé(e) de la modélisation de la variab  ilité des images acquises dans différents cen  tres d'imagerie dans le cadre d’études multi  modales et multicentriques
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur en statistique chargé(e) de la modélisation  
 de la variabilité des images acquises dans différents centres d'imagerie  
 dans le cadre d’études multimodales et multicentriques
@@ -28,7 +28,7 @@ Laboratoire : Laboratoire d'Imagerie Biomédicale - Equipe CATI (Centre
 d'Acquisition et de Traitement des Images)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-en-statistique-charg%C3%A9e-de-la-mod%C3%A9lisation-de-la-variabilit%C3%A9-des-images-acquises-da
 
@@ -38,7 +38,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-en-statistique-charg%C3%A9e-de-la-mod%
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur en statistique chargé(e) de la modélisation  

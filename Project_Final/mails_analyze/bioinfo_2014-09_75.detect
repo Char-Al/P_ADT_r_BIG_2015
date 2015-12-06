@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-09_75" est globalement en : ENG
-[('ENG', 0.5421612057320377), ('FRA', 0.6162546859233321)]
+Le mail "bioinfo_2014-09_75" est globalement en : english
+[('english', 0.052842032386053624), ('french', 0.21898795698365064)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDD/ Ingénieur ] Bioinformatician for the analysis of non-coding RNAs in cancer
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	A 2-years Bioinformatics Research Assistant position is
 available in the laboratory of Dr. Claire Rougeulle to study
 long non-coding RNAs in cancer.
@@ -24,14 +24,14 @@ informatics/bioinformatics. Applicants should have expertise in computational an
 which offers a highly dynamic, international environment.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	To apply, please send :
 -curriculum vitae
 -cover letter outlining your motivation
 -names/contact information of two references.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Contact Information:
 Claire Rougeulle
 Céline Vallot
@@ -47,46 +47,46 @@ http://exc.parisepigenetics.com/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	A 2-years Bioinformatics Research Assistant position is
 available in the laboratory of Dr. Claire Rougeulle to study
 long non-coding RNAs in cancer.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Starting Date: January 2015
 The aim of the project is to systematically identify non-coding transcripts involved in tumor progression using a combination of human tumor samples and cellular models.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	It is a multi- team effort supported by the French National Alliance for Life and Health Science.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The project involves:
 1) Performing primary and secondary analysis of our RNA-seq data (quality control, alignment and differential expression analysis).
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	2) Performing de novo identification of long non-coding RNAs with ad hoc algorithms.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	We are seeking strongly motivated, science-driven applicants with Masters in
 informatics/bioinformatics.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Applicants should have expertise in computational analyses and capacity to understand/develop scripts in Shell, R, Perl or Python.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Expertise in high-throughput sequencing data analysis is a plus.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	The successful candidate will work in the group of Dr. Claire Rougeulle in the Department of Epigenetics and Cell Fate, at Paris Diderot University in Paris,
 which offers a highly dynamic, international environment.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	To apply, please send :
 -curriculum vitae
 -cover letter outlining your motivation
 -names/contact information of two references.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Contact Information:
 Claire Rougeulle
 Céline Vallot

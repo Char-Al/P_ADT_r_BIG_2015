@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-05_15" est globalement en : ENG
-[('ENG', 1.2022261847187272), ('FRA', 2.942436943004968)]
+Le mail "bioinfo_2014-05_15" est globalement en : english
+[('english', 0.0439942058296249), ('french', 0.5216180096143657)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] EISBM symposium 2014 - Lyon, 25
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	=============================================================
 EISBM Symposium on Systems Medicine: Pioneers of Health and Wellness
 =============================================================
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Dates:    25 June 2014
 Location: Lyon, France
 Website:  http://symposium.eisbm.org/
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	-----------------------------------------------------------------------------------   
 REGISTRATION
 Register online via http://symposium.eisbm.org/register.html
@@ -34,32 +34,32 @@ Session 1 - The Road from Systems Biology to Systems Medicine with the following
 Charles AUFFRAY, Ines THIELE, Vincent LOTTEAU
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Session 2 – Revolutionizing Healthcare and Wellness through P4 Medicine with the following speakers:
 Leroy HOOD, Jesper TEGNER
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Session 3 – Systems Medicine of Respiratory Diseases with the following speakers:
 Fan CHUNG, Antoine MAGNAN, Ab OSTERHAUS
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Theme 4 – Systems Medicine for Personalized Healthcare and Healthy Aging with the following speakers:
 Martine LAVILLE, Olaf DAMMANN, Manlio VINCIGUERRA
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	-----------------------------------------------------------------------------------   
 ABOUT
 Come to  Lyon to listen to the Pioneers of Health and Wellness and how they are triggering the advent of Participatory, Personalized, Predictive and Preventive (P4) Medicine. The 2014 EISBM Symposium will be a unique opportunity to discuss the formation of an International Network of Systems Medicine Centres and of an International Society of Systems Biomedicine. 
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	This is the third annual EISBM Symposium, following those organized in June 2012 on Knowledge Management for Translational Research and in June 2013 on the Philosophical and Engineering Foundations of Systems Biology. They gathered leading international experts and representatives of EU-FP7-funded consortia to review the state-of-the-art and the road map to foster the revolutionary transition from systems biology to systems medicine.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	This year the EISBM Symposium will highlight initial implementations of systems approaches in respiratory medicine and personalized healthcare and discuss the prospects for implementation of systems medicine in Horizon 2020.  The initial results of the plans presented last year to perform extensive individual monitoring of lifestyle and environment exposures, biological and clinical features integrated with deep genomics assessments will be reported.
 
 ==========================================
@@ -67,7 +67,7 @@ Le paragraphe 9 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	=============================================================
 EISBM Symposium on Systems Medicine: Pioneers of Health and Wellness
 =============================================================
@@ -81,7 +81,7 @@ REGISTRATION
 Register online via http://symposium.eisbm.org/register.html
 The registration is free but mandatory.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	PROGRAM
 Session 1 - The Road from Systems Biology to Systems Medicine with the following speakers:
 Charles AUFFRAY, Ines THIELE, Vincent LOTTEAU
@@ -99,18 +99,18 @@ Martine LAVILLE, Olaf DAMMANN, Manlio VINCIGUERRA
 ABOUT
 Come to  Lyon to listen to the Pioneers of Health and Wellness and how they are triggering the advent of Participatory, Personalized, Predictive and Preventive (P4) Medicine.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The 2014 EISBM Symposium will be a unique opportunity to discuss the formation of an International Network of Systems Medicine Centres and of an International Society of Systems Biomedicine.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	This is the third annual EISBM Symposium, following those organized in June 2012 on Knowledge Management for Translational Research and in June 2013 on the Philosophical and Engineering Foundations of Systems Biology.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	They gathered leading international experts and representatives of EU-FP7-funded consortia to review the state-of-the-art and the road map to foster the revolutionary transition from systems biology to systems medicine.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	This year the EISBM Symposium will highlight initial implementations of systems approaches in respiratory medicine and personalized healthcare and discuss the prospects for implementation of systems medicine in Horizon 2020.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The initial results of the plans presented last year to perform extensive individual monitoring of lifestyle and environment exposures, biological and clinical features integrated with deep genomics assessments will be reported.
 ==========================================

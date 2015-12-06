@@ -1,37 +1,37 @@
-Le mail "bioinfo_2014-02_14" est globalement en : ENG
-[('ENG', 0.1471680049140241), ('FRA', 0.4467974109165909)]
+Le mail "bioinfo_2014-02_14" est globalement en : english
+[('english', 0.041808364123714366), ('french', 0.37028269692102816)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Post-doctoral position in high-throughput sequencing analysis Bayesian approach for indel detection 2 years - Institut Curie  Paris France
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	The laboratory of Dr Emmanuel Barillot Bioinformatics, biostatistics, epidemiology and computational systems biology of cancer offers the following post-doc project: 
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Bayesian approach for indel detection
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	High throughput sequencing (HTS) technologies are now widely used in tumor genetics studies. Although the question of detection of mismatch mutations (single nucleotide polymorphisms and mutations, SNPs and SNVs, respectively) present in the main cell population is nearly solved, the accurate identification of small insertions/deletions (indels) is not yet a solved matter.  
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The aim of this post-doc project is to develop new mathematical and computational methods for the prediction of short insertions and deletions in sequencing data from cancer genomes. The post-doctoral fellow will employ the Bayesian approach to detect small sequence variants present in the tumor genome taking into account information about copy number and allelic status of a region, fraction of subclonal cell population and known polymorphisms of the human genome. The developed approach will be later applied to the breast cancer sequencing data generated in Institut Curie with the aim to classify tumors according to the active DNA repair mechanisms and associate this classification with such clinical data as tumor type, aggressiveness and presence of common gene alterations (amplifications of the ERBB2 gene, BRCA1/2 mutations, etc). The post-doctoral fellow will collaborate with computer scientists, biologists and clinicians from Institut Curie. 
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The successful candidate will be based at Institut Curie, Paris, and will work in collaboration with Valentina Boeva and Emmanuel Barillot.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	We offer
 	An opportunity to work on a complex computational problem that has direct implications in the research against cancer 
 	Exceptional scientific environment in computational biology
@@ -39,7 +39,7 @@ Le paragraphe 6 est en : ENG
 	Workplace in the center of Paris, in the immediate vicinity of the Pantheon and the Luxembourg garden
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Required qualifications
 	PhD degree in Bioinformatics, Applied Mathematics or Computer Science
 	Strong computational and mathematical background
@@ -59,32 +59,32 @@ Contact: valentina.boeva@curie.fr
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	The laboratory of Dr Emmanuel Barillot Bioinformatics, biostatistics, epidemiology and computational systems biology of cancer offers the following post-doc project: 
 
 Bayesian approach for indel detection
 
 High throughput sequencing (HTS) technologies are now widely used in tumor genetics studies.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Although the question of detection of mismatch mutations (single nucleotide polymorphisms and mutations, SNPs and SNVs, respectively) present in the main cell population is nearly solved, the accurate identification of small insertions/deletions (indels) is not yet a solved matter.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The aim of this post-doc project is to develop new mathematical and computational methods for the prediction of short insertions and deletions in sequencing data from cancer genomes.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The post-doctoral fellow will employ the Bayesian approach to detect small sequence variants present in the tumor genome taking into account information about copy number and allelic status of a region, fraction of subclonal cell population and known polymorphisms of the human genome.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The developed approach will be later applied to the breast cancer sequencing data generated in Institut Curie with the aim to classify tumors according to the active DNA repair mechanisms and associate this classification with such clinical data as tumor type, aggressiveness and presence of common gene alterations (amplifications of the ERBB2 gene, BRCA1/2 mutations, etc).
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The post-doctoral fellow will collaborate with computer scientists, biologists and clinicians from Institut Curie.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The successful candidate will be based at Institut Curie, Paris, and will work in collaboration with Valentina Boeva and Emmanuel Barillot.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	We offer
 	An opportunity to work on a complex computational problem that has direct implications in the research against cancer 
 	Exceptional scientific environment in computational biology

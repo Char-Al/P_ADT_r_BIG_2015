@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_63" est globalement en : FRA
-[('FRA', 0.2860689948636451), ('ENG', 1.8249584091239206)]
+Le mail "bioinfo_2014-11_63" est globalement en : french
+[('french', 0.41114570898479974), ('english', 0.8022696495762707)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Développementd’un module Dr  upal pour la gestion des données de génomes d  e plantes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développement d’un module Drupal pour la gestion des  
 données de génomes de plantes
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : v.guignon@cgiar.org
 Laboratoire : Bioversity International
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-d%E2%80%99un-module-drupal-pour-la-gestion-des-donn%C3%A9es-de-g%C3%A9nomes-de-plantes
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/d%C3%A9veloppement-d%E2%80%99un-module-drupal-pour-la
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Développement d’un module Drupal pour la gestion des  

@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-09_65" est globalement en : FRA
-[('FRA', 0.7473936698263414), ('ENG', 3.186349763004775)]
+Le mail "bioinfo_2014-09_65" est globalement en : french
+[('french', 0.046163385610329476), ('english', 2.2512656345133593)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Emploi CDD Ingénieur Bioinformatique - ChIP-seq France Génomique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	================================================================
      Emploi CDD Ingénieur Bioinformatique - ChIP-seq France Génomique
 ================================================================
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Durée : CDD 18 mois
 Type de poste: Ingénieur de recherche (IR) ou ingénieur détudes expérimenté (IE)
 Ville : Marseille
@@ -27,31 +27,31 @@ Date recrutement : à partir d'octobre 2014
 Financement : France Génomique
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	=====     Description du poste     =====
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Contexte : Ressources bioinformatiques pour lanalyse de données ChIP-seq.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Dans le cadre du projet France Génomique, les plates-formes de séquençage et de bioinformatique sont chargées de mettre à la disposition des utilisateurs une collection de ressources bioinformatiques pour lanalyse des données de séquençage à haut débit ("Next Generation Sequencing"). Le présent appel se place dans le cadre de la régulation génique (WP2.6), et plus particulièrement du volet ChIP-seq.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	La mission générale de lingénieur recruté sera de développer laccessibilité des ressources bioinformatiques pour lanalyse des données de ChIP-seq (bases de données et outils danalyse). Ces ressources pourraient également être connectées aux autres ressources permettant danalyser des données NGS liées à la régulation (en particulier, données RNA-seq).
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Le laboratoire daccueil (TAGC) regroupe une plate-forme technologique (TGML) qui assure des services à la communauté, ainsi que des chercheurs travaillant dans différents domaines de biologie expérimentale et de bioinformatique. Lanalyse de la régulation génétique est un axe transversal aux activités de recherche et aux services du TAGC, qui offrira donc un environnement humain propice au déroulement de la mission.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	=====     Missions     =====
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	* recenser les outils existants ;
 * identifier les besoins des utilisateurs, et les manques éventuels ;
 * développer des interfaces conviviales pour des outils existants (en particulier, certains outils de la suite Regulatory Sequence Analysis Tools, développée au sein du laboratoire);
@@ -62,11 +62,11 @@ Le paragraphe 9 est en : FRA
 * mener une étude pilote visant à connecter des outils ChIP-seq via des Web services.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	=====     Profil recherché     =====
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Eléments requis :
 - Double compétence informatique / biologie (niveau Master ou thèse de doctorat).
 - Maîtrise du système opérateur Unix (utilisation, installation, maintenance)
@@ -75,14 +75,14 @@ Le paragraphe 11 est en : FRA
 - Expérience en analyse de données à haut débit.
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Eléments souhaités :
 - Connaissance de lenvironnement Galaxy (https://usegalaxy.org/).
 - Expérience en développement dinterfaces utilisateurs, API, pipelines danalyse.
 - Capacités rédactionnelles (rédaction de documentation et matériel didactique).
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	=====     Liens     =====
 France Génomique : https://www.france-genomique.org/
 Plate-forme TGML : http://tagc.univ-mrs.fr/tagc/index.php/tgml-facility
@@ -96,7 +96,7 @@ Galaxy : https://usegalaxy.org/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	================================================================
      Emploi CDD Ingénieur Bioinformatique - ChIP-seq France Génomique
 ================================================================
@@ -113,25 +113,25 @@ Financement : France Génomique
 
 Contexte : Ressources bioinformatiques pour lanalyse de données ChIP-seq.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Dans le cadre du projet France Génomique, les plates-formes de séquençage et de bioinformatique sont chargées de mettre à la disposition des utilisateurs une collection de ressources bioinformatiques pour lanalyse des données de séquençage à haut débit ("Next Generation Sequencing").
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Le présent appel se place dans le cadre de la régulation génique (WP2.6), et plus particulièrement du volet ChIP-seq.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	La mission générale de lingénieur recruté sera de développer laccessibilité des ressources bioinformatiques pour lanalyse des données de ChIP-seq (bases de données et outils danalyse).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ces ressources pourraient également être connectées aux autres ressources permettant danalyser des données NGS liées à la régulation (en particulier, données RNA-seq).
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Le laboratoire daccueil (TAGC) regroupe une plate-forme technologique (TGML) qui assure des services à la communauté, ainsi que des chercheurs travaillant dans différents domaines de biologie expérimentale et de bioinformatique.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Lanalyse de la régulation génétique est un axe transversal aux activités de recherche et aux services du TAGC, qui offrira donc un environnement humain propice au déroulement de la mission.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	=====     Missions     =====
 
 * recenser les outils existants ;
@@ -143,29 +143,29 @@ La phrase 8 est en : FRA
 * préparer du matériel de formation ;
 * mener une étude pilote visant à connecter des outils ChIP-seq via des Web services.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	=====     Profil recherché     =====
 
 Eléments requis :
 - Double compétence informatique / biologie (niveau Master ou thèse de doctorat).
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	- Maîtrise du système opérateur Unix (utilisation, installation, maintenance)
 - Forte expérience de programmation (PERL, Python, standards déchange de données)
 - Bon niveau de compréhension de langlais
 - Expérience en analyse de données à haut débit.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Eléments souhaités :
 - Connaissance de lenvironnement Galaxy (https://usegalaxy.org/).
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	- Expérience en développement dinterfaces utilisateurs, API, pipelines danalyse.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	- Capacités rédactionnelles (rédaction de documentation et matériel didactique).
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	=====     Liens     =====
 France Génomique : https://www.france-genomique.org/
 Plate-forme TGML : http://tagc.univ-mrs.fr/tagc/index.php/tgml-facility

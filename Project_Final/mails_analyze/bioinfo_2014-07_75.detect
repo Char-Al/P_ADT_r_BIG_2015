@@ -1,51 +1,51 @@
-Le mail "bioinfo_2014-07_75" est globalement en : ENG
-[('ENG', 0.4039217858621044), ('FRA', 1.0760339182127305)]
+Le mail "bioinfo_2014-07_75" est globalement en : english
+[('english', 0.38294274834335373), ('french', 0.7882148397084374)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Disease Comorbidities, Workshop ECCB'14 - Time to register!
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear all,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	We are pleased to announce the ECCB'14 satellite workshop dedicated to Disease Comorbidities that will take place Sunday, 7th September, 2014, in Strasbourg, France. The workshop is organised around 3 sessions scoping the discovery, the interpretation and the exploitation of disease comorbidities.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Program and registration :
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	http://www.eccb14.org/program/workshops/csbdc
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Sunday, 7th of September 9:00 - 17:00
 Forum Building
 Strasbourg Faculty of Medicine
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Deadline for early registration : August, 1st !!
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Looking forward seeing you in Strasbourg,
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Anaïs Baudot and Alfonso Valencia
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -53,15 +53,15 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear all,
 
 We are pleased to announce the ECCB'14 satellite workshop dedicated to Disease Comorbidities that will take place Sunday, 7th September, 2014, in Strasbourg, France.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The workshop is organised around 3 sessions scoping the discovery, the interpretation and the exploitation of disease comorbidities.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Program and registration :
 
 http://www.eccb14.org/program/workshops/csbdc
@@ -73,7 +73,7 @@ Strasbourg Faculty of Medicine
 
 Deadline for early registration : August, 1st !!
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Looking forward seeing you in Strasbourg,
 
 Anaïs Baudot and Alfonso Valencia

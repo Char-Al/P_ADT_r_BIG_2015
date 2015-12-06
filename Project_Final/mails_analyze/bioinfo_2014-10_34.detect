@@ -1,34 +1,34 @@
-Le mail "bioinfo_2014-10_34" est globalement en : FRA
-[('ENG', 1.2374586704407025), ('FRA', 2.0671036629406476)]
+Le mail "bioinfo_2014-10_34" est globalement en : french
+[('french', 0.32362430429117084), ('english', 2.747634590114978)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Formations Ade-4 LBBE/PRABI
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Deux formations dédiées à la bibliothèque Ade-4 pour R sont organisées par le LBBE (Laboratoire de Biométrie et Biologie Evolutive) en association avec le PRABI (Pôle Rhône-Alpes de Bioinformatique) et Fc-3Bio. Ces formations auront lieu :
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	- Les 24 et 25 novembre pour la formation intitulée "Ade-4 : Initiation et méthodes de base".
 - Du 8 au 10 décembre pour la formation intitulée "Ade4 : Perfectionnement et méthodes avancées".
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Les inscriptions se font directement sur le site de Fc-3Bio (http://www.fc3bio.fr/forms/Inscription_f2.html) avant le 15 novembre. Pour toutes information relative aux stages en question (tarifs, programme, durée, etc.), utilisez l’adresse : contact@fc3bio.fr.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Bien cordialement, 
 --
 Guy Perrière
@@ -36,7 +36,7 @@ Directeur du Pôle Rhône-Alpes de Bioinformatique
 http://www.prabi.fr
 
 ==========================================
-Le paragraphe 6 est en : n
+Le paragraphe 6 est en : non detect
 	
 
 ==========================================
@@ -44,29 +44,29 @@ Le paragraphe 6 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous,
 
 Deux formations dédiées à la bibliothèque Ade-4 pour R sont organisées par le LBBE (Laboratoire de Biométrie et Biologie Evolutive) en association avec le PRABI (Pôle Rhône-Alpes de Bioinformatique) et Fc-3Bio.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Ces formations auront lieu :
 
 - Les 24 et 25 novembre pour la formation intitulée "Ade-4 : Initiation et méthodes de base".
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	- Du 8 au 10 décembre pour la formation intitulée "Ade4 : Perfectionnement et méthodes avancées".
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Les inscriptions se font directement sur le site de Fc-3Bio (http://www.fc3bio.fr/forms/Inscription_f2.html) avant le 15 novembre.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Pour toutes information relative aux stages en question (tarifs, programme, durée, etc.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	), utilisez l’adresse : contact@fc3bio.fr.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Bien cordialement, 
 --
 Guy Perrière

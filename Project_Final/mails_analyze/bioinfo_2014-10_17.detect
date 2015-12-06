@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_17" est globalement en : FRA
-[('ENG', 0.3923654340186376), ('FRA', 0.5647559133271449)]
+Le mail "bioinfo_2014-10_17" est globalement en : french
+[('french', 0.5294896837040853), ('english', 0.8716170623917286)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDI autre] INGENIEURS BIO INFORMATICIENS/BIO STATISTICIENS
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : INGENIEURS BIO INFORMATICIENS/BIO STATISTICIENS
 Type de poste : CDI autre
 Durée du poste : indéterminé
@@ -25,7 +25,7 @@ Email du contact : recrutement@pasteur.fr
 Laboratoire : institut pasteur
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ingenieurs-bio-informaticiensbio-statisticiens
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ingenieurs-bio-informaticiensbio-statisticiens
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : INGENIEURS BIO INFORMATICIENS/BIO STATISTICIENS

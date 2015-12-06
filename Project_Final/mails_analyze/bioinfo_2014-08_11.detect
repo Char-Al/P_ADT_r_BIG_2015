@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-08_11" est globalement en : FRA
-[('ENG', 0.34508680377143747), ('FRA', 0.4019743116505086)]
+Le mail "bioinfo_2014-08_11" est globalement en : french
+[('french', 0.5266250130742212), ('english', 0.7228530188943472)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDI autre] INGENIEUR BIOINFORMATICIEN DEVELOPPEMENT DE LIMS
  MULTI-OMICS  H/F
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : INGENIEUR BIOINFORMATICIEN DEVELOPPEMENT DE LIMS
 MULTI-OMICS H/F
 Type de poste : CDI autre
@@ -28,12 +28,12 @@ Email du contact : julie.dumontet@bioaster.org
 Laboratoire : BIOASTER
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ingenieur-bioinformaticien-developpement-de-lims-multi-omics-hf
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -41,7 +41,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

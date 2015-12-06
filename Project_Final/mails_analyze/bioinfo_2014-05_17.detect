@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-05_17" est globalement en : ENG
-[('ENG', 0.3810835193277878), ('FRA', 0.5800052425411543)]
+Le mail "bioinfo_2014-05_17" est globalement en : english (conflict)
+[('english', 0.8448157401723767), ('french', 1.0652665250787565)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDD autre] Bioinformatician Programmer
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Bioinformatician Programmer
 Type de poste : CDD autre
 Durée du poste : 3 years
@@ -26,12 +26,12 @@ Email du contact : mick.watson@roslin.ed.ac.uk
 Laboratoire : Edinburgh Genomics
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformatician-programmer
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

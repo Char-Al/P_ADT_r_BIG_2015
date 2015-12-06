@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_44" est globalement en : FRA
-[('FRA', 0.7114248002184442), ('ENG', 1.057289226937189)]
+Le mail "bioinfo_2014-03_44" est globalement en : french
+[('french', 1.1624869539373068), ('english', 1.2179393362161028)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDI Ingénieur ] Chef de projet bio-analyse
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Chef de projet bio-analyse
 Type de poste : CDI Ingénieur
 Durée du poste : indéterminée
@@ -25,12 +25,12 @@ Email du contact : recruitment@genoway.com
 Laboratoire : genOway
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/chef-de-projet-bio-analyse
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -38,7 +38,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Chef de projet bio-analyse

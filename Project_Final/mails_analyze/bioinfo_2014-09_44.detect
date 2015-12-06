@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_44" est globalement en : FRA
-[('ENG', 0.2831039423610595), ('FRA', 0.5424925223211465)]
+Le mail "bioinfo_2014-09_44" est globalement en : french
+[('french', 0.4942258517237623), ('english', 0.5488127233718723)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDD autre] Visiting Professor, Computational Biology and/or Bioinformatics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Visiting Professor, Computational Biology and/or  
 Bioinformatics
 Type de poste : CDD autre
@@ -26,7 +26,7 @@ Email du contact : faisal.abukhzam@lau.edu.lb
 Laboratoire : School of Arts and Sciences. Lebanese American University
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/visiting-professor-computational-biology-andor-bioinformatics
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/visiting-professor-computational-biology-andor-bioinf
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Visiting Professor, Computational Biology and/or  
@@ -48,7 +48,7 @@ Nom du contact : Faisal Abu-Khzam
 Email du contact : faisal.abukhzam@lau.edu.lb
 Laboratoire : School of Arts and Sciences.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : english
 	Lebanese American University
 
 Voir la description complète du poste sur  

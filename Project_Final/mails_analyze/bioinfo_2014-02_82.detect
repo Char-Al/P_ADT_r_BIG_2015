@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_82" est globalement en : FRA
-[('FRA', 0.5836345125956232), ('ENG', 0.9838776147982092)]
+Le mail "bioinfo_2014-02_82" est globalement en : french
+[('french', 0.5534067579042886), ('english', 1.1225836692948845)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IR] Chef de projet bioinformatique ou expert en calcul scientifique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Chef de projet bioinformatique ou expert en calcul  
 scientifique
 Type de poste : IR
@@ -26,7 +26,7 @@ Email du contact : jean-michel.batto@jouy.inra.fr
 Laboratoire : INRA - Unité MetaGénoPolis
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/chef-de-projet-bioinformatique-ou-expert-en-calcul-scientifique
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/chef-de-projet-bioinformatique-ou-expert-en-calcul-sc
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Chef de projet bioinformatique ou expert en calcul  

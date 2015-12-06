@@ -1,53 +1,53 @@
-Le mail "bioinfo_2014-03_55" est globalement en : ENG
-[('ENG', 0.6963278826416754), ('FRA', 1.8954319662254235)]
+Le mail "bioinfo_2014-03_55" est globalement en : english
+[('english', 0.020711887420501035), ('french', 0.3794567827700883)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Offre d'emploi:  Senior Bioinformatician New Zealand
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Senior Bioinformatician
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	AgResearch Grasslands
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	AgResearch is a Crown Research Institute with the purpose of enhancing the value, productivity and profitability of New Zealand's agricultural sector.  The Bioinformatics team supports scientific research in a range of areas to the benefit of the pastoral agricultural sector.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	We are seeking a highly motivated individual with excellent training and expertise in Bioinformatics to join our team.  The successful candidate will be responsible for providing Bioinformatics consultancy to a range of science projects.  Main duties will involve analysing high throughput/high-dimensional 'omics data from mostly non-model organisms, this includes the design, development, implementation and testing of bioinformatics pipelines for Next-Gen Sequencing (NGS) data, assembly and expression analysis of NGS data and contribution towards interpreting the results.  Experience in working with Genotyping by Sequencing data would be advantageous. The ideal candidate will also have some experience or an interest in integrating multi-faceted 'omics data to understand underlying systems and biological networks.  This is a senior and permanent position.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The successful applicant will have a PhD or high level postgraduate qualification in Bioinformatics (or related field) with at least five years of related work experience.  A thorough knowledge of Unix, scripting language (Perl/Python or similar) and an understanding of biological databases along with various Bioinformatics tools is required.  This is a highly collaborative role, where the incumbent will be working alongside scientists on a regular basis thus requiring a good knowledge of Genetics and Molecular Biology.  Strong communication skills, with the ability to effectively articulate complex, technical information to the clients is highly desirable. Other requirements are good organisational abilities along with excellent interpersonal and relationship building skills.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	The position will be based at our Grasslands campus in Palmerston North and will be part of the wider Bioinformatics and Statistics team.  Palmerston North, a university city, is 30 km from the coast, 2 hours from ski fields, and 2 hours from Wellington. The AgResearch Grasslands campus is situated in pleasant rural surroundings with easy access to the central city. The surrounding area offers many outdoor recreational opportunities.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	The position is available immediately and will be open until filled.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	For informal inquiries please contact Dr. Nauman Maqbool (nauman.maqbool@agresearch.co.nz). Applications including a CV highlighting relevant research experience, a cover letter and contact details of three referees should be submitted online at: https://careers.sciencenewzealand.org.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Applications not submitted online will not be accepted.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Thanks
 Aurelie
 =======================================================================
@@ -60,86 +60,86 @@ Attention: The information contained in this message and/or attachments from AgR
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Senior Bioinformatician
 
 AgResearch Grasslands
 
 AgResearch is a Crown Research Institute with the purpose of enhancing the value, productivity and profitability of New Zealand's agricultural sector.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The Bioinformatics team supports scientific research in a range of areas to the benefit of the pastoral agricultural sector.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	We are seeking a highly motivated individual with excellent training and expertise in Bioinformatics to join our team.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The successful candidate will be responsible for providing Bioinformatics consultancy to a range of science projects.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Main duties will involve analysing high throughput/high-dimensional 'omics data from mostly non-model organisms, this includes the design, development, implementation and testing of bioinformatics pipelines for Next-Gen Sequencing (NGS) data, assembly and expression analysis of NGS data and contribution towards interpreting the results.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Experience in working with Genotyping by Sequencing data would be advantageous.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The ideal candidate will also have some experience or an interest in integrating multi-faceted 'omics data to understand underlying systems and biological networks.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	This is a senior and permanent position.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	The successful applicant will have a PhD or high level postgraduate qualification in Bioinformatics (or related field) with at least five years of related work experience.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	A thorough knowledge of Unix, scripting language (Perl/Python or similar) and an understanding of biological databases along with various Bioinformatics tools is required.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	This is a highly collaborative role, where the incumbent will be working alongside scientists on a regular basis thus requiring a good knowledge of Genetics and Molecular Biology.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Strong communication skills, with the ability to effectively articulate complex, technical information to the clients is highly desirable.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Other requirements are good organisational abilities along with excellent interpersonal and relationship building skills.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	The position will be based at our Grasslands campus in Palmerston North and will be part of the wider Bioinformatics and Statistics team.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Palmerston North, a university city, is 30 km from the coast, 2 hours from ski fields, and 2 hours from Wellington.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	The AgResearch Grasslands campus is situated in pleasant rural surroundings with easy access to the central city.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	The surrounding area offers many outdoor recreational opportunities.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	The position is available immediately and will be open until filled.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	For informal inquiries please contact Dr. Nauman Maqbool (nauman.maqbool@agresearch.co.nz).
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	Applications including a CV highlighting relevant research experience, a cover letter and contact details of three referees should be submitted online at: https://careers.sciencenewzealand.org.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	Applications not submitted online will not be accepted.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Thanks
 Aurelie
 =======================================================================
 Attention: The information contained in this message and/or attachments from AgResearch Limited is intended only for the persons or entities to which it is addressed and may contain confidential and/or privileged material.
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipients is prohibited by AgResearch Limited.
 ==========================================
-La phrase 24 est en : ENG
+La phrase 24 est en : english
 	If you have received this message in error, please notify the sender immediately.
 ==========================================
-La phrase 25 est en : n
+La phrase 25 est en : non detect
 	=======================================================================
 
 ==========================================

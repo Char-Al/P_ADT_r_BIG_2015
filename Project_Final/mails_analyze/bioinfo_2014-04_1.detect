@@ -1,90 +1,90 @@
-Le mail "bioinfo_2014-04_1" est globalement en : FRA
-[('FRA', 0.5904097517757722), ('ENG', 1.4137345713278233)]
+Le mail "bioinfo_2014-04_1" est globalement en : french
+[('french', 0.19347852118074452), ('english', 2.7844240981437416)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Cycle de formation "Bioinformatique Initiation" 2014  (Plateforme ABiMS / Institut Français de Bio-informatique - Grand Ouest)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	le cycle 2014 de formation en Bio-informatique de la plateforme ABiMS 
 est ouvert. Les cours sont dispensés par la plateforme, mais aussi par 
 des formateurs avec qui nous collaborons.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Si vous êtes intéressé(e) par l'un des modules ci-dessous, vous pouvez 
 vous *pré-inscrire* et disposer de plus d'informations en ligne :
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	                   http://abims.sb-roscoff.fr/formation
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	* Linux initiation (1j)
 * Linux avancé (1j)
 * Linux scripting (1j)
 * Cluster (1j)
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	* R Initiation (1j)
 * R Avancé (1j)
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	* Galaxy initiation (1j)
 * Galaxy RNAseq de novo/avec référence & cleaning (2j)
 * Galaxy : initiation à la phylogénie (1j)
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Les frais d'inscriptions sont indiqués sur le site, et n'hésitez pas si 
 vous avez des questions à envoyer un message à
                     abims.formation@sb-roscoff.fr
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Cordialement
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	La plateforme ABiMS
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	-- 
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Christophe Caron  			
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Station Biologique / Service Informatique et Bio-informatique
 Place Georges Teissier - CS 90074 - 29688 Roscoff Cedex
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Analysis and Bioinformatics for Marine Science
     http://abims.sb-roscoff.fr/
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	tél: +33 (0)2 98 29 25 43 / +33 (0)6 07 83 54 77
 
 ==========================================
-Le paragraphe 16 est en : n
+Le paragraphe 16 est en : non detect
 	
 
 ==========================================
@@ -92,17 +92,17 @@ Le paragraphe 16 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Bonjour,
 
 le cycle 2014 de formation en Bio-informatique de la plateforme ABiMS 
 est ouvert.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Les cours sont dispensés par la plateforme, mais aussi par 
 des formateurs avec qui nous collaborons.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Si vous êtes intéressé(e) par l'un des modules ci-dessous, vous pouvez 
 vous *pré-inscrire* et disposer de plus d'informations en ligne :
 

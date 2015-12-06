@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_76" est globalement en : ENG
-[('ENG', 0.10233986977053003), ('FRA', 0.7686504879961507)]
+Le mail "bioinfo_2014-02_76" est globalement en : english
+[('english', 0.22583221812278692), ('french', 0.280970340924217)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Fwd: stage postdoctoral a l'universite McMaster
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	-------- Message original --------
 Sujet: 	stage postdoctoral a l'universite McMaster
 Date: 	Mon, 24 Feb 2014 18:54:20 +0000
@@ -24,11 +24,11 @@ Copie: 	McDonald, Sarah <mcdonals@mcmaster.ca>, Beyene, Joseph
 <beyene@mcmaster.ca>
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Chers collègues,
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Veuillez trouver en copie de cet email une offre de stage postdoctoral à 
 l’université McMaster. Pourriez-vous svp diffuser cette annonce 
 largement autour de vous via vos reseaux. Cette offre d’emploi 
@@ -40,21 +40,21 @@ intéressé(e) par les thématiques chères à mes collègues Joseph Beyene
 conséquences sur la santé de l’enfant). Merci d’avance.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Bien cordialement,
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	David
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	============================================
 Post-doctoral position in perinatal and maternal epidemiology at 
 McMaster University Health Sciences
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	A post-doctoral position is available immediately in the Department of 
 Obstetrics and Gynecology at McMaster University Health 
 Sciences/Department of Clinical Epidemiology and Biostatistics, to work 
@@ -63,7 +63,7 @@ review/meta-analytic methodology in the field of perinatal and maternal
 epidemiology to improve the health of women and infants.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	The successful candidate will be co-supervised by Dr. Sarah McDonald, a 
 perinatal clinical epidemiologist and high risk obstetrician and Dr 
 Joseph Beyene, an academic biostatistician and methodologist.  Work will 
@@ -73,7 +73,7 @@ outcomes. Opportunities include collaborations with teams in other
 departments, centres and provinces.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Applicants should have a Ph.D. in Clinical Epidemiology, 
 (Bio)Statistics, Bioinformatics, Psychology, or a related field. 
 Excellent programming (SAS/R) and communication skills are required. The 
@@ -82,19 +82,19 @@ well as simulated data and must be able to work independently.
 Experience in clinical epidemiology or perinatology would be an asset.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	The appointment will be for two years, with possible extension. Salary 
 is commensurate with qualifications.
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	McMaster University is recognized and internationally ranked research 
 and educational institution, and the Dept of Clinical Epidemiology & 
 Biostatistics is particularly renowned with a vibrant series of rounds 
 and other educational opportunities.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Interested applicants should send their curriculum vitae, along with a 
 letter expressing why they are interested in this position, copies of 
 all their transcripts (notarized translated if necessary) and copies of 
@@ -103,7 +103,7 @@ as well  the names and contact information for three references by email
 to:
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Dr. Sarah McDonald
 Departments of Obstetrics & Gynecology, Radiology, and Clinical 
 Epidemiology & Biostatistics
@@ -113,14 +113,14 @@ Hamilton, Ontario, Canada, L8S 4K1
 Email:  mcdonals@mcmaster.ca
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Applications will continue to be processed until the position is filled. 
 We thank all applicants, but only those selected for an interview will 
 be contacted.
 ========================================================
 
 ==========================================
-Le paragraphe 16 est en : n
+Le paragraphe 16 est en : non detect
 	
 
 ==========================================
@@ -128,7 +128,7 @@ Le paragraphe 16 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 
 -------- Message original --------
@@ -145,11 +145,11 @@ Chers collègues,
 Veuillez trouver en copie de cet email une offre de stage postdoctoral à 
 l’université McMaster.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Pourriez-vous svp diffuser cette annonce 
 largement autour de vous via vos reseaux.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Cette offre d’emploi 
 correspondrait parfaitement à un jeune chercheur ayant une expertise en 
 épidémiologie / biostatistiques tenté par  une expérience canadienne  et 
@@ -158,10 +158,10 @@ intéressé(e) par les thématiques chères à mes collègues Joseph Beyene
 épidémiologie obstétrique) (prise de poids durant la grossesse et 
 conséquences sur la santé de l’enfant).
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Merci d’avance.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Bien cordialement,
 
 David
@@ -177,50 +177,50 @@ on analytic methodology and advanced issues in systematic
 review/meta-analytic methodology in the field of perinatal and maternal 
 epidemiology to improve the health of women and infants.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The successful candidate will be co-supervised by Dr. Sarah McDonald, a 
 perinatal clinical epidemiologist and high risk obstetrician and Dr 
 Joseph Beyene, an academic biostatistician and methodologist.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Work will 
 involve development and application of advanced analytic techniques 
 using large perinatal data sets, examining both maternal and infant 
 outcomes.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Opportunities include collaborations with teams in other 
 departments, centres and provinces.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Applicants should have a Ph.D. in Clinical Epidemiology, 
 (Bio)Statistics, Bioinformatics, Psychology, or a related field.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Excellent programming (SAS/R) and communication skills are required.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	The 
 applicant should be enthusiastic and comfortable working with real as 
 well as simulated data and must be able to work independently.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Experience in clinical epidemiology or perinatology would be an asset.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	The appointment will be for two years, with possible extension.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Salary 
 is commensurate with qualifications.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	McMaster University is recognized and internationally ranked research 
 and educational institution, and the Dept of Clinical Epidemiology & 
 Biostatistics is particularly renowned with a vibrant series of rounds 
 and other educational opportunities.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Interested applicants should send their curriculum vitae, along with a 
 letter expressing why they are interested in this position, copies of 
 all their transcripts (notarized translated if necessary) and copies of 
@@ -238,11 +238,11 @@ Email:  mcdonals@mcmaster.ca
 
 Applications will continue to be processed until the position is filled.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	We thank all applicants, but only those selected for an interview will 
 be contacted.
 ==========================================
-La phrase 18 est en : n
+La phrase 18 est en : non detect
 	========================================================
 
 

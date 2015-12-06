@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_59" est globalement en : FRA
-[('ENG', 0.3999486010387197), ('FRA', 0.507780814754808)]
+Le mail "bioinfo_2014-02_59" est globalement en : french
+[('french', 0.5462917614587872), ('english', 0.8747490908933669)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doc in viral metagenomics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Post-doc in viral metagenomics
 Type de poste : Post-doc / IR
 Durée du poste : 18 mois
@@ -25,7 +25,7 @@ Email du contact : christelle.desnues@univ-amu.fr
 Laboratoire : URMITE UMR CNRS 7278 équipe Pathovirome
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-viral-metagenomics
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/post-doc-viral-metagenomics
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Post-doc in viral metagenomics

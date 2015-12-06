@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-04_60" est globalement en : FRA
-[('ENG', 0.46892692248216417), ('FRA', 0.6917892555957039)]
+Le mail "bioinfo_2014-04_60" est globalement en : french
+[('french', 0.8766318898105864), ('english', 1.0132648960081792)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDI autre] BIOSTATISTICIEN
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : BIOSTATISTICIEN
 Type de poste : CDI autre
 Durée du poste : indeterminée
@@ -26,12 +26,12 @@ Email du contact : kenza.boumezbeur@kellyscientifique.tm.fr
 Laboratoire : laboratoire de biotechnologie
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/biostatisticien-2
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

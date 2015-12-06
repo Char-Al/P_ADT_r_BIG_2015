@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_94" est globalement en : FRA
-[('ENG', 0.27095651303303225), ('FRA', 0.5504601949135471)]
+Le mail "bioinfo_2014-10_94" est globalement en : french
+[('french', 0.44402132374455644), ('english', 0.5026306151301578)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] designing fast, accurate and guaranteed approximation algorithms on graphs for genome scaffolding.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : designing fast, accurate and guaranteed approximation  
 algorithms on graphs for genome scaffolding.
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact : chateau@lirmm.fr
 Laboratoire : IBC - LIRMM
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/designing-fast-accurate-and-guaranteed-approximation-algorithms-graphs-genome-scaffolding
 
@@ -36,13 +36,13 @@ http://www.sfbi.fr/content/designing-fast-accurate-and-guaranteed-approximation-
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : designing fast, accurate and guaranteed approximation  
 algorithms on graphs for genome scaffolding.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : english
 	Type de poste : Post-doc / IR
 Durée du poste : 12 mois
 Ville : Montpellier

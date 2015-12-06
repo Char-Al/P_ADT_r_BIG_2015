@@ -1,27 +1,27 @@
-Le mail "bioinfo_2014-02_6" est globalement en : ENG
-[('ENG', 0.5055974698529926), ('FRA', 0.8699891843824219)]
+Le mail "bioinfo_2014-02_6" est globalement en : english
+[('english', 0.09548684384099462), ('french', 0.38159271202838274)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Call for Participation 4th Symposium on Biological Data Visualization @ ISMB (July 11-12, 2014)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	We invite you to contribute to one of  the premier international and interdisciplinary events for presenting peer-reviewed scientific work in the field of Biological Data Visualization (BioVis 2014). For the first time, this year the symposium will be held as a special interest group meeting at ISMB in Boston, MA, USA.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	webpage: 
 -------------
 	http://biovis.net
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	short facts :
 ----------------
 What are the deadlines for 2014?
@@ -31,11 +31,11 @@ What are the deadlines for 2014?
 	Redesign Contest: May 1
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 		(all deadlines are 5:00pm PDT)
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	What are options to participate?
 	1) Papers: submit high quality research; oral presentation at the symposium; all accepted manuscripts will be available through the IEEE Digital Library and will be considered for publication in BMC Bioinformatics
 	2) Posters: work in progress and preliminary results; submissions consists of a 250 abstract and an image; previously published work from other venues; visualization challenges 
@@ -43,21 +43,21 @@ Le paragraphe 5 est en : ENG
 	4) Redesign Contest: submit a redesigned figure utilizing effective encodings and clear visual communication to display an improved version of a well-known biological data visualization 
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Please refer for details to: http://biovis.net/year/2014/info/cfp
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	details:
 -----------
 The rapidly expanding field of biology creates enormous challenges for computational visualization techniques for enabling researchers to gain insight from their large and highly complex data sets.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	The Symposium on Biological Data Visualization (BioVis) is the premier international and interdisciplinary event for all aspects of visualization in biology. The symposium brings together researchers from the visualization, bioinformatics, and biology communities with the purpose of educating, inspiring, and engaging visualization researchers in problems in biological data visualization as well as bioinformatics and biology researchers in state-of-the-art visualization research.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	We are looking for contributions on all aspects of visualization in biology, from molecular to cell, tissue, organism and population biology. Suggested topics include, but are not limited to:
 	* Genome and sequence data, including genomic variation data
 	* Multivariate omics data (transcriptomics, proteomics, metabolomics, etc.)
@@ -77,7 +77,7 @@ Le paragraphe 9 est en : ENG
 	* Processes for interdisciplinary collaboration between biology and visualization.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Find more information on http://biovis.net
 
 
@@ -86,13 +86,13 @@ Le paragraphe 10 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	We invite you to contribute to one of  the premier international and interdisciplinary events for presenting peer-reviewed scientific work in the field of Biological Data Visualization (BioVis 2014).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	For the first time, this year the symposium will be held as a special interest group meeting at ISMB in Boston, MA, USA.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	webpage: 
 -------------
 	http://biovis.net
@@ -102,10 +102,10 @@ short facts :
 ----------------
 What are the deadlines for 2014?
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Papers: 	March 1 (full manuscript!)
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Posters: 	May 24
 	Data Contest: 	May 1
 	Redesign Contest: May 1
@@ -114,7 +114,7 @@ La phrase 5 est en : ENG
 
 What are options to participate?
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	1) Papers: submit high quality research; oral presentation at the symposium; all accepted manuscripts will be available through the IEEE Digital Library and will be considered for publication in BMC Bioinformatics
 	2) Posters: work in progress and preliminary results; submissions consists of a 250 abstract and an image; previously published work from other venues; visualization challenges 
 	3) Data Contest: create a visualization (tool) that helps to identify and understand which rs-fMRI networks, from a large provided dataset, are replicates derived from the same individuals; submit a 2-page extended abstract 
@@ -126,21 +126,21 @@ details:
 -----------
 The rapidly expanding field of biology creates enormous challenges for computational visualization techniques for enabling researchers to gain insight from their large and highly complex data sets.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The Symposium on Biological Data Visualization (BioVis) is the premier international and interdisciplinary event for all aspects of visualization in biology.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The symposium brings together researchers from the visualization, bioinformatics, and biology communities with the purpose of educating, inspiring, and engaging visualization researchers in problems in biological data visualization as well as bioinformatics and biology researchers in state-of-the-art visualization research.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	We are looking for contributions on all aspects of visualization in biology, from molecular to cell, tissue, organism and population biology.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Suggested topics include, but are not limited to:
 	* Genome and sequence data, including genomic variation data
 	* Multivariate omics data (transcriptomics, proteomics, metabolomics, etc.)
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	* Phylogenetic data
 	* Biological networks and pathways
 	* Biological Ontologies
@@ -156,7 +156,7 @@ La phrase 11 est en : ENG
 	* Creation and visualization of biological atlases and metadata
 	* Processes for interdisciplinary collaboration between biology and visualization.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Find more information on http://biovis.net
 
 ==========================================

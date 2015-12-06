@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_14" est globalement en : FRA
-[('FRA', 0.4004917366025181), ('ENG', 3.490888981687202)]
+Le mail "bioinfo_2014-11_14" est globalement en : french
+[('french', 0.038092564283313174), ('english', 3.6567749155504514)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Soutenance de thèse de Sylvain Prigent - 14 novembre 14h00 - INRIA/IRISA Rennes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	J'ai le plaisir de vous inviter à la soutenance de ma thèse de
 doctorat intitulée "Complétion combinatoire pour la reconstruction de
 réseaux métaboliques, et application au modèle des algues brunes
@@ -24,7 +24,7 @@ Ectocarpus siliculosus" qui aura lieu le vendredi 14 novembre 2014 à
 traditionnel pot qui suivra.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Le jury sera composé de :
 - Marie Beurton-Aimar, Maître de conférences, Université de Bordeaux 2
 (Rapporteure)
@@ -36,11 +36,11 @@ Le paragraphe 3 est en : FRA
 - Thierry Tonon, Maître de conférences UMPC (Co-directeur de thèse)
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Résumé :
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Durant cette thèse nous nous sommes attachés au développement d'une
 méthode globale de création de réseaux métaboliques chez des espèces
 biologiques non classiques pour lesquelles nous possédons peu
@@ -62,11 +62,11 @@ d'améliorer notre compréhension du métabolisme de cette espèce et
 d'améliorer l'annotation de son génome.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	-- 
 Sylvain PRIGENT (Doctorant)
 INRIA/IRISA
@@ -82,7 +82,7 @@ Tel : 02 99 84 22 41
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 J'ai le plaisir de vous inviter à la soutenance de ma thèse de
@@ -92,7 +92,7 @@ Ectocarpus siliculosus" qui aura lieu le vendredi 14 novembre 2014 à
 14h00, salle Métivier à INRIA/IRISA de Rennes, ainsi qu'au
 traditionnel pot qui suivra.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le jury sera composé de :
 - Marie Beurton-Aimar, Maître de conférences, Université de Bordeaux 2
 (Rapporteure)
@@ -110,36 +110,36 @@ méthode globale de création de réseaux métaboliques chez des espèces
 biologiques non classiques pour lesquelles nous possédons peu
 d'informations.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Classiquement cette reconstruction s'articule en trois
 points : la création d'une ébauche métabolique à partir d'un génome,
 la complétion du réseau et la vérification du résultat obtenu.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Nous
 nous sommes particulièrement intéressé au problème d'optimisation
 combinatoire difficile que représente l'étape de complétion du réseau,
 en utilisant un paradigme de programmation par contraintes pour le
 résoudre : la programmation par ensemble réponse (ou ASP).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Les
 modifications apportées à une méthode préexistante nous ont permis
 d'améliorer à la fois le temps de calcul pour résoudre ce problème
 combinatoire et la qualité de la modélisation.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	L'ensemble de ce processus de reconstruction de réseau métabolique a
 été appliqué au modèle des algues brunes, Ectocarpus siliculosus, nous
 permettant ainsi de reconstruire le premier réseau métabolique chez
 une macro-algue brune.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	La reconstruction de ce réseau nous a permis
 d'améliorer notre compréhension du métabolisme de cette espèce et
 d'améliorer l'annotation de son génome.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Cordialement,
 
 -- 

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_1" est globalement en : FRA
-[('FRA', 0.49679379145758046), ('ENG', 1.7648398250197934)]
+Le mail "bioinfo_2014-11_1" est globalement en : french
+[('french', 0.4438002137855711), ('english', 0.9721253921420661)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] CDD 6 mois (ou stage M  2) - Analyse de données NGS 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : CDD 6 mois (ou stage M2) - Analyse de données NGS
 Type de poste : CDD Ingénieur
 Durée du poste : 6 mois
@@ -25,7 +25,7 @@ Email du contact : valerie.cognat@ibmp-cnrs.unistra.fr
 Laboratoire : Institut de Biologie Moléculaire des Plantes
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/cdd-6-mois-ou-stage-m2-analyse-de-donn%C3%A9es-ngs
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/cdd-6-mois-ou-stage-m2-analyse-de-donn%C3%A9es-ngs
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : CDD 6 mois (ou stage M2) - Analyse de données NGS

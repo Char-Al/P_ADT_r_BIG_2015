@@ -1,50 +1,50 @@
-Le mail "bioinfo_2014-05_47" est globalement en : FRA
-[('FRA', 0.9190369668836271), ('ENG', 116.20197397463458)]
+Le mail "bioinfo_2014-05_47" est globalement en : french
+[('french', 0.43482023616415905), ('english', 0.9924466219820498)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] BIM: 2nd appel à manifestations 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Chères et chers collègues,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Le GdR de Bioinformatique Moléculaire du CNRS lance son deuxième appel à 
 animation de l'année 2014.
 Pour déposer votre demande, veuillez utiliser le formulaire suivant, 
 auquel vous joindrez un fichier descriptif (pdf ou texte simple).
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	http://www.gdr-bim.cnrs.fr/?page_id=34
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Le tout sera envoyé par mail au comité de direction.
 Toute demande passe obligatoirement par ce formulaire.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	La date limite de soumission est fixé au
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	    1 juin 2014.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	bien cordialement
 Eric Rivals, pour le comité de direction
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
 CNRS Research Director & Head of GDR Bioinformatique Moléculaire
@@ -55,7 +55,7 @@ Fax. (33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -63,25 +63,25 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Chères et chers collègues,
 
 Le GdR de Bioinformatique Moléculaire du CNRS lance son deuxième appel à 
 animation de l'année 2014.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : french
 	Pour déposer votre demande, veuillez utiliser le formulaire suivant, 
 auquel vous joindrez un fichier descriptif (pdf ou texte simple).
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	http://www.gdr-bim.cnrs.fr/?page_id=34
 
 Le tout sera envoyé par mail au comité de direction.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Toute demande passe obligatoirement par ce formulaire.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	La date limite de soumission est fixé au
 
     1 juin 2014.
@@ -97,11 +97,11 @@ LIRMM - UMR 5506 - CC 06 001
 95 Rue de la Galéra - 34095 Montpellier cedex 5 FRANCE
 Tel.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	(33 or 0 from France) 4 67 41 86 64
 Fax.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	(33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 

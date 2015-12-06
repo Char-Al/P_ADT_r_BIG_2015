@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_9" est globalement en : FRA
-[('FRA', 0.6588127835001889), ('ENG', 0.7158539793493511)]
+Le mail "bioinfo_2014-01_9" est globalement en : french
+[('french', 0.6481355407404507), ('english', 0.9367595828772348)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Ingénieur(e) bio-infor  maticien, bio-analyste
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur(e) bio-informaticien, bio-analyste
 Type de poste : Post-doc / IR
 Durée du poste : 12 mois
@@ -25,7 +25,7 @@ Email du contact : job@pathoquest.com
 Laboratoire : PathoQuest SAS
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieure-bio-informaticien-bio-analyste
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieure-bio-informaticien-bio-analyste
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur(e) bio-informaticien, bio-analyste

@@ -1,38 +1,38 @@
-Le mail "bioinfo_2014-04_3" est globalement en : FRA
-[('FRA', 0.42244888032775824), ('ENG', 31.339324952338785)]
+Le mail "bioinfo_2014-04_3" est globalement en : french
+[('french', 0.09882459868729637), ('english', 1.337352980352818)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Formation "Initiation à la construction de bases de données " - 19 au 23 mai 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	veuillez trouver ci-dessous l'annonce de la formation continue «
 Initiation à la construction de bases de données » de l'Université d'Evry.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Yolande Diaz, Carène Rizzon.
 ###########################################################
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	#########################
 ANNONCE FORMATION CONTINUE :
 #########################
 INITIATION A LA CONSTRUCTION DE BASES DE DONNEES
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	#########################
 OBJECTIFS
 #########################
@@ -43,7 +43,7 @@ Les participants peuvent venir avec leurs propres données pour construire
 la base.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	#########################
 PUBLIC
 #########################
@@ -51,7 +51,7 @@ Techniciens, Ingénieurs, Doctorants, Chercheurs et Personnels de santé
 exerçant dans le domaine des sciences du vivant ou de la physique/chimie
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	#########################
 PROGRAMME
 #########################
@@ -65,7 +65,7 @@ requête).
 • Mise en place d'une interface web de consultation de la base de données.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	#########################
 CONDITIONS D’ADMISSION
 #########################
@@ -76,7 +76,7 @@ n'est nécessaire.
 http://www.univ-evry.fr/fr/professionnalisation/formation_continue/formations_courtes_du_departement_biologie.html
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	#########################
 MODALITES
 #########################
@@ -88,14 +88,14 @@ Organisation - Nombre de participants : 6 (minimum) – 12 (maximum) - 1 PC
 par personne
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	#########################
 TARIF
 #########################
 Coût (Net de taxe) : 1500 € par stagiaire (repas inclus)
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	#########################
 CONTACTS
 #########################
@@ -107,7 +107,7 @@ Tel : 01 69 47 70 67
 Email : sylvie.barreau (at) univ-evry.fr
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Renseignements – Formation
 Carène RIZZON, Yolande DIAZ
 Laboratoire LaMME, équipe Statistique et Génome,
@@ -117,7 +117,7 @@ Courriel : carene.rizzon (at) genopole.cnrs.fr, yolande.diaz (at)
 genopole.cnrs.fr
 
 ==========================================
-Le paragraphe 13 est en : n
+Le paragraphe 13 est en : non detect
 	
 
 ==========================================
@@ -125,16 +125,16 @@ Le paragraphe 13 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 veuillez trouver ci-dessous l'annonce de la formation continue «
 Initiation à la construction de bases de données » de l'Université d'Evry.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Yolande Diaz, Carène Rizzon.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	###########################################################
 
 #########################
@@ -149,11 +149,11 @@ Construire d’une base de données, depuis la conception (prise en compte de
 la problématique, organisation des données) jusqu'à la mise en œuvre sur
 machine avec des logiciels libres.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Les participants peuvent venir avec leurs propres données pour construire
 la base.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	#########################
 PUBLIC
 #########################
@@ -165,31 +165,31 @@ PROGRAMME
 #########################
 • Introduction à Unix.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	• Etablissement du cahier des charges de la base de données.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	• Formalisation à l'aide d'un schéma conceptuel des données brutes
 (données et concepts associés).
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	• Bases théoriques (langage de représentation de données, langage de
 requête).
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	• Construction sur machine de la base avec intégration des données.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : english
 	• Mise en place d'une interface web de consultation de la base de données.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	#########################
 CONDITIONS D’ADMISSION
 #########################
 • Pré-requis pour entrer en formation :aucune connaissance en informatique
 n'est nécessaire.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	• Date limite de dépôt de bulletin d’inscription : 25/04/2014
 • Pour plus d'info voir : Pour plus d'info :
 http://www.univ-evry.fr/fr/professionnalisation/formation_continue/formations_courtes_du_departement_biologie.html

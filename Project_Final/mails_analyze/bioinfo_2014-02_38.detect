@@ -1,73 +1,73 @@
-Le mail "bioinfo_2014-02_38" est globalement en : FRA
-[('FRA', 0.8474810447215109), ('ENG', 2.6050405289583574)]
+Le mail "bioinfo_2014-02_38" est globalement en : french
+[('french', 0.15818775417848588), ('english', 1.92809784264442)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Stage M2 integration de données et web sémantique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour, 
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	une offre de stage M2 est disponible à l’Institut de Biologie Computationnelle  (Montpellier- http://www.ibc-montpellier.fr/).
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Bien cordialement 
 Pierre Larmande
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	----
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Sujet de stage
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Mots clés : sémantique web, algorithmique des graphes, services web, bases de données, matching de schémas
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Biosemantic[1] (http://www.southgreen.fr/content/biosemantic-tool) est une application web qui automatise la création de requêtes SPARQL au dessus de bases de données relationnelles distribuées. Les requêtes distribuées nécessitent d'identifier des éléments commun dans les différents schéma des bases. Pour cela, une étape d’annotation sémantique de schémas relationnels doit précéder la création de requêtes. Cette étape est actuellement réalisée manuellement.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	WebSmatch[2] (http://websmatch.gforge.inria.fr) est un environnement souple et ouvert pour la découverte et l'appariement des schémas complexes à partir de nombreuses sources de données hétérogènes sur le Web. Il fournit trois fonctions de base : extraction de métadonnées à partir de sources de données, alignement de schémas (à la fois 2 à 2 et n-way), clustering de schémas.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	L' objectif du stage est de développer les connexions entre Websmatch et Biosemantic ainsi que des implémentations particulières pour l'application Biosemantic. 
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Le stage se déroulera dans un environnement technique motivant, avec les technologies Java, GWT, Apache/Solr.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Description du stage:
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	- Développer et implémenter les connexions entre Websmatch et Biosemantic;
 - Améliorer l'algorithme de plus court chemin implémenté dans Biosemantic;
 - Développer et implémenter des algorithmes de parcours de graphes spécifiques;
 - Développer des fonctionnalités particulières à l'exécution des requêtes.
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Profil recherché
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	- Master 2 en informatique ou bioinformatique;
 - Solides connaissances du langage de programmation Java;
 - Bonnes connaissances des systèmes de gestion de bases de données relationnelles;
@@ -77,7 +77,7 @@ Le paragraphe 14 est en : FRA
 - Des connaissances en bioinformatique seraient un plus.
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	Rémunération : 436 euros net (gratification)
 Dossier de candidature : CV et lettre de motivation
 Encadrants : Pierre Larmande et Emmanuel Castanier
@@ -85,7 +85,7 @@ Lieu : Institut de Biologie Computationnelle (IBC), Montpellier
 Contact : pierre.larmande@ird.fr , emmanuel.castanier@inria.fr
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	[1]{Wollbrett J, Larmande P, de Lamotte F, Ruiz M. Clever generation of rich SPARQL queries from annotated relational schema: application to Semantic Web Service creation for biological databases. BMC Bioinformatics. 2013;14:126.}
 [2]{E. Castanier, R. Coletta, P. Valduriez, C. Frisch, Public Data Integration with WebSmatch, BDA'2012, Clermont-Ferrand, France, October 2012.}
 
@@ -94,12 +94,12 @@ Le paragraphe 16 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour, 
 
 une offre de stage M2 est disponible à l’Institut de Biologie Computationnelle  (Montpellier- http://www.ibc-montpellier.fr/).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Bien cordialement 
 Pierre Larmande
 
@@ -111,28 +111,28 @@ Mots clés : sémantique web, algorithmique des graphes, services web, bases de 
 
 Biosemantic[1] (http://www.southgreen.fr/content/biosemantic-tool) est une application web qui automatise la création de requêtes SPARQL au dessus de bases de données relationnelles distribuées.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Les requêtes distribuées nécessitent d'identifier des éléments commun dans les différents schéma des bases.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Pour cela, une étape d’annotation sémantique de schémas relationnels doit précéder la création de requêtes.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Cette étape est actuellement réalisée manuellement.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	WebSmatch[2] (http://websmatch.gforge.inria.fr) est un environnement souple et ouvert pour la découverte et l'appariement des schémas complexes à partir de nombreuses sources de données hétérogènes sur le Web.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Il fournit trois fonctions de base : extraction de métadonnées à partir de sources de données, alignement de schémas (à la fois 2 à 2 et n-way), clustering de schémas.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	L' objectif du stage est de développer les connexions entre Websmatch et Biosemantic ainsi que des implémentations particulières pour l'application Biosemantic.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Le stage se déroulera dans un environnement technique motivant, avec les technologies Java, GWT, Apache/Solr.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Description du stage:
 
 - Développer et implémenter les connexions entre Websmatch et Biosemantic;
@@ -140,7 +140,7 @@ La phrase 10 est en : FRA
 - Développer et implémenter des algorithmes de parcours de graphes spécifiques;
 - Développer des fonctionnalités particulières à l'exécution des requêtes.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Profil recherché
 
 - Master 2 en informatique ou bioinformatique;
@@ -151,7 +151,7 @@ La phrase 11 est en : FRA
 - Bon relationnel;
 - Des connaissances en bioinformatique seraient un plus.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Rémunération : 436 euros net (gratification)
 Dossier de candidature : CV et lettre de motivation
 Encadrants : Pierre Larmande et Emmanuel Castanier
@@ -160,12 +160,12 @@ Contact : pierre.larmande@ird.fr , emmanuel.castanier@inria.fr
 
 [1]{Wollbrett J, Larmande P, de Lamotte F, Ruiz M. Clever generation of rich SPARQL queries from annotated relational schema: application to Semantic Web Service creation for biological databases.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	BMC Bioinformatics.
 ==========================================
-La phrase 14 est en : n
+La phrase 14 est en : non detect
 	2013;14:126.}
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	[2]{E. Castanier, R. Coletta, P. Valduriez, C. Frisch, Public Data Integration with WebSmatch, BDA'2012, Clermont-Ferrand, France, October 2012.}
 ==========================================

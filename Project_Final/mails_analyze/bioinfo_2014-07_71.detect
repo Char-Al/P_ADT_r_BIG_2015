@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_71" est globalement en : FRA
-[('FRA', 0.3639116352927164), ('ENG', 3.9701349380797573)]
+Le mail "bioinfo_2014-07_71" est globalement en : french
+[('french', 0.4372008647254344), ('english', 1.5065876623947876)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur en développement et déploiement d'applications
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur en développement et déploiement
 d'applications
 Type de poste : CDD Ingénieur
@@ -27,12 +27,12 @@ Email du contact : ydeoliveira@moulon.inra.fr
 Laboratoire : UMR Génétique Végétale - Le Moulon
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-en-d%C3%A9veloppement-et-d%C3%A9ploiement-dapplications
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

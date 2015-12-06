@@ -1,32 +1,32 @@
-Le mail "bioinfo_2014-02_12" est globalement en : FRA
-[('FRA', 0.8366417608861003), ('ENG', 1.1081115843993312)]
+Le mail "bioinfo_2014-02_12" est globalement en : french
+[('french', 0.24457319384601936), ('english', 3.073933819460972)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Cycle de formation "Bioinformatique par la pratique" 2014 (INRA Jouy)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	L'unité MIG et sa plateforme MIGALE, de l'INRA de Jouy-en-Josas,
 proposent un certain nombre de modules de formation dans le cadre de
 leur cycle 2014 "Bioinformatique par la pratique".
 http://migale.jouy.inra.fr/?q=formations
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Voici une liste de modules non encore complets :
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	* Linux (1j) : 31 mars ou 13 mai ou 2 juin
 * Comparaison de séquences protéiques, recherche d'homologues dans les 
 banques. Application à l'analyse fonctionnelle : attribution d'une 
@@ -50,23 +50,23 @@ d'intérêt différentiellement exprimées (1j) : 15 mai
 19 juin (*EXCLUSIVITE*)
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Les plaquettes descriptives de chacun de ces modules ainsi que les
 tarifs (de 150EUR à 200EURHT selon le nb de jours) et les pré-requis
 sont disponibles sur le site http://migale.jouy.inra.fr/?q=formations.
 Règlement uniquement par bon de commande.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Pour toute information supplémentaire : formation.migale@jouy.inra.fr
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Cordialement,
 Sophie
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	-- 
     ___
    / _ \\  ,,        Sophie SCHBATH     Sophie.Schbath@jouy.inra.fr
@@ -87,14 +87,14 @@ Le paragraphe 8 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 L'unité MIG et sa plateforme MIGALE, de l'INRA de Jouy-en-Josas,
 proposent un certain nombre de modules de formation dans le cadre de
 leur cycle 2014 "Bioinformatique par la pratique".
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	http://migale.jouy.inra.fr/?q=formations
 
 Voici une liste de modules non encore complets :
@@ -103,7 +103,7 @@ Voici une liste de modules non encore complets :
 * Comparaison de séquences protéiques, recherche d'homologues dans les 
 banques.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Application à l'analyse fonctionnelle : attribution d'une 
 fonction aux produits des gènes (2j) : 1&2 avril
 * Initiation à la phylogénie (2j) : 7&8 avril
@@ -128,10 +128,10 @@ Les plaquettes descriptives de chacun de ces modules ainsi que les
 tarifs (de 150EUR à 200EURHT selon le nb de jours) et les pré-requis
 sont disponibles sur le site http://migale.jouy.inra.fr/?q=formations.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Règlement uniquement par bon de commande.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Pour toute information supplémentaire : formation.migale@jouy.inra.fr
 
 Cordialement,
@@ -144,18 +144,18 @@ Sophie
   \ =(_) (O}           Unite Mathematique, Informatique & Genome (MIG)
    \_____\\      .--.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	INRA - Domaine de Vilvert
     /=(_)\\\   .'_\/_'.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	F-78352 Jouy-en-Josas
     \____///   '.
 ==========================================
-La phrase 8 est en : n
+La phrase 8 est en : non detect
 	/\ .'
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Tel : +33 1 34 65 28 90
          ())     "||"      Fax : +33 1 34 65 29 01
                   || /\

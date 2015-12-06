@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_91" est globalement en : FRA
-[('ENG', 0.5652172746035303), ('FRA', 1.086980815828095)]
+Le mail "bioinfo_2014-09_91" est globalement en : french
+[('french', 0.6435743918136368), ('english', 0.7794451659219606)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDI autre] Offre d'emploi Bioinformaticien (H/F)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Offre d'emploi Bioinformaticien (H/F)
 Type de poste : CDI autre
 Durée du poste :
@@ -25,7 +25,7 @@ Email du contact : rhrecherche@igr.fr
 Laboratoire : Plateforme de Bioinformatique, Institut Gustave Roussy
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/offre-demploi-bioinformaticien-hf
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/offre-demploi-bioinformaticien-hf
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Offre d'emploi Bioinformaticien (H/F)

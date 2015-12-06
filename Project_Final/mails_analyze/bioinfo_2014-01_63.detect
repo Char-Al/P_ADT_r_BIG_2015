@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-01_63" est globalement en : FRA
-[('FRA', 0.8276959305683963), ('ENG', 1.1034959255308305)]
+Le mail "bioinfo_2014-01_63" est globalement en : french
+[('french', 0.04312073543628736), ('english', 9.033763225789592)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Workshop Bioinformatique pour la Génomique Environnementale Lyon 27-28 mai
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Le workshop "Bioinformatique pour la Génomique Environnementale", organisé sous l'égide du Réseau Thématique Pluridisciplinaire en Génomique Environnementale (RTP-GE) du CNRS, se déroulera à Lyon les 27 et 28 mai 2014. Ce workshop vise à rassembler des chercheurs de différents domaines qui utilisent (ou sont désireux d'utiliser) les nouvelles technologies de séquençage ainsi que les développements les plus récents en bioinformatique, ceci dans le but d'étudier des questions relatives à l'écologie, l'évolution, la biodiversité, la systématique ainsi que la génomique des populations.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Les thématiques abordées par ce workshop sont les suivantes :
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	 - Traitement des données de séquences.
  - Phylogénie et classification.
  - Estimation de la biodiversité.
@@ -35,23 +35,23 @@ Le paragraphe 4 est en : FRA
  - Modélisation.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Chacune de ces thématiques pourra faire l'objet d'une session à part entière, ceci en fonction du nombre de contributions correspondantes reçues. Trente contributions orales et cent contributions affichées seront retenues.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Nous vous invitons à vous inscrire et à soumettre un résumé pour une communication orale ou affichée. Les procédures relatives à l'inscription et à la soumission de résumés sont détaillées dans la section "Informations pratiques" du site, qui est accessible à l'adresse :
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	http://ge-lyon2014.sciencesconf.org/
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Notez que la langue officielle du workshop est l'anglais. La date de cloture des soumissions est fixée au vendredi 18 avril et la date limite pour les inscriptions est fixée au dimanche 27 avril. Compte-tenu des capacités d'accueil limitées à 450 personnes, nous nous réservons le droit de refuser les inscriptions au delà de ce seuil. Les frais d'inscriptions s'élèvent à 60 Euros TTC et incluent les déjeuners, pauses café et le cocktail dînatoire du 27 mai.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Pour le Comité Scientifique du RTP-GE et le Comité de Programme :
 --
 Guy Perrière - Laboratoire BBE - Université Claude Bernard Lyon 1
@@ -59,7 +59,7 @@ Guy Perrière - Laboratoire BBE - Université Claude Bernard Lyon 1
 http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -67,75 +67,75 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous,
 
 Le workshop "Bioinformatique pour la Génomique Environnementale", organisé sous l'égide du Réseau Thématique Pluridisciplinaire en Génomique Environnementale (RTP-GE) du CNRS, se déroulera à Lyon les 27 et 28 mai 2014.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Ce workshop vise à rassembler des chercheurs de différents domaines qui utilisent (ou sont désireux d'utiliser) les nouvelles technologies de séquençage ainsi que les développements les plus récents en bioinformatique, ceci dans le but d'étudier des questions relatives à l'écologie, l'évolution, la biodiversité, la systématique ainsi que la génomique des populations.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Les thématiques abordées par ce workshop sont les suivantes :
 
  - Traitement des données de séquences.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	- Phylogénie et classification.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	- Estimation de la biodiversité.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	- Diversité génomique et analyse de variants.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	- Métagénomique et métatranscriptomique.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	- Génomique des populations.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	- Reconstruction de génomes.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	- Reconstructions métaboliques.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	- Modélisation.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Chacune de ces thématiques pourra faire l'objet d'une session à part entière, ceci en fonction du nombre de contributions correspondantes reçues.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Trente contributions orales et cent contributions affichées seront retenues.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Nous vous invitons à vous inscrire et à soumettre un résumé pour une communication orale ou affichée.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Les procédures relatives à l'inscription et à la soumission de résumés sont détaillées dans la section "Informations pratiques" du site, qui est accessible à l'adresse :
 
 http://ge-lyon2014.sciencesconf.org/
 
 Notez que la langue officielle du workshop est l'anglais.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	La date de cloture des soumissions est fixée au vendredi 18 avril et la date limite pour les inscriptions est fixée au dimanche 27 avril.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Compte-tenu des capacités d'accueil limitées à 450 personnes, nous nous réservons le droit de refuser les inscriptions au delà de ce seuil.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Les frais d'inscriptions s'élèvent à 60 Euros TTC et incluent les déjeuners, pauses café et le cocktail dînatoire du 27 mai.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	Pour le Comité Scientifique du RTP-GE et le Comité de Programme :
 --
 Guy Perrière - Laboratoire BBE - Université Claude Bernard Lyon 1
 43 bd.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	du 11 Novembre 1918 - 69622 Villeurbanne Cedex - France
 http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html
 

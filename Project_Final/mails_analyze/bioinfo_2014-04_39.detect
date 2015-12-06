@@ -1,35 +1,35 @@
-Le mail "bioinfo_2014-04_39" est globalement en : FRA
-[('FRA', 0.707164249392389), ('ENG', 43.08258992087478)]
+Le mail "bioinfo_2014-04_39" est globalement en : french
+[('french', 0.08559006364086011), ('english', 1.8288301276783867)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Thèse sur l'indexation de séquences de lymphocytes à Lille
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	L'équipe Bonsai (LIFL, Inria) à Lille dispose d'un financement pour une
 thèse en algorithmique du texte appliquée au suivi de la leucémie.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Titre : Indexation de réarrangements lymphoïdes VDJ pour le suivi de la
 leucémie
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Date limite : 30 avril 2014
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Sujet :
 Le but de cette thèse est d'étudier finement la population clonale
 complète d'un patient atteint de leucémie, en se positionnant  au-delà
@@ -45,11 +45,11 @@ adaptée) afin d'améliorer l'information fournie aux cliniciens ou
 biologistes.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Sujet détaillé : http://www.lifl.fr/~salson/these-vdj.pdf
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	*Candidature*
 Nous cherchons une personne ayant de bonnes connaissances en
 algorithmique du texte avec un goût pour la biologie. Pour toute
@@ -61,12 +61,12 @@ candidature veuillez envoyer :
 votre candidature.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Cordialement,
 Mikaël Salson.
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -74,13 +74,13 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 L'équipe Bonsai (LIFL, Inria) à Lille dispose d'un financement pour une
 thèse en algorithmique du texte appliquée au suivi de la leucémie.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Titre : Indexation de réarrangements lymphoïdes VDJ pour le suivi de la
 leucémie
 
@@ -91,31 +91,31 @@ Le but de cette thèse est d'étudier finement la population clonale
 complète d'un patient atteint de leucémie, en se positionnant  au-delà
 du suivi d'un clone connu lors du diagnostic.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	On souhaite pouvoir
 observer l'ensemble des réarrangements V(D)J, leur évolution et leur
 abondance relative.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Les algorithmes développés dans l'équipe de
 bioinformatique Bonsai au sein du logiciel Vidjil suivent déjà
 plusieurs clones au cours du temps, mais ne permettent pour l'instant
 pas de reconstituer « l'histoire évolutive » d'un ensemble de clones.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	L'objectif de la thèse est donc d'enrichir Vidjil de nouveaux
 développements algorithmiques (conception d'une structure d'indexation
 adaptée) afin d'améliorer l'information fournie aux cliniciens ou
 biologistes.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Sujet détaillé : http://www.lifl.fr/~salson/these-vdj.pdf
 
 *Candidature*
 Nous cherchons une personne ayant de bonnes connaissances en
 algorithmique du texte avec un goût pour la biologie.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Pour toute
 candidature veuillez envoyer :
 – un CV ;
@@ -124,7 +124,7 @@ candidature veuillez envoyer :
 – trois adresses électroniques de personnes pouvant donner un avis sur
 votre candidature.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Cordialement,
 Mikaël Salson.
 

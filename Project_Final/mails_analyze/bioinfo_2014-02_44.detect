@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-02_44" est globalement en : FRA
-[('ENG', 0.5178443493841168), ('FRA', 0.6568081618185497)]
+Le mail "bioinfo_2014-02_44" est globalement en : french
+[('french', 0.25097866460112134), ('english', 0.6000542853959284)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] comite utilisateur
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour, 
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	pensez vous que nous devons informer le centre et la DSI (ex;Fabrice) du comité utilisateur pour qu’il viennent s’il le souhaite ?
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Pierre
 
 ==========================================
@@ -27,11 +27,11 @@ Le paragraphe 3 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour, 
 
 pensez vous que nous devons informer le centre et la DSI (ex;Fabrice) du comité utilisateur pour qu’il viennent s’il le souhaite ?
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Pierre
 ==========================================

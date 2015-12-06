@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_60" est globalement en : FRA
-[('FRA', 0.14891068023028375), ('ENG', 2.5698039480085493)]
+Le mail "bioinfo_2014-12_60" est globalement en : french
+[('french', 0.3456395827975547), ('english', 0.8407417578718359)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 - Caractérisation in silico   du potentiel génétique et fonctionnel des es  pècesbactériennes de la flore intestinale
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 - Caractérisation in silico du potentiel génétique  
 et fonctionnel des espèces bactériennes de la flore intestinale
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : nicolas.pons@jouy.inra.fr
 Laboratoire : INRA - MetaGenoPolis
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-caract%C3%A9risation-silico-du-potentiel-g%C3%A9n%C3%A9tique-et-fonctionnel-des-esp%C3%A8ces-bact%C3%A9riennes-de-
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m2-caract%C3%A9risation-silico-du-potentiel-g%C3%A9n%
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 - Caractérisation in silico du potentiel génétique  

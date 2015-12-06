@@ -1,24 +1,24 @@
-Le mail "bioinfo_2014-05_52" est globalement en : FRA
-[('ENG', 0.33421915327816143), ('FRA', 0.4427932773767862)]
+Le mail "bioinfo_2014-05_52" est globalement en : french
+[('french', 0.19158563389632488), ('english', 6.08700727313826)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Formation analyses RNA-seq sur la plate-forme MicroScope [2-3 octobre
  2014]
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	La prochaine session de formation dédiée aux analyses RNA-Seq sur la 
 plate-forme MicroScope («RNA-Seq Analyses using the MicroScope 
 Platform») aura lieu les Jeudi 2 et Vendredi 3 Octobre 2014.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	MicroScope ( https://www.genoscope.cns.fr/agc/microscope/ ) est une 
 plate-forme orientée web dédiée à l'annotation fonctionnelle et à 
 l'analyse comparative de génomes microbiens.Développée par l'équipe 
@@ -37,7 +37,7 @@ par requêtes de mots-clés, par la génomique comparative, les analyses
 métaboliques, ou des statistiques pré-calculées sur les génomes.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Cette formation s'adresse aussi bien aux personnes ayant déjà un projet 
 d'annotation sur cette plate-forme et souhaitant approfondir son 
 utilisation à travers l'analyse des données de type RNA-Seq, qu'à celles 
@@ -45,7 +45,7 @@ souhaitant s'initier à la génomique comparative et à l'exploitation des
 données NGS.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Les informations administratives, les horaires, le lieu et le prix de 
 cette formation sont disponibles sur le site du LABGeM : 
 https://www.genoscope.cns.fr/agc/website/spip.php?article757 .
@@ -58,12 +58,12 @@ prendront ensuite contact avec vous afin de vous transmettre le devis,
 ainsi que la convention de formation.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Cordialement
 L'équipe LABGeM
 
 ==========================================
-Le paragraphe 6 est en : n
+Le paragraphe 6 est en : non detect
 	
 
 ==========================================
@@ -71,12 +71,12 @@ Le paragraphe 6 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	La prochaine session de formation dédiée aux analyses RNA-Seq sur la 
 plate-forme MicroScope («RNA-Seq Analyses using the MicroScope 
 Platform») aura lieu les Jeudi 2 et Vendredi 3 Octobre 2014.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	MicroScope ( https://www.genoscope.cns.fr/agc/microscope/ ) est une 
 plate-forme orientée web dédiée à l'annotation fonctionnelle et à 
 l'analyse comparative de génomes microbiens.Développée par l'équipe 
@@ -85,7 +85,7 @@ bio-informatique du LABGeM ( https://www.genoscope.cns.fr/agc/website/
 MicroScope propose des résultats d'annotation syntaxique et 
 fonctionnelle pré-calculés, ainsi qu'un ensemble d'outils d'analyse.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	L'interface web de la plate-forme a été spécifiquement développée pour 
 assister les annotateurs / curateurs dans leur travail grâce à des 
 données « sequence-based » (prédiction de domaines InterPro), « 
@@ -93,25 +93,25 @@ context-based » ( synténies, prédiction de réseaux métaboliques) et
 expérimentales (expériences de croissance) dans le but d'assigner la 
 meilleure annotation possible à un produit de gène.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	De plus, MicroScope 
 propose plusieurs fonctionnalités dédiées à l'exploration de données, 
 par requêtes de mots-clés, par la génomique comparative, les analyses 
 métaboliques, ou des statistiques pré-calculées sur les génomes.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Cette formation s'adresse aussi bien aux personnes ayant déjà un projet 
 d'annotation sur cette plate-forme et souhaitant approfondir son 
 utilisation à travers l'analyse des données de type RNA-Seq, qu'à celles 
 souhaitant s'initier à la génomique comparative et à l'exploitation des 
 données NGS.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Les informations administratives, les horaires, le lieu et le prix de 
 cette formation sont disponibles sur le site du LABGeM : 
 https://www.genoscope.cns.fr/agc/website/spip.php?article757 .
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Si vous êtes intéressés par cette formation, veuillez remplir le 
 formulaire d'inscription disponible à l'adresse suivante: 
 https://www.genoscope.cns.fr/agc/website/spip.php?page=forma_register&lang=fr&session=2155
@@ -120,7 +120,7 @@ Nos collaborateurs de l'Université d'Evry-Val d'Essonne
 prendront ensuite contact avec vous afin de vous transmettre le devis, 
 ainsi que la convention de formation.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Cordialement
 L'équipe LABGeM
 

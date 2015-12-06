@@ -1,34 +1,34 @@
-Le mail "bioinfo_2014-10_11" est globalement en : FRA
-[('FRA', 0.4845607799278316), ('ENG', 0.5230794376697148)]
+Le mail "bioinfo_2014-10_11" est globalement en : french
+[('french', 0.0486510266655337), ('english', 4.531999550475591)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi] [Stage] Stage Master 2 INRA Toulouse - Analyse de méthylomes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Analyse de la méthylation de l'ADN en lien avec le transcriptome dans 
 l'embryon de poulet.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Stage Master 2 Recherche
 Unité : UMR INRA / INPT ENSAT / INPT ENVT, GENPHYSE, Castanet-Tolosan, 
 31326, France
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Responsables scientifiques (contact):
 Frédérique Pitel (frederique.pitel@toulouse.inra.fr), Sylvain Foissac 
 (sylvain.foissac@toulouse.inra.fr)
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	CONTEXTE
 Les caractères économiques les plus pertinents dans les productions 
 animales présentent des variations phénotypiques continues dues à des 
@@ -58,7 +58,7 @@ généticiens visant à étudier l'adaptation des animaux à des
 environnements changeants.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	SUJET
 Deux lignées de poulet ont été croisées, en croisements réciproques, 
 pour obtenir des embryons, analysés à l'âge de 4,5 jours de 
@@ -84,7 +84,7 @@ soutien des équipes bioinformatiques de la plate-forme Genotoul
 et méthylome sur 8 réplicats) est à l'heure actuelle unique chez le poulet.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	COMPETENCES ACQUISES
 - Analyse de données de séquençage haut-débit
 - Utilisation, et développement si nécessaire, de scripts 
@@ -93,7 +93,7 @@ bioinformatiques pour le traitement des données
 - Éventuellement : validations expérimentales par pyroséquençage
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	
 
 ==========================================
@@ -101,11 +101,11 @@ Le paragraphe 7 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Analyse de la méthylation de l'ADN en lien avec le transcriptome dans 
 l'embryon de poulet.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Stage Master 2 Recherche
 Unité : UMR INRA / INPT ENSAT / INPT ENVT, GENPHYSE, Castanet-Tolosan, 
 31326, France
@@ -119,7 +119,7 @@ Les caractères économiques les plus pertinents dans les productions
 animales présentent des variations phénotypiques continues dues à des 
 facteurs génétiques et environnementaux et à leurs interactions.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Des 
 marques épigénétiques (méthylation de l’ADN, modifications 
 post-traductionnelles d’histones, …) peuvent influencer l’expression des 
@@ -127,30 +127,30 @@ gènes en réponse à l’environnement, démontrant que le génome eucaryote
 répond de manière dynamique aux variations du milieu auxquelles 
 l'individu se trouve exposé.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Chez l'homme, les publications associant 
 certaines maladies à des modifications de marques épigénétiques - 
 transmissibles ou non - se multiplient dans des domaines aussi 
 différents que les comportements, les maladies cardiovasculaires ou les 
 cancers.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Des études chez divers organismes eucaryotes, des plantes à 
 l’homme, ont de plus récemment révélé que l'information épigénétique 
 pouvait être transmise à travers les générations.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	En particulier, la 
 transmission intergénérationnelle de la méthylation de l’ADN est très 
 clairement établie chez les végétaux, ainsi que l’influence de ces 
 marques sur la variabilité des phénotypes.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Ces phénomènes pourraient 
 expliquer une part de l'"héritabilité manquante" évoquée depuis les 
 études de GWAS (Genome Wide Association Studies) humaines.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Comprendre 
 l'influence des modifications épigénétiques sur l'expression des gènes, 
 notamment en raison de facteurs environnementaux, constitue un domaine 
@@ -160,52 +160,52 @@ actuelle ; ces phénomènes pourraient être pris en compte par les
 généticiens visant à étudier l'adaptation des animaux à des 
 environnements changeants.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	SUJET
 Deux lignées de poulet ont été croisées, en croisements réciproques, 
 pour obtenir des embryons, analysés à l'âge de 4,5 jours de 
 développement.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Les transcriptomes issus de ces embryons (n = 20) ont été 
 séquencés dans un programme financé par l'ANR (EpiBird).
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Nous disposons 
 également des séquences génomiques de 8 de ces embryons (4 mâles et 4 
 femelles), ainsi que des séquences issues de WGBS (Whole Genome 
 Bisulfite Sequencing), permettant de déterminer le taux de méthylation 
 de chaque cytosine, à l'échelle du génome.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	La question scientifique principale qui fait l'objet de ce stage est la 
 relation, chez l'oiseau, entre la méthylation de l'ADN et l'expression 
 des gènes à un stade de développement particulier.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Cette étude sera 
 complétée par des analyses différentielles de taux de méthylation entre 
 sexes et entre sens de croisements.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	L'étudiant(e) disposera de données 
 haut-débit pour lesquelles les traitements bioinformatiques préalables 
 (vérification de la qualité, mapping sur le génome) auront déjà été 
 réalisés, les données transcriptomiques notamment ayant fait l'objet 
 d'une thèse spécifique.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Il/elle travaillera dans un environnement 
 propice à l'analyse de ce type de données, en particulier avec le 
 soutien des équipes bioinformatiques de la plate-forme Genotoul 
 (http://bioinfo.genotoul.fr/) et Sigenae (www.sigenae.org 
 <http://www.sigenae.org/>).
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Un tel jeu de données (génome, transcriptome 
 et méthylome sur 8 réplicats) est à l'heure actuelle unique chez le poulet.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	COMPETENCES ACQUISES
 - Analyse de données de séquençage haut-débit
 - Utilisation, et développement si nécessaire, de scripts 

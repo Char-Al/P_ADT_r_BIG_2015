@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_77" est globalement en : FRA
-[('FRA', 0.39069376889436236), ('ENG', 4.689410086582053)]
+Le mail "bioinfo_2014-10_77" est globalement en : french
+[('french', 0.3622469411825407), ('english', 0.7815285219285362)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Méta -analyses des données de   barcoding et de métagénomique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Méta-analyses des données de barcoding et de  
 métagénomique
 Type de poste : Stage
@@ -27,7 +27,7 @@ Laboratoire : UMR 1345 Institut de Recherche en Horticulture et Semences
 (IRHS) - Equipe Emersys
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m%C3%A9ta-analyses-des-donn%C3%A9es-de-barcoding-et-de-m%C3%A9tag%C3%A9nomique
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/m%C3%A9ta-analyses-des-donn%C3%A9es-de-barcoding-et-d
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Méta-analyses des données de barcoding et de  

@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-04_73" est globalement en : ENG
-[('ENG', 0.31004668180792927), ('FRA', 0.6172552120184684)]
+Le mail "bioinfo_2014-04_73" est globalement en : english (conflict)
+[('english', 0.5906342741895272), ('french', 0.6985425904341289)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] cphRNA 2014: Summer School in RNA Bioinformatics (Copenhagen, Denmark) 2nd announcement
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Voici une annonce d'école d'été sur la bioinfo des ARN (non-codants, mais pas que ...), organisée par le groupe de Gorodkin. 
 Plus de détails à :
   http://rth.dk/media/cphRNA2014_flyer.pdf
@@ -19,22 +19,22 @@ ou, plus généralement :
   http://rth.dk/cphrna2014  
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Yann
 ---------------------------------------------------------------
 We are happy to announce the cphRNA summer school in RNA bioinformatics from June 23rd to June 28th. The summer school also cover a symposium on June 27th, which is open for all.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The details are in the attached flyer.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	bw,
 Jan
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	-- 
 Jan Gorodkin, center dir., prof., Ph.D.
 Center for non-coding RNA in Technology and Health, IKVH
@@ -48,13 +48,13 @@ Email: gorodkin@rth.dk
 URL: http://rth.dk
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	NEW BOOK: http://rth.dk/rnabook
 RNA Sequence, Structure and Function:
 Computational and Bioinformatic Methods
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	cphRNA 2014: Summer School in RNA Bioinformatics
 http://rth.dk/cphrna2014 
 
@@ -64,10 +64,10 @@ http://rth.dk/cphrna2014
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Voici une annonce d'école d'été sur la bioinfo des ARN (non-codants, mais pas que ...), organisée par le groupe de Gorodkin.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Plus de détails à :
   http://rth.dk/media/cphRNA2014_flyer.pdf
 ou, plus généralement :
@@ -77,13 +77,13 @@ Yann
 ---------------------------------------------------------------
 We are happy to announce the cphRNA summer school in RNA bioinformatics from June 23rd to June 28th.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The summer school also cover a symposium on June 27th, which is open for all.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The details are in the attached flyer.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	bw,
 Jan
 

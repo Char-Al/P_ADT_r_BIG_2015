@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_54" est globalement en : FRA
-[('FRA', 0.8882288237367535), ('ENG', 1.8056247727188544)]
+Le mail "bioinfo_2014-02_54" est globalement en : french
+[('french', 0.6744521115146684), ('english', 1.3102633982857477)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IE] Ingénieur Bio-informatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur Bio-informatique
 Type de poste : IE
 Durée du poste : indéterminée
@@ -25,7 +25,7 @@ Email du contact : contact@discngine.com
 Laboratoire : DISCNGINE
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-bio-informatique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-bio-informatique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur Bio-informatique

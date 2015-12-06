@@ -1,73 +1,73 @@
-Le mail "bioinfo_2014-07_13" est globalement en : FRA
-[('FRA', 0.6330447044308675), ('ENG', 0.6544371285881161)]
+Le mail "bioinfo_2014-07_13" est globalement en : french
+[('french', 0.024139257112790774), ('english', 2.0244062387714385)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] INGENIEUR ou POST-DOC EN GENOMIQUE FONCTIONNELLE
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	INGENIEUR ou POST-DOC EN GENOMIQUE FONCTIONNELLE
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Contact : bernardm@ciml.univ-mrs.fr
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Durée du contrat : 1 an renouvelable
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Date prévisionnelle démarrage prévue: le 1er septembre 2014, sous
 réserve de constitution du dossier d’embauche
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Audition des candidats : juillet 2014
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Equipe d’accueil:
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Equipe de Bernard et Marie Malissen, Génétique fonctionnelle des
 lymphocytes T et des cellules dendritiques,
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Centre d’immunologie de Marseille-Luminy,
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Parc scientifique et technologique de Luminy, case 906, F-13288
 Marseille Cedex 09
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	http://www.ciml.univ-mrs.fr/fr/science/lab-bernard-marie-malissen/pour-tous
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Nature du travail: analyses bio-informatiques de données de puces à ADN
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	*traitement de données générées au laboratoire et/ou récupération de
 données publiques (GEO, ArrayExpress …)
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	*pre-processing des données (contrôles qualité et normalisation)
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	*Analyses statistiques pour identification des gènes
 différentiellement exprimés (Limma, VAMPIRE …) et des gènes
 étroitement co-régulés, Self organizing Maps (SOM), analyses des
@@ -76,45 +76,45 @@ motifs, modélisation de réseaux de gènes, Gene Set Enrichment Analysis
 (GSEA), clustering hiérarchiques…
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	Qualifications requises impérativement :
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	*formation avérée en génomique fonctionnelle, en particulier pour les
 analyses bio-informatiques de données de puces à ADN
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	*connaissance du langage R
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	* bonne connaissance de l’anglais
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	Qualités requises :
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	*capacité à travailler en équipe
 
 ==========================================
-Le paragraphe 21 est en : FRA
+Le paragraphe 21 est en : french
 	*grande rigueur dans l’organisation du travail et dans le stockage des
 résultats des analyses
 
 ==========================================
-Le paragraphe 22 est en : FRA
+Le paragraphe 22 est en : french
 	*fort investissement dans le travail
 
 ==========================================
-Le paragraphe 23 est en : FRA
+Le paragraphe 23 est en : french
 	Informations supplémentaires:
 
 ==========================================
-Le paragraphe 24 est en : FRA
+Le paragraphe 24 est en : french
 	Le travail sera effectué dans le cadre d’un contrat entre le CIML et
 Sanofi-Aventis, ce qui permettra l’acquisition d’une expérience de
 travail à l’interface entre la recherche académique et la recherche
@@ -134,7 +134,7 @@ et en concertation avec l’équipe de Marc Dalod.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	INGENIEUR ou POST-DOC EN GENOMIQUE FONCTIONNELLE
 
 Contact : bernardm@ciml.univ-mrs.fr
@@ -205,20 +205,20 @@ Sanofi-Aventis, ce qui permettra l’acquisition d’une expérience de
 travail à l’interface entre la recherche académique et la recherche
 industrielle.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le projet est focalisé sur la caractérisation des
 sous-populations d’immunocytes murins et humains en conditions normale
 et pathologiques, basée sur des analyses de génomique fonctionnelle
 (projet I2HD pour «Innate Immunocytes in Health and Disease»).
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Le
 projet I2HD repose sur la génération par puce à ADN et l’analyse
 bio-informatique d’un grand nombre de profils d’expression génétique
 de différentes sous-populations de cellules immunitaires innées, ou de
 tissus, isolés de souris.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Le travail sera effectué au sein de l’équipe
 et en concertation avec l’équipe de Marc Dalod.
 

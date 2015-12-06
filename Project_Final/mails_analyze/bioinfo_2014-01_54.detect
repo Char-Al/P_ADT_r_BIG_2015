@@ -1,54 +1,54 @@
-Le mail "bioinfo_2014-01_54" est globalement en : ENG
-[('FRA', 0.2858632998343411), ('ENG', 1.8194417974246373)]
+Le mail "bioinfo_2014-01_54" est globalement en : english
+[('english', 0.04336815243976807), ('french', 0.38414314234159913)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] POST DOCTORAL RESEARCH POSITION in quantitative genetics and machine learning (University of Liège)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : french
 	Job Advertisement: POST DOCTORAL RESEARCH POSITION in quantitative genetics and machine learning
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	We are inviting applications for a POST DOCTORAL RESEARCHER in the Unit of Animal Genomics at the University of Liège in Belgium.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The successful candidate will work on a project aimed at using Machine Learning techniques to improve haplotype clustering methods by combining various sources of information (LD, pedigree, next-generation sequencing data, etc). The objective is to improve the definition of haplotypes to allow for more efficient imputation, fine-mapping and genomic selection. The project will also explore how to optimally use these haplotypes in genomic selection by comparing traditional approaches (GBLUP, Bayesian Alphabet) to innovative Machine Learning techniques. The project is a collaboration between the Unit of Animal Genomics and the Systems and modeling unit of the University of Liège. The successful candidate will work under the joint supervision of Dr T. Druet and Prof P. Geurts.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The Unit of Animal Genomics, under the supervision of Prof Michel Georges, focuses on the forward genetic dissection of Mendelian and complex traits in domestic animals and humans. One of the key projects of the group is the development of approaches for the utilization of molecular information in livestock breeding, including genomic selection and transgenics. The unit is based in the Interdisciplinary Cluster of Applied Genoproteomics (GIGA-Research) at the University of Liège in Belgium
 (http://www.giga.ulg.ac.be/jcms/prod_205624/unit-of-animal-genomics).
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The research unit in Systems and Modeling belongs to the department of Electrical Engineering and Computer Science of ULg (Institut Montefiore). This research unit is composed of about 50 members working in the area of machine learning, statistics, optimization, systems and control, and applications of these methods in various domains such as bioinformatics, networking, and power systems. About 15 members of the unit carry out their research within GIGA-Research, where they are part of the thematic research unit in Systems Biology and Chemical Biology.
 (http://www.montefiore.ulg.ac.be/systmod/).
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	The main qualifications include:
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	-A PhD degree in quantitative genetics, statistical genomics, machine learning, or related fields, PhD students who will be presenting their thesis in the coming months are also encouraged to apply.
 -Experience in scientific programming with Fortran, C, Python, or Perl
 -Experience and strong interest in the field of quantitative genetics and/or machine learning
 -Be fluent in English (no need to speak French)
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Funding for a full-time position starts on July 1st and will be for an initial duration of 24 months with the possibility of an extension.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Applications should be addressed to both Dr Tom Druet and Prof Pierre Geurts
 tom.druet@ulg.ac.be
 p.geurts@ulg.ac.be
@@ -58,61 +58,61 @@ p.geurts@ulg.ac.be
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Job Advertisement: POST DOCTORAL RESEARCH POSITION in quantitative genetics and machine learning
 
 We are inviting applications for a POST DOCTORAL RESEARCHER in the Unit of Animal Genomics at the University of Liège in Belgium.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The successful candidate will work on a project aimed at using Machine Learning techniques to improve haplotype clustering methods by combining various sources of information (LD, pedigree, next-generation sequencing data, etc).
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The objective is to improve the definition of haplotypes to allow for more efficient imputation, fine-mapping and genomic selection.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The project will also explore how to optimally use these haplotypes in genomic selection by comparing traditional approaches (GBLUP, Bayesian Alphabet) to innovative Machine Learning techniques.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	The project is a collaboration between the Unit of Animal Genomics and the Systems and modeling unit of the University of Liège.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The successful candidate will work under the joint supervision of Dr T. Druet and Prof P. Geurts.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The Unit of Animal Genomics, under the supervision of Prof Michel Georges, focuses on the forward genetic dissection of Mendelian and complex traits in domestic animals and humans.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	One of the key projects of the group is the development of approaches for the utilization of molecular information in livestock breeding, including genomic selection and transgenics.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	The unit is based in the Interdisciplinary Cluster of Applied Genoproteomics (GIGA-Research) at the University of Liège in Belgium
 (http://www.giga.ulg.ac.be/jcms/prod_205624/unit-of-animal-genomics).
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	The research unit in Systems and Modeling belongs to the department of Electrical Engineering and Computer Science of ULg (Institut Montefiore).
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	This research unit is composed of about 50 members working in the area of machine learning, statistics, optimization, systems and control, and applications of these methods in various domains such as bioinformatics, networking, and power systems.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	About 15 members of the unit carry out their research within GIGA-Research, where they are part of the thematic research unit in Systems Biology and Chemical Biology.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	(http://www.montefiore.ulg.ac.be/systmod/).
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	The main qualifications include:
 
 -A PhD degree in quantitative genetics, statistical genomics, machine learning, or related fields, PhD students who will be presenting their thesis in the coming months are also encouraged to apply.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	-Experience in scientific programming with Fortran, C, Python, or Perl
 -Experience and strong interest in the field of quantitative genetics and/or machine learning
 -Be fluent in English (no need to speak French)
 
 Funding for a full-time position starts on July 1st and will be for an initial duration of 24 months with the possibility of an extension.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Applications should be addressed to both Dr Tom Druet and Prof Pierre Geurts
 tom.druet@ulg.ac.be
 p.geurts@ulg.ac.be

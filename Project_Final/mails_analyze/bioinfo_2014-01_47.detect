@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-01_47" est globalement en : FRA
-[('FRA', 0.8562030993870509), ('ENG', 39.226762959736874)]
+Le mail "bioinfo_2014-01_47" est globalement en : french
+[('french', 0.020304319416747738), ('english', 3.268162390064919)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Postes en mobilitéà l'Institut Français de Bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	*Contexte :
 L'Institut Français de Bioinformatique (IFB) est l'infrastructure
 nationale de service en bioinformatique issue de l'appel à
@@ -21,13 +21,13 @@ mixte créée début 2013 et située dans le bâtiment de la plate-forme
 Imagif sur le campus CNRS de Gif-sur-Yvette.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Cette unité doit jouer un rôle crucial dans la mise en place de l'IFB en
 prenant en charge les aspects administratifs et techniques de
 l'infrastructure nationale.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Afin d'assurer la pérennité de l'infrastructure nationale, il a été
 demandé aux cinq tutelles de l'UMS (CNRS, CEA, INRA, INRIA, INSERM) de
 fournir dix postes permanents pour l'IFB-core. Dans un premier temps
@@ -36,7 +36,7 @@ donc uniquement à des permanents d'un des organismes de recherche
 cités, souhaitant effectuer une mobilité professionnelle.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	L'IFB-core est constituée de deux équipes (cellules) dédiées à :
   - la communication, formation et valorisation,
   - la mise en place et la gestion de l'infrastructure informatique
@@ -44,29 +44,29 @@ Le paragraphe 4 est en : FRA
     cette infrastructure.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Les postes à pourvoir en mobilité sont décrits ci-dessous.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	*Contact :
 Pour plus de renseignements contacter : jean-francois.gibrat@jouy.inra.fr
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	*Cinq profils recherchés :
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Pour la cellule Communication, Formation et Valorisation :
 --------------------------------------------------------
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	* Ingénieur en charge du site Web : bioinformaticien(ne), niveau IE.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Missions : Sa tâche consistera dans un premier temps à développer le
 site Web puis à le mettre à jour régulièrement. Il/elle devra pour
 cela maintenir des relations étroites avec ses homologues des centres
@@ -87,18 +87,18 @@ données utilisés. Une bonne connaissance des techniques de
 publications Web est nécessaire, notamment le CMS Drupal.
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Pour la cellule Infrastructure
 ------------------------------
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	*Ingénieur « administrateur système » : informaticien(ne) ou
 bioinformaticien(ne) ayant une expérience pratique de l'administration
 de systèmes informatiques complexes, niveau IE/IR.
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Missions : La mission de cet ingénieur sera d'assurer l'administration
 système de l'infrastructure nationale de l'IFB, et d'assurer
 l'interface avec les équipes techniques du centre de calcul national
@@ -118,14 +118,14 @@ les systèmes de service d'infrastructure cloud (StratusLab,
 OpenStack,...) existants seront un avantage.
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	*Ingénieur en charge du déploiement du Cloud : informaticien(ne) ou
 bioinformaticien(ne) spécialiste des techniques de calcul intensif et
 distribué et des problématiques associées au déploiement d'un Cloud
 pour les sciences du vivant, niveau IE/IR.
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	Missions : Il/elle sera responsable, en pratique, de la mise en place
 du Cloud sur l'infrastructure de l'IFB et il/elle en assurera ensuite
 la gestion et l'évolution. L'IFB cherchera à s'impliquer comme
@@ -139,13 +139,13 @@ cloud (StratusLab, OpenStack,...) existants et des stockages associés
 (distribués, mode bloc et objet) sont requises.
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	* Deux ingénieurs experts en calcul scientifique : informaticien(ne)s
 ou bioinformaticien(ne)s spécialisé(e)s en calcul scientifique,
 algorithmique, optimisation de codes, niveau IR/IE.
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	Missions : Le rôle de ces ingénieurs sera d'aider les utilisateurs à
 tirer le meilleur parti de l'environnement proposé par le noeud
 national. Ils/elles seront également responsable de l'installation et
@@ -161,12 +161,12 @@ régionaux et leurs homologues du centre national de calcul intensif
 hébergeur.
 
 ==========================================
-Le paragraphe 18 est en : n
+Le paragraphe 18 est en : non detect
 	-- 
 =========================================================================
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	Jean-Francois Gibrat                    Tel: +33 (1) 34 65 28 97
 Mathematique Informatique et Genome,    Fax: +33 (1) 34 65 29 01
 Institut National de la Recherche       Email: jean-francois.gibrat@jouy.inra.fr
@@ -174,11 +174,11 @@ Agronomique, Domaine de Vilvert,        http://mig.jouy.inra.fr
 78352, Jouy-en-Josas cedex, France
 
 ==========================================
-Le paragraphe 20 est en : n
+Le paragraphe 20 est en : non detect
 	=========================================================================
 
 ==========================================
-Le paragraphe 21 est en : n
+Le paragraphe 21 est en : non detect
 	
 
 ==========================================
@@ -186,51 +186,51 @@ Le paragraphe 21 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	*Contexte :
 L'Institut Français de Bioinformatique (IFB) est l'infrastructure
 nationale de service en bioinformatique issue de l'appel à
 propositions « Infrastructure en Biologie Santé » des Investissements
 d'Avenir.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	L'IFB-core est le noeud national de l'IFB.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	C'est une unité
 mixte créée début 2013 et située dans le bâtiment de la plate-forme
 Imagif sur le campus CNRS de Gif-sur-Yvette.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Cette unité doit jouer un rôle crucial dans la mise en place de l'IFB en
 prenant en charge les aspects administratifs et techniques de
 l'infrastructure nationale.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Afin d'assurer la pérennité de l'infrastructure nationale, il a été
 demandé aux cinq tutelles de l'UMS (CNRS, CEA, INRA, INRIA, INSERM) de
 fournir dix postes permanents pour l'IFB-core.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Dans un premier temps
 ces postes doivent être pourvus *en mobilité*.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Cette annonce s'adresse
 donc uniquement à des permanents d'un des organismes de recherche
 cités, souhaitant effectuer une mobilité professionnelle.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	L'IFB-core est constituée de deux équipes (cellules) dédiées à :
   - la communication, formation et valorisation,
   - la mise en place et la gestion de l'infrastructure informatique
     nationale de l'IFB et au déploiement d'un Cloud académique sur
     cette infrastructure.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Les postes à pourvoir en mobilité sont décrits ci-dessous.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	*Contact :
 Pour plus de renseignements contacter : jean-francois.gibrat@jouy.inra.fr
 
@@ -242,45 +242,45 @@ Pour la cellule Communication, Formation et Valorisation :
 
 * Ingénieur en charge du site Web : bioinformaticien(ne), niveau IE.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Missions : Sa tâche consistera dans un premier temps à développer le
 site Web puis à le mettre à jour régulièrement.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Il/elle devra pour
 cela maintenir des relations étroites avec ses homologues des centres
 régionaux.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	La personne recrutée sera fortement impliquée dans le
 déploiement effectif des outils de E-learning développés par la
 cellule.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Il/elle participera également au travail de recensement des
 outils bioinformatiques et collections de données disponibles sur
 l'infrastructure IFB (sur le noeud national et les PF
 régionales).
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Plus particulièrement, son rôle sera d'assurer la partie
 technique d'une activité visant à organiser et mettre à disposition
 une liste complète de ces outils et collection de données ainsi que de
 fournir la documentation associée (avec éventuellement des tutoriels
 créés par les PF).
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Dans ce cadre, l'objectif, à terme, serait de
 ressusciter le « deambulum » qui existait à INFOBIOGEN et visait à
 donner aux utilisateurs une vue d'ensemble de la bioinformatique et
 une description détaillée des différents outils et collections de
 données utilisés.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Une bonne connaissance des techniques de
 publications Web est nécessaire, notamment le CMS Drupal.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Pour la cellule Infrastructure
 ------------------------------
 
@@ -288,13 +288,13 @@ La phrase 18 est en : FRA
 bioinformaticien(ne) ayant une expérience pratique de l'administration
 de systèmes informatiques complexes, niveau IE/IR.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	Missions : La mission de cet ingénieur sera d'assurer l'administration
 système de l'infrastructure nationale de l'IFB, et d'assurer
 l'interface avec les équipes techniques du centre de calcul national
 hébergeant celle-ci.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	La personne recrutée, en collaboration avec les
 responsables techniques des PF régionales, devra mettre en place puis
 gérer un environnement informatique permettant aux utilisateurs des PF
@@ -302,67 +302,67 @@ régionales nécessitant des moyens de calcul supplémentaires de
 transiter du noeud régional au noeud national d'une manière la plus
 transparente possible.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Cet ingénieur devra donc implémenter la
 politique d'utilisation de l'infrastructure décidée par l'IFB
 (organisation des systèmes de fichiers, quotas, définitions des queues
 pour l'utilisation des machines du cluster, etc.).
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	De bonnes
 connaissances en administration de systèmes Linux, de stockage
 partagés, de réseau et d'infrastructure de calcul type cluster sont
 requises.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	Des connaissances dans les techniques de virtualisation et
 les systèmes de service d'infrastructure cloud (StratusLab,
 OpenStack,...) existants seront un avantage.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	*Ingénieur en charge du déploiement du Cloud : informaticien(ne) ou
 bioinformaticien(ne) spécialiste des techniques de calcul intensif et
 distribué et des problématiques associées au déploiement d'un Cloud
 pour les sciences du vivant, niveau IE/IR.
 ==========================================
-La phrase 25 est en : FRA
+La phrase 25 est en : french
 	Missions : Il/elle sera responsable, en pratique, de la mise en place
 du Cloud sur l'infrastructure de l'IFB et il/elle en assurera ensuite
 la gestion et l'évolution.
 ==========================================
-La phrase 26 est en : FRA
+La phrase 26 est en : french
 	L'IFB cherchera à s'impliquer comme
 partenaire, en collaboration avec l'Institut des Grilles et du Cloud
 et IDRIS, dans les initiatives académiques visant à développer des
 Clouds académiques.
 ==========================================
-La phrase 27 est en : FRA
+La phrase 27 est en : french
 	L'ingénieur recruté devra s'impliquer étroitement
 dans ces projets et il/elle aura pour tâche de déployer les solutions
 techniques retenues et de les évaluer.
 ==========================================
-La phrase 28 est en : FRA
+La phrase 28 est en : french
 	De bonnes connaissances des
 techniques de virtualisation, des systèmes de service d'infrastructure
 cloud (StratusLab, OpenStack,...) existants et des stockages associés
 (distribués, mode bloc et objet) sont requises.
 ==========================================
-La phrase 29 est en : FRA
+La phrase 29 est en : french
 	* Deux ingénieurs experts en calcul scientifique : informaticien(ne)s
 ou bioinformaticien(ne)s spécialisé(e)s en calcul scientifique,
 algorithmique, optimisation de codes, niveau IR/IE.
 ==========================================
-La phrase 30 est en : FRA
+La phrase 30 est en : french
 	Missions : Le rôle de ces ingénieurs sera d'aider les utilisateurs à
 tirer le meilleur parti de l'environnement proposé par le noeud
 national.
 ==========================================
-La phrase 31 est en : FRA
+La phrase 31 est en : french
 	Ils/elles seront également responsable de l'installation et
 de la mise à jour régulière des outils et des collections de données
 utilisés.
 ==========================================
-La phrase 32 est en : FRA
+La phrase 32 est en : french
 	Cela pourra inclure aussi bien l'aide à la construction de
 machines virtuelles, que l'aide à la parallélisation/distribution du
 code, à la construction de modèles de données adaptés à
@@ -370,13 +370,13 @@ l'environnement de cloud, au portage sur des architectures
 spécialisées (GPU), au choix des algorithmes, à l'utilisation des
 instructions SIMD des processeurs, etc.
 ==========================================
-La phrase 33 est en : FRA
+La phrase 33 est en : french
 	Ces ingénieurs auront vocation
 à travailler en synergie avec les bioinformaticiens des centres
 régionaux et leurs homologues du centre national de calcul intensif
 hébergeur.
 ==========================================
-La phrase 34 est en : FRA
+La phrase 34 est en : french
 	-- 
 =========================================================================
 

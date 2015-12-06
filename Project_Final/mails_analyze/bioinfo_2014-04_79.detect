@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-04_79" est globalement en : FRA
-[('ENG', 0.6296014261245038), ('FRA', 0.7732785823534651)]
+Le mail "bioinfo_2014-04_79" est globalement en : french
+[('french', 0.6150502698153123), ('english', 0.9631421124219754)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] COMPUTATIONAL IMMUNOLOGIST
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : COMPUTATIONAL IMMUNOLOGIST
 Type de poste : Post-doc / IR
 Durée du poste : 48 mois
@@ -26,12 +26,12 @@ Email du contact : pers@univ-brest.fr
 Laboratoire : EA 2216, ESPRI 29, INSERM, Université de Brest
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/computational-immunologist
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

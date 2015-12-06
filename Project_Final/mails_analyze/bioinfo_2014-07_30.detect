@@ -1,33 +1,33 @@
-Le mail "bioinfo_2014-07_30" est globalement en : FRA
-[('ENG', 0.32176426267473324), ('FRA', 0.6799555129967362)]
+Le mail "bioinfo_2014-07_30" est globalement en : french
+[('french', 0.1582830353482251), ('english', 2.3298647843065776)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Soutenance de HDR
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	J'ai le plaisir de vous inviter à la soutenance de mon Habilitation à
 Diriger des Recherches qui s'intitule : "Bioinformatique des ARNs
 non-codants : Algorithmes pour leur identification et la prédiction de
 leur structure", ainsi qu'au pot suivra.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	La soutenance se déroulera le jeudi 17 juillet à 14h dans le petit
 amphithéâtre de l'IBGBI, 23 bv. de France, Evry.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Le jury est composé de :
 Rapporteurs :
 - Peter Clote, Professeur, Boston College
@@ -41,11 +41,11 @@ Examinateurs :
 - Mireille Régnier, Directeur de Recherche, INRIA/LIX
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Cordialement
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	-----
 Fariza Tahi
 Maître de Conférences
@@ -57,7 +57,7 @@ https://www.ibisc.univ-evry.fr/~tahi/
 Téléphone : 33 (0) 1 64 85 34 63
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	
 
 ==========================================
@@ -65,7 +65,7 @@ Le paragraphe 7 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 J'ai le plaisir de vous inviter à la soutenance de mon Habilitation à
@@ -73,14 +73,14 @@ Diriger des Recherches qui s'intitule : "Bioinformatique des ARNs
 non-codants : Algorithmes pour leur identification et la prédiction de
 leur structure", ainsi qu'au pot suivra.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	La soutenance se déroulera le jeudi 17 juillet à 14h dans le petit
 amphithéâtre de l'IBGBI, 23 bv.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	de France, Evry.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Le jury est composé de :
 Rapporteurs :
 - Peter Clote, Professeur, Boston College
@@ -101,7 +101,7 @@ Maître de Conférences
 Université dEvry-Val dEssonne
 IBISC EA 4526, Bât.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	IBGBI, 23 bd de France
 91037 cedex Evry France
 Equipe AROBAS

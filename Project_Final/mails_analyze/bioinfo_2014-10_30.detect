@@ -1,28 +1,28 @@
-Le mail "bioinfo_2014-10_30" est globalement en : FRA
-[('FRA', 0.2281142776972006), ('ENG', 0.7212417001082462)]
+Le mail "bioinfo_2014-10_30" est globalement en : french
+[('french', 0.06198829438753642), ('english', 2.1093937396196485)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Stage M2 de dessein computationnel de protéines
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Un stage M2 est proposé dans notre équipe de bioinformatique
 structurale à l'Ecole Polytechnique:
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Dessein computationnel des interactions protéine-ligand
 ----------------------------------------------------------
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	On s'intéressera à l'ingénierie (in silico) de l'asparaginyl-ARNt
 synthétase, avec le but d'obtenir une activité envers des acides
 aminés non-naturels, et éventuellement d'introduire ces acides
@@ -36,25 +36,25 @@ des outils et un travail d'application; les prédictions seront
 testées par les collègues expérimentalistes du laboratoire.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Financement de thèse envisageable (à travers l'Ecole Doctorale de
 Polytechnique, largement ouverte aux étudiants extérieurs).
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Voir aussi biology.polytechnique.fr/biocomputing et les articles:
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Simonson et al, J Comp Chem, 2013; Polydorides et al, Proteins 2010;
 Schmidt am Busch et al, Plos One 2010, Protein 2009
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Bien cordialement,
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	-- 
 Thomas Simonson -- Department of Biology
 Laboratoire de Biochimie (UMR 7654 du CNRS)
@@ -64,7 +64,7 @@ email: Thomas.Simonson@polytechnique.fr
 http://biology.polytechnique.fr/biocomputing
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -72,7 +72,7 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Un stage M2 est proposé dans notre équipe de bioinformatique
 structurale à l'Ecole Polytechnique:
@@ -85,30 +85,30 @@ synthétase, avec le but d'obtenir une activité envers des acides
 aminés non-naturels, et éventuellement d'introduire ces acides
 aminés dans le code génétique.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	On utilisera une méthode générale
 de «dessein computationnel de protéines».
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	La méthode et le logiciel
 ont été développées dans l'équipe et ont permis très récemment
 de modifier la stereospecificité d'une autre synthétase.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Plus
 généralement, ces méthodes ont de nombreuses applications fondamentales
 et technologiques.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Le stage incluera un travail d'amélioration
 des outils et un travail d'application; les prédictions seront
 testées par les collègues expérimentalistes du laboratoire.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Financement de thèse envisageable (à travers l'Ecole Doctorale de
 Polytechnique, largement ouverte aux étudiants extérieurs).
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Voir aussi biology.polytechnique.fr/biocomputing et les articles:
 
 Simonson et al, J Comp Chem, 2013; Polydorides et al, Proteins 2010;

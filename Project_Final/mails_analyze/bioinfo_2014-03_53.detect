@@ -1,52 +1,52 @@
-Le mail "bioinfo_2014-03_53" est globalement en : ENG
-[('ENG', 0.42810642911891855), ('FRA', 1.558245305276604)]
+Le mail "bioinfo_2014-03_53" est globalement en : english
+[('english', 0.02395739389143522), ('french', 0.312437871229488)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] PhD fellowship at the ISEM/CRBM, Montpellier
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	A 3-year PhD fellowship is available from October 1st 2014 in Montpellier (France) to study the molecular mechanisms underlying morphological stasis during evolution.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The question: Evolutionary biology studies mostly focus on the mechanisms driving innovation and adaptation. Morphological features can however remain stable over surprisingly long periods of time, and in spite of extensive genome sequence alterations. Very little is known about the determinants of this morphological robustness to genomic changes, which may involve a careful balance between external selection and internal developmental constraints. It is also not known how morphological stasis can be broken to give rise to new life forms. We are studying this phenomenon using two groups of tunicates (chordates) as models. Ascidian embryos have shown exceptional morphological stability since the Cambrian, over 500 million years ago, despite extreme genome sequence divergence. By contrast, the embryos of thaliaceans, which cause ascidians to be paraphyletic, have undergone a radical morphological change from their ascidian-like ancestors, associated to an ecological transition from sessility to pelagy.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The project: The aim of the PhD project will be to identify molecular mechanisms underlying ascidian morphological stasis and thaliacean divergence. Morphological evolution is thought to be mostly driven by coding or non-coding changes in the transcriptional gene regulatory networks underlying embryonic development. To shed light on the evolution of such networks, you will use extensive genomic and transcriptomic ascidian and thaliacean datasets to explore the evolutionary forces that shape regulatory proteins and the cis-regulatory sequences driving their expression. The project will mostly involve advanced computational and statistical analysis of existing, unpublished, sequencing data. You will be involved in the precise definition of the project.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Qualifications: An MSc degree in a relevant field is mandatory. Ideal candidates will be strongly driven for a research career with thorough education and strong interest in evolutionary biology, population genetics and genomics, and potentially developmental biology. Programming skills are expected. Some experience in genomics would be a plus but is not mandatory. Proficiency in English or French is needed.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Conditions: The PhD training comprises three years of full time research. The successful candidate will be jointly affiliated to the complementary research teams of Emmanuel Douzery (Institute for Evolutionary Biology of Montpellier, ISEM) and Patrick Lemaire (Center for Research in Macromolecular biochemistry, CRBM, Montpellier). The student will be mostly based at ISEM.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Application: The application should include 1) a one-page description of your education, research interests and motivation for PhD studies, 2) a CV with grades or ranks,  3) Contact information (name, address, email address, and phone number) for at least two referees. The application can be written in English or French and should be sent by e-mail to Emmanuel Douzery (emmanuel.douzery@univ-montp2.fr) and Patrick Lemaire (patrick.lemaire@crbm.cnrs.fr). Applications are open from March 1st 2014 and will remain open until the position is filled.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Suggested readings:
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Lemaire P.  Evolutionary crossroads in developmental biology: the tunicates, Development, 138(11):2143-52.(2011)
 Tsagkogeorga, G., Turon, X., Galtier, N., Douzery, E. & Delsuc, F. Accelerated evolutionary rate of housekeeping genes in tunicates. Journal of molecular evolution 71, 15367 (2010).
 Sella, G., Petrov, D., Przeworski, M. & Andolfatto, P. Pervasive natural selection in the Drosophila genome? PLoS genetics 5, e1000495 (2009).
 Garfield, D., Haygood, R., Nielsen, W. & Wray, G. Population genetics of cis-regulatory sequences that operate during embryonic development in the sea urchin Strongylocentrotus purpuratus. Evolution & development 14, 15267 (2012).
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -54,100 +54,100 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	A 3-year PhD fellowship is available from October 1st 2014 in Montpellier (France) to study the molecular mechanisms underlying morphological stasis during evolution.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The question: Evolutionary biology studies mostly focus on the mechanisms driving innovation and adaptation.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Morphological features can however remain stable over surprisingly long periods of time, and in spite of extensive genome sequence alterations.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Very little is known about the determinants of this morphological robustness to genomic changes, which may involve a careful balance between external selection and internal developmental constraints.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	It is also not known how morphological stasis can be broken to give rise to new life forms.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	We are studying this phenomenon using two groups of tunicates (chordates) as models.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Ascidian embryos have shown exceptional morphological stability since the Cambrian, over 500 million years ago, despite extreme genome sequence divergence.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	By contrast, the embryos of thaliaceans, which cause ascidians to be paraphyletic, have undergone a radical morphological change from their ascidian-like ancestors, associated to an ecological transition from sessility to pelagy.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	The project: The aim of the PhD project will be to identify molecular mechanisms underlying ascidian morphological stasis and thaliacean divergence.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Morphological evolution is thought to be mostly driven by coding or non-coding changes in the transcriptional gene regulatory networks underlying embryonic development.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	To shed light on the evolution of such networks, you will use extensive genomic and transcriptomic ascidian and thaliacean datasets to explore the evolutionary forces that shape regulatory proteins and the cis-regulatory sequences driving their expression.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	The project will mostly involve advanced computational and statistical analysis of existing, unpublished, sequencing data.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	You will be involved in the precise definition of the project.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Qualifications: An MSc degree in a relevant field is mandatory.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Ideal candidates will be strongly driven for a research career with thorough education and strong interest in evolutionary biology, population genetics and genomics, and potentially developmental biology.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Programming skills are expected.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	Some experience in genomics would be a plus but is not mandatory.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Proficiency in English or French is needed.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Conditions: The PhD training comprises three years of full time research.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	The successful candidate will be jointly affiliated to the complementary research teams of Emmanuel Douzery (Institute for Evolutionary Biology of Montpellier, ISEM) and Patrick Lemaire (Center for Research in Macromolecular biochemistry, CRBM, Montpellier).
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	The student will be mostly based at ISEM.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Application: The application should include 1) a one-page description of your education, research interests and motivation for PhD studies, 2) a CV with grades or ranks,  3) Contact information (name, address, email address, and phone number) for at least two referees.
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	The application can be written in English or French and should be sent by e-mail to Emmanuel Douzery (emmanuel.douzery@univ-montp2.fr) and Patrick Lemaire (patrick.lemaire@crbm.cnrs.fr).
 ==========================================
-La phrase 24 est en : ENG
+La phrase 24 est en : english
 	Applications are open from March 1st 2014 and will remain open until the position is filled.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	Suggested readings:
 
 Lemaire P.  Evolutionary crossroads in developmental biology: the tunicates, Development, 138(11):2143-52.
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	(2011)
 Tsagkogeorga, G., Turon, X., Galtier, N., Douzery, E. & Delsuc, F. Accelerated evolutionary rate of housekeeping genes in tunicates.
 ==========================================
-La phrase 27 est en : FRA
+La phrase 27 est en : french
 	Journal of molecular evolution 71, 15367 (2010).
 ==========================================
-La phrase 28 est en : ENG
+La phrase 28 est en : english
 	Sella, G., Petrov, D., Przeworski, M. & Andolfatto, P. Pervasive natural selection in the Drosophila genome?
 ==========================================
-La phrase 29 est en : ENG
+La phrase 29 est en : english
 	PLoS genetics 5, e1000495 (2009).
 ==========================================
-La phrase 30 est en : ENG
+La phrase 30 est en : english
 	Garfield, D., Haygood, R., Nielsen, W. & Wray, G. Population genetics of cis-regulatory sequences that operate during embryonic development in the sea urchin Strongylocentrotus purpuratus.
 ==========================================
-La phrase 31 est en : FRA
+La phrase 31 est en : french
 	Evolution & development 14, 15267 (2012).
 
 

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_7" est globalement en : FRA
-[('FRA', 0.6804403956879721), ('ENG', 1.4371457330795732)]
+Le mail "bioinfo_2014-12_7" est globalement en : french
+[('french', 0.6765750319528232), ('english', 0.9677624133521138)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Java Programmer
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Java Programmer
 Type de poste : CDD Ingénieur
 Durée du poste : 24 mois
@@ -25,7 +25,7 @@ Email du contact : babraham.personnel@babraham.ac.uk
 Laboratoire : Babraham Institute
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/java-programmer-0
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/java-programmer-0
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Java Programmer

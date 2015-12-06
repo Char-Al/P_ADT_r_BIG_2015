@@ -1,65 +1,65 @@
-Le mail "bioinfo_2014-08_9" est globalement en : ENG
-[('ENG', 0.31527230709444465), ('FRA', 0.6130941042486083)]
+Le mail "bioinfo_2014-08_9" est globalement en : english
+[('english', 0.112423836469273), ('french', 1.1790304044850213)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Job Openings: Data Analyst and Data Scientist at OpenAnalytics
  (Belgium)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	We are currently looking to expand our team with the following profiles:
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Data Analyst: MSc / PhD in Computational Biology, Bioinformatics or Statistics with a keen interest in data analysis
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Data Scientist: MSc / PhD in Statistics, Applied Mathematics or Computer Science interested to work on applied data science problems
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	A detailed description can be found at
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	http://www.openanalytics.eu/jobs
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Kind regards,
 Tobias Verbeke
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	-- 
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Tobias Verbeke
 Managing Director
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Open Analytics NV
 Jupiterstraat 20
 2600 Antwerp
 Belgium
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	E tobias.verbeke@openanalytics.eu
 M +32 499 36 33 15
 http://www.openanalytics.eu
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -67,7 +67,7 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	We are currently looking to expand our team with the following profiles:
 
 

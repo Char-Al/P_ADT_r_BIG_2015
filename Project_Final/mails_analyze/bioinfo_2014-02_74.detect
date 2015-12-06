@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_74" est globalement en : FRA
-[('ENG', 0.4031234464129686), ('FRA', 0.5347865589346227)]
+Le mail "bioinfo_2014-02_74" est globalement en : french
+[('french', 0.5433915808979387), ('english', 0.817456568304078)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][MdC] poste MCF (27ieme section) en biologie computationnelle
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : poste MCF (27ieme section) en biologie computationnelle
 Type de poste : MdC
 Durée du poste : indeterminée
@@ -25,7 +25,7 @@ Email du contact : guillaume.beslon@inria.fr
 Laboratoire : LIRIS/Beagle
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/poste-mcf-27ieme-section-en-biologie-computationnelle
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/poste-mcf-27ieme-section-en-biologie-computationnelle
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : poste MCF (27ieme section) en biologie computationnelle

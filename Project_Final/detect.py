@@ -183,11 +183,19 @@ def detectLanguagesMails(repertory, out, LFRA, LENG, n =1, Type = False):
 	file_ENG.close()
 
 	detector = LangDetectorByNGrams()
-	detector.addDocument(learning_FRA,"FRA", n, Type)
-	detector.addDocument(learning_ENG,"ENG", n, Type)
+	detector.addDocument(learning_FRA,"french", n, Type)
+	detector.addDocument(learning_ENG,"english", n, Type)
 
 	SW_detect = LangDectectorStopWords()
-
+	
+	language_mails = dict()
+	language_paragraphes = dict()
+	language_sentences = dict()
+	language_mails["conflicts"] = 0
+	globalfile = ""
+	nb_mails = 0
+	
+	nb_paragraph=0
 	GLOBAL_F = open(out + "/global.txt",'w')
 	os.chdir(repertory)
 	for mails in glob.glob("*"):
@@ -196,25 +204,72 @@ def detectLanguagesMails(repertory, out, LFRA, LENG, n =1, Type = False):
 		print (name_file)
 		FILE = open(name_file,'w')	
 		e = Email(mails)
-		GLOBAL_F.write(name.group(1) + "\t" + detector.detect(e.get_body(),n,Type)[0][0] + "\n")
-		FILE.write("Le mail \"" + name.group(1) + "\" est globalement en : " + detector.detect(e.get_body(),1,Type)[0][0] + "\n")
-		FILE.write(str(detector.detect(e.get_subject(),n,Type)) + "\n")
-		FILE.write("Language by Stop Words : " + SW_detect.stopWords_detect(e.get_body()) + "\n")
+		body = e.get_body()
+		detectN = detector.detect(body,n,Type)
+		if isinstance(detectN,list):
+			language = detectN[0][0]
+		else:
+			language = detectN
+		if language not in language_mails :
+			language_mails[language] = 0
+		language_mails[language] += 1
+		globalfile += (name.group(1) + "\t" + language)
+		language_by_SW = SW_detect.stopWords_detect(body)
+		FILE.write("Le mail \"" + name.group(1) + "\" est globalement en : " + language )
+		if language != language_by_SW :
+			language_mails["conflicts"] += 1
+			FILE.write(" (conflict)")
+			globalfile += " (conflict)"
+		globalfile += "\n"
+		FILE.write("\n" + str(detectN) + "\n")
+		FILE.write("Language by Stop Words : " + language_by_SW + "\n")
 		FILE.write("\n\n+++++++++++++++++++++++++++++++++++++++++++++++++\n+++++++++++++++++++++++++++++++++++++++++++++++++\n")
-		FILE.write("Le sujet du mail est en : " + detector.detect(e.get_subject(),n,Type)[0][0] + "\n")
+		detectN = detector.detect(e.get_subject(),n,Type)
+		if isinstance(detectN,list):
+			language = detectN[0][0]
+		else:
+			language = detectN
+		FILE.write("Le sujet du mail est en : " + language + "\n")
 		FILE.write("Subject : " + e.get_subject() + "\n")
-		i=0
 		FILE.write("\n\n+++++++++++++++++++++++++++++++++++++++++++++++++\n+++++++++++++++++++++++++++++++++++++++++++++++++\n")
-		for paragraph in cuttingText.getSubsections(e.get_body()):
-			i+=1
-			FILE.write("Le paragraphe " + str(i) + " est en : " + detector.detect(paragraph, n, Type)[0][0] + "\n\t" + paragraph + "\n\n==========================================\n")
 		i=0
-		FILE.write("\n\n+++++++++++++++++++++++++++++++++++++++++++++++++\n+++++++++++++++++++++++++++++++++++++++++++++++++\n")
-		for sentence in cuttingText.getSentences(e.get_body()):
+		for paragraph in cuttingText.getSubsections(body):
 			i+=1
-			FILE.write("La phrase " + str(i) + " est en : " + detector.detect(sentence, n, Type)[0][0] + "\n\t" + sentence + "\n==========================================\n")
+			detectN = detector.detect(paragraph,n,Type)
+			if isinstance(detectN,list):
+				language = detectN[0][0]
+			else:
+				language = detectN
+			if language not in language_paragraphes :
+				language_paragraphes[language] = 0
+			language_paragraphes[language] += 1
+			FILE.write("Le paragraphe " + str(i) + " est en : " + language + "\n\t" + paragraph + "\n\n==========================================\n")
+			nb_paragraph += 1
+		j=0
+		FILE.write("\n\n+++++++++++++++++++++++++++++++++++++++++++++++++\n+++++++++++++++++++++++++++++++++++++++++++++++++\n")
+		for sentence in cuttingText.getSentences(body):
+			j+=1
+			detectN = detector.detect(sentence,n,Type)
+			if isinstance(detectN,list):
+				language = detectN[0][0]
+			else:
+				language = detectN
+			if language not in language_sentences :
+				language_sentences[language] = 0
+			language_sentences[language] += 1
+			FILE.write("La phrase " + str(j) + " est en : " + language + "\n\t" + sentence + "\n==========================================\n")
 		FILE.close()
-	
+		nb_mails+=1
+	GLOBAL_F.write("Nombre de mails total : " + str(nb_mails) + "\n")
+	for language in language_mails:
+		GLOBAL_F.write("\t- en " + language + " : " + str(language_mails[language]) + "\n")
+	GLOBAL_F.write("Nombre de paragraphes total : " + str(sum(language_paragraphes.values())) + " (moyenne : " + str(sum(language_paragraphes.values())/nb_mails) + ")\n")
+	for language in language_paragraphes:
+		GLOBAL_F.write("\t- en " + language + " : " + str(language_paragraphes[language]) + "\n")
+	GLOBAL_F.write("Nombre de phrases total : " + str(sum(language_sentences.values())) + " (moyenne : " + str(sum(language_sentences.values())/nb_mails) + ")\n")
+	for language in language_sentences:
+		GLOBAL_F.write("\t- en " + language + " : " + str(language_sentences[language]) + "\n")
+	GLOBAL_F.write("\n" + globalfile)
 	GLOBAL_F.close()
 
 

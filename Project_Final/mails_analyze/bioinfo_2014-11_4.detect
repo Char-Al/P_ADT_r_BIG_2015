@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_4" est globalement en : FRA
-[('FRA', 0.1887751477659524), ('ENG', 2.063885895971081)]
+Le mail "bioinfo_2014-11_4" est globalement en : french
+[('french', 0.3040630361542218), ('english', 0.7909824419027925)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 - Décrypter les mécanismes   d'adaptation des manchots aux changements de t  empératuresocéaniques : transcriptomique et g  énomique comparative
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 - Décrypter les mécanismes d'adaptation des  
 manchots aux changements de températures océaniques: transcriptomique et  
 génomique comparative
@@ -27,7 +27,7 @@ Email du contact : benjamin.rey@univ-lyon1.fr
 Laboratoire : Biométrie et Biologie Evolutive
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-d%C3%A9crypter-les-m%C3%A9canismes-dadaptation-des-manchots-aux-changements-de-temp%C3%A9ratures-oc%C3%A9aniq
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/m2-d%C3%A9crypter-les-m%C3%A9canismes-dadaptation-des
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 - Décrypter les mécanismes d'adaptation des  

@@ -1,24 +1,24 @@
-Le mail "bioinfo_2014-03_33" est globalement en : FRA
-[('FRA', 0.49497129656031036), ('ENG', 43.12536298511802)]
+Le mail "bioinfo_2014-03_33" est globalement en : french
+[('french', 0.06377833286872882), ('english', 1.9272795331385348)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Recrutement d'un ingénieur en bioinformatique à Nancy
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	L'équipe Bioinformatique et Génomique Intégrative (responsable Rémi 
 Houlgatte), au sein du laboratoire N-GERE (directeur Jean-Louis Guéant), 
 recherche un ingénieur bioinformaticien pour l'analyse de données 
 génomiques, transcriptomique et de séquençage nouvelle génération.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Compétences :
 - Expérience et autonomie en développement, langages de scripts : perl, 
 python, java, C/C++, bash (ou autre), R... (tous ne sont pas requis)
@@ -34,18 +34,18 @@ statistiques.
 capacité à échanger.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Diplômes : Master 2 en biologie/informatique/bioinformatique, diplôme 
 d'ingénieur.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Type de poste : CDD Ingénieur
 Lieu : NANCY
 Durée du poste : 14 mois
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Laboratoire : INSERM U954 / N-GERE
 Inserm U954 Nutrition, génétique et exposition aux risques 
 environnementaux (N-GERE)
@@ -56,11 +56,11 @@ Faculté de Médecine
 France
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Rémunération : environ 1750 euros/mois net
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Candidatures : Par email à Sébastien Hergalant 
 (sebastien.hergalant@inserm.fr), elles devront comporter, sans trop se 
 formaliser :
@@ -74,13 +74,13 @@ et en M2 (ou similaires) si peu d'expérience
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	L'équipe Bioinformatique et Génomique Intégrative (responsable Rémi 
 Houlgatte), au sein du laboratoire N-GERE (directeur Jean-Louis Guéant), 
 recherche un ingénieur bioinformaticien pour l'analyse de données 
 génomiques, transcriptomique et de séquençage nouvelle génération.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Compétences :
 - Expérience et autonomie en développement, langages de scripts : perl, 
 python, java, C/C++, bash (ou autre), R... (tous ne sont pas requis)
@@ -92,16 +92,16 @@ mysql, apache...
 - Connaissances/intérêt en génétique, génomique, biologie médicale et en 
 statistiques.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	- Anglais scientifique
 - Rigueur scientifique, organisation, travail d'équipe, autonomie et 
 capacité à échanger.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Diplômes : Master 2 en biologie/informatique/bioinformatique, diplôme 
 d'ingénieur.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Type de poste : CDD Ingénieur
 Lieu : NANCY
 Durée du poste : 14 mois

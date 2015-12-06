@@ -1,46 +1,46 @@
-Le mail "bioinfo_2014-12_3" est globalement en : ENG
-[('ENG', 0.21707893123968977), ('FRA', 0.5559863831011909)]
+Le mail "bioinfo_2014-12_3" est globalement en : french (conflict)
+[('french', 0.2587221234767876), ('english', 0.4456447614331868)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] CFP: The International Technology Management Conference (ITMC2015)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	The International Technology Management Conference (ITMC2015)
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Manouba University
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	May 26-28, 2015 » Hammamat, Tunisia
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	http://sdiwc.net/conferences/itmc2015/
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	General Chairs
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Dr. Hatem Haddad, Manouba University, Tunisia
 Dr. Mohammad S. Salman, Mevlana University, Turkey
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Important Dates
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Submission Deadline Open from now until April 26, 2015
 Notification of acceptance 4 weeks from the submission date
 Camera Ready submission May 16, 2015
@@ -49,11 +49,11 @@ do it few days before
 Conference dates May 26-28, 2015
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	The conference proceedings will be published in the digital library of SDIWC.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	You are invited to participate in ITMC2015 that will be held in
 Malaysia, on May 26-28, 2015. The event will be held over three days,
 with presentations delivered by researchers from the international
@@ -61,12 +61,12 @@ community, including presentations from keynote speakers and
 state-of-the-art lectures.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	The conference welcome papers on the following (but not limited to)
 research topics:
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	***INFORMATION TECHNOLOGY***
 Information and Data Management
 Information Content Security
@@ -84,7 +84,7 @@ Information Security and Cryptography
 Data Stream Processing in Mobile/Sensor Networks
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	***COMPUTER SCIENCE***
 Biometrics Technologies
 Computer Forensics
@@ -104,7 +104,7 @@ Information Retrieval
 Natural Language Processing
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	***BUSINESS, AND TECHNOLOGY IN EDUCATION***
 Educational Technology
 Computer-aided Systems
@@ -118,7 +118,7 @@ Debugging Tools and Learning
 E-Business Applications and Software
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	***MANUFACTURING SYSTEMS***
 Design and Manufacturing
 Intelligent Processing of Materials
@@ -129,7 +129,7 @@ Automation
 Networks Design, Protocols and Management
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	***ENGINEERING TECHNOLOGY***
 Bioinformatics & Biomedical Imaging
 Robotics and Atomization Engineering
@@ -141,11 +141,11 @@ Robotics and Mobile Machines
 Computer Architecture for Intelligent Machines
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	Best registered papers will be published in the following special issue journals
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	International Journal of New Computer Architectures and their
 Applications (IJNCAA)
 International Journal of Digital Information and Wireless
@@ -155,26 +155,26 @@ International Journal of E-Learning and Educational Technologies in
 the Digital Media (IJEETDM)
 
 ==========================================
-Le paragraphe 19 est en : n
+Le paragraphe 19 est en : non detect
 	-- 
 _______________________________________
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	Ass. Prof. Dr. Hatem Haddad
 Mevlana University
 Engineering Faculty
 Department of Computer Engineering
 
 ==========================================
-Le paragraphe 21 est en : FRA
+Le paragraphe 21 est en : french
 	Yrd.Doç. Dr. Hatem Haddad
 Mevlana Universitesi
 Mühendislik Fakültesi
 Bilgisayar Mühendisliği Bölümü
 
 ==========================================
-Le paragraphe 22 est en : FRA
+Le paragraphe 22 est en : french
 	Tel : +90-332-444 42 43
 Fax: +90-332 241 11 11
 Address: Yeni İstanbul Cad. No: 235 42003 Selçuklu / KONYA - TURKEY
@@ -185,7 +185,7 @@ Address: Yeni İstanbul Cad. No: 235 42003 Selçuklu / KONYA - TURKEY
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	The International Technology Management Conference (ITMC2015)
 
 Manouba University
@@ -211,17 +211,17 @@ Conference dates May 26-28, 2015
 
 The conference proceedings will be published in the digital library of SDIWC.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	You are invited to participate in ITMC2015 that will be held in
 Malaysia, on May 26-28, 2015.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The event will be held over three days,
 with presentations delivered by researchers from the international
 community, including presentations from keynote speakers and
 state-of-the-art lectures.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The conference welcome papers on the following (but not limited to)
 research topics:
 
@@ -305,7 +305,7 @@ _______________________________________
 
 Ass.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Prof. Dr. Hatem Haddad
 Mevlana University
 Engineering Faculty
@@ -313,7 +313,7 @@ Department of Computer Engineering
 
 Yrd.Doç.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : french
 	Dr. Hatem Haddad
 Mevlana Universitesi
 Mühendislik Fakültesi
@@ -323,7 +323,7 @@ Tel : +90-332-444 42 43
 Fax: +90-332 241 11 11
 Address: Yeni İstanbul Cad.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	No: 235 42003 Selçuklu / KONYA - TURKEY
 
 ==========================================

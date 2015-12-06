@@ -1,40 +1,40 @@
-Le mail "bioinfo_2014-03_32" est globalement en : FRA
-[('FRA', 0.42556322865142004), ('ENG', 3.6677046497823045)]
+Le mail "bioinfo_2014-03_32" est globalement en : french
+[('french', 0.20409037781742986), ('english', 0.9232571024404287)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] §Syngenta - Chargé de mission intégration de données externes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Syngenta figure parmi les leaders mondiaux pour ses activités. Le groupe emploie plus de 26 000 personnes dans plus de 90 pays qui nont quun seul objectif : exprimer le potentiel des plantes. Par nos capacités scientifiques de premier plan, notre présence mondiale et notre engagement en faveur des clients, nous aidons à accroître les rendements et la rentabilité des cultures, à protéger lenvironnement et à améliorer la santé et la qualité de vie. Il ny a jamais eu de meilleur moment pour rejoindre Syngenta. 
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Syngenta Seeds recrute un
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Chargé de mission intégration de données externes (H/F)
 Localisation : Saint-Sauveur (31)
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Missions :
 Le poste est un remplacement de congé maternité. Il est ouvert au sein du département « Génétique » de Syngenta qui a des activités danalyses de données, de développement doutils et de gestion de données. Le (la) candidat(e) sintégrera à léquipe « Déploiement de la plateforme génétique » et devra mener une réflexion sur la gestion des données hétérogènes et des connaissances provenant de collaborations externes en sattachant aux problématiques dintégration et de qualité des données. 
 Le (la) candidate étudiera des cas concrets afin de prolonger le travail en cours de définition d'une stratégie d'intégration et de consolidation de données externes. Il s'agit de données pedigree, génotypiques et phénotypiques générées dans des projets spécifiques. Selon les types de données, une intégration plus ou moins poussée avec les données internes est nécessaire. Différentes approches peuvent être envisagées : web sémantique, Data Warehousing
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Profil : 
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 		Master 2, ingénieur (bac + 5) ou PhD 
 	3 ans ou plus dexpérience dans le domaine génétique ou bioinformatique
 	Compétences souhaitées en informatique : semantic web, Big Data, Data Warehousing, intégration de données, parseurs, bioinformatique
@@ -44,34 +44,34 @@ Le paragraphe 6 est en : FRA
 	Réactivité et innovation
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Merci de candidater en ligne sur www.syngenta.com/careers
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	-------------------------------------------------
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Syngenta is one of the world's leading companies with more than 26,000 employees in over 90 countries dedicated to our purpose: Bringing plant potential to life. Through world-class science, global reach and commitment to our customers we help to increase crop productivity, protect the environment and improve health and quality of life.  For more information about us please go to www.syngenta.com. Syngenta Seeds is hiring an
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	External data integration temporary job position (H/F)
 Location: Saint-Sauveur (31)
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Responsibilities:
 The job position is a replacement during a maternity leave. This is open in the Genetics department of Syngenta working on data analysis, tool development, data integration and mining. The candidate will be part of the Genetic Platform Deployment team and should think on how to handle different types of data and knowledge coming from external collaborations by trying to focus on data integration and data quality. 
 The candidate will study some concrete examples to continue the on-going work to define a strategy for integration and consolidation of external data. Those data can be pedigree, genotypic and phenotypic data generated in specific projects. Depending on data types, integration is more or less required with internal data. Several approaches can be envisioned: semantic web, Data Warehousing
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Requirements: 
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 		Master 2 or PhD 
 	3 years or more experience in genetics or bioinformatics 
 	Knowledge in information systems: semantic web, Big Data, Data Warehousing, data integration, parsing, bioinformatics
@@ -81,11 +81,11 @@ Le paragraphe 13 est en : ENG
 	Adaptability and innovation
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Please apply on www.syngenta.com/careers
 
 ==========================================
-Le paragraphe 15 est en : n
+Le paragraphe 15 est en : non detect
 	
 
 ==========================================
@@ -93,19 +93,19 @@ Le paragraphe 15 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Syngenta figure parmi les leaders mondiaux pour ses activités.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le groupe emploie plus de 26 000 personnes dans plus de 90 pays qui nont quun seul objectif : exprimer le potentiel des plantes.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Par nos capacités scientifiques de premier plan, notre présence mondiale et notre engagement en faveur des clients, nous aidons à accroître les rendements et la rentabilité des cultures, à protéger lenvironnement et à améliorer la santé et la qualité de vie.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : french
 	Il ny a jamais eu de meilleur moment pour rejoindre Syngenta.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Syngenta Seeds recrute un
 
 Chargé de mission intégration de données externes (H/F)
@@ -114,22 +114,22 @@ Localisation : Saint-Sauveur (31)
 Missions :
 Le poste est un remplacement de congé maternité.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Il est ouvert au sein du département « Génétique » de Syngenta qui a des activités danalyses de données, de développement doutils et de gestion de données.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Le (la) candidat(e) sintégrera à léquipe « Déploiement de la plateforme génétique » et devra mener une réflexion sur la gestion des données hétérogènes et des connaissances provenant de collaborations externes en sattachant aux problématiques dintégration et de qualité des données.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Le (la) candidate étudiera des cas concrets afin de prolonger le travail en cours de définition d'une stratégie d'intégration et de consolidation de données externes.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Il s'agit de données pedigree, génotypiques et phénotypiques générées dans des projets spécifiques.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Selon les types de données, une intégration plus ou moins poussée avec les données internes est nécessaire.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Différentes approches peuvent être envisagées : web sémantique, Data Warehousing
 
 Profil : 
@@ -148,13 +148,13 @@ Merci de candidater en ligne sur www.syngenta.com/careers
 
 Syngenta is one of the world's leading companies with more than 26,000 employees in over 90 countries dedicated to our purpose: Bringing plant potential to life.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Through world-class science, global reach and commitment to our customers we help to increase crop productivity, protect the environment and improve health and quality of life.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	For more information about us please go to www.syngenta.com.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Syngenta Seeds is hiring an
 
 External data integration temporary job position (H/F)
@@ -163,22 +163,22 @@ Location: Saint-Sauveur (31)
 Responsibilities:
 The job position is a replacement during a maternity leave.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	This is open in the Genetics department of Syngenta working on data analysis, tool development, data integration and mining.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	The candidate will be part of the Genetic Platform Deployment team and should think on how to handle different types of data and knowledge coming from external collaborations by trying to focus on data integration and data quality.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	The candidate will study some concrete examples to continue the on-going work to define a strategy for integration and consolidation of external data.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Those data can be pedigree, genotypic and phenotypic data generated in specific projects.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Depending on data types, integration is more or less required with internal data.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	Several approaches can be envisioned: semantic web, Data Warehousing
 
 Requirements: 

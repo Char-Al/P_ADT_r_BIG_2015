@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-08_28" est globalement en : FRA
-[('FRA', 0.6059825022061052), ('ENG', 3.480933072291508)]
+Le mail "bioinfo_2014-08_28" est globalement en : french
+[('french', 0.7413206502302452), ('english', 1.3372164533541617)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Développeur PHP/MySQL
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développeur PHP/MySQL
 Type de poste : CDD Ingénieur
 Durée du poste : 1 an
@@ -25,7 +25,7 @@ Email du contact : cendrine.tourette@upmc.fr
 Laboratoire : Jussieu
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppeur-phpmysql-0
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/d%C3%A9veloppeur-phpmysql-0
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Développeur PHP/MySQL

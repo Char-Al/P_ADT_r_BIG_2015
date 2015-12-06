@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-05_59" est globalement en : FRA
-[('FRA', 0.3985746744960737), ('ENG', 8.44553855537793)]
+Le mail "bioinfo_2014-05_59" est globalement en : french
+[('french', 0.04088141454967765), ('english', 1.583597425030439)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] proposition de thèse EEM - Université de Pau 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 Une thèse est proposée au sein de l'Equipe Environnement et 
 Microbiologie (EEM - IPREM UMR 5254) à l'Université de Pau.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	*"Réseaux microbiens de dégradation des hydrocarbures aux interfaces 
 oxie/anoxie dans les écosystèmes marins côtiers*"
 Ce projet de thèse a pour objectif d’obtenir des connaissances sur la 
@@ -32,7 +32,7 @@ d’aborder les fonctions mettant en œuvre des *approches de biologie
 computationnelle*.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Le candidat recherché doit avoir:
 - des*compétences en bioinformatique *et connaissances en analyse de 
 données "omics"
@@ -40,7 +40,7 @@ données "omics"
 - des connaissances en écologie microbienne
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Constitution du dossier:
 - Curriculum Vitae
 -Résumé des travaux de M2R
@@ -50,26 +50,26 @@ Le paragraphe 4 est en : FRA
 le candidat dont au moins unresponsable de stage
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	envoyer à l'adresse suivante: cristiana.cravo-laureau@univ-pau.fr/
 /
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	/date limite d'envoi des dossiers/ : _*lundi 9 juin*_ 2014
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	/_**_/ Merci de bien vouloir diffuser cette proposition auprès des 
 étudiants pouvant être concernés.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : french
 	Cordialement,
 Cristiana Cravo-Laureau
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	-- 
 Cristiana Cravo-Laureau
 Maître de conférences
@@ -86,12 +86,12 @@ BP1155
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 Une thèse est proposée au sein de l'Equipe Environnement et 
 Microbiologie (EEM - IPREM UMR 5254) à l'Université de Pau.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	*"Réseaux microbiens de dégradation des hydrocarbures aux interfaces 
 oxie/anoxie dans les écosystèmes marins côtiers*"
 Ce projet de thèse a pour objectif d’obtenir des connaissances sur la 
@@ -101,14 +101,14 @@ en caractérisant de manière exhaustive et approfondie différentes
 communautés microbiennes et les réseaux métaboliques impliqués dans la 
 dégradation des hydrocarbures.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Ceci sera entrepris en appliquant une 
 approche intégrée interdisciplinaire, utilisant les nouvelles techniques 
 de séquençage combinées avec des méthodes à haut-débit permettant 
 d’aborder les fonctions mettant en œuvre des *approches de biologie 
 computationnelle*.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Le candidat recherché doit avoir:
 - des*compétences en bioinformatique *et connaissances en analyse de 
 données "omics"
@@ -131,7 +131,7 @@ envoyer à l'adresse suivante: cristiana.cravo-laureau@univ-pau.fr/
 /_**_/ Merci de bien vouloir diffuser cette proposition auprès des 
 étudiants pouvant être concernés.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Cordialement,
 Cristiana Cravo-Laureau
 

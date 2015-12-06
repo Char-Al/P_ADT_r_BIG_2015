@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_72" est globalement en : FRA
-[('FRA', 0.35732407462689525), ('ENG', 2.9706404307017973)]
+Le mail "bioinfo_2014-12_72" est globalement en : french
+[('french', 0.4256863494881222), ('english', 0.8966039659464773)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 - Docking haptique molécula  ire pour la réalité virtuelle
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 - Docking haptique moléculaire pour la réalité  
 virtuelle
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : atman.kendira@cmla.ens-cachan.fr
 Laboratoire : Centre de Mathématiques et de Leurs Applications (ENS Cachan)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-docking-haptique-mol%C3%A9culaire-pour-la-r%C3%A9alit%C3%A9-virtuelle
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m2-docking-haptique-mol%C3%A9culaire-pour-la-r%C3%A9a
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 - Docking haptique moléculaire pour la réalité  

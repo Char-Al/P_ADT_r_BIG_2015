@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-06_40" est globalement en : ENG
-[('ENG', 0.7025526744133515), ('FRA', 1.1517054153693296)]
+Le mail "bioinfo_2014-06_40" est globalement en : english
+[('english', 0.09368105462885508), ('french', 0.7451170302540555)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Epigenetics, coding and non-coding RNAs: Challenging NGS data
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	===================================================
 "Epigenetics, coding and non-coding RNAs: Challenging NGS data
 ===================================================
@@ -20,38 +20,38 @@ http://allbioinformatics.eu/bari2014/
 AllBio/SeqAhead Workshop
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The workshop will take place in Bari (IT). 
 All info are available from the workshop web site: http://allbioinformatics.eu/bari2014/
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	This workshop will give insight into the three different worlds of non-coding RNA  transcriptomics  epigenetics  and will highlight known and possible connections among them.
 Oral presentations will be selected according to the  quality of the submitted abstracts and AllBio and SeqAhead will offer travel grants to some  young researchers.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Deadline for abstracts submission: 18th June, 2014.
 Registration deadline: 23th June, 2014.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	A one day tutorial will follow on June 27 on:
 - RNA-seq data analysis
 - smallRNA-seq data analysis
 - BS-seq data analysis
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Registration is free of charge!
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Best,
 Vesko
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	----------------------------
 Dr. Vesselin Baev - University of Plovdiv, Bulgaria
 Associate Professor in Bioinformatics, Dept.Pl.Phys.Mol.Biol.
@@ -63,7 +63,7 @@ Tel/Fax: +359 32 261 (560) - Web: http://plantgene.eu
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	===================================================
 "Epigenetics, coding and non-coding RNAs: Challenging NGS data
 ===================================================
@@ -74,21 +74,21 @@ AllBio/SeqAhead Workshop
 
 The workshop will take place in Bari (IT).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	All info are available from the workshop web site: http://allbioinformatics.eu/bari2014/
 
 This workshop will give insight into the three different worlds of non-coding RNA  transcriptomics  epigenetics  and will highlight known and possible connections among them.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Oral presentations will be selected according to the  quality of the submitted abstracts and AllBio and SeqAhead will offer travel grants to some  young researchers.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Deadline for abstracts submission: 18th June, 2014.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Registration deadline: 23th June, 2014.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	A one day tutorial will follow on June 27 on:
 - RNA-seq data analysis
 - smallRNA-seq data analysis
@@ -96,7 +96,7 @@ La phrase 6 est en : ENG
 
 Registration is free of charge!
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Best,
 Vesko
 
@@ -104,7 +104,7 @@ Vesko
 Dr. Vesselin Baev - University of Plovdiv, Bulgaria
 Associate Professor in Bioinformatics, Dept.Pl.Phys.Mol.Biol.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Tel/Fax: +359 32 261 (560) - Web: http://plantgene.eu
 
 ==========================================

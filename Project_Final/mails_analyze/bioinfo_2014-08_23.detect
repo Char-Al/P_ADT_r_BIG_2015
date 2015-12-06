@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-08_23" est globalement en : FRA
-[('FRA', 0.5078058766903925), ('ENG', 2.2348353497952167)]
+Le mail "bioinfo_2014-08_23" est globalement en : french
+[('french', 0.701236250747565), ('english', 0.8841868221987899)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur en dévelop  pement d’applications : projet BreedWheat
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur en développement d’applications : projet  
 BreedWheat
 Type de poste : CDD Ingénieur
@@ -26,7 +26,7 @@ Email du contact : michael.alaux@versailles.inra.fr
 Laboratoire : INRA - URGI
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-en-d%C3%A9veloppement-d%E2%80%99applications-projet-breedwheat
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-en-d%C3%A9veloppement-d%E2%80%99applic
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur en développement d’applications : projet  

@@ -1,118 +1,118 @@
-Le mail "bioinfo_2014-04_100" est globalement en : ENG
-[('ENG', 0.5008560878408772), ('FRA', 1.3416372424441247)]
+Le mail "bioinfo_2014-04_100" est globalement en : english
+[('english', 0.1210732205397128), ('french', 0.45463977102456643)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [ECCB'14] Call for abstracts: Workshop on Disease Comorbidity
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	We are pleased to announce the ECCB'14 satellite workshop dedicated to "Computational and Systems Biology for Disease Comorbidities" that will take place Sunday, 7th September, 2014, in Strasbourg, France.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The workshop will be organized around 3 sessions scoping the discovery, the interpretation and the exploitation of disease comorbidities. Key invited speakers will introduce each session and speakers selected from abstract submissions will broaden the overview of the science currently developed in this field.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	We deeply encourage you to submit abstracts to the workshop here:
 https://www.easychair.org/conferences/?conf=csbdc2014
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Informations on the workshop can be found here:
 http://www.eccb14.org/program/workshops/csbdc
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Keydates
 Abstract submission deadline: 15th, May 2014
 Workshop: 7th, September 2014
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Looking forward to seeing you in Strasbourg, 
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Anaïs Baudot & Alfonso Valencia
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	############# Workshop Description
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Disease comorbidity – or multimorbidity – exists if 2 or more disorders affect the same individuals more often than expected by chance. Such co-occurrence of diseases are the rule rather than the exception, in particular in ageing populations. Disease comorbidities hence represent a major burden in public health, and greatly affect disease costs and outcomes. But the recent expansion of large-scale biomedical databases and post-genomics disease-related datasets are now offering an unprecedented avenue for the investigations on comorbidities between human disorders. And Computational and Systems Biology are undeniable actors of such investigations.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Session 1: Discovering Disease Comorbidities
 The first session of the workshop will be dedicated to the different approaches that can lead to the detection of comorbidities between disorders, such as the parsing of clinical and epidemiological data.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Confirmed speakers:
 Søren Brunak, CBS, Copenhague, Denmark
 Maria Martinez, INSERM, Toulouse, France
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	 
 Session 2: Interpreting Disease Comorbidities
 The second session of the workshop will be dedicated to the network-based approaches developed to interpret at the molecular levels the comorbidities between human disorders. Many data and multi-scale approaches studying the entangled molecular relationships between proteins, diseases and/or phenotypes rely on network representations. Phenotypes proximities between diseases can arise from mutations in functionally similar genes, for instance genes coding for proteins involved in the same pathways that are close in a protein interaction network. 
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Confirmed speaker:
 Ioannis Xenarios, SBI, Lausanne, Switzerland
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	  
 Session 3: Exploiting Disease Comorbidities
 A major interest for the study of disease comorbidities lies in the therapeutic road of drug repurposing (or repositioning). The knowledge on disease comorbidities could drive drug repositioning in a more effective way than systematic screenings. This assumption is the rationale of the last session.
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Confirmed speaker:
 Patrick Aloy, IRB, Barcelona, Spain
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Organizers :
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	Anaïs Baudot, CNRS, Marseille, France. Contact: anais.baudot [at] univ-amu.fr
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	Alfonso Valencia, CNIO, Madrid, Spain
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	---------------------------------------------------------
 Anaïs BAUDOT
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	I2M, Marseilles Institute of Mathematics
 UMR 7373, Campus de Luminy, Case 907
 13288 Marseille Cedex 9
 France
 
 ==========================================
-Le paragraphe 21 est en : FRA
+Le paragraphe 21 est en : french
 	anais.baudot@univ-amu.fr
 
 ==========================================
-Le paragraphe 22 est en : n
+Le paragraphe 22 est en : non detect
 	+ 33 4 91 26 96 47
 
 ==========================================
@@ -120,16 +120,16 @@ Le paragraphe 22 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	We are pleased to announce the ECCB'14 satellite workshop dedicated to "Computational and Systems Biology for Disease Comorbidities" that will take place Sunday, 7th September, 2014, in Strasbourg, France.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The workshop will be organized around 3 sessions scoping the discovery, the interpretation and the exploitation of disease comorbidities.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Key invited speakers will introduce each session and speakers selected from abstract submissions will broaden the overview of the science currently developed in this field.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We deeply encourage you to submit abstracts to the workshop here:
 https://www.easychair.org/conferences/?conf=csbdc2014
 
@@ -151,23 +151,23 @@ Anaïs Baudot & Alfonso Valencia
 
 Disease comorbidity – or multimorbidity – exists if 2 or more disorders affect the same individuals more often than expected by chance.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Such co-occurrence of diseases are the rule rather than the exception, in particular in ageing populations.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Disease comorbidities hence represent a major burden in public health, and greatly affect disease costs and outcomes.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	But the recent expansion of large-scale biomedical databases and post-genomics disease-related datasets are now offering an unprecedented avenue for the investigations on comorbidities between human disorders.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	And Computational and Systems Biology are undeniable actors of such investigations.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Session 1: Discovering Disease Comorbidities
 The first session of the workshop will be dedicated to the different approaches that can lead to the detection of comorbidities between disorders, such as the parsing of clinical and epidemiological data.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Confirmed speakers:
 Søren Brunak, CBS, Copenhague, Denmark
 Maria Martinez, INSERM, Toulouse, France
@@ -176,13 +176,13 @@ Maria Martinez, INSERM, Toulouse, France
 Session 2: Interpreting Disease Comorbidities
 The second session of the workshop will be dedicated to the network-based approaches developed to interpret at the molecular levels the comorbidities between human disorders.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Many data and multi-scale approaches studying the entangled molecular relationships between proteins, diseases and/or phenotypes rely on network representations.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Phenotypes proximities between diseases can arise from mutations in functionally similar genes, for instance genes coding for proteins involved in the same pathways that are close in a protein interaction network.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Confirmed speaker:
 Ioannis Xenarios, SBI, Lausanne, Switzerland
 
@@ -190,13 +190,13 @@ Ioannis Xenarios, SBI, Lausanne, Switzerland
 Session 3: Exploiting Disease Comorbidities
 A major interest for the study of disease comorbidities lies in the therapeutic road of drug repurposing (or repositioning).
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	The knowledge on disease comorbidities could drive drug repositioning in a more effective way than systematic screenings.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	This assumption is the rationale of the last session.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Confirmed speaker:
 Patrick Aloy, IRB, Barcelona, Spain
 
@@ -205,7 +205,7 @@ Organizers :
 
 Anaïs Baudot, CNRS, Marseille, France.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Contact: anais.baudot [at] univ-amu.fr
 
 Alfonso Valencia, CNIO, Madrid, Spain

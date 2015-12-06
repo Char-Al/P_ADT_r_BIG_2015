@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_25" est globalement en : FRA
-[('FRA', 0.1864492786777136), ('ENG', 2.9769665501021403)]
+Le mail "bioinfo_2014-12_25" est globalement en : french
+[('french', 0.2829023508013167), ('english', 0.8411082084533535)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 Biostatistiques :  Détecter   les intéractionsgène -environnement dans les   étudesd’associationpangénomiques
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 Biostatistiques :  Détecter les intéractions  
 gène-environnement dans les études d’association pangénomiques
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : flora.alarcon@mi.parisdescartes.fr
 Laboratoire : Laboratoire MAP5, Université Paris Descartes
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-biostatistiques-d%C3%A9tecter-les-int%C3%A9ractions-g%C3%A8ne-environnement-dans-les-%C3%A9tudes-d%E2%80%99associatio
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m2-biostatistiques-d%C3%A9tecter-les-int%C3%A9raction
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 Biostatistiques :  Détecter les intéractions  

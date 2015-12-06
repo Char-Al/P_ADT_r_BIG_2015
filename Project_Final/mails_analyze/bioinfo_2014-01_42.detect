@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-01_42" est globalement en : FRA
-[('ENG', 0.9518209611712941), ('FRA', 1.5830370632967723)]
+Le mail "bioinfo_2014-01_42" est globalement en : french
+[('french', 0.5309400000609255), ('english', 1.764927338192191)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Les Bioinformations #5
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Chers collègues, 
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Pour bien commencer cette nouvelle année, nous sommes heureux de vous présenter la cinquième version des bioinformations !
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Suivez le guide : http://www.bioinformations.fr
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Bonne lecture,
 L'équipe de rédaction
 
@@ -33,12 +33,12 @@ L'équipe de rédaction
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Chers collègues, 
 
 Pour bien commencer cette nouvelle année, nous sommes heureux de vous présenter la cinquième version des bioinformations !
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Suivez le guide : http://www.bioinformations.fr
 
 Bonne lecture,

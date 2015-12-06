@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-06_26" est globalement en : FRA
-[('FRA', 0.42046228035589306), ('ENG', 1.0352936401867188)]
+Le mail "bioinfo_2014-06_26" est globalement en : french
+[('french', 0.4373240658452349), ('english', 0.7532205932863747)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Traitement optimisé des données massives issues des microbiotes digestifs
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Traitement optimisé des données massives issues des
 microbiotes digestifs
 Type de poste : Post-doc / IR
@@ -27,12 +27,12 @@ Email du contact : j-francois.brugere@udamail.fr
 Laboratoire : EA 4678 CIDAM
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/traitement-optimis%C3%A9-des-donn%C3%A9es-massives-issues-des-microbiotes-digestifs
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

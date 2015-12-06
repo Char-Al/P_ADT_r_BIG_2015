@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_6" est globalement en : FRA
-[('FRA', 0.37714929824499915), ('ENG', 64.96010809520313)]
+Le mail "bioinfo_2014-03_6" est globalement en : french
+[('french', 0.49337949444626844), ('english', 9.594107488502477)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Poste de biostatisticie  n à l'Institut Curie: analyse des donnéesà   haut- débit
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Poste de biostatisticien à l'Institut Curie: analyse  
 des données à haut-débit
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact : bcsb69@curie.fr
 Laboratoire : Institut Curie
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/poste-de-biostatisticien-%C3%A0-linstitut-curie-analyse-des-donn%C3%A9es-%C3%A0-haut-d%C3%A9bit
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/poste-de-biostatisticien-%C3%A0-linstitut-curie-analy
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Poste de biostatisticien à l'Institut Curie: analyse  

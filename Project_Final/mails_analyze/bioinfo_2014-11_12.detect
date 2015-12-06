@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_12" est globalement en : FRA
-[('FRA', 0.08046155046421574), ('ENG', 0.6220638682985169)]
+Le mail "bioinfo_2014-11_12" est globalement en : french
+[('french', 0.25501702202856663), ('english', 0.8550637050408193)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Conception d'une base de donné  es relationnelle dans le cadre d'un projet inte  rdisciplinaire sur la caractérisation de la di  versité des levains naturels
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Conception d'une base de données relationnelle dans le  
 cadre d'un projet interdisciplinaire sur la caractérisation de la diversité  
 des levains naturels
@@ -27,7 +27,7 @@ Email du contact : ydeoliveira@moulon.inra.fr
 Laboratoire : UMR Génétique Végétale - Le Moulon
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/conception-dune-base-de-donn%C3%A9es-relationnelle-dans-le-cadre-dun-projet-interdisciplinaire-su
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/conception-dune-base-de-donn%C3%A9es-relationnelle-da
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Conception d'une base de données relationnelle dans le  

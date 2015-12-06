@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_7" est globalement en : FRA
-[('ENG', 0.20063270818303913), ('FRA', 0.43752508303184956)]
+Le mail "bioinfo_2014-09_7" est globalement en : french
+[('french', 0.5003717421465914), ('english', 0.533895491673708)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Bioanalyst for the anal  ysis of “Epigenetic mechanisms in Parkinson D  isease”
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Bioanalyst for the analysis of “Epigenetic mechanisms  
 in Parkinson Disease”
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact : tost@cng.fr
 Laboratoire : Laboratory for Epigenetics & Environment, CEA-CNG, Evry
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioanalyst-analysis-%E2%80%9Cepigenetic-mechanisms-parkinson-disease%E2%80%9D
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/bioanalyst-analysis-%E2%80%9Cepigenetic-mechanisms-pa
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Bioanalyst for the analysis of “Epigenetic mechanisms  

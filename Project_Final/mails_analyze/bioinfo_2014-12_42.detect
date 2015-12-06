@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_42" est globalement en : FRA
-[('ENG', 0.24498012665417654), ('FRA', 0.46920873180431805)]
+Le mail "bioinfo_2014-12_42" est globalement en : french
+[('french', 0.4734499650593914), ('english', 0.7938576325704461)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] active Learning for biological systems identification
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : active Learning for biological systems identification
 Type de poste : Post-doc / IR
 Durée du poste : 1 year
@@ -25,7 +25,7 @@ Email du contact : florence.dalche@telecom-paristech.fr
 Laboratoire : LTCI umr CNRS 5141 (Télécom ParisTech) / MAS (ECP)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/active-learning-biological-systems-identification
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/active-learning-biological-systems-identification
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : active Learning for biological systems identification

@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-01_7" est globalement en : FRA
-[('FRA', 1.341843048376781), ('ENG', 1.6072453409733083)]
+Le mail "bioinfo_2014-01_7" est globalement en : french
+[('french', 0.032600730027860056), ('english', 1.4917059280614673)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : english
 Subject : [bioinfo] CDD 2 ans - Conception du Système d'Information pour le projet Investissement d'Avenir CRB-Anim (http://www.crb-anim.fr/)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : english
 	Responsable du système d’information du projet CRB-Anim 
 (http://www.crb-anim.fr/)
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Contexte :
 L’objectif du projet Investissement d'Avenir CRB-Anim est d’intégrer et 
 de renforcer les centres de ressources biologiques (CRB) conservant du 
@@ -25,7 +25,7 @@ domestiques élevées en France, mammifères, oiseaux, poissons,
 coquillages et abeilles.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	L’infrastructure CRB-Anim associe des organismes publics de recherche 
 (INRA, CNRS) des établissements d’enseignement supérieur (Université de 
 Tours, Université de Rennes I, AgroParisTech, Ecoles Nationales 
@@ -40,7 +40,7 @@ l’élevage, aux centres d’insémination animale et aux Ecoles Nationales
 Vétérinaires.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Missions :
 Concevoir le Système d'Information du projet CRB ANIM.
 En concertation avec les différents partenaires, la personne recrutée 
@@ -57,7 +57,7 @@ entre les systèmes d'information des différents partenaires du projet et
 le nouveau SI central.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Activités :
 Piloter le projet de la conception à la réalisation et la mise en œuvre 
 du Système d'Information du projet CRB ANIM.
@@ -70,7 +70,7 @@ Définir l'architecture matérielle et logicielle en prenant en compte
 l'environnement existant.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Compétences :
 Conduire le déploiement d'une application.
 Maîtriser au moins une méthode de spécification et de conception.
@@ -84,7 +84,7 @@ Goût pour les approches orientées qualité.
 Une première expérience en gestion de projet serait un plus.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Capacités personnelles :
 Doctorat, Ingénieur, Master avec expérience.
 Excellentes qualités relationnelles, d'écoute et de communication que ce 
@@ -96,7 +96,7 @@ Connaissances générales dans le domaine des sciences de la vie.
 Maitrise de l’anglais écrit et oral.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Contrat
 Durée : Contrat initial de 18/24 mois en fonction du niveau de 
 recrutement + possibilité de prolongation
@@ -108,7 +108,7 @@ Lieu de travail : Jouy-en-Josas (78350). Des déplacements réguliers en
 province sont à prévoir.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Le dossier de candidature, comprenant un CV, une lettre de motivation et 
 deux références est à adresser par e-mail avant le 31/01/2014 aux 2 
 contacts :
@@ -116,7 +116,7 @@ Sylvain Marthey (sylvain.marthey@jouy.inra.fr)
 Pierre de Renty (Pierre.DeRenty@paris.inra.fr)
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -124,7 +124,7 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Responsable du système d’information du projet CRB-Anim 
 (http://www.crb-anim.fr/)
 
@@ -135,7 +135,7 @@ matériel reproductif et du matériel génomique pour les espèces d’animaux
 domestiques élevées en France, mammifères, oiseaux, poissons, 
 coquillages et abeilles.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	L’infrastructure CRB-Anim associe des organismes publics de recherche 
 (INRA, CNRS) des établissements d’enseignement supérieur (Université de 
 Tours, Université de Rennes I, AgroParisTech, Ecoles Nationales 
@@ -143,33 +143,33 @@ Vétérinaires) une fondation de coopération scientifique (FRB) et deux
 structures privées : LABOGENA et ANTAGENE, qui hébergent des collections 
 génomiques pour les éleveurs.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Cette infrastructure nationale compte 6 
 nœuds localisés près de Paris, Rennes, Tours et Lyon, qui conservent 
 environ 530.000 échantillons biologiques (semence, embryons, cellules, 
 tissus, ADN, ARN).
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Ces nœuds sont liés à des partenaires de recherche de 
 l’IFREMER et de l’INSERM, aux organisations professionnelles de 
 l’élevage, aux centres d’insémination animale et aux Ecoles Nationales 
 Vétérinaires.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Missions :
 Concevoir le Système d'Information du projet CRB ANIM.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	En concertation avec les différents partenaires, la personne recrutée 
 assurera :
 - la rédaction du cahier des charges fonctionnel et technique du portail 
 web.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	- le recrutement et l'encadrement de l'ingénieur en charge du 
 développement du déploiement de l'application.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	- l'élaboration d'un profil commun de description des échantillons 
 biologiques animaux, en veillant à réutiliser les standards existants 
 (thésaurus, ontologies, etc...)
@@ -177,90 +177,90 @@ biologiques animaux, en veillant à réutiliser les standards existants
 entre les systèmes d'information des différents partenaires du projet et 
 le nouveau SI central.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Activités :
 Piloter le projet de la conception à la réalisation et la mise en œuvre 
 du Système d'Information du projet CRB ANIM.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Assurer la conception de la solution au moyen d'expertises approfondies
 Analyser les besoins et constituer le cahier des charges fonctionnel du 
 projet en interaction avec les différents partenaires du projet.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Assurer la veille technologique en relation avec le domaine 
 d'application et les experts du domaine.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Définir l'architecture matérielle et logicielle en prenant en compte 
 l'environnement existant.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Compétences :
 Conduire le déploiement d'une application.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Maîtriser au moins une méthode de spécification et de conception.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Expertise des technologies Web.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Connaissance des bases de données relationnelles, des langages de 
 requêtes associés et des procédures d'échanges des données (Web Services).
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Bonne approche des problématiques d’interopérabilité et d’intégration de 
 données.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Double compétence en biologie et informatique.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	Goût pour les approches orientées qualité.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	Une première expérience en gestion de projet serait un plus.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Capacités personnelles :
 Doctorat, Ingénieur, Master avec expérience.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	Excellentes qualités relationnelles, d'écoute et de communication que ce 
 soit avec des biologistes et/ou des informaticiens.
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	Autonomie, esprit d'initiative, sens de l'organisation et de la 
 communication.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	Capacité à coordonner des actions impliquant plusieurs interlocuteurs.
 ==========================================
-La phrase 25 est en : FRA
+La phrase 25 est en : french
 	Connaissances générales dans le domaine des sciences de la vie.
 ==========================================
-La phrase 26 est en : FRA
+La phrase 26 est en : french
 	Maitrise de l’anglais écrit et oral.
 ==========================================
-La phrase 27 est en : FRA
+La phrase 27 est en : french
 	Contrat
 Durée : Contrat initial de 18/24 mois en fonction du niveau de 
 recrutement + possibilité de prolongation
 Rémunération : Le salaire est établi en fonction du niveau d'étude et 
 d'expérience selon la grille des ingénieurs INRA (Master: IE.
 ==========================================
-La phrase 28 est en : FRA
+La phrase 28 est en : french
 	Ingénieur, 
 Docteur : IR)
 Prise de fonction : début 2014
 Lieu de travail : Jouy-en-Josas (78350).
 ==========================================
-La phrase 29 est en : FRA
+La phrase 29 est en : french
 	Des déplacements réguliers en 
 province sont à prévoir.
 ==========================================
-La phrase 30 est en : FRA
+La phrase 30 est en : french
 	Le dossier de candidature, comprenant un CV, une lettre de motivation et 
 deux références est à adresser par e-mail avant le 31/01/2014 aux 2 
 contacts :

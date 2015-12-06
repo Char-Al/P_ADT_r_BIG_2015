@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-08_21" est globalement en : FRA
-[('FRA', 0.6922878463874135), ('ENG', 2.400674734627467)]
+Le mail "bioinfo_2014-08_21" est globalement en : english (conflict)
+[('english', 0.6976773118962677), ('french', 0.8527829603282994)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] Haplotyping in polyploid crops   using genetics, genomics and bioinformatics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : english
 	Intitulé du poste : Haplotyping in polyploid crops using genetics, genomics  
 and bioinformatics
 Type de poste : Thèse
@@ -26,7 +26,7 @@ Email du contact : chris.maliepaard@wur.nl
 Laboratoire : Wageningen University, plant breeding
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/haplotyping-polyploid-crops-using-genetics-genomics-and-bioinformatics
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/haplotyping-polyploid-crops-using-genetics-genomics-a
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Haplotyping in polyploid crops using genetics, genomics  

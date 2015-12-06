@@ -1,48 +1,48 @@
-Le mail "bioinfo_2014-07_47" est globalement en : ENG
-[('ENG', 0.41943208318641856), ('FRA', 1.7119120798243423)]
+Le mail "bioinfo_2014-07_47" est globalement en : english
+[('english', 0.05919098359585688), ('french', 0.9243500971508416)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ECCB Worshop on Logical Modelling and Analysis of Cellular Networks
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear all,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The program of the ECCB workshop dedicated to the "Logical Modelling and
 Analysis of Cellular Networks" is now published at the url:
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	http://www.eccb14.org/program/workshops/lmacn
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Instruction for registration can be found on the ECCB website.
 Some financial support (registration cost) is available for students and
 postdocs (cf. application instructions on the website).
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	We hope to see many of you at this occasion!
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	With best regards,
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Ioannis Xenarios and Denis Thieffry
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	-- 
 Prof. Denis THIEFFRY
 Ecole Normale Supérieure - Département de Biologie
@@ -50,7 +50,7 @@ IBENS - UMR ENS - CNRS 8197 - INSERM 1024
 46 rue d'Ulm, 75230 Paris Cedex 05
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -58,7 +58,7 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear all,
 
 The program of the ECCB workshop dedicated to the "Logical Modelling and
@@ -68,17 +68,17 @@ http://www.eccb14.org/program/workshops/lmacn
 
 Instruction for registration can be found on the ECCB website.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Some financial support (registration cost) is available for students and
 postdocs (cf.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	application instructions on the website).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We hope to see many of you at this occasion!
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	With best regards,
 
 Ioannis Xenarios and Denis Thieffry

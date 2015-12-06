@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_15" est globalement en : FRA
-[('ENG', 0.28680116383500853), ('FRA', 0.5001077069963176)]
+Le mail "bioinfo_2014-03_15" est globalement en : french
+[('french', 0.48438985604834084), ('english', 0.608343649149274)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Stage] MICRO-VASCULATURE SEGMENTATION IN MICRO-TOMOGRAPHY IMAGES
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : MICRO-VASCULATURE SEGMENTATION IN MICRO-TOMOGRAPHY  
 IMAGES
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : gregoire.malandain@inria.fr
 Laboratoire : INRIA / equipe Morpheme
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/micro-vasculature-segmentation-micro-tomography-images
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/micro-vasculature-segmentation-micro-tomography-image
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : MICRO-VASCULATURE SEGMENTATION IN MICRO-TOMOGRAPHY  

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_74" est globalement en : FRA
-[('ENG', 0.5612864437139595), ('FRA', 0.8599398455696551)]
+Le mail "bioinfo_2014-01_74" est globalement en : french
+[('french', 0.6188178231007834), ('english', 0.7766115495642376)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Postdoc in computational biology of cancer
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Postdoc in computational biology of cancer
 Type de poste : Post-doc / IR
 Durée du poste : 18 mois
@@ -25,7 +25,7 @@ Email du contact : celine.lefebvre@gustaveroussy.fr
 Laboratoire : Inserm U981, Gustave Roussy
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/postdoc-computational-biology-cancer
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/postdoc-computational-biology-cancer
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Postdoc in computational biology of cancer

@@ -1,33 +1,33 @@
-Le mail "bioinfo_2014-04_20" est globalement en : ENG
-[('ENG', 0.3330737817554097), ('FRA', 0.563752509716636)]
+Le mail "bioinfo_2014-04_20" est globalement en : english
+[('english', 0.04629846658458121), ('french', 0.25916797617320003)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] IEEE BIBM 2014 Call for Papers (IEEE International Conference on
  Bioinformatics and Biomedicine)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 =====Call for Papers========
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	2014 IEEE International Conference on Bioinformatics and Biomedicine 
 (BIBM14)
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	http://scm.ulster.ac.uk/~bibm/2014/index.html
 Nov 2-5  2014, Belfast, UK
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The IEEE International Conference on Bioinformatics and Biomedicine 
 (BIBM) has established itself as the premier research conference in 
 bioinformatics and biomedicine. IEEE BIBM 2014 provides a leading forum 
@@ -37,7 +37,7 @@ computer science, biology, chemistry, medicine, mathematics and
 statistics.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	We solicit high-quality original research papers (including significant 
 work-in-progress) in any aspect of bioinformatics and biomedicine. New 
 computational techniques and methods in machine learning; data mining; 
@@ -49,7 +49,7 @@ simulation and their application in life science domain are especially
 encouraged Relevant topics include but are not limited to:
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	1.	Genomics and Molecular Structure, Function and Evolution
 a.	Next-Gen Sequencing and Metagenomics
 b.	Evolution, Phylogeny, Comparative  Genomics
@@ -57,7 +57,7 @@ c.	SNPs and haplotype analysis, GWAS
 d.	Protein/RNA Structure, Function and Interactions
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	2.	Computational Systems Biology
 a.	Transcriptomics - Microarray Data Analysis
 b.	Gene Regulation, Alternative Splicing, Network/Pathway Analysis
@@ -65,7 +65,7 @@ c.	Proteomics, PTMs, Metabolomics
 d.	Epigenomics, non-coding RNA analysis, DNA methylation analysis
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	3.	Medical Informatics and Translational Bioinformatics
 a.	Biomedical Intelligence, Clinical Data Analysis, and Electronic 
 Health Record
@@ -74,7 +74,7 @@ c.	Genome-Phenome Analysis
 d.	Biomarker Discovery
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	4.	Cross-Cutting Computational Methods and Bioinformatics 
 Infrastructure
 a.	Biomedical Text Mining and Ontologies
@@ -83,7 +83,7 @@ c.	Computational Modeling and Data Integration
 d.	High Performance Computing
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	5.	Healthcare Informatics
 a.	Healthcare knowledge representation & reasoning
 b.	Health data acquisition, analysis and mining
@@ -91,7 +91,7 @@ c.	Healthcare information systems
 d.	Clinical Decision Support and Informatics
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	INDUSTRIAL Track
 The Industrial Track solicits papers describing implementations of 
 Bioinformatics and Biomedicine solutions relevant to industrial 
@@ -102,7 +102,7 @@ industry. We accept full papers (up to 8 pages), extended abstracts (2-4
 pages), as well as short abstracts (1 page, 500 words).
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	•	Journal special issues: IEEE BIBM has a tradition to publish selected 
 papers as special issues in highly respected journals. We will publish 
 the special issues publications with 8 journals: IEEE Transactions on 
@@ -117,7 +117,7 @@ issue, BIBM 2012—8 special issues, BIBM 2011—8 special issue,  BIBM
 issues)
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	•	Student Travel Award: BIBM 2014 will offer as many as possible 
 student travel awards to student authors (including post-doc)  (BIBM 
 2013—40 student travel awards, BIBM 2012 – 30 student travel awards, 
@@ -125,7 +125,7 @@ BIBM 2011—28 student travel awards, BIBM 2010--22 student travel awards,
 BIBM 2009—16 student travel awards )
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Conference Co-Chairs:
 Prof. Kwang-Hyun Cho, Korea Advanced Institute of Science and 
 Technology, ckh@kaist.ac.kr
@@ -134,7 +134,7 @@ ydwang@hit.edu.cn
 Dr. Huiru (Jane) Zheng, University of Ulster, UK, h.zheng@ulster.ac.uk
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Program Co-Chairs:
 Dr. Daniel Berrar, Tokyo Institute of Technology, Japan, 
 berrar.d.aa@m.titech.ac.jp
@@ -145,19 +145,19 @@ Prof. Jin-Kao Hao, University of Angers, France,
 hao@info.univ-angers.fr
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Industry Program Committee Chair
 Dr. Andreas Kremer, Siemens Aktiengesellschaft Oesterreich, Austria, 
 kremer.andreas@siemens.com
 Dr. Paul Wash, Nsilico, Ireland, Paul.Walsh@cit.ie
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	BIBM Steering Committee Chair:
 Prof. Xiaohua Tony Hu, Drexel University, USA, thu@cis.drexel.edu
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	Paper Submission:
 Please submit a full-length paper (upto 8 page IEEE 2-column format) 
 through the online submission system (you can download the format 
@@ -168,20 +168,20 @@ required. Selected participants will be asked to submit their revised
 papers in a format to be specified at the time of acceptance.
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	Online Submission:
 https://wi-lab.com/cyberchair/2014/bibm14/cbc_index.php
 Important Dates:
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	Electronic submission of full papers: July 10, 2014
 Notification of paper acceptance: Sept 1, 2014
 Camera-ready of accepted papers: Sept 30, 2014
 Conference: Nov 2-5, 2014
 
 ==========================================
-Le paragraphe 21 est en : n
+Le paragraphe 21 est en : non detect
 	
 
 ==========================================
@@ -189,7 +189,7 @@ Le paragraphe 21 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 =====Call for Papers========
 
@@ -204,21 +204,21 @@ The IEEE International Conference on Bioinformatics and Biomedicine
 (BIBM) has established itself as the premier research conference in 
 bioinformatics and biomedicine.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	IEEE BIBM 2014 provides a leading forum 
 for disseminating the latest research in bioinformatics and health 
 informatics.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	It brings together academic and industrial scientists from 
 computer science, biology, chemistry, medicine, mathematics and 
 statistics.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We solicit high-quality original research papers (including significant 
 work-in-progress) in any aspect of bioinformatics and biomedicine.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	New 
 computational techniques and methods in machine learning; data mining; 
 text analysis; pattern recognition; knowledge representation; databases; 
@@ -230,7 +230,7 @@ encouraged Relevant topics include but are not limited to:
 
 1.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Genomics and Molecular Structure, Function and Evolution
 a.	Next-Gen Sequencing and Metagenomics
 b.	Evolution, Phylogeny, Comparative  Genomics
@@ -239,7 +239,7 @@ d.	Protein/RNA Structure, Function and Interactions
 
 2.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Computational Systems Biology
 a.	Transcriptomics - Microarray Data Analysis
 b.	Gene Regulation, Alternative Splicing, Network/Pathway Analysis
@@ -248,7 +248,7 @@ d.	Epigenomics, non-coding RNA analysis, DNA methylation analysis
 
 3.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Medical Informatics and Translational Bioinformatics
 a.	Biomedical Intelligence, Clinical Data Analysis, and Electronic 
 Health Record
@@ -258,25 +258,25 @@ d.	Biomarker Discovery
 
 4.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Cross-Cutting Computational Methods and Bioinformatics 
 Infrastructure
 a.	Biomedical Text Mining and Ontologies
 b.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Biological Data Mining and Visualization
 c.	Computational Modeling and Data Integration
 d.	High Performance Computing
 
 5.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Healthcare Informatics
 a.	Healthcare knowledge representation & reasoning
 b.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Health data acquisition, analysis and mining
 c.	Healthcare information systems
 d.	Clinical Decision Support and Informatics
@@ -287,21 +287,21 @@ The Industrial Track solicits papers describing implementations of
 Bioinformatics and Biomedicine solutions relevant to industrial 
 settings.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	The focus of industry track is on papers that address the 
 practical, applied, or pragmatic or new research challenge issues 
 related to the use of bioinformatics and biomedicine technologies in 
 industry.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	We accept full papers (up to 8 pages), extended abstracts (2-4 
 pages), as well as short abstracts (1 page, 500 words).
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	•	Journal special issues: IEEE BIBM has a tradition to publish selected 
 papers as special issues in highly respected journals.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	We will publish 
 the special issues publications with 8 journals: IEEE Transactions on 
 NanoBiosceince,  IEEE/ACM Transactions on Bioinformatics and 
@@ -354,15 +354,15 @@ instruction here
 (https://wi-lab.com/cyberchair/2014/bibm14/cbc_index.php  for Latex or 
 word).
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Electronic submissions (in PDF or Postscript format) are 
 required.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Selected participants will be asked to submit their revised 
 papers in a format to be specified at the time of acceptance.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Online Submission:
 https://wi-lab.com/cyberchair/2014/bibm14/cbc_index.php
 Important Dates:

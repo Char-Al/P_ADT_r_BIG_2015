@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-10_66" est globalement en : ENG
-[('ENG', 0.6431449115277499), ('FRA', 1.096655909515519)]
+Le mail "bioinfo_2014-10_66" est globalement en : english
+[('english', 0.0566811099722619), ('french', 1.088606548540482)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] last days to apply - SIB PhD Fellowship programme  Call for applications 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear colleague,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Only 10 days left to apply for the SIB Fellowship programme, which aims to train outstanding bioinformatics PhD students.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The SIB Swiss Institute of Bioinformatics is offering the opportunity to a selection of the best students worldwide to carry out their PhD research in one of its groups, all of which are located in Switzerland. The laureates will receive a financial grant for 3 years (extendible for 1 year).
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Key dates of the SIB Fellowship programme
 - Closing date for applications:       1 November 2014
 - Shortlist selection announcement:    11 December 2014
@@ -31,15 +31,15 @@ Le paragraphe 4 est en : ENG
 - Start of PhD:                        Between March and September 2015
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Further information and application forms for the SIB Fellowship programme are available at www.isb-sib.ch/fellowship.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Thank you in advance for your help in spreading this information around.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Patricia Palagi
 SIB Fellowship Programme Manager
 SIB Swiss Institute of Bioinformatics
@@ -56,18 +56,18 @@ _________________________________________________________________________
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear colleague,
 
 Only 10 days left to apply for the SIB Fellowship programme, which aims to train outstanding bioinformatics PhD students.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The SIB Swiss Institute of Bioinformatics is offering the opportunity to a selection of the best students worldwide to carry out their PhD research in one of its groups, all of which are located in Switzerland.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The laureates will receive a financial grant for 3 years (extendible for 1 year).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Key dates of the SIB Fellowship programme
 - Closing date for applications:       1 November 2014
 - Shortlist selection announcement:    11 December 2014
@@ -76,10 +76,10 @@ La phrase 4 est en : ENG
 
 Further information and application forms for the SIB Fellowship programme are available at www.isb-sib.ch/fellowship.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Thank you in advance for your help in spreading this information around.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Patricia Palagi
 SIB Fellowship Programme Manager
 SIB Swiss Institute of Bioinformatics
@@ -88,11 +88,11 @@ CH-1211 Geneva 4 - Switzerland
  
 Tel.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	: (+41 22) 379 5831   Email: Patricia.Palagi@isb-sib.ch
 Fax.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	: (+41 22) 379 5858   http://www.isb-sib.ch/training
 _________________________________________________________________________
 

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_52" est globalement en : FRA
-[('FRA', 0.9823840170074475), ('ENG', 1.6193786360443176)]
+Le mail "bioinfo_2014-12_52" est globalement en : french
+[('french', 0.658407246430605), ('english', 1.1653167823373778)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IE] Chef de projet informatique scientifique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Chef de projet informatique scientifique
 Type de poste : IE
 Durée du poste : indéterminée
@@ -25,7 +25,7 @@ Email du contact : jobs@discngine.com
 Laboratoire : DISCGINE
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/chef-de-projet-informatique-scientifique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/chef-de-projet-informatique-scientifique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Chef de projet informatique scientifique

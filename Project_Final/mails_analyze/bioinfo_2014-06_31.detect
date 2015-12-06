@@ -1,67 +1,67 @@
-Le mail "bioinfo_2014-06_31" est globalement en : ENG
-[('ENG', 0.6150747291734184), ('FRA', 0.7442465152239854)]
+Le mail "bioinfo_2014-06_31" est globalement en : english
+[('english', 0.03628111061047028), ('french', 0.30000108105264184)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] BigDat 2015: June 23, 2014 - 1st registration deadline
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	*To be removed from our mailing list, please respond to this message with
 UNSUBSCRIBE in the subject line*
 
 ==========================================
-Le paragraphe 2 est en : n
+Le paragraphe 2 est en : non detect
 	*****************************************************
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	INTERNATIONAL WINTER SCHOOL ON BIG DATA
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	BigDat 2015
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Tarragona, Spain
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	January 26-30, 2015
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Organized by
 Rovira i Virgili University
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	http://grammars.grlmc.com/bigdat2015/
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	*****************************************************
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	--- 1st registration deadline: June 23, 2014 ---
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	*****************************************************
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : french
 	AIM:
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	BigDat 2015 is a research training event for graduates and postgraduates in
 the first steps of their academic career. It aims at updating them about the
 most recent developments in the fast developing area of big data, which
@@ -72,7 +72,7 @@ Renowned academics and industry pioneers will lecture and share their views
 with the audience.
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	All big data subareas will be displayed, namely: foundations,
 infrastructure, management, search and mining, security and privacy, and
 applications. Main challenges of analytics, management and storage of big
@@ -82,223 +82,223 @@ believe outstanding speakers will attract the brightest and most motivated
 students. Interaction will be a main component of the event.
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	ADDRESSED TO:
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Graduate and postgraduates from around the world. There are no formal
 pre-requisites in terms of academic degrees. However, since there will be
 differences in the course levels, specific knowledge background may be
 required for some of them.
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	BigDat 2015 is also appropriate for more senior people who want to keep
 themselves updated on recent developments and future trends. They will
 surely find it fruitful to listen and discuss with major researchers,
 industry leaders and innovators.
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	REGIME:
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	In addition to keynotes, 3 courses will run in parallel during the whole
 event. Participants will be able to freely choose the courses they will be
 willing to attend as well as to move from one to another.
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	VENUE:
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	BigDat 2015 will take place in Tarragona, located 90 kms. to the south of
 Barcelona. The venue will be:
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	Campus Catalunya
 Universitat Rovira i Virgili
 Av. Catalunya, 35
 43002 Tarragona
 
 ==========================================
-Le paragraphe 23 est en : ENG
+Le paragraphe 23 est en : english
 	KEYNOTE SPEAKERS:
 
 ==========================================
-Le paragraphe 24 est en : ENG
+Le paragraphe 24 est en : english
 	Ricardo Baeza-Yates (Yahoo! Research Labs, Barcelona), Big Data or Right
 Data? - to be confirmed -
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	Ian Foster (Argonne National Laboratory), tba
 
 ==========================================
-Le paragraphe 26 est en : ENG
+Le paragraphe 26 est en : english
 	Geoffrey C. Fox (Indiana University, Bloomington), tba
 
 ==========================================
-Le paragraphe 27 est en : ENG
+Le paragraphe 27 est en : english
 	C. Lee Giles (Pennsylvania State University, University Park), tba
 
 ==========================================
-Le paragraphe 28 est en : ENG
+Le paragraphe 28 est en : english
 	William D. Gropp (University of Illinois, Urbana-Champaign), tba
 
 ==========================================
-Le paragraphe 29 est en : ENG
+Le paragraphe 29 est en : english
 	COURSES AND PROFESSORS:
 
 ==========================================
-Le paragraphe 30 est en : ENG
+Le paragraphe 30 est en : english
 	Hendrik Blockeel (Katholieke Universiteit Leuven), [intermediate] Decision
 Trees for Big Data Analytics
 
 ==========================================
-Le paragraphe 31 est en : ENG
+Le paragraphe 31 est en : english
 	Diego Calvanese (Free University of Bozen-Bolzano),
 [introductory/intermediate] End-User Access to Big Data Using Ontologies
 
 ==========================================
-Le paragraphe 32 est en : ENG
+Le paragraphe 32 est en : english
 	Jiannong Cao (Hong Kong Polytechnic University), [introductory/intermediate]
 Programming with Big Data
 
 ==========================================
-Le paragraphe 33 est en : ENG
+Le paragraphe 33 est en : english
 	Edward Y. Chang (HTC Corporation, New Taipei City), tba
 
 ==========================================
-Le paragraphe 34 est en : ENG
+Le paragraphe 34 est en : english
 	Ernesto Damiani (University of Milan), [introductory/intermediate] Process
 Discovery and Predictive Decision Making from Big Data Sets and Streams
 
 ==========================================
-Le paragraphe 35 est en : ENG
+Le paragraphe 35 est en : english
 	Gautam Das (University of Texas, Arlington), [intermediate/advanced] Mining
 Deep Web Repositories
 
 ==========================================
-Le paragraphe 36 est en : ENG
+Le paragraphe 36 est en : english
 	Maarten de Rijke (University of Amsterdam), tba
 
 ==========================================
-Le paragraphe 37 est en : ENG
+Le paragraphe 37 est en : english
 	Geoffrey C. Fox (Indiana University, Bloomington), tba
 
 ==========================================
-Le paragraphe 38 est en : ENG
+Le paragraphe 38 est en : english
 	Minos Garofalakis (Technical University of Crete, Chania)
 [intermediate/advanced], Querying Continuous Data Streams
 
 ==========================================
-Le paragraphe 39 est en : ENG
+Le paragraphe 39 est en : english
 	Vasant G. Honavar (Pennsylvania State University, University Park)
 [introductory/intermediate], Learning Predictive Models from Big Data
 
 ==========================================
-Le paragraphe 40 est en : ENG
+Le paragraphe 40 est en : english
 	Mounia Lalmas (Yahoo! Research Labs, London), [introductory] Measuring User
 Engagement
 
 ==========================================
-Le paragraphe 41 est en : ENG
+Le paragraphe 41 est en : english
 	Tao Li (Florida International University, Miami),
 [introductory/intermediate] Data Mining Techniques to Understand Textual
 Data
 
 ==========================================
-Le paragraphe 42 est en : ENG
+Le paragraphe 42 est en : english
 	Kwan-Liu Ma (University of California, Davis), [intermediate] Big Data
 Visualization
 
 ==========================================
-Le paragraphe 43 est en : ENG
+Le paragraphe 43 est en : english
 	Christoph Meinel (Hasso Plattner Institute, Potsdam),
 [introductory/intermediate] New Computing Power by In-Memory and Multicore
 to Tackle Big Data
 
 ==========================================
-Le paragraphe 44 est en : ENG
+Le paragraphe 44 est en : english
 	David Padua (University of Illinois, Urbana-Champaign), [intermediate] Data
 Parallel Programming
 
 ==========================================
-Le paragraphe 45 est en : ENG
+Le paragraphe 45 est en : english
 	Manish Parashar (Rutgers University, Piscataway), [intermediate] Big Data in
 Simulation-based Science
 
 ==========================================
-Le paragraphe 46 est en : ENG
+Le paragraphe 46 est en : english
 	Srinivasan Parthasarathy (Ohio State University, Columbus), [intermediate]
 Scalable Data Analysis
 
 ==========================================
-Le paragraphe 47 est en : ENG
+Le paragraphe 47 est en : english
 	Vijay V. Raghavan (University of Louisiana, Lafayette),
 [introductory/intermediate] Visual Analytics of Time-evolving Large-Scale
 Graphs
 
 ==========================================
-Le paragraphe 48 est en : ENG
+Le paragraphe 48 est en : english
 	Pierangela Samarati (University of Milan), [intermediate], Data Security and
 Privacy in the Cloud
 
 ==========================================
-Le paragraphe 49 est en : ENG
+Le paragraphe 49 est en : english
 	Peter Sanders (Karlsruhe Institute of Technology),
 [introductory/intermediate] Algorithm Engineering for Large Data Sets
 
 ==========================================
-Le paragraphe 50 est en : ENG
+Le paragraphe 50 est en : english
 	Johan Suykens (Katholieke Universiteit Leuven), [introductory/intermediate]
 Fixed-size Kernel Models for Big Data
 
 ==========================================
-Le paragraphe 51 est en : ENG
+Le paragraphe 51 est en : english
 	Domenico Talia (University of Calabria, Rende), [intermediate] Scalable Data
 Mining on Parallel, Distributed and Cloud Computing Systems
 
 ==========================================
-Le paragraphe 52 est en : ENG
+Le paragraphe 52 est en : english
 	Jieping Ye (Arizona State University, Tempe), [introductory/advanced]
 Large-Scale Sparse Learning and Low Rank Modeling
 
 ==========================================
-Le paragraphe 53 est en : ENG
+Le paragraphe 53 est en : english
 	ORGANIZING COMMITTEE:
 
 ==========================================
-Le paragraphe 54 est en : ENG
+Le paragraphe 54 est en : english
 	Adrian Horia Dediu (Tarragona)
 Carlos Martín-Vide (Tarragona, chair)
 Florentina Lilica Voicu (Tarragona)
 
 ==========================================
-Le paragraphe 55 est en : ENG
+Le paragraphe 55 est en : english
 	REGISTRATION:
 
 ==========================================
-Le paragraphe 56 est en : ENG
+Le paragraphe 56 est en : english
 	It has to be done at
 
 ==========================================
-Le paragraphe 57 est en : ENG
+Le paragraphe 57 est en : english
 	http://grammars.grlmc.com/bigdat2015/registration.php
 
 ==========================================
-Le paragraphe 58 est en : ENG
+Le paragraphe 58 est en : english
 	The selection of up to 8 courses requested in the registration template is
 only tentative and non-binding. For the sake of organization, it will be
 helpful to have an approximation of the respective demand for each course.
 
 ==========================================
-Le paragraphe 59 est en : ENG
+Le paragraphe 59 est en : english
 	Since the capacity of the venue is limited, registration requests will be
 processed on a first come first served basis. The registration period will
 be closed and the on-line registration facility disabled when the capacity
@@ -306,46 +306,46 @@ of the venue will be complete. It is much recommended to register prior to
 the event.
 
 ==========================================
-Le paragraphe 60 est en : ENG
+Le paragraphe 60 est en : english
 	FEES:
 
 ==========================================
-Le paragraphe 61 est en : ENG
+Le paragraphe 61 est en : english
 	As far as possible, participants are expected to stay full-time. Fees are a
 flat rate covering the attendance to all courses during the week. There are
 several early registration deadlines. Fees depend on the registration
 deadline.
 
 ==========================================
-Le paragraphe 62 est en : ENG
+Le paragraphe 62 est en : english
 	ACCOMMODATION:
 
 ==========================================
-Le paragraphe 63 est en : ENG
+Le paragraphe 63 est en : english
 	Suggestions of accommodation will be provided in due time.
 
 ==========================================
-Le paragraphe 64 est en : ENG
+Le paragraphe 64 est en : english
 	CERTIFICATE:
 
 ==========================================
-Le paragraphe 65 est en : ENG
+Le paragraphe 65 est en : english
 	Participants will be delivered a certificate of attendance.
 
 ==========================================
-Le paragraphe 66 est en : FRA
+Le paragraphe 66 est en : french
 	QUESTIONS AND FURTHER INFORMATION:
 
 ==========================================
-Le paragraphe 67 est en : FRA
+Le paragraphe 67 est en : french
 	florentinalilica.voicu@urv.cat
 
 ==========================================
-Le paragraphe 68 est en : FRA
+Le paragraphe 68 est en : french
 	POSTAL ADDRESS:
 
 ==========================================
-Le paragraphe 69 est en : ENG
+Le paragraphe 69 est en : english
 	BigDat 2015
 Lilica Voicu
 Rovira i Virgili University
@@ -353,26 +353,26 @@ Av. Catalunya, 35
 43002 Tarragona, Spain
 
 ==========================================
-Le paragraphe 70 est en : FRA
+Le paragraphe 70 est en : french
 	Phone: +34 977 559 543
 Fax: +34 977 558 386
 
 ==========================================
-Le paragraphe 71 est en : ENG
+Le paragraphe 71 est en : english
 	ACKNOWLEDGEMENTS:
 
 ==========================================
-Le paragraphe 72 est en : FRA
+Le paragraphe 72 est en : french
 	Universitat Rovira i Virgili
 
 ==========================================
-Le paragraphe 73 est en : ENG
+Le paragraphe 73 est en : english
 	---
 Este mensaje no contiene virus ni malware porque la protección de avast! Antivirus está activa.
 http://www.avast.com
 
 ==========================================
-Le paragraphe 74 est en : n
+Le paragraphe 74 est en : non detect
 	
 
 ==========================================
@@ -380,7 +380,7 @@ Le paragraphe 74 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	*To be removed from our mailing list, please respond to this message with
 UNSUBSCRIBE in the subject line*
 
@@ -410,85 +410,85 @@ AIM:
 BigDat 2015 is a research training event for graduates and postgraduates in
 the first steps of their academic career.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	It aims at updating them about the
 most recent developments in the fast developing area of big data, which
 covers a large spectrum of current exciting research, development and
 innovation with an extraordinary potential for a huge impact on scientific
 discoveries, medicine, engineering, business models, and society itself.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Renowned academics and industry pioneers will lecture and share their views
 with the audience.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	All big data subareas will be displayed, namely: foundations,
 infrastructure, management, search and mining, security and privacy, and
 applications.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Main challenges of analytics, management and storage of big
 data will be identified through 5 keynote lectures and 23 six-hour courses,
 which will tackle the most lively and promising topics.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The organizers
 believe outstanding speakers will attract the brightest and most motivated
 students.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Interaction will be a main component of the event.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	ADDRESSED TO:
 
 Graduate and postgraduates from around the world.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	There are no formal
 pre-requisites in terms of academic degrees.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	However, since there will be
 differences in the course levels, specific knowledge background may be
 required for some of them.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	BigDat 2015 is also appropriate for more senior people who want to keep
 themselves updated on recent developments and future trends.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	They will
 surely find it fruitful to listen and discuss with major researchers,
 industry leaders and innovators.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	REGIME:
 
 In addition to keynotes, 3 courses will run in parallel during the whole
 event.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Participants will be able to freely choose the courses they will be
 willing to attend as well as to move from one to another.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	VENUE:
 
 BigDat 2015 will take place in Tarragona, located 90 kms.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	to the south of
 Barcelona.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	The venue will be:
 
 Campus Catalunya
 Universitat Rovira i Virgili
 Av.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Catalunya, 35
 43002 Tarragona
 
@@ -496,11 +496,11 @@ KEYNOTE SPEAKERS:
 
 Ricardo Baeza-Yates (Yahoo!
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Research Labs, Barcelona), Big Data or Right
 Data?
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	- to be confirmed -
 
 Ian Foster (Argonne National Laboratory), tba
@@ -542,7 +542,7 @@ Vasant G. Honavar (Pennsylvania State University, University Park)
 
 Mounia Lalmas (Yahoo!
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	Research Labs, London), [introductory] Measuring User
 Engagement
 
@@ -600,51 +600,51 @@ http://grammars.grlmc.com/bigdat2015/registration.php
 The selection of up to 8 courses requested in the registration template is
 only tentative and non-binding.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	For the sake of organization, it will be
 helpful to have an approximation of the respective demand for each course.
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	Since the capacity of the venue is limited, registration requests will be
 processed on a first come first served basis.
 ==========================================
-La phrase 24 est en : ENG
+La phrase 24 est en : english
 	The registration period will
 be closed and the on-line registration facility disabled when the capacity
 of the venue will be complete.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	It is much recommended to register prior to
 the event.
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	FEES:
 
 As far as possible, participants are expected to stay full-time.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	Fees are a
 flat rate covering the attendance to all courses during the week.
 ==========================================
-La phrase 28 est en : ENG
+La phrase 28 est en : english
 	There are
 several early registration deadlines.
 ==========================================
-La phrase 29 est en : ENG
+La phrase 29 est en : english
 	Fees depend on the registration
 deadline.
 ==========================================
-La phrase 30 est en : ENG
+La phrase 30 est en : english
 	ACCOMMODATION:
 
 Suggestions of accommodation will be provided in due time.
 ==========================================
-La phrase 31 est en : ENG
+La phrase 31 est en : english
 	CERTIFICATE:
 
 Participants will be delivered a certificate of attendance.
 ==========================================
-La phrase 32 est en : FRA
+La phrase 32 est en : french
 	QUESTIONS AND FURTHER INFORMATION:
 
 florentinalilica.voicu@urv.cat
@@ -656,7 +656,7 @@ Lilica Voicu
 Rovira i Virgili University
 Av.
 ==========================================
-La phrase 33 est en : ENG
+La phrase 33 est en : english
 	Catalunya, 35
 43002 Tarragona, Spain
 
@@ -671,10 +671,10 @@ Universitat Rovira i Virgili
 ---
 Este mensaje no contiene virus ni malware porque la protección de avast!
 ==========================================
-La phrase 34 est en : ENG
+La phrase 34 est en : english
 	Antivirus está activa.
 ==========================================
-La phrase 35 est en : ENG
+La phrase 35 est en : english
 	http://www.avast.com
 
 

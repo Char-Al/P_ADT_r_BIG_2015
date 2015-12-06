@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_64" est globalement en : FRA
-[('FRA', 0.22515930121314814), ('ENG', 1.2770044028574816)]
+Le mail "bioinfo_2014-11_64" est globalement en : french
+[('french', 0.3443445284468632), ('english', 0.64436484933325)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 - Méthode d'analyse pour l  ’optimisation fonctionnelle de réseauxméta  boliques construits ab initio
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 - Méthode d'analyse pour l’optimisation  
 fonctionnelle de réseaux métaboliques construits ab initio
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : speres@lri.fr
 Laboratoire : Laboratoire de Recherche en Informatique (LRI UMR8623)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-m%C3%A9thode-danalyse-pour-l%E2%80%99optimisation-fonctionnelle-de-r%C3%A9seaux-m%C3%A9taboliques-construits-ab-
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m2-m%C3%A9thode-danalyse-pour-l%E2%80%99optimisation-
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 - Méthode d'analyse pour l’optimisation  

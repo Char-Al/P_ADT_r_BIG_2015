@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_59" est globalement en : FRA
-[('FRA', 1.0393245796403425), ('ENG', 12.660110170977257)]
+Le mail "bioinfo_2014-01_59" est globalement en : french
+[('french', 0.509533311383722), ('english', 1.1906498429785946)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][MdC] Maître de Conférences en Bioinf  ormatique (CNU 27 n°0760 Galaxie)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Maître de Conférences en Bioinformatique (CNU 27  
 n°0760 Galaxie)
 Type de poste : MdC
@@ -26,7 +26,7 @@ Email du contact : Alain.Denise@lri.fr
 Laboratoire : LRI, Université Paris Sud
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ma%C3%AEtre-de-conf%C3%A9rences-en-bioinformatique-cnu-27-n%C2%B00760-galaxie
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ma%C3%AEtre-de-conf%C3%A9rences-en-bioinformatique-cn
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Maître de Conférences en Bioinformatique (CNU 27  

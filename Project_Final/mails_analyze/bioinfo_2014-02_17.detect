@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_17" est globalement en : ENG
-[('ENG', 0.43918649173760205), ('FRA', 0.7478507348670721)]
+Le mail "bioinfo_2014-02_17" est globalement en : english (conflict)
+[('english', 0.4204457032780325), ('french', 0.496655482957072)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position in high-throughput sequencing analysis
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Post-doctoral position in high-throughput sequencing  
 analysis
 Type de poste : Post-doc / IR
@@ -27,7 +27,7 @@ Laboratoire : Institut Curie, Department of Bioinformatics, biostatistics,
 epidemiology and computational systems biology of cancer
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doctoral-position-high-throughput-sequencing-analysis
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/post-doctoral-position-high-throughput-sequencing-ana
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Post-doctoral position in high-throughput sequencing  

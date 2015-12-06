@@ -1,34 +1,34 @@
-Le mail "bioinfo_2014-10_56" est globalement en : ENG
-[('FRA', 0.6230933336197215), ('ENG', 2.6226412369753827)]
+Le mail "bioinfo_2014-10_56" est globalement en : english
+[('english', 0.03363514203468615), ('french', 0.420679416955467)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] TAGp-2014 Conference on "Evolution and Complexity", 4th and 5th of December 2014, at Bourget-du-Lac (Rhône -Alpes)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Dear Colleagues
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	We are organizing the TAGp-2014 (Theoretical Approaches for the Genome  
 and the proteome), a two days meeting on the 4th and 5th of December  
 2014, at Bourget-du-Lac, France (Alpes). The topic is "Evolution and  
 Complexity".
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	This is an interdisciplinary meeting with scientists from mathematics,  
 physics, computer science and biology.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The speakers are
 1) Juli Pereto, University of Valencia, Valencia
 2) Deiter Braun, Ludwig Maximilians University, Munchen
@@ -40,18 +40,18 @@ Annecy le Vieux
 7) Sergei Grudinin, NANO-D,Grenoble
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	To register or get information, please go to
 https://indico.in2p3.fr/event/9888/
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	We have some fellowship for the young scientists who would like to  
 present their work. To apply submit a short CV and an abstract to  
 ?claire.lesieur@agim.eu; laurent.vuillon@univ-savoie.fr ?.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Thanks and looking forward seeing you in Bourget-du-Lac
 Claire Lesieur
 Laurent Vuillon
@@ -65,7 +65,7 @@ Virginie Malaval
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 Dear Colleagues
 
@@ -74,15 +74,15 @@ We are organizing the TAGp-2014 (Theoretical Approaches for the Genome
 and the proteome), a two days meeting on the 4th and 5th of December  
 2014, at Bourget-du-Lac, France (Alpes).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The topic is "Evolution and  
 Complexity".
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	This is an interdisciplinary meeting with scientists from mathematics,  
 physics, computer science and biology.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The speakers are
 1) Juli Pereto, University of Valencia, Valencia
 2) Deiter Braun, Ludwig Maximilians University, Munchen
@@ -101,11 +101,11 @@ https://indico.in2p3.fr/event/9888/
 We have some fellowship for the young scientists who would like to  
 present their work.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	To apply submit a short CV and an abstract to  
 ?claire.lesieur@agim.eu; laurent.vuillon@univ-savoie.fr ?.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Thanks and looking forward seeing you in Bourget-du-Lac
 Claire Lesieur
 Laurent Vuillon

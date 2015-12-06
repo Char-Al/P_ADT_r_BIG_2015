@@ -1,57 +1,57 @@
-Le mail "bioinfo_2014-04_46" est globalement en : FRA
-[('FRA', 0.44542028781145515), ('ENG', 2.8272980827821543)]
+Le mail "bioinfo_2014-04_46" est globalement en : french
+[('french', 0.04650389519136412), ('english', 2.4135694572607087)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Ecole Thématique "Analyse du Génome Tumoral" - 12-15 mai 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	veuillez trouver ci-dessous l'annonce de l'Ecole Thématique « Analyse du Génome Tumoral » édition 2014 complétée de la liste définitives des intervenants.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Merci de la diffuser le plus largement possible autour de vous.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Yves Rozenholc
 
 ==========================================
-Le paragraphe 5 est en : n
+Le paragraphe 5 est en : non detect
 	######################
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Ecole Thématique « Analyse du Génome Tumoral » édition 2014
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	But : Amener une force vive de chercheurs confirmés et de jeunes chercheurs à se rencontrer autour de cours interdisciplinaires dédiés à l’analyse du génome tumoral à développer une culture commune englobant médecine, biologie, bioinformatique et statistique avec pour cette édition, une mise en avant des NGS.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Déroulement : L'école propose des cours pédagogiques à destination des non spécialistes assurés par les seniors. Le niveau visé est un niveau de master 2 + avec pour but de permettre à chacun d'acquérir un langage commun, une idée des problèmes et une vision des solutions envisagées. Les juniors pourront de plus présenter leurs travaux à travers des exposés (20 minutes + 5 minutes de questions) afin de favoriser la discussion trans-générationnelle et trans-culturelle.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Cette école est ouverte aux doctorants, post-doctorants et jeunes (enseignants-) chercheurs mais aussi aux étudiants en fin de master motivés par la thématique.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Leur prise en charge (formation, hébergements, repas, transports) est assurée à 100% par :
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	• CARPEM Cancer Research for Personalized Medicine
 • IUH Saint-Louis Institut Universitaire d’Hématologie de Saint-Louis
 • PACRI Projet alliance parisienne des instituts de recherche en cancérologie
@@ -59,15 +59,15 @@ Le paragraphe 11 est en : FRA
 • SOCRATE Institut Gustave Roussy
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Dates : 12 au 15 mai 2014
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Intervenants :
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Guillaume Assié  - INSERM U1016-CNRS 8104 «  Département Endocrinologie Métabolisme et Cancer » - Université Paris Descartes - Institut Cochin
 Etienne Birmelé - MAP5, UMR CNRS 8145 - Université Paris Descartes
 Valentina Boeva - INSERM U900 - Ecoles des Mines - Institut Curie
@@ -80,34 +80,34 @@ Tatiana Popova - INSERM U830 - Institut Curie
 Charles-André Cuénod - INSERM U970 PARCC - LRI - Université Paris Descartes
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	Lieu : Les Berges de Seine
           Les Campus Chateauform’
           1 rte de Beaulieu
           77240  Seine-Port
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	Départ et retour en car à partir de Paris
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	Attention : le nombre de places est limité à 40 jeunes chercheurs, il est important de s'inscrire au plus tôt.
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	Inscription : genometumoral@gmail.com
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	Cette édition 2014 est mise en place sous l’égide du GIRCI Ile-de-France.
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	Comité Scientifique : Ivan Bieche - Laboratoire d’Oncogénétique, Institut Curie /  Ludovic Lacroix - Laboratoire de Recherche Translationnelle, Institut Gustave Roussy : Pierre Laurent Puig - INSERM UMR-S1147, HEGP, Paris Descartes / Franck Letourneur - Plateforme de génomique, Institut Cochin /  Sandrine Imbeaud - INSERM, UMR U-674, Institut Universitaire d’Hématologie, Paris Descartes /  Tatiana Popova - U830, Institut Curie / Yves Rozenholc - MAP5 UMR CNRS 8145, Université Paris Descartes et INRIA Select.
 
 ==========================================
-Le paragraphe 21 est en : FRA
+Le paragraphe 21 est en : french
 	Coordinateur Scientifique :  Yves Rozenholc - MAP5 UMR CNRS 8145, Université Paris Descartes et INRIA Select.
 
 ==========================================
@@ -115,15 +115,15 @@ Le paragraphe 21 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 veuillez trouver ci-dessous l'annonce de l'Ecole Thématique « Analyse du Génome Tumoral » édition 2014 complétée de la liste définitives des intervenants.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Merci de la diffuser le plus largement possible autour de vous.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Yves Rozenholc
 
 ######################
@@ -132,19 +132,19 @@ Ecole Thématique « Analyse du Génome Tumoral » édition 2014
 
 But : Amener une force vive de chercheurs confirmés et de jeunes chercheurs à se rencontrer autour de cours interdisciplinaires dédiés à l’analyse du génome tumoral à développer une culture commune englobant médecine, biologie, bioinformatique et statistique avec pour cette édition, une mise en avant des NGS.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Déroulement : L'école propose des cours pédagogiques à destination des non spécialistes assurés par les seniors.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Le niveau visé est un niveau de master 2 + avec pour but de permettre à chacun d'acquérir un langage commun, une idée des problèmes et une vision des solutions envisagées.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Les juniors pourront de plus présenter leurs travaux à travers des exposés (20 minutes + 5 minutes de questions) afin de favoriser la discussion trans-générationnelle et trans-culturelle.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Cette école est ouverte aux doctorants, post-doctorants et jeunes (enseignants-) chercheurs mais aussi aux étudiants en fin de master motivés par la thématique.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Leur prise en charge (formation, hébergements, repas, transports) est assurée à 100% par :
 
 • CARPEM Cancer Research for Personalized Medicine
@@ -177,14 +177,14 @@ Départ et retour en car à partir de Paris
 
 Attention : le nombre de places est limité à 40 jeunes chercheurs, il est important de s'inscrire au plus tôt.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Inscription : genometumoral@gmail.com
 
 Cette édition 2014 est mise en place sous l’égide du GIRCI Ile-de-France.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Comité Scientifique : Ivan Bieche - Laboratoire d’Oncogénétique, Institut Curie /  Ludovic Lacroix - Laboratoire de Recherche Translationnelle, Institut Gustave Roussy : Pierre Laurent Puig - INSERM UMR-S1147, HEGP, Paris Descartes / Franck Letourneur - Plateforme de génomique, Institut Cochin /  Sandrine Imbeaud - INSERM, UMR U-674, Institut Universitaire d’Hématologie, Paris Descartes /  Tatiana Popova - U830, Institut Curie / Yves Rozenholc - MAP5 UMR CNRS 8145, Université Paris Descartes et INRIA Select.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Coordinateur Scientifique :  Yves Rozenholc - MAP5 UMR CNRS 8145, Université Paris Descartes et INRIA Select.
 ==========================================

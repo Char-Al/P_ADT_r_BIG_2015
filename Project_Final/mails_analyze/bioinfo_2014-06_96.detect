@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-06_96" est globalement en : FRA
-[('FRA', 0.369122884157942), ('ENG', 3.0491784979154066)]
+Le mail "bioinfo_2014-06_96" est globalement en : french
+[('french', 0.3626299218300311), ('english', 0.9603018666576502)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingenieur info/bioinfo : analyse de données de séquençage de smallRNA-seq dans les génomes de plante
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingenieur info/bioinfo : analyse de données de
 séquençage de smallRNA-seq dans les génomes de plante
 Type de poste : CDD Ingénieur
@@ -27,12 +27,12 @@ Email du contact : helene.touzet@lifl.fr
 Laboratoire : LIFL et Inria Lille, équipe BONSAI
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ingenieur-infobioinfo-analyse-de-donn%C3%A9es-de-s%C3%A9quen%C3%A7age-de-smallrna-seq-dans-les-g%C3%A9nomes-de-p
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

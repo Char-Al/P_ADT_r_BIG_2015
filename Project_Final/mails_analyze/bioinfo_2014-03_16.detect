@@ -1,18 +1,18 @@
-Le mail "bioinfo_2014-03_16" est globalement en : FRA
-[('FRA', 0.14965812094039832), ('ENG', 0.28431001539519957)]
+Le mail "bioinfo_2014-03_16" est globalement en : french
+[('french', 0.07078716262663365), ('english', 0.24429103297955693)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] 3eme edition du livre "Comprendre et realiser les tests
  statistiques a l'aide de R"
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour.
  
 Pour ceux que cela interesse, la troisieme edition du livre "Comprendre et realiser les tests statistiques a l'aide de R" vient de paraitre. Elle contient toutes les corrections qui etaient mises en ligne. Elle exploite la derniere version de R (3.0.2). De nombreux points ont ete ajoutes, tant sur R que sur les stats (39 pages supplementaires).
@@ -40,7 +40,7 @@ http://perso.curie.fr/Gael.Millot/index.html
  
 
 ==========================================
-Le paragraphe 2 est en : n
+Le paragraphe 2 est en : non detect
 	
 
 ==========================================
@@ -48,32 +48,32 @@ Le paragraphe 2 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Pour ceux que cela interesse, la troisieme edition du livre "Comprendre et realiser les tests statistiques a l'aide de R" vient de paraitre.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Elle contient toutes les corrections qui etaient mises en ligne.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Elle exploite la derniere version de R (3.0.2).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	De nombreux points ont ete ajoutes, tant sur R que sur les stats (39 pages supplementaires).
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Toutes les infos sur ce site :
  
 http://perso.curie.fr/Gael.Millot/Publications_livre.htm
  
 Bien a vous.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Gael Millot.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Gael Millot
 UMR 3244 (IC-CNRS-UPMC) et Universite Pierre et Marie Curie
 Equipe Recombinaison et instabilite genetique

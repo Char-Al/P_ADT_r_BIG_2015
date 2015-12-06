@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-06_44" est globalement en : FRA
-[('ENG', 0.2846416341278876), ('FRA', 0.4701097989499816)]
+Le mail "bioinfo_2014-06_44" est globalement en : french
+[('french', 0.5293097983642988), ('english', 0.75080716554122)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Data analysis for ependymal cells development
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Data analysis for ependymal cells development
 Type de poste : Post-doc / IR
 Durée du poste : 3 ans
@@ -26,12 +26,12 @@ Email du contact : nathalie.spassky@ens.fr
 Laboratoire : Institut de Biologie de l'Ecole Normale Supérieure
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/data-analysis-ependymal-cells-development
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

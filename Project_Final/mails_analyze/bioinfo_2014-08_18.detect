@@ -1,38 +1,38 @@
-Le mail "bioinfo_2014-08_18" est globalement en : FRA
-[('ENG', 0.41407393087410527), ('FRA', 0.7425273827033589)]
+Le mail "bioinfo_2014-08_18" est globalement en : french
+[('french', 1.104031336674483), ('english', 2.82273882255022)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] cours en lignes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	voici 2 cours en ligne sur coursera.org qui commençent bientôt et qui peuvent intéresser certains d'entre vous:
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Introduction to Systems Biology - 2 septembre
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	https://www.coursera.org/course/sysbio
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Bioinformatics Algorithms (Part 1) - 15 Septembre
 https://www.coursera.org/course/bioinformatics
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Mathieu
 
 
@@ -41,7 +41,7 @@ Le paragraphe 6 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous,
 
 voici 2 cours en ligne sur coursera.org qui commençent bientôt et qui peuvent intéresser certains d'entre vous:

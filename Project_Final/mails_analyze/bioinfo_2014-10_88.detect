@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_88" est globalement en : FRA
-[('FRA', 0.4592579310646991), ('ENG', 1.2031662059500996)]
+Le mail "bioinfo_2014-10_88" est globalement en : french
+[('french', 0.5466350450811188), ('english', 1.294879259432891)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Ingénierie des ARN
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénierie des ARN
 Type de poste : Post-doc / IR
 Durée du poste : 12/24 mois renouvelable
@@ -25,7 +25,7 @@ Email du contact : francois.major@umontreal.ca
 Laboratoire : IRIC, Université de Montréal
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nierie-des-arn
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nierie-des-arn
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénierie des ARN

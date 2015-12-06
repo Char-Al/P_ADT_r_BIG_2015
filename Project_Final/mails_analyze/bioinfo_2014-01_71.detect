@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_71" est globalement en : FRA
-[('FRA', 0.40005120968421126), ('ENG', 4.447524864332616)]
+Le mail "bioinfo_2014-01_71" est globalement en : french
+[('french', 0.5322821707817709), ('english', 1.0717981880163276)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Ingénieur en développ  ement systèmes d'informations
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur en développement systèmes d'informations
 Type de poste : Post-doc / IR
 Durée du poste : 20 mois
@@ -25,7 +25,7 @@ Email du contact : cyril.pommier@versailles.inra.fr
 Laboratoire : URGI
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-en-d%C3%A9veloppement-syst%C3%A8mes-dinformations
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-en-d%C3%A9veloppement-syst%C3%A8mes-di
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur en développement systèmes d'informations

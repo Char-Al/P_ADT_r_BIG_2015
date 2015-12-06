@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_53" est globalement en : FRA
-[('ENG', 0.4696922696348243), ('FRA', 0.7839888088320153)]
+Le mail "bioinfo_2014-12_53" est globalement en : french
+[('french', 0.5790041276369049), ('english', 0.7776588646200218)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] computational personalized cancer radiotherapy
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : computational personalized cancer radiotherapy
 Type de poste : Post-doc / IR
 Durée du poste : 24 months
@@ -25,7 +25,7 @@ Email du contact : jacques.colinge@inserm.fr
 Laboratoire : IRCM
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/computational-personalized-cancer-radiotherapy
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/computational-personalized-cancer-radiotherapy
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : computational personalized cancer radiotherapy

@@ -1,27 +1,27 @@
-Le mail "bioinfo_2014-11_45" est globalement en : FRA
-[('FRA', 0.6522686841433555), ('ENG', 5.880981982787093)]
+Le mail "bioinfo_2014-11_45" est globalement en : french
+[('french', 0.06867696698487827), ('english', 3.0214293305501756)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Soutenance de Thèse de Bérénice Batut - 21 Novembre 2014, 14h - INSA de Lyon
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	 Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	J'ai le plaisir de vous inviter à ma soutenance de thèse de doctorat intitulée :
 "Étude de l'évolution réductive des génomes bactériens par expériences d'évolution in silico et analyses bioinformatiques".
 La soutenance aura lieu le vendredi 21 Novembre 2014, à 14h en salle René Char à l'INSA de Lyon et le pot qui suivra sera à l'Antenne INRIA de la Doua (Bâtiment CEI2 d'INSAVALOR)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Le jury sera composé de 
 Guillaume Achaz, Maître de conférence, UMPC Paris (rapporteur)
 Guillaume Beslon, Professeur, INSA de Lyon (directeur de thèse)
@@ -33,20 +33,20 @@ Frédéric Partensky, Directeur de recherche, CNRS (examinateur)
 Olivier Tenaillon, Directeur de recherche, INSERM (examinateur)
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Résumé : 
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Selon une vision populaire, l'évolution serait un processus de "progrès" qui s'accompagnerait d'un accroissement de la complexité moléculaire des êtres vivants. Cependant, les programmes de séquençage des génomes ont révélé l'existence d'espèces dont les lignées ont, au contraire, subi une réduction massive de leur génome. Ainsi, chez les cyanobactéries Prochlorococcus et Pelagibacteur ubique, certaines lignées ont subi une réduction de 30% de leur génome. Une telle évolution "à rebours", dite évolution réductive, avait déjà été observée pour des bactéries endosymbiotiques, pour lesquelles la sélection naturelle n'est pas assez efficace pour éliminer les mutations délétères comme les pertes de gènes. Cela vient notamment du fait que ces bactéries endosymbiotiques subissent, à chaque reproduction de leur hôte, une réduction drastique de leur taille de population. Cette explication semble peu plausible pour des cyanobactéries marines comme Prochlorococcus et Pelagibacter, qui ont un mode de vie libre et qui font partie des bactéries les plus abondantes des océans. D'autres hypothèses ont ainsi été proposées pour expliquer cette évolution réductive mais aucune ne semble capable d'expliquer toutes les caractéristiques génomiques observées.
 Dans cette thèse, je me suis intéressé au cas de l'évolution réductive chez Prochlorococcus, pour laquelle de nombreuses séquences et données sont disponibles. Deux approches sont utilisées pour cette étude : une approche théorique de simulation où je teste différents scénarios évolutifs pouvant conduire à une évolution réductive et une analyse de différentes caractéristiques génomiques de Prochlorococcus dans un cadre phylogénétique. La combinaison de ces deux approches permet finalement de proposer une histoire évolutive plausible pour expliquer l'évolution réductive de Prochlorococcus.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	-- 
 Bérénice Batut
 -----------------------------------------------------------------------------------
@@ -71,13 +71,13 @@ http://bebatut.fr
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	 Bonjour,
 
 J'ai le plaisir de vous inviter à ma soutenance de thèse de doctorat intitulée :
 "Étude de l'évolution réductive des génomes bactériens par expériences d'évolution in silico et analyses bioinformatiques".
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	La soutenance aura lieu le vendredi 21 Novembre 2014, à 14h en salle René Char à l'INSA de Lyon et le pot qui suivra sera à l'Antenne INRIA de la Doua (Bâtiment CEI2 d'INSAVALOR)
 
 Le jury sera composé de 
@@ -94,34 +94,34 @@ Résumé :
 
 Selon une vision populaire, l'évolution serait un processus de "progrès" qui s'accompagnerait d'un accroissement de la complexité moléculaire des êtres vivants.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Cependant, les programmes de séquençage des génomes ont révélé l'existence d'espèces dont les lignées ont, au contraire, subi une réduction massive de leur génome.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Ainsi, chez les cyanobactéries Prochlorococcus et Pelagibacteur ubique, certaines lignées ont subi une réduction de 30% de leur génome.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Une telle évolution "à rebours", dite évolution réductive, avait déjà été observée pour des bactéries endosymbiotiques, pour lesquelles la sélection naturelle n'est pas assez efficace pour éliminer les mutations délétères comme les pertes de gènes.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Cela vient notamment du fait que ces bactéries endosymbiotiques subissent, à chaque reproduction de leur hôte, une réduction drastique de leur taille de population.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Cette explication semble peu plausible pour des cyanobactéries marines comme Prochlorococcus et Pelagibacter, qui ont un mode de vie libre et qui font partie des bactéries les plus abondantes des océans.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	D'autres hypothèses ont ainsi été proposées pour expliquer cette évolution réductive mais aucune ne semble capable d'expliquer toutes les caractéristiques génomiques observées.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Dans cette thèse, je me suis intéressé au cas de l'évolution réductive chez Prochlorococcus, pour laquelle de nombreuses séquences et données sont disponibles.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Deux approches sont utilisées pour cette étude : une approche théorique de simulation où je teste différents scénarios évolutifs pouvant conduire à une évolution réductive et une analyse de différentes caractéristiques génomiques de Prochlorococcus dans un cadre phylogénétique.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	La combinaison de ces deux approches permet finalement de proposer une histoire évolutive plausible pour expliquer l'évolution réductive de Prochlorococcus.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Cordialement,
 
 -- 
@@ -139,7 +139,7 @@ BGE Team (LBBE)
 UMR CNRS 5558 - LBBE
 UCB Lyon 1 - Bât.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Grégor Mendel
 43, bd du 11 Novembre
 69622 Villeurbanne Cedex

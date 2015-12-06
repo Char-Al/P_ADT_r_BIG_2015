@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-07_19" est globalement en : FRA
-[('ENG', 0.2390521584790125), ('FRA', 0.4001426592598778)]
+Le mail "bioinfo_2014-07_19" est globalement en : french
+[('french', 0.39624913272459533), ('english', 1.0999772581108167)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] High-dimensional Prediction Models for Identifying
  Cancer Driver Mutations
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : High-dimensional Prediction Models for Identifying
 Cancer Driver Mutations
 Type de poste : Post-doc / IR
@@ -29,12 +29,12 @@ Laboratoire : Biostatistics and Epidemiology Unit of Gustave Roussy Cancer
 Center
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/high-dimensional-prediction-models-identifying-cancer-driver-mutations
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -42,7 +42,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

@@ -1,46 +1,46 @@
-Le mail "bioinfo_2014-06_18" est globalement en : FRA
-[('ENG', 1.078195524638177), ('FRA', 2.136453981558632)]
+Le mail "bioinfo_2014-06_18" est globalement en : french (conflict)
+[('french', 0.4247869615528747), ('english', 0.5881375730360354)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] BRAZILIAN SYMPOSIUM ON BIOINFORMATICS 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	BRAZILIAN SYMPOSIUM ON BIOINFORMATICS 2014
 28-30 OCTOBER 2014 RIO DE JANEIRO, BRAZIL
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	              http://www.dcc.ufmg.br/bsb2014
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The Brazilian Symposium on Bioinformatics 2014 will take place in Rio de Janeiro, RJ, Brazil, October 28-30, 2014. This year BSB will be co-located with the X-meeting and the ISCB Latin America Conference. Detailed information about location, program and information about the other conferences can be found at: http://www.iscb.org/iscb-latinamerica2014
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	The Brazilian Symposium on Bioinformatics 2014 is an initiative sponsored by the Sociedade Brasileira de Computação, and its special interest group in Computational Biology.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	BSB provides a general forum for presentation and discussion of original research on COMPUTATIONAL BIOLOGY, BIOINFORMATICS and SYSTEMS BIOLOGY. BSB 2014 would like to attract contributions from academic and industrial researchers, both in the exact sciences (computer science, mathematics and statistics) and in the life sciences (molecular biology, biochemistry, genetics, medicine, microbiology and others).
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	BSB 2014 will accept both full papers (for oral presentation) and short papers (to be presented as posters). Proceedings containing accepted full papers will be published as a volume in the Lecture Notes in Bioinformatics series, from Springer. We are negotiating to publish extended versions of selected papers in a special issue of the BMC Bioinformatics journal, a journal with an impact factor of 3.02, and classified as Qualis A by Capes.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Topics include (but are not limited to):
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	     Molecular Sequence Analysis, Motifs, and Pattern Matching
      Biological Databases, Data Management, Data Integration, and Data Mining
      Structural and Functional Genomics
@@ -55,30 +55,30 @@ Le paragraphe 8 est en : ENG
      Big data applications in Bioinformatics
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	DATES:
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	     Submission deadline: Sunday 22 June, 2014.
      Author notification: Friday 18 July, 2014.
      Final version due: Friday 8 August, 2014.
      Workshop: 28-30 October, 2014.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	     Contact: bsb2014 @ dcc.ufmg.br
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	PROGRAM COMMITTEE CHAIR
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	     Sérgio Campos, UFMG, Brasil
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	PROGRAM COMMITTEE
      André Fujita (IME/USP, Brazil)
      David Sankoff (University of Ottawa)
@@ -108,7 +108,7 @@ Le paragraphe 14 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	BRAZILIAN SYMPOSIUM ON BIOINFORMATICS 2014
 28-30 OCTOBER 2014 RIO DE JANEIRO, BRAZIL
 
@@ -116,30 +116,30 @@ La phrase 1 est en : ENG
 
 The Brazilian Symposium on Bioinformatics 2014 will take place in Rio de Janeiro, RJ, Brazil, October 28-30, 2014.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	This year BSB will be co-located with the X-meeting and the ISCB Latin America Conference.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Detailed information about location, program and information about the other conferences can be found at: http://www.iscb.org/iscb-latinamerica2014
 
 The Brazilian Symposium on Bioinformatics 2014 is an initiative sponsored by the Sociedade Brasileira de Computação, and its special interest group in Computational Biology.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	BSB provides a general forum for presentation and discussion of original research on COMPUTATIONAL BIOLOGY, BIOINFORMATICS and SYSTEMS BIOLOGY.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	BSB 2014 would like to attract contributions from academic and industrial researchers, both in the exact sciences (computer science, mathematics and statistics) and in the life sciences (molecular biology, biochemistry, genetics, medicine, microbiology and others).
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	BSB 2014 will accept both full papers (for oral presentation) and short papers (to be presented as posters).
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Proceedings containing accepted full papers will be published as a volume in the Lecture Notes in Bioinformatics series, from Springer.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	We are negotiating to publish extended versions of selected papers in a special issue of the BMC Bioinformatics journal, a journal with an impact factor of 3.02, and classified as Qualis A by Capes.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Topics include (but are not limited to):
 
      Molecular Sequence Analysis, Motifs, and Pattern Matching
@@ -159,16 +159,16 @@ DATES:
 
      Submission deadline: Sunday 22 June, 2014.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Author notification: Friday 18 July, 2014.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Final version due: Friday 8 August, 2014.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Workshop: 28-30 October, 2014.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Contact: bsb2014 @ dcc.ufmg.br
 
 PROGRAM COMMITTEE CHAIR

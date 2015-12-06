@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-06_32" est globalement en : FRA
-[('ENG', 0.3428203391944224), ('FRA', 0.5247830184690003)]
+Le mail "bioinfo_2014-06_32" est globalement en : english (conflict)
+[('english', 0.5854851138805247), ('french', 0.6647387324840364)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Development of a software platform for simulating experimental evolution of microorganisms
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Development of a software platform for simulating
 experimental evolution of microorganisms
 Type de poste : CDD Ingénieur
@@ -27,12 +27,12 @@ Email du contact : carole.knibbe@inria.fr
 Laboratoire : INRIA, Beagle team
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/development-software-platform-simulating-experimental-evolution-microorganisms
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : english
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

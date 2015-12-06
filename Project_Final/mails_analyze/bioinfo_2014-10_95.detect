@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_95" est globalement en : FRA
-[('FRA', 0.39694513777586465), ('ENG', 3.7345738826645265)]
+Le mail "bioinfo_2014-10_95" est globalement en : french
+[('french', 0.39925608962422615), ('english', 0.857261548005651)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 - Etude du rôle des éléme  nts transposables dans la maturation de la toma  te
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 - Etude du rôle des éléments transposables dans la  
 maturation de la tomate
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : florian.maumus@versailles.inra.fr
 Laboratoire : INRA-Versailles
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-etude-du-r%C3%B4le-des-%C3%A9l%C3%A9ments-transposables-dans-la-maturation-de-la-tomate
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m2-etude-du-r%C3%B4le-des-%C3%A9l%C3%A9ments-transpos
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 - Etude du rôle des éléments transposables dans la  

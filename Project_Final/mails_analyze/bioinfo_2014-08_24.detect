@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-08_24" est globalement en : FRA
-[('ENG', 0.337815387460051), ('FRA', 0.5384739128397397)]
+Le mail "bioinfo_2014-08_24" est globalement en : french
+[('french', 0.6708362276666755), ('english', 0.8501579773067813)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Research Associate - Bioinformatics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Research Associate - Bioinformatics
 Type de poste : Post-doc / IR
 Durée du poste :
@@ -25,7 +25,7 @@ Email du contact : ajb97@leicester.ac.uk
 Laboratoire : leicester
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/research-associate-bioinformatics-0
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/research-associate-bioinformatics-0
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Research Associate - Bioinformatics

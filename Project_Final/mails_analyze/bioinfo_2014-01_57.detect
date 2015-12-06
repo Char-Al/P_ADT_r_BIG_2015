@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_57" est globalement en : ENG
-[('ENG', 0.30161097433887823), ('FRA', 0.6919545681095852)]
+Le mail "bioinfo_2014-01_57" est globalement en : english (conflict)
+[('english', 0.3960990105862718), ('french', 0.6146015822132749)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doc position in switchgrass genomics: Phenotypic and expression QTL analysis for frost tolerance in switchgrass
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Post-doc position in switchgrass genomics: Phenotypic  
 and expression QTL analysis for frost tolerance in switchgrass
 Type de poste : Post-doc / IR
@@ -27,7 +27,7 @@ Laboratoire : Dr. Katrien M. Devos, Institute of Plant Breeding, Genetics and
 Genomics, and Dept. of Plant Biology
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-position-switchgrass-genomics-phenotypic-and-expression-qtl-analysis-frost-toleranc
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/post-doc-position-switchgrass-genomics-phenotypic-and
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Post-doc position in switchgrass genomics: Phenotypic  
@@ -50,7 +50,7 @@ Email du contact : kdevos@uga.edu
 Laboratoire : Dr. Katrien M. Devos, Institute of Plant Breeding, Genetics and  
 Genomics, and Dept.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	of Plant Biology
 
 Voir la description complète du poste sur  

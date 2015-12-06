@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_69" est globalement en : FRA
-[('FRA', 0.36593140171368627), ('ENG', 4.135729207173976)]
+Le mail "bioinfo_2014-07_69" est globalement en : french
+[('french', 0.457714700936533), ('english', 1.049252938113261)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur en développementd’applications , SI Distribué
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur en développement d’applications, SI
 Distribué
 Type de poste : CDD Ingénieur
@@ -27,12 +27,12 @@ Email du contact : cyril.pommier@versailles.inra.fr
 Laboratoire : INRA-URGI
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-en-d%C3%A9veloppement-d%E2%80%99applications-si-distribu%C3%A9
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

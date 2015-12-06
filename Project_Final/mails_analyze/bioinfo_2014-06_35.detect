@@ -1,48 +1,48 @@
-Le mail "bioinfo_2014-06_35" est globalement en : FRA
-[('FRA', 0.4905279965894962), ('ENG', 2.485514574920983)]
+Le mail "bioinfo_2014-06_35" est globalement en : french
+[('french', 0.10508984214401347), ('english', 9.837166882424116)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Recherche Statisticien spécialisé biomarqueurs
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Je recherche actuellement un Biostatisticien spécialisé biomarqueurs pour une mission de 6 mois renouvelable à pourvoir sous 1 mois.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	La mission est basé en Ile de France (ouest parisien).
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Voici les principaux critères de recherche de mon client :
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	- Bac+5 spécialisé statistiques
 - 5 à 10 ans d'expérience en biostatistique
 - Expérimenté en génétique - génomique - biomarqueurs
 - Bonne maîtrise de la programmation sous R
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Si vous êtes intéressé(e), je vous invite à me transmettre votre CV actualisé au plus vite à l'adresse suivante f.yildiz@realstaffing.com
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	A bientôt !
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : french
 	Florence Yildiz
 Responsable Consulting Biométrie
 Real Life Sciences 
@@ -53,15 +53,15 @@ Real Life Sciences
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Je recherche actuellement un Biostatisticien spécialisé biomarqueurs pour une mission de 6 mois renouvelable à pourvoir sous 1 mois.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	La mission est basé en Ile de France (ouest parisien).
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Voici les principaux critères de recherche de mon client :
 
 - Bac+5 spécialisé statistiques
@@ -73,7 +73,7 @@ Si vous êtes intéressé(e), je vous invite à me transmettre votre CV actualis
 
 A bientôt !
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : french
 	Florence Yildiz
 Responsable Consulting Biométrie
 Real Life Sciences 

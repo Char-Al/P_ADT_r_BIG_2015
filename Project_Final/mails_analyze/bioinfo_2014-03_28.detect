@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_28" est globalement en : ENG
-[('ENG', 0.4429776326147411), ('FRA', 0.6499566278062217)]
+Le mail "bioinfo_2014-03_28" est globalement en : english
+[('english', 0.04576037052219663), ('french', 0.3764182240861926)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Hands-on bioinformatics training class at IBENS (Paris)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear colleagues,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The computational biology and bioinformatics platform at Institut de
 Biologie de l'Ecole Normale Supérieure (IBENS) in Paris is organizing a
 2-days hands-on bioinformatics training class dedicated to biologists
@@ -23,16 +23,16 @@ Biologie de l'Ecole Normale Supérieure (IBENS) in Paris is organizing a
 message around.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	There are still a few places left. The course will be taught in English
 or French, depending on the audience.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Dates: Tuesday 1st / Wednesday 2nd April
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Day1: Using published high-throuput datasets
 How to access, use and visualize published data?
 Topics:
@@ -43,7 +43,7 @@ Topics:
 - ENCODE data
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Day2: Gentle introduction to command-line usage
 How to use the command-line to deal with high-throughput data ?
 Topics:
@@ -55,30 +55,30 @@ Topics:
 selecting columns, specific rows in tabular files
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Price:
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	1day 150euros, 2 days 250euros for Labex Memolife members (from IBENS,
 CIRB or ESPCI).
 1day 200euros, 2 days 350euros for other academics
 1day 400euros, 2 days 700euros for industry attendees
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Registration:
 Contact Auguste Genovesio (auguste.genovesio@ens.fr) to register
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Notes:
 Morgane Thomas Chollier will be responsible for this training.
 If you are interested in additional specific topics for future training,
 feel free to contact Auguste Genovesio (auguste.genovesio@ens.fr)
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -86,7 +86,7 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear colleagues,
 
 The computational biology and bioinformatics platform at Institut de
@@ -94,24 +94,24 @@ Biologie de l'Ecole Normale Supérieure (IBENS) in Paris is organizing a
 2-days hands-on bioinformatics training class dedicated to biologists
 (targeted audience: wet-lab biologists/researchers).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Please forward this
 message around.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	There are still a few places left.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The course will be taught in English
 or French, depending on the audience.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Dates: Tuesday 1st / Wednesday 2nd April
 
 Day1: Using published high-throuput datasets
 How to access, use and visualize published data?
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Topics:
 - accessing data in GEO from an accession number in a publication
 - determine whether the data are raw data / processed data
@@ -122,11 +122,11 @@ La phrase 6 est en : ENG
 Day2: Gentle introduction to command-line usage
 How to use the command-line to deal with high-throughput data ?
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Topics:
 - demystifying the command-line (it can be scary, but it's not harmful !)
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	- introduction to basic commands
 - inputs / outputs
 - opening big data files (> 1 Go)
@@ -138,7 +138,7 @@ Price:
 1day 150euros, 2 days 250euros for Labex Memolife members (from IBENS,
 CIRB or ESPCI).
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	1day 200euros, 2 days 350euros for other academics
 1day 400euros, 2 days 700euros for industry attendees
 
@@ -149,7 +149,7 @@ Contact Auguste Genovesio (auguste.genovesio@ens.fr) to register
 Notes:
 Morgane Thomas Chollier will be responsible for this training.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	If you are interested in additional specific topics for future training,
 feel free to contact Auguste Genovesio (auguste.genovesio@ens.fr)
 

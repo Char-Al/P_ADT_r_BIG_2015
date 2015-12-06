@@ -1,33 +1,33 @@
-Le mail "bioinfo_2014-05_81" est globalement en : FRA
-[('ENG', 1.1002364065038102), ('FRA', 2.18959875065848)]
+Le mail "bioinfo_2014-05_81" est globalement en : french
+[('french', 0.14591430420845167), ('english', 1.952741151431412)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Workshop: Worldviews & Values in Synthetic Biology | 6-7 juin 2014 | Université Paris 1 Panthéon -Sorbonne
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	** Worldviews and Values in Synthetic Biology **
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Atelier sciences-humanités sur la biologie de synthèse
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Programme détaillé et argumentaire en anglais :
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	http://www.synenergene.eu/event/wvvs-worldviews-and-values-synthetic-biology-paris-workshop
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	L'atelier vise à mieux caractériser les divergences entre les  
 multiples cultures techno-épistémiques de la biologie synthétique pour  
 éclairer le débat éthique et social. En effet, les programmes de  
@@ -47,7 +47,7 @@ valeur, en tension et en dialogue pour enrichir le débat avec les
 sciences humaines et les publics de la technoscience émergente.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Quel(s) genre(s) de récits moraux et civiques véhiculent les  
 différents programmes de recherche en biologie de synthèse ? Outre les  
 avantages cognitifs, pratiques et économiques présumés, quelles  
@@ -59,7 +59,7 @@ synthétique, conçue comme un programme monolithique, au « public »,
 conçu comme une entité stable et bien définie ?
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Cet atelier est organisé par le CETCOPRA à l'Université Paris 1  
 Panthéon-Sorbonne, en partenariat avec l'Institut für Ethik und  
 Geschichte der Medizin de Freiburg Universität, dans le cadre du  
@@ -68,17 +68,17 @@ and Emerging Science and Technology in Responsible Governance of the
 Science and Society Relationship) (http://synenergene.eu/ ).
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Il se tiendra en Sorbonne, salle Cavaillès (17 rue de la Sorbonne,  
 Escalier C, 1er étage), le vendredi 6 juin de 9h15 à 18h00 et le  
 samedi 7 Juin de 9h15 à 13h00.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	* Liste des orateurs :
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : french
 	Geoff Baldwin (Imperial College London), Gregory Batt (INRIA Le  
 Chesnay), Mark A. Bedau (Reed College, Portland), Bernadette  
 Bensaude-Vincent (Univ. Paris 1 Sorbonne), Jane Calvert (Univ.  
@@ -93,31 +93,31 @@ Bioenergies), Pascal Ducournau (INSERM, Toulouse), Margret Engelhard
 (Univ. Freiburg).
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Pr. Bernadette Bensaude-Vincent
 CETCOPRA / Université Paris 1 Panthéon - Sorbonne
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : french
 	Pr. Joachim Boldt
 Institut für Ethik und Geschichte der Medizin / Freiburg Universität
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Sacha Loeve, Ph.D.
 CETCOPRA / Université Paris 1 Panthéon - Sorbonne
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : french
 	Tobias Eichinger, Ph.D.
 Institut für Ethik und Geschichte der Medizin / Freiburg Universität
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	http://synenergene.eu
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	-- 
 Sacha Loeve
 Postdoc au CETCOPRA
@@ -128,14 +128,14 @@ Université Paris 1 Panthéon-Sorbonne - EA 2483, UFR 10 Philosophie
 sacha.loeve@univ-paris1.fr
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	-- 
 Ce message a ete verifie par MailScanner
 pour des virus ou des polluriels et rien de
 suspect n'a ete trouve.
 
 ==========================================
-Le paragraphe 18 est en : n
+Le paragraphe 18 est en : non detect
 	
 
 ==========================================
@@ -143,7 +143,7 @@ Le paragraphe 18 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	** Worldviews and Values in Synthetic Biology **
 
 Atelier sciences-humanités sur la biologie de synthèse
@@ -156,7 +156,7 @@ L'atelier vise à mieux caractériser les divergences entre les
 multiples cultures techno-épistémiques de la biologie synthétique pour  
 éclairer le débat éthique et social.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	En effet, les programmes de  
 recherche en biologie de synthèse témoignent d'un haut degré de  
 diversité épistémique, regroupant des approches aussi diverses que  
@@ -165,38 +165,38 @@ l'abiogenèse, la bio-informatique, l'évolution dirigée, les
 bio-briques, la xénobiologie, la chimie des protocellules, le design  
 des protéines et des approches biophysiques.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Actuellement, la  
 discipline émergente s'efforce de surmonter ses divisions en  
 appliquant le principe opportuniste du « whatever works » (« tout ce  
 qui fonctionne est bon à prendre ») pour « rendre la vie plus facile à  
 transformer en ingénierie » (« making life easier to engineer »).
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Cet  
 atelier émet l'hypothèse qu'il pourrait s'avérer socialement plus  
 pertinent de mettre les divergences et les « incompossibles » en  
 valeur, en tension et en dialogue pour enrichir le débat avec les  
 sciences humaines et les publics de la technoscience émergente.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Quel(s) genre(s) de récits moraux et civiques véhiculent les  
 différents programmes de recherche en biologie de synthèse ?
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Outre les  
 avantages cognitifs, pratiques et économiques présumés, quelles  
 significations culturelles faut-il associer aux différents projets de  
 design du vivant ?
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Peut-on puiser dans la diversité des voies de  
 recherche réunies sous l'égide de la biologie de synthèse pour faire  
 émerger des alternatives au face-à-face qui oppose « la » biologie  
 synthétique, conçue comme un programme monolithique, au « public »,  
 conçu comme une entité stable et bien définie ?
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Cet atelier est organisé par le CETCOPRA à l'Université Paris 1  
 Panthéon-Sorbonne, en partenariat avec l'Institut für Ethik und  
 Geschichte der Medizin de Freiburg Universität, dans le cadre du  
@@ -204,72 +204,72 @@ programme Européen SYNENERGENE (Synthetic Biology: Engaging with New
 and Emerging Science and Technology in Responsible Governance of the  
 Science and Society Relationship) (http://synenergene.eu/ ).
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Il se tiendra en Sorbonne, salle Cavaillès (17 rue de la Sorbonne,  
 Escalier C, 1er étage), le vendredi 6 juin de 9h15 à 18h00 et le  
 samedi 7 Juin de 9h15 à 13h00.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	* Liste des orateurs :
 
 Geoff Baldwin (Imperial College London), Gregory Batt (INRIA Le  
 Chesnay), Mark A. Bedau (Reed College, Portland), Bernadette  
 Bensaude-Vincent (Univ.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Paris 1 Sorbonne), Jane Calvert (Univ.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Edinburgh), Franck Delaplace (Univ.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : french
 	Evry), Marc Delcourt (Global  
 Bioenergies), Pascal Ducournau (INSERM, Toulouse), Margret Engelhard  
 (Europäische Akademie GmbH), Thomas Heams (AgroParisTech), Sune Holm  
 (Univ.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : french
 	Copenhagen), Alfonso Jaramillo (Univ.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Warwick), Ludovic Jullien  
 (ENS, Paris), Sacha Loeve (Univ.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Paris 1 Sorbonne), Sheref Mansy  
 (Univ.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Trento), Béatrice de Montera (Univ.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Cath.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : french
 	Lyon), Martin Müller  
 (Humboldt Univ.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	Berlin), Oliver Müller (Univ.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	Freiburg), Denis Pompon  
 (INSA, Toulouse), Benjamin Raimbault (AgroParisTech), Winfried Römer  
 (Univ.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Freiburg).
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	Pr.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	Bernadette Bensaude-Vincent
 CETCOPRA / Université Paris 1 Panthéon - Sorbonne
 
 Pr.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : french
 	Joachim Boldt
 Institut für Ethik und Geschichte der Medizin / Freiburg Universität
 

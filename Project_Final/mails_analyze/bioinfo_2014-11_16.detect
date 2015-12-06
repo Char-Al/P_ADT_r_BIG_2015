@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_16" est globalement en : FRA
-[('FRA', 0.15641394559734334), ('ENG', 2.283631423130784)]
+Le mail "bioinfo_2014-11_16" est globalement en : french
+[('french', 0.26539718814691976), ('english', 0.8481003345250282)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Développementd’une interfac  e utilisateur pour un nouvel outil d’identifi  cation de groupes de gènes co- régulés et de   clustérisation des données (CORGI).
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développement d’une interface utilisateur pour un  
 nouvel outil d’identification de groupes de gènes co-régulés et de  
 clustérisation des données (CORGI).
@@ -27,7 +27,7 @@ Email du contact : contact-bioinfo.irhs@angers.inra.fr
 Laboratoire : IRHS UMR1345 INRA/AGROCAMPUS-Ouest/Université d’Angers
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-d%E2%80%99une-interface-utilisateur-pour-un-nouvel-outil-d%E2%80%99identification-de-groupes-d
 
@@ -37,14 +37,14 @@ http://www.sfbi.fr/content/d%C3%A9veloppement-d%E2%80%99une-interface-utilisateu
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Développement d’une interface utilisateur pour un  
 nouvel outil d’identification de groupes de gènes co-régulés et de  
 clustérisation des données (CORGI).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Type de poste : Stage
 Durée du poste : 6 mois
 Ville : Angers

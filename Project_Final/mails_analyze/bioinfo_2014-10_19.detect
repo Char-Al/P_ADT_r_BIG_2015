@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_19" est globalement en : ENG
-[('ENG', 0.22394351550168334), ('FRA', 0.32208689928463674)]
+Le mail "bioinfo_2014-10_19" est globalement en : english (conflict)
+[('english', 0.7689625603383942), ('french', 1.1592685237351403)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDD autre] Computational science and phylogenetics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Computational science and phylogenetics
 Type de poste : CDD autre
 Durée du poste : 3 years
@@ -26,7 +26,7 @@ Laboratoire : University of Zurich (UZH)  and the Zurich University of
 Applied Sciences (ZHAW)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/computational-science-and-phylogenetics
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/computational-science-and-phylogenetics
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Computational science and phylogenetics

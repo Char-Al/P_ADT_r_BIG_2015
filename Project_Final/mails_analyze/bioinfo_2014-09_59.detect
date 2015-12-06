@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-09_59" est globalement en : ENG
-[('ENG', 0.3144997701099796), ('FRA', 0.635089803804728)]
+Le mail "bioinfo_2014-09_59" est globalement en : english
+[('english', 0.0568354186151056), ('french', 0.3554685193764825)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Gtpb] REMINDER: TA-AFADM14 - Bioinformatics Training Course
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
                     REMINDER
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	    IMPORTANT DATES for TA-AFADM14
     Deadline for applications: September 26th 2014       <=================
     Notification of acceptance dates:
@@ -25,39 +25,39 @@ Le paragraphe 2 est en : ENG
     Course date: October 6th - October 9th 2014
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The Gulbenkian Training Programme in Bioinformatics is pleased to   
 announce that the applications for the hands-on Bioinformatics   
 training course
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	TA-AFADM14
 Transcriptome Assembly, Automatic Annotation and Data Mining
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	are now OPEN. Please have a look at our website here:
 http://gtpb.igc.gulbenkian.pt/bicourses/TA-AFADM14/
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Course duration: 4 days
 Course fee: Euro 320.00
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	We will have Stefan Goetz and Riccardo Alese Cigliano as instructors.
 This course has already been run here several times with a great deal   
 of success, as revealed by very positive feedback reports and   
 subsequent recruitment by word of mouth by satisfied attendees.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Course description:
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	This is a combined course in RNA-seq and functional annotation aimed   
 at scientists working in next generation sequencing transcriptomics   
 who want to extract the best possible information from their data. The  
@@ -67,7 +67,7 @@ expression.  Participants will learn how to deal with RNA-seq data
 both in the  presence and absence of a reference genome.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	The second part of the course is a practical workshop on Blast2GO, the  
   most popular framework for functional annotation of sequence data.   
 Participants will learn how to generate de novo functional labels,   
@@ -79,23 +79,23 @@ mainly comprise exercises and practical cases. Participants may bring
 their own data.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Who should attend? Experimentalists and bioinformaticians working on   
 EST, NextGeneration Sequencing and microarray design projects,   
 specially (but not exclusively) of non-model species. No programming   
 knowledge is required.
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Thank you for your continued interest
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	P.Fernandes
 GTPB Coordinator
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	-- 
 Pedro Fernandes
 Instituto Gulbenkian de Ciência
@@ -106,11 +106,11 @@ Tel +351 21 4407912
 http://gtpb.igc.gulbenkian.pt
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	----- End forwarded message -----
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	_______________________________________________
 Gtpb mailing list
 Gtpb@igc.gulbenkian.pt
@@ -122,7 +122,7 @@ https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
                     REMINDER
 
@@ -142,7 +142,7 @@ Transcriptome Assembly, Automatic Annotation and Data Mining
 
 are now OPEN.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Please have a look at our website here:
 http://gtpb.igc.gulbenkian.pt/bicourses/TA-AFADM14/
 
@@ -151,62 +151,62 @@ Course fee: Euro 320.00
 
 We will have Stefan Goetz and Riccardo Alese Cigliano as instructors.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	This course has already been run here several times with a great deal   
 of success, as revealed by very positive feedback reports and   
 subsequent recruitment by word of mouth by satisfied attendees.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Course description:
 
 This is a combined course in RNA-seq and functional annotation aimed   
 at scientists working in next generation sequencing transcriptomics   
 who want to extract the best possible information from their data.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	The  
   course covers all aspects of RNA-seq analysis, from quality control,  
   to mapping, reconstruction of transcripts and differential  
 expression.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Participants will learn how to deal with RNA-seq data  
 both in the  presence and absence of a reference genome.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The second part of the course is a practical workshop on Blast2GO, the  
   most popular framework for functional annotation of sequence data.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Participants will learn how to generate de novo functional labels,   
 such as GO terms and KEGG pathways, for their sequence data and how to  
   extract relevant information from these annotations, i.e.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	visualisation and enrichment analysis using the Gene Ontology.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	This   
 part will be based on the use of the Blast2GO application and will   
 mainly comprise exercises and practical cases.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Participants may bring   
 their own data.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Who should attend?
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Experimentalists and bioinformaticians working on   
 EST, NextGeneration Sequencing and microarray design projects,   
 specially (but not exclusively) of non-model species.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	No programming   
 knowledge is required.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Thank you for your continued interest
 
 P.Fernandes

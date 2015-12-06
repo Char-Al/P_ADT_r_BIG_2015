@@ -1,28 +1,28 @@
-Le mail "bioinfo_2014-04_14" est globalement en : FRA
-[('FRA', 0.8446417484721394), ('ENG', 1.4346907716209476)]
+Le mail "bioinfo_2014-04_14" est globalement en : french
+[('french', 0.04410754283902678), ('english', 5.245489525860464)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Poste de MCU au LBBE, Université Lyon 1
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à toutes et à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Un poste de MCU dans la campagne de recrutement FIORASO est ouvert 
 au Laboratoire de Biométrie et Biologie Évolutive (LBBE) de l’Université
 Lyon 1, avec comme équipe d’intégration l’équipe BAOBAB dirigée par 
 Marie-France Sagot.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Le profil Enseignement couvre les aspects bioinformatique et biostatistiques
 au sein du Département de Biologie. Les postes FIORASO ont aussi 
 un volet e-learning qui sera à développer par le/la candidat(e) en support 
@@ -30,13 +30,13 @@ avec l’équipe pédagogique du laboratoire qui a déjà une expertise
 reconnue dans ce domaine.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Le profil Recherche couvre les aspects algorithmique et mathématiques
 pour l’étude des réseaux d'interactions intra- et inter-organismes 
 (symbiose entendu dans le sens large de relations durables). 
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Le/la candidat(e) devra posséder une formation interdisciplinaire, avec une 
 forte composante en algorithmique et en mathématiques, ainsi que de bonnes 
 connaissances en biologie, avec un intérêt pour la symbiose. Le/la candidat(e) 
@@ -46,7 +46,7 @@ sont fortement souhaitées afin de mettre en œuvre les développements
 réalisés et de les diffuser à la communauté scientifique internationale.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Le/la candidat(e) participera aux diverses activités collaboratrices que l’équipe 
 BAOBAB maintient avec d’autres équipes expérimentales et méthodologiques 
 au sein du laboratoire, en France et au niveau international (notamment 
@@ -54,17 +54,17 @@ via un LIA avec le Brésil, et une équipe européenne Inria en cours de
 création : ERABLE).
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Les candidat(e)s sont vivement encouragé(e)s à contacter :
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	pour la partie Enseignement :
 Vincent Lacroix : vincent.lacroix@univ-lyon1.fr
 Sylvain Mousset : sylvain.mousset@univ-lyon1.fr
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	pour la partie Recherche :
 Dominique Mouchiroud, directrice du LBBE : dominique.mouchiroud@univ-lyon1.fr
 Marie-France Sagot, responsable de l’équipe BAOBAB : marie-france.sagot@inria.fr
@@ -74,7 +74,7 @@ Marie-France Sagot, responsable de l’équipe BAOBAB : marie-france.sagot@inria
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à toutes et à tous,
 
 Un poste de MCU dans la campagne de recrutement FIORASO est ouvert 
@@ -82,44 +82,44 @@ au Laboratoire de Biométrie et Biologie Évolutive (LBBE) de l’Université
 Lyon 1, avec comme équipe d’intégration l’équipe BAOBAB dirigée par 
 Marie-France Sagot.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le profil Enseignement couvre les aspects bioinformatique et biostatistiques
 au sein du Département de Biologie.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Les postes FIORASO ont aussi 
 un volet e-learning qui sera à développer par le/la candidat(e) en support 
 avec l’équipe pédagogique du laboratoire qui a déjà une expertise 
 reconnue dans ce domaine.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Le profil Recherche couvre les aspects algorithmique et mathématiques
 pour l’étude des réseaux d'interactions intra- et inter-organismes 
 (symbiose entendu dans le sens large de relations durables).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Le/la candidat(e) devra posséder une formation interdisciplinaire, avec une 
 forte composante en algorithmique et en mathématiques, ainsi que de bonnes 
 connaissances en biologie, avec un intérêt pour la symbiose.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Le/la candidat(e) 
 devra avoir démontré sa capacité à contribuer à l’étude d’un problème 
 biologique à l’aide de méthodes originales.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Des connaissances en informatique 
 sont fortement souhaitées afin de mettre en œuvre les développements 
 réalisés et de les diffuser à la communauté scientifique internationale.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Le/la candidat(e) participera aux diverses activités collaboratrices que l’équipe 
 BAOBAB maintient avec d’autres équipes expérimentales et méthodologiques 
 au sein du laboratoire, en France et au niveau international (notamment 
 via un LIA avec le Brésil, et une équipe européenne Inria en cours de 
 création : ERABLE).
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Les candidat(e)s sont vivement encouragé(e)s à contacter :
 
 pour la partie Enseignement :

@@ -1,18 +1,18 @@
-Le mail "bioinfo_2014-10_107" est globalement en : ENG
-[('FRA', 0.3619050028846627), ('ENG', 0.8496339554545476)]
+Le mail "bioinfo_2014-10_107" est globalement en : english
+[('english', 0.3171531589931015), ('french', 0.6317990561897282)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Re: Londres - Genomique de Pop & transcriptomique abeilles et
  bourdons
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Oups désolé j'avais mis le mauvais lien!  (le lien est corrigé ci-dessous)
 
 
@@ -51,10 +51,10 @@ On 31 Oct 2014, at 14:08, Yannick Wurm <y.wurm@qmul.ac.uk> wrote:
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Oups désolé j'avais mis le mauvais lien!
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	(le lien est corrigé ci-dessous)
 
 
@@ -70,10 +70,10 @@ On 31 Oct 2014, at 14:08, Yannick Wurm <y.wurm@qmul.ac.uk> wrote:
 > 
 >> We are recruiting an evolutionary-minded person with strong population genomics and bioinformatics skills for a 3 year postdoc position analysing large pollinator genomics and transcriptomics datasets to examine pollinator health and impact of pesticides using novel molecular approaches.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	This is a NERC-funded position in collaboration with Richard Gill, Nigel Raine and Lars Chittka.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	>> 
 >> Full ad is on QMUL's HR website:
 >> 
@@ -81,11 +81,11 @@ La phrase 4 est en : ENG
 >> 
 >> Apply by November 15th.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	>> 
 >> Potential applicants are encouraged to submit an informal application (CV and covering letter outlining your suitability for the position) to Yannick Wurm (y.wurm@qmul.ac.uk) before the formal deadline.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	> 
 > 
 > -------------------------------------------------------

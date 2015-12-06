@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_78" est globalement en : FRA
-[('FRA', 0.21195096553619233), ('ENG', 0.7391431910773931)]
+Le mail "bioinfo_2014-10_78" est globalement en : french
+[('french', 0.33181166623593106), ('english', 0.5875020483848015)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Outil de gestion de projets et   résultats pour les plateaux techniques de la S  FR QUASAV
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Outil de gestion de projets et résultats pour les  
 plateaux techniques de la SFR QUASAV
 Type de poste : Stage
@@ -27,7 +27,7 @@ Laboratoire : UMR 1345 Institut de Recherche en Horticulture et Semences
 (IRHS)- Equipe Bioinfo
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/outil-de-gestion-de-projets-et-r%C3%A9sultats-pour-les-plateaux-techniques-de-la-sfr-quasav
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/outil-de-gestion-de-projets-et-r%C3%A9sultats-pour-le
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Outil de gestion de projets et résultats pour les  

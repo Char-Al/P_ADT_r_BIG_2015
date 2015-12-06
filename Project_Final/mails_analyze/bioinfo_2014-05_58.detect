@@ -1,27 +1,27 @@
-Le mail "bioinfo_2014-05_58" est globalement en : ENG
-[('ENG', 0.5235642724784771), ('FRA', 1.9704472876799857)]
+Le mail "bioinfo_2014-05_58" est globalement en : english
+[('english', 0.0424374363422591), ('french', 0.6317081665954836)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ESWC 2014 Call for Participation
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	
 ** apologies for cross-posting **
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	==== Call for Participation ====
 http://2014.eswc-conferences.org
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	CFP: 11th Extended Semantic Web Conference (ESWC) 2014
 Dates: May 25 - 29, 2014
 Venue: Anissaras, Crete, Greece
@@ -31,121 +31,121 @@ Site: http://2014.eswc-conferences.org
 General Chair: Valentina Presutti (STLab, ISTC-CNR, IT)
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	ESWC 2014 is the major Europe-based conference on Semantic Technologies and the Semantic Web. It is the ideal venue for discussing the latest scientific results and technology innovations and is equally relevant to researchers, academics, developers and practitioners in the field of Semantic Technologies. This year's edition has four keywords: visionary, advancing, pioneering, and trendy.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	We hope to see you at ESWC 2014 in Crete!
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	=== Program ===
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	The conference program is available at http://2014.eswc-conferences.org/program-overview
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	== Keynote Speakers ==
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	ESWC 2014 will have three inspiring keynote presentations:
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	- Steffen Staab (Universitat Koblenz-Landau, DE)
 - Luciano Floridi (Oxford Internet Institute, University of Oxford, UK)
 - Lise Getoor (University of California, US)
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Details at http://2014.eswc-conferences.org/program/keynote-speakers
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	== Accepted Papers (Research and In-Use) ==
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	http://2014.eswc-conferences.org/program/accepted-papers
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	== PhD Symposium ==
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	http://2014.eswc-conferences.org/program/phd-symposium
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	== Workshops and Tutorials ==
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	The main conference program will be complemented by 14 workshops and 8 tutorials:
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	http://2014.eswc-conferences.org/workshops-tutorials
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	== Demonstration and poster presentations ==
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	http://2014.eswc-conferences.org/program/posters-demos
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	== Semantic web Evaluation Challenge Track ==
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	http://2014.eswc-conferences.org/program/semwebeval
 
 ==========================================
-Le paragraphe 23 est en : ENG
+Le paragraphe 23 est en : english
 	== LinkedUP Challenge ==
 
 ==========================================
-Le paragraphe 24 est en : ENG
+Le paragraphe 24 est en : english
 	The LinkedUp Challenge targets researchers and practitioners from both the eLearning area as well as the semantic technologies field. Participants present their Web application, app, analysis toolkit, documented API or any other tool that connects, exploits or analyses open or linked data and that addresses real educational needs. The LinkedUp Challenge has a dedicated event during the workshop/tutorial days of ESWC 2014, as well as a dedicated slot during the main session.
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	== AI Mashup Challenge ==
 
 ==========================================
-Le paragraphe 26 est en : ENG
+Le paragraphe 26 est en : english
 	The AI mashup challenge accepts and awards mashups that use AI technology, including but not restricted to machine learning and data mining, machine vision, natural language processing, reasoning, ontologies in the context of the semantic web. Such services may run on any medium, including web browsers, handheld devices, mobile phones (IOS, Android), etc.
 This challenge has a special dedicated session at ESWC 2014.
 
 ==========================================
-Le paragraphe 27 est en : ENG
+Le paragraphe 27 est en : english
 	== EU Project Networking sessions ==
 
 ==========================================
-Le paragraphe 28 est en : ENG
+Le paragraphe 28 est en : english
 	A session dedicated to EU projects: a minute-madness presentation slot followed by a networking session.
 http://2014.eswc-conferences.org/program/eu-projects
  
 === Registration ===
 
 ==========================================
-Le paragraphe 29 est en : ENG
+Le paragraphe 29 est en : english
 	http://2014.eswc-conferences.org/registration
 
 ==========================================
-Le paragraphe 30 est en : ENG
+Le paragraphe 30 est en : english
 	=== Organizers ===
 
 ==========================================
-Le paragraphe 31 est en : ENG
+Le paragraphe 31 est en : english
 	General Chair: 
 * Valentina Presutti (STLab, ISTC-CNR, IT) 
 PC Chairs: 
@@ -153,7 +153,7 @@ PC Chairs:
 * Fabien Gandon (Wimmics, Inria, University Nice Sophia Antipolis, FR)
 
 ==========================================
-Le paragraphe 32 est en : ENG
+Le paragraphe 32 est en : english
 	ESWC 2014 is brought to you by STI International 
 
 
@@ -162,7 +162,7 @@ Le paragraphe 32 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 ** apologies for cross-posting **
 
@@ -179,16 +179,16 @@ General Chair: Valentina Presutti (STLab, ISTC-CNR, IT)
 
 ESWC 2014 is the major Europe-based conference on Semantic Technologies and the Semantic Web.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	It is the ideal venue for discussing the latest scientific results and technology innovations and is equally relevant to researchers, academics, developers and practitioners in the field of Semantic Technologies.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	This year's edition has four keywords: visionary, advancing, pioneering, and trendy.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We hope to see you at ESWC 2014 in Crete!
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	=== Program ===
 
 The conference program is available at http://2014.eswc-conferences.org/program-overview
@@ -229,29 +229,29 @@ http://2014.eswc-conferences.org/program/semwebeval
 
 The LinkedUp Challenge targets researchers and practitioners from both the eLearning area as well as the semantic technologies field.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Participants present their Web application, app, analysis toolkit, documented API or any other tool that connects, exploits or analyses open or linked data and that addresses real educational needs.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The LinkedUp Challenge has a dedicated event during the workshop/tutorial days of ESWC 2014, as well as a dedicated slot during the main session.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	== AI Mashup Challenge ==
 
 The AI mashup challenge accepts and awards mashups that use AI technology, including but not restricted to machine learning and data mining, machine vision, natural language processing, reasoning, ontologies in the context of the semantic web.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Such services may run on any medium, including web browsers, handheld devices, mobile phones (IOS, Android), etc.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	This challenge has a special dedicated session at ESWC 2014.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	== EU Project Networking sessions ==
 
 A session dedicated to EU projects: a minute-madness presentation slot followed by a networking session.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	http://2014.eswc-conferences.org/program/eu-projects
  
 === Registration ===

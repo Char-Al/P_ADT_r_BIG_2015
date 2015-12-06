@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_28" est globalement en : FRA
-[('FRA', 0.4028111768949854), ('ENG', 2.1662085654265995)]
+Le mail "bioinfo_2014-07_28" est globalement en : french
+[('french', 0.34409997822416305), ('english', 0.9321141803858459)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur [bio]informaticien - développement d'un pipeline d'annotation de génomes microbiens
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur [bio]informaticien - développement d'un
 pipeline d'annotation de génomes microbiens
 Type de poste : CDD Ingénieur
@@ -27,12 +27,12 @@ Email du contact : maude.pupin@lifl.fr
 Laboratoire : LIFL et Inria, plate-forme Bilille et équipe Bonsai
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformaticien-d%C3%A9veloppement-dun-pipeline-dannotation-de-g%C3%A9nomes-microbiens
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

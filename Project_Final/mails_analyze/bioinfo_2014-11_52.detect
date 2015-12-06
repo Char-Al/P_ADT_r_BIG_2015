@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_52" est globalement en : FRA
-[('FRA', 0.4461735655836165), ('ENG', 6.1341891922494)]
+Le mail "bioinfo_2014-11_52" est globalement en : french
+[('french', 0.5856736885833765), ('english', 1.371937840580991)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][PR] analyse de donnéesmétagénomiqu  es
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : analyse de données métagénomiques
 Type de poste : PR
 Durée du poste :
@@ -25,7 +25,7 @@ Email du contact : herve.sanguin@cirad.fr
 Laboratoire : CIRAD LSTM
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/analyse-de-donn%C3%A9es-m%C3%A9tag%C3%A9nomiques-0
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/analyse-de-donn%C3%A9es-m%C3%A9tag%C3%A9nomiques-0
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : analyse de données métagénomiques

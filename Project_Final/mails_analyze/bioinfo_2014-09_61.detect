@@ -1,53 +1,53 @@
-Le mail "bioinfo_2014-09_61" est globalement en : FRA
-[('FRA', 0.5197915695774535), ('ENG', 5.0077693510954315)]
+Le mail "bioinfo_2014-09_61" est globalement en : french
+[('french', 0.034503723411849305), ('english', 4.046525769992544)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Soutenance de thèse de Maxime FOLSCHETTE (IRCCyN, Nantes)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	J'ai le plaisir de vous inviter à ma soutenance de thèse de doctorat 
 intitulée :
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	   « Modélisation algébrique de la dynamique multi-échelles
      des réseaux de régulation biologique »
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	qui aura lieu le mercredi 8 octobre à 10 h 30 dans l'amphithéâtre S au 
 rez-de-chaussée de l'IRCCyN (campus de l'École centrale de Nantes ; 1, 
 rue de la Noë ; Nantes, France), ainsi qu'au pot de thèse qui suivra.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Maxime FOLSCHETTE
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	~~~
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Résumé :
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	La représentation et l'analyse des grands réseaux de régulation 
 biologique sont les deux défis majeurs dans la compréhension des 
 mécanismes du vivant. Le travail exposé dans cette thèse se concentre 
@@ -74,15 +74,15 @@ permettons ainsi à un modèle de jouir des capacités de représentation et
 d'analyse de plusieurs formalismes à la fois.
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	~~~
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : french
 	Composition du jury :
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Rapporteurs :
    Jean-Paul COMET, Professeur des universités, Université de Nice – 
 Sophia Antipolis
@@ -103,7 +103,7 @@ Co-directeur de thèse :
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 J'ai le plaisir de vous inviter à ma soutenance de thèse de doctorat 
@@ -116,7 +116,7 @@ qui aura lieu le mercredi 8 octobre à 10 h 30 dans l'amphithéâtre S au
 rez-de-chaussée de l'IRCCyN (campus de l'École centrale de Nantes ; 1, 
 rue de la Noë ; Nantes, France), ainsi qu'au pot de thèse qui suivra.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Cordialement,
 
 Maxime FOLSCHETTE
@@ -131,55 +131,55 @@ La représentation et l'analyse des grands réseaux de régulation
 biologique sont les deux défis majeurs dans la compréhension des 
 mécanismes du vivant.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Le travail exposé dans cette thèse se concentre 
 sur les modèles discrets, souvent représentés sous la forme de graphes 
 et d'ensembles de paramètres.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Il s'inspire notamment d'un formalisme 
 préalablement développé, appelé Frappes de Processus, qui repose sur une 
 représentation atomique d'un ensemble de composants et de leur 
 dynamique.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Nous proposons dans cette thèse plusieurs représentations 
 alternatives à ce formalisme, qui possèdent une plus grande 
 expressivité.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Ces représentations sont adaptées à l'intégration de 
 contraintes discrètes dans les modèles provenant de durées relatives ou 
 de relations de synchronisme entre certaines réactions.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Nous proposons 
 par ailleurs une méthode d'analyse de la dynamique par interprétation 
 abstraite qui permet de répondre à des questions d'atteignabilité.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Cette 
 méthode est spécifiquement adaptée à l'étude des modèles de grande 
 taille, pouvant contenir plusieurs centaines de composants, et 
 potentiellement davantage.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Elle repose en effet sur une approximation de 
 la dynamique qui évite ainsi l'explosion combinatoire inhérente à ce 
 type d'analyse, permettant de répondre en quelques dixièmes de secondes 
 au prix d'être parfois non conclusive.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Enfin, nous traçons des liens 
 formels entre les différents formalismes développés dans cette thèse, 
 ainsi qu'avec plusieurs autres modélisation discrètes répandues.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Nous 
 permettons ainsi à un modèle de jouir des capacités de représentation et 
 d'analyse de plusieurs formalismes à la fois.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	~~~
 
 Composition du jury :

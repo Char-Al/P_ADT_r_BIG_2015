@@ -1,57 +1,57 @@
-Le mail "bioinfo_2014-12_4" est globalement en : FRA
-[('ENG', 0.9339553708366009), ('FRA', 1.4989267072547388)]
+Le mail "bioinfo_2014-12_4" est globalement en : french
+[('french', 0.46790189471068067), ('english', 1.1964771448998375)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] TR: 3 sujets de stage dans le projet SIFR - Web sémantique - BioPortal - Viewpoints
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour, 
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : english
 	Vous trouverez ci-après 3 sujets de stage proposés dans le cadre du projet SIFR (Semantic Indexing of French Biomedical Data Resources - http://www.lirmm.fr/sifr/ ) au LIRMM.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	1 sujet recherche :
 Multilingualism in an ontology repository: the case of BioPortal [PDF]
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	2 sujets pro : 
 BioTex dans BioPortal - Extension d’une application web sémantique JAVA/Ruby On Rails [PDF]
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Viewpoints Web App: développement d’une application web 3‐tiers pour l’accès partagé à un « cerveau » communautaire implémenté par un graphe dynamique de points de vue [PDF]
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Je me tiens à votre disposition pour d’autres informations.
 Cordialement
 Clement Jonquet
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	---------------------------------------------------------------------------------------------------------------------------
 Dr. Clement JONQUET  -  PhD in Informatics  -  Assistant Professor
 PI of the SIFR project: Semantic Indexing of French Biomedical Data Resources (ANR, UM2, CNRS, IBC)
 Organizer of Web Science Montpellier Meetup
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	jonquet@lirmm.fr
 http://www.lirmm.fr/~jonquet 
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	                University of Montpellier                          Tel:                      +33/4 67 14 97 43
                 LIRMM                                                            Fax:                     +33/4 67  41 85 00           
                 161 rue Ada                                                   Skype:                 clementpro
@@ -60,7 +60,7 @@ Le paragraphe 9 est en : FRA
 ----------------------------------------------------------------------------------------------------------------------
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -68,12 +68,12 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : english
 	Bonjour, 
 
 Vous trouverez ci-après 3 sujets de stage proposés dans le cadre du projet SIFR (Semantic Indexing of French Biomedical Data Resources - http://www.lirmm.fr/sifr/ ) au LIRMM.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	1 sujet recherche :
 Multilingualism in an ontology repository: the case of BioPortal [PDF]
 
@@ -84,7 +84,7 @@ Viewpoints Web App: développement d’une application web 3‐tiers pour l’ac
 
 Je me tiens à votre disposition pour d’autres informations.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Cordialement
 Clement Jonquet
 

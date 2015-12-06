@@ -1,48 +1,48 @@
-Le mail "bioinfo_2014-01_81" est globalement en : ENG
-[('ENG', 0.7361932314945826), ('FRA', 1.0804009376575068)]
+Le mail "bioinfo_2014-01_81" est globalement en : english
+[('english', 0.03084384296178159), ('french', 0.30790740299813196)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] CALL FOR PAPERS ACA 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	CALL FOR PAPERS ACA 2014
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	ACA 2014
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Third International Workshop on Asynchronous Cellular Automata and
 Asynchronous Discrete Models
 at 11th International Conference on Cellular Automata for Research
 and Industry (ACRI 2014)
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Krakow, Poland, September 22-25, 2014
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	ORGANIZER
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	AGH University of Science and Technology in Krakow
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	AIMS and SCOPE
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Cellular Automata are a well-known formal tool for modeling complex
 systems; they are found in many scientific fields and industrial
 applications. Synchronous updating is one of the main features of Cellular
@@ -50,7 +50,7 @@ Automata. Indeed, in the most common Cellular Automata framework, all
 cells are updated simultaneously at each discrete time step.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Recent trends consider the modeling of asynchronous systems based on local
 interactions. The aim of this workshop is to bring together researchers
 dealing with the theme of the asyncrony inside Cellular Automata and other
@@ -59,13 +59,13 @@ and so on,in order to foster their interaction and to provide a forum for
 presenting new ideas and works in progress on the subject.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Topics include, but are not limited to the following aspects of
 Asynchronous Cellular Automata and Asynchronous Discrete Models (such as
 Multi-Agents Systems, Boolean Networks and so on):
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	- dynamics
 - complexity issues
 - computational issues
@@ -75,15 +75,15 @@ Le paragraphe 11 est en : ENG
 other fields
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Contributions of both theoretical and applicative interest are welcome.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	PROGRAM COMMITTEE
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Alberto Dennunzio (Universita' degli Studi di Milano - Bicocca, Italy)
 co-chair
 Nazim Fatès (Inria Nancy, France)
@@ -97,11 +97,11 @@ Hiroshi Umeo (University of Osaka Electro-Communication - Japan)
 Thomas Worsch (University of Karlsruhe, Germany) co-chair
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	*SUBMISSIONS AND PUBLICATION*
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Authors are invited to submit papers according to two contribution
 categories -- full and short papers -- meant  to provide a differentiation
 of the papers in terms of their length, depth and/or maturity. Papers must
@@ -109,41 +109,41 @@ comply with the Springer-Verlag format and the maximum length of 5 and 10
 pages for short and full contributions, respectively.
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	Details on the electronic submission procedure will be provided through
 the website
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	http://acri2014.agh.edu.pl
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	Accepted papers will be published by Springer-Verlag in the Lecture Notes
 in Computer Science (LNCS) series.
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	*SPECIAL ISSUE*
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	Selected papers will be considered for publication in a Special issue of
 an international journal (such as NaCo). They will contain refereed
 extended/improved versions of selected papers presented at ACA workshop.
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	IMPORTANT DATES:
 
 ==========================================
-Le paragraphe 23 est en : ENG
+Le paragraphe 23 est en : french
 	Paper submission: April 15, 2014
 Notification of paper acceptance or rejection: May 14, 2014
 Final version of the paper for the proceedings: June 8, 2014
 
 ==========================================
-Le paragraphe 24 est en : n
+Le paragraphe 24 est en : non detect
 	
 
 ==========================================
@@ -151,7 +151,7 @@ Le paragraphe 24 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	CALL FOR PAPERS ACA 2014
 
 ACA 2014
@@ -173,26 +173,26 @@ Cellular Automata are a well-known formal tool for modeling complex
 systems; they are found in many scientific fields and industrial
 applications.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Synchronous updating is one of the main features of Cellular
 Automata.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Indeed, in the most common Cellular Automata framework, all
 cells are updated simultaneously at each discrete time step.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Recent trends consider the modeling of asynchronous systems based on local
 interactions.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The aim of this workshop is to bring together researchers
 dealing with the theme of the asyncrony inside Cellular Automata and other
 Discrete Models such as discrete Multi-Agents Systems, Boolean Networks,
 and so on,in order to foster their interaction and to provide a forum for
 presenting new ideas and works in progress on the subject.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Topics include, but are not limited to the following aspects of
 Asynchronous Cellular Automata and Asynchronous Discrete Models (such as
 Multi-Agents Systems, Boolean Networks and so on):
@@ -207,7 +207,7 @@ other fields
 
 Contributions of both theoretical and applicative interest are welcome.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	PROGRAM COMMITTEE
 
 Alberto Dennunzio (Universita' degli Studi di Milano - Bicocca, Italy)
@@ -229,12 +229,12 @@ Authors are invited to submit papers according to two contribution
 categories -- full and short papers -- meant  to provide a differentiation
 of the papers in terms of their length, depth and/or maturity.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Papers must
 comply with the Springer-Verlag format and the maximum length of 5 and 10
 pages for short and full contributions, respectively.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Details on the electronic submission procedure will be provided through
 the website
 
@@ -243,17 +243,17 @@ http://acri2014.agh.edu.pl
 Accepted papers will be published by Springer-Verlag in the Lecture Notes
 in Computer Science (LNCS) series.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	*SPECIAL ISSUE*
 
 Selected papers will be considered for publication in a Special issue of
 an international journal (such as NaCo).
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	They will contain refereed
 extended/improved versions of selected papers presented at ACA workshop.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	IMPORTANT DATES:
 
 Paper submission: April 15, 2014

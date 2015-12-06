@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-02_2" est globalement en : ENG
-[('ENG', 0.5592212363172049), ('FRA', 0.8134940845614864)]
+Le mail "bioinfo_2014-02_2" est globalement en : english
+[('english', 0.04682466777711125), ('french', 0.2199267446294529)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Bioinformatician position at CSI Singapore
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Dr. H. Phillip Koeffler, Professor of Medicine and Senior Principal Investigator at Cancer Science Institute in Singapore is looking for a bright, energetic individual with superior bioinformatics skill in order to interact with approximately 10 post-docs and 4 Ph.D. students, each of them are doing massively parallel sequencing of various tumors, RNA-Seq, Chip-Seq, RNA array as well as combing the bioinformatics literature for hot leads. There is no doubt that this individual will be extremely productive being a co-author on numerous manuscripts.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Qualifications and Requirements:
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	_The candidate should have a Bachelor or Master degree. in Computational Biology,Bioinformatics, Genetics or a related field.
 _Advanced capability and research experience with a biostatistical package such as R/bioconductor and a scripting language such as Perl/bioPerl or Python/bioPython.
 _Scientific background, good understanding of genetics and genomics.
@@ -27,7 +27,7 @@ _Ability to handle large quantitative datasets and analyses.
 _Familiarity with genomic data, tools, and datasets.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	To apply, please send your full application including cover letter, CV and the names and addresses of two referees in one pdf document to Dr. H. Phillip Koeffler: phillip_koeffler@nuhs.edu.sg and Miss Geraldine Leong E-Ling: csilelg@nus.edu.sg
 
 ==========================================
@@ -35,32 +35,32 @@ Le paragraphe 4 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dr. H. Phillip Koeffler, Professor of Medicine and Senior Principal Investigator at Cancer Science Institute in Singapore is looking for a bright, energetic individual with superior bioinformatics skill in order to interact with approximately 10 post-docs and 4 Ph.D. students, each of them are doing massively parallel sequencing of various tumors, RNA-Seq, Chip-Seq, RNA array as well as combing the bioinformatics literature for hot leads.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	There is no doubt that this individual will be extremely productive being a co-author on numerous manuscripts.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Qualifications and Requirements:
 
 _The candidate should have a Bachelor or Master degree.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	in Computational Biology,Bioinformatics, Genetics or a related field.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	_Advanced capability and research experience with a biostatistical package such as R/bioconductor and a scripting language such as Perl/bioPerl or Python/bioPython.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	_Scientific background, good understanding of genetics and genomics.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	_Ability to handle large quantitative datasets and analyses.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	_Familiarity with genomic data, tools, and datasets.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	To apply, please send your full application including cover letter, CV and the names and addresses of two referees in one pdf document to Dr. H. Phillip Koeffler: phillip_koeffler@nuhs.edu.sg and Miss Geraldine Leong E-Ling: csilelg@nus.edu.sg
 ==========================================

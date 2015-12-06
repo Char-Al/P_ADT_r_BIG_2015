@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_15" est globalement en : FRA
-[('FRA', 0.24423075950746015), ('ENG', 12.033552005112247)]
+Le mail "bioinfo_2014-12_15" est globalement en : french
+[('french', 0.35416028334787764), ('english', 3.6739291809964327)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 bioinformatique  : Mise en p  lace d'un pipeline d'analyse de CNV sur des don  nées de séquençageà haut- débit de génome  s. 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 bioinformatique : Mise en place d'un pipeline  
 d'analyse de CNV sur des données de séquençage à haut-débit de génomes.
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : yannis.duffourd@u-bourgogne.fr
 Laboratoire : Equipe de recherche GAD
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-bioinformatique%C2%A0-mise-en-place-dun-pipeline-danalyse-de-cnv-sur-des-donn%C3%A9es-de-s%C3%A9quen%C3%A7age
 
@@ -36,13 +36,13 @@ http://www.sfbi.fr/content/m2-bioinformatique%C2%A0-mise-en-place-dun-pipeline-d
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 bioinformatique : Mise en place d'un pipeline  
 d'analyse de CNV sur des données de séquençage à haut-débit de génomes.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Type de poste : Stage
 Durée du poste : 3 à 6 mois
 Ville : Dijon

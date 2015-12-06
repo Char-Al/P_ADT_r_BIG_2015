@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_87" est globalement en : FRA
-[('FRA', 0.8299777921544804), ('ENG', 2.3684885726066827)]
+Le mail "bioinfo_2014-11_87" est globalement en : french
+[('french', 0.5564062886182158), ('english', 0.9785012187730582)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 / fin d' étudeingénieur (b  ioinfo / biostat)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 / fin d'étude ingénieur (bioinfo / biostat)
 Type de poste : Stage
 Durée du poste : 6 mois
@@ -25,7 +25,7 @@ Email du contact : longueta@nancy.inra.fr
 Laboratoire : UMR LERFoB INRA / UMR Loria Université de Lorraine
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-fin-d%C3%A9tude-ing%C3%A9nieur-bioinfo-biostat
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/m2-fin-d%C3%A9tude-ing%C3%A9nieur-bioinfo-biostat
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 / fin d'étude ingénieur (bioinfo / biostat)

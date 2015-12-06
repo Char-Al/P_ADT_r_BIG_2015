@@ -1,51 +1,51 @@
-Le mail "bioinfo_2014-03_9" est globalement en : FRA
-[('FRA', 0.6551018288941394), ('ENG', 0.7337507218132157)]
+Le mail "bioinfo_2014-03_9" est globalement en : french
+[('french', 0.05276766718010777), ('english', 0.8575636489968282)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Poste PR Chaire Mixte UM1-Inserm / IRCM
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Chers Collègues,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	LInstitut de Recherche en Cancérologie de Montpellier (IRCM) a le privilège de bénéficier de la création dun poste de Professeur dUniversité dans le cadre dune chaire mixte Inserm-Université Montpellier 1.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Le thème général est « Cancérologie, Signalisation et Systèmes complexes » et cette opération vise à la mise en place au sein de lInstitut dune équipe de biologie des systèmes / bioinformatique dédiée cancer.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Installé à lIRCM (www.ircm.fr), le lauréat travaillera en synergie avec la communauté montpelliéraine, notamment le SIRIC Montpellier Cancer (Site de Recherche Intégrée en Cancérologie qui regroupe lensemble des acteurs du domaine de la cancérologie tant expérimentale que clinique) et lIBC (Institut de Biologie Computationnelle ; http://www.ibc-montpellier.fr/). 
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Je vous serais reconnaissant de diffuser cette annonce dans vos structures (voir fiche de poste ci-dessous).
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Toutes les candidatures sont les bienvenues !
 Seule difficulté : la deadline fixée au 1er avril 16 :00 sur le site Galaxie.
 (https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_postes_GALAXIE.htm). 
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Bien cordialement, 
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	André Pèlegrin
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	*********************************************************************
 André Pèlegrin
 Directeur
@@ -61,7 +61,7 @@ Site internet : http://www.ircm.fr
 *********************************************************************
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Le profil détaillé se trouve en page 2 et suivantes
 UNIVERSITE MONTPELLIER 1 Référence GALAXIE : 4131
 Numéro dans le SI local : 87PR4138
@@ -76,11 +76,11 @@ Profil : Cancérologie, Signalisation cellulaire et systèmes complexes
 Chaire mixte INSERM
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Job profile : The professor will develop a research program at IRCM in systems biology or computational biology applied to Cancer, with the objective to extract biological insights from the integration of diverse -omics and clinical data sets and will teach Principles of Cancer Systems Biology and bioinformatics.
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Research fields EURAXESS : Biological sciences, Biology, Medical sciences, Medicine
 Implantation du poste : 0341087X - UNIVERSITE MONTPELLIER 1
 Localisation : UFR MEDECINE
@@ -101,19 +101,19 @@ Date de prise de fonction : 01/09/2014
 Mots-clés : cancérologie ;
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Profil enseignement :
 Composante ou UFR :
 Référence UFR : UFR MEDECINE
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Profil recherche :
 Laboratoire 1 : U000896 (201119661C) - INSTITUT DE RECHERCHE EN CANCEROLOGIE DE
 MONTPELLIER
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	Dossier Papier OUI
 Dossier numérique physique (CD, DVD, clé USB) NON
 Dossier transmis par courrier électronique
@@ -121,12 +121,12 @@ NON e-mail gestionnaire
 Application spécifique NON URL application
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	Informations Complémentaires 87PR4138
 CHAIRE MIXTE UM1-INSERM
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	Enseignement :
 Principales matières susceptibles dêtre enseignées :
 Filières denseignement : DGFSM2, Master, 2eme et 3eme cycle des études médicales.
@@ -138,25 +138,25 @@ Tel : 04 67 61 30 32
 Email : andre.pelegrin@inserm.fr
 
 ==========================================
-Le paragraphe 18 est en : FRA
+Le paragraphe 18 est en : french
 	Profil Enseignement
 En cancérologie, la biologie des systèmes est devenue ces dernières années une approche incontournable tant pour décrire nos connaissances en biologie que pour développer de nouvelles approches thérapeutiques. En s'appuyant sur des approches bioinformatiques, elle constitue une nouvelle discipline à part entière qui se doit dêtre enseignée de manière indépendante aux étudiants en pharmacie, en médecine et en biologie.En Médecine et Pharmacie, possibilité dintervenir dans différents enseignements de biologie fondamentale et doncologie.
 Au niveau master, le nouveau professeur pourra simpliquer dans la mise en place dune UE de biologie des systèmes en M1 BIOSANTE (Co-habilitation UM1-UM2) faisant suite à l'UE de Biologie des Systèmes déjà existante en L3 de la Licence de Biologie (UM2, fac de sciences). Cette UE du M1 assurera la continuité avec le cours du tronc commun TC3 "Bioinformatique et biologie des systèmes" délivré en M2 BIOSANTÉ spécialité BIOMED.
 Le nouveau professeur interviendra également dans les UE du parcours International en Biologie du Cancer de la spécialité BIOMED (UE Cancer Treatment, UE Cancer Biology).
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	Recherche
 La recherche seffectuera au sein de lInstitut de Recherche en Cancérologie de Montpellier (IRCM). Elle visera au développement de nouvelles appoches méthodologiques permettant lanalyse de grands jeux de données de type séquençage des génomes, transcriptome, protéomique, interactome et autres omics en vue de leur intégration avec des données cliniques dans le domaine du cancer. L'objectif sera d'établir la signification biologique de ces données et de favoriser leur utilisation dans les domaines diagnostiques et hérapeutiques. Les objectifs de la recherche rejoindront ceux de lIRCM « Cibles moléculaires et thérapie des cancers, Découverte, Biologie et Applications Cliniques ». La personne recrutée aura pour mission de déployer un dispositif de recherche complet allant des études fondamentales jusquaux applications et devra interagir avec les équipes de biologistes au sein de l'IRCM et du SIRIC Montpellier-Cancer. La mise en place de collaborations avec les équipes de
 bioinformatiques montpelliéraines sera vivement encouragée. L'appartenance à des réseaux nationaux et internationaux en bioinformatique et de solides connaissances en cancérologie seront considérées favorablement.
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	Job profile :
 The professor will develop a research program at IRCM in systems biology or computational biology applied to Cancer, with the objective to extract biological insights from the integration of diverse -omics and clinical data sets and will teach Principles of Cancer Systems Biology and bioinformatics.
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	Research field : 
 Biological Sciences: Biology
 Medical Sciences: Medicine
@@ -168,30 +168,30 @@ Computer Sciences: Bioinformatics
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Chers Collègues,
 
 LInstitut de Recherche en Cancérologie de Montpellier (IRCM) a le privilège de bénéficier de la création dun poste de Professeur dUniversité dans le cadre dune chaire mixte Inserm-Université Montpellier 1.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le thème général est « Cancérologie, Signalisation et Systèmes complexes » et cette opération vise à la mise en place au sein de lInstitut dune équipe de biologie des systèmes / bioinformatique dédiée cancer.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Installé à lIRCM (www.ircm.fr), le lauréat travaillera en synergie avec la communauté montpelliéraine, notamment le SIRIC Montpellier Cancer (Site de Recherche Intégrée en Cancérologie qui regroupe lensemble des acteurs du domaine de la cancérologie tant expérimentale que clinique) et lIBC (Institut de Biologie Computationnelle ; http://www.ibc-montpellier.fr/).
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Je vous serais reconnaissant de diffuser cette annonce dans vos structures (voir fiche de poste ci-dessous).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Toutes les candidatures sont les bienvenues !
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Seule difficulté : la deadline fixée au 1er avril 16 :00 sur le site Galaxie.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	(https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/cand_postes_GALAXIE.htm).
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Bien cordialement, 
 
 André Pèlegrin
@@ -206,15 +206,15 @@ Campus Val dAurelle
 F-34298 Montpellier Cedex 5, France
 Tel : +33.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	(0)4.67.61.30.32
 Sec : +33.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	(0)4.67.61.85.77
 FAX : +33.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	(0)4.67.61.37.87
 Courriel : andre.pelegrin@inserm.fr 
 Site internet : http://www.ircm.fr
@@ -230,7 +230,7 @@ Article : 46-1
 Chaire : Non
 Section 1 : 87-Sc.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	biologiques, fondamentales et cliniques (ex 41è)
 Section 2 :
 Section 3 :
@@ -239,7 +239,7 @@ Chaire mixte INSERM
 
 Job profile : The professor will develop a research program at IRCM in systems biology or computational biology applied to Cancer, with the objective to extract biological insights from the integration of diverse -omics and clinical data sets and will teach Principles of Cancer Systems Biology and bioinformatics.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Research fields EURAXESS : Biological sciences, Biology, Medical sciences, Medicine
 Implantation du poste : 0341087X - UNIVERSITE MONTPELLIER 1
 Localisation : UFR MEDECINE
@@ -280,7 +280,7 @@ Enseignement :
 Principales matières susceptibles dêtre enseignées :
 Filières denseignement : DGFSM2, Master, 2eme et 3eme cycle des études médicales.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Recherche :
 Centre de recherche : Institut de Recherche en Cancérologie de Montpellier, IRCM, (Unité mixte UM1-Inserm en partenariat avec lICM-Val dAurelle)
 Lieu dexercice : IRCM, Campus Val dAurelle
@@ -291,46 +291,46 @@ Email : andre.pelegrin@inserm.fr
 Profil Enseignement
 En cancérologie, la biologie des systèmes est devenue ces dernières années une approche incontournable tant pour décrire nos connaissances en biologie que pour développer de nouvelles approches thérapeutiques.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	En s'appuyant sur des approches bioinformatiques, elle constitue une nouvelle discipline à part entière qui se doit dêtre enseignée de manière indépendante aux étudiants en pharmacie, en médecine et en biologie.En Médecine et Pharmacie, possibilité dintervenir dans différents enseignements de biologie fondamentale et doncologie.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Au niveau master, le nouveau professeur pourra simpliquer dans la mise en place dune UE de biologie des systèmes en M1 BIOSANTE (Co-habilitation UM1-UM2) faisant suite à l'UE de Biologie des Systèmes déjà existante en L3 de la Licence de Biologie (UM2, fac de sciences).
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Cette UE du M1 assurera la continuité avec le cours du tronc commun TC3 "Bioinformatique et biologie des systèmes" délivré en M2 BIOSANTÉ spécialité BIOMED.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Le nouveau professeur interviendra également dans les UE du parcours International en Biologie du Cancer de la spécialité BIOMED (UE Cancer Treatment, UE Cancer Biology).
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Recherche
 La recherche seffectuera au sein de lInstitut de Recherche en Cancérologie de Montpellier (IRCM).
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	Elle visera au développement de nouvelles appoches méthodologiques permettant lanalyse de grands jeux de données de type séquençage des génomes, transcriptome, protéomique, interactome et autres omics en vue de leur intégration avec des données cliniques dans le domaine du cancer.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	L'objectif sera d'établir la signification biologique de ces données et de favoriser leur utilisation dans les domaines diagnostiques et hérapeutiques.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	Les objectifs de la recherche rejoindront ceux de lIRCM « Cibles moléculaires et thérapie des cancers, Découverte, Biologie et Applications Cliniques ».
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	La personne recrutée aura pour mission de déployer un dispositif de recherche complet allant des études fondamentales jusquaux applications et devra interagir avec les équipes de biologistes au sein de l'IRCM et du SIRIC Montpellier-Cancer.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	La mise en place de collaborations avec les équipes de
 bioinformatiques montpelliéraines sera vivement encouragée.
 ==========================================
-La phrase 25 est en : FRA
+La phrase 25 est en : french
 	L'appartenance à des réseaux nationaux et internationaux en bioinformatique et de solides connaissances en cancérologie seront considérées favorablement.
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	Job profile :
 The professor will develop a research program at IRCM in systems biology or computational biology applied to Cancer, with the objective to extract biological insights from the integration of diverse -omics and clinical data sets and will teach Principles of Cancer Systems Biology and bioinformatics.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	Research field : 
 Biological Sciences: Biology
 Medical Sciences: Medicine

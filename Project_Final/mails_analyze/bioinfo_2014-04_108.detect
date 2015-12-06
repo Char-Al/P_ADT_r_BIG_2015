@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-04_108" est globalement en : FRA
-[('FRA', 0.13524050113228878), ('ENG', 0.4620990986568339)]
+Le mail "bioinfo_2014-04_108" est globalement en : french
+[('french', 0.4070026048321693), ('english', 0.722170548982186)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD autre] Alternant Assistant gestionnaire de données cliniques
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Intitulé du poste : Alternant Assistant gestionnaire de données cliniques
 Type de poste : CDD autre
 Durée du poste : 1 an
@@ -29,12 +29,12 @@ Email du contact : pauline.deparscau@biomerieux.com
 Laboratoire : BIOMERIEUX
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/alternant-assistant-gestionnaire-de-donn%C3%A9es-cliniques
 
 ==========================================
-Le paragraphe 5 est en : n
+Le paragraphe 5 est en : non detect
 	
 
 ==========================================
@@ -42,7 +42,7 @@ Le paragraphe 5 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr

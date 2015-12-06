@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_4" est globalement en : FRA
-[('ENG', 0.17826633482938892), ('FRA', 0.4139334591258803)]
+Le mail "bioinfo_2014-02_4" est globalement en : english (conflict)
+[('english', 0.44466981289879204), ('french', 0.4576480338610933)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Regularization and  sparse methods for  multivariate regression with applications in genomic selection
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Regularization and  sparse methods for  multivariate  
 regression with applications in genomic selection
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact : tristan.mary-huard@agroparistech.fr
 Laboratoire : UMR518 AgroParisTech/INRA
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/regularization-and-sparse-methods-multivariate-regression-applications-genomic-selection
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/regularization-and-sparse-methods-multivariate-regres
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Regularization and  sparse methods for  multivariate  

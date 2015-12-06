@@ -1,35 +1,35 @@
-Le mail "bioinfo_2014-08_13" est globalement en : ENG
-[('ENG', 0.26065832333495664), ('FRA', 0.4472268661512336)]
+Le mail "bioinfo_2014-08_13" est globalement en : english
+[('english', 0.030247314382759176), ('french', 0.29254013364068354)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] PhD position in statistical genetics at Grenoble University
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	
 PhD position in bioinformatics/statistical genetics at the University of 
 Grenoble (France)
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Title: Large-scale statistical methods to study biological adaptation 
 with genome wide dataset
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The candidate will be involved in a multidisciplinary research project 
 that concerns a team a mathematical and computational biology in 
 Grenoble and a team of human evolutionary genetics at the Institut 
 Pasteur in Paris.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Subject: Because of the explosion of large-scale biological data, 
 statistical research efforts are increasingly needed in modern biology. 
 The project concerns the development of statistical methods to study 
@@ -45,7 +45,7 @@ Paris, we will investigate the occurrence of rapid adaptation through
 various evolutionary mechanisms.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The candidate will develop original statistical approaches to detect the 
 regions of the genomes that have been involved in genetic adaptation. 
 Statistical models will be based on machine learning approaches that are 
@@ -54,7 +54,7 @@ implementations of the proposed approaches will be compared based on
 simulations that mimic evolutionary processes of biological adaptation.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Profile: The background of the candidate can be in statistics or 
 bioinformatics. Students from related disciplines, such as physics, 
 computer science, mathematics or computational biology are also welcome 
@@ -62,19 +62,19 @@ to apply. Applicants with a genuine interest for interdisciplinary PhD
 education will be preferred.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Applicants should send by email a CV and a recommendation letter from an 
 academic reference.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Contacts:
 Michael Blum
 http://membres-timc.imag.fr/Michael.Blum/
 Michael.blum@imag.fr
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -82,7 +82,7 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 PhD position in bioinformatics/statistical genetics at the University of 
 Grenoble (France)
@@ -95,69 +95,69 @@ that concerns a team a mathematical and computational biology in
 Grenoble and a team of human evolutionary genetics at the Institut 
 Pasteur in Paris.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Subject: Because of the explosion of large-scale biological data, 
 statistical research efforts are increasingly needed in modern biology.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The project concerns the development of statistical methods to study 
 human genetic adaptation.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Humans experienced several changes of their 
 environment, which triggered rapid biological adaptation.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The shift to 
 agriculture was a prominent modification of their environment.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	They 
 adopt sedentary lifestyles, resulting in increased population densities 
 and modifications of their pathogenic environment that lead to novel 
 selective pressures.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	However, the extent and rapidity of the genetic 
 adaptation to such novel environments remain largely unknown.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Based on 
 genome wide data (exome sequencing) generated by the Institut Pasteur in 
 Paris, we will investigate the occurrence of rapid adaptation through 
 various evolutionary mechanisms.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	The candidate will develop original statistical approaches to detect the 
 regions of the genomes that have been involved in genetic adaptation.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Statistical models will be based on machine learning approaches that are 
 particularly well suited to handle large-scale genomic data.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Numerical 
 implementations of the proposed approaches will be compared based on 
 simulations that mimic evolutionary processes of biological adaptation.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Profile: The background of the candidate can be in statistics or 
 bioinformatics.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Students from related disciplines, such as physics, 
 computer science, mathematics or computational biology are also welcome 
 to apply.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Applicants with a genuine interest for interdisciplinary PhD 
 education will be preferred.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Applicants should send by email a CV and a recommendation letter from an 
 academic reference.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Contacts:
 Michael Blum
 http://membres-timc.imag.fr/Michael.Blum/

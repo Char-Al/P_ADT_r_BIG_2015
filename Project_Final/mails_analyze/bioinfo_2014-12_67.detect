@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_67" est globalement en : FRA
-[('FRA', 0.6970611064109573), ('ENG', 1.2968586846657326)]
+Le mail "bioinfo_2014-12_67" est globalement en : french
+[('french', 0.529254316435201), ('english', 1.0540268011192386)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IE] Ingénieur Informaticien R&D
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur Informaticien R&D
 Type de poste : IE
 Durée du poste : indéterminée
@@ -25,7 +25,7 @@ Email du contact : P-Recrutement@chu-rennes.fr
 Laboratoire : Plateforme PEPS
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-informaticien-rd
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-informaticien-rd
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur Informaticien R&D

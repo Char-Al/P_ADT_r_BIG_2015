@@ -1,27 +1,27 @@
-Le mail "bioinfo_2014-05_22" est globalement en : ENG
-[('ENG', 0.355745136823885), ('FRA', 0.5492055618205154)]
+Le mail "bioinfo_2014-05_22" est globalement en : english
+[('english', 0.3322918792334838), ('french', 1.5113354371986805)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Save the date:  SeMoVi Seminar, May 14, 2 to 5 pm, Grenoble
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	SAVE THE DATE for the next SeMoVi Seminar, organized by BioSyl 
 (www.biosyl.org), on Wednesday, May 14, 2.00 to 5.00.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	This Semovi will be held in Grenoble: amphi 22, IM2AG, 60 rue de la 
 chimie, BP 53, 38041 Grenoble.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Our 3 speakers will be :
 - 2.00 to 3.00: Jean-Philippe VERT (Mines ParisTech - Institut Curie - 
 INSERM U900):
@@ -34,15 +34,15 @@ and when to interact with DNA?
 - 4.30 to 5.00 : general discussion
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	More on: http://www.biosyl.org/news/semovi-14-mai-2014
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Regards
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Emilie NOGUEZ, BioSyL
 Bat Gregor Mendel (ex 741)
 16, rue Raphaël Dubois
@@ -57,15 +57,15 @@ http://www.biosyl.org
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	SAVE THE DATE for the next SeMoVi Seminar, organized by BioSyl 
 (www.biosyl.org), on Wednesday, May 14, 2.00 to 5.00.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	This Semovi will be held in Grenoble: amphi 22, IM2AG, 60 rue de la 
 chimie, BP 53, 38041 Grenoble.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Our 3 speakers will be :
 - 2.00 to 3.00: Jean-Philippe VERT (Mines ParisTech - Institut Curie - 
 INSERM U900):
@@ -76,7 +76,7 @@ feature sets for biological sequences
 - 4.00 to 4.30: Gérard BENOIT (CGPHIMC): Retinoic Acid Receptors: where 
 and when to interact with DNA?
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	- 4.30 to 5.00 : general discussion
 
 More on: http://www.biosyl.org/news/semovi-14-mai-2014

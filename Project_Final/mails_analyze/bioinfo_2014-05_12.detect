@@ -1,11 +1,11 @@
-Le mail "bioinfo_2014-05_12" est globalement en : ENG
-[('ENG', 0.23417146733705946), ('FRA', 0.35721156111129465)]
+Le mail "bioinfo_2014-05_12" est globalement en : english
+[('english', 0.12020477468582938), ('french', 0.42941349914086374)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Gtpb] REMINDER,
  new deadline. Structural Modeling for Large Macromolecular
  Complexes - SMLMC14 in Oeiras, Portugal
@@ -13,44 +13,44 @@ Subject : [bioinfo] [Gtpb] REMINDER,
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	                     GTPB Reminder
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Applications are open for another Bioinformatics Training course:
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	SMLMC14
 Structural Modeling for Large Macromolecular Complexes
 with Joanna Kasprzak and Grzegorz Chojnowski
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	    IMPORTANT DATES for this Course
     Deadline for applications: May 20th 2014        < New deadline
     Latest notification of acceptance: May 17th 2014
     Course date: June 11th - June 13th 2014
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	For a reference about the use of the methodology:
 http://dx.doi.org/10.1016/j.ymeth.2013.09.014
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	*Computational modeling of proteinRNA complex structures*
 Irina Tuszynska, Dorota Matelska, Marcin Magnus, Grzegorz Chojnowski,  
 Joanna M. Kasprzak, Lukasz P. Kozlowski, Stanislaw Dunin-Horkawicz,  
 Janusz M. Bujnicki
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Laboratory of Bioinformatics and Protein Engineering, International  
 Institute of Molecular and Cell Biology in Warsaw, ul. Ks. Trojdena 4,  
 PL-02-109 Warsaw, Poland
@@ -59,11 +59,11 @@ Biotechnology, Faculty of Biology, Adam Mickiewicz University, ul.
 Umultowska 89, PL-61-614 Poznan, Poland
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	***********************************************************************
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Course description
 One of the major challenges in structural biology is to determine the   
    structures of macromolecular complexes and to understand their   
@@ -80,21 +80,21 @@ other,  and a simple scoring function is applied to pack them tightly
 into  contours of the entire complex (e.g. cryoEM density maps).
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	More details at
 http://gtpb.igc.gulbenkian.pt/bicourses/SMLMC14/
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Thank you for your interest!
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Pedro Fernandes
 GTPB Coordinator
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	-- 
 Pedro Fernandes
 Instituto Gulbenkian de Ciência
@@ -105,7 +105,7 @@ Tel +351 21 4407912
 http://gtpb.igc.gulbenkian.pt
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	_______________________________________________
 Gtpb mailing list
 Gtpb@igc.gulbenkian.pt
@@ -117,7 +117,7 @@ https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 
                      GTPB Reminder
@@ -144,16 +144,16 @@ Janusz M. Bujnicki
 Laboratory of Bioinformatics and Protein Engineering, International  
 Institute of Molecular and Cell Biology in Warsaw, ul.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Ks.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Trojdena 4,  
 PL-02-109 Warsaw, Poland
 Bioinformatics Laboratory, Institute of Molecular Biology and  
 Biotechnology, Faculty of Biology, Adam Mickiewicz University, ul.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Umultowska 89, PL-61-614 Poznan, Poland
 
 ***********************************************************************
@@ -163,40 +163,40 @@ One of the major challenges in structural biology is to determine the
    structures of macromolecular complexes and to understand their   
 function and mechanism of action.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	However, structural characterisation  
   of macromolecular assemblies is very difficult.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	To begin addressing   
 this problem, we have developed PyRy3D.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	In a nutshell, PyRy3D employs a hybrid computational approach that     
 incorporates spatial information from a variety of experimental   
 methods into the modelling procedure to build low-resolution models of  
   large macromolecular complexes.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The PyRy3D model building procedure   
    uses a Monte Carlo approach to sample the solutions-space.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	It uses   
    spatial restraints to define components interacting with each  
 other,  and a simple scoring function is applied to pack them tightly  
 into  contours of the entire complex (e.g.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	cryoEM density maps).
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	More details at
 http://gtpb.igc.gulbenkian.pt/bicourses/SMLMC14/
 
 Thank you for your interest!
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Pedro Fernandes
 GTPB Coordinator
 

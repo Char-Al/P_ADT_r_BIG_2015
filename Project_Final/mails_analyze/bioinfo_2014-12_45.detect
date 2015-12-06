@@ -1,96 +1,96 @@
-Le mail "bioinfo_2014-12_45" est globalement en : ENG
-[('FRA', 0.29731760991447087), ('ENG', 0.301745666785833)]
+Le mail "bioinfo_2014-12_45" est globalement en : english
+[('english', 0.03771898401227109), ('french', 0.506604269086775)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Symposium on Protein Evolution and Structure - ESEB2015 - Lausanne Aug10-14
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear colleagues,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	We are delighted to invite submissions for the ESEB 2015 symposium
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	"PROTEIN EVOLUTION: STRUCTURAL AND FUNCTIONAL PERSPECTIVE".
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The symposium will focus on protein evolution in broad terms, including protein conservation and adaptation, detection of positive selection and co-evolution, structural evolution and stability constraints. We welcome submissions integrating studies on protein evolution with biochemistry and functional/structural genomics.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The symposium will take place during the 15th Congress of the European Society for Evolutionary Biology (ESEB) on 10 - 14 August 2015 in Lausanne, Switzerland.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	REGISTRATION:
     Deadline: 10 January 2015
     http://www3.unil.ch/wpmu/eseb2015
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	INVITED SPEAKERS:
     Dan Tawfik, Weizmann Institute of Science, Israel
     Richard Goldstein, University College London, UK
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	SYMPOSIUM DESCRIPTION:
 Proteins evolve by the replacement of amino acids (substitutions) or the insertion/deletion of fragments (indels). For the protein, mutations may be deleterious or beneficial, governed by the laws of natural selection. Beneficial mutations increase the fitness of the phenotype and are more likely to become fixed in the genome (positive selection). Proteins are not robust to drastic changes (i.e. important changes in stability) and mutations that favour an adaptive functional change are generally accompanied by other coevolving mutations that insure the integrity of the 3D structure (compensatory effect). All these biophysical properties are paving the way for protein evolution.
 Traditionally, there was little if any crosstalk between the fields of protein biophysics, protein structure-function and molecular evolution. The last several years have seen some exciting development in merging these areas to obtain an in-depth understanding of how proteins evolve.
 For example, a better understanding of how structural constraints affect protein evolution will greatly help to optimise stochastic models of sequence evolution. The symposium aims at exploring this new synthesis.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Abstracts will be selected for presentation by early March. When submitting your abstract please state your preference (talk, poster) during the submission process.
 With questions please contact the symposium organizers:
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	*    Romain Studer (rstuder@ebi.ac.uk)
 *    Maria Anisimova (maria.anisimova@zhaw.ch)
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	We are looking forward to seeing you at ESEB 2015!
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Romain and Maria
 
 ==========================================
-Le paragraphe 13 est en : n
+Le paragraphe 13 est en : non detect
 	_________________________________
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Romain Studer
 European Bioinformatics Institute
 Wellcome Trust Genome Campus, UK
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Twitter: @RomainStuder
 Blog: http://evosite3d.blogspot.co.uk/
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Maria Anisimova
 Institute of Applied Simulations
 Zurich University of Applied Sciences
 Switzerland
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	Evolutionary Genomics:
 Vol 1: http://www.springer.com/biomed/human+genetics/book/978-1-61779-581-7
 Vol 2: http://www.springer.com/biomed/human+genetics/book/978-1-61779-584-8
@@ -101,7 +101,7 @@ Vol 2: http://www.springer.com/biomed/human+genetics/book/978-1-61779-584-8
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear colleagues,
 
 
@@ -109,16 +109,16 @@ We are delighted to invite submissions for the ESEB 2015 symposium
 
 "PROTEIN EVOLUTION: STRUCTURAL AND FUNCTIONAL PERSPECTIVE".
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The symposium will focus on protein evolution in broad terms, including protein conservation and adaptation, detection of positive selection and co-evolution, structural evolution and stability constraints.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	We welcome submissions integrating studies on protein evolution with biochemistry and functional/structural genomics.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The symposium will take place during the 15th Congress of the European Society for Evolutionary Biology (ESEB) on 10 - 14 August 2015 in Lausanne, Switzerland.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	REGISTRATION:
     Deadline: 10 January 2015
     http://www3.unil.ch/wpmu/eseb2015
@@ -130,40 +130,40 @@ INVITED SPEAKERS:
 SYMPOSIUM DESCRIPTION:
 Proteins evolve by the replacement of amino acids (substitutions) or the insertion/deletion of fragments (indels).
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	For the protein, mutations may be deleterious or beneficial, governed by the laws of natural selection.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Beneficial mutations increase the fitness of the phenotype and are more likely to become fixed in the genome (positive selection).
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Proteins are not robust to drastic changes (i.e.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	important changes in stability) and mutations that favour an adaptive functional change are generally accompanied by other coevolving mutations that insure the integrity of the 3D structure (compensatory effect).
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	All these biophysical properties are paving the way for protein evolution.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Traditionally, there was little if any crosstalk between the fields of protein biophysics, protein structure-function and molecular evolution.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	The last several years have seen some exciting development in merging these areas to obtain an in-depth understanding of how proteins evolve.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	For example, a better understanding of how structural constraints affect protein evolution will greatly help to optimise stochastic models of sequence evolution.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	The symposium aims at exploring this new synthesis.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Abstracts will be selected for presentation by early March.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	When submitting your abstract please state your preference (talk, poster) during the submission process.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	With questions please contact the symposium organizers:
 
 *    Romain Studer (rstuder@ebi.ac.uk)
@@ -171,7 +171,7 @@ La phrase 17 est en : ENG
 
 We are looking forward to seeing you at ESEB 2015!
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Romain and Maria
 
 

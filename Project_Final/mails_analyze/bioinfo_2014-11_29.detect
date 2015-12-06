@@ -1,36 +1,36 @@
-Le mail "bioinfo_2014-11_29" est globalement en : ENG
-[('ENG', 0.36114368934867863), ('FRA', 0.5541191931741525)]
+Le mail "bioinfo_2014-11_29" est globalement en : english
+[('english', 0.10566941559138304), ('french', 0.25243924268577833)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] SMBEBA 2015: SMBE Satellite meeting "Investigating biological adaptation with NGS: data and models", May 26-29 2015, Hameau de l' étoile
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear colleagues,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	It is my pleasure to announce that a satellite meeting of the society 
 for molecular biology and evolution (SMBE) is going to take place at the 
 Hameau de l'étoile, which is a village close to Montpellier.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	More details about the meeting are available online: 
 http://smbeba2015.imag.fr
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The deadline for pre-registration is December 17, 2014.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The scientific organizing committee
 Angela Hancock (Univ. Vienna), Michael Blum (Univ. Grenoble), and Renaud 
 Vitalis (INRA Montpellier)
@@ -41,27 +41,27 @@ Vitalis (INRA Montpellier)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear colleagues,
 
 It is my pleasure to announce that a satellite meeting of the society 
 for molecular biology and evolution (SMBE) is going to take place at the 
 Hameau de l'étoile, which is a village close to Montpellier.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	More details about the meeting are available online: 
 http://smbeba2015.imag.fr
 
 The deadline for pre-registration is December 17, 2014.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The scientific organizing committee
 Angela Hancock (Univ.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Vienna), Michael Blum (Univ.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Grenoble), and Renaud 
 Vitalis (INRA Montpellier)
 

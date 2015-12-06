@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-08_22" est globalement en : FRA
-[('FRA', 0.2657617120331174), ('ENG', 0.3351490247953936)]
+Le mail "bioinfo_2014-08_22" est globalement en : french
+[('french', 0.5388161748552788), ('english', 0.8095088938735611)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformatique structurale : Structure Based peptide design
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformatique structurale : Structure Based peptide  
 design
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact : pierre.tuffery@univ-paris-diderot.fr
 Laboratoire : MTi, INSERM UMR-S 973
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatique-structurale-structure-based-peptide-design
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/bioinformatique-structurale-structure-based-peptide-d
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Bioinformatique structurale : Structure Based peptide  

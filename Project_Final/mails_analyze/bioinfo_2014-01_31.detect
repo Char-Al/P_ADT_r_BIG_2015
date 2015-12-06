@@ -1,33 +1,33 @@
-Le mail "bioinfo_2014-01_31" est globalement en : FRA
-[('ENG', 0.29978364218403597), ('FRA', 0.4118586284404093)]
+Le mail "bioinfo_2014-01_31" est globalement en : french
+[('french', 0.060634068597973656), ('english', 4.916555004004387)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] EMPLOI: Biostatisticien H/F - CDD de 12 mois renouvelable -
  Montpellier
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Biostatisticien H/F
 CDD de 12 mois renouvelable
 Poste à pourvoir de suite
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Fonction : Biostatisticien(ne)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Localisation : Laboratoire Prestizia – Cap Alpha (Clapiers, 34)- 
 Agglomération de Montpellier.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Contexte : La société de biotechnologie Prestizia, filiale à 100% de 
 Theradiag (Marne-la-Vallée, www.theradiag.com) développe depuis 2011 une 
 technologie et un savoir-faire pour l'identification de petits ARN 
@@ -37,7 +37,7 @@ miARNs sont utilisés comme biomarqueurs pour la recherche appliquée au
 diagnostic et au monitoring des médicaments.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	La première application, dédiée au développement d’un kit permettant 
 l’identification des patients infectés par le VIH et éligibles au 
 traitement par le Selzentry (Maraviroc), est conduite en étroite 
@@ -54,7 +54,7 @@ biostaticien(ne) à même d’assister les chefs de projets de la
 plateforme.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Missions :
 A partir des données issues du profilage à haut-débit par qPCR des 
 miRNAs sur des cohortes de patients, vos missions seront de :
@@ -68,7 +68,7 @@ en vue de l’exploitation des données (maîtrise de R indispensable).
 exploitable par les laboratoires d’analyses (Perl, JAVA, C/C++, PHP).
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Le/la candidat(e) devra également êetre apte à :
 (i), communiquer avec les responsables scientifiques des différentes 
 thématiques.
@@ -76,7 +76,7 @@ thématiques.
 (iii), proposer différentes approches méthodologiques.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Docteur ou Ingénieur en bio-statistique, vous justifiez d’une expérience 
 dans le domaine du traitement de données à haut-débit.
 Bon relationnel et capacité à travailler en équipe indispensable. 
@@ -84,7 +84,7 @@ Anglais lu, écrit et parlé.
 Rémunération selon expérience et profil.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Si vous vous reconnaissez dans cette proposition, et si vous avez 
 l’enthousiasme, la motivation pour intégrer ce poste, merci de nous 
 faire parvenir votre candidature par courriel à Madame Prigneau 
@@ -96,7 +96,7 @@ faire parvenir votre candidature par courriel à Madame Prigneau
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Biostatisticien H/F
 CDD de 12 mois renouvelable
 Poste à pourvoir de suite
@@ -106,84 +106,84 @@ Fonction : Biostatisticien(ne)
 Localisation : Laboratoire Prestizia – Cap Alpha (Clapiers, 34)- 
 Agglomération de Montpellier.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Contexte : La société de biotechnologie Prestizia, filiale à 100% de 
 Theradiag (Marne-la-Vallée, www.theradiag.com) développe depuis 2011 une 
 technologie et un savoir-faire pour l'identification de petits ARN 
 non-codants appelés microARNs à partir d'échantillons de sang de 
 patients.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Détectés par des techniques de biologie moléculaire, ces 
 miARNs sont utilisés comme biomarqueurs pour la recherche appliquée au 
 diagnostic et au monitoring des médicaments.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	La première application, dédiée au développement d’un kit permettant 
 l’identification des patients infectés par le VIH et éligibles au 
 traitement par le Selzentry (Maraviroc), est conduite en étroite 
 collaboration avec l’Institut de Génétique Moléculaire de Montpellier 
 (IGMM, CNRS).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	En collaboration avec d’autres instituts et sociétés, Prestizia 
 développe son savoir-faire pour l’application à d’autres thématiques 
 comme le cancer du rectum, l’obésité ou encore le traitement du VIH.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	La mission finale de Prestizia est de développer et également de 
 produire des kits de diagnostic et de théranostic in vitro qui seront 
 commercialisés et distribués par la société Théradiag.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Pour mener à bien ces travaux, Prestizia recherche un(e) 
 biostaticien(ne) à même d’assister les chefs de projets de la 
 plateforme.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Missions :
 A partir des données issues du profilage à haut-débit par qPCR des 
 miRNAs sur des cohortes de patients, vos missions seront de :
 (i), Etablir et d’optimiser des plans d’expériences en vue de 
 l’obtention des données.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	(ii), Gestion des données issues du profilage à haut-débit (UML, 
 MysSql).
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	(iii), Développement et mise en place des outils d’analyse statistique 
 en vue de l’exploitation des données (maîtrise de R indispensable).
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	(iv), Développement d’un algorithme en lien avec une interface graphique 
 exploitable par les laboratoires d’analyses (Perl, JAVA, C/C++, PHP).
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Le/la candidat(e) devra également êetre apte à :
 (i), communiquer avec les responsables scientifiques des différentes 
 thématiques.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	(ii), faire la synthèse, présentation et discussion des résultats.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	(iii), proposer différentes approches méthodologiques.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Docteur ou Ingénieur en bio-statistique, vous justifiez d’une expérience 
 dans le domaine du traitement de données à haut-débit.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Bon relationnel et capacité à travailler en équipe indispensable.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Anglais lu, écrit et parlé.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Rémunération selon expérience et profil.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	Si vous vous reconnaissez dans cette proposition, et si vous avez 
 l’enthousiasme, la motivation pour intégrer ce poste, merci de nous 
 faire parvenir votre candidature par courriel à Madame Prigneau 

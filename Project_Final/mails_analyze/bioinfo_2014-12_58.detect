@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_58" est globalement en : FRA
-[('FRA', 0.4522713374998756), ('ENG', 0.8365155612789934)]
+Le mail "bioinfo_2014-12_58" est globalement en : french
+[('french', 0.4418459146308651), ('english', 0.7523695034844661)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur en informa  tique sur LabEx Milieu Interieur
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur en informatique sur LabEx Milieu Interieur
 Type de poste : CDD Ingénieur
 Durée du poste : 18 mois
@@ -25,7 +25,7 @@ Email du contact : sthomas@pasteur.fr
 Laboratoire : LabEx Milieu Interieur, Institut Pasteur Paris
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/inge%CC%81nieur-en-informatique-sur-labex-milieu-interieur
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/inge%CC%81nieur-en-informatique-sur-labex-milieu-inte
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur en informatique sur LabEx Milieu Interieur

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_57" est globalement en : FRA
-[('FRA', 0.6537476260160936), ('ENG', 2.4763425016363945)]
+Le mail "bioinfo_2014-02_57" est globalement en : french
+[('french', 0.6175930854449431), ('english', 1.2488724780768894)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Bioinformatique : prédiction d  e toxicité
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformatique : prédiction de toxicité
 Type de poste : Stage
 Durée du poste : 5 mois
@@ -25,7 +25,7 @@ Email du contact : jerome.besse@pierre-fabre.com
 Laboratoire : Laboratoires Pierre Fabre
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatique-pr%C3%A9diction-de-toxicit%C3%A9
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/bioinformatique-pr%C3%A9diction-de-toxicit%C3%A9
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Bioinformatique : prédiction de toxicité

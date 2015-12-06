@@ -1,39 +1,39 @@
-Le mail "bioinfo_2014-01_73" est globalement en : FRA
-[('FRA', 1.1941106560825263), ('ENG', 12.715243737819483)]
+Le mail "bioinfo_2014-01_73" est globalement en : french
+[('french', 0.5245122056452287), ('english', 29.011656352089187)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] journéeprotéomique , 3 février
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	bonjour
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	nous organisons le 3 février à Lille une journée scientifique
 sur le thème "La protéomique à l'ère du tout omique".
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Le programme préliminaire et le formulaire d'inscription sont
 disponibles à
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	http://www.lifl.fr/~touzet/PPF/proteomique.html
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	cordialement,
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Hélène
 
 
@@ -42,13 +42,13 @@ Le paragraphe 6 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	bonjour
 
 nous organisons le 3 février à Lille une journée scientifique
 sur le thème "La protéomique à l'ère du tout omique".
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le programme préliminaire et le formulaire d'inscription sont
 disponibles à
 

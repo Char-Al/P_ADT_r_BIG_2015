@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_12" est globalement en : FRA
-[('FRA', 0.48092185638122353), ('ENG', 3.9655923863861764)]
+Le mail "bioinfo_2014-09_12" est globalement en : french
+[('french', 0.6210415757671898), ('english', 1.174570062129558)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieurdéveloppeu  r Front-End/Java
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur développeur Front-End/Java
 Type de poste : CDD Ingénieur
 Durée du poste : 12 mois
@@ -25,7 +25,7 @@ Email du contact : visotheary.riviere-ung@snv.jussieu.fr
 Laboratoire : UMR 7205 ISYEB
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9veloppeur-front-endjava
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9veloppeur-front-endjava
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur développeur Front-End/Java

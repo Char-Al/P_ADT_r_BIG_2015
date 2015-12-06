@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-11_23" est globalement en : FRA
-[('FRA', 1.517752603419005), ('ENG', 151.8406136509241)]
+Le mail "bioinfo_2014-11_23" est globalement en : french
+[('french', 0.4074934210987684), ('english', 3.3765573372957984)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Offre de Post-Doc à Geneve
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Offre de post-doc (une année) à Genève: 
 http://ua.unige.ch/fr/postes/postdoc/AGP20141107/
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Post-doc bio-informatique/implémentation de base de 
 données
 Type de poste : Post-doc
@@ -32,7 +32,7 @@ Laboratoire : Unité d'anthropologie - Dep. Génétique et évolution
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Offre de post-doc (une année) à Genève: 
 http://ua.unige.ch/fr/postes/postdoc/AGP20141107/
 
@@ -45,7 +45,7 @@ Nom du contact : Alicia Sanchez-Mazas
 Email du contact : alicia.sanchez-mazas@unige.ch
 Laboratoire : Unité d'anthropologie - Dep.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Génétique et évolution
 
 ==========================================

@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-04_99" est globalement en : ENG
-[('ENG', 0.3468787412212338), ('FRA', 1.6385440068381711)]
+Le mail "bioinfo_2014-04_99" est globalement en : english
+[('english', 0.06903308520141818), ('french', 0.23582128135566538)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] 1 year Post-doc Gene Regulatory Network learning
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	1 year Post-doc position open in Gene Regulatory Network (GRN) learning (Montpellier FRANCE).
 Mentors Andre Mas (I3M-UM2), Gabriel Krouk (CNRS).
 The computer scientist candidate should have a strong interest and experience in using Math to solve biological problems. Ideally the candidate should be able to transfer R scripts into C or C++ in order to adapt algorithms to very intensive calculation processes.
@@ -20,7 +20,7 @@ Email :andre.mas@univ-montp2.fr,gkrouk@gmail.com
 For application join before June, 16th : CV + cover letter + 2 letters of recommendation
 
 ==========================================
-Le paragraphe 2 est en : n
+Le paragraphe 2 est en : non detect
 	
 
 ==========================================
@@ -28,22 +28,22 @@ Le paragraphe 2 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	1 year Post-doc position open in Gene Regulatory Network (GRN) learning (Montpellier FRANCE).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Mentors Andre Mas (I3M-UM2), Gabriel Krouk (CNRS).
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The computer scientist candidate should have a strong interest and experience in using Math to solve biological problems.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Ideally the candidate should be able to transfer R scripts into C or C++ in order to adapt algorithms to very intensive calculation processes.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Skills in machine learning and/or supervised clustering as well as basic knowledge in GRN will be appreciated.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Email :andre.mas@univ-montp2.fr,gkrouk@gmail.com  
 For application join before June, 16th : CV + cover letter + 2 letters of recommendation
 

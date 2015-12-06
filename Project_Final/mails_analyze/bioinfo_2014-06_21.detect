@@ -1,24 +1,24 @@
-Le mail "bioinfo_2014-06_21" est globalement en : ENG
-[('ENG', 0.5897865387721832), ('FRA', 1.289674175874933)]
+Le mail "bioinfo_2014-06_21" est globalement en : english
+[('english', 0.032702096871017904), ('french', 0.5345517492832508)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] PhD position in Paris on eukaryotic phylogenomics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	A PhD position on eukaryotic phylogenomics is available at the 
 University Paris-Sud (France) in the DEEM laboratory (Diversity, Ecology 
 and Evolution of Microorganisms: 
 http://www.ese.u-psud.fr/spip.php?rubrique7&lang=en).
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	-Scientific context: Despite intense research in recent years, the 
 general phylogeny of eukaryotes remains poorly resolved. The order of 
 divergence of the major eukaryotic phyla and the settlement of essential 
@@ -37,7 +37,7 @@ shaped by secondary endosymbiosis but we still do not know when, how and
 to what extent.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	-Project: The goal of the PhD project is to decipher the role of 
 secondary endosymbiosis in eukaryotic evolution by improving the genome 
 sequence data for underrepresented phyla and providing a rigorous 
@@ -53,13 +53,13 @@ the settlement of original metabolic features characteristic of these
 eukaryotic groups.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	-Qualifications: Candidates must have an MSc degree and strong interest 
 in early evolution and eukaryotic diversity and phylogeny as well as 
 some experience in computational biology.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	-Application: The application should include 1) a motivation letter, 2) 
 a detailed CV with grades/ranks, and 3) the names and contact 
 information for at least two referees. This material has to be sent by 
@@ -67,7 +67,7 @@ e-mail to David Moreira (david.moreira@u-psud.fr) and Philippe Deschamps
 (philippe.deschamps@u-psud.fr).
 
 ==========================================
-Le paragraphe 6 est en : n
+Le paragraphe 6 est en : non detect
 	
 
 ==========================================
@@ -75,60 +75,60 @@ Le paragraphe 6 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	A PhD position on eukaryotic phylogenomics is available at the 
 University Paris-Sud (France) in the DEEM laboratory (Diversity, Ecology 
 and Evolution of Microorganisms: 
 http://www.ese.u-psud.fr/spip.php?rubrique7&lang=en).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	-Scientific context: Despite intense research in recent years, the 
 general phylogeny of eukaryotes remains poorly resolved.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The order of 
 divergence of the major eukaryotic phyla and the settlement of essential 
 metabolic and structural features are still insufficiently described.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Many extant eukaryotic phyla emerged through the gain or loss of 
 plastids carrying out photosynthesis.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Plastid endosymbiosis is 
 accompanied by a massive flow of Endosymbiotic Gene Transfers (EGT) from 
 the symbiont to the host genome.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The first plastid endosymbiosis in 
 eukaryotes involved a cyanobacterium and an unknown host and gave rise 
 to the supergroup Archaeplastida (green algae and plants, red algae, and 
 glaucophytes).
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	This initial endosymbiosis was followed by a number of 
 subsequent endosymbioses where various heterotrophic hosts engulfed and 
 converted green and red algae into the secondary plastids found in many 
 eukaryotic phyla today.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	These, and their heterotrophic relatives, were 
 shaped by secondary endosymbiosis but we still do not know when, how and 
 to what extent.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	-Project: The goal of the PhD project is to decipher the role of 
 secondary endosymbiosis in eukaryotic evolution by improving the genome 
 sequence data for underrepresented phyla and providing a rigorous 
 analysis of EGT traces in these genomes.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Using next generation 
 sequencing, we are producing high coverage transcriptomes of a variety 
 of photosynthetic and heterotrophic species having strategic positions 
 on the phylogeny of eukaryotes.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	The PhD will be in charge of analyzing 
 these data by phylogenomic and comparative genomic methods to: 1) 
 Enhance the resolution of the tree of eukaryotes, 2) detect traces of 
@@ -137,17 +137,17 @@ advantage of this new genomic resources to understand the evolution and
 the settlement of original metabolic features characteristic of these 
 eukaryotic groups.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	-Qualifications: Candidates must have an MSc degree and strong interest 
 in early evolution and eukaryotic diversity and phylogeny as well as 
 some experience in computational biology.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	-Application: The application should include 1) a motivation letter, 2) 
 a detailed CV with grades/ranks, and 3) the names and contact 
 information for at least two referees.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	This material has to be sent by 
 e-mail to David Moreira (david.moreira@u-psud.fr) and Philippe Deschamps 
 (philippe.deschamps@u-psud.fr).

@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-09_24" est globalement en : ENG
-[('ENG', 0.2138777121540915), ('FRA', 0.5616467329266841)]
+Le mail "bioinfo_2014-09_24" est globalement en : english
+[('english', 0.04165062444177298), ('french', 0.2952710651079546)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] WINTER SCHOOL ALGORITHMS IN STRUCTURAL BIOINFORMATICS  / MODELING LARGE ASSEMBLIES
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	%%i%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 WINTER SCHOOL ALGORITHMS IN STRUCTURAL BIOINFORMATICS : 
    MODELING LARGE MACROMOLECULAR ASSEMBLIES
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	   8-12 DECEMBER 2014, INRIA SOPHIA ANTIPOLIS, FRANCE  
    http://algosb2014.inria.fr/
 %%i%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	We are pleased to announce a one-week school on Algorithms in
 Structural Bioinformatics. The aim is to introduce advanced methods in
 this domain, giving special attention to interdisciplinary
@@ -33,74 +33,74 @@ the corresponding software. The following topics will be taught
 (details of the lectures at http://algosb2014.inria.fr/lectures.html):
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	I.
 Modeling of Dynamic Biomolecular Assemblies
 Gerhard Hummer, Max Plack Institut fur Biophysik / Theoretical Biophysics 
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	II.
 Small Angle X-ray Scattering from Macromolecular Solutions
 Dmitri Svergun, European Molecular Biology Laboratory, Hamburg
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : english
 	III.
 Computational Modeling of large Multimolecular Assemblies based on Multi-resolution Experimental Data
 Haim Wolfson, Tel Aviv University
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	IV.
 Integrative Approaches to Macromolecular Modeling
 Riccardo Pellarin, UCSF
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	V.
 Modeling Contacts in Macromolecular assemblies: from Inference to Assessment
 Frederic Cazals, Algorithms-Biology-Structure, Inria Sophia Antipolis
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Each day's morning session will consist of a lecture, and the
 afternoon session will be devoted to a hands-on computer lab on
 the participants' laptops.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	INTENDED AUDIENCE. The school is primarily intended for thirty PhD
 students and postdoctoral researchers.  A number of slots are also
 available for young researchers from academia or industry.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	DEADLINE FOR APPLICATIONS. A one-page application (pdf format) should
 be sent by email to algosb-coordinators@inria.fr with Subject "AlgoSB
 application", by September 20th, 2014.
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	The application should provide a mini-vitae or a pointer to the full
 vitae, a brief presentation of the applicant's research interests, and
 a few lines commenting on expected synergy between his or her research and
 the courses that will be taught.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Notification of acceptance will be provided by September 30th. It is
 expected that all accepted students will participate in the entire
 school period.
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	VENUE AND PARTICIPATION FEES. The Algorithmics in Structural
 Bioinformatics school will take place on the French Riviera, at Inria
 Sophia Antipolis - Méditerranée.
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	The participation fees will be of 400 euros, which includes lunches,
 coffee breaks, and social events.
  
@@ -115,7 +115,7 @@ The organizers :
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	%%i%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 WINTER SCHOOL ALGORITHMS IN STRUCTURAL BIOINFORMATICS : 
    MODELING LARGE MACROMOLECULAR ASSEMBLIES
@@ -127,41 +127,41 @@ WINTER SCHOOL ALGORITHMS IN STRUCTURAL BIOINFORMATICS :
 We are pleased to announce a one-week school on Algorithms in
 Structural Bioinformatics.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The aim is to introduce advanced methods in
 this domain, giving special attention to interdisciplinary
 approaches.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The main focus will be on methodological developments
 meant to analyze and model large macromolecular assemblies, as well as on
 the corresponding software.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The following topics will be taught
 (details of the lectures at http://algosb2014.inria.fr/lectures.html):
 
 I.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Modeling of Dynamic Biomolecular Assemblies
 Gerhard Hummer, Max Plack Institut fur Biophysik / Theoretical Biophysics 
 
 II.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Small Angle X-ray Scattering from Macromolecular Solutions
 Dmitri Svergun, European Molecular Biology Laboratory, Hamburg
 
 III.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : english
 	Computational Modeling of large Multimolecular Assemblies based on Multi-resolution Experimental Data
 Haim Wolfson, Tel Aviv University
 
 IV.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Integrative Approaches to Macromolecular Modeling
 Riccardo Pellarin, UCSF
 
@@ -174,52 +174,52 @@ Each day's morning session will consist of a lecture, and the
 afternoon session will be devoted to a hands-on computer lab on
 the participants' laptops.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	INTENDED AUDIENCE.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	The school is primarily intended for thirty PhD
 students and postdoctoral researchers.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	A number of slots are also
 available for young researchers from academia or industry.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	DEADLINE FOR APPLICATIONS.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	A one-page application (pdf format) should
 be sent by email to algosb-coordinators@inria.fr with Subject "AlgoSB
 application", by September 20th, 2014.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	The application should provide a mini-vitae or a pointer to the full
 vitae, a brief presentation of the applicant's research interests, and
 a few lines commenting on expected synergy between his or her research and
 the courses that will be taught.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Notification of acceptance will be provided by September 30th.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	It is
 expected that all accepted students will participate in the entire
 school period.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	VENUE AND PARTICIPATION FEES.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	The Algorithmics in Structural
 Bioinformatics school will take place on the French Riviera, at Inria
 Sophia Antipolis - Méditerranée.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	The participation fees will be of 400 euros, which includes lunches,
 coffee breaks, and social events.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	The organizers :
     Frédéric Cazals, INRIA Sophia Antipolis - Méditerranée
     Juan Cortés, LAAS-CNRS, Toulouse 

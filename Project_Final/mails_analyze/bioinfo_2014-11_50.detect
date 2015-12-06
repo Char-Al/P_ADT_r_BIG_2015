@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_50" est globalement en : FRA
-[('FRA', 0.39143133717671613), ('ENG', 4.485410101347947)]
+Le mail "bioinfo_2014-11_50" est globalement en : french
+[('french', 0.6233444522542829), ('english', 1.4511974109222519)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][PR] Généticien des plantes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Généticien des plantes
 Type de poste : PR
 Durée du poste : indéterminée
@@ -25,7 +25,7 @@ Email du contact : jacques.dintinger@cirad.fr
 Laboratoire : UMR PVBMT
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/g%C3%A9n%C3%A9ticien-des-plantes
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/g%C3%A9n%C3%A9ticien-des-plantes
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Généticien des plantes

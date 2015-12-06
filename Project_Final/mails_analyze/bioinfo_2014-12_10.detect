@@ -1,27 +1,27 @@
-Le mail "bioinfo_2014-12_10" est globalement en : ENG
-[('ENG', 0.5923068050516664), ('FRA', 0.652160257742011)]
+Le mail "bioinfo_2014-12_10" est globalement en : english
+[('english', 0.08315034026442039), ('french', 0.8470859380781188)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] SMPGD’15— extended abstract submission deadline: 19 december
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear colleagues,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Please note the extended abstract submission deadline for the
 Statistical Methods for Post Genomic Data (SMPGD) conference: 19
 december 2014.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The 2015 annual workshop on Statistical Methods for Post Genomic Data
 (SMPGD) will take place at Ludwig-Maximilians University (LMU) in
 Munich, on February 12-13, 2015. Its aim is to present works from
@@ -33,21 +33,21 @@ genomics, Systems genetics, Epigenomics). Contributions on all
 application fields of genomics are welcome!
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Registration, free but mandatory, at the conference website:
 http://gagneurweb.genzentrum.lmu.de/smpgd15/#/smpgd2015
 <http://gagneurweb.genzentrum.lmu.de/smpgd15/#/smpgd2015>
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Best wishes,
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	the organizing committee.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	-- 
 -------------------------------------------------------------
 Stéphane ROBIN    INRA (dépt MIA) / AgroParisTech (dépt MMIP)
@@ -57,7 +57,7 @@ Personal page: www.agroparistech.fr/mia/robin
 tél: (33) (0)1.44.08.72.07         fax: (33) (0)1.44.08.16.66
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	
 
 ==========================================
@@ -65,34 +65,34 @@ Le paragraphe 8 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear colleagues,
 
 Please note the extended abstract submission deadline for the
 Statistical Methods for Post Genomic Data (SMPGD) conference: 19
 december 2014.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The 2015 annual workshop on Statistical Methods for Post Genomic Data
 (SMPGD) will take place at Ludwig-Maximilians University (LMU) in
 Munich, on February 12-13, 2015.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Its aim is to present works from
 mathematical to applied statistics, but also new areas in high
 throughput biology that could need new statistical developments.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We’ll
 have this year 4 keynote speakers (Wolfgang Huber, Guillaume Filion,
 Torsten Hothorn, and Sylvain Arlot) and 3 invited sessions (single-cell
 genomics, Systems genetics, Epigenomics).
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Contributions on all
 application fields of genomics are welcome!
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Registration, free but mandatory, at the conference website:
 http://gagneurweb.genzentrum.lmu.de/smpgd15/#/smpgd2015
 <http://gagneurweb.genzentrum.lmu.de/smpgd15/#/smpgd2015>
@@ -101,7 +101,7 @@ Best wishes,
 
 the organizing committee.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	-- 
 -------------------------------------------------------------
 Stéphane ROBIN    INRA (dépt MIA) / AgroParisTech (dépt MMIP)

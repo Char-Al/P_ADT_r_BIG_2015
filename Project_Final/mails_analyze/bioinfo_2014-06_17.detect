@@ -1,18 +1,18 @@
-Le mail "bioinfo_2014-06_17" est globalement en : ENG
-[('ENG', 0.5564555011128081), ('FRA', 1.221764670925186)]
+Le mail "bioinfo_2014-06_17" est globalement en : english
+[('english', 0.08016717565672019), ('french', 0.7442944564323061)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] BioNetVisA workshop (ECCB 2014): ABSTRACT SUBMISSION DEADLINE: JUNE
  6th
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	***********************************************************************************************************
 BioNetVisA workshop (ECCB 2014):
  From biological network reconstruction to data visualization and 
@@ -20,17 +20,17 @@ analysis in molecular biology and medicine.
 ***********************************************************************************************************
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	ABSTRACT SUBMISSION DEADLINE: JUNE 6th
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The preliminary scientific program is available:
 http://www.eccb14.org/program/workshops/bionetvisa
 https://sysbio.curie.fr/bionetvisa
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	* Venue
 The workshop will take place in Strasbourg, France, on September 7th, 
 2014, 9am-5.30pm as part of the European Conference on Computational 
@@ -38,14 +38,14 @@ Biology (ECCB’14).
 http://www.eccb14.org
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	* BioNetVisA keynote speakers
 Tom Freeman (University of Edinburgh, Edinburgh, UK)
 Hiroaki Kitano (Systems Biology Institute, Tokyo, Japan)
 Yosef Yarden (The Weizmann Institut of Science, Rehovot, Israel)
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	* BioNetVisA confirmed speakers
 Robin Haw (Ontario Institute for Cancer Research, Toronto, Canada)
 Henning Hermjakob (EMBL-European Bioinformatics Institute, Hinxton, UK)
@@ -55,7 +55,7 @@ Vladimir Kuznetsov (Bioinformatics Institute, Biopolis Singapore)
 Rune Linding (Technical University of Denmark, Lyngby, Denmark)
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	* Topics
 Graphical representation of biological knowledge
 Comprehensive signalling networks
@@ -66,7 +66,7 @@ context of networksNetwork modelling
 Basic research and clinical application of biological networks
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	* Audience
 The workshop is suitable for wide audience as database providers, 
 networks creators, computational and experimental biologists, biotech, 
@@ -75,11 +75,11 @@ to the different paradigms of network biology and the latest
 achievements in the field.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	With best regards,
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	BioNetVisA organising comitee:
 Inna Kuperstein (Institut Curie, Paris, France)
 Emmanuel Barillot (Institut Curie, Paris, France)
@@ -92,7 +92,7 @@ Mario Albrecht (University Medicine Greifswald, Greifswald, Germany)
 Benno Schwikowski (Institut Pasteur, France)
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -100,13 +100,13 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	***********************************************************************************************************
 BioNetVisA workshop (ECCB 2014):
  From biological network reconstruction to data visualization and 
 analysis in molecular biology and medicine.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	***********************************************************************************************************
 
 ABSTRACT SUBMISSION DEADLINE: JUNE 6th
@@ -120,7 +120,7 @@ The workshop will take place in Strasbourg, France, on September 7th,
 2014, 9am-5.30pm as part of the European Conference on Computational 
 Biology (ECCB’14).
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	http://www.eccb14.org
 
 * BioNetVisA keynote speakers
@@ -152,7 +152,7 @@ clinicians and anyone who is interested to be exposed
 to the different paradigms of network biology and the latest 
 achievements in the field.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	With best regards,
 
 BioNetVisA organising comitee:

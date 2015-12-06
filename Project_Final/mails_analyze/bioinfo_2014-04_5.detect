@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-04_5" est globalement en : ENG
-[('ENG', 0.2423809355962801), ('FRA', 0.6782976393223034)]
+Le mail "bioinfo_2014-04_5" est globalement en : english
+[('english', 0.04886291106374438), ('french', 0.5446319053893256)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Fwd: European Conference on Computational Biology 2014 : calls and
  deadlines
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Apparemment ce mail n'a pas été distribué sur la liste lundi dernier !
 Désolée du délai !
 MD Devignes
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	----- Mail transféré -----
 > De: "Marie-Dominique Devignes" <marie-dominique.devignes@loria.fr>
 > À: "bioinfo" <bioinfo@sfbi.fr>
@@ -195,14 +195,14 @@ Le paragraphe 2 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Apparemment ce mail n'a pas été distribué sur la liste lundi dernier !
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Désolée du délai !
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	MD Devignes
 
 ----- Mail transféré -----
@@ -214,7 +214,7 @@ La phrase 3 est en : FRA
 > 
 > We apologize for possible cross posting !!
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	> 
 > ----- Mail transféré -----
 > > De: "Marie-Dominique Devignes" <marie-dominique.devignes@loria.fr>
@@ -225,7 +225,7 @@ La phrase 4 est en : FRA
 > > 
 > > Hello !
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	> > Here are the latest news concerning ECCB 2014
 > > =========================================================
 > > ECCB 2014 : 13th European Conference in Computational Biology
@@ -251,7 +251,7 @@ La phrase 5 est en : ENG
 > > demonstrations which will be presented in the Industrial and Demo Track
 > > during the 13th European Conference on Computational Biology in Strasbourg.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : english
 	> > 
 > > KEY DATES
 > > March 26, 2014 – Call for Industrial and Demo Track Presentations Opens
@@ -265,22 +265,22 @@ La phrase 6 est en : FRA
 > > will run in the same building (Palais de la Musique et des Congrès,
 > > Strasbourg) as the main conference.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Demonstrators will be given a one-hour
 > > time-slot in which they are strongly encouraged to give two
 > > demos/presentations each of up to 30 minutes, including discussion and
 > > exchanges with the audience.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The aim of giving two demos in the one-hour
 > > slot is to reach as large a number of conference attendees as possible.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	> > Presenters must therefore finish their first half-hour slot on time to
 > > allow
 > > attendees to visit another demo/presentation.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	> > 
 > > FEES AND LOGISTICS
 > > The fee to present a demonstration at ECCB is:
@@ -289,38 +289,38 @@ La phrase 10 est en : ENG
 > > The above fee is additional to the personal registration fee that the
 > > individual presenters must also pay.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	> > 
 > > Presenters will be provided with internet access and any specific device
 > > they
 > > will need assuming these were requested in advance (e.g.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	large screen,
 > > projector and screen, specific operating system, etc.).
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Within each
 > > allocated time slot, presenters are free to present and demonstrate their
 > > software or services in any way they wish.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	For example, a demo might
 > > combine
 > > one or more structured talks with live demos and question-and-answer
 > > sessions.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Presenters are encouraged to provide handouts or other take-away
 > > materials for attendees.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	However, since several presentations might run
 > > simultaneously in the room, presenters are requested not to use music or
 > > any
 > > special effects which could be distracting to other presentations.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	> > 
 > > SUBMISSION GUIDELINES
 > > To submit a demo presentation proposal, please send the following
@@ -338,46 +338,46 @@ La phrase 17 est en : ENG
 > > committee and notification of acceptance will be forwarded no later than
 > > June 16, 2014.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	> > 
 > > Industrial and Demo Track presenters will be contacted by ECCB regarding
 > > the
 > > acceptance of their presentation, the schedule of their presentation, and
 > > logistics and payment.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Payment should not be made until organizations
 > > receive notification of acceptance.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	> > 
 > > The Industrial and Demo Track schedule will be included in the main
 > > conference program book using the presenters’ names and their affiliations,
 > > their short abstract (50 word maximum), and a link to the one-page summary
 > > PDF of their presentation will be posted on the conference web site.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	> > 
 > > Please note that the "Industrial and Demo Track" is distinct from the
 > > "Methods and Technologies for Computational Biology" conference topic which
 > > includes peer-reviewing of regular technology papers, but these are not
 > > mutually exclusive.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Submissions to each track are will be assessed
 > > separately.
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	> > 
 > > Major sponsors will be given precedence for Industrial and Demo Track
 > > presentation slots.
 ==========================================
-La phrase 24 est en : ENG
+La phrase 24 est en : english
 	> > 
 > > The call is available at http://www.eccb14.org/guidelines/demos
 > > Any questions about the call for papers should be sent to demo@eccb14.org.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	> > ==========================================================
 > > 
 > > *********************
@@ -386,13 +386,13 @@ La phrase 25 est en : ENG
 > > The lists of accepted workshops, tutorials and  satellite meetings are
 > > online.
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	> > http://www.eccb14.org/program/workshops
 > > http://www.eccb14.org/program/tutorials
 > > http://www.eccb14.org/program/satellite-meetings
 > > Check the web pages of each event for any update of the programs.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	> > 
 > > ==========================================================
 > > 
@@ -411,7 +411,7 @@ La phrase 27 est en : ENG
 > > Please help spread the word for the strongest possible participation by
 > > sharing this mail with your colleagues and collaborators.
 ==========================================
-La phrase 28 est en : ENG
+La phrase 28 est en : english
 	> > 
 > > We look forward to welcoming you in Strasbourg in September
 > > 

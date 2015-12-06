@@ -1,47 +1,47 @@
-Le mail "bioinfo_2014-11_36" est globalement en : FRA
-[('ENG', 0.2981070125988471), ('FRA', 0.6034335763411082)]
+Le mail "bioinfo_2014-11_36" est globalement en : french
+[('french', 0.09314545570710565), ('english', 2.4262166646438357)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Postes Chercheurs au CNRS - Campagne 2015
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Chers collègues,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	La liste des postes CNRS est désormais disponible à :
   http://gestionoffres.dsi.cnrs.fr/fo/offres/default-fr.php
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	J'attire votre attention plus particulièrement sur les 5 postes de chargé de recherche publiés en commission interdisciplinaire "Modélisation et analyse des données et des systèmes biologiques : approches informatiques, mathématiques et physiques" (CID51), qui peuvent intéresser des jeunes chercheurs inscrits sur cette liste (ou des jeunes collègues de votre entourage).
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Sur les 5 postes de chargé de recherche, 2 postes sont ouverts à tous les domaines de la CID, 2 correspondent à des candidats dont le projet de recherche devra s'inscrire dans des laboratoires relevant de l'INS2I, et un dans un laboratoire de l'INSMI.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Il est très fortement recommandé de consulter les critères de candidature et conseils aux candidats, disponibles sur le site de la CID 51:
   http://membres-timc.imag.fr/Michael.Blum/CID51/Conseil_aux_candidats_FAQ.html
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	La date limite de candidature est le 6 Janvier 2015.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Yann PONTY
 
 
@@ -50,7 +50,7 @@ Le paragraphe 8 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Chers collègues,
 
 La liste des postes CNRS est désormais disponible à :
@@ -58,16 +58,16 @@ La liste des postes CNRS est désormais disponible à :
 
 J'attire votre attention plus particulièrement sur les 5 postes de chargé de recherche publiés en commission interdisciplinaire "Modélisation et analyse des données et des systèmes biologiques : approches informatiques, mathématiques et physiques" (CID51), qui peuvent intéresser des jeunes chercheurs inscrits sur cette liste (ou des jeunes collègues de votre entourage).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Sur les 5 postes de chargé de recherche, 2 postes sont ouverts à tous les domaines de la CID, 2 correspondent à des candidats dont le projet de recherche devra s'inscrire dans des laboratoires relevant de l'INS2I, et un dans un laboratoire de l'INSMI.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Il est très fortement recommandé de consulter les critères de candidature et conseils aux candidats, disponibles sur le site de la CID 51:
   http://membres-timc.imag.fr/Michael.Blum/CID51/Conseil_aux_candidats_FAQ.html
 
 La date limite de candidature est le 6 Janvier 2015.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Cordialement,
 
 Yann PONTY

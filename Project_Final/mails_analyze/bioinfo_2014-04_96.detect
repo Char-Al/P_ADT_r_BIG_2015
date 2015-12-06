@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-04_96" est globalement en : FRA
-[('FRA', 0.5274301023528861), ('ENG', 3.3938018290658394)]
+Le mail "bioinfo_2014-04_96" est globalement en : french
+[('french', 0.5746521092738164), ('english', 0.6562010919289317)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] PhD positions in German-Canadian bioinformatics program
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : PhD positions in German-Canadian bioinformatics program
 Type de poste : Thèse
 Durée du poste : 3 years
@@ -27,12 +27,12 @@ Laboratoire : Computational Methods for the Analysis of the Diversity and
 Dynamics of Genomes
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/phd-positions-german-canadian-bioinformatics-program
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

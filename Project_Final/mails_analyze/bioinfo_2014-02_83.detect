@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_83" est globalement en : FRA
-[('FRA', 0.3782242332992164), ('ENG', 3.536972938923602)]
+Le mail "bioinfo_2014-02_83" est globalement en : french
+[('french', 0.41549598522488196), ('english', 1.2753666508403958)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IE] Ingénieur en calcul scientifique   pour la biologie des systèmes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur en calcul scientifique pour la biologie des  
 systèmes
 Type de poste : IE
@@ -26,7 +26,7 @@ Email du contact : vincent.fromion@jouy.inra.fr
 Laboratoire : INRA - Unité Mathématique, Informatique et Génome
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-en-calcul-scientifique-pour-la-biologie-des-syst%C3%A8mes
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-en-calcul-scientifique-pour-la-biologi
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur en calcul scientifique pour la biologie des  

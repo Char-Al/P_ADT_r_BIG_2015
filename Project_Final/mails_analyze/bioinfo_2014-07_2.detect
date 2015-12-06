@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-07_2" est globalement en : FRA
-[('ENG', 0.24053714168739326), ('FRA', 0.4915818510993085)]
+Le mail "bioinfo_2014-07_2" est globalement en : english (conflict)
+[('english', 0.5061048807605972), ('french', 0.5462920815103001)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position in high-throughput
  sequencing data analysis in the context of cancer studies
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Post-doctoral position in high-throughput sequencing
 data analysis in the context of cancer studies
 Type de poste : Post-doc / IR
@@ -28,12 +28,12 @@ Email du contact : bcsb71@curie.fr
 Laboratoire : Barillot lab
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/post-doctoral-position-high-throughput-sequencing-data-analysis-context-cancer-studies
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -41,7 +41,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : english
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

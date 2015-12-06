@@ -1,28 +1,28 @@
-Le mail "bioinfo_2014-01_45" est globalement en : FRA
-[('FRA', 0.609150701939825), ('ENG', 1.5032479550679096)]
+Le mail "bioinfo_2014-01_45" est globalement en : french
+[('french', 0.03879384063725381), ('english', 2.3011167020979872)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] CDD Ingénieur NGS - Institut Curie
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Un poste d'ingénieur en Bioinformatiques / Biostatistiques pour l'analyse des données NGS est ouvert au Centre de Recherche de
 l'Institut Curie (http://www.curie.fr) à Paris.
 Le candidat travaillera au sein de la plate-forme bioinformatique de l'unité U900 de Bioinformatique et Biologie des Systèmes du Cancer (U900
 INSERM - Mines ParisTech - Institut Curie,http://u900.curie.fr), en co-supervision avec l'Unité Génétique et Biologie du Développement (http://ugbdd.curie.fr/).
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Contexte :
 L'Institut Curie est un acteur majeur dans le traitement et la recherche contre le Cancer. Composé à la fois d'un Hôpital et d'un Centre de
 Recherche, l'expertise de l'Institut Curie s'étend de la recherche fondamentale au soin du patient. L'objectif du Centre de Recherche de
@@ -32,7 +32,7 @@ L'unité U900 compte près de 80 ingénieurs, chercheurs et étudiants en bioinf
 (mathématiciens, statisticiens, bioinformaticiens, informaticiens, biologistes, physiciens, médecins et bioanalystes).
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Missions :
 L'Institut Curie a aujourd'hui recours à des technologies de séquençage à haut débit (Illumina, Ion Torrent) qui génèrent plusieurs dizaines de
 gigabases de séquences par semaine et nécessitent des compétences et moyens bioinformatiques très importants.
@@ -43,7 +43,7 @@ Au sein de la plate-forme bioinformatique U900, l'Ingénieur en Bioinformatique 
 Il sera impliqué dans les projets de recherche utilisant les séquenceurs haut débit pour des analyses de type RNA-seq, ChIP-seq, re-séquençage, etc.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Profil recherché :
 Titulaire d'un diplôme d'ingénieur ou d'un master en biostatistique ou bioinformatique ou d'une thèse, vous disposez des compétences suivantes :
 - Fort intérêt pour le domaine des sciences biologiques.
@@ -54,17 +54,17 @@ Titulaire d'un diplôme d'ingénieur ou d'un master en biostatistique ou bioinfo
 - Avoir un bon sens relationnel, organisé, et consciencieux
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Une première expérience en analyse de données NGS sera appréciée.
 Lieu de travail : Paris (5e)
 Rémunération : Selon profil et expérience
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Adresser vos candidatures (CV, motivation et références par courrier électronique àbcsb68@curie.fr
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	-- 
 Nicolas Servant
 Plateforme de Bioinformatique
@@ -72,13 +72,13 @@ Unité 900 : Institut Curie - Inserm - Mines ParisTech
 26, rue d'Ulm - 75248 Paris Cedex 05 - FRANCE
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Email: Nicolas.Servant@curie.fr
 Tel: 01 56 24 69 85
 http://bioinfo.curie.fr/
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -86,70 +86,70 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Un poste d'ingénieur en Bioinformatiques / Biostatistiques pour l'analyse des données NGS est ouvert au Centre de Recherche de
 l'Institut Curie (http://www.curie.fr) à Paris.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le candidat travaillera au sein de la plate-forme bioinformatique de l'unité U900 de Bioinformatique et Biologie des Systèmes du Cancer (U900
 INSERM - Mines ParisTech - Institut Curie,http://u900.curie.fr), en co-supervision avec l'Unité Génétique et Biologie du Développement (http://ugbdd.curie.fr/).
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Contexte :
 L'Institut Curie est un acteur majeur dans le traitement et la recherche contre le Cancer.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Composé à la fois d'un Hôpital et d'un Centre de
 Recherche, l'expertise de l'Institut Curie s'étend de la recherche fondamentale au soin du patient.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	L'objectif du Centre de Recherche de
 l'Institut Curie est de développer la recherche fondamentale et d'utiliser ces connaissances pour améliorer le diagnostic, le pronostic,
 le traitement des cancers dans le cadre du continuum entre la recherche fondamentale et l'innovation au service du malade.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	L'unité U900 compte près de 80 ingénieurs, chercheurs et étudiants en bioinformatique, biostatistiques et biologie des systèmes
 (mathématiciens, statisticiens, bioinformaticiens, informaticiens, biologistes, physiciens, médecins et bioanalystes).
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Missions :
 L'Institut Curie a aujourd'hui recours à des technologies de séquençage à haut débit (Illumina, Ion Torrent) qui génèrent plusieurs dizaines de
 gigabases de séquences par semaine et nécessitent des compétences et moyens bioinformatiques très importants.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Au sein de la plate-forme bioinformatique U900, l'Ingénieur en Bioinformatique / Biostatistiques participera :
 - à la définition des stratégies d'analyse des données de grand séquençage,
 - à l'implémentation et à la mise en place des chaînes de traitement d'analyses,
 - aux analyses tertiaires des données en proche collaboration avec l'Unité Génétique et Biologie du Développement.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Il sera impliqué dans les projets de recherche utilisant les séquenceurs haut débit pour des analyses de type RNA-seq, ChIP-seq, re-séquençage, etc.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Profil recherché :
 Titulaire d'un diplôme d'ingénieur ou d'un master en biostatistique ou bioinformatique ou d'une thèse, vous disposez des compétences suivantes :
 - Fort intérêt pour le domaine des sciences biologiques.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	- Maîtrise des concepts et outils biostatistiques et bioinformatiques, en particulier ceux utilisés en génomique et pour les analyses de données NGS.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	- Maîtrise de l'environnement linux/unix.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	- Bonne connaissance des langages Perl et R (des connaissances en langage C,C++ seraient un plus).
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	- Avoir un bon niveau d'anglais écrit et oral.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	- Avoir un bon sens relationnel, organisé, et consciencieux
 
 Une première expérience en analyse de données NGS sera appréciée.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Lieu de travail : Paris (5e)
 Rémunération : Selon profil et expérience
 

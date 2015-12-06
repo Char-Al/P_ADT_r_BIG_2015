@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-05_44" est globalement en : ENG
-[('ENG', 0.19708944173092477), ('FRA', 0.9027326392480545)]
+Le mail "bioinfo_2014-05_44" est globalement en : english
+[('english', 0.055949086757677124), ('french', 0.4052756295429239)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ICTP workshop on "Interdisciplinary Views on Chromosome Structure and Function" - Last announcement
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Dear colleagues & friends,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	this is the last announcement about the ICTP workshop on "Interdisciplinary Views on Chromosome Structure and Function" (ICTP-Trieste, Italy, 15-19 September 2014).
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The workshop aims at bringing together scientists from a broad range of disciplines (biologists, physicists, applied mathematicians) in order to cover the most recent findings on the structure & dynamics of prokaryotic and eukaryotic chromosomes.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Topics include:
 - High-throughput and imaging methods for chromosome structure and dynamics;
 - Gene regulatory networks in eukaryotes and bacteria: experiments and modeling;
@@ -31,29 +31,29 @@ Le paragraphe 4 est en : ENG
 - System biology of gene expression and regulation.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Participation of PhD students and post-docs is strongly encouraged!
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	For complete information about the workshop, please visit:
 http://anrosa76.wix.com/chromosomesictp2014
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : french
 	For inscription, please visit:
 http://cdsagenda5.ictp.trieste.it/full_display.php?smr=0&ida=a13222
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Please, feel free to spread the announcement amongst whoever you think might be interested, and also to contact the organisers for further details.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	We thank you all for the attention!
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	With our best regards,
 the organising committee:
 Angelo Rosa
@@ -68,25 +68,25 @@ Matteo Marsili
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear colleagues & friends,
 
 this is the last announcement about the ICTP workshop on "Interdisciplinary Views on Chromosome Structure and Function" (ICTP-Trieste, Italy, 15-19 September 2014).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The workshop aims at bringing together scientists from a broad range of disciplines (biologists, physicists, applied mathematicians) in order to cover the most recent findings on the structure & dynamics of prokaryotic and eukaryotic chromosomes.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Topics include:
 - High-throughput and imaging methods for chromosome structure and dynamics;
 - Gene regulatory networks in eukaryotes and bacteria: experiments and modeling;
 - Large-scale physical modeling and simulation of chromosome structure;
 - System biology of gene expression and regulation.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Participation of PhD students and post-docs is strongly encouraged!
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	For complete information about the workshop, please visit:
 http://anrosa76.wix.com/chromosomesictp2014
 
@@ -96,10 +96,10 @@ http://cdsagenda5.ictp.trieste.it/full_display.php?smr=0&ida=a13222
 
 Please, feel free to spread the announcement amongst whoever you think might be interested, and also to contact the organisers for further details.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	We thank you all for the attention!
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	With our best regards,
 the organising committee:
 Angelo Rosa

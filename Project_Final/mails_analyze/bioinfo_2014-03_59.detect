@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-03_59" est globalement en : FRA
-[('ENG', 2.8251997125814805), ('FRA', 4.363637690306034)]
+Le mail "bioinfo_2014-03_59" est globalement en : french
+[('french', 0.7115095875829869), ('english', 8.926686388813453)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ECCB 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous
 Pour information, la date limite de soumission des articles pour la 
 conférence ECCB 2014
@@ -25,13 +25,13 @@ Hélène
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous
 Pour information, la date limite de soumission des articles pour la 
 conférence ECCB 2014
 a été décallée au 6 avril 2014.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : english
 	Pour plus d'infos, voir http://www.eccb14.org/key-dates
 Hélène
 

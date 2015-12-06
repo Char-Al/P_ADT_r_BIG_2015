@@ -1,26 +1,26 @@
-Le mail "bioinfo_2014-06_34" est globalement en : ENG
-[('ENG', 0.714469225358266), ('FRA', 1.3896686023100724)]
+Le mail "bioinfo_2014-06_34" est globalement en : english
+[('english', 0.018351472105757473), ('french', 0.29681110966907115)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Post a job "Head of the Bioinformatics Core Facility"
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	HEAD OF THE BIOINFORMATICS CORE UNIT
 Ref. Head of the Bioinformatics
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The Institute
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The CRG, the Centre for Genomic Regulation, is an international biomedical research institute of excellence, based in Barcelona, Spain, whose mission is to discover and advance knowledge for the benefit of society, public health and economic prosperity.
 The breadth of topics, approaches and technologies at the CRG permits a broad range of fundamental issues in life sciences and biomedicine to be addressed. Research at the CRG falls into four main areas: gene regulation, stem cells and cancer; cell and developmental biology; bioinformatics and genomics; and systems biology.
 With more than 350 scientists from 41 countries, the CRG excellence is based on an interdisciplinary, motivated and creative scientific team that is supported by high-end and innovative technologies. 
@@ -29,30 +29,30 @@ The centre's other main strategic goals are: to translate basic scientific findi
 For further information: www.crg.eu 
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Mission of the role
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The Bioinformatics Core Facility (www.crg.eu/bioinformatics_unit) is dedicated to providing advanced data analysis and support and expertise in programming to the PRBB as well as to other research institutes. The services provided include consultation on bioinformatics methods and software, development and implementation of pipelines for the analysis of genomics, transcriptomics, and proteomics datasets, data management and customized downstream data interpretation, software and database development, and the provision of access to computing resources, databases and specialized software. A major task of the Bioinformatics Core Facility is to train biologists in the use and application of bioinformatics tools for their research. The Bioinformatics Core Facility comprises the Unit Head and 3 experienced bioinformaticians who collaborate closely with the other Core Facilities and various CRG research groups. There is strong interaction regarding data sharing and software development with the groups of the Bioinformatics and Genomics program (http://big.crg.cat).
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	The mission of the Head of the Bioinformatics Core will be to scientifically and administratively manage the core facility. Daily operational tasks include discussion with scientists, project 
 planning and budget management. Additionally, the Unit Head is expected to organize a training curriculum, and to offer tutorials and courses to the scientific community. It is the Unit Heads responsibility to ensure that the services offered by the Unit are kept state-of-the-art, to ensure efficient use of resources, and to define a strategy for new application developments based on the scientific orientation and future requirements of the CRG/PRBB. Establishing excellent relations with researchers, the CRG IT group and the other administration departments, as well as with software companies will be essential.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Requirements
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Studies: 
 Degree in biology, computer science, computational biology, bioinformatics or biostatistics 
 A PhD in computer science, computational biology or bioinformatics is a plus
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Technical skills required:
 Experience in team management of min. 3 years
 Knowledge of Database Programming
@@ -60,7 +60,7 @@ Experience in Genome assembly and annotation, NGS and Proteomics analyses
 Experience in Perl or Python, R programming and UNIX 
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Additional beneficial skills:
 Be service-oriented and motivated to take on the challenge of leading a Core Facility
 Ability to provide service to a large, international scientific community
@@ -68,43 +68,43 @@ An open personality, and the capability to easily interact with people of differ
 Ability to influence, develop and communicate effectively with the team
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Languages: 
 Mandatory fluent level of English
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	The Offer
 Duration: Open-ended contract, subjected to periodical external evaluations
 Estimated annual gross salary: A competitive salary will be provided, which will be well matched relative to the cost of living in Barcelona, and adjusted according to experience
 Starting date: immediate hiring
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	We offer work in a highly stimulating environment with state-of-the-art infrastructure, providing the successful applicant with unique opportunities to develop a strong technical portfolio.
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Application Procedure
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	All applications must include:
 1.            A presentation letter addressed to Dr. Mònica Morales.
 2.            A full CV including contact details.?
 3.            Two contacts for further references.
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	All applications must be addressed to Dr. Mònica Morales and be submitted to the following email address: rrhh@crg.es. Please include as email subject the reference Head of the Bioinformatics.
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	Deadline: 
 Please submit your application by July 4th, 2014 (applications will be continually monitored).
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	Centre de Regulació Genòmica (CRG) 
 Doctor Aiguader 88, 08003 Barcelona (Spain)
 
@@ -114,71 +114,71 @@ Doctor Aiguader 88, 08003 Barcelona (Spain)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	HEAD OF THE BIOINFORMATICS CORE UNIT
 Ref.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Head of the Bioinformatics
 
 The Institute
 
 The CRG, the Centre for Genomic Regulation, is an international biomedical research institute of excellence, based in Barcelona, Spain, whose mission is to discover and advance knowledge for the benefit of society, public health and economic prosperity.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The breadth of topics, approaches and technologies at the CRG permits a broad range of fundamental issues in life sciences and biomedicine to be addressed.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Research at the CRG falls into four main areas: gene regulation, stem cells and cancer; cell and developmental biology; bioinformatics and genomics; and systems biology.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	With more than 350 scientists from 41 countries, the CRG excellence is based on an interdisciplinary, motivated and creative scientific team that is supported by high-end and innovative technologies.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The SCImago Institution Rankings (SIR) World Report 2013, covering the years 2007-2011, classifies the CRG in 9th position (according to the Q1 indicator, health sector) out of over 2,740 research institutions around the world.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	In Europe only three other research centres in the health sector have a higher Q1 indicator.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The centre's other main strategic goals are: to translate basic scientific findings into benefits for health and economic value for society; to provide advanced and excellent training to our scientists; and to communicate and establish a bilateral dialogue with society.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	For further information: www.crg.eu 
 
 Mission of the role
 
 The Bioinformatics Core Facility (www.crg.eu/bioinformatics_unit) is dedicated to providing advanced data analysis and support and expertise in programming to the PRBB as well as to other research institutes.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	The services provided include consultation on bioinformatics methods and software, development and implementation of pipelines for the analysis of genomics, transcriptomics, and proteomics datasets, data management and customized downstream data interpretation, software and database development, and the provision of access to computing resources, databases and specialized software.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	A major task of the Bioinformatics Core Facility is to train biologists in the use and application of bioinformatics tools for their research.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	The Bioinformatics Core Facility comprises the Unit Head and 3 experienced bioinformaticians who collaborate closely with the other Core Facilities and various CRG research groups.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	There is strong interaction regarding data sharing and software development with the groups of the Bioinformatics and Genomics program (http://big.crg.cat).
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	The mission of the Head of the Bioinformatics Core will be to scientifically and administratively manage the core facility.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Daily operational tasks include discussion with scientists, project 
 planning and budget management.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Additionally, the Unit Head is expected to organize a training curriculum, and to offer tutorials and courses to the scientific community.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	It is the Unit Heads responsibility to ensure that the services offered by the Unit are kept state-of-the-art, to ensure efficient use of resources, and to define a strategy for new application developments based on the scientific orientation and future requirements of the CRG/PRBB.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Establishing excellent relations with researchers, the CRG IT group and the other administration departments, as well as with software companies will be essential.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Requirements
 
 Studies: 
@@ -188,7 +188,7 @@ A PhD in computer science, computational biology or bioinformatics is a plus
 Technical skills required:
 Experience in team management of min.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	3 years
 Knowledge of Database Programming
 Experience in Genome assembly and annotation, NGS and Proteomics analyses 
@@ -210,38 +210,38 @@ Starting date: immediate hiring
 
 We offer work in a highly stimulating environment with state-of-the-art infrastructure, providing the successful applicant with unique opportunities to develop a strong technical portfolio.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Application Procedure
 
 All applications must include:
 1.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	A presentation letter addressed to Dr. Mònica Morales.
 ==========================================
-La phrase 23 est en : n
+La phrase 23 est en : non detect
 	2.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	A full CV including contact details.?
 ==========================================
-La phrase 25 est en : n
+La phrase 25 est en : non detect
 	3.
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	Two contacts for further references.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	All applications must be addressed to Dr. Mònica Morales and be submitted to the following email address: rrhh@crg.es.
 ==========================================
-La phrase 28 est en : ENG
+La phrase 28 est en : english
 	Please include as email subject the reference Head of the Bioinformatics.
 ==========================================
-La phrase 29 est en : ENG
+La phrase 29 est en : english
 	Deadline: 
 Please submit your application by July 4th, 2014 (applications will be continually monitored).
 ==========================================
-La phrase 30 est en : ENG
+La phrase 30 est en : english
 	Centre de Regulació Genòmica (CRG) 
 Doctor Aiguader 88, 08003 Barcelona (Spain)
 

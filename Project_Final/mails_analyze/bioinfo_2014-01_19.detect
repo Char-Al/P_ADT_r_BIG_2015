@@ -1,38 +1,38 @@
-Le mail "bioinfo_2014-01_19" est globalement en : ENG
-[('ENG', 0.16804702984629868), ('FRA', 0.7541680675946196)]
+Le mail "bioinfo_2014-01_19" est globalement en : english
+[('english', 0.035484662128438975), ('french', 0.4592778170717199)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Reminder: The third DNA metabarcoding spring school in Tromsø , Norway, 31 March - 5 April 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear colleague,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	I would like to wish you a happy new year and to remind you that the deadline
 for registering to the DNA metabarcoding spring school is the next Sunday.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Best regards
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Eric Coissac
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 		======= Registration deadline is 12 January 2014 =========
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	DNA metabarcoding is a rapidly evolving method for assessing biodiversity
 from environmental DNA. It has a wide range of applications: biodiversity
 monitoring, animal diet assessment, reconstruction of paleo communities,
@@ -44,14 +44,14 @@ skills, in addition to the classical ecological knowledge related to
 the considered research topic.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	The DNA metabarcoding spring school is now in its third edition and this
 year it is co-organized by the metabarcoding.org team and the Research
 School in Biosystematics - ForBio in Tromsø, Norway. Also this year,
 the school is divided into two parts.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 		- The DNA metabarcoding spring school (31 March - 3 April 2014), 
         that will be held during four days at the Skibotn Field Station,
 	- A two-day workshop at the Tromsø University Museum 
@@ -66,14 +66,14 @@ research during the evening sessions of the school, and (ii) present a
 corresponding poster during the workshop.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Registration
 Registration deadline is 12 January 2014
 This year the registration to the third DNA metabarcoding spring school
 is a two steps process.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 		- You need to be a ForBio member or associate.
              - Anyone can register as a ForBio associate. To register
                as a ForBio associate please visit the ForBio
@@ -86,7 +86,7 @@ Le paragraphe 10 est en : ENG
        filling out the registration page.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	All participants attending both the school and workshop can receive a
 ForBio course certificate stating the course description and number of
 ECTS earned (2 in this case). If you would like to receive University of
@@ -96,13 +96,13 @@ it. If you have any questions about University of Tromsø registration,
 please contact Sergei Drovetski (sdrovetski@gmail.com).
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	For more information go to     : http://metabarcoding.org/spip.php?article66
 or on the registration website :
 http://www.forbio.uio.no/events/courses/2014/metabarcoding_workshop.html
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	=========================================================================
 Dr Eric Coissac
 Associate professor
@@ -114,7 +114,7 @@ BP 53, 38041 Grenoble Cedex 9
 France
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Eric.Coissac@inria.fr
 
 ==========================================
@@ -122,13 +122,13 @@ Le paragraphe 14 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear colleague,
 
 I would like to wish you a happy new year and to remind you that the deadline
 for registering to the DNA metabarcoding spring school is the next Sunday.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Best regards
 
 Eric Coissac
@@ -140,66 +140,66 @@ Eric Coissac
 DNA metabarcoding is a rapidly evolving method for assessing biodiversity
 from environmental DNA.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	It has a wide range of applications: biodiversity
 monitoring, animal diet assessment, reconstruction of paleo communities,
 among others.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	DNA metabarcoding relies on molecular techniques such
 as PCR and next generation sequencing, and requires bioinformatics and
 biostatistics competence to analyze sequencing results.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	This approach
 integrates several scientific areas and requires a broad range of
 skills, in addition to the classical ecological knowledge related to
 the considered research topic.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The DNA metabarcoding spring school is now in its third edition and this
 year it is co-organized by the metabarcoding.org team and the Research
 School in Biosystematics - ForBio in Tromsø, Norway.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Also this year,
 the school is divided into two parts.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	- The DNA metabarcoding spring school (31 March - 3 April 2014), 
         that will be held during four days at the Skibotn Field Station,
 	- A two-day workshop at the Tromsø University Museum 
        that will follow the course (4 - 5 April 2014).
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Participants can register for both the school and workshop (25 places)
 or only for the workshop (no limit).
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	To register for University of Tromsø
 ECTS (BIO-8001 registration form) or a ForBio course certificate stating
 the number of ECTS (no additional registration needed), participants have
 to attend both the school and the workshop.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	As part of the course program,
 each participant is required to (i) give a 12 minute talk about their
 research during the evening sessions of the school, and (ii) present a
 corresponding poster during the workshop.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Registration
 Registration deadline is 12 January 2014
 This year the registration to the third DNA metabarcoding spring school
 is a two steps process.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	- You need to be a ForBio member or associate.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	- Anyone can register as a ForBio associate.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	To register
                as a ForBio associate please visit the ForBio
                membership page
@@ -207,27 +207,27 @@ La phrase 15 est en : ENG
                PhD student or hired as a postdoctoral fellow at a
                Norwegian, Swedish, Danish, or Finnish university.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	- Now that you have a ForBio status (member or associate) you
        have to register to the school and/or the workshop itself by
        filling out the registration page.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	All participants attending both the school and workshop can receive a
 ForBio course certificate stating the course description and number of
 ECTS earned (2 in this case).
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	If you would like to receive University of
 Tromsø ECTS (2) instead of a ForBio course certificate, please feel out
 the BIO-8001 registration form and follow the submission instructions on
 it.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	If you have any questions about University of Tromsø registration,
 please contact Sergei Drovetski (sdrovetski@gmail.com).
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	For more information go to     : http://metabarcoding.org/spip.php?article66
 or on the registration website :
 http://www.forbio.uio.no/events/courses/2014/metabarcoding_workshop.html
@@ -240,7 +240,7 @@ Université J. Fourier
 Domaine de Saint Martin d'Hères
 2233, rue de la piscine Bât.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	D Biologgie
 BP 53, 38041 Grenoble Cedex 9
 France

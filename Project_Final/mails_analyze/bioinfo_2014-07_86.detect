@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-07_86" est globalement en : FRA
-[('FRA', 0.43009214547902674), ('ENG', 8.216013175292714)]
+Le mail "bioinfo_2014-07_86" est globalement en : french
+[('french', 0.47662142769491067), ('english', 2.455940394901859)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur d' étudedéveloppeur
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur d'étude développeur
 Type de poste : CDD Ingénieur
 Durée du poste : 12 mois renouvelable jusqu'à 36 mois
@@ -26,12 +26,12 @@ Laboratoire : Institut Pierre Louis d’Epidémiologie et de Santé Publique
 UPMC
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9tude-d%C3%A9veloppeur
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 

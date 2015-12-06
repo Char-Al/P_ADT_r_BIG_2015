@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_58" est globalement en : FRA
-[('FRA', 0.26247376607668554), ('ENG', 2.9586938499148583)]
+Le mail "bioinfo_2014-10_58" est globalement en : french
+[('french', 0.4827025248259333), ('english', 1.0012876200217824)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Stage de M2 - Visualisation des   données de métagénomiques
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Stage de M2 - Visualisation des données de  
 métagénomiques
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : jplassais@enterome.com
 Laboratoire : Enterome
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-de-m2-visualisation-des-donn%C3%A9es-de-m%C3%A9tag%C3%A9nomiques
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/stage-de-m2-visualisation-des-donn%C3%A9es-de-m%C3%A9
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Stage de M2 - Visualisation des données de  

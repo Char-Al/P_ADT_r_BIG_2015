@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_65" est globalement en : FRA
-[('FRA', 0.7195752832319994), ('ENG', 1.1753709845772216)]
+Le mail "bioinfo_2014-11_65" est globalement en : french
+[('french', 0.6132298298148204), ('english', 0.9214930396123205)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IR] Ingénieur Bioinformatique/ Suppor  t Applicatif
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur Bioinformatique/ Support Applicatif
 Type de poste : IR
 Durée du poste :
@@ -25,7 +25,7 @@ Email du contact : lisa.perchenet@modisfrance.fr
 Laboratoire : MODIS
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformatique-support-applicatif
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformatique-support-applicatif
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur Bioinformatique/ Support Applicatif

@@ -1,38 +1,38 @@
-Le mail "bioinfo_2014-04_52" est globalement en : ENG
-[('ENG', 0.41269157189205485), ('FRA', 1.3913454288005525)]
+Le mail "bioinfo_2014-04_52" est globalement en : english
+[('english', 0.0487893714176362), ('french', 0.4431398074957934)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] "NGS and non-coding RNA data analysis" workshop
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	
 ==={ ONLY 15 days to submit your abstract for for oral presentation! }===---
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	"NGS and non-coding RNA data analysis" workshop II (2014)
 15-16 May, Plovdiv, Bulgaria, http://seqahead.plantgene.eu
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The Workshop will concentrate on current topics in NGS and non-coding RNAs, with special emphasis on data analysis. 
 Workshop Target:
 -biologists with research in ncRNA (ncRNA, small RNAs, miRNAs) applying or planning to apply Next Generation Sequencing technologies
 -bioinformaticians involved in data analysis or developing algorithms for data analysis of ncRNA data.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Our speakers:
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Dr. Thomas J. Hardcastle, University of Cambridge, UK
 Dr. Sébastien Pfeffer, Institut of molecular and cell biology of CNRS, France
 Dr. Andreas Gisel , Institute for Biomedical Technologies (ITB - CNR), Italy
@@ -46,19 +46,19 @@ Dr. Domenica DElia, Institute for Biomedical Technologies - CNR, Italy
 Dr. Runxuan Zhang, The James Hutton Institute, UK
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Register now, places are limited!
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	For more specific information please contact Dr. Vesselin Baev, vebaev@plantgene.eu
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	http://seqahead.plantgene.eu
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	----------------------------
 Dr. Vesselin Baev - University of Plovdiv, Bulgaria
 Dept.Plant Phys and Mol Biol, Bioinformatics group
@@ -70,11 +70,11 @@ Tel/Fax: +359 32 261 (560) - Web: http://plantgene.eu
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 ==={ ONLY 15 days to submit your abstract for for oral presentation!
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	}===---
 
 "NGS and non-coding RNA data analysis" workshop II (2014)
@@ -82,12 +82,12 @@ La phrase 2 est en : ENG
 
 The Workshop will concentrate on current topics in NGS and non-coding RNAs, with special emphasis on data analysis.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Workshop Target:
 -biologists with research in ncRNA (ncRNA, small RNAs, miRNAs) applying or planning to apply Next Generation Sequencing technologies
 -bioinformaticians involved in data analysis or developing algorithms for data analysis of ncRNA data.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Our speakers:
 
 Dr. Thomas J. Hardcastle, University of Cambridge, UK
@@ -96,7 +96,7 @@ Dr. Andreas Gisel , Institute for Biomedical Technologies (ITB - CNR), Italy
 Prof. Tamas Dalmay , University of East Anglia, Norwich Research Park, UK
 Prof. Artemis Hatzigeorgiou, B.S.R.C.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	"Alexander Fleming", Greece
 Dr. Hikmet Budak , Sabanci University (SU), Turkey
 Prof. Ruud de Maagd, Wageningen University, The Netherlands
@@ -107,7 +107,7 @@ Dr. Runxuan Zhang, The James Hutton Institute, UK
 
 Register now, places are limited!
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	For more specific information please contact Dr. Vesselin Baev, vebaev@plantgene.eu
 
 http://seqahead.plantgene.eu

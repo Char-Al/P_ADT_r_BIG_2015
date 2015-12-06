@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_89" est globalement en : FRA
-[('FRA', 0.2849690557527281), ('ENG', 1.0594193851690044)]
+Le mail "bioinfo_2014-09_89" est globalement en : french
+[('french', 0.39577218158490285), ('english', 0.8454956689569304)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDI autre] Bioinformaticien / Analyse   de données de génomique (microarras, NGS)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformaticien / Analyse de données de génomique  
 (microarras, NGS)
 Type de poste : CDI autre
@@ -26,7 +26,7 @@ Email du contact : catherine.lachuer@viroscan3d.com
 Laboratoire : ViroScan3D
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformaticien-analyse-de-donn%C3%A9es-de-g%C3%A9nomique-microarras-ngs
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/bioinformaticien-analyse-de-donn%C3%A9es-de-g%C3%A9no
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Bioinformaticien / Analyse de données de génomique  

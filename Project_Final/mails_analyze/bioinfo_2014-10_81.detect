@@ -1,38 +1,38 @@
-Le mail "bioinfo_2014-10_81" est globalement en : FRA
-[('FRA', 0.4365903147994711), ('ENG', 2.7006474508541927)]
+Le mail "bioinfo_2014-10_81" est globalement en : french
+[('french', 0.07982316803237642), ('english', 4.69556333700132)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] 12èmeédition des Rencontres des plates-formes de Bioinformatique du Grand Ouest (IFB-GO)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Comme chaque année les plates-formes de Bio-informatique de Biogenouest 
 organisent une journée de rencontres.
 Cette année, pour la 12ème édition de ces rencontres, la journée sera 
 consacrée *aux données en bio-informatique*.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	*Elle aura lieu le 14 Novembre 2014**à IRISA / INRIA de Rennes*
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Pour plus d'informations : http://registration.genouest.org/?ee=22
 *La participation à cet événement est gratuite* mais pour des raisons de 
 logistique l'*inscription est obligatoire*.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	-- 
 Re: tst
 
@@ -42,24 +42,24 @@ Re: tst
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Comme chaque année les plates-formes de Bio-informatique de Biogenouest 
 organisent une journée de rencontres.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Cette année, pour la 12ème édition de ces rencontres, la journée sera 
 consacrée *aux données en bio-informatique*.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	*Elle aura lieu le 14 Novembre 2014**à IRISA / INRIA de Rennes*
 
 Pour plus d'informations : http://registration.genouest.org/?ee=22
 *La participation à cet événement est gratuite* mais pour des raisons de 
 logistique l'*inscription est obligatoire*.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	-- 
 Re: tst
 

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_90" est globalement en : FRA
-[('FRA', 0.14523800571139261), ('ENG', 3.74506397807692)]
+Le mail "bioinfo_2014-09_90" est globalement en : french
+[('french', 0.3399563400619862), ('english', 1.0758563965859849)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Développement d'outils et de m  éthodes pour faciliter, accélérer et partage  r la reconstruction du réseaumétabolique  de   phytopathogènesbactériens
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développement d'outils et de méthodes pour faciliter,  
 accélérer et partager la reconstruction du réseau métabolique  de  
 phytopathogènes bactériens
@@ -27,7 +27,7 @@ Email du contact : ludovic.cottret@toulouse.inra.fr
 Laboratoire : LIPM, INRA
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-doutils-et-de-m%C3%A9thodes-pour-faciliter-acc%C3%A9l%C3%A9rer-et-partager-la-reconstruction-
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/d%C3%A9veloppement-doutils-et-de-m%C3%A9thodes-pour-f
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Développement d'outils et de méthodes pour faciliter,  

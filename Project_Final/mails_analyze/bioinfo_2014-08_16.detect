@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-08_16" est globalement en : FRA
-[('FRA', 0.6828513501686803), ('ENG', 0.8964383974345117)]
+Le mail "bioinfo_2014-08_16" est globalement en : french
+[('french', 0.1329046344359312), ('english', 2.4956263336679014)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] offre CDD développeur informatique 12 mois au CEFE Montpellier
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	PROPOSITION D’UN CDD DEVELOPPEUR (NIVEAU DUT) 
 
 Salaire Brut 
@@ -63,7 +63,7 @@ www.obs-saisons.fr
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	PROPOSITION D’UN CDD DEVELOPPEUR (NIVEAU DUT) 
 
 Salaire Brut 
@@ -72,50 +72,50 @@ Salaire Brut
 Durée 
 1 an à partir de septembre 2014.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Lieu de travail
 Centre d’Ecologie Fonctionnelle et Evolutive, Campus CNRS, 1919 route de Mende, Montpellier.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Responsable - Contact
 Isabelle Chuine 04 67 61 32 79 isabelle.chuine@cefe.cnrs.fr
 
 Description des missions
 La personne sera chargée de réaliser une nouvelle version d’une application conçue par les chercheurs, en collaboration avec ceux-ci.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Cette application (PHENOFIT) correspond à un modèle d’aire de répartition d’espèces d’arbres utilisé pour réaliser des projections d’aire de répartition d’arbres en fonction des conditions climatiques.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Elle est programmée sous Delphi (Pascal Objet) et la nouvelle version devra rester dans ce langage.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Les développements envisagés correspondent essentiellement à une restructuration profonde de l’application pour pouvoir passer d’un modèle qui ne considère qu’une seule espèce à un modèle qui considère plusieurs espèces en compétition entre elles, à l’intégration de nouvelles procédures issues de deux applications (PMP et SIERRA) conçues par les chercheurs de l’équipe et écrites en Delphi.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Compétences
 Bonnes connaissances en algorithmique.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Connaissance de langage de programmation type Delphi, C++, Java.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Connaissances de bases en statistiques souhaitables.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Une bonne maîtrise de l’anglais écrit ainsi que des connaissances en écologie seront appréciées.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Environnement et contexte de travail
 Le travail s’effectuera au CEFE (campus CNRS) sous la direction d’Isabelle Chuine, chercheur au CEFE.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	La personne devra interagir avec les post-doctorants, doctorants et étudiants en master de l’équipe, et sera amenée à interagir avec la plateforme Systèmes d’Information en Ecologie du CEFE.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	L’équipe dispose d’un petit serveur de calcul (sous Windows) et le CEFE dispose d’un cluster (également sous Windows).
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Envoyer CV, lettre de motivation à isabelle.chuine@cefe.cnrs.fr
 
 

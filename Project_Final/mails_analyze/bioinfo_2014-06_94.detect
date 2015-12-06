@@ -1,27 +1,27 @@
-Le mail "bioinfo_2014-06_94" est globalement en : ENG
-[('ENG', 0.5516649886925077), ('FRA', 0.8735321702003358)]
+Le mail "bioinfo_2014-06_94" est globalement en : english
+[('english', 0.020068854815079692), ('french', 0.4703630076612107)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Postdoc.Paris6.EvolutionBioinformatics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Hello,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Please find below the description of a postdoctoral position in 
 evolutionary biology and bioinformatics to 'Search for common genetic 
 goods in gene families and microbial communities’ in Paris 6 (UPMC).
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The theory of ‘genetic public goods’ recently postulated that genetic 
 sequences can be exploited in various combinations, even by distantly 
 related or unrelated evolving entities, i.e. microbial communities 
@@ -33,7 +33,7 @@ remain poorly known. Moreover, the rules of gene sharing also remain to
 be described.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	A wealth of molecular data from metagenomic, single cell metagenomic, 
 and microbial genomes projects is now available to tackle these 
 fundamental issues. Furthermore, sequence similarity networks offer a 
@@ -47,7 +47,7 @@ detection of some ‘sets’ of gene families that exploit common pools of
 genetic fragments/domains.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	To further develop the detection strategies of genetic public goods, our 
 lab is now looking for a post-doctoral fellow in bio-informatics, who 
 will be funded for up to three years by an ERC grant (for a salary of 
@@ -64,7 +64,7 @@ their distribution across genes and genomes to test what lifestyles
 favors their sharing.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	The candidate will work within a consortium of friendly 
 bioinformaticians (Philippe Lopez), evolutionary biologists (Eric 
 Bapteste), and graph theorists (Michel Habib, Laurent Viennot), and be 
@@ -77,14 +77,14 @@ position will start by November 2014, but interested candidates are
 invited to apply immediately.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Applicants are requested to send a detailed resume, a motivation letter, 
 a pdf copy of their PhD’s thesis, and the names of two scientific 
 referees to :
 eric.bapteste@snv.jussieu.fr
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	The first round of applications will be closed by July 15, 2014.
 
 
@@ -93,62 +93,62 @@ Le paragraphe 8 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Hello,
 
 Please find below the description of a postdoctoral position in 
 evolutionary biology and bioinformatics to 'Search for common genetic 
 goods in gene families and microbial communities’ in Paris 6 (UPMC).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The theory of ‘genetic public goods’ recently postulated that genetic 
 sequences can be exploited in various combinations, even by distantly 
 related or unrelated evolving entities, i.e.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	microbial communities 
 benefiting from the sharing of genes between their members, such as 
 photosynthesis genes between cyanophages and cyanobacteria, or such as 
 drug resistance genes within multispecies biofilm.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Yet, the nature, size 
 and diversity of microbial communities sharing such ‘genetic goods’ 
 remain poorly known.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Moreover, the rules of gene sharing also remain to 
 be described.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	A wealth of molecular data from metagenomic, single cell metagenomic, 
 and microbial genomes projects is now available to tackle these 
 fundamental issues.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Furthermore, sequence similarity networks offer a 
 promising complementary niche to phylogenetic methods to exploit the 
 complexity of these data.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	These graphs allow for mathematical analyses 
 of genetic diversity and similarities over dozens of millions of 
 sequences, providing novel ways to detect ‘clubs’ of genomes, which have 
 not necessarily evolved from a single last common ancestor yet exploit 
 some common genetic material.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Likewise, these networks allows for the 
 detection of some ‘sets’ of gene families that exploit common pools of 
 genetic fragments/domains.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	To further develop the detection strategies of genetic public goods, our 
 lab is now looking for a post-doctoral fellow in bio-informatics, who 
 will be funded for up to three years by an ERC grant (for a salary of 
 45,000 euros/year; approximately 2219 euros/ month after taxes).
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	The 
 candidate will take advantage of graph properties and algorithms from 
 the graph theory:
@@ -158,30 +158,30 @@ nodes and dozens of millions of edges;
 - to analyze domains combinations in genes and gene sharing in 
 communities, using bipartite graphs.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	- He/she will then analyze the functions of these ‘genetic goods’ and 
 their distribution across genes and genomes to test what lifestyles 
 favors their sharing.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	The candidate will work within a consortium of friendly 
 bioinformaticians (Philippe Lopez), evolutionary biologists (Eric 
 Bapteste), and graph theorists (Michel Habib, Laurent Viennot), and be 
 hosted in the University Pierre and Marie Curie in the center of Paris, 
 France.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	The current team description and publications can be found at: 
 http://www.evol-net.fr/
 Ideally, the candidate should have a good background in bio-informatics, 
 or graph theory and a strong interest for evolutionary biology.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	The 
 position will start by November 2014, but interested candidates are 
 invited to apply immediately.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Applicants are requested to send a detailed resume, a motivation letter, 
 a pdf copy of their PhD’s thesis, and the names of two scientific 
 referees to :

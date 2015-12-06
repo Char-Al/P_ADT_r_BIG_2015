@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-04_31" est globalement en : ENG
-[('ENG', 0.27127051834779536), ('FRA', 0.43948647058549817)]
+Le mail "bioinfo_2014-04_31" est globalement en : english
+[('english', 0.02876659223868841), ('french', 0.7679196668343685)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Postdoctoral positions in theoretical population genetics in UC Berkeley 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Postdoctoral positions in Montgomery Slatkin's lab (University of California, Berkeley)
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	There are two NIH-­&#8208;funded postdoctoral positions open in my laboratory for theoretical population geneticists. I am looking for people who have training in analytic theory and have programming skills in Python R or Perl and a low-­&#8208;level language such as C, C++ or Java. Research areas include the population genetics of humans, Neanderthals and Denisovans, models of range expansions, genomic tests of inbreeding and relatedness, and genomic tests of soft and hard selective sweeps. The lab will continue to collaborate on the Neanderthal Genome Project but there will be opportunities to work in other research areas as well. The initial appointment will be for two years with the possibility of renewal for up to two more years. The initial salary will be $50,000 per year with health insurance provided. The starting date is negotiable but must be within three years of when the Ph. D. or equivalent degree was awarded. 
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Qualified applicants should send a current CV and the names and email addresses of three references to slatkin@berkeley.edu. 
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Montgomery Slatkin, Department of Integrative Biology, University of California, Berkeley.
 
 
@@ -32,36 +32,36 @@ Le paragraphe 4 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Postdoctoral positions in Montgomery Slatkin's lab (University of California, Berkeley)
 
 There are two NIH-­&#8208;funded postdoctoral positions open in my laboratory for theoretical population geneticists.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	I am looking for people who have training in analytic theory and have programming skills in Python R or Perl and a low-­&#8208;level language such as C, C++ or Java.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Research areas include the population genetics of humans, Neanderthals and Denisovans, models of range expansions, genomic tests of inbreeding and relatedness, and genomic tests of soft and hard selective sweeps.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The lab will continue to collaborate on the Neanderthal Genome Project but there will be opportunities to work in other research areas as well.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The initial appointment will be for two years with the possibility of renewal for up to two more years.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The initial salary will be $50,000 per year with health insurance provided.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The starting date is negotiable but must be within three years of when the Ph.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	D. or equivalent degree was awarded.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Qualified applicants should send a current CV and the names and email addresses of three references to slatkin@berkeley.edu.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Montgomery Slatkin, Department of Integrative Biology, University of California, Berkeley.
 
 ==========================================

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_75" est globalement en : FRA
-[('FRA', 0.402858521193523), ('ENG', 8.617750077891419)]
+Le mail "bioinfo_2014-11_75" est globalement en : french
+[('french', 0.32853909393157926), ('english', 1.4430796061946103)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 - Meta-analyse transcriptomi  que des gènes LILR au cours des interactions h  ôte / pathogène
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 - Meta-analyse transcriptomique des gènes LILR au  
 cours des interactions hôte/pathogène
 Type de poste : Stage
@@ -27,7 +27,7 @@ Laboratoire : Service d'Immuno Virologie - Commissariat à l'Energie Atomique
 - Fontenay-aux-Roses
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-meta-analyse-transcriptomique-des-g%C3%A8nes-lilr-au-cours-des-interactions-h%C3%B4tepathog%C3%A8ne
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/m2-meta-analyse-transcriptomique-des-g%C3%A8nes-lilr-
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 - Meta-analyse transcriptomique des gènes LILR au  

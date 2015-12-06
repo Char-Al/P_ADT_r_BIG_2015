@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-01_32" est globalement en : ENG
-[('ENG', 0.45645940300004245), ('FRA', 0.8541725536494016)]
+Le mail "bioinfo_2014-01_32" est globalement en : english
+[('english', 0.04927023786618569), ('french', 0.40780068234443506)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Bioinformatician at CRG Genomics core facility - Barcelona
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	CRG Bioinformatician 
 CRG Programme: Core Facility 
 CRG Group: Genomics Unit
 Ref. CF – GEN - 301213
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	 
 The Institute 
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The Centre for Genomic Regulation (CRG) is an innovative
 centre for basic research created in December 2000 by initiative of the former
 Department of Universities, Research and Information Society(DURSI) of the
@@ -34,23 +34,23 @@ Pompeu Fabra University (UPF), and the Spanish Ministry of Economy and
 Competitiveness (MINECO). 
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The mission of the CRG is to promote excellent basic
 research in biomedicine, cutting-edge technology development and high quality
 training of the next generation of scientists. The CRG has a highly
 international culture and the working language is English.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	For more information visit our website 
 http://www.crg.eu
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Post Description 
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	We are currently looking for a bioinformatician familiar
 with the computing infrastructure used for Illumina HiSeq sequencing and
 sequencing data quality control. The Genomics Unit
@@ -62,11 +62,11 @@ instruments. Additional instrument purchases are foreseen as new technologies
 become available.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Main responsibilities 
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Specific tasks of the position in the context of
 sequencing data production bioinformatics will include: 
 Quality control of sequencing runs using established
@@ -79,11 +79,11 @@ Aside from that, the candidate will analyse data from technology
 implementation projects and experimental sequencing runs. 
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Candidate requirements 
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Experience:
 Experience in handling and analysing Illumina data and
 Proficiency with a scripting language such as Perl experienced in using R for
@@ -96,25 +96,25 @@ interest for scientific questions that can be addressed using novel high-through
 sequencing technologies.
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Degree:
 Master’s degree or Ph.D. in computer sciences,
 bioinformatics, biostatistics or related discipline. 
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Language:
 Fluent in English.
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Personality: 
 • Highly motivated candidate with interactive personality
 who shows independent work performance. 
 • Analytical skills and critical thinking
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Conditions
 • Estimated annual gross salary: 
 A competitive salary will be provided, which will be well
@@ -123,11 +123,11 @@ experience.
 • Starting date: February, 2014
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	Application procedure 
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	All applications must be addressed to Dr. Heinz
 Himmelbauer; and include a CV with a cover motivation letter and contacts of
 2-3 references indicating offer reference (Ref. CF – GEN - 301213) in the
@@ -135,17 +135,17 @@ subject line. Please submit your application to the following email address:
 rrhh@crg.es
 
 ==========================================
-Le paragraphe 18 est en : FRA
+Le paragraphe 18 est en : french
 	 
 Deadline
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	15th of March 2014 (note that applications will be
 continually monitored)
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	Centre de Regulació Genòmica (CRG) 
 Doctor Aiguader 88, 08003 Barcelona (Spain) 		 	   		  
 
@@ -154,13 +154,13 @@ Doctor Aiguader 88, 08003 Barcelona (Spain)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	CRG Bioinformatician 
 CRG Programme: Core Facility 
 CRG Group: Genomics Unit
 Ref.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	CF – GEN - 301213
 
  
@@ -171,23 +171,23 @@ centre for basic research created in December 2000 by initiative of the former
 Department of Universities, Research and Information Society(DURSI) of the
 Catalan Government.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The CRG is legally constituted as a non-profit foundation
 and has the participation from the Catalan Government through the Economy and
 Knowledge Department(DECO) and the Health Department (DS), as well asfrom the
 Pompeu Fabra University (UPF), and the Spanish Ministry of Economy and
 Competitiveness (MINECO).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The mission of the CRG is to promote excellent basic
 research in biomedicine, cutting-edge technology development and high quality
 training of the next generation of scientists.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The CRG has a highly
 international culture and the working language is English.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	For more information visit our website 
 http://www.crg.eu
 
@@ -198,22 +198,22 @@ We are currently looking for a bioinformatician familiar
 with the computing infrastructure used for Illumina HiSeq sequencing and
 sequencing data quality control.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The Genomics Unit
 (http://www.crg.es/genomics_unit) provides service to clients from within the
 CRG/PRBB, as well as to external users.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The Unit has established workflows for
 many different types of high-throughput sequencing projects, including genomic sequencing,
 mRNA-Seq, and ChIP-Seq, and is equipped with two Illumina HiSeq sequencing
 instruments.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Additional instrument purchases are foreseen as new technologies
 become available.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Main responsibilities 
 
 Specific tasks of the position in the context of
@@ -225,11 +225,11 @@ system)-based run management; Illumina software upgrades and maintenance of
 data archive; making sequencing data and run reports available to users of the
 Unit.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Aside from that, the candidate will analyse data from technology
 implementation projects and experimental sequencing runs.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Candidate requirements 
 
 Experience:
@@ -237,34 +237,34 @@ Experience in handling and analysing Illumina data and
 Proficiency with a scripting language such as Perl experienced in using R for
 data analysis.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Experience with managing databases and LIMS systems is
 essential.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Knowledge in molecular biology and/or molecular genetics
 is desirable.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	The post requires a client-oriented attitude, as well as an
 interest for scientific questions that can be addressed using novel high-throughput
 sequencing technologies.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Degree:
 Master’s degree or Ph.D. in computer sciences,
 bioinformatics, biostatistics or related discipline.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	Language:
 Fluent in English.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Personality: 
 • Highly motivated candidate with interactive personality
 who shows independent work performance.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	• Analytical skills and critical thinking
 
 
@@ -274,7 +274,7 @@ A competitive salary will be provided, which will be well
 matched relative to the cost of living in Barcelona, and adjusted according to
 experience.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	• Starting date: February, 2014
 
 
@@ -284,11 +284,11 @@ All applications must be addressed to Dr. Heinz
 Himmelbauer; and include a CV with a cover motivation letter and contacts of
 2-3 references indicating offer reference (Ref.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : french
 	CF – GEN - 301213) in the
 subject line.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Please submit your application to the following email address:
 rrhh@crg.es
 

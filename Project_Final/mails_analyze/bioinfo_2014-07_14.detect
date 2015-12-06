@@ -1,26 +1,26 @@
-Le mail "bioinfo_2014-07_14" est globalement en : ENG
-[('ENG', 0.9020121540647636), ('FRA', 1.2596922470630305)]
+Le mail "bioinfo_2014-07_14" est globalement en : english
+[('english', 0.26327071728759366), ('french', 0.27040771463843116)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Summer School Metabolomics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	je voudrais communique sur une Summer School de Métabolomique qui se tiendra du 15 au 20 septembre 2014 au sud de la Sardaigne
 http://sites.unica.it/metabolomicaclinica/events/summer-school-2014/
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The Summer School will offer students theoretical sessions with lectures by experts, and hands-on in the laboratory aimed to deepen the theoretical and practical knowledge for using the main tools (NMR, MS) techniques and computer analysis in the metabolomic and statistical fields. Particular attention will be given on how to manage a laboratory using a Laboratory Information Management System (LIMS) as well as data standardization and publication.
 The opening lecture of each day will have a more general nature and will be open to the participation of all researchers, students interested in the area.
 Topics:
@@ -33,7 +33,7 @@ Public repositories of public data
 Clinical metabolomics
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	-- Patricia RTomé
 
 
@@ -42,7 +42,7 @@ Le paragraphe 4 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous
 
 je voudrais communique sur une Summer School de Métabolomique qui se tiendra du 15 au 20 septembre 2014 au sud de la Sardaigne
@@ -50,13 +50,13 @@ http://sites.unica.it/metabolomicaclinica/events/summer-school-2014/
 
 The Summer School will offer students theoretical sessions with lectures by experts, and hands-on in the laboratory aimed to deepen the theoretical and practical knowledge for using the main tools (NMR, MS) techniques and computer analysis in the metabolomic and statistical fields.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Particular attention will be given on how to manage a laboratory using a Laboratory Information Management System (LIMS) as well as data standardization and publication.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The opening lecture of each day will have a more general nature and will be open to the participation of all researchers, students interested in the area.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Topics:
 Mass Spectrometer and Metabolomics
 NMR and Metabolomics

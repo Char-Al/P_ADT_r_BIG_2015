@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-05_72" est globalement en : FRA
-[('FRA', 0.505437319957555), ('ENG', 6.3011780826382235)]
+Le mail "bioinfo_2014-05_72" est globalement en : french
+[('french', 0.15567568030899653), ('english', 20.468385306094866)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] listes des premiers résumésacceptés /18th EBM 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour:  la listes des premiers résumés acceptés du 18th Evolutionary Biology Meeting at Marseilles
 sont disponibles à http://sites.univ-provence.fr/evol-cgr/  et à http://aeeb.fr/?page_id=333
  cordialement
@@ -23,7 +23,7 @@ Pierre
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour:  la listes des premiers résumés acceptés du 18th Evolutionary Biology Meeting at Marseilles
 sont disponibles à http://sites.univ-provence.fr/evol-cgr/  et à http://aeeb.fr/?page_id=333
  cordialement

@@ -1,46 +1,46 @@
-Le mail "bioinfo_2014-10_35" est globalement en : FRA
-[('FRA', 0.5117472973722695), ('ENG', 0.609453131250028)]
+Le mail "bioinfo_2014-10_35" est globalement en : french
+[('french', 0.05725704554481825), ('english', 0.988306773588706)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Prospectom 2014: Dead-Line extension !
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous,
 En raison d congrès HUPO à Madrid la semaine dernière, plusieurs participants ont demandé un report de dates limites. C'est pourquoi nous vous proposons: 
 - de soumettre avant le 20 octobre
 - de vous inscrire (gratuit mais obligatoire) avant le 1ier novembre
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	au plaisir de vous revoir à Grenoble,
 Thomas
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	-- 
 Thomas Burger - CNRS Researcher, PhD
 https://sites.google.com/site/thomasburgerswebpage/
 iRTSV-BGE (Univ. Grenoble Alpes - CNRS - CEA - INSERM)
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	CEA de Grenoble - Bât. 42b      | Tel.  : +33 4 38 78 22 72
 17 avenue des Martyrs           | Sec.  : +33 4 38 78 39 97
 38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51   
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Exploring the Dynamics of Proteomes : http://edyp.fr/
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	De : BURGER Thomas 232477 
 Envoyé : mardi 30 septembre 2014 18:27
 À : 'lg390@cam.ac.uk'; 'a.kinani@dcmr.polytechnique.fr'; 'adeline.mauries@ibpc.fr'; 'amna.klich@chu-lyon.fr'; 'amoussa@uae.ac.ma'; 'anais.baudot@univmed.fr'; 'Anna.Niarakis@gmail.com'; 'anne-laure.bulteau@univ-pau.fr'; 'antoine.maillard@ibs.fr'; 'aperret@genoscope.cns.fr'; 'Armelle.Buzy@sanofi.com'; ALPHA-BAZIN Béatrice; 'benno@pasteur.fr'; 'bernard.lyan@clermont.inra.fr'; 'bessem.brahim@hotmail.fr'; 'binta.dieme@etu.univ-tours.fr'; 'blandine.madjihounoum@etu.univ-tours.fr'; 'brice.bouyssiere@univ-pau.fr'; 'brun@tagc.univ-mrs.fr'; 'bull-i3@irit.fr'; 'c.absalon@ism.u-bordeaux1.fr'; 'carine.arnaudguilhem@univ-pau.fr'; 'carlos.afonso@univ-rouen.fr'; 'caroline.truntzer@clipproteomic.fr'; 'catherine.mercier@chu-lyon.fr'; 'ccarapito@unistra.fr'; 'charlene.granier@hei.fr'; 'charles.pineau@univ-rennes1.fr'; 'chavant@igbmc.fr'; 'chloe.friguet@univ-ubs.fr'; 'Christian.Rolando@univ-lille1.fr'; 'Christine.Froidevaux@lri.fr'; JUNOT Christophe; 'christophe.marchand@ibpc.fr'; 'claire.lopez@clermont.inra.fr'; 'claudia.cioli.c@gmail.com'; 'csanterre@isipca.fr'; 'damarys.loew@curie.fr'; 'darii.kat@gmail.com'; 'delphine.pflieger@univ-evry.fr'; 'delsuc@igbmc.fr'; 'dominique.harakat@univ-reims.fr'; 'donia.essaid@u-psud.fr'; 'edith.nicol@polytechnique.edu'; 'emmanuel.geneste@u-bordeaux.fr'; 'Emmanuelle.Meudec@supagro.inra.fr'; 'etienne.birmele@genopole.cnrs.fr'; 'fabricebray@yahoo.fr'; 'frederic.aubriet@univ-lorraine.fr'; 'frederique.lisacek@isb-sib.ch'; 'gaillard@sb-roscoff.fr'; 'garcia@ijm.univ-paris-diderot.fr'; 'gilles.ohanessian@polytechnique.edu'; 'giovanni.chiappetta@espci.fr'; 'gonzalez@ipbs.fr'; 'gregory.nuel@parisdescartes.fr'; 'guillaume.van-der-rest@u-psud.fr'; 'Hidde.de-Jong@inria.fr'; 'iman.haddad@espci.fr'; 'info@sfeap.fr'; 'Irena.Rusu@univ-nantes.fr'; 'isa@icsn.cnrs-gif.fr'; 'jean-christophe.thalabar@mi.parisdescartes.fr'; 'jean-daniel.fekete@inria.fr'; 'jean-luc.wolfender@unige.ch'; 'joel.lemaire@u-psud.fr'; 'Joelle.VINH@espci.fr'; 'julia.chamot-rooke@polytechnique.edu'; 'kaissi.ouafae@gmail.com'; 'laurent.chavatte@univ-pau.fr'; 'laurent.duval@ifpen.fr'; GERFAULT Laurent 177684; GUYON Laurent 217719; 'laurent.tichit@univ-amu.fr'; 'Laurent.Trilling@imag.fr'; 'ldebrauw@toulouse.inra.fr'; Liste GRE DSV-iRTSV-BGE; 'liste-proml@lri.fr'; 'lstuani@genoscope.cns.fr'; 'luc.camoin@inserm.fr'; SIGNOR Luca; 'marc.bonneu@u-bordeaux2.fr'; 'Maria-Cecilia.Arias@univ-lille1.fr'; 'Markus.Mueller@isb-sib.ch'; 'mathilde.farenc@etu.univ-rouen.fr'; 'meryam.taghi@parisdescartes.fr'; 'mh.devier@epoc.u-bordeaux1.fr'; 'mohamed.elati@issb.genopole.fr'; 'monsarat@ipbs.fr'; 'Nicolas.Thierry-Mieg@imag.fr'; 'nolwenn.prache@gmail.com'; 'obadias.mivumbi@ias.u-psud.fr'; 'Olivier.Langella@moulon.inra.fr'; 'oscar.hernandez@u-psud.fr'; 'pascale.leproux@parisdescartes.fr'; 'patrick.mayeux@inserm.fr'; 'patrick.poullet@curie.fr'; 'philippe.maitre@u-psud.fr'; 'philippe.marin@igf.cnrs.fr'; GRANGEAT Pierre 100249; 'pierre.lechat@pasteur.fr'; 'richard.cole@upmc.fr'; 'roland.thissen@obs.ujf-grenoble.fr'; 'salma.mesmoudi@gmail.com'; 'samuel.granjeaud@inserm.fr'; 'sandra.mounicou@univ-pau.fr'; 'sarah.cianferani@unistra.fr'; 'schiltz@ipbs.fr'; 'sfeap@listes.univ-rennes1.fr'; 'shakir.shakir@espci.fr'; 'sophie.bourcier@polytechnique.edu'; 'sophie.liuu@espci.fr'; 'spiro_khoury@yahoo.com'; 'stephane.bouchonnet@dcmr.polytechnique.fr'; 'tessier@nantes.inra.fr'; 'Thierry.Jouenne@univ-rouen.fr'; 'vandors@unistra.fr'; 'veronique.hourdel@pasteur.fr'; 'yburnod@gmail.com'; 'zivy@moulon.inra.fr'
@@ -48,45 +48,45 @@ Cc : Bisson Gilles <gilles.bisson@imag.fr> (gilles.bisson@imag.fr); renaud.blan
 Objet : Prospectom 2014: plus que 10 jours pour soumettre !
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Ouverture des soumissions pour l'Atelier PROSPECTOM 19, 20 et 21 Novembre 2014 - Grenoble
 ********************************************************
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Etude visuelle et interactive des protéomes par apprentissage statistique et intégration des bases de données et de connaissances spectrométriques et « omiques ».
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	********************************************************
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	http://prospectom.liglab.fr/atelier-2014
 https://easychair.org/conferences/?conf=prospectom2014
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Suite au succès de l'atelier Prospectom 2012, nous  proposons une seconde édition de cet atelier destinée à la protéomique computationnelle.
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Contexte et objectifs
 *********************
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	L'analyse du protéome, ou protéomique, vise à séquencer, identifier et quantifier de manière systématique l'ensemble des protéines exprimées dans un système biologique (organite, cellule, tissu, etc.), afin d'appréhender son fonctionnement global. Pour se faire, il est nécessaire d'avoir recours aux développements les plus récents de la biologie des systèmes, de la spectrométrie, mais aussi de la bio-informatique, de l'apprentissage automatique et de la visualisation de données. 
 En dépit des progrès considérables accomplis au cours de la dernière décennie en chromatographie et en spectrométrie de masse, permettant  la mise en place de méthodes d'analyse « à haut débit » (High Throughput Analysis), la cartographie complète des protéomes doit faire actuellement face à des verrous scientifiques et technologiques majeurs, relevant de l'informatique, et des statistiques. En effet, la complexité des données d'origine protéomique est telle, que leur gestion automatisée soulève de nouvelles questions fondamentales en apprentissage automatique (l'absence de vérité terrain rend difficile l'usage de benchmarks, les méthodes incrémentales ou semi-supervisées doivent être favorisées), en fouille de données ou en analyse visuelle (quel modèle ou représentation privilégier ?), en traitement du signal (comment gérer les fortes non-linéarités ?), en étude des réseaux sociaux (prise en compte de la multiplicité des relations dans les complexes protéiques), en ingénierie des connaissance (interopérabilité entre les points de vue génomique, protéomique, métabolomique, etc.). Dans ce contexte, la protéomique est à même de proposer une partie des défis qui demain amèneront l'état de l'art de ces champs à évoluer.
 Cet atelier, qui se déroule dans le cadre de l'appel MASTODONS « Grandes masses de données scientifiques » de la Mission Interdisciplinaire de CNRS, a pour objectif  de favoriser la structuration d'une communauté scientifique française autour des enjeux de la protéomique computationnelle.
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Programme de l'atelier
 **********************
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	Le mercredi 19 novembre après-midi sera consacré  à deux tutoriels (3h avec une pause médiane). Les participants pourront s'inscrire en fonction des places disponibles :
 * Laurent Gatto (Cambridge Center for Proteomics, Cambridge) An introduction to R/BioConductor for computational proteomics
 * Caroline Truntzer (Clinical Proteomic Platform, Dijon) Introduction aux biostatistiques pour la découverte de biomarqueurs Les jeudi 20 et vendredi 21 novembre seront consacrés à :
@@ -95,12 +95,12 @@ Le paragraphe 15 est en : FRA
 * Un groupe de travail sur la visualisation de données en protéomique
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	Conférenciers invités
 *********************
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	* Analyse protéomique :
 Yohann COUTE ( INSERMnserm, EDyP, Grenoble) : Défis de la protéomique quantitative label-free
 * Mesure en spectrométrie :
@@ -113,12 +113,12 @@ Jean-Philippe VERT (Institut Curie, Ecole des Mines, Paris) : Machine Learning f
 David AUBER (LaBRI, Bordeaux) : Visualisation interactive de données avec Tulip. Application aux réseaux biologiques
 
 ==========================================
-Le paragraphe 18 est en : FRA
+Le paragraphe 18 est en : french
 	Participation et appels à contribution
 **************************************
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	La participation à l'atelier PROSPECTOM est gratuite sous réserve d 'inscription (avant le 20 octobre). L'inscription permet d'assister aux 2 tutoriels, aux 5 séminaires invités, ainsi qu'aux sessions thématiques et au groupe de travail sur la visualisation.
 Par ailleurs, afin de faciliter les échanges et la mise en place de projets collaboratifs, les contributions sont encouragées. Ces contributions pourront être soit un résumé d'une page ou d'un article court de 2 à 4 pages (donnant lieu à présentation orale) soit à un poster. La date de soumission est fixée au 10 octobre (https://easychair.org/conferences/?conf=prospectom2014) 2014. Voici une liste (non exhaustive) des thèmes de l'atelier :
 * Caractérisation du signal spectral
@@ -144,23 +144,23 @@ Par ailleurs, afin de faciliter les échanges et la mise en place de projets col
 * Etc.
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	Dates importantes
 *****************
 
 ==========================================
-Le paragraphe 21 est en : FRA
+Le paragraphe 21 est en : french
 	* Soumission des contributions : avant le vendredi 10 octobre 2014
 * Inscriptions : avant le lundi 20 octobre 2014
 * PROSPECTOM 2014 : 19 novembre (tutoriels), 20 novembre et 21 novembre 2014 (à Grenoble)
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	Organisateurs et contacts
 *************************
 
 ==========================================
-Le paragraphe 23 est en : ENG
+Le paragraphe 23 est en : english
 	* Thomas Burger (CNRS, EDyP) : thomas.burger@cea.fr
 * Gilles Bisson (CNRS, LIG/AMA) : gilles.bisson@imag.fr
 * Christophe Bruley (CEA, EDyP) : christophe.bruley@cea.fr
@@ -169,25 +169,25 @@ Le paragraphe 23 est en : ENG
 * Yves Vandenbrouck (CEA, EDyP) : yves.vandenbrouck@cea.fr Laboratoires porteurs : Le Laboratoire d'Informatique de Grenoble (LIG, UMR 5217) et le laboratoire d'Etude de la Dynamique des Protéomes (iRTSV - CEA de Grenoble, FR 3425)
 
 ==========================================
-Le paragraphe 24 est en : ENG
+Le paragraphe 24 est en : english
 	http://prospectom.liglab.fr/atelier-2014
 https://easychair.org/conferences/?conf=prospectom2014
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	--
 Thomas Burger - CNRS Researcher, PhD
 https://sites.google.com/site/thomasburgerswebpage/
 iRTSV-BGE (Univ. Grenoble Alpes - CNRS - CEA - INSERM)
 
 ==========================================
-Le paragraphe 26 est en : FRA
+Le paragraphe 26 est en : french
 	CEA de Grenoble - Bât. 42b      | Tel.  : +33 4 38 78 22 72
 17 avenue des Martyrs           | Sec.  : +33 4 38 78 39 97
 38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51   
 
 ==========================================
-Le paragraphe 27 est en : ENG
+Le paragraphe 27 est en : english
 	Exploring the Dynamics of Proteomes : http://edyp.fr/
 
 
@@ -196,11 +196,11 @@ Le paragraphe 27 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous,
 En raison d congrès HUPO à Madrid la semaine dernière, plusieurs participants ont demandé un report de dates limites.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	C'est pourquoi nous vous proposons: 
 - de soumettre avant le 20 octobre
 - de vous inscrire (gratuit mais obligatoire) avant le 1ier novembre
@@ -214,19 +214,19 @@ Thomas Burger - CNRS Researcher, PhD
 https://sites.google.com/site/thomasburgerswebpage/
 iRTSV-BGE (Univ.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Grenoble Alpes - CNRS - CEA - INSERM)
 
 CEA de Grenoble - Bât.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	42b      | Tel.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	: +33 4 38 78 22 72
 17 avenue des Martyrs           | Sec.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	: +33 4 38 78 39 97
 38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51   
 
@@ -238,13 +238,13 @@ Envoyé : mardi 30 septembre 2014 18:27
 Cc : Bisson Gilles <gilles.bisson@imag.fr> (gilles.bisson@imag.fr); renaud.blanch@imag.fr; Sylvain Bouveret <sylvain.bouveret@imag.fr> (sylvain.bouveret@imag.fr)
 Objet : Prospectom 2014: plus que 10 jours pour soumettre !
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Ouverture des soumissions pour l'Atelier PROSPECTOM 19, 20 et 21 Novembre 2014 - Grenoble
 ********************************************************
 
 Etude visuelle et interactive des protéomes par apprentissage statistique et intégration des bases de données et de connaissances spectrométriques et « omiques ».
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	********************************************************
 
 http://prospectom.liglab.fr/atelier-2014
@@ -253,43 +253,43 @@ https://easychair.org/conferences/?conf=prospectom2014
 
 Suite au succès de l'atelier Prospectom 2012, nous  proposons une seconde édition de cet atelier destinée à la protéomique computationnelle.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Contexte et objectifs
 *********************
 
 L'analyse du protéome, ou protéomique, vise à séquencer, identifier et quantifier de manière systématique l'ensemble des protéines exprimées dans un système biologique (organite, cellule, tissu, etc.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	), afin d'appréhender son fonctionnement global.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Pour se faire, il est nécessaire d'avoir recours aux développements les plus récents de la biologie des systèmes, de la spectrométrie, mais aussi de la bio-informatique, de l'apprentissage automatique et de la visualisation de données.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	En dépit des progrès considérables accomplis au cours de la dernière décennie en chromatographie et en spectrométrie de masse, permettant  la mise en place de méthodes d'analyse « à haut débit » (High Throughput Analysis), la cartographie complète des protéomes doit faire actuellement face à des verrous scientifiques et technologiques majeurs, relevant de l'informatique, et des statistiques.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	En effet, la complexité des données d'origine protéomique est telle, que leur gestion automatisée soulève de nouvelles questions fondamentales en apprentissage automatique (l'absence de vérité terrain rend difficile l'usage de benchmarks, les méthodes incrémentales ou semi-supervisées doivent être favorisées), en fouille de données ou en analyse visuelle (quel modèle ou représentation privilégier ?
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	), en traitement du signal (comment gérer les fortes non-linéarités ?
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	), en étude des réseaux sociaux (prise en compte de la multiplicité des relations dans les complexes protéiques), en ingénierie des connaissance (interopérabilité entre les points de vue génomique, protéomique, métabolomique, etc.).
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Dans ce contexte, la protéomique est à même de proposer une partie des défis qui demain amèneront l'état de l'art de ces champs à évoluer.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Cet atelier, qui se déroule dans le cadre de l'appel MASTODONS « Grandes masses de données scientifiques » de la Mission Interdisciplinaire de CNRS, a pour objectif  de favoriser la structuration d'une communauté scientifique française autour des enjeux de la protéomique computationnelle.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Programme de l'atelier
 **********************
 
 Le mercredi 19 novembre après-midi sera consacré  à deux tutoriels (3h avec une pause médiane).
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	Les participants pourront s'inscrire en fonction des places disponibles :
 * Laurent Gatto (Cambridge Center for Proteomics, Cambridge) An introduction to R/BioConductor for computational proteomics
 * Caroline Truntzer (Clinical Proteomic Platform, Dijon) Introduction aux biostatistiques pour la découverte de biomarqueurs Les jeudi 20 et vendredi 21 novembre seront consacrés à :
@@ -311,7 +311,7 @@ Jean-Philippe VERT (Institut Curie, Ecole des Mines, Paris) : Machine Learning f
 * Visual analytics : 
 David AUBER (LaBRI, Bordeaux) : Visualisation interactive de données avec Tulip.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	Application aux réseaux biologiques
 
 Participation et appels à contribution
@@ -319,19 +319,19 @@ Participation et appels à contribution
 
 La participation à l'atelier PROSPECTOM est gratuite sous réserve d 'inscription (avant le 20 octobre).
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	L'inscription permet d'assister aux 2 tutoriels, aux 5 séminaires invités, ainsi qu'aux sessions thématiques et au groupe de travail sur la visualisation.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	Par ailleurs, afin de faciliter les échanges et la mise en place de projets collaboratifs, les contributions sont encouragées.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	Ces contributions pourront être soit un résumé d'une page ou d'un article court de 2 à 4 pages (donnant lieu à présentation orale) soit à un poster.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	La date de soumission est fixée au 10 octobre (https://easychair.org/conferences/?conf=prospectom2014) 2014.
 ==========================================
-La phrase 25 est en : FRA
+La phrase 25 est en : french
 	Voici une liste (non exhaustive) des thèmes de l'atelier :
 * Caractérisation du signal spectral
 * Nature des spectres non assignés par les outils d'identification
@@ -355,7 +355,7 @@ La phrase 25 est en : FRA
 * Outils d'exploration de grands réseaux
 * Etc.
 ==========================================
-La phrase 26 est en : FRA
+La phrase 26 est en : french
 	Dates importantes
 *****************
 
@@ -382,19 +382,19 @@ Thomas Burger - CNRS Researcher, PhD
 https://sites.google.com/site/thomasburgerswebpage/
 iRTSV-BGE (Univ.
 ==========================================
-La phrase 27 est en : FRA
+La phrase 27 est en : french
 	Grenoble Alpes - CNRS - CEA - INSERM)
 
 CEA de Grenoble - Bât.
 ==========================================
-La phrase 28 est en : ENG
+La phrase 28 est en : english
 	42b      | Tel.
 ==========================================
-La phrase 29 est en : ENG
+La phrase 29 est en : english
 	: +33 4 38 78 22 72
 17 avenue des Martyrs           | Sec.
 ==========================================
-La phrase 30 est en : FRA
+La phrase 30 est en : french
 	: +33 4 38 78 39 97
 38054 Grenoble Cedex 9, France  | Fax   : +33 4 38 78 50 51   
 

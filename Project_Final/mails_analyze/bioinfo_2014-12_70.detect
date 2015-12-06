@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_70" est globalement en : FRA
-[('FRA', 0.49036682117317376), ('ENG', 1.7617737548689165)]
+Le mail "bioinfo_2014-12_70" est globalement en : french
+[('french', 0.4475941388734183), ('english', 0.7633252655568584)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] Prediction of binding kinetics   data of protein/ligand complexes using bioinfo  rmatics tools
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Prediction of binding kinetics data of protein/ligand  
 complexes using bioinformatics tools
 Type de poste : Thèse
@@ -26,7 +26,7 @@ Email du contact : pascal.bonnet@univ-orleans.fr
 Laboratoire : ICOA
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/prediction-binding-kinetics-data-proteinligand-complexes-using-bioinformatics-tools
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/prediction-binding-kinetics-data-proteinligand-comple
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Prediction of binding kinetics data of protein/ligand  

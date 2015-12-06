@@ -1,26 +1,26 @@
-Le mail "bioinfo_2014-02_15" est globalement en : ENG
-[('FRA', 0.8437414751977448), ('ENG', 8.216427183232552)]
+Le mail "bioinfo_2014-02_15" est globalement en : english
+[('english', 0.021256340795016808), ('french', 0.35436178900383114)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Thèse . UPMC. Evolutionary Bioinformatics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Hello,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Please find below the description of an open PhD position on 'the search 
 for mosaic genes and genomes in large similarity networks'.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Gene and genome evolution undergo complex processes. In addition to 
 gradual mutations within a single gene family or within a particular 
 genome, genes and genomes component parts can also originate from 
@@ -34,7 +34,7 @@ remains an important empirical question to determine the extent, and the
 functional/ evolutionary import of genes and genomes mosaicism.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	A wealth of molecular data from metagenomic, single cell metagenomic, 
 and microbial genomes projects is now available to address this 
 fundamental issue, and to broaden the scope of the evolutionary research 
@@ -46,7 +46,7 @@ similarities over dozens of millions of sequences, providing a powerful
 framework to address the evolution of composite genes and genomes.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	To further develop these tools, our lab is now looking for a PhD student 
 in bio-informatics, who will be funded for three years by an ERC grant 
 (for a salary of 35,000 euros/year; approximately 1753 euros/ month 
@@ -55,17 +55,17 @@ algorithms from the graph theory, inspired from the study of social,
 regulatory, and interaction networks to develop approaches that:
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	- considerably expand our existing networks by gathering sequences from 
 publically available genomic and metagenomic projects;
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	- systematize the detection of patterns suggestive of composite 
 sequences and genomes.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	The candidate will then investigate the biological properties 
 (functional, taxonomical and environmental distributions) of the 
 candidate composite sequences to infer what functions, genomes and 
@@ -73,7 +73,7 @@ environments are more affected by gene remodeling, with a particular
 focus on the evolution of photosynthetic eukaryotes.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	He/ she will work within a consortium of friendly bioinformaticians 
 (Philippe Lopez), evolutionary biologists (Eric Bapteste), and graph 
 theorists (Michel Habib, Laurent Viennot), and be hosted in the 
@@ -82,7 +82,7 @@ current team description and publications can be found at:
 http://www.evol-net.fr/
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	The candidate should have a good background in bio-informatics, and/or a 
 strong interest for evolutionary biology. The position will start as 
 soon as possible, ideally as early as June 2014. Applicants are 
@@ -91,7 +91,7 @@ their master’s thesis, and the names of two scientific referees to :
 eric.bapteste@snv.jussieu.fr
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	The applications will be closed May 15, 2014.
 
 
@@ -100,59 +100,59 @@ Le paragraphe 11 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Hello,
 
 Please find below the description of an open PhD position on 'the search 
 for mosaic genes and genomes in large similarity networks'.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Gene and genome evolution undergo complex processes.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	In addition to 
 gradual mutations within a single gene family or within a particular 
 genome, genes and genomes component parts can also originate from 
 distinct source lineages due to non-tree like evolutionary processes.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Such gene and genome remodeling produces adaptations through changes 
 involving genetic material from outside a given gene family and/ or a 
 given genome.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Therefore, studying this reticulate evolution requires the 
 development of original methods to study not only the origin of a given 
 adaptation but eventually the multiple origins of a given adaptation.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	It 
 remains an important empirical question to determine the extent, and the 
 functional/ evolutionary import of genes and genomes mosaicism.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	A wealth of molecular data from metagenomic, single cell metagenomic, 
 and microbial genomes projects is now available to address this 
 fundamental issue, and to broaden the scope of the evolutionary research 
 program to investigate evolving objects with multiple origins.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Sequence 
 similarity networks offer a promising complementary niche to 
 phylogenetic methods, to further exploit the complexity of these data.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	These graphs allow for mathematical analyses of genetic diversity and 
 similarities over dozens of millions of sequences, providing a powerful 
 framework to address the evolution of composite genes and genomes.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	To further develop these tools, our lab is now looking for a PhD student 
 in bio-informatics, who will be funded for three years by an ERC grant 
 (for a salary of 35,000 euros/year; approximately 1753 euros/ month 
 after taxes).
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	The candidate will take advantage of graph properties and 
 algorithms from the graph theory, inspired from the study of social, 
 regulatory, and interaction networks to develop approaches that:
@@ -163,20 +163,20 @@ publically available genomic and metagenomic projects;
 - systematize the detection of patterns suggestive of composite 
 sequences and genomes.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	The candidate will then investigate the biological properties 
 (functional, taxonomical and environmental distributions) of the 
 candidate composite sequences to infer what functions, genomes and 
 environments are more affected by gene remodeling, with a particular 
 focus on the evolution of photosynthetic eukaryotes.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	He/ she will work within a consortium of friendly bioinformaticians 
 (Philippe Lopez), evolutionary biologists (Eric Bapteste), and graph 
 theorists (Michel Habib, Laurent Viennot), and be hosted in the 
 University Pierre and Marie Curie in the center of Paris, France.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	The 
 current team description and publications can be found at: 
 http://www.evol-net.fr/
@@ -184,11 +184,11 @@ http://www.evol-net.fr/
 The candidate should have a good background in bio-informatics, and/or a 
 strong interest for evolutionary biology.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	The position will start as 
 soon as possible, ideally as early as June 2014.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Applicants are 
 requested to send a detailed resume, a motivation letter, a pdf copy of 
 their master’s thesis, and the names of two scientific referees to :

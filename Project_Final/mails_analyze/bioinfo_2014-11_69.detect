@@ -1,58 +1,58 @@
-Le mail "bioinfo_2014-11_69" est globalement en : ENG
-[('ENG', 0.6924486678327022), ('FRA', 1.1296067129903096)]
+Le mail "bioinfo_2014-11_69" est globalement en : english
+[('english', 0.17011001507512147), ('french', 0.22809466009870266)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Gtpb] IB14S GTPB Training course announcement
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Dear all
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The Applications for the Introductory Bioinformatics course, secode  
 edition in 2014, IB14S are open
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	   IMPORTANT DATES for this Course
     Deadline for applications: December 4th 2014
     Latest notification of acceptance: December 5th 2014
     Course date: December 9th - December 12th 2014
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Details are available here:
 http://gtpb.igc.gulbenkian.pt/bicourses/IB14S/
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	this will be a 4 day long introduction that provides basic skills in  
 biological sequence handling and analysis. The last day will be  
 focusing on the analysis of Next Generation Sequencing data at a basic  
 level.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	This is one of our most popular courses.
 Applications are approved and accepted in order of arrival and we only  
 have 20 seats.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Best wishes
 Pedro Fernandes
 GTPB Coordinator
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	-- 
 Pedro Fernandes
 Instituto Gulbenkian de Ciência
@@ -63,7 +63,7 @@ Tel +351 21 4407912
 http://gtpb.igc.gulbenkian.pt
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	_______________________________________________
 Gtpb mailing list
 Gtpb@igc.gulbenkian.pt
@@ -75,7 +75,7 @@ https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 Dear all
 
@@ -93,19 +93,19 @@ http://gtpb.igc.gulbenkian.pt/bicourses/IB14S/
 this will be a 4 day long introduction that provides basic skills in  
 biological sequence handling and analysis.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The last day will be  
 focusing on the analysis of Next Generation Sequencing data at a basic  
 level.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	This is one of our most popular courses.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Applications are approved and accepted in order of arrival and we only  
 have 20 seats.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Best wishes
 Pedro Fernandes
 GTPB Coordinator

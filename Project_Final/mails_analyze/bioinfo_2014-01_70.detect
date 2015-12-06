@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_70" est globalement en : FRA
-[('FRA', 0.22306754150534103), ('ENG', 1.0359003630802164)]
+Le mail "bioinfo_2014-01_70" est globalement en : french
+[('french', 0.4128636813069952), ('english', 0.773714130256979)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Identification de nouveaux doma  ines protéiques dans le génome du paludisme
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Identification de nouveaux domaines protéiques dans le  
 génome du paludisme
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : brehelin@lirmm.fr
 Laboratoire : IBC - LIRMM
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/identification-de-nouveaux-domaines-prot%C3%A9iques-dans-le-g%C3%A9nome-du-paludisme
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/identification-de-nouveaux-domaines-prot%C3%A9iques-d
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Identification de nouveaux domaines protéiques dans le  

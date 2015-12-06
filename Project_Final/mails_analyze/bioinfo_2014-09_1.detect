@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_1" est globalement en : FRA
-[('FRA', 0.2979710813213477), ('ENG', 2.0680745923086823)]
+Le mail "bioinfo_2014-09_1" est globalement en : french
+[('french', 0.4481372840552312), ('english', 1.1065760845848147)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur d' études p  our la maintenance des banques PRODOM/HOGENOM
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur d'études pour la maintenance des banques  
 PRODOM/HOGENOM
 Type de poste : CDD Ingénieur
@@ -26,7 +26,7 @@ Email du contact : guy.perriere@univ-lyon1.fr
 Laboratoire : Biométrie et Biologie Evolutive
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9tudes-pour-la-maintenance-des-banques-prodomhogenom
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9tudes-pour-la-maintenance-des-b
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur d'études pour la maintenance des banques  

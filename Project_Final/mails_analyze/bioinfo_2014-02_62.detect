@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_62" est globalement en : ENG
-[('ENG', 0.6033476506879248), ('FRA', 1.038432508033063)]
+Le mail "bioinfo_2014-02_62" est globalement en : english (conflict)
+[('english', 0.6907547244423543), ('french', 0.8205997050242868)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Postdoctoral Fellowship in Computational Biology
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Postdoctoral Fellowship in Computational Biology
 Type de poste : Post-doc / IR
 Durée du poste : 2.5 ans
@@ -25,7 +25,7 @@ Email du contact : m.p.cox@massey.ac.nz
 Laboratoire : Insitute of Fundamental Sciences, Massey University
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/postdoctoral-fellowship-computational-biology
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/postdoctoral-fellowship-computational-biology
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Postdoctoral Fellowship in Computational Biology

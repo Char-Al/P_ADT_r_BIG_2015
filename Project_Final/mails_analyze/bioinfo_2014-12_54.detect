@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_54" est globalement en : ENG
-[('ENG', 0.5763765287925997), ('FRA', 1.4844894660833232)]
+Le mail "bioinfo_2014-12_54" est globalement en : english (conflict)
+[('english', 0.9228020544069083), ('french', 1.0968349272973694)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] computational network biology
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : computational network biology
 Type de poste : Post-doc / IR
 Durée du poste : 18 to 24 months
@@ -25,7 +25,7 @@ Email du contact : jacques.colinge@inserm.fr
 Laboratoire : IRCM
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/computational-network-biology
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/computational-network-biology
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : computational network biology

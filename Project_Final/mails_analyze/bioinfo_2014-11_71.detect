@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_71" est globalement en : FRA
-[('FRA', 0.13709338022662085), ('ENG', 0.25476156953564344)]
+Le mail "bioinfo_2014-11_71" est globalement en : french
+[('french', 0.5884286268657158), ('english', 1.104637665579505)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Algorithmique des structures d  ’ARN localement optimales
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Algorithmique des structures d’ARN localement  
 optimales
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : helene.touzet@lifl.fr
 Laboratoire : LIFL
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/algorithmique-des-structures-d%E2%80%99arn-localement-optimales
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/algorithmique-des-structures-d%E2%80%99arn-localement
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Algorithmique des structures d’ARN localement  

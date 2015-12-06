@@ -1,33 +1,33 @@
-Le mail "bioinfo_2014-09_86" est globalement en : FRA
-[('FRA', 0.42340502978785044), ('ENG', 0.4821826880510708)]
+Le mail "bioinfo_2014-09_86" est globalement en : french
+[('french', 0.04000596889895783), ('english', 1.9998588411487568)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Formation Bioinformatique - Fouille de données et analyses NGS avec le langage R
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation en Bio-informatique intitulée : "Fouille de données et analyses NGS avec le langage R" à Bordeaux sur 4 jours (du lundi 13/10/2014 au jeudi 16/10/2014). Il reste encore quelques places disponibles donc n'hésitez pas à vous inscrire !
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Adresse:
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex). Ce campus est situé à proximité du CHU Pellegrin.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Objectifs:
 1. Savoir manipuler et visualiser de grands ensembles de données biologiques
 2. Analyser et aligner des séquences venant de reads NGS
@@ -35,23 +35,23 @@ Le paragraphe 5 est en : FRA
 4. Enrichir les résultats en utilisant des bases de connaissances
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Prérequis:
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Avoir des bases d'utilisation de ligne de commande 
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Programme:
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	 Cette formation introduira le langage R, les techniques de fouille et de visualisation de données, ainsi que les paquetages Bioconductor permettant l'analyse de données issues du séquençage nouvelle génération.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	- Le langage R et ses commandes essentielles
 - Les formats de fichiers, la lecture et l'écriture de données tabulées
 - Les outils de manipulation et de transformation de grands tableaux
@@ -63,27 +63,27 @@ Le paragraphe 10 est en : FRA
 - Les techniques d'enrichissement (DAVID, GO, SPIA)
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	-Dernière demi-journée consacrée à un atelier pédagogique d'analyse et de réflexion sur les données apportées par les stagiaires
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Cette formation sera organisée en courtes présentations (20 % du temps) suivies de travaux pratiques basés sur des jeux de données réels (80 % du temps). 
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous:
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	http://cnrsformation.cnrs.fr/stage.php?stage=14284
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	Pour toute information complémentaire (public visé, niveau, cout, ...), merci de contacter:
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	- Aurélien Barré (aurelien.barre@u-bordeaux.fr)
 - Hayssam Soueidan (massyah@gmail.com)
 
@@ -93,39 +93,39 @@ Le paragraphe 16 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation en Bio-informatique intitulée : "Fouille de données et analyses NGS avec le langage R" à Bordeaux sur 4 jours (du lundi 13/10/2014 au jeudi 16/10/2014).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Il reste encore quelques places disponibles donc n'hésitez pas à vous inscrire !
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Adresse:
 
 Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex).
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Ce campus est situé à proximité du CHU Pellegrin.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Objectifs:
 1.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Savoir manipuler et visualiser de grands ensembles de données biologiques
 2.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Analyser et aligner des séquences venant de reads NGS
 3.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Déterminer les ANRs messagers différentiellement exprimés à l'aide de données RNA-Seq
 4.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Enrichir les résultats en utilisant des bases de connaissances
 
 Prérequis:
@@ -136,7 +136,7 @@ Programme:
 
  Cette formation introduira le langage R, les techniques de fouille et de visualisation de données, ainsi que les paquetages Bioconductor permettant l'analyse de données issues du séquençage nouvelle génération.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	- Le langage R et ses commandes essentielles
 - Les formats de fichiers, la lecture et l'écriture de données tabulées
 - Les outils de manipulation et de transformation de grands tableaux
@@ -151,7 +151,7 @@ La phrase 10 est en : FRA
 
 Cette formation sera organisée en courtes présentations (20 % du temps) suivies de travaux pratiques basés sur des jeux de données réels (80 % du temps).
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous:
 
 http://cnrsformation.cnrs.fr/stage.php?stage=14284

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_19" est globalement en : FRA
-[('FRA', 0.36757201621078855), ('ENG', 0.5423153942948966)]
+Le mail "bioinfo_2014-11_19" est globalement en : french
+[('french', 0.5247709843215496), ('english', 0.9065286458958655)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 : développementd’un outi  l d’analyse du ribosome profiling
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 : développement d’un outil d’analyse du ribosome  
 profiling
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : stephane.le_crom@upmc.fr
 Laboratoire : IBPS et IBENS
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-d%C3%A9veloppement-d%E2%80%99un-outil-d%E2%80%99analyse-du-ribosome-profiling
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m2-d%C3%A9veloppement-d%E2%80%99un-outil-d%E2%80%99an
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 : développement d’un outil d’analyse du ribosome  

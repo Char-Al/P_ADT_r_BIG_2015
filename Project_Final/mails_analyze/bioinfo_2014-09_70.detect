@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_70" est globalement en : FRA
-[('FRA', 0.562185890397279), ('ENG', 2.8882330788993134)]
+Le mail "bioinfo_2014-09_70" est globalement en : french
+[('french', 0.39390665408894465), ('english', 0.7156624735586655)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Stage de M2 « Etude transcript  omique du contrôle du nombre de pétales chez   le rosier »
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Stage de M2 « Etude transcriptomique du contrôle du  
 nombre de pétales chez le rosier »
 Type de poste : Stage
@@ -27,7 +27,7 @@ Laboratoire : Laboratoire "Reproduction et Développement des Plantes" - ENS
 Lyon
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-de-m2-%C2%AB-etude-transcriptomique-du-contr%C3%B4le-du-nombre-de-p%C3%A9tales-chez-le-rosier-%C2%BB
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/stage-de-m2-%C2%AB-etude-transcriptomique-du-contr%C3
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Stage de M2 « Etude transcriptomique du contrôle du  

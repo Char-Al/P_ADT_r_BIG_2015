@@ -1,28 +1,28 @@
-Le mail "bioinfo_2014-09_20" est globalement en : FRA
-[('FRA', 0.6033219334449189), ('ENG', 32.46358834203252)]
+Le mail "bioinfo_2014-09_20" est globalement en : french
+[('french', 0.1665965324653314), ('english', 8.246422336545594)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] SAVE THE DATE : atelier BioSyL " Multiéchelles ", vendredi 26/09 à l'ENS Lyon
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 BioSyL a le plaisir de vous convier à son prochain atelier, le 26 
 septembre de 14h à 17h30, à l'ENS Lyon, salle des Thèses, site Jacques 
 Monod.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Cet atelier sera consacré à la MODELISATION MULTI-ECHELLES EN BIOLOGIE.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	La biologie connait actuellement une expansion de l’utilisation de la 
 modélisation. Pour modéliser des systèmes complexes, deux types 
 d’approches émergent : la modélisation mono-échelle de tous les éléments 
@@ -30,12 +30,12 @@ d’un système et la modélisation "multi-échelles", où l'on introduit
 explicitement plusieurs échelles caractéristiques du système.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Qu’est ce que la modélisation multi-échelles ? Quelle pourrait-être son 
 utilité en biologie ?
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Cet atelier, destiné à tout chercheur en biologie, a vocation à 
 présenter et discuter les problématiques de la modélisation 
 multi-échelles : formalisation d’hypothèses à une échelle, motivation 
@@ -44,75 +44,75 @@ travers l'exemple d’un modèle, adaptation des modèles à la question
 biologique, retour vers l'expérimentation ...
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Après une introduction à la modélisation des systèmes biologiques, 
 l’atelier abordera deux types d’exemples de modélisation multi-échelles 
 : dynamique des populations dans le cadre de l’hématopoïèse, et 
 dynamique de la chromatine.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	> Programme :
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	14h00 : Tour de table
 Brève présentation des participants et des intervenants, des attentes et 
 des apports possibles
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	14h30 : Introduction à la modélisation des systèmes biologiques
 Arezki BOUDAOUD, Reproduction et Développement des Plantes, Laboratoire 
 Joliot-Curie, ENS de Lyon
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	15h00 : Introduction à la modélisation multi-échelle illustrée par 
 l’hématopoïèse
 Fabien CRAUSTE, Institut Camille Jordan, UCB Lyon I, Equipe-projet INRIA 
 Dracula
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	15h45 : Pause café
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	16h15 : De l'ADN à la structure des chromosomes
 Ralf EVERAERS, Centre Blaise Pascal, Laboratoire de Physique, ENS de 
 Lyon
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	17h00 :  Discussion générale
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Modérateur :
 Benjamin AUDIT, Laboratoire de Physique, ENS de Lyon
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Plus d'informations sur le BioSyl.org:
 http://www.biosyl.org/news/atelier-multiechelles-en-biologie-ens-lyon
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : english
 	Plan d'accès : 
 http://www.ens-lyon.eu/informations-pratiques/acces-a-l-ens-de-lyon--81546.kjsp?RH=ENS-LYON-FR-PRATIQUE
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	Vous pouvez dès à présent vous inscrire sur le Doodle suivant :
 > http://doodle.com/zhsyeeyvw9tbsa2w
 
 ==========================================
-Le paragraphe 18 est en : FRA
+Le paragraphe 18 est en : french
 	Avec nos meilleures salutations
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	Emilie NOGUEZ, BioSyL
 Chargée de développement
 Bat Gregor Mendel (ex 741)
@@ -123,7 +123,7 @@ emilie.noguez@biosyl.org
 http://www.biosyl.org
 
 ==========================================
-Le paragraphe 20 est en : n
+Le paragraphe 20 est en : non detect
 	
 
 ==========================================
@@ -131,33 +131,33 @@ Le paragraphe 20 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 BioSyL a le plaisir de vous convier à son prochain atelier, le 26 
 septembre de 14h à 17h30, à l'ENS Lyon, salle des Thèses, site Jacques 
 Monod.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Cet atelier sera consacré à la MODELISATION MULTI-ECHELLES EN BIOLOGIE.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	La biologie connait actuellement une expansion de l’utilisation de la 
 modélisation.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Pour modéliser des systèmes complexes, deux types 
 d’approches émergent : la modélisation mono-échelle de tous les éléments 
 d’un système et la modélisation "multi-échelles", où l'on introduit 
 explicitement plusieurs échelles caractéristiques du système.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Qu’est ce que la modélisation multi-échelles ?
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Quelle pourrait-être son 
 utilité en biologie ?
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Cet atelier, destiné à tout chercheur en biologie, a vocation à 
 présenter et discuter les problématiques de la modélisation 
 multi-échelles : formalisation d’hypothèses à une échelle, motivation 
@@ -170,7 +170,7 @@ l’atelier abordera deux types d’exemples de modélisation multi-échelles
 : dynamique des populations dans le cadre de l’hématopoïèse, et 
 dynamique de la chromatine.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	> Programme :
 
 14h00 : Tour de table

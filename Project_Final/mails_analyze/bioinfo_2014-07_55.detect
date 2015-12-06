@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_55" est globalement en : ENG
-[('FRA', 1.416910588107564), ('ENG', 1.4986254481830568)]
+Le mail "bioinfo_2014-07_55" est globalement en : french
+[('french', 0.952918503282106), ('english', 1.0545918365546685)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][ Thèse ] Functional genomics: "Trafficking and secretory pathways in the systems biology of dysferlin deficiency"
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : french
 	Intitulé du poste : Functional genomics: "Trafficking and secretory 
 pathways
 in the systems biology of dysferlin deficiency"
@@ -29,12 +29,12 @@ Laboratoire : Institut de Myologie, Paris, et le Charité Medical Faculty /
 Max Delbrück Center for Molecular Medicine, Berlin
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/functional-genomics-trafficking-and-secretory-pathways-systems-biology-dysferlin-deficiency
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -42,7 +42,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

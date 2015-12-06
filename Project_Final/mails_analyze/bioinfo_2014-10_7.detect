@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_7" est globalement en : ENG
-[('ENG', 0.4938520869882818), ('FRA', 0.5643653110681704)]
+Le mail "bioinfo_2014-10_7" est globalement en : english
+[('english', 0.4001098967535549), ('french', 0.42432352932863887)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] 2015 course on computational molecular evolution
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une très bonne école à l'EBI, 13-24/04/2015
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	-------- Message original --------
 Sujet:     [come2014] 2015 course on computational molecular evolution
 Date :     Sat, 04 Oct 2014 12:34:39 +0200
@@ -23,25 +23,25 @@ De :     Alexandros Stamatakis <alexandros.stamatakis@gmail.com>
 Pour :     come2014@googlegroups.com
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Applications are now open for the 7th summer school on computational
 molecular evolution organized by Nick Goldman, Aidan Budd, Ziheng Yang,
 Laura Emery and myself. The application deadline is November 14.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	For further info please visit:
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	http://www.wellcome.ac.uk/Education-resources/Courses-and-conferences/Advanced-Courses-and-Scientific-Conferences/Advanced-Courses/WTX049272.htm
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Please, forward this to your friends and colleagues.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	-- 
 Directeur de Recherche
 Institut de Biologie Computationnelle
@@ -53,7 +53,7 @@ BAT 5, 860 rue de St Priest
 http://www.lirmm.fr/gascuel
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	
 
 ==========================================
@@ -61,7 +61,7 @@ Le paragraphe 8 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une très bonne école à l'EBI, 13-24/04/2015
 
 -------- Message original --------
@@ -75,17 +75,17 @@ Applications are now open for the 7th summer school on computational
 molecular evolution organized by Nick Goldman, Aidan Budd, Ziheng Yang,
 Laura Emery and myself.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The application deadline is November 14.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	For further info please visit:
 
 http://www.wellcome.ac.uk/Education-resources/Courses-and-conferences/Advanced-Courses-and-Scientific-Conferences/Advanced-Courses/WTX049272.htm
 
 Please, forward this to your friends and colleagues.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	-- 
 Directeur de Recherche
 Institut de Biologie Computationnelle

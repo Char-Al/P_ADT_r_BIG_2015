@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-04_70" est globalement en : FRA
-[('ENG', 0.7983956173158031), ('FRA', 0.9564408592582044)]
+Le mail "bioinfo_2014-04_70" est globalement en : french
+[('french', 0.6973228493609248), ('english', 0.9352323349913104)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] bioinformatique / bioanalyse
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Intitulé du poste : bioinformatique / bioanalyse
 Type de poste : Post-doc / IR
 Durée du poste : 30 mois
@@ -29,12 +29,12 @@ Email du contact : cbattail@cng.fr
 Laboratoire : Centre National de Génotypage
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformatique-bioanalyse
 
 ==========================================
-Le paragraphe 5 est en : n
+Le paragraphe 5 est en : non detect
 	
 
 ==========================================
@@ -42,7 +42,7 @@ Le paragraphe 5 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr

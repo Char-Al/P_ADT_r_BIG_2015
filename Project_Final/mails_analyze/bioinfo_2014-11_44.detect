@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_44" est globalement en : FRA
-[('ENG', 0.30833939452325), ('FRA', 0.594806439360252)]
+Le mail "bioinfo_2014-11_44" est globalement en : french
+[('french', 0.4730187200667123), ('english', 1.6467148143983152)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] bioinformatics, evolution (mainly phylogenetics) and ecoinformatics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : bioinformatics, evolution (mainly phylogenetics) and  
 ecoinformatics
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact : makarenkov.vladimir@uqam.ca
 Laboratoire : Bioinformatique (Université du Québec à Montréal)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatics-evolution-mainly-phylogenetics-and-ecoinformatics
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/bioinformatics-evolution-mainly-phylogenetics-and-eco
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : bioinformatics, evolution (mainly phylogenetics) and  

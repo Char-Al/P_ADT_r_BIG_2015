@@ -1,36 +1,36 @@
-Le mail "bioinfo_2014-11_17" est globalement en : FRA
-[('FRA', 0.8258828730082489), ('ENG', 57.15674639296284)]
+Le mail "bioinfo_2014-11_17" est globalement en : french
+[('french', 0.02790127549955748), ('english', 4.052977944393481)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] soutenance d'HDR F. Picard, jeudi 4 décembreà Lyon
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 bonjour à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	j'ai le plaisir de vous inviter à ma soutenance d'HDR qui aura lieu le 4
 décembre, à l'université de Lyon, amphi Jordan (Bat. Camille Jordan), à 13h30, ainsi qu'au pôt
 qui suivra.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Le titre : "A statistical tour of genomic data"
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Le jury :
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	I. Eckley, Université de Lancaster, rapporteur
 A.-L. Fougères, Université Lyon 1, présidente
 W. Huber, EMBL Heidelberg, rapporteur
@@ -40,11 +40,11 @@ M. Rattray, Université de Manchester, examinateur
 J.-P. Vert, Mines ParisTech, rapporteur
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Le résumé:
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	L’analyse de données génomiques actuelles comporte une séquence de
 tâches spécifiques ayant pour objectif commun d’extraire au mieux
 l’information biologique. La part de l’analyse statistique dans cette
@@ -55,7 +55,7 @@ j'ai choisi d'explorer plusieurs pistes de modélisation, et d'étudier
 les problématiques statistiques associées.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Un premier aspect de ce travail concerne le développement de modèles
 statistiques intégrant l'organisation spatiale des données le long du
 génome. Le séquencage des génomes complets, en particulier celui du
@@ -79,7 +79,7 @@ des techniques de vraisemblance pénalisée pour les modèles mixtes en
 grande dimension.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Cette avalanche de données a été largement soutenue par des progrès
 techniques qui produisent des données en masse, notamment les données de
 séquençage à haut débit. Les questions statistiques associées à ces
@@ -96,7 +96,7 @@ l'analyse différentielle de pics, s'appuyant sur une modélisation
 originale des données de séquencage par des processus ponctuels.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Au cours d'une partie indépendante je présenterai les développements
 statistiques effectués sur la thématique de l'analyse des réseaux
 biologiques. ­Les données structurées sous forme de réseau se sont
@@ -115,12 +115,12 @@ de données structurées selon un réseau connu à l'aide de techniques de
 pénalisation (fused-lasso généralisé).
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Amicalement,
 Franck
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	-- 
 Franck Picard - CNRS
 Laboratoire Biometrie et Biologie Evolutive
@@ -132,7 +132,7 @@ fax : +33 (0)4 72 43 13 88
 http://lbbe.univ-lyon1.fr/-Picard-Franck-.html
 
 ==========================================
-Le paragraphe 13 est en : n
+Le paragraphe 13 est en : non detect
 	
 
 ==========================================
@@ -140,18 +140,18 @@ Le paragraphe 13 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 bonjour à tous,
 
 j'ai le plaisir de vous inviter à ma soutenance d'HDR qui aura lieu le 4
 décembre, à l'université de Lyon, amphi Jordan (Bat.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Camille Jordan), à 13h30, ainsi qu'au pôt
 qui suivra.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Le titre : "A statistical tour of genomic data"
 
 Le jury :
@@ -170,120 +170,120 @@ L’analyse de données génomiques actuelles comporte une séquence de
 tâches spécifiques ayant pour objectif commun d’extraire au mieux
 l’information biologique.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	La part de l’analyse statistique dans cette
 séquence s’est incroyablement complexifiée ces dernières années étant
 donnée la diversité des données produites en masse.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ce travail résume
 mon activité de recherche sur la période 2005-2014 au cours de laquelle
 j'ai choisi d'explorer plusieurs pistes de modélisation, et d'étudier
 les problématiques statistiques associées.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Un premier aspect de ce travail concerne le développement de modèles
 statistiques intégrant l'organisation spatiale des données le long du
 génome.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Le séquencage des génomes complets, en particulier celui du
 génome humain a permis de positionner les données génomiques et
 d’étudier l’impact de leur organisation chromosomique sur différents
 processus biologiques.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Cette problématique concerne par exemple
 l'analyse des données de variations du nombre de copies des séquences
 génomiques (Copy Number Variation Data), pour lesquelles il s'agit de
 détecter les régions chromosomiques qui présentent un écart au nombre de
 copies attendu.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Dans un premier temps je présenterai des modèles de
 détection de ruptures pour analyser ces données sur des ensembles
 d'individus, puis une nouvelle stratégie de modélisation reposant sur
 des modèles fonctionels et les ondelettes.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Ces modèles permettent de
 détecter des groupes de patients présentant des caractéristiques
 génomiques homogènes à l'aide de techniques de classification de
 courbes.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Un aspect important de ce travail réside également dans la
 modélisation de la variabilité inter-individuelle des observations à
 l'aide de modèles mixtes fonctionnels.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Seront présentées également les
 méthodes de réduction de dimension associées à ces modèles, fondées sur
 des techniques de vraisemblance pénalisée pour les modèles mixtes en
 grande dimension.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Cette avalanche de données a été largement soutenue par des progrès
 techniques qui produisent des données en masse, notamment les données de
 séquençage à haut débit.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Les questions statistiques associées à ces
 données sont très diverses, et je me concentrerai sur les données
 alignées le long des génomes (en particulier du génome humain).
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Les
 développements statistiques présentés sont au coeur d'un projet
 collaboratif ayant pour objectif la cartographie et l' étude des
 origines de réplication du génome humain.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Une question statistique
 récurrente dans l'analyse de données de séquençage à haut débit est la
 détection de pics, et je présenterai deux méthodologies: les
 statistiques de scan ou la régression fonctionelle sur données de
 comptage.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Je présenterai également les projets en cours concernant
 l'analyse différentielle de pics, s'appuyant sur une modélisation
 originale des données de séquencage par des processus ponctuels.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Au cours d'une partie indépendante je présenterai les développements
 statistiques effectués sur la thématique de l'analyse des réseaux
 biologiques.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	­Les données structurées sous forme de réseau se sont
 popularisées ces dernières années, en biologie moléculaire (réseaux
 d'intéraction, de régulation), mais aussi en écologie (réseaux
 trophiques, réseaux spatiaux).
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	Je présenterai les développements
 méthodologiques visant à regrouper les individus d'un réseau à l'aide de
 modèles de classification non supervisée probabiliste sur les nœuds d'un
 graphe aléatoire.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Ce projet comporte plusieurs aspects: du développement
 du modèle statistique à la mise au point d'un cadre d'estimation, et à
 l'application sur des données biologiques.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	Je présenterai également des
 travaux récents autour de la prise en compte de la spatialisation des
 données par des approches de régularisation.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	Enfin, un chapitre
 s'interessera aux problématiques de réduction de dimension en présence
 de données structurées selon un réseau connu à l'aide de techniques de
 pénalisation (fused-lasso généralisé).
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	Amicalement,
 Franck
 
@@ -292,7 +292,7 @@ Franck Picard - CNRS
 Laboratoire Biometrie et Biologie Evolutive
 UCB Lyon 1  - Bât.
 ==========================================
-La phrase 25 est en : FRA
+La phrase 25 est en : french
 	Grégor Mendel
 43 bd du 11 novembre 1918
 69622 VILLEURBANNE cedex, France

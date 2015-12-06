@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-02_26" est globalement en : ENG
-[('ENG', 0.3819023080276951), ('FRA', 0.6185654228217142)]
+Le mail "bioinfo_2014-02_26" est globalement en : english
+[('english', 0.04990812690205605), ('french', 0.3270972548637777)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] PhD project in methodology for RNA sequencing data analysis in cancer
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	The laboratory of Dr Emmanuel Barillot Bioinformatics, biostatistics, epidemiology and computational systems biology of cancer offers the following PhD project: 
 Analysis of RNA sequencing data in the context on cancer studies
 High throughput sequencing (HTS) technologies are now widely used in tumor genetics studies. HTS allows for identification of mutation events, chromosomal rearrangements, chromatin structure, DNA-protein binding and so on. RNA sequencing (RNA-seq) is one of the most popular HTS applications; it is aimed at quantification of gene expression and detection of abnormal transcripts expressed in tumors. In addition to transcript fusions, we have to be able to identify duplications within gene transcripts, truncated and mis-spliced mRNA. 
@@ -24,7 +24,7 @@ We offer
 	Workplace in the center of Paris, in the immediate vicinity of the Pantheon and the Luxembourg garden
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Required qualifications
 	Master or Diploma
 	Strong mathematical background
@@ -44,33 +44,33 @@ Contact: valentina.boeva@curie.fr
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	The laboratory of Dr Emmanuel Barillot Bioinformatics, biostatistics, epidemiology and computational systems biology of cancer offers the following PhD project: 
 Analysis of RNA sequencing data in the context on cancer studies
 High throughput sequencing (HTS) technologies are now widely used in tumor genetics studies.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	HTS allows for identification of mutation events, chromosomal rearrangements, chromatin structure, DNA-protein binding and so on.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	RNA sequencing (RNA-seq) is one of the most popular HTS applications; it is aimed at quantification of gene expression and detection of abnormal transcripts expressed in tumors.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	In addition to transcript fusions, we have to be able to identify duplications within gene transcripts, truncated and mis-spliced mRNA.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The aim of this PhD project is to develop methodology for RNA-seq data analysis in the context of cancer studies.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	The PhD student will employ probabilistic graphical models and Bayesian statistics to detect abnormal gene transcripts, assess transcript expression and discover small sequence variants present in the expressed transcripts.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The PhD student will collaborate with computer scientists, biologists and clinicians from Institut Curie.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The successful candidate will be based at Institut Curie, Paris, and will work in collaboration with Valentina Boeva and Emmanuel Barillot.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	We offer
 	An opportunity to work on a complex computational problem that has direct implications in the research against cancer 
 	Exceptional scientific environment in computational biology

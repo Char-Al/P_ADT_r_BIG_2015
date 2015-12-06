@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_13" est globalement en : FRA
-[('FRA', 0.7057282771693647), ('ENG', 1.12571020868545)]
+Le mail "bioinfo_2014-09_13" est globalement en : french
+[('french', 0.6975249139127095), ('english', 0.8085338323569409)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-Doc Algorithmique et/ou bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Post-Doc Algorithmique et/ou bioinformatique
 Type de poste : Post-doc / IR
 Durée du poste : 2 ans + 2 ans
@@ -25,7 +25,7 @@ Email du contact : bonizzoni@disco.unimib.it
 Laboratoire :  Bioinformatics, Natural Calculus and Systems Biology
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-algorithmique-etou-bioinformatique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/post-doc-algorithmique-etou-bioinformatique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Post-Doc Algorithmique et/ou bioinformatique

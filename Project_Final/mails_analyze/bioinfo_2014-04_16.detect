@@ -1,39 +1,39 @@
-Le mail "bioinfo_2014-04_16" est globalement en : ENG
-[('ENG', 0.29426697102121163), ('FRA', 1.0101764619408524)]
+Le mail "bioinfo_2014-04_16" est globalement en : english
+[('english', 0.04242766152455363), ('french', 0.4535592240287535)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ECCB 2014 metagenomics workshop: calls and,deadlines
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Hello and sorry for cross-posting
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	                  Call for abstracts
 ------------------------------------------------------------------
                           ECCB 2014
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Recent computational advances in metagenomics
 ------------------------------------------------------------------
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	7th September, 2014,
 Strasbourg, France
 Satellite Workshop of ECCB 201
 http://www.eccb14.org/program/workshops/rcam
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	IMPORTANT DATES
 ---------------
 Submission Deadline (abstract) 11th May,        2014
@@ -41,19 +41,19 @@ Notification                   27th May,      2014
 Workshop Date                  7th September,  2014
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	OBJECTIVES
 ----------
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	This workshop aims at promoting discussions and collaborations between
 biologists (modelers),  computer scientists and applied-mathematicians
 involved in metagenomics and/or metatranscriptomics studies, either in
 the bioinformatics or statistical aspects of such analysis.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Metagenomics  studies  refer   to  analyses  based  on high-throughput
 sequencing  of environmental samples  and microbial ecosystems. Both
 marker-gene (16S, 18S, ITS,  ...)  and whole-genome strategies will be
@@ -62,7 +62,7 @@ the  microbial  diversity in  order  to  find  structuring factors to
 assessing the functional role of microbial communities.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	The workshop will provide  an overview of the state-of-the-art methods
 currently used in metaomics including comparative metagenomics and
 metatranscriptomics.  At the  other end  of the  spectrum, case-studies
@@ -70,12 +70,12 @@ will  illustrate  how  these  methods  produce  insightful biological
 knowledge.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	SCOPE
 -----
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	The program of this workshop will consist mainly of presentations of
 refereed
 papers (30 minutes) and  invited talks (50 minutes). Contributions are
@@ -88,40 +88,40 @@ of metaomics datasets, including, but not limited to:
 * challenges for tackling the complexity of metaomics datasets
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : english
 	SUBMISSION
 ----------
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Please send the abstract to metagenomics-eccb14@jouy.inra.fr
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	All submitted abstracts will be peer-reviewed by the program committee.
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Submitted abstracts should not exceed 2 pages including bibliography,
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Abstracts must be written and presented in English. They may describe
 work that has already been published or that is simultaneously
 submitted  to  a  journal,   conference,  or  workshop with refereed
 proceedings.
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	ORGANIZERS
 ----------
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	* Program Co-Chairs:
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	   Sophie Schbath                INRA/MIG, Jouy-en-Josas, France
    Valentin Loux                 INRA/MIG, Jouy-en-Josas, France
    Mahendra Mariadassou          INRA/MIG, Jouy-en-Josas, France
@@ -132,7 +132,7 @@ Le paragraphe 19 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Hello and sorry for cross-posting
 
                   Call for abstracts
@@ -162,28 +162,28 @@ biologists (modelers),  computer scientists and applied-mathematicians
 involved in metagenomics and/or metatranscriptomics studies, either in
 the bioinformatics or statistical aspects of such analysis.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Metagenomics  studies  refer   to  analyses  based  on high-throughput
 sequencing  of environmental samples  and microbial ecosystems.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Both
 marker-gene (16S, 18S, ITS,  ...)  and whole-genome strategies will be
 adressed to  cover a wide  array of question ranging  from quantifying
 the  microbial  diversity in  order  to  find  structuring factors to
 assessing the functional role of microbial communities.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The workshop will provide  an overview of the state-of-the-art methods
 currently used in metaomics including comparative metagenomics and
 metatranscriptomics.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	At the  other end  of the  spectrum, case-studies
 will  illustrate  how  these  methods  produce  insightful biological
 knowledge.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	SCOPE
 -----
 
@@ -191,7 +191,7 @@ The program of this workshop will consist mainly of presentations of
 refereed
 papers (30 minutes) and  invited talks (50 minutes).
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Contributions are
 welcomed on all aspects  about bioinformatics and statistical analyses
 of metaomics datasets, including, but not limited to:
@@ -208,18 +208,18 @@ Please send the abstract to metagenomics-eccb14@jouy.inra.fr
 
 All submitted abstracts will be peer-reviewed by the program committee.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Submitted abstracts should not exceed 2 pages including bibliography,
 
 Abstracts must be written and presented in English.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	They may describe
 work that has already been published or that is simultaneously
 submitted  to  a  journal,   conference,  or  workshop with refereed
 proceedings.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : french
 	ORGANIZERS
 ----------
 

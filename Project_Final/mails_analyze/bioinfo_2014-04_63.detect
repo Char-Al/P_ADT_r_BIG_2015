@@ -1,11 +1,11 @@
-Le mail "bioinfo_2014-04_63" est globalement en : ENG
-[('ENG', 0.1971255263330707), ('FRA', 0.2881393702960293)]
+Le mail "bioinfo_2014-04_63" est globalement en : english (conflict)
+[('english', 0.3653548284374053), ('french', 0.5536936145717892)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position in computational mass
  spectrometry : Innovative algorithms and software tools for spectra interpretation
  and structure elucidation in metabolomics
@@ -13,15 +13,15 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position in computatio
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Intitulé du poste : Post-doctoral position in computational mass 
 spectrometry : Innovative algorithms and software tools for spectra
 interpretation and structure elucidation in metabolomics
@@ -33,12 +33,12 @@ Email du contact : etienne.thevenot@cea.fr
 Laboratoire : Laboratory of Data Analysis and Smart Sytems
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/post-doctoral-position-computational-mass-spectrometry-innovative-algorithms-and-software-to
 
 ==========================================
-Le paragraphe 5 est en : n
+Le paragraphe 5 est en : non detect
 	
 
 ==========================================
@@ -46,7 +46,7 @@ Le paragraphe 5 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr

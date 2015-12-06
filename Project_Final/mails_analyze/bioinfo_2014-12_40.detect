@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_40" est globalement en : FRA
-[('FRA', 1.170987663884693), ('ENG', 1.2630010308586215)]
+Le mail "bioinfo_2014-12_40" est globalement en : french
+[('french', 0.8789747149868119), ('english', 1.0839775998411065)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Développeur d'applicat  ions web
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développeur d'applications web
 Type de poste : Post-doc / IR
 Durée du poste :
@@ -25,7 +25,7 @@ Email du contact : JeanPhilippe.VILLEMIN@lyon.unicancer.fr
 Laboratoire : Centre de lutte contre le cancer Léon-Bérard
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppeur-dapplications-web-2
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/d%C3%A9veloppeur-dapplications-web-2
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Développeur d'applications web

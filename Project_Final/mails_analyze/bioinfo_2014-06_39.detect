@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-06_39" est globalement en : FRA
-[('FRA', 0.5419035339198164), ('ENG', 5.293720557135133)]
+Le mail "bioinfo_2014-06_39" est globalement en : french
+[('french', 0.8108667331347411), ('english', 1.1167835249914297)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Workflow pour l' intégration de données sur des espèces non modèlesbasé sur des techniques de programmation logique.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Workflow pour l'intégration de données sur des
 espèces non modèles basé sur des techniques de programmation logique.
 Type de poste : CDD Ingénieur
@@ -27,12 +27,12 @@ Email du contact : anne.siegel@irisa.fr
 Laboratoire : INRIA - IRISA
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/workflow-pour-lint%C3%A9gration-de-donn%C3%A9es-sur-des-esp%C3%A8ces-non-mod%C3%A8les-bas%C3%A9-sur-des-techniques-de
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,14 +40,14 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Workflow pour l'intégration de données sur des
 espèces non modèles basé sur des techniques de programmation logique.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Type de poste : CDD Ingénieur
 Durée du poste : 24 mois
 Ville : Rennes

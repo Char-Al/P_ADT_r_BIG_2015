@@ -1,55 +1,55 @@
-Le mail "bioinfo_2014-01_66" est globalement en : FRA
-[('FRA', 0.5669436212891418), ('ENG', 0.837228656698623)]
+Le mail "bioinfo_2014-01_66" est globalement en : french
+[('french', 0.09644396321135999), ('english', 2.515143981332251)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Formations Statistiques avec R
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Le laboratoire Statistique et Génome et CNRS Formation Entreprises
 organisent conjointement deux formations à la Statistique avec R :
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Bases statistiques et tests d'hypothèses avec R
 http://cnrsformation.cnrs.fr/stage.php?stage=14221&axe=46,62
 du lundi 07/04/2014 au mercredi 09/04/2014, à Gif-sur-Yvette (région parisienne)
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Outils de statistique non paramétrique avec R
 http://cnrsformation.cnrs.fr/stage.php?stage=14220&axe=46,62
 du lundi 23/06/2014 au mercredi 25/06/2014, à Gif-sur-Yvette (région parisienne)
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Ces stages s'adressent aux chercheurs, ingénieurs et techniciens des
 entreprises et des services publics, confrontés à l'analyse
 statistique de données, en particulier dans les domaines de la
 biologie et la médecine.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Toutes les informations sont disponibles sur le site
 http://cnrsformation.cnrs.fr/
 dans la rubrique "Bioinformatique".
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Merci de diffuser largement ce message autour de vous.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	-- 
 Catherine Matias
 http://stat.genopole.cnrs.fr/~cmatias
@@ -60,7 +60,7 @@ http://stat.genopole.cnrs.fr/~cmatias
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Le laboratoire Statistique et Génome et CNRS Formation Entreprises
@@ -79,15 +79,15 @@ entreprises et des services publics, confrontés à l'analyse
 statistique de données, en particulier dans les domaines de la
 biologie et la médecine.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Toutes les informations sont disponibles sur le site
 http://cnrsformation.cnrs.fr/
 dans la rubrique "Bioinformatique".
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Merci de diffuser largement ce message autour de vous.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	-- 
 Catherine Matias
 http://stat.genopole.cnrs.fr/~cmatias

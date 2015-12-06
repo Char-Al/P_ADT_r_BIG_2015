@@ -1,55 +1,55 @@
-Le mail "bioinfo_2014-09_46" est globalement en : FRA
-[('FRA', 0.7681319743876086), ('ENG', 0.7964498787438917)]
+Le mail "bioinfo_2014-09_46" est globalement en : french
+[('french', 0.059340942413953976), ('english', 1.844880407918716)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Poste bioinformatique - MODIS Division Pharma
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	MODIS société internationale réalise un CA de 2,4 milliards deuros en 2012.
 Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
 En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique. Elle sappuie sur un réseau de 7 agences. Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie. Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Pour renforcer nos équipes, nous recherchons un ingénieur bio informatique H/F qui interviendra sur les projets relatifs aux domaines de chimie médicinale et modélisation moléculaire; vous serez également en charge de l'administration et de la maintenance en conditions opérationnelles des plateformes associées, notamment Pipeline Pilot.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	De formation Bac +5 en bio-informatique, vous avez une expérience significative dans le domaine de lindustrie pharmaceutique et vous maitrisez Pipeline Pilot.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Compétences techniques:
 - Linux
 - Développement C# (Winform)
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	La mission est basée en Ile de France (78).
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Si vous souhaitez plus dinformation nhésitez pas à revenir vers moi soit par mail lisa.perchenet@modisfrance.fr soit par téléphone 06.84.50.07.38. 
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée. 
 Pour découvrir lensemble des postes ouverts, notre culture, nos atouts  Rendez-vous directement sur notre site www.modisfrance.fr. 
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Ce poste est ouvert à tous.
 En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -57,50 +57,50 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	MODIS société internationale réalise un CA de 2,4 milliards deuros en 2012.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Elle sappuie sur un réseau de 7 agences.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Pour renforcer nos équipes, nous recherchons un ingénieur bio informatique H/F qui interviendra sur les projets relatifs aux domaines de chimie médicinale et modélisation moléculaire; vous serez également en charge de l'administration et de la maintenance en conditions opérationnelles des plateformes associées, notamment Pipeline Pilot.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	De formation Bac +5 en bio-informatique, vous avez une expérience significative dans le domaine de lindustrie pharmaceutique et vous maitrisez Pipeline Pilot.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Compétences techniques:
 - Linux
 - Développement C# (Winform)
 
 La mission est basée en Ile de France (78).
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Si vous souhaitez plus dinformation nhésitez pas à revenir vers moi soit par mail lisa.perchenet@modisfrance.fr soit par téléphone 06.84.50.07.38.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Pour découvrir lensemble des postes ouverts, notre culture, nos atouts  Rendez-vous directement sur notre site www.modisfrance.fr.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Ce poste est ouvert à tous.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
 
 

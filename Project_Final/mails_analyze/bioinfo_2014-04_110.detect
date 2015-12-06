@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-04_110" est globalement en : FRA
-[('FRA', 0.8214024815904802), ('ENG', 26.532305228391298)]
+Le mail "bioinfo_2014-04_110" est globalement en : french
+[('french', 0.5481076552854834), ('english', 1.5917843469019226)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] Thèse en modélisationmoléculaire
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Thèse en modélisation moléculaire
 Type de poste : Thèse
 Durée du poste : 36 mois
@@ -26,12 +26,12 @@ Email du contact : Sebastien.Fiorucci@unice.fr
 Laboratoire : Institut de Chimie de Nice, UMR 7272 CNRS
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/th%C3%A8se-en-mod%C3%A9lisation-mol%C3%A9culaire
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

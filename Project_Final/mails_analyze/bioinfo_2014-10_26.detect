@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-10_26" est globalement en : FRA
-[('FRA', 1.2092112333994687), ('ENG', 3.016061425746469)]
+Le mail "bioinfo_2014-10_26" est globalement en : french
+[('french', 0.17829926565843335), ('english', 4.652097244962864)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Workshop SeqBio 2014 (4-5 nov 2014): Algorithmique des séquences et bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	** Apologies for multiple announcements **
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Nous avons le plaisir de vous inviter à la treizième édition du workshop 
 SeqBio 2014, qui se tiendra à Montpellier les 4 et 5 novembre 2014 sur 
 le campus de St Priest.
@@ -28,16 +28,16 @@ soumission est ouvert jusqu'au 14 octobre
 (https://easychair.org/conferences/?conf=sebio2014).
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Les thèmatiques, l'appel à soumission pour présentation orale, et les 
 informations pratiques sont accessibles à
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	http://www.gdr-bim.cnrs.fr/seqbio2014
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Les exposés seront en anglais et en français.
 Les thèmes abordés à SeqBio vont de la combinatoire et de 
 l'algorithmique du texte à leurs applications à l'analyse 
@@ -45,7 +45,7 @@ bio-informatique des séquences biologiques. Voici une liste non
 exhaustive des sujets :
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	- alignement et recherche de similarité
 - recherche, découverte et inférence de motifs ou de répétitions
 - analyse des données de séquençage haut-débit (génomique, RNA-seq, 
@@ -62,7 +62,7 @@ Chip-seq, ...)
 - compression
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Cette réunion pluridisciplinaire commune au GdR Bionformatique 
 Moléculaire (http://www.gdr-bim.cnrs.fr) et Informatique Mathématique 
 (http://www.gdr-im.fr) aborde la bioinformatique des séquences et les 
@@ -71,17 +71,17 @@ texte, la combinatoire, etc. Elle réunit des bioinformaticiens, des
 biologistes, des informaticiens.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	La participation est financée par les GdR et donc gratuite pour les 
 participants ; l'inscription sera rapidement disponible sur notre site.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	bien cordialement,
 Eric Rivals pour le comité d'organisation
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
 CNRS Research Director & Head of GDR Bioinformatique Moléculaire
@@ -92,7 +92,7 @@ Fax. (33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 
 ==========================================
-Le paragraphe 12 est en : n
+Le paragraphe 12 est en : non detect
 	
 
 ==========================================
@@ -100,7 +100,7 @@ Le paragraphe 12 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	** Apologies for multiple announcements **
 
 Bonjour,
@@ -109,15 +109,15 @@ Nous avons le plaisir de vous inviter à la treizième édition du workshop
 SeqBio 2014, qui se tiendra à Montpellier les 4 et 5 novembre 2014 sur 
 le campus de St Priest.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Vous pouvez d'ores et déjà vous inscrire sur le site.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	L'appel à 
 soumission est ouvert jusqu'au 14 octobre 
 (https://easychair.org/conferences/?conf=sebio2014).
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Les thèmatiques, l'appel à soumission pour présentation orale, et les 
 informations pratiques sont accessibles à
 
@@ -125,12 +125,12 @@ http://www.gdr-bim.cnrs.fr/seqbio2014
 
 Les exposés seront en anglais et en français.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Les thèmes abordés à SeqBio vont de la combinatoire et de 
 l'algorithmique du texte à leurs applications à l'analyse 
 bio-informatique des séquences biologiques.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Voici une liste non 
 exhaustive des sujets :
 
@@ -155,15 +155,15 @@ Moléculaire (http://www.gdr-bim.cnrs.fr) et Informatique Mathématique
 aspects computationnels qui lui sont liés, tels que l'algorithmique du 
 texte, la combinatoire, etc.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Elle réunit des bioinformaticiens, des 
 biologistes, des informaticiens.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	La participation est financée par les GdR et donc gratuite pour les 
 participants ; l'inscription sera rapidement disponible sur notre site.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	bien cordialement,
 Eric Rivals pour le comité d'organisation
 
@@ -175,11 +175,11 @@ LIRMM - UMR 5506 & Univ Montpellier 2 (CC 05016)
 860 rue de St Priest - 34095 Montpellier cedex 5 FRANCE
 Tel.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	(33 or 0 from France) 4 67 41 86 64
 Fax.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	(33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 

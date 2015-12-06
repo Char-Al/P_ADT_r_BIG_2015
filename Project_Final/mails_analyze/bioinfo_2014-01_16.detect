@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_16" est globalement en : FRA
-[('ENG', 0.548955118708024), ('FRA', 0.5507707785618734)]
+Le mail "bioinfo_2014-01_16" est globalement en : french
+[('french', 0.6036158832194515), ('english', 0.9602055081620317)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDI autre]  INGENIEUR BIOINFORMATICIEN   « METABOLOMIQUE » 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste :  INGENIEUR BIOINFORMATICIEN « METABOLOMIQUE »
 Type de poste : CDI autre
 Durée du poste : indéterminée
@@ -25,7 +25,7 @@ Email du contact : julie.dumontet@bioaster.org
 Laboratoire : BIOASTER
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ingenieur-bioinformaticien-%C2%AB-metabolomique-%C2%BB
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ingenieur-bioinformaticien-%C2%AB-metabolomique-%C2%B
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste :  INGENIEUR BIOINFORMATICIEN « METABOLOMIQUE »

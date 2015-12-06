@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_66" est globalement en : FRA
-[('FRA', 0.6257467925583219), ('ENG', 0.6731590541222574)]
+Le mail "bioinfo_2014-07_66" est globalement en : french
+[('french', 0.5255181369093802), ('english', 0.9937713496844321)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Bioinformaticians / Computational Biologists
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformaticians / Computational Biologists
 Type de poste : CDD Ingénieur
 Durée du poste : 12
@@ -26,12 +26,12 @@ Email du contact : arnaud.droit@crchuq.ulaval.ca
 Laboratoire : Centre de recherche du CHU de Québec
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformaticians-computational-biologists
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

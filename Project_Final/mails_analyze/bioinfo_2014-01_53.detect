@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_53" est globalement en : FRA
-[('FRA', 0.4923909841092223), ('ENG', 61.84314643351063)]
+Le mail "bioinfo_2014-01_53" est globalement en : french
+[('french', 0.09236822823635538), ('english', 13.269098087847244)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] postes en biostatistique à Paris Descartes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	   Deux postes de Maîtres de Conférences en statistiques et statistiques 
 appliquées sont ouverts au concours à l'université Paris Descartes, pour 
 une prise de fonction en septembre 2014. Des applications aux sciences 
@@ -26,7 +26,7 @@ le site du laboratoire MAP5.
 clôture des inscriptions (26 février).
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Merci de diffuser cette information,
 Etienne Birmelé
 
@@ -36,26 +36,26 @@ Etienne Birmelé
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous,
 
    Deux postes de Maîtres de Conférences en statistiques et statistiques 
 appliquées sont ouverts au concours à l'université Paris Descartes, pour 
 une prise de fonction en septembre 2014.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Des applications aux sciences 
 du vivant seront particulièrement appréciées.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Les fiches de postes détaillées sont disponibles sur Galaxie ou sur 
 le site du laboratoire MAP5.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Les candidats sont appelés à prêter attention à la date précoce de 
 clôture des inscriptions (26 février).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Merci de diffuser cette information,
 Etienne Birmelé
 

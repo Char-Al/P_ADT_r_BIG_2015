@@ -1,209 +1,209 @@
-Le mail "bioinfo_2014-05_42" est globalement en : ENG
-[('ENG', 0.6234889307170697), ('FRA', 0.922607748602706)]
+Le mail "bioinfo_2014-05_42" est globalement en : english
+[('english', 0.21726241057658394), ('french', 0.42685496973651166)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] AlCoB 2014: call for participation
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	*To be removed from our mailing list, please respond to this message with UNSUBSCRIBE in the subject line*
 
 ==========================================
-Le paragraphe 2 est en : n
+Le paragraphe 2 est en : non detect
 	*********************************************************************
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	1st INTERNATIONAL CONFERENCE ON ALGORITHMS FOR COMPUTATIONAL BIOLOGY
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	AlCoB 2014
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Tarragona, Spain
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	July 1-3, 2014
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	http://grammars.grlmc.com/alcob2014/
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	*********************************************************************
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	PROGRAM
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Tuesday, July 1:
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	9:15 - 10:15 	Registration
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	10:15 - 10:25 	Opening
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	10:25 - 11:15	Michael Galperin: Comparative Genomics Approaches to Identifying Functionally Related Genes – Invited Lecture
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	11:15 - 11:45 	Coffee Break
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : french
 	11:45 - 13:00 	Liana Amaya Moreno, Ozlem Defterli, Armin Fügenschuh, Gerhard-Wilhelm Weber: Vester's Sensitivity Model for Genetic Networks with Time-Discrete Dynamics
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Sebastian Wandelt, Ulf Leser: RRCA: Ultra-fast Multiple In-Species Genome Alignments
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	David A. Rosenblueth, Stalin Muñoz, Miguel Carrillo, Eugenio Azpeitia: Inference of Boolean Networks from Gene Interaction Graphs using a SAT Solver
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	13:00 - 14:30 	Lunch
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	14:30 - 15:45 	Laurent Lemarchand, Reinhardt Euler, Congping Lin, Imogen Sparkes: Modeling the Geometry of the Endoplasmic Reticulum Network
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : french
 	Sean Maxwell, Mark R. Chance, Mehmet Koyutürk: Efficiently Enumerating All Connected Induced Subgraphs of a Large Molecular Network
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	Bogdan Iancu, Diana-Elena Gratie, Sepinoud Azimi, Ion Petre: On the Implementation of Quantitative Model Refinement
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	15:45 - 16:00 	Break
 
 ==========================================
-Le paragraphe 23 est en : ENG
+Le paragraphe 23 est en : english
 	16:00 - 16:50 	Jason Papin: Network Analysis of Microbial Pathogens – Invited Lecture
 
 ==========================================
-Le paragraphe 24 est en : ENG
+Le paragraphe 24 est en : english
 	Wednesday, July 2:
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	9:00 - 9:50 	Uwe Ohler: Decoding Non-coding Regulatory Regions in DNA and RNA (I) – Invited Tutorial
 
 ==========================================
-Le paragraphe 26 est en : ENG
+Le paragraphe 26 est en : english
 	9:50 - 10:00 	Break
 
 ==========================================
-Le paragraphe 27 est en : ENG
+Le paragraphe 27 est en : english
 	10:00 - 11:15 	Dimitris Polychronopoulos, Anastasia Krithara, Christoforos Nikolaou, Giorgos Paliouras, Yannis Almirantis, George Giannakopoulos: Analysis and Classification of Constrained DNA Elements with N-gram Graphs and Genomic Signatures
 
 ==========================================
-Le paragraphe 28 est en : ENG
+Le paragraphe 28 est en : english
 	Inken Wohlers, Mathilde Le Boudic-Jamin, Hristo Djidjev, Gunnar W. Klau, Rumen Andonov: Exact Protein Structure Classification Using the Maximum Contact Map Overlap Metric
 
 ==========================================
-Le paragraphe 29 est en : ENG
+Le paragraphe 29 est en : english
 	Tomohiko Ohtsuki, Naoki Nariai, Kaname Kojima, Takahiro Mimori, Yukuto Sato, Yosuke Kawai, Yumi Yamaguchi-Kabata, Testuo Shibuya, Masao Nagasaki: SVEM: A Structural Variant Estimation Method using Multi-Mapped Reads on Breakpoints
 
 ==========================================
-Le paragraphe 30 est en : ENG
+Le paragraphe 30 est en : english
 	11:15 - 11:45 	Coffee Break
 
 ==========================================
-Le paragraphe 31 est en : ENG
+Le paragraphe 31 est en : english
 	11:45 - 13:00 	Claire Lemaitre, Liviu Ciortuz, Pierre Peterlongo: Mapping-free and Assembly-free Discovery of Inversion Breakpoints from Raw NGS Reads
 
 ==========================================
-Le paragraphe 32 est en : ENG
+Le paragraphe 32 est en : english
 	Giuseppe Narzisi, Bud Mishra, Michael C. Schatz: On Algorithmic Complexity of Biomolecular Sequence Assembly Problem
 
 ==========================================
-Le paragraphe 33 est en : ENG
+Le paragraphe 33 est en : french
 	Ivo Hedtke, Ioana Lemnian, Matthias Müller-Hannemann, Ivo Grosse: On Optimal Read Trimming in Next Generation Sequencing and Its Complexity
 
 ==========================================
-Le paragraphe 34 est en : ENG
+Le paragraphe 34 est en : english
 	13:00 - 14:30 	Lunch
 
 ==========================================
-Le paragraphe 35 est en : ENG
+Le paragraphe 35 est en : english
 	14:30 - 15:20 	Annie Chateau, Rodolphe Giroudeau: Complexity and Polynomial-Time Approximation Algorithms around the Scaffolding Problem
 
 ==========================================
-Le paragraphe 36 est en : ENG
+Le paragraphe 36 est en : english
 	Ernst Althaus, Andreas Hildebrandt, Anna Katharina Hildebrandt: A Greedy Algorithm for Hierarchical Complete Linkage Clustering
 
 ==========================================
-Le paragraphe 37 est en : ENG
+Le paragraphe 37 est en : english
 	15:30 	Visit of the City
 
 ==========================================
-Le paragraphe 38 est en : ENG
+Le paragraphe 38 est en : english
 	Thursday, July 3:
 
 ==========================================
-Le paragraphe 39 est en : ENG
+Le paragraphe 39 est en : english
 	9:00 - 9:50 	Uwe Ohler: Decoding Non-coding Regulatory Regions in DNA and RNA (II) – Invited Tutorial
 
 ==========================================
-Le paragraphe 40 est en : ENG
+Le paragraphe 40 est en : english
 	9:50 - 10:00 	Break
 
 ==========================================
-Le paragraphe 41 est en : ENG
+Le paragraphe 41 est en : english
 	10:00 - 11:15 	Carla Negri Lintzmayer, Zanoni Dias: On Sorting of Signed Permutations by Prefix and Suffix Reversals and Transpositions
 
 ==========================================
-Le paragraphe 42 est en : ENG
+Le paragraphe 42 est en : english
 	Thiago da Silva Arruda, Ulisses Dias, Zanoni Dias: Heuristics for the Sorting by Length-Weighted Inversions Problem on Signed Permutations
 
 ==========================================
-Le paragraphe 43 est en : ENG
+Le paragraphe 43 est en : english
 	Alexander Grigoriev, Steven Kelk, Nela Lekić: On Low Treewidth Graphs and Supertrees
 
 ==========================================
-Le paragraphe 44 est en : ENG
+Le paragraphe 44 est en : english
 	11:15 - 11:45 	Coffee Break
 
 ==========================================
-Le paragraphe 45 est en : ENG
+Le paragraphe 45 est en : english
 	11:45 - 13:00 	Carla Negri Lintzmayer, Zanoni Dias: On the Diameter of Rearrangement Problems
 
 ==========================================
-Le paragraphe 46 est en : ENG
+Le paragraphe 46 est en : english
 	Amina Noor, Aitzaz Ahmad, Bilal Wajid, Erchin Serpedin, Mohamed Nounou, Hazem Nounou: A Closed-Form Solution for Transcription Factor Activity Estimation using Network Component Analysis
 
 ==========================================
-Le paragraphe 47 est en : ENG
+Le paragraphe 47 est en : english
 	Kaname Kojima, Naoki Nariai, Takahiro Mimori, Yumi Yamaguchi-Kabata, Yukuto Sato, Yosuke Kawai, Masao Nagasaki: HapMonster: A Statistically Unified Approach for Variant Calling and Haplotyping Based on Phase-Informative Reads
 
 ==========================================
-Le paragraphe 48 est en : ENG
+Le paragraphe 48 est en : english
 	13:00 		Closing
 
 ==========================================
-Le paragraphe 49 est en : n
+Le paragraphe 49 est en : non detect
 	
 
 ==========================================
@@ -211,7 +211,7 @@ Le paragraphe 49 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	*To be removed from our mailing list, please respond to this message with UNSUBSCRIBE in the subject line*
 
 *********************************************************************

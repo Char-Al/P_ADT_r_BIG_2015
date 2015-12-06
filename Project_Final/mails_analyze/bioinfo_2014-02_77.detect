@@ -1,33 +1,33 @@
-Le mail "bioinfo_2014-02_77" est globalement en : FRA
-[('ENG', 0.21255929739398016), ('FRA', 0.8855710712200179)]
+Le mail "bioinfo_2014-02_77" est globalement en : french
+[('french', 0.3996221600755358), ('english', 0.6981024965493455)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] HDR defense - Gregory Batt - March 7th - Paris Diderot University
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear all,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	I am pleased to invite you to my HDR defense entitled "Design, 
 Optimization and Control in Systems and Synthetic Biology".
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	The defense will be held on Friday, March 7th at 2pm in the seminar room 
 of the Matière et Systèmes Complexes lab (Condorcet Building, Paris 
 Diderot University).
 http://www.msc.univ-paris-diderot.fr/spip.php?rubrique152&lang=en
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	The committee consists of:
 - Reiner Veitia, Institut Jacques Monod, Paris Diderot (Président)
 - Vincent Danos, University of Edinburgh and CNRS/Paris Diderot (Rapporteur)
@@ -37,42 +37,42 @@ Le paragraphe 4 est en : FRA
 - Mustafa Khammash, ETH Zurich (Examinateur)
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	You are warmly welcome to the reception that will follow the defense.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Please note that there will also be a seminar from Mustafa Khammash at 
 11am on the same day (MSC seminar room).
 see http://www.bsse.ethz.ch/ctsb/people/people_PI/khammash
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Best regards,
 Gregory
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	----------------
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Cher tous,
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	J'ai le plaisir de vous inviter à la soutenance de mon HDR intitulée 
 "Design, Optimization and Control in Systems and Synthetic Biology".
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	La soutenance aura lieu le vendredi 7 mars à 14h dans la salle de 
 séminaire du laboratoire Matière et Systèmes Complexes de l'Université 
 Paris Diderot (Bâtiment Condorcet, Paris 7).
 http://www.msc.univ-paris-diderot.fr/spip.php?rubrique152&lang=fr
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Elle sera présentée devant un jury composé de :
 - Reiner Veitia, Président, Institut Jacques Monod, Paris Diderot
 - Vincent Danos, Rapporteur, University of Edinburgh and CNRS/Paris Diderot
@@ -82,22 +82,22 @@ Le paragraphe 12 est en : FRA
 - Mustafa Khammash, Examinateur, ETH Zurich
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	J'ai également le plaisir de vous inviter au pot qui suivra.
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Il y aura le même jour à 11h un séminaire de Mustafa Khammash, aussi en 
 salle de séminaire du laboratoire MSC.
 http://www.bsse.ethz.ch/ctsb/people/people_PI/khammash
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Cordialement,
 Gregory
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	-- 
 ===================================================================
 Gregory Batt                            INRIA, Rocquencourt, France
@@ -106,7 +106,7 @@ Gregory.Batt@inria.fr               http://www-rocq.inria.fr/~batt/
 ===================================================================
 
 ==========================================
-Le paragraphe 17 est en : n
+Le paragraphe 17 est en : non detect
 	
 
 ==========================================
@@ -114,18 +114,18 @@ Le paragraphe 17 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear all,
 
 I am pleased to invite you to my HDR defense entitled "Design, 
 Optimization and Control in Systems and Synthetic Biology".
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	The defense will be held on Friday, March 7th at 2pm in the seminar room 
 of the Matière et Systèmes Complexes lab (Condorcet Building, Paris 
 Diderot University).
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	http://www.msc.univ-paris-diderot.fr/spip.php?rubrique152&lang=en
 
 The committee consists of:
@@ -138,11 +138,11 @@ The committee consists of:
 
 You are warmly welcome to the reception that will follow the defense.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Please note that there will also be a seminar from Mustafa Khammash at 
 11am on the same day (MSC seminar room).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	see http://www.bsse.ethz.ch/ctsb/people/people_PI/khammash
 
 Best regards,
@@ -155,12 +155,12 @@ Cher tous,
 J'ai le plaisir de vous inviter à la soutenance de mon HDR intitulée 
 "Design, Optimization and Control in Systems and Synthetic Biology".
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	La soutenance aura lieu le vendredi 7 mars à 14h dans la salle de 
 séminaire du laboratoire Matière et Systèmes Complexes de l'Université 
 Paris Diderot (Bâtiment Condorcet, Paris 7).
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	http://www.msc.univ-paris-diderot.fr/spip.php?rubrique152&lang=fr
 
 Elle sera présentée devant un jury composé de :
@@ -173,11 +173,11 @@ Elle sera présentée devant un jury composé de :
 
 J'ai également le plaisir de vous inviter au pot qui suivra.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Il y aura le même jour à 11h un séminaire de Mustafa Khammash, aussi en 
 salle de séminaire du laboratoire MSC.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	http://www.bsse.ethz.ch/ctsb/people/people_PI/khammash
 
 Cordialement,

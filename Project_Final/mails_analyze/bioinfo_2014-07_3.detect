@@ -1,36 +1,36 @@
-Le mail "bioinfo_2014-07_3" est globalement en : ENG
-[('ENG', 0.2904319818005743), ('FRA', 0.39641881046943017)]
+Le mail "bioinfo_2014-07_3" est globalement en : english
+[('english', 0.19462954084072426), ('french', 0.39622717155556664)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Meeting announcement: Protein Protein Interactions on the Genome Scale
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	PROTEIN-PROTEIN INTERACTIONS ON THE GENOME SCALE
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Université Pierre et Marie Curie - Jussieu Campus 
 Amphi 25 - 4 place Jussieu 75005 Paris
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Despite progress with experimental high-throughput techniques for the analysis of protein-protein interactions, bioinformatics, molecular modeling and simulation can play important roles in determining the stability and the structure of protein complexes, in identifying weak transient interactions, in understanding the role of non-functional interactions in a crowed molecular environment and in analyzing dynamic protein interaction networks. This meeting aims at defining the present strengths and weaknesses in this rapidly growing field.
  
 The conference will bring together 11 renowned scientists working in bioinformatics, molecular modeling and molecular simulation and it wants to be an occasion to discuss and open new perspectives in the field. The participants are expected to be scientists coming from different backgrounds, as biology, chemistry, computer science, mathematics and physics. The meeting is addressed to a large public, including students.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Invited speakers: 
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : french
 	 Patrick ALOY  Institute for Research in Biomedicine, Spain
  Alexandre BONVIN  Utrecht University, The Netherlands
  Alan COOPER  University of Glasgow, UK
@@ -44,19 +44,19 @@ Le paragraphe 5 est en : ENG
  Martin ZACHARIAS  Technische Universität München, Germany
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	There is no registration fee, registration at http://mapping2014.sciencesconf.org/
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	We look forward seeing you. 
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	The organizing comittee
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Alessandra Carbone - LCQB - CNRS-UPMC, Paris, France
 Richard Lavery - IBCP - CNRS-Université de Lyon, France
 François Penin - IBCP - CNRS-Université de Lyon, France
@@ -68,7 +68,7 @@ Sophie Saquin-Mora - IBPC - CNRS, Paris, France
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	PROTEIN-PROTEIN INTERACTIONS ON THE GENOME SCALE
 
 Université Pierre et Marie Curie - Jussieu Campus 
@@ -77,19 +77,19 @@ Amphi 25 - 4 place Jussieu 75005 Paris
 
 Despite progress with experimental high-throughput techniques for the analysis of protein-protein interactions, bioinformatics, molecular modeling and simulation can play important roles in determining the stability and the structure of protein complexes, in identifying weak transient interactions, in understanding the role of non-functional interactions in a crowed molecular environment and in analyzing dynamic protein interaction networks.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	This meeting aims at defining the present strengths and weaknesses in this rapidly growing field.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The conference will bring together 11 renowned scientists working in bioinformatics, molecular modeling and molecular simulation and it wants to be an occasion to discuss and open new perspectives in the field.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The participants are expected to be scientists coming from different backgrounds, as biology, chemistry, computer science, mathematics and physics.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The meeting is addressed to a large public, including students.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : french
 	Invited speakers: 
 
  Patrick ALOY  Institute for Research in Biomedicine, Spain
@@ -109,7 +109,7 @@ There is no registration fee, registration at http://mapping2014.sciencesconf.or
 
 We look forward seeing you.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	The organizing comittee
 
 Alessandra Carbone - LCQB - CNRS-UPMC, Paris, France

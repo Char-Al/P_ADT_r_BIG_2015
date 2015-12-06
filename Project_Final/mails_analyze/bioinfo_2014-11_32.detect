@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-11_32" est globalement en : ENG
-[('ENG', 0.46357946019867474), ('FRA', 0.5097496667298029)]
+Le mail "bioinfo_2014-11_32" est globalement en : english
+[('english', 0.28642755155124106), ('french', 0.30148324424458156)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] TR: NLP Scientist position in Dallas
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une offre intéressante. Paea LePendu est un ancien de Stanford BMIR.
 Clement Jonquet
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	-----Message d'origine-----
 De : Paea LePendu [mailto:plependu@gmail.com] 
 Envoyé : mercredi 12 novembre 2014 20:30
@@ -24,16 +24,16 @@ Envoyé : mercredi 12 novembre 2014 20:30
 Objet : NLP Scientist position in Dallas
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Dear all,
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Apologies for cross-posting.
 Please forward this message to interested parties.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	FULLTIME NLP SCIENTIST POSITION:  There is nothing like the feeling of your
 research directly improving millions of lives. PCCI is doing important work
 in making healthcare analytics a reality and is expanding its NLP group. One
@@ -43,24 +43,24 @@ community based organizations across the region. Join us as we leverage
 clinical and care-management notes to save a life.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	MORE DETAILS:  http://goo.gl/b1oraK
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Regards,
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Paea LePendu
 Sr. Research Scientist, PCCI
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	www.pccipieces.org
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -68,13 +68,13 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une offre intéressante.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Paea LePendu est un ancien de Stanford BMIR.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Clement Jonquet
 
 -----Message d'origine-----
@@ -87,28 +87,28 @@ Dear all,
 
 Apologies for cross-posting.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Please forward this message to interested parties.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	FULLTIME NLP SCIENTIST POSITION:  There is nothing like the feeling of your
 research directly improving millions of lives.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	PCCI is doing important work
 in making healthcare analytics a reality and is expanding its NLP group.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	One
 of many projects includes our 5-year grant to build a social health
 information exchange that will connect our county's healthcare system with
 community based organizations across the region.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Join us as we leverage
 clinical and care-management notes to save a life.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	MORE DETAILS:  http://goo.gl/b1oraK
 
 

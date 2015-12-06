@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-04_47" est globalement en : ENG
-[('ENG', 0.44799334442921657), ('FRA', 0.9175081490583095)]
+Le mail "bioinfo_2014-04_47" est globalement en : english (conflict)
+[('english', 0.8148789405926583), ('french', 1.2074473433806323)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDD Post-doc] Postdoctoral fellow in systems metabolism
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Postdoctoral fellow in systems metabolism
 Type de poste : CDD Post-doc
 Durée du poste :
@@ -25,12 +25,12 @@ Email du contact : roland.nilsson@ki.se
 Laboratoire : Karolinska Institutet
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/postdoctoral-fellow-systems-metabolism
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -38,7 +38,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Postdoctoral fellow in systems metabolism

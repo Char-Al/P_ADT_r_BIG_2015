@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-06_4" est globalement en : FRA
-[('FRA', 0.32669807517784), ('ENG', 2.962598155794123)]
+Le mail "bioinfo_2014-06_4" est globalement en : french
+[('french', 0.03197479117000171), ('english', 4.925341197117308)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi] Informaticien pour le développementd’unsystème de gestion de données biologiques
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Profil de poste : Informaticien pour le développement d’un système de gestion de données biologiques
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Poste à pourvoir:
 CDD de 2 ans à temps complet ou en alternance 
 Commissariat à l’Energie Atomique
@@ -24,34 +24,34 @@ Service d’Immuno-virologie, DSV/iMETI
 92265 Fontenay-aux-Roses
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Contexte:
 Le service d’immuno-virologie (SIV) développe, au sein de l’Institut des Maladies Emergentes et Thérapies Innovantes (iMETI), des programmes de recherche ayant trait aux interactions virus/hôte. Il s’agit, notamment, d’étudier les réponses immunes innée et adaptative aux infections virales humaines comme le VIH, le virus du Chikungunya ou la grippe dans différents modèles expérimentaux. L’objectif est de mieux comprendre ces mécanismes de défense afin de développer de nouvelles stratégies de prévention, comme les vaccins. 
 L’énorme production de donnes expérimentales nécessite l’utilisation d’une base de donnes relationnelles qui a été développées au sein du service. Cette base, nommée BATLab, est en développement continu selon les exigences expérimentales. De plus, l’utilisation de BATLab a été licenciée à plusieurs laboratoires Français et sera probablement licenciée à des laboratoires étrangers. 
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Missions: 
 Nous souhaitons recruter au sein du laboratoire des « Thérapies Innovantes et Prévention des Infections Virales » du Service d’Immuno-Virologie, un développeur informaticien. Il aura notamment pour mission le développement du logiciel BATLab sous la direction de notre équipe de bio-informatique. 
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Compétences souhaitées:
 Développeur informatique à temps complet ou en alternance, le candidat devra connaitre et maitriser parfaitement des technologies Web comme PHP5, MySQL, HTML5 (dont CSS, AJAX, Javascript et JQuery) pour le développement de nouveaux modules d’un logiciel déjà développé par le CEA. Il devra également utiliser Java et R pour certains modules et utiliser GIT. De bonnes connaissances en sécurité informatique et un attrait pour la biologie seraient fortement appréciés. 
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Formations:
 Diplôme d’informaticien BAC+2 à 5 recherché, à temps complet ou en alternance.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Contact:
 Veuillez faire parvenir un curriculum vitae et une lettre de motivation à : 
 Nicolas Tchitchek: nicolas.tchitchek@cea.fr et Brice Targat: brice.targat@cea.fr
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	
 
 ==========================================
@@ -59,7 +59,7 @@ Le paragraphe 8 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Profil de poste : Informaticien pour le développement d’un système de gestion de données biologiques
 
 Poste à pourvoir:
@@ -72,43 +72,43 @@ Service d’Immuno-virologie, DSV/iMETI
 Contexte:
 Le service d’immuno-virologie (SIV) développe, au sein de l’Institut des Maladies Emergentes et Thérapies Innovantes (iMETI), des programmes de recherche ayant trait aux interactions virus/hôte.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Il s’agit, notamment, d’étudier les réponses immunes innée et adaptative aux infections virales humaines comme le VIH, le virus du Chikungunya ou la grippe dans différents modèles expérimentaux.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	L’objectif est de mieux comprendre ces mécanismes de défense afin de développer de nouvelles stratégies de prévention, comme les vaccins.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	L’énorme production de donnes expérimentales nécessite l’utilisation d’une base de donnes relationnelles qui a été développées au sein du service.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Cette base, nommée BATLab, est en développement continu selon les exigences expérimentales.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	De plus, l’utilisation de BATLab a été licenciée à plusieurs laboratoires Français et sera probablement licenciée à des laboratoires étrangers.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Missions: 
 Nous souhaitons recruter au sein du laboratoire des « Thérapies Innovantes et Prévention des Infections Virales » du Service d’Immuno-Virologie, un développeur informaticien.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Il aura notamment pour mission le développement du logiciel BATLab sous la direction de notre équipe de bio-informatique.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Compétences souhaitées:
 Développeur informatique à temps complet ou en alternance, le candidat devra connaitre et maitriser parfaitement des technologies Web comme PHP5, MySQL, HTML5 (dont CSS, AJAX, Javascript et JQuery) pour le développement de nouveaux modules d’un logiciel déjà développé par le CEA.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Il devra également utiliser Java et R pour certains modules et utiliser GIT.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	De bonnes connaissances en sécurité informatique et un attrait pour la biologie seraient fortement appréciés.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Formations:
 Diplôme d’informaticien BAC+2 à 5 recherché, à temps complet ou en alternance.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Contact:
 Veuillez faire parvenir un curriculum vitae et une lettre de motivation à : 
 Nicolas Tchitchek: nicolas.tchitchek@cea.fr et Brice Targat: brice.targat@cea.fr

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_85" est globalement en : FRA
-[('FRA', 0.16773616386733245), ('ENG', 0.3227597044493663)]
+Le mail "bioinfo_2014-02_85" est globalement en : french
+[('french', 0.29851770814238104), ('english', 1.6454684998290277)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IE] IE Bioinformatique (INRA campagne   de recrutement par voie contractuelle sur profi  l d'un Travailleur Handicapé)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : IE Bioinformatique (INRA campagne de recrutement par  
 voie contractuelle sur profil d'un Travailleur Handicapé)
 Type de poste : IE
@@ -27,7 +27,7 @@ Laboratoire : URGV (Unité de Recherche en Génomique Végétale) puis IPS2
 à Saclay en 2015
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ie-bioinformatique-inra-campagne-de-recrutement-par-voie-contractuelle-sur-profil-dun-travai
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/ie-bioinformatique-inra-campagne-de-recrutement-par-v
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : IE Bioinformatique (INRA campagne de recrutement par  

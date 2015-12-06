@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-04_9" est globalement en : FRA
-[('FRA', 0.7816842747735595), ('ENG', 20.075013847885522)]
+Le mail "bioinfo_2014-04_9" est globalement en : french
+[('french', 0.41918526319573296), ('english', 5.409351688301252)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Analyse à grande échelle des régulations de réseaux de gènes par les hormones thyroïdiennes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Analyse à grande échelle des régulations de réseaux 
 de gènes par les hormones thyroïdiennes
 Type de poste : CDD Ingénieur
@@ -26,12 +26,12 @@ Email du contact : clerget@mnhn.fr
 Laboratoire : MNHN CNRS UMR 7221 Evolution des Régulations Endocriniennes
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/analyse-à-grande-échelle-des-régulations-de-réseaux-de-gènes-par-les-hormones-thyroïdienne-0
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Analyse à grande échelle des régulations de réseaux 

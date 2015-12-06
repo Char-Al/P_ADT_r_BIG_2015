@@ -1,45 +1,45 @@
-Le mail "bioinfo_2014-04_87" est globalement en : ENG
-[('ENG', 0.42318344595330193), ('FRA', 0.586212666279418)]
+Le mail "bioinfo_2014-04_87" est globalement en : english
+[('english', 0.1723109740575768), ('french', 0.22722025866689832)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] DILS2014: Call for Posters and Demos
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Call for Posters and Demos
 10th International Conference on Data Integration in the Life Sciences
 (DILS 2014)
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : french
 	Lisbon, Portugal July 17-18, 2014
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	http://dils2014.inesc-id.pt
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Confirmed invited speakers: Alfonso Valencia, CNIO, Spain and Jonas
 Almeida, UAB, USA
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	People registered in DILS2014 can attend the Data Storm Big Data Summer School
 (http://ds3.inesc-id.pt) for free.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Posters and Demos
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	DILS2014 invites the submission of posters and demos to be presented
 in the poster/demo session at the conference. Accepted poster and demo
 descriptions will be published on the conference website and
@@ -48,21 +48,21 @@ distributed at the conference. Poster/demo papers are limited to up to
 specifying the category (poster or demo).
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Important dates
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	May 15, 2014 Submission deadline
 June 6, 2014 Notification of acceptance
 July 17-18, 2014:  Conference
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Topics of Interest
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	The DILS conference is an interdisciplinary forum on advances in data
 integration, data management and data analysis for the life sciences.
 Researchers and professionals from biology, medicine, computer science
@@ -71,7 +71,7 @@ particular interest are topics related to enabling the use of Big Data
 in life science research and applications.
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Topics of interest include, but are not limited to:
 - Big Data Integration for the life sciences
 - Ontology mappings and evolution
@@ -98,20 +98,20 @@ SPARQL endpoints)
 - Ethical, legal and social issues with biomedical data integration.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Program Committee Chairs
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Helena Galhardas, Instituto Superior Técnico and INESC-ID, Portugal
 Erhard Rahm, University of Leipzig, Germany
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Program Committee
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : french
 	Christopher Baker, University of New Brunswick, Canada
 Kenneth J Barker, IBM, USA
 Olivier Bodenreider, NIH, USA
@@ -148,7 +148,7 @@ Dagmar Waltemath, University of Rostock, Germany
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Call for Posters and Demos
 10th International Conference on Data Integration in the Life Sciences
 (DILS 2014)
@@ -163,23 +163,23 @@ Almeida, UAB, USA
 People registered in DILS2014 can attend the Data Storm Big Data Summer School
 (http://ds3.inesc-id.pt) for free.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Posters and Demos
 
 DILS2014 invites the submission of posters and demos to be presented
 in the poster/demo session at the conference.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Accepted poster and demo
 descriptions will be published on the conference website and
 distributed at the conference.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Poster/demo papers are limited to up to
 4 pages and must be submitted using the EasyChair site, clearly
 specifying the category (poster or demo).
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Important dates
 
 May 15, 2014 Submission deadline
@@ -191,16 +191,16 @@ Topics of Interest
 The DILS conference is an interdisciplinary forum on advances in data
 integration, data management and data analysis for the life sciences.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Researchers and professionals from biology, medicine, computer science
 and engineering are invited to contribute their latest results.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Of
 particular interest are topics related to enabling the use of Big Data
 in life science research and applications.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Topics of interest include, but are not limited to:
 - Big Data Integration for the life sciences
 - Ontology mappings and evolution
@@ -226,7 +226,7 @@ SPARQL endpoints)
 - Challenges and opportunities with big data in the life sciences
 - Ethical, legal and social issues with biomedical data integration.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : french
 	Program Committee Chairs
 
 Helena Galhardas, Instituto Superior Técnico and INESC-ID, Portugal

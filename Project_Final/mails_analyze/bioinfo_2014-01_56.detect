@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_56" est globalement en : ENG
-[('ENG', 0.23047848227091236), ('FRA', 0.39308058334180884)]
+Le mail "bioinfo_2014-01_56" est globalement en : english (conflict)
+[('english', 0.4217025759512489), ('french', 0.5308081792812236)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doc position in grass genetics: Genetic analyses in Setaria viridis, a model for switchgrass
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Post-doc position in grass genetics: Genetic analyses in  
 Setaria viridis, a model for switchgrass
 Type de poste : Post-doc / IR
@@ -27,7 +27,7 @@ Laboratoire : Dr. Katrien M. Devos, Institute of Plant Breeding, Genetics and
 Genomics, and Dept. of Plant Biology
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-position-grass-genetics-genetic-analyses-setaria-viridis-model-switchgrass
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/post-doc-position-grass-genetics-genetic-analyses-set
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Post-doc position in grass genetics: Genetic analyses in  
@@ -50,7 +50,7 @@ Email du contact : kdevos@uga.edu
 Laboratoire : Dr. Katrien M. Devos, Institute of Plant Breeding, Genetics and  
 Genomics, and Dept.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	of Plant Biology
 
 Voir la description complète du poste sur  

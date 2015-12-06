@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-03_37" est globalement en : FRA
-[('FRA', 0.6152537788794156), ('ENG', 52.277348207351906)]
+Le mail "bioinfo_2014-03_37" est globalement en : french (conflict)
+[('french', 0.2757134659507487), ('english', 1.3326057041766937)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Séminaire biosticker-LINA du mercredi 26/03/2014 à 10h30 au LINA
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Pour la prochaine édition du séminaire biosticker, nous vous proposons de nous retrouver au LINA à Nantes le mercredi 26 mars 2014 à 10h30 pour écouter Giuseppe Longo (Centre Cavaillès (CIRPHLES), CNRS & Ecole Normale Supérieure, Paris ) invité par Nicolas Tabareau de l'équipe Ascola du LINA.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Date : 26 Mars 2014 à 10h30
 Lieu : Salle 003 - LINA, Nantes
 Orateur local : Nicolas Tabareau
@@ -27,28 +27,28 @@ Orateur invité : Giuseppe Longo
 Titre : Chance and diversity in biology: comparing complexity and functional organization
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Résumé :
 The dynamic instability of living systems and the “superposition” of different forms of randomness will be viewed as components of the contingently changing, or even increasing, organization of life through ontogenesis or evolution. To this purpose, we first survey how classical and quantum physics define randomness differently. We then discuss why this requires, in our view, an enriched understanding of the effects of their concurrent presence in biological systems’ dynamics. Biological randomness is then presented as an essential component of the heterogeneous determination and intrinsic unpredictability proper to life phenomena, due to the nesting and interaction of many levels of organization, but also as a key component of its structural stability. We will note as well that increasing organization, while increasing “order”, induces growing disorder, not only by energy dispersal effects, but also by increasing variability and differentiation. Finally, we discuss a possible difference between biological complexity and organization, which may provide a tool for understanding some aspects of cancer.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Vous pouvez retrouver toutes les informations sur la page du séminaire (http://biosticker.univ-nantes.fr/).
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	N’hésitez pas à transmettre ce message aux gens qui pourraient être intéressés. 
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Nous vous attendons nombreux ! 
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Bien cordialement,
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	-- 
 Dr. Géraldine Jean, Associate Professor
 Department of Computer Science
@@ -64,12 +64,12 @@ web: http://gjean.openics.org
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous,
 
 Pour la prochaine édition du séminaire biosticker, nous vous proposons de nous retrouver au LINA à Nantes le mercredi 26 mars 2014 à 10h30 pour écouter Giuseppe Longo (Centre Cavaillès (CIRPHLES), CNRS & Ecole Normale Supérieure, Paris ) invité par Nicolas Tabareau de l'équipe Ascola du LINA.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Date : 26 Mars 2014 à 10h30
 Lieu : Salle 003 - LINA, Nantes
 Orateur local : Nicolas Tabareau
@@ -79,31 +79,31 @@ Titre : Chance and diversity in biology: comparing complexity and functional org
 Résumé :
 The dynamic instability of living systems and the “superposition” of different forms of randomness will be viewed as components of the contingently changing, or even increasing, organization of life through ontogenesis or evolution.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	To this purpose, we first survey how classical and quantum physics define randomness differently.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We then discuss why this requires, in our view, an enriched understanding of the effects of their concurrent presence in biological systems’ dynamics.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Biological randomness is then presented as an essential component of the heterogeneous determination and intrinsic unpredictability proper to life phenomena, due to the nesting and interaction of many levels of organization, but also as a key component of its structural stability.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	We will note as well that increasing organization, while increasing “order”, induces growing disorder, not only by energy dispersal effects, but also by increasing variability and differentiation.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Finally, we discuss a possible difference between biological complexity and organization, which may provide a tool for understanding some aspects of cancer.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Vous pouvez retrouver toutes les informations sur la page du séminaire (http://biosticker.univ-nantes.fr/).
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	N’hésitez pas à transmettre ce message aux gens qui pourraient être intéressés.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Nous vous attendons nombreux !
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Bien cordialement,
 
 -- 

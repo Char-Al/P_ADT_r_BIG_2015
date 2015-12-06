@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_83" est globalement en : FRA
-[('FRA', 0.3493649124947116), ('ENG', 0.49670983585001083)]
+Le mail "bioinfo_2014-07_83" est globalement en : french
+[('french', 0.46319278977144135), ('english', 0.8429608979696485)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IE] INGENIEUR D'ETUDE ET DE DEVELOPPEMENT PIPELINE PILOT
  et .NET
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : INGENIEUR D'ETUDE ET DE DEVELOPPEMENT PIPELINE PILOT et
 .NET
 Type de poste : IE
@@ -27,12 +27,12 @@ Email du contact : arnaud.coulon@infogene.fr
 Laboratoire : L'OREAL RECHERCHE AVANCEE
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ingenieur-detude-et-de-developpement-pipeline-pilot-et-net
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 

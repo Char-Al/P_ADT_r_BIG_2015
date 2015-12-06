@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_58" est globalement en : FRA
-[('ENG', 0.6133725117763422), ('FRA', 0.9085350115752623)]
+Le mail "bioinfo_2014-02_58" est globalement en : french
+[('french', 0.7362294729012359), ('english', 0.8878962230796607)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post Doc on Allostery
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Post Doc on Allostery
 Type de poste : Post-doc / IR
 Durée du poste :
@@ -25,7 +25,7 @@ Email du contact : igorb@bii.a-star.edu.sg
 Laboratoire : Bioinformatics/Computational Biophysics
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/post-doc-allostery
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/post-doc-allostery
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Post Doc on Allostery

@@ -1,53 +1,53 @@
-Le mail "bioinfo_2014-01_99" est globalement en : FRA
-[('ENG', 0.2294021246864035), ('FRA', 0.4227000296390794)]
+Le mail "bioinfo_2014-01_99" est globalement en : french
+[('french', 0.04883034553900613), ('english', 4.433715267434718)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Stage Master Biostat Montpellier
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	SUJET:
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Analyse statistique comparative des transcriptomes de stades embryonnaires équivalents de trois espèces dAscidies 
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	CONTEXTE:
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Léquipe de Patrick Lemaire (CNRS, Montpellier, France; (http://www.aniseed.cnrs.fr/lemaire) cherche à comprendre l'évolution du développement des embryons d'une classe danimaux marins proches parents des vertébrés, les ascidies (tuniciers). L'équipe est composée de biologistes et de bio-informaticiens et est localisée au Centre de Recherche de Biochimie Macromoléculaire (CRBM), à Montpellier.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	STAGE:
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Le but du stage est de comparer la dynamique et de quantifier la divergence des profils d'expression embryonnaires des gènes de 3 espèces d'ascidies séparées par plusieurs centaines de millions d'années d'évolution. Nous chercherons en particulier à déterminer si cette divergence à une structure temporelle (c-à-d si elle est minimale à un stade particulier de lembryogénèse), et si la fonction des gènes influe sur l'évolution de leurs profils d'expression.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Le/La stagiaire travaillera sur lanalyse des résultats obtenus à partir de séquençage à haut débit des ARNm (RNASeq) de 6 stades développementaux équivalents de trois espèces (Ciona intestinalis, Phalusia mammillata et Halocyntia roretzi) dont le génome a été séquencé et annoté.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	A partir d'un taux dexpression normalisé calculé à partir des données de RNA-seq pour chaque gène de chaque espèce à chaque stade du développement, le/la stagiaire développera des méthodes statistiques appropriées pour comparer ces profils entre espèces en prenant en compte à la fois les niveaux d'expression par stade et la dynamique d'expression au cours du développement. 
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	PROFIL ET COMPETENCES RECHERCHEES:
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Ce stage de niveau master est principalement destiné à des étudiants ayant une formation initiale en statistique, et ayant une bonne pratique du développement informatique. Les candidat(e)s devront avoir lesprit déquipe et savoir faire preuve dautonomie, de dynamisme et de créativité. Des connaissances de base en biologie seraient bienvenues mais ne sont pas essentielles, une bonne curiosité pour la biologie est suffisant. La maîtrise de l'anglais technique doit être suffisante pour écrire des documentations techniques, et interagir quotidiennement à l'oral.
  
 Les compétences requises en informatique et statistique sont:
@@ -55,35 +55,35 @@ Les compétences requises en informatique et statistique sont:
 - Tests statistiques paramétriques et non paramétriques, méthodes d'analyses multifactorielles.
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Une certaine familiarité avec les méthodes d'analyse des données de RNASeq serait un plus, mais ne constitue pas un prérequis.
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	DUREE et modalités du stage: 
 5-6 mois. Les stages sont gratifiés.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	RÉFÉRENCES: 
 Domazet-Loo, T., & Tautz, D. (2010). A phylogenetically based transcriptome age index mirrors ontogenetic divergence patterns. Nature, 468(7325), 8158. 
 Quint, M., Drost, H.-G., Gabel, A., Ullrich, K. K., Bönn, M., & Grosse, I. (2012). A transcriptomic hourglass in plant embryogenesis. Nature, 490 (7418), 98-101. 
 Wang, Z., Gerstein, M., & Snyder, M. (2009). RNA-Seq: a revolutionary tool for transcriptomics. Nature Reviews Genetics, 10(1), 5763. 
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	CONTACTS: 
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	patrick.lemaire@crbm.cnrs.fr;jacques.piette@crbm.cnrs.fr; christelle.dantec@crbm.cnrs.fr
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	Tel: 0434359563
 
 ==========================================
-Le paragraphe 17 est en : n
+Le paragraphe 17 est en : non detect
 	
 
 ==========================================
@@ -91,7 +91,7 @@ Le paragraphe 17 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	SUJET:
 
 Analyse statistique comparative des transcriptomes de stades embryonnaires équivalents de trois espèces dAscidies 
@@ -100,84 +100,84 @@ CONTEXTE:
 
 Léquipe de Patrick Lemaire (CNRS, Montpellier, France; (http://www.aniseed.cnrs.fr/lemaire) cherche à comprendre l'évolution du développement des embryons d'une classe danimaux marins proches parents des vertébrés, les ascidies (tuniciers).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	L'équipe est composée de biologistes et de bio-informaticiens et est localisée au Centre de Recherche de Biochimie Macromoléculaire (CRBM), à Montpellier.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	STAGE:
 
 Le but du stage est de comparer la dynamique et de quantifier la divergence des profils d'expression embryonnaires des gènes de 3 espèces d'ascidies séparées par plusieurs centaines de millions d'années d'évolution.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Nous chercherons en particulier à déterminer si cette divergence à une structure temporelle (c-à-d si elle est minimale à un stade particulier de lembryogénèse), et si la fonction des gènes influe sur l'évolution de leurs profils d'expression.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Le/La stagiaire travaillera sur lanalyse des résultats obtenus à partir de séquençage à haut débit des ARNm (RNASeq) de 6 stades développementaux équivalents de trois espèces (Ciona intestinalis, Phalusia mammillata et Halocyntia roretzi) dont le génome a été séquencé et annoté.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	A partir d'un taux dexpression normalisé calculé à partir des données de RNA-seq pour chaque gène de chaque espèce à chaque stade du développement, le/la stagiaire développera des méthodes statistiques appropriées pour comparer ces profils entre espèces en prenant en compte à la fois les niveaux d'expression par stade et la dynamique d'expression au cours du développement.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	PROFIL ET COMPETENCES RECHERCHEES:
 
 Ce stage de niveau master est principalement destiné à des étudiants ayant une formation initiale en statistique, et ayant une bonne pratique du développement informatique.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Les candidat(e)s devront avoir lesprit déquipe et savoir faire preuve dautonomie, de dynamisme et de créativité.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Des connaissances de base en biologie seraient bienvenues mais ne sont pas essentielles, une bonne curiosité pour la biologie est suffisant.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	La maîtrise de l'anglais technique doit être suffisante pour écrire des documentations techniques, et interagir quotidiennement à l'oral.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Les compétences requises en informatique et statistique sont:
 - Languages de programmation : perl/python/C(ou C++), R.
 - Tests statistiques paramétriques et non paramétriques, méthodes d'analyses multifactorielles.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Une certaine familiarité avec les méthodes d'analyse des données de RNASeq serait un plus, mais ne constitue pas un prérequis.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	DUREE et modalités du stage: 
 5-6 mois.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Les stages sont gratifiés.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	RÉFÉRENCES: 
 Domazet-Loo, T., & Tautz, D. (2010).
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	A phylogenetically based transcriptome age index mirrors ontogenetic divergence patterns.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Nature, 468(7325), 8158.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Quint, M., Drost, H.-G., Gabel, A., Ullrich, K. K., Bönn, M., & Grosse, I.
 ==========================================
-La phrase 19 est en : n
+La phrase 19 est en : non detect
 	(2012).
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	A transcriptomic hourglass in plant embryogenesis.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Nature, 490 (7418), 98-101.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Wang, Z., Gerstein, M., & Snyder, M. (2009).
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	RNA-Seq: a revolutionary tool for transcriptomics.
 ==========================================
-La phrase 24 est en : ENG
+La phrase 24 est en : english
 	Nature Reviews Genetics, 10(1), 5763.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	CONTACTS: 
 
 patrick.lemaire@crbm.cnrs.fr;jacques.piette@crbm.cnrs.fr; christelle.dantec@crbm.cnrs.fr

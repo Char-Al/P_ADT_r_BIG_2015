@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-08_1" est globalement en : FRA
-[('ENG', 0.3862375793715147), ('FRA', 0.6229394671666489)]
+Le mail "bioinfo_2014-08_1" est globalement en : french
+[('french', 0.5307355280288072), ('english', 0.6982370050539576)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDD autre] Bioinformatician/informatician in proteogenomics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformatician/informatician in proteogenomics
 Type de poste : CDD autre
 Durée du poste : 2 ans
@@ -25,12 +25,12 @@ Email du contact : sebastien.carpentier@kuleuven.be
 Laboratoire : KU Leuven
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformaticianinformatician-proteogenomics
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -38,7 +38,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 

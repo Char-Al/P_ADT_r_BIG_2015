@@ -1,30 +1,30 @@
-Le mail "bioinfo_2014-12_2" est globalement en : FRA
-[('ENG', 0.3366026442335465), ('FRA', 1.1764922562726612)]
+Le mail "bioinfo_2014-12_2" est globalement en : french
+[('french', 0.06761480541233615), ('english', 8.709199318893214)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] rencontres ALPHY 2015
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 *** Appel à communications ***
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Bonjour à tous,
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	La réunion ALPHY se tiendra les 11 et 12 mars 2015 à Montpellier.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Il s'agit d'une réunion annuelle financée par le GDR BIM autour des
 mots clé "phylogénie", "génomique évolutive" et "bioinformatique".
 Les étudiants et jeunes chercheurs sont notamment encouragés à soumettre
@@ -33,32 +33,32 @@ un résumé. Ils trouveront en ALPHY un contexte peu formel et propice
 récents et des axes émergents sur ces thématiques en France.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	L'inscription est gratuite mais obligatoire. Une part du budget sera
 attribuée au co-financement des missions de jeunes chercheurs qui en
 feraient la demande.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Date limite de soumission des résumés: 9 février 2015.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Tous les détails sur:  http://lbbe.univ-lyon1.fr/alphy/
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Venez nombreux!
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	L'équipe ALPHY:
 Céline Brochier
 Laurent Duret
 Nicolas Galtier
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -66,7 +66,7 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 *** Appel à communications ***
 
@@ -74,36 +74,36 @@ Bonjour à tous,
 
 La réunion ALPHY se tiendra les 11 et 12 mars 2015 à Montpellier.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Il s'agit d'une réunion annuelle financée par le GDR BIM autour des
 mots clé "phylogénie", "génomique évolutive" et "bioinformatique".
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Les étudiants et jeunes chercheurs sont notamment encouragés à soumettre
 un résumé.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Ils trouveront en ALPHY un contexte peu formel et propice
 à la discussion, tout en permettant un tour d'horizon des développements
 récents et des axes émergents sur ces thématiques en France.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	L'inscription est gratuite mais obligatoire.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Une part du budget sera
 attribuée au co-financement des missions de jeunes chercheurs qui en
 feraient la demande.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Date limite de soumission des résumés: 9 février 2015.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Tous les détails sur:  http://lbbe.univ-lyon1.fr/alphy/
 
 Venez nombreux!
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	L'équipe ALPHY:
 Céline Brochier
 Laurent Duret

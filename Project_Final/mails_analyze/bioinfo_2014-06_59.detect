@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-06_59" est globalement en : FRA
-[('FRA', 0.19010750682167163), ('ENG', 3.9047696866853836)]
+Le mail "bioinfo_2014-06_59" est globalement en : french
+[('french', 0.4861825337251761), ('english', 0.9966732909146442)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ]  Ingénieur(e) en développementd’applications , ARCAD Web-Services et portail national des ressources génétiquesvégétales
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste :  Ingénieur(e) en développement d’applications, ARCAD
 Web-Services et portail national des ressources génétiques végétales
 Type de poste : CDD Ingénieur
@@ -27,12 +27,12 @@ Email du contact : chantal.hamelin@cirad.fr
 Laboratoire : UMR AGAP
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieure-en-d%C3%A9veloppement-d%E2%80%99applications-arcad-web-services-et-portail-national-des-ressou
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_79" est globalement en : FRA
-[('ENG', 0.3419245195059547), ('FRA', 0.494481970921115)]
+Le mail "bioinfo_2014-02_79" est globalement en : french
+[('french', 0.5688770096366655), ('english', 0.968435018340786)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][CDI autre] Statistician
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Statistician
 Type de poste : CDI autre
 Durée du poste : indéterminée
@@ -25,7 +25,7 @@ Email du contact : j.gallagher@reading.ac.uk
 Laboratoire : Statistical Services Centre, University of Reading
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/statistician
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/statistician
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Statistician

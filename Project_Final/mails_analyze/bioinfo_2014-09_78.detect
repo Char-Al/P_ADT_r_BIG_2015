@@ -1,66 +1,66 @@
-Le mail "bioinfo_2014-09_78" est globalement en : FRA
-[('ENG', 1.0683302398363568), ('FRA', 1.398420707044521)]
+Le mail "bioinfo_2014-09_78" est globalement en : french (conflict)
+[('french', 0.32934658132503947), ('english', 0.3873012631956426)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ISCB-Latin America x-Meeting on Bioinformatics with BSB and SoiBio (Brésil).
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	*** The Brazilian Symposium on Bioinformatics (BSB) 2014 ***
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Je me permets de vous transmettre cette appel à participation pour plusieurs Bioinfo conferences (BSB) à Belo Horizonte (Brésil).
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Au plaisir d'y accueillir vos participation!
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Ronnie ALVES
 Member of the team Methods and Algorithms for Bioinformatics (MAB) IBC/LIRMM
 Member of the Committee on Computational Biology (CE-BioComp) of the Brazilian Computer Society (SBC).
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	----------------------------------------------------------------
              BSB'2014 + ISCB-LA'2014 + X-meeting'2014
                Belo Horizonte, 28-30 October 2014 
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	      http://www.iscb.org/iscb-latinamerica2014-bsb-symposium
       http://www.iscb.org/iscb-latinamerica2014
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	---------------- Description -------------------------------
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	The third International Society for Computational Biology Latin America X-Meeting on Bioinformatics with BSB and SoiBio (ISCB-Latin America) will take place in Belo Horizonte, Brazil, at the Universidade Federal de Minas Gerais on October 28 - 30, 2014.  This exciting conference is expected to attract over 450 top-notch researchers and students from around the globe.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	The conference is comprised of exceptional keynote speakers, ample sessions developed from abstract submissions, and a large poster session.  There will also be an opportunity to publish selected papers in BMC Genomics.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	The Brazilian Symposium on Bioinformatics 2014 is an initiative sponsored by the Sociedade Brasileira de Computação, and its special interest group in Computational Biology (CE-BioComp).
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	BSB provides a general forum for presentation and discussion of original research on COMPUTATIONAL BIOLOGY, BIOINFORMATICS and SYSTEMS BIOLOGY. BSB 2014 would like to attract contributions from academic and industrial researchers, both in the exact sciences (computer science, mathematics and statistics) and in the life sciences (molecular biology, biochemistry, genetics, medicine, microbiology and others).
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	BSB 2014 will accept both full papers (for oral presentation) and short papers (to be presented as posters). Proceedings containing accepted full papers will be published as a volume in the Lecture Notes in Bioinformatics series, from Springer. We also expect to have best papers invited for revised and expanded submission to a special issue in an international journal.
 
 
@@ -69,20 +69,20 @@ Le paragraphe 12 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	*** The Brazilian Symposium on Bioinformatics (BSB) 2014 ***
 
 Je me permets de vous transmettre cette appel à participation pour plusieurs Bioinfo conferences (BSB) à Belo Horizonte (Brésil).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Au plaisir d'y accueillir vos participation!
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Ronnie ALVES
 Member of the team Methods and Algorithms for Bioinformatics (MAB) IBC/LIRMM
 Member of the Committee on Computational Biology (CE-BioComp) of the Brazilian Computer Society (SBC).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	----------------------------------------------------------------
              BSB'2014 + ISCB-LA'2014 + X-meeting'2014
                Belo Horizonte, 28-30 October 2014 
@@ -94,31 +94,31 @@ La phrase 4 est en : ENG
 
 The third International Society for Computational Biology Latin America X-Meeting on Bioinformatics with BSB and SoiBio (ISCB-Latin America) will take place in Belo Horizonte, Brazil, at the Universidade Federal de Minas Gerais on October 28 - 30, 2014.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	This exciting conference is expected to attract over 450 top-notch researchers and students from around the globe.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The conference is comprised of exceptional keynote speakers, ample sessions developed from abstract submissions, and a large poster session.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	There will also be an opportunity to publish selected papers in BMC Genomics.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	The Brazilian Symposium on Bioinformatics 2014 is an initiative sponsored by the Sociedade Brasileira de Computação, and its special interest group in Computational Biology (CE-BioComp).
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	BSB provides a general forum for presentation and discussion of original research on COMPUTATIONAL BIOLOGY, BIOINFORMATICS and SYSTEMS BIOLOGY.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	BSB 2014 would like to attract contributions from academic and industrial researchers, both in the exact sciences (computer science, mathematics and statistics) and in the life sciences (molecular biology, biochemistry, genetics, medicine, microbiology and others).
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	BSB 2014 will accept both full papers (for oral presentation) and short papers (to be presented as posters).
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Proceedings containing accepted full papers will be published as a volume in the Lecture Notes in Bioinformatics series, from Springer.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	We also expect to have best papers invited for revised and expanded submission to a special issue in an international journal.
 
 ==========================================

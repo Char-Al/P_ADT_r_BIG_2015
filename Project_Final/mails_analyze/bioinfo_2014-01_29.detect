@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_29" est globalement en : FRA
-[('FRA', 0.6459815243386353), ('ENG', 2.6056044350136753)]
+Le mail "bioinfo_2014-01_29" est globalement en : french
+[('french', 0.5125510634852704), ('english', 1.1360798025598042)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur en Bioinfor  matique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur en Bioinformatique
 Type de poste : CDD Ingénieur
 Durée du poste : 18 mois
@@ -26,7 +26,7 @@ Laboratoire : Centre National de Séquençage, Laboratoire de Bioinformatique
 Intégrative
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-en-bioinformatique-9
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-en-bioinformatique-9
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur en Bioinformatique

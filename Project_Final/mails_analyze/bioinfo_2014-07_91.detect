@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-07_91" est globalement en : FRA
-[('FRA', 0.28695766241158505), ('ENG', 0.7862876636074199)]
+Le mail "bioinfo_2014-07_91" est globalement en : french
+[('french', 0.4095272359682843), ('english', 0.6629598529706632)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD autre] Gestionnaire de données scientifiques
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Gestionnaire de données scientifiques
 Type de poste : CDD autre
 Durée du poste : 6 mois renouvelable
@@ -25,12 +25,12 @@ Email du contact : galateausalle-f@chu-caen.fr
 Laboratoire : Anatomie - Anapathologie CRN-Mesopath
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/gestionnaire-de-donn%C3%A9es-scientifiques
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -38,7 +38,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Gestionnaire de données scientifiques

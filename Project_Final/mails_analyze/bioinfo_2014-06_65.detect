@@ -1,56 +1,56 @@
-Le mail "bioinfo_2014-06_65" est globalement en : ENG
-[('ENG', 0.17913471122496058), ('FRA', 0.41756601517091047)]
+Le mail "bioinfo_2014-06_65" est globalement en : english
+[('english', 0.11163745556494546), ('french', 0.37468399276102193)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ADDICTION: ADdressing DIfficult problems in a Computationally Tractable fashION, with a special interest in computational biology
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	********************************************************************************
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	                                          ADDICTION                                                 
                                    International School on                                
 ADdressing DIfficult problems in a Computationally Tractable fashION   
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	                                 with a special interest in
                                   computational biology
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	                    Lisbon (Portugal), 16-21 November 2014                 
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	             http://team.inria.fr/bamboo/en/events/school-addiction/
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	********************************************************************************
                               CALL FOR PARTICIPATION                           
 ********************************************************************************
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	GENERAL INFORMATION ABOUT ADDICTION
 *******************************************************
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	ADDICTION is the second international event organised by the Inria 
 AMICI International Partnership (http://team.inria.fr/bamboo/amici/). 
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Its focus is on:
 - smart data structures;
 - algorithm engineering and experimental algorithms;
@@ -62,50 +62,50 @@ student or postdoc level, but may, depending on space, greet other
 interested participants. The scope of ADDICTION is international.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	COURSES AND LECTURERS
 ***********************************
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	The school features the following four lecturers:
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	* Friedrich Eisenbrandt (EPFL, Switzerland)
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	* Giuseppe Italiano (University of Rome "Tor Vergata", Italy)
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : french
 	* Kurt Melhorn (Max-Planck-Institute für Informatik at 
 Saarbrücken, Germany)
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	* Eli Upfal (Brown University, USA)
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	A title for their lectures will be provided soon on the school’s 
 website.
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	LOCATION
 *************
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	ADDICTION will be held at the Olissippo Marquês de Sá hotel,
 in Lisbon, Portugal. The hotel is a 2-minutes walk away from the 
 Calouste Gulbenkian Museum and its beautiful park. It is located 
 just between two of the main Metro lines of Lisbon.
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	Situated on the west coast of the country, where the Tagus river 
 meets the Atlantic Ocean, Lisbon is the western-most capital in 
 mainland Europe. It is known as the white city, thanks to its unique 
@@ -116,17 +116,17 @@ nightlife. A huge selection of restaurants is available, featuring
 Portuguese and international cuisine. 
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	Lisbon can be easily reached by daily direct flights from major 
 international cities.
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	ORGANISATION
 ********************
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	Scientific directors:
 * Pierluigi Crescenzi (University of Florence, Italy)
 * Alberto Marchetti-Spaccamela (University of Rome I, Italy)
@@ -134,34 +134,34 @@ Le paragraphe 22 est en : ENG
 * Leen Stougie (Free University Amsterdam and CWI, Netherlands)
 
 ==========================================
-Le paragraphe 23 est en : ENG
+Le paragraphe 23 est en : english
 	Organisation:
 * Florence Bouheddi and Marie-France Sagot (Inria), with the
   help of Susana Vinga (IDMEC-IST, Lisbon)
 
 ==========================================
-Le paragraphe 24 est en : ENG
+Le paragraphe 24 est en : english
 	REGISTER EARLY TO SAVE!
 ***********************************
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	Prospective participants should register by September 20, 2014.
 The form will be soon available on the school web site. 
 
 ==========================================
-Le paragraphe 26 est en : ENG
+Le paragraphe 26 est en : english
 	The early registration fee is 250 euros for PhD students and 300 
 euros for postdocs or other researchers. These fees cover access
 to the school, mid-day meals, coffee breaks and gala dinner. 
 
 ==========================================
-Le paragraphe 27 est en : ENG
+Le paragraphe 27 est en : english
 	Accommodation can be provided by the hotel at a preferential rate 
 until a date that will be indicated on the school website. 
 
 ==========================================
-Le paragraphe 28 est en : ENG
+Le paragraphe 28 est en : english
 	After September 20, 2014, depending on space, registration will 
 remain possible but the fees will be at the higher rate of 300 euros 
 for PhD students and 350 euros for postdocs or other researchers.
@@ -171,7 +171,7 @@ for PhD students and 350 euros for postdocs or other researchers.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	********************************************************************************
 
                                           ADDICTION                                                 
@@ -195,26 +195,26 @@ GENERAL INFORMATION ABOUT ADDICTION
 ADDICTION is the second international event organised by the Inria 
 AMICI International Partnership (http://team.inria.fr/bamboo/amici/).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Its focus is on:
 - smart data structures;
 - algorithm engineering and experimental algorithms;
 - probabilistic algorithms;
 - (M)ILP approaches simple and enumerative.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	On the application side there will be a special interest in computational 
 biology.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The School is addressed to young researchers at the PhD 
 student or postdoc level, but may, depending on space, greet other 
 interested participants.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The scope of ADDICTION is international.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : french
 	COURSES AND LECTURERS
 ***********************************
 
@@ -232,48 +232,48 @@ Saarbrücken, Germany)
 A title for their lectures will be provided soon on the school’s 
 website.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	LOCATION
 *************
 
 ADDICTION will be held at the Olissippo Marquês de Sá hotel,
 in Lisbon, Portugal.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The hotel is a 2-minutes walk away from the 
 Calouste Gulbenkian Museum and its beautiful park.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	It is located 
 just between two of the main Metro lines of Lisbon.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Situated on the west coast of the country, where the Tagus river 
 meets the Atlantic Ocean, Lisbon is the western-most capital in 
 mainland Europe.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	It is known as the white city, thanks to its unique 
 luminosity.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	The light, the atmosphere and the climate offer 
 marvelous walks all over the city.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Lisbon is extremely lively, 
 with a wealth of cultural events happening every day, and a vibrant 
 nightlife.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	A huge selection of restaurants is available, featuring 
 Portuguese and international cuisine.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Lisbon can be easily reached by daily direct flights from major 
 international cities.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	ORGANISATION
 ********************
 
@@ -290,27 +290,27 @@ Organisation:
 
 REGISTER EARLY TO SAVE!
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	***********************************
 
 Prospective participants should register by September 20, 2014.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	The form will be soon available on the school web site.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	The early registration fee is 250 euros for PhD students and 300 
 euros for postdocs or other researchers.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	These fees cover access
 to the school, mid-day meals, coffee breaks and gala dinner.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	Accommodation can be provided by the hotel at a preferential rate 
 until a date that will be indicated on the school website.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	After September 20, 2014, depending on space, registration will 
 remain possible but the fees will be at the higher rate of 300 euros 
 for PhD students and 350 euros for postdocs or other researchers.

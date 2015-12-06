@@ -1,47 +1,47 @@
-Le mail "bioinfo_2014-11_77" est globalement en : ENG
-[('ENG', 0.3745531473680901), ('FRA', 0.992308827004829)]
+Le mail "bioinfo_2014-11_77" est globalement en : english
+[('english', 0.16862540889570377), ('french', 0.7022310815864605)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] EMBL-EBI-Wellcome Trust Advanced course In Silico Systems Biology
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	EMBL-EBI-Wellcome Trust workshop on
 In Silico Systems Biology
 7-12 June 2015
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Open for Applications (apply by 23 January)
 http://advanced-courses-wellcome.msgfocus.com/c/16o3vePBAEPZXF67bCPVXEY
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Applications are invited for this joint EMBL-EBI-Wellcome Trust workshop. The week-long programme will combine lectures on modelling approaches, led discussions to identify the key challenges, opportunities and bottlenecks, and practical sessions on network analysis and network-based modelling.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The workshop is aimed at PhD students and researchers with a minimum of one year’s experience in the field of systems biology modelling, and who are using systems-based modelling approaches to understand biomedical problems. It is beneficial if participants have experience of using pathway modelling in their work. Full details are on the workshop website.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Limited bursaries for PhD students covering up to 50% of the workshop fee are also available. Bursaries are awarded on merit. Applications and bursary requests must be received by 23 January 2015.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Scientific Organising Committee
 Nicolas Le Novère (EMBL-EBI, UK)
 Julio Saez-Rodriguez (EMBL-EBI, UK)
 Laura Emery (EMBL-EBI, UK)
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Course Trainers
 Nicolas Le Novère (EMBL-EBI, UK)
 Julio Saez-Rodriguez (EMBL-EBI, UK)
@@ -59,7 +59,7 @@ Karen Lipkow (University of Cambridge, UK)
 Nicolas Rodriguez (EMBL-EBI, UK)
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	-- 
 Nicolas LE NOVERE, Babraham Institute, Babraham Campus Cambridge, CB22 3AT
 Tel: +441223496433 Fax: +441223496034 Mob:+447833147074 twitter:@lenovere
@@ -72,7 +72,7 @@ http://lenoverelab.org/, http://lenoverelab.org/perso/lenov/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	EMBL-EBI-Wellcome Trust workshop on
 In Silico Systems Biology
 7-12 June 2015
@@ -82,28 +82,28 @@ http://advanced-courses-wellcome.msgfocus.com/c/16o3vePBAEPZXF67bCPVXEY
 
 Applications are invited for this joint EMBL-EBI-Wellcome Trust workshop.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The week-long programme will combine lectures on modelling approaches, led discussions to identify the key challenges, opportunities and bottlenecks, and practical sessions on network analysis and network-based modelling.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The workshop is aimed at PhD students and researchers with a minimum of one year’s experience in the field of systems biology modelling, and who are using systems-based modelling approaches to understand biomedical problems.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	It is beneficial if participants have experience of using pathway modelling in their work.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Full details are on the workshop website.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Limited bursaries for PhD students covering up to 50% of the workshop fee are also available.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Bursaries are awarded on merit.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Applications and bursary requests must be received by 23 January 2015.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Scientific Organising Committee
 Nicolas Le Novère (EMBL-EBI, UK)
 Julio Saez-Rodriguez (EMBL-EBI, UK)

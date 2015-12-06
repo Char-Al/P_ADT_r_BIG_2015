@@ -1,75 +1,75 @@
-Le mail "bioinfo_2014-06_36" est globalement en : FRA
-[('FRA', 1.8788306557911585), ('ENG', 18.609276681263136)]
+Le mail "bioinfo_2014-06_36" est globalement en : french
+[('french', 0.034193554258021217), ('english', 2.4980080548162653)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Prix de thèse Gilles Kahn 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	+++   Prix de thèse Gilles Kahn 2014,
 +++   patronné par l'Académie des Sciences et décerné par la SiF
 +++   http://www.societe-informatique-de-france.fr/recherche/prix-de-these-gilles-kahn/
 +++   Date limite de candidature : 14 septembre 2014.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Le prix de la Société Informatique de France (SiF, anciennement Specif) a été créé en 1998 pour récompenser chaque année une excellente thèse en Informatique. Gilles Kahn qui a présidé les trois premiers jurys du prix était convaincu de l’intérêt de promouvoir les jeunes talents les plus prometteurs de notre discipline. En son honneur, le prix a pris depuis 2007 le nom de Prix de thèse Gilles Kahn et est patronné par l’Académie des Sciences qui rend ainsi hommage à un de ses membres éminents.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	La SiF souhaite par ce prix promouvoir toutes les facettes de l’informatique, des travaux fondamentaux aux travaux appliqués ayant donné lieu à transfert industriel, de ceux réalisés dans les grands centres à ceux réalisés dans des centres plus modestes. L’objectif de ce prix est de dynamiser et de motiver de jeunes chercheurs en les récompensant, et de faire connaître à l’ensemble de la communauté informatique d’excellents travaux de recherche. Un jury d’universitaires et de chercheurs, présidé par Michel Riveill, sélectionnera parmi les thèses soutenues au cours de l’année universitaire celle qui recevra ce prix. En outre, le jury pourra également distinguer, s’il le souhaite, au plus deux accessits.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	La remise oﬃcielle du prix se fera début de l’année 2015 au cours d’une cérémonie associant la SiF et l’Académie des Sciences. À cette occasion, le récipiendaire se verra remettre un chèque de 1500 euros et chacun des autres lauréats éventuels un chèque de 500 euros. Tous seront également invités à présenter leurs travaux à l’ensemble de la communauté scientifique. Sous réserve de remplir les conditions de candidature, les lauréats au prix de thèse Gilles Kahn seront considérés comme candidats à la nomination par Inria pour le prix Cor Baayen de l’ERCIM.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Les critères pris en compte par le jury pour sélectionner les lauréats sont notamment l’originalité des résultats, l’originalité du domaine et des méthodes utilisées, l’importance et l’impact des résultats obtenus, et bien évidemment la qualité de la rédaction puisqu'il s'agit de récompenser non seulement un travail mais surtout une thèse.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	En 2013, sous la présidence de Michel Riveill et avec l’assistante de Nathalie Bertrand, secrétaire du prix, le jury était constitué de Xavier Allamigeon (prix 2010), Béatrice Bérard, Hugues Berry, Nathalie Bertrand, André Chailloux (prix 2011), Hubert Comon, Mathieu Feuillet (prix 2012), Cyril Gavoille, Patrick Girard, Jacques-Olivier Lachaud, Pierre Marquis, Amedeo Napoli, Jean Ponce, Michel Riveill, Claudia Roncancio, Olivier H. Roux, Pierre Sens, Christine Solnon, Ye-Qiong Song, Juan-Manuel Torres Moreno et Hélène Touzet. Comme c’est l’usage, le jury sera partiellement renouvelé pour le prix 2014, le jury étant totalement renouvelé tous les trois ans. 
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	===   Calendrier
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	* 15 juillet 2014 : ouverture de l'interface web de soumission
 * 14 septembre 2014 : date limite de dépôt des candidatures
 * 1 décembre 2014 : notiﬁcation des résultats
 * début 2015 : remise oﬃcielle du prix lors de l’Assemblée Générale de la SIF
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	===   Interface web de candidature
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : french
 	http://prix-sif.inria.fr/
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	===   Dossier de candidature
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Peut candidater tout étudiant ayant soutenu son doctorat d’informatique dans une école ou université française entre le 1er septembre 2013 et le 31 août 2014. Toute candidature devra être explicitement soutenue par le directeur de thèse ou un des co-directeurs. Il n’est pas permis à un même encadrant de soutenir deux candidats.
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Tous les documents doivent être déposés, sous forme de ﬁchiers PDF exclusivement, par le biais de l’interface web. En cas de problèmes à utiliser l’interface, ou pour toute autre question concernant le prix, les candidats sont invités à contacter par courrier électronique la secrétaire du prix, Nathalie Bertrand (nathalie.bertrand@inria.fr).
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Chaque dossier doit notamment comprendre:
 * La thèse (en PDF)
 * Les rapports de pré-soutenance des rapporteurs (scannés, en PDF)
@@ -78,7 +78,7 @@ Le paragraphe 14 est en : FRA
 * Des rapports complémentaires que le candidat jugerait utile de fournir au jury, envoyés par les personnes concernées
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	Le formulaire en ligne demande également de saisir certaines informations : un résumé de 2 pages de la thèse, un CV d’une page maximum ainsi qu'une liste de publications.
 
 ==========================================
@@ -86,55 +86,55 @@ Le paragraphe 15 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	+++   Prix de thèse Gilles Kahn 2014,
 +++   patronné par l'Académie des Sciences et décerné par la SiF
 +++   http://www.societe-informatique-de-france.fr/recherche/prix-de-these-gilles-kahn/
 +++   Date limite de candidature : 14 septembre 2014.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le prix de la Société Informatique de France (SiF, anciennement Specif) a été créé en 1998 pour récompenser chaque année une excellente thèse en Informatique.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Gilles Kahn qui a présidé les trois premiers jurys du prix était convaincu de l’intérêt de promouvoir les jeunes talents les plus prometteurs de notre discipline.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	En son honneur, le prix a pris depuis 2007 le nom de Prix de thèse Gilles Kahn et est patronné par l’Académie des Sciences qui rend ainsi hommage à un de ses membres éminents.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	La SiF souhaite par ce prix promouvoir toutes les facettes de l’informatique, des travaux fondamentaux aux travaux appliqués ayant donné lieu à transfert industriel, de ceux réalisés dans les grands centres à ceux réalisés dans des centres plus modestes.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	L’objectif de ce prix est de dynamiser et de motiver de jeunes chercheurs en les récompensant, et de faire connaître à l’ensemble de la communauté informatique d’excellents travaux de recherche.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Un jury d’universitaires et de chercheurs, présidé par Michel Riveill, sélectionnera parmi les thèses soutenues au cours de l’année universitaire celle qui recevra ce prix.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	En outre, le jury pourra également distinguer, s’il le souhaite, au plus deux accessits.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	La remise oﬃcielle du prix se fera début de l’année 2015 au cours d’une cérémonie associant la SiF et l’Académie des Sciences.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	À cette occasion, le récipiendaire se verra remettre un chèque de 1500 euros et chacun des autres lauréats éventuels un chèque de 500 euros.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Tous seront également invités à présenter leurs travaux à l’ensemble de la communauté scientifique.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Sous réserve de remplir les conditions de candidature, les lauréats au prix de thèse Gilles Kahn seront considérés comme candidats à la nomination par Inria pour le prix Cor Baayen de l’ERCIM.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Les critères pris en compte par le jury pour sélectionner les lauréats sont notamment l’originalité des résultats, l’originalité du domaine et des méthodes utilisées, l’importance et l’impact des résultats obtenus, et bien évidemment la qualité de la rédaction puisqu'il s'agit de récompenser non seulement un travail mais surtout une thèse.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	En 2013, sous la présidence de Michel Riveill et avec l’assistante de Nathalie Bertrand, secrétaire du prix, le jury était constitué de Xavier Allamigeon (prix 2010), Béatrice Bérard, Hugues Berry, Nathalie Bertrand, André Chailloux (prix 2011), Hubert Comon, Mathieu Feuillet (prix 2012), Cyril Gavoille, Patrick Girard, Jacques-Olivier Lachaud, Pierre Marquis, Amedeo Napoli, Jean Ponce, Michel Riveill, Claudia Roncancio, Olivier H. Roux, Pierre Sens, Christine Solnon, Ye-Qiong Song, Juan-Manuel Torres Moreno et Hélène Touzet.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Comme c’est l’usage, le jury sera partiellement renouvelé pour le prix 2014, le jury étant totalement renouvelé tous les trois ans.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	===   Calendrier
 
 * 15 juillet 2014 : ouverture de l'interface web de soumission
@@ -150,19 +150,19 @@ http://prix-sif.inria.fr/
 
 Peut candidater tout étudiant ayant soutenu son doctorat d’informatique dans une école ou université française entre le 1er septembre 2013 et le 31 août 2014.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Toute candidature devra être explicitement soutenue par le directeur de thèse ou un des co-directeurs.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Il n’est pas permis à un même encadrant de soutenir deux candidats.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	Tous les documents doivent être déposés, sous forme de ﬁchiers PDF exclusivement, par le biais de l’interface web.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	En cas de problèmes à utiliser l’interface, ou pour toute autre question concernant le prix, les candidats sont invités à contacter par courrier électronique la secrétaire du prix, Nathalie Bertrand (nathalie.bertrand@inria.fr).
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Chaque dossier doit notamment comprendre:
 * La thèse (en PDF)
 * Les rapports de pré-soutenance des rapporteurs (scannés, en PDF)

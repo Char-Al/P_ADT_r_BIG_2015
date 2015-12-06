@@ -1,26 +1,26 @@
-Le mail "bioinfo_2014-01_76" est globalement en : ENG
-[('ENG', 0.35193499984608223), ('FRA', 0.5599042571639804)]
+Le mail "bioinfo_2014-01_76" est globalement en : english
+[('english', 0.08903861080514762), ('french', 0.4367196492155398)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] 2nd CFP  - Deadline extension - Special issue of BMC Bioinformatics
  on BioNLP Shared Task 2013 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	pourrez-vous diffuser l'annonce ci-dessous ? Merci beaucoup,
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Claire Nédellec
 Editeur invité du numéro spécial
 ------
@@ -28,47 +28,47 @@ Editeur invité du numéro spécial
              2nd CALL FOR PAPERS and DEADLINE EXTENSION
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Special issue of BMC Bioinformatics on BioNLP Shared Task 2013
 
 ==========================================
-Le paragraphe 5 est en : n
+Le paragraphe 5 est en : non detect
 	====================================================================
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	http://2013.bionlp-st.org/bmc-bioinformatics-special-issue
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	IMPORTANT DATES
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Feb 3 Manuscript submission due (draft version)
 Feb 10 Manuscript submission (final version)
 Mar 15 Acceptance notification of first-round review
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	To prepare the review process, we ask all those planning to submit a 
 manuscript to submit an early version of the paper (draft version),
 including title and abstract, prior to the primary manuscript submission 
 that will only be used to coordinate reviews.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : english
 	SUBMISSION
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	The paper format should follow the BMC Bioinformatics guidelines: 
 http://www.biomedcentral.com/bmcbioinformatics/ifora/
 Paper should be submitted via Easychair: 
 https://www.easychair.org/conferences/submission_new.cgi?a=5801489
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	We invite two kinds of submissions:
 - Extended versions of BioNLP-ST 2013 workshop papers. Each extended 
 submission must include a substantial amount of previously unpublished 
@@ -77,11 +77,11 @@ and the extended contribution has to be clearly stated.
 - Papers on new contributions to the BioNLP-ST 2013 tasks.
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	SPECIAL ISSUE EDITORS
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Claire Nédellec, National Institute for Agricultural Research (INRA)
 Jin-Dong Kim, Database Center for Life Science (DBCLS)
 Sampo Pyysalo, University of Turku
@@ -89,11 +89,11 @@ Sophia Ananiadou, National Centre for Text Mining, (NaCTem)
 Pierre Zweigenbaum, National Center for Scientific Research (CNRS)
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Read more: http://2013.bionlp-st.org/bmc-bioinformatics-special-issue
 
 ==========================================
-Le paragraphe 16 est en : n
+Le paragraphe 16 est en : non detect
 	--------------------------------
 
 
@@ -102,12 +102,12 @@ Le paragraphe 16 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Bonjour,
 
 pourrez-vous diffuser l'annonce ci-dessous ?
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Merci beaucoup,
 
 Claire Nédellec
@@ -133,7 +133,7 @@ manuscript to submit an early version of the paper (draft version),
 including title and abstract, prior to the primary manuscript submission 
 that will only be used to coordinate reviews.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	SUBMISSION
 
 The paper format should follow the BMC Bioinformatics guidelines: 
@@ -144,19 +144,19 @@ https://www.easychair.org/conferences/submission_new.cgi?a=5801489
 We invite two kinds of submissions:
 - Extended versions of BioNLP-ST 2013 workshop papers.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Each extended 
 submission must include a substantial amount of previously unpublished 
 content.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	In this type of submission, the workshop paper should be cited 
 and the extended contribution has to be clearly stated.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	- Papers on new contributions to the BioNLP-ST 2013 tasks.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	SPECIAL ISSUE EDITORS
 
 Claire Nédellec, National Institute for Agricultural Research (INRA)

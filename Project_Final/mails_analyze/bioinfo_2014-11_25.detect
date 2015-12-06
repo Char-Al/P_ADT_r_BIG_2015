@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-11_25" est globalement en : ENG
-[('ENG', 0.24401892100047082), ('FRA', 0.5075548796375895)]
+Le mail "bioinfo_2014-11_25" est globalement en : english
+[('english', 0.08531379187345295), ('french', 0.3555714667214692)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Synthetic Biology Seminar Engineering Life: Tim Lu (MIT) and Diego
  di Bernardo (TIGEM) - Nov 14 - Pasteur, Paris
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear all,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	There will be a *Synthetic Biology Seminar* on Engineering Life this 
 Friday (Nov 14), at Institut Pasteur (salle Jules Bordet, 25 rue du Dr 
 Roux, Paris):
@@ -26,7 +26,7 @@ gene networks
 human health applications
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	This seminar will be followed by the *PhD defense of Xavier Duportet* 
 (INRIA/MIT) in amphitéâtre Duclaux (Pasteur):
 14h30 - Developing new tools and platforms for mammalian synthetic 
@@ -39,18 +39,18 @@ rapporteur), Diego Di Bernardo (TIGEM, rapporteur), Didier Mazel
 Gregory Batt (INRIA, directeur de thèse).
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	To register to the seminar and/or the defense, please send an email to 
 xavier.duportet@gmail.com and bring an ID. This is mandatory to enter 
 the Pasteur campus.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Best,
 Gregory
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	-- 
 ===================================================================
 Gregory Batt                            INRIA, Rocquencourt, France
@@ -59,7 +59,7 @@ Gregory.Batt@inria.fr               http://www-rocq.inria.fr/~batt/
 ===================================================================
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	
 
 ==========================================
@@ -67,7 +67,7 @@ Le paragraphe 7 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear all,
 
 There will be a *Synthetic Biology Seminar* on Engineering Life this 
@@ -89,15 +89,15 @@ rapporteur), Diego Di Bernardo (TIGEM, rapporteur), Didier Mazel
 (Pasteur, examinateur), Franck Molina (SysDiag CNRS, examinateur), and 
 Gregory Batt (INRIA, directeur de thèse).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	To register to the seminar and/or the defense, please send an email to 
 xavier.duportet@gmail.com and bring an ID.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	This is mandatory to enter 
 the Pasteur campus.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Best,
 Gregory
 

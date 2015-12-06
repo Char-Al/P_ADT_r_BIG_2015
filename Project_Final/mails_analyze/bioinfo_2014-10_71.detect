@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_71" est globalement en : FRA
-[('ENG', 0.5861479404848526), ('FRA', 1.189037985533531)]
+Le mail "bioinfo_2014-10_71" est globalement en : english (conflict)
+[('english', 0.7704668464700727), ('french', 0.8466014047675547)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Sequence Analysis / Synthetic biology
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Sequence Analysis / Synthetic biology
 Type de poste : Post-doc / IR
 Durée du poste :
@@ -25,7 +25,7 @@ Email du contact : ian.small@uwa.edu.au
 Laboratoire : ARC Centre of Excellence in Plant Energy Biology
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/sequence-analysis-synthetic-biology
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/sequence-analysis-synthetic-biology
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Sequence Analysis / Synthetic biology

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_40" est globalement en : FRA
-[('FRA', 0.3644501005957065), ('ENG', 4.009213243979062)]
+Le mail "bioinfo_2014-03_40" est globalement en : french
+[('french', 0.48241992216902535), ('english', 1.9198142113225372)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ]  Développeur analyse de données NGS
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développeur analyse de données NGS
 Type de poste : CDD Ingénieur
 Durée du poste : 12 mois
@@ -25,12 +25,12 @@ Email du contact : marc.aubry@univ-rennes1.fr
 Laboratoire : Plate-forme Génomique Santé Biosit – Université de Rennes1
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/ingénieurdéveloppeur-analyse-de-données-ngs
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -38,7 +38,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Développeur analyse de données NGS

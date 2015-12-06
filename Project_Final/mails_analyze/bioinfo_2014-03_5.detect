@@ -1,49 +1,49 @@
-Le mail "bioinfo_2014-03_5" est globalement en : ENG
-[('ENG', 0.6239390531696658), ('FRA', 1.369680337018289)]
+Le mail "bioinfo_2014-03_5" est globalement en : english
+[('english', 0.0700156803514015), ('french', 0.44313767432405654)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] CFP: Prague Stringology Conference 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	---------------------------------------------------------------------------
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	                    Prague Stringology Conference 2014
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	                19th event of the Prague Stringology Club
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	                       http://www.stringology.org
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	                            Call for Papers
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	               Prague, Czech Republic, September 1-3, 2014
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	---------------------------------------------------------------------------
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	* New: indexed by Scopus and Thomson Reuters
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	PSC 2014 is the 19th event of the Prague Stringology Club. It is an
 international conference focusing on stringology and related areas. It
 is organized annually by the Prague Stringology Club, a research group
@@ -53,11 +53,11 @@ proceedings of recent conferences are indexed in Thomson Reuters,
 Scopus and DBLP.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	TOPICS:
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Stringology is a part of algorithmic research that deals with the
 processing of text strings. It has existed for at least thirty years
 and developed into a respected subfield of its own. The last twenty
@@ -68,7 +68,7 @@ processing that is called Arbology. The topics of the conference
 include but are not limited to:
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	   * algorithms for pattern matching in strings, images and trees
    * data structures (automata, trees etc.) for pattern matching
      in strings, images and trees
@@ -80,19 +80,19 @@ Le paragraphe 12 est en : ENG
    * natural language processing
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	INVITED TALK:
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	   * To be announced
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : english
 	SUBMISSION:
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Authors are cordially invited to submit their full papers (PDF format,
 up to 15 pages, A4 page format) by May 13, 2014. The paper should start
 with the title, each author's name, affiliation, and e-mail address,
@@ -101,28 +101,28 @@ be submitted via submission server
 (https://www.easychair.org/conferences/?conf=psc20140).
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	For their final version the papers are required to be prepared using
 the LaTeX style available athttp://www.stringology.org/pscproc2
 which has an interface compatible to the standard LNCS style.
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	IMPORTANT DATES:
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	   * Submission of Papers: May 13, 2014
    * Notification of Acceptance: June 27, 2014
    * Early Registration: July 7, 2014
    * Final Version Due: July 7, 2014
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	PROGRAM COMMITTEE:
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	   * A. Amir, Bar Ilan University, Israel
    * G. Andrejkova, P. J. Safarik University, Slovakia
    * M. Crochemore, University of Marne-la-Vallee, France,
@@ -145,11 +145,11 @@ Le paragraphe 21 est en : ENG
    * J. Zdarek, Czech Technical University in Prague, Czech Republic
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	ORGANIZING COMMITTEE:
 
 ==========================================
-Le paragraphe 23 est en : ENG
+Le paragraphe 23 est en : english
 	   * M. Balik (co-chair), Czech Technical University in Prague,
             Czech Republic
    * J. Holub (co-chair), Czech Technical University in Prague,
@@ -160,11 +160,11 @@ Le paragraphe 23 est en : ENG
    * J. Zdarek, Czech Technical University in Prague, Czech Republic
 
 ==========================================
-Le paragraphe 24 est en : ENG
+Le paragraphe 24 est en : english
 	HISTORY:
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	PSC 2014 was preceded by Prague Stringology Workshops in 1996-2000 and
 by Prague Stringology Conferences in 2001-2006, 2008-2013. Each year
 proceedings are prepared for the conference. They are published by
@@ -177,11 +177,11 @@ Combinatorics, International Journal of Foundations in Computer
 Science, and Discrete Applied Mathematics.
 
 ==========================================
-Le paragraphe 26 est en : ENG
+Le paragraphe 26 est en : english
 	LOCATION & PUBLICATION:
 
 ==========================================
-Le paragraphe 27 est en : ENG
+Le paragraphe 27 est en : english
 	PSC 2014 will be held at the Department of Theoretical Computer Science
 the Czech Technical University in Prague on September 1-3, 2014.
 (The precise location will be announced later.) The working
@@ -191,19 +191,19 @@ Prague and distributed at the conference. After further refereeing,
 selected papers will then be published in an international journal.
 
 ==========================================
-Le paragraphe 28 est en : ENG
+Le paragraphe 28 est en : english
 	---------------------------------------------------------------------------
 We apologize if you have received multiple copies of this announcement.
 
 ==========================================
-Le paragraphe 29 est en : ENG
+Le paragraphe 29 est en : english
 	If you wish to be removed from the mailing list used for distributing
 announcements of the Prague Stringology Conferences or other events
 related to automata and stringology (see the topics above), reply this
 e-mail with the message "REMOVE ME FROM THIS MAILING LIST."
 
 ==========================================
-Le paragraphe 30 est en : n
+Le paragraphe 30 est en : non detect
 	
 
 ==========================================
@@ -211,7 +211,7 @@ Le paragraphe 30 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	---------------------------------------------------------------------------
 
                     Prague Stringology Conference 2014
@@ -230,52 +230,52 @@ La phrase 1 est en : ENG
 
 PSC 2014 is the 19th event of the Prague Stringology Club.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	It is an
 international conference focusing on stringology and related areas.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	It
 is organized annually by the Prague Stringology Club, a research group
 in the Department of Theoretical Computer Science at the Faculty of
 Information Technology of Czech Technical University in Prague.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The
 proceedings of recent conferences are indexed in Thomson Reuters,
 Scopus and DBLP.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	TOPICS:
 
 Stringology is a part of algorithmic research that deals with the
 processing of text strings.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	It has existed for at least thirty years
 and developed into a respected subfield of its own.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The last twenty
 years have produced an explosion of new results.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	This progress is due
 in part to the human genome effort, an area to which string algorithms
 make important contributions.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	String processing extends into tree
 processing that is called Arbology.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	The topics of the conference
 include but are not limited to:
 
    * algorithms for pattern matching in strings, images and trees
    * data structures (automata, trees etc.)
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	for pattern matching
      in strings, images and trees
    * coding and data compression
@@ -298,22 +298,22 @@ SUBMISSION:
 Authors are cordially invited to submit their full papers (PDF format,
 up to 15 pages, A4 page format) by May 13, 2014.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	The paper should start
 with the title, each author's name, affiliation, and e-mail address,
 and a one-paragraph summary of the results and ideas.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	The paper should
 be submitted via submission server
 (https://www.easychair.org/conferences/?conf=psc20140).
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	For their final version the papers are required to be prepared using
 the LaTeX style available athttp://www.stringology.org/pscproc2
 which has an interface compatible to the standard LNCS style.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	IMPORTANT DATES:
 
    * Submission of Papers: May 13, 2014
@@ -366,53 +366,53 @@ HISTORY:
 PSC 2014 was preceded by Prague Stringology Workshops in 1996-2000 and
 by Prague Stringology Conferences in 2001-2006, 2008-2013.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Each year
 proceedings are prepared for the conference.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	They are published by
 Czech Technical University in Prague and are also available from the
 PSC web pages.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Selected papers from the later workshops were also
 published in a special issue of the journal Kybernetika.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Selected
 papers from the 2002-2006, 2008 conferences were then published in the
 Nordic Journal of Computing, Journal of Automata, Languages, and
 Combinatorics, International Journal of Foundations in Computer
 Science, and Discrete Applied Mathematics.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	LOCATION & PUBLICATION:
 
 PSC 2014 will be held at the Department of Theoretical Computer Science
 the Czech Technical University in Prague on September 1-3, 2014.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	(The precise location will be announced later.)
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	The working
 language is English.
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	As usual, accepted papers will appear in
 conference proceedings published by the Czech Technical University in
 Prague and distributed at the conference.
 ==========================================
-La phrase 24 est en : ENG
+La phrase 24 est en : english
 	After further refereeing,
 selected papers will then be published in an international journal.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	---------------------------------------------------------------------------
 We apologize if you have received multiple copies of this announcement.
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	If you wish to be removed from the mailing list used for distributing
 announcements of the Prague Stringology Conferences or other events
 related to automata and stringology (see the topics above), reply this

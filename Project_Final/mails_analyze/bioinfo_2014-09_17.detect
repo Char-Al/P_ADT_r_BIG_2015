@@ -1,39 +1,39 @@
-Le mail "bioinfo_2014-09_17" est globalement en : FRA
-[('FRA', 0.5779408538374615), ('ENG', 25.87755378314286)]
+Le mail "bioinfo_2014-09_17" est globalement en : french
+[('french', 0.02977736079550004), ('english', 6.201002232984701)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Christine Sinoquet - soutenance d'Habilitation à diriger des Recherches
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	J'ai le plaisir de vous annoncer que la vidéo de ma soutenance 
 d'Habilitation à diriger des Recherches (28 mai 2014) se trouve en ligne 
 à l'adresse :
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	https://www.lina.univ-nantes.fr/?Christine-Sinoquet-2030.html
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Christine Sinoquet
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Titre :
 Approches par optimisation combinatoire et par apprentissage statistique 
 en bioinformatique
@@ -41,7 +41,7 @@ Applications pour la fouille et la modélisation de données complexes en
 génomique et en génétique
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Jury :
 Jean-Daniel ZUCKER, Rapporteur
 Christel VRAIN, Rapporteur
@@ -56,7 +56,7 @@ Philippe LERAY, Membre invité
 Philippe BESNARD, Membre invité
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Résumé :
 Ce mémoire présente les activités de recherche que j'ai menées depuis 
 2002. Toujours centrées sur la bioinformatique, mes activités se sont 
@@ -86,7 +86,7 @@ réaliser des études d'association génotype-phénotype a été démontrée sur
 des données simulées et réelles.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Un fil conducteur relie les deux activités particulièrement mises en 
 exergue dans le mémoire : traitant des problèmes de fouilles de données 
 complexes, elles recourent à diverses stratégies pour parcourir 
@@ -105,7 +105,7 @@ biologistes, des statisticiens épidémiologistes et des mathématiciens
 appliqués.
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -113,7 +113,7 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 J'ai le plaisir de vous annoncer que la vidéo de ma soutenance 
@@ -150,89 +150,89 @@ Résumé :
 Ce mémoire présente les activités de recherche que j'ai menées depuis 
 2002.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Toujours centrées sur la bioinformatique, mes activités se sont 
 déplacées de la seule algorithmique à l'intelligence artificielle, à 
 partir de 2008.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Sont particulièrement mis en lumière deux types 
 d'activités, relevant respectivement de l'optimisation combinatoire et 
 de l'apprentissage automatique.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	D'une part, dans le domaine de la 
 recherche de motif commun à des séquences biologiques, je me suis 
 notamment intéressée à la conception de méthodes heuristiques dédiées.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ces travaux se sont concrétisés par la mise au point d'une méthode 
 hybride, intégrant un processus constructif et un processus évolutif.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	D'autre part, introduisant une rupture totale dans la complexité des 
 problèmes abordés jusqu'alors dans mes activités, mes travaux se sont 
 ensuite focalisés sur les études d'association pangénomiques.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Ces études 
 visent à identifier les facteurs génétiques responsables de maladies 
 génétiques, à l'échelle du génome, à partir de cohortes malades / non 
 malades.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Dans ce cadre, au carrefour entre théorie des graphes et 
 théorie des probabilités, une nouvelle classe spécifique de modèles 
 graphiques probabilistes a été proposée.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Ce type de modèle, ou forêt de 
 modèles hiérarchiques à variables latentes, est dédié à la modélisation 
 de données complexes, de grande dimension, et fortement corrélées.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Cette 
 modélisation a facilité la conception d'un algorithme d'apprentissage 
 qui passe à l'échelle.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Cette avancée a alors rendu possible la 
 modélisation des données génétiques décrivant une population à l'échelle 
 du génome.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Enfin, la pertinence de l'utilisation de ce modèle pour 
 réaliser des études d'association génotype-phénotype a été démontrée sur 
 des données simulées et réelles.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Un fil conducteur relie les deux activités particulièrement mises en 
 exergue dans le mémoire : traitant des problèmes de fouilles de données 
 complexes, elles recourent à diverses stratégies pour parcourir 
 efficacement l'espace de recherche.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Le troisième volet du mémoire 
 présente plus rapidement une sélection de mes autres activités de 
 recherche.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Ce spectre englobe la correction de données de phylogénie, la 
 génomique comparative centrée sur les promoteurs forts potentiels des 
 procaryotes, la modélisation de réseaux de régulation de gènes, 
 l'imputation de données génétiques et la simulation réaliste de données 
 génétiques.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Trois de ces contributions sont étroitement liées aux deux 
 thématiques développées ci-dessus.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	La plupart des contributions évoquées 
 dans ce mémoire a abouti à la mise au point d'algorithmes validés sur 
 données réelles ou simulées.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	La grande majorité de ces contributions a 
 donné lieu à d'étroites collaborations interdisciplinaires avec des 
 biologistes, des statisticiens épidémiologistes et des mathématiciens 

@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-09_4" est globalement en : FRA
-[('FRA', 0.19077406761536803), ('ENG', 0.5796940080142657)]
+Le mail "bioinfo_2014-09_4" est globalement en : french
+[('french', 0.021677214474139013), ('english', 1.669520444769986)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Annotation automatique de populations cellulaires dans des profils cytométriques
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Sujet:
 Développement et implémentation de nouvelles méthodes computationnelles pour l'annotation automatique de populations cellulaires dans des profils cytométriques.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Contexte:
 La cytométrie en flux et la cytométrie de masse sont des techniques permettant de mesurer simultanément des dizaines de marqueurs inter- et intra- cellulaires pour des centaines de milliers de cellules issues d'échantillons biologiques (tissus, prélèvements sanguins, .). Ce type de caractérisation est très important, en particulier pour améliorer nos connaissances biologiques du système immunitaire dans les interactions hôtes-pathogènes ou au cours d'études de vaccinations.
 Le service d'Immuno-Virologie du Commissariat à l'Energie Atomique à Fontenay-aux-Roses possède plusieurs instruments de cytométrie de flux et de masse. Chaque année, un grand nombre de profils cytométriques sont acquis et analysés dans le contexte de maladies infectieuses et d'études de vaccinations. Plusieurs logiciels et méthodes d'analyse de données de cytométrie existent et sont utilisés principalement pour (i) prétraiter, filtrer et normaliser les échantillons, (ii) organiser les données de manière hiérarchique, et (iii) identifier les cellules partageant les mêmes caractéristiques [1-4].
 Cependant, peu de méthodes et d'outils permettent d'annoter les cellules ou les profils cellulaires en fonction des marqueurs exprimés et non exprimés (cellules B, T, NK, B activées, .). Le développement de ces méthodes est une nécessité pour améliorer le traitement et l'analyse de données cytométriques. 
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Projet:
 L'objectif de ce stage vise à concevoir et implémenter une ou des méthodes pour l'annotation automatique de populations cellulaires au sein de profils cytométriques. 
 Chaque profil cytométrique correspond à un ensemble de mesures de marqueurs cellulaires pour des centaines de milliers de cellules acquises dans un échantillon biologique. Un profil cytométrique est généralement représenté par une matrice de valeurs d'expression où les colonnes correspondent aux différents marqueurs mesurés et où chaque ligne correspond aux mesures pour une cellule donnée.
@@ -33,7 +33,7 @@ L'objective sera d'implémenter cette méthode dans un « package R ». En fonct
 Les travaux issus de ce stage  seront pris en compte pour une publication scientifique. Ces travaux pourront aussi être poursuivis dans le cadre d'une thèse dans le service d'ImmunoVirologie du CEA, en fonction de la qualité du candidat et des financements disponibles. 
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Références:
 1. C. E. Pedreira, E. S. Costa, Q. Lecrevisse, J. J. M. van Dongen, A. Orfao, Trends in Biotechnology 31, 415-425 (2013).
 2. J. W. Tung et al., Clinics in Laboratory Medicine 27, 453-468 (2007).
@@ -42,24 +42,24 @@ Le paragraphe 4 est en : ENG
 5. 1. G. Shafer, S. C. Shapiro, Ed. International Journal of Approximate Reasoning 21, 1-2 (1976).
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Compétences souhaitées:
 Connaissances solides en machine learning,  dataming, et en analyse de données.
 Connaissances solides en informatique et en programmation (C++,Java,Python/,R,.).
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Modalités du stage:
 Stage d'une durée de 6 mois, début du stage : fin 2014-début 2015.
 Le stage se déroulera dans le Service d'Immuno-Virologie du Commissariat à l'Energie Atomique à Fontenay-aux-Roses.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Contacts:
 Veuillez faire parvenir un curriculum vitae à : Nicolas Tchitchek nicolas.tchitchek@cea.fr
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	
 
 ==========================================
@@ -67,124 +67,124 @@ Le paragraphe 8 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Sujet:
 Développement et implémentation de nouvelles méthodes computationnelles pour l'annotation automatique de populations cellulaires dans des profils cytométriques.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Contexte:
 La cytométrie en flux et la cytométrie de masse sont des techniques permettant de mesurer simultanément des dizaines de marqueurs inter- et intra- cellulaires pour des centaines de milliers de cellules issues d'échantillons biologiques (tissus, prélèvements sanguins, .).
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Ce type de caractérisation est très important, en particulier pour améliorer nos connaissances biologiques du système immunitaire dans les interactions hôtes-pathogènes ou au cours d'études de vaccinations.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Le service d'Immuno-Virologie du Commissariat à l'Energie Atomique à Fontenay-aux-Roses possède plusieurs instruments de cytométrie de flux et de masse.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Chaque année, un grand nombre de profils cytométriques sont acquis et analysés dans le contexte de maladies infectieuses et d'études de vaccinations.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Plusieurs logiciels et méthodes d'analyse de données de cytométrie existent et sont utilisés principalement pour (i) prétraiter, filtrer et normaliser les échantillons, (ii) organiser les données de manière hiérarchique, et (iii) identifier les cellules partageant les mêmes caractéristiques [1-4].
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Cependant, peu de méthodes et d'outils permettent d'annoter les cellules ou les profils cellulaires en fonction des marqueurs exprimés et non exprimés (cellules B, T, NK, B activées, .).
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Le développement de ces méthodes est une nécessité pour améliorer le traitement et l'analyse de données cytométriques.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Projet:
 L'objectif de ce stage vise à concevoir et implémenter une ou des méthodes pour l'annotation automatique de populations cellulaires au sein de profils cytométriques.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Chaque profil cytométrique correspond à un ensemble de mesures de marqueurs cellulaires pour des centaines de milliers de cellules acquises dans un échantillon biologique.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Un profil cytométrique est généralement représenté par une matrice de valeurs d'expression où les colonnes correspondent aux différents marqueurs mesurés et où chaque ligne correspond aux mesures pour une cellule donnée.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Il s'agit d'assigner à chaque cellule ou groupe de cellules un label (cellules B, T, NK, inflammatoires et présentatrices d'anigènes par exemple), caractérisant ces fonctions biologiques, en fonction des niveaux d'expression des marqueurs.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Plusieurs approches statistiques et probabilistes issues des domaines de la fouille de données ou de l'apprentissage statistique pourront être explorées.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	En particulier des approches utilisant la théorie des croyances (Dempster-Shafer) [5] permettront de modéliser des connaissances incertaines.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Dans un premier temps, il faudra modéliser les différents types cellulaires à catégoriser, en se basant sur des descriptions explicites des associations cellules-marqueurs, ou bien en se basant sur des méthodes d'apprentissage automatique.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Dans un deuxième temps, il faudra développer la méthode d'annotation des cellules ou des profils cellulaires.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Dans l'idéal, cette méthode fournira en plus du résultat de classification un indice de confiance (intervalle de confiance, p-value).
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	L'objective sera d'implémenter cette méthode dans un « package R ».
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	En fonction de la vitesse de développement et de mise en place, ces outils seront insérés dans nos schémas d'analyse et dans notre LIMS (Laboratory Information Management System).
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	Les travaux issus de ce stage  seront pris en compte pour une publication scientifique.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Ces travaux pourront aussi être poursuivis dans le cadre d'une thèse dans le service d'ImmunoVirologie du CEA, en fonction de la qualité du candidat et des financements disponibles.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	Références:
 1.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	C. E. Pedreira, E. S. Costa, Q. Lecrevisse, J. J. M. van Dongen, A. Orfao, Trends in Biotechnology 31, 415-425 (2013).
 ==========================================
-La phrase 24 est en : n
+La phrase 24 est en : non detect
 	2.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	J. W. Tung et al., Clinics in Laboratory Medicine 27, 453-468 (2007).
 ==========================================
-La phrase 26 est en : n
+La phrase 26 est en : non detect
 	3.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	H. Tang et al., Nature immunology 11, 608-617 (2010).
 ==========================================
-La phrase 28 est en : n
+La phrase 28 est en : non detect
 	4.
 ==========================================
-La phrase 29 est en : FRA
+La phrase 29 est en : french
 	P. Qiu et al., Nature Biotechnology 29, 886-891 (2011).
 ==========================================
-La phrase 30 est en : n
+La phrase 30 est en : non detect
 	5.
 ==========================================
-La phrase 31 est en : n
+La phrase 31 est en : non detect
 	1.
 ==========================================
-La phrase 32 est en : ENG
+La phrase 32 est en : english
 	G. Shafer, S. C. Shapiro, Ed.
 ==========================================
-La phrase 33 est en : FRA
+La phrase 33 est en : french
 	International Journal of Approximate Reasoning 21, 1-2 (1976).
 ==========================================
-La phrase 34 est en : FRA
+La phrase 34 est en : french
 	Compétences souhaitées:
 Connaissances solides en machine learning,  dataming, et en analyse de données.
 ==========================================
-La phrase 35 est en : FRA
+La phrase 35 est en : french
 	Connaissances solides en informatique et en programmation (C++,Java,Python/,R,.).
 ==========================================
-La phrase 36 est en : FRA
+La phrase 36 est en : french
 	Modalités du stage:
 Stage d'une durée de 6 mois, début du stage : fin 2014-début 2015.
 ==========================================
-La phrase 37 est en : FRA
+La phrase 37 est en : french
 	Le stage se déroulera dans le Service d'Immuno-Virologie du Commissariat à l'Energie Atomique à Fontenay-aux-Roses.
 ==========================================
-La phrase 38 est en : FRA
+La phrase 38 est en : french
 	Contacts:
 Veuillez faire parvenir un curriculum vitae à : Nicolas Tchitchek nicolas.tchitchek@cea.fr
 

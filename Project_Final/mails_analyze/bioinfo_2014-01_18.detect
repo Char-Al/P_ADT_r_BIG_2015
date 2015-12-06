@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_18" est globalement en : FRA
-[('ENG', 0.6729172519296661), ('FRA', 0.9170064617779672)]
+Le mail "bioinfo_2014-01_18" est globalement en : french
+[('french', 0.5724154425697613), ('english', 0.6416537964552973)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Postdoctoral Position in Computational Biology
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Postdoctoral Position in Computational Biology
 Type de poste : Post-doc / IR
 Durée du poste : > 18 mois
@@ -25,7 +25,7 @@ Email du contact : stephen.ramsey@oregonstate.edu
 Laboratoire : The Ramsey Lab at Oregon State University
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/postdoctoral-position-computational-biology-0
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/postdoctoral-position-computational-biology-0
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Postdoctoral Position in Computational Biology

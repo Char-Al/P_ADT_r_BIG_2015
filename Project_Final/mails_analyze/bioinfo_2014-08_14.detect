@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-08_14" est globalement en : FRA
-[('FRA', 0.4066258233861628), ('ENG', 2.1772289124009965)]
+Le mail "bioinfo_2014-08_14" est globalement en : french
+[('french', 0.7566691249960387), ('english', 0.9176740221029287)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD autre] Ingénieur(e) d' étude en développement d'applications en web service
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur(e) d'étude en développement d'applications
 en web service
 Type de poste : CDD autre
@@ -27,12 +27,12 @@ Email du contact : catherine.leigh@irstea.fr
 Laboratoire : IRSTEA
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieure-d%C3%A9tude-en-d%C3%A9veloppement-dapplications-en-web-service
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

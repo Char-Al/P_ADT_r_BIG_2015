@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_48" est globalement en : FRA
-[('FRA', 0.49331170399339375), ('ENG', 0.6256415046792323)]
+Le mail "bioinfo_2014-02_48" est globalement en : french
+[('french', 0.5921868779021084), ('english', 0.7989914904581952)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Bioinformatic Research   Engineer position 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformatic Research Engineer position
 Type de poste : CDD Ingénieur
 Durée du poste : 2 ans
@@ -25,7 +25,7 @@ Email du contact : f.chibon@bordeaux.unicancer.fr
 Laboratoire : Institut Bergonie
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatic-research-engineer-position
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/bioinformatic-research-engineer-position
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Bioinformatic Research Engineer position

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_83" est globalement en : FRA
-[('FRA', 0.5180298860074436), ('ENG', 2.873965579597459)]
+Le mail "bioinfo_2014-11_83" est globalement en : french
+[('french', 0.5189957201416444), ('english', 2.4186602366333525)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] analyse de données NG  S
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : analyse de données NGS
 Type de poste : CDD Ingénieur
 Durée du poste : 4 mois, susceptible d'être renouvelé 4 mois
@@ -25,7 +25,7 @@ Email du contact : jean-paul.bouchet@avignon.inra.fr
 Laboratoire : INRA- UR GAFL
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/analyse-de-donn%C3%A9es-ngs-1
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/analyse-de-donn%C3%A9es-ngs-1
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : analyse de données NGS

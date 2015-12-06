@@ -1,55 +1,55 @@
-Le mail "bioinfo_2014-06_48" est globalement en : ENG
-[('ENG', 0.40378634939369146), ('FRA', 0.405329390560325)]
+Le mail "bioinfo_2014-06_48" est globalement en : english
+[('english', 0.19010303629380926), ('french', 0.5492885728143962)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] MLSB 2014: deadline extension and call for posters
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	[Apologies for cross-posting]
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	UPDATES:
 - Deadline for submission has been extented to ** JUNE 22 **
 - Abstracts for poster presentations can be submitted until ** JULY 13 **
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	            Last Call for Contributions
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	    MLSB14, the eighth International Workshop on 
           Machine Learning in Systems Biology
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	                 http://www.mlsb.cc
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	   Organized in conjunction with ECCB 2014
               Strasbourg, France, September 6-7, 2014.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	     Submission deadlines: 
 	  Extended abstracts: June 22
 	  Posters: July 13
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	WORKSHOP DESCRIPTION
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	MLSB14, the Eighth International Workshop on Machine Learning in
 Systems Biology, is a workshop of the ECCB 2014 conference. It aims to
 contribute to the cross-fertilization between the research in machine
@@ -60,15 +60,15 @@ structures (e.g. interaction networks, molecule structures) and
 methods supporting genome-wide data analysis
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Please see the workshop website http://www.mlsb.cc for more details.
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	SUBMISSIONS OF EXTENDED ABSTRACTS
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	We invite you to submit an extended abstract of up to 4 pages in PDF
 format describing new or very recently published results. Each
 extended abstract must be submitted by *June 22 2014* (extended)
@@ -76,17 +76,17 @@ electronically via the Easychair submission system:
 https://www.easychair.org/conferences/?conf=mlsb2014
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Submissions will be reviewed by the scientific programme
 committee. They will be selected for oral or poster presentation
 according to their originality and relevance to the workshop topics.
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	SUBMISSIONS OF POSTER PRESENTATIONS
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	We invite you also to apply for poster presentations on topics of
 relevance to the workshop. Each poster presentation should be
 described in a 1 page summary and should be submitted by July 13, 2014
@@ -94,11 +94,11 @@ via the Easychair submission system:
 https://www.easychair.org/conferences/?conf=mlsb2014
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	KEY DATES
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	- Deadline for submission of extended abstracts: ** June 22, 2014 **
 - Deadline for submission of poster presentations: July 13, 2014
 - Author notification: July 15, 2014
@@ -106,40 +106,40 @@ Le paragraphe 17 est en : ENG
 - Workshop: September 6-7, 2014
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	CONFIRMED INVITED SPEAKERS
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	Pierre Baldi, UCI University, California, USA
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	Karsten Borgwardt, Max Planck Institute, Tubingen, Germany
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	CONTACT
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	For further information, please contact chairsmlsb2014@gmail.com
 
 ==========================================
-Le paragraphe 23 est en : ENG
+Le paragraphe 23 est en : english
 	CHAIRS
 
 ==========================================
-Le paragraphe 24 est en : ENG
+Le paragraphe 24 est en : english
 	Florence d'Alché-Buc (University of Evry, France)
 Pierre Geurts (University of Liege, Belgium)
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	ORGANIZING COMMITTEE
 
 ==========================================
-Le paragraphe 26 est en : ENG
+Le paragraphe 26 est en : english
 	Florence d'Alché-Buc (University of Evry, France)
 Markus Heinonen (University of Evry, France)
 Pierre Geurts (University of Liege, Belgium)
@@ -147,11 +147,11 @@ Vân Anh Huynh-Thu (University of Edinburgh, UK)
 Nizar Touleimat (Centre National de génotypage, CEA, Evry, France)
 
 ==========================================
-Le paragraphe 27 est en : ENG
+Le paragraphe 27 est en : english
 	PROGRAM COMMITTEE
 
 ==========================================
-Le paragraphe 28 est en : FRA
+Le paragraphe 28 est en : french
 	Florence d'Alché-Buc (University of Evry, France)
 Chloé-Agathe Azencott (CBIO, Mines ParisTech, Institut Curie, INSERM, France)
 Karsten Borgwardt (MPI Tubingen, Germany)
@@ -181,7 +181,7 @@ Filip Zelezny (Czech Technical University in Prague, Czech Republic)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	[Apologies for cross-posting]
 
 UPDATES:
@@ -201,7 +201,7 @@ UPDATES:
    Organized in conjunction with ECCB 2014
               Strasbourg, France, September 6-7, 2014.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Submission deadlines: 
 	  Extended abstracts: June 22
 	  Posters: July 13
@@ -213,30 +213,30 @@ WORKSHOP DESCRIPTION
 MLSB14, the Eighth International Workshop on Machine Learning in
 Systems Biology, is a workshop of the ECCB 2014 conference.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	It aims to
 contribute to the cross-fertilization between the research in machine
 learning methods and their applications to systems biology by bringing
 together method developers and experimentalists.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We are soliciting
 submissions bringing forward methods for discovering complex
 structures (e.g.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	interaction networks, molecule structures) and
 methods supporting genome-wide data analysis
 
 Please see the workshop website http://www.mlsb.cc for more details.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	SUBMISSIONS OF EXTENDED ABSTRACTS
 
 We invite you to submit an extended abstract of up to 4 pages in PDF
 format describing new or very recently published results.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Each
 extended abstract must be submitted by *June 22 2014* (extended)
 electronically via the Easychair submission system:
@@ -245,17 +245,17 @@ https://www.easychair.org/conferences/?conf=mlsb2014
 Submissions will be reviewed by the scientific programme
 committee.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	They will be selected for oral or poster presentation
 according to their originality and relevance to the workshop topics.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	SUBMISSIONS OF POSTER PRESENTATIONS
 
 We invite you also to apply for poster presentations on topics of
 relevance to the workshop.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : french
 	Each poster presentation should be
 described in a 1 page summary and should be submitted by July 13, 2014
 via the Easychair submission system:

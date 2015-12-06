@@ -1,98 +1,98 @@
-Le mail "bioinfo_2014-06_80" est globalement en : FRA
-[('FRA', 0.5658430961117809), ('ENG', 24.78656777636562)]
+Le mail "bioinfo_2014-06_80" est globalement en : french
+[('french', 0.06784634561339095), ('english', 1.090898613712675)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] CDD Ingénieur Informaticien ou Bioinformaticien à INRA Villenave d'Ornon
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	[Par avance, désolée pour les réceptions multiples éventuelles]
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Voici une offre de CDD pour un ingénieur Informaticien ou 
 Bioinformaticien à INRA UMR 1332 Biologie du Fruit, Villenave d'Ornon,
 dans le cadre d'un projet Infrastructure d'Avenir MetaboHub.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Si cela vous intéresse, merci de me contacter:
 daniel.jacob@bordeaux.inra.fr
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Daniel Jacob
 INRA UMR 1332 Biologie du Fruit
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Annonce en ligne sur SFBI: 
 http://www.sfbi.fr/content/bioinformaticien-developpement-dapplications-web
 --------------------------------------------------------------------------
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Type de poste:  CDD Ingénieur CDD
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Durée du poste:  18 mois
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Date de début:  Lu, 01/09/2014
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Ville:  Villenave d'Ornon (33)
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Laboratoire:  INRA UMR 1332 Biologie du Fruit
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Adresse:  Centre INRA Bordeaux-Aquitaine Bât. IBVM, 71, av. Edouard 
 Bourlaux CS 20032 -33882 Villenave d'Ornon Cedex France
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Date limite de candidature:  Je, 31/07/2014
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Nom du contact: Daniel Jacob
 Email du contact: daniel.jacob@bordeaux.inra.fr
 Url: http://www.metabohub.fr
 Date de validité: Ma, 30/09/2014
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	Description du contexte:
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	Le lieu de travail sera situé sur le site de l'INRA de Bordeaux 
 (http://www.bordeaux-aquitaine.inra.fr/) au sein de la Plate-forme 
 métabolomique de Bordeaux (PMB) (http://www.cgfb.u-bordeaux2.fr.fr) dans 
 le cadre du projet national MetaboHUB.
 
 ==========================================
-Le paragraphe 18 est en : FRA
+Le paragraphe 18 est en : french
 	Le projet français MetaboHUB vise à créer une infrastructure nationale 
 de la métabolomique qui place la France parmi les leaders européens des 
 services de recherche de pointe dans la métabolomique et fluxomique. 
@@ -105,11 +105,11 @@ recherche et les priorités de l'innovation en sciences de la vie. Pour
 plus d'informations consultez le site web: http://www.metabohub.fr/
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	Description du poste :
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	Dans le cadre du WorkPackage 3 MetaboHUB (bioinformatique), l'objectif 
 sera de concevoir et de construire une interface ergonomique et 
 conviviale pour le traitement et la visualisation des spectres RMN. Les 
@@ -124,11 +124,11 @@ personne travaillera localement avec un bio-informaticien et sera en
 contact avec tous les membres du Workpackage Bioinformatique de MetaboHub.
 
 ==========================================
-Le paragraphe 21 est en : FRA
+Le paragraphe 21 est en : french
 	Les missions principales du poste impliqueront de:
 
 ==========================================
-Le paragraphe 22 est en : FRA
+Le paragraphe 22 est en : french
 	Etablir les spécifications et la modélisation des axes les plus 
 importants (en UML),
 Adapter éventuellement les outils choisis pour qu’ils répondent au 
@@ -142,22 +142,22 @@ Tout au long du projet, une documentation importante sera rédigée afin
 de permettre une utilisation et une évolution ultérieures aisées.
 
 ==========================================
-Le paragraphe 23 est en : FRA
+Le paragraphe 23 est en : french
 	Formation souhaitée:
    Master, diplôme d'ingénieur ou thèse, en bioinformatique ou informatique
 
 ==========================================
-Le paragraphe 24 est en : FRA
+Le paragraphe 24 est en : french
 	Expérience:
    De 2 à 5 ans d’expérience environ; débutant accepté si stages 
 significatifs.
 
 ==========================================
-Le paragraphe 25 est en : FRA
+Le paragraphe 25 est en : french
 	Compétences nécessaires :
 
 ==========================================
-Le paragraphe 26 est en : FRA
+Le paragraphe 26 est en : french
 	Maîtrise d'un langage objet (JAVA, Python, C++, ou autre),
 Maîtrise des concepts liés au development Web (HTML5, CSS, JavaScript, 
 AJAX),
@@ -165,22 +165,22 @@ Connaissances en modélisation UML,
 Connaissances en bases de données.
 
 ==========================================
-Le paragraphe 27 est en : FRA
+Le paragraphe 27 est en : french
 	Compétences souhaitées:
 
 ==========================================
-Le paragraphe 28 est en : FRA
+Le paragraphe 28 est en : french
 	Connaissances d'un ou plusierus frameworks: jQuery, Bootstrap, cakePHP
 Connaissances en architecture logicielle
 Connaissances en métabolomique ou très fort attrait dans ce domaine,
 Bonne connaissance de l’environnement Unix/Linux
 
 ==========================================
-Le paragraphe 29 est en : FRA
+Le paragraphe 29 est en : french
 	Aptitudes personnelles :
 
 ==========================================
-Le paragraphe 30 est en : FRA
+Le paragraphe 30 est en : french
 	Rigueur
 Capacité à rendre compte et autonomie
 Aptitude au travail en équipe
@@ -189,22 +189,22 @@ de son travail par autrui
 Goût pour la modélisation, l’écriture de spécifications, de documentations
 
 ==========================================
-Le paragraphe 31 est en : ENG
+Le paragraphe 31 est en : english
 	Salaire brut:
 
 ==========================================
-Le paragraphe 32 est en : FRA
+Le paragraphe 32 est en : french
 	   De 1972 euros / mois à 2833 euros / mois en fonction de la 
 qualification et de l'expérience du candidat, et suivant les grilles 
 salariales de l'INRA
 
 ==========================================
-Le paragraphe 33 est en : FRA
+Le paragraphe 33 est en : french
 	Pour candidater, envoyer lettre de motivation et CV à : 
 daniel.jacob@bordeaux.inra.fr
 
 ==========================================
-Le paragraphe 34 est en : n
+Le paragraphe 34 est en : non detect
 	
 
 ==========================================
@@ -212,7 +212,7 @@ Le paragraphe 34 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	[Par avance, désolée pour les réceptions multiples éventuelles]
 
 Bonjour,
@@ -221,7 +221,7 @@ Voici une offre de CDD pour un ingénieur Informaticien ou
 Bioinformaticien à INRA UMR 1332 Biologie du Fruit, Villenave d'Ornon,
 dans le cadre d'un projet Infrastructure d'Avenir MetaboHub.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Si cela vous intéresse, merci de me contacter:
 daniel.jacob@bordeaux.inra.fr
 
@@ -246,10 +246,10 @@ Laboratoire:  INRA UMR 1332 Biologie du Fruit
 
 Adresse:  Centre INRA Bordeaux-Aquitaine Bât.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	IBVM, 71, av.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Edouard 
 Bourlaux CS 20032 -33882 Villenave d'Ornon Cedex France
 
@@ -267,23 +267,23 @@ Le lieu de travail sera situé sur le site de l'INRA de Bordeaux
 métabolomique de Bordeaux (PMB) (http://www.cgfb.u-bordeaux2.fr.fr) dans 
 le cadre du projet national MetaboHUB.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Le projet français MetaboHUB vise à créer une infrastructure nationale 
 de la métabolomique qui place la France parmi les leaders européens des 
 services de recherche de pointe dans la métabolomique et fluxomique.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Cette infrastructure fournira des outils et des services pour les 
 équipes de recherche universitaires et les partenaires industriels dans 
 les domaines de la nutrition et de la santé, de l'agriculture, de 
 l'environnement et des biotechnologies.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	MetaboHUB abordera les grandes 
 tendances et les défis énumérés dans la Stratégie nationale pour la 
 recherche et les priorités de l'innovation en sciences de la vie.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Pour 
 plus d'informations consultez le site web: http://www.metabohub.fr/
 
@@ -293,28 +293,28 @@ Dans le cadre du WorkPackage 3 MetaboHUB (bioinformatique), l'objectif
 sera de concevoir et de construire une interface ergonomique et 
 conviviale pour le traitement et la visualisation des spectres RMN.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Les 
 algorithmes liés aux traitements sont déjà écrtis ou sont en cours de 
 mise au point.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	La personne recrutée devra prendre en charge l'écriture 
 de caractéristiques techniques (déclaration de portée), en lien avec les 
 partenaires répartis du projet, puis sa conception et son 
 implementation.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Dans un second temps, il (elle) sera également impliquer 
 dans la structure d'une base de données de composés chimiques de 
 référence et plus particulièrement les aspects concernant la RMN.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	La 
 personne travaillera localement avec un bio-informaticien et sera en 
 contact avec tous les membres du Workpackage Bioinformatique de MetaboHub.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Les missions principales du poste impliqueront de:
 
 Etablir les spécifications et la modélisation des axes les plus 
@@ -327,11 +327,11 @@ Développer une interface ergonomique et conviviale pour le traitement et
 la visualisation des spectres RMN, facilement utilisable par des 
 biologistes.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Tout au long du projet, une documentation importante sera rédigée afin 
 de permettre une utilisation et une évolution ultérieures aisées.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Formation souhaitée:
    Master, diplôme d'ingénieur ou thèse, en bioinformatique ou informatique
 
@@ -339,7 +339,7 @@ Expérience:
    De 2 à 5 ans d’expérience environ; débutant accepté si stages 
 significatifs.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Compétences nécessaires :
 
 Maîtrise d'un langage objet (JAVA, Python, C++, ou autre),
@@ -348,7 +348,7 @@ AJAX),
 Connaissances en modélisation UML,
 Connaissances en bases de données.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Compétences souhaitées:
 
 Connaissances d'un ou plusierus frameworks: jQuery, Bootstrap, cakePHP

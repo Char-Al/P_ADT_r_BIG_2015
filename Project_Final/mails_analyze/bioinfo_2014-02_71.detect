@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_71" est globalement en : FRA
-[('FRA', 0.1820972502669756), ('ENG', 0.26061232130799805)]
+Le mail "bioinfo_2014-02_71" est globalement en : french
+[('french', 0.5143951957950829), ('english', 0.7743421578169082)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD autre] INGENIEUR DEVELOPPEUR ET ADMINISTRATEUR DE PLATEFORME CLOUD
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : INGENIEUR DEVELOPPEUR ET ADMINISTRATEUR DE PLATEFORME  
 CLOUD
 Type de poste : CDD autre
@@ -26,7 +26,7 @@ Email du contact : julie.dumontet@bioaster.org
 Laboratoire : BIOASTER
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ingenieur-developpeur-et-administrateur-de-plateforme-cloud
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ingenieur-developpeur-et-administrateur-de-plateforme
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : INGENIEUR DEVELOPPEUR ET ADMINISTRATEUR DE PLATEFORME  

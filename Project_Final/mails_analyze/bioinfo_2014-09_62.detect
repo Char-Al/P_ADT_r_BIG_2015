@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_62" est globalement en : FRA
-[('ENG', 0.4382969641570681), ('FRA', 0.6061434502079913)]
+Le mail "bioinfo_2014-09_62" est globalement en : french
+[('french', 0.22335081739243995), ('english', 0.6689363436408629)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] lipidomics and metabolic modeling of rhinovirus infection
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : lipidomics and metabolic modeling of rhinovirus  
 infection
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact : n.lenovere@gmail.com
 Laboratoire : Babraham Institute
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Voir la description complète du poste sur  
 http://sfbi.fr/content/lipidomics-and-metabolic-modeling-rhinovirus-infection
 
@@ -36,7 +36,7 @@ http://sfbi.fr/content/lipidomics-and-metabolic-modeling-rhinovirus-infection
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : lipidomics and metabolic modeling of rhinovirus  

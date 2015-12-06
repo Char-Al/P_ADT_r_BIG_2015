@@ -1,34 +1,34 @@
-Le mail "bioinfo_2014-11_26" est globalement en : FRA
-[('FRA', 2.1199822058517417), ('ENG', 132.82356700308347)]
+Le mail "bioinfo_2014-11_26" est globalement en : french
+[('french', 0.524121474618187), ('english', 1.8319324764295062)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Formations LBBE/PRABI à ade4
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Il reste quelques places dans les deux formations dédiées à la bibliothèque ade4 pour R. Ces formations sont organisées par le LBBE (Laboratoire de Biométrie et Biologie Evolutive) en association avec le PRABI (Pôle Rhône-Alpes de Bioinformatique) et Fc-3Bio. Ces formations auront lieu :
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	- Les 24 et 25 novembre pour la formation intitulée "ade4 : Initiation et méthodes de base" (http://www.fc3bio.fr/Formation-ade4-Initiation-methodes-de-base_a37.html).
 - Du 8 au 10 décembre pour la formation intitulée "ade4 : Perfectionnement et méthodes avancées" (http://www.fc3bio.fr/Formation-ade4-Perfectionnement-Methodes-avancees_a38.html).
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Les inscriptions se font directement sur le site de Fc-3Bio (http://www.fc3bio.fr/forms/Inscription_f2.html). Pour toutes information relative aux stages en question (tarifs, programme, durée, etc.), utilisez l’adresse : contact@fc3bio.fr.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Bien cordialement,
 --
 Guy Perrière
@@ -36,7 +36,7 @@ Directeur du Pôle Rhône-Alpes de Bioinformatique
 http://www.prabi.fr
 
 ==========================================
-Le paragraphe 6 est en : n
+Le paragraphe 6 est en : non detect
 	
 
 ==========================================
@@ -44,29 +44,29 @@ Le paragraphe 6 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous,
 
 Il reste quelques places dans les deux formations dédiées à la bibliothèque ade4 pour R. Ces formations sont organisées par le LBBE (Laboratoire de Biométrie et Biologie Evolutive) en association avec le PRABI (Pôle Rhône-Alpes de Bioinformatique) et Fc-3Bio.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Ces formations auront lieu :
 
 - Les 24 et 25 novembre pour la formation intitulée "ade4 : Initiation et méthodes de base" (http://www.fc3bio.fr/Formation-ade4-Initiation-methodes-de-base_a37.html).
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	- Du 8 au 10 décembre pour la formation intitulée "ade4 : Perfectionnement et méthodes avancées" (http://www.fc3bio.fr/Formation-ade4-Perfectionnement-Methodes-avancees_a38.html).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Les inscriptions se font directement sur le site de Fc-3Bio (http://www.fc3bio.fr/forms/Inscription_f2.html).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Pour toutes information relative aux stages en question (tarifs, programme, durée, etc.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	), utilisez l’adresse : contact@fc3bio.fr.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Bien cordialement,
 --
 Guy Perrière

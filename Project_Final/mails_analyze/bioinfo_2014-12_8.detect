@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_8" est globalement en : FRA
-[('ENG', 0.331476025078388), ('FRA', 0.5370323856334569)]
+Le mail "bioinfo_2014-12_8" est globalement en : french
+[('french', 0.44731826555215737), ('english', 0.6728937665107011)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Stage] STAGIAIRE INGENIEUR EN BIOINFORMATIQUE (Ontology, Reasoning, Resistome)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : STAGIAIRE INGENIEUR EN BIOINFORMATIQUE (Ontology,  
 Reasoning, Resistome)
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : stephane.schicklin@biomerieux.com
 Laboratoire : bioMérieux
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stagiaire-ingenieur-en-bioinformatique-ontology-reasoning-resistome
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/stagiaire-ingenieur-en-bioinformatique-ontology-reaso
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : STAGIAIRE INGENIEUR EN BIOINFORMATIQUE (Ontology,  

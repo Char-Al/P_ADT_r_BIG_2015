@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_50" est globalement en : FRA
-[('ENG', 0.38030478411237173), ('FRA', 0.44433961761773744)]
+Le mail "bioinfo_2014-09_50" est globalement en : french
+[('french', 0.42269156938176666), ('english', 3.830578064145451)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] comparative genomics and transcriptomics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : french
 	Intitulé du poste : comparative genomics and transcriptomics
 Type de poste : Post-doc / IR
 Durée du poste : 2 ans
@@ -26,7 +26,7 @@ Laboratoire : Institute for Evolution and Biodiversity (IEB Münster) -
 Evolutionary Cell Biology team
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/comparative-genomics-and-transcriptomics
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/comparative-genomics-and-transcriptomics
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : comparative genomics and transcriptomics

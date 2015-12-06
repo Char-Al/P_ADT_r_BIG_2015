@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-01_64" est globalement en : FRA
-[('FRA', 0.27010888427573276), ('ENG', 29.581838792251116)]
+Le mail "bioinfo_2014-01_64" est globalement en : french
+[('french', 0.022362024229149558), ('english', 2.766603853091453)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Poste MCU Bioinformatique Structurale (CNU 64) à l' Université de Nantes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Un poste de maître de conférences en bioinformatique structurale (64e section du CNU) à l'université de Nantes va être ouvert au concours pour une prise de fonction en septembre 2014. La recherche s'effectuera au sein de l'Unité Fonctionnalité et Ingénierie des Protéines (UMR CNRS 6286).
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	PROFIL RECHERCHE
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Le poste sera rattaché à l'Unité de Fonctionnalisation et Ingénierie des Protéines (UFIP, UMR 6286). L'UFIP est une unité de recherche labellisée par le CNRS localisée sur le site de la Faculté des Sciences et des Techniques de l'Université de Nantes. Les objectifs de recherche poursuivis par les quatre équipes de l'Unité relèvent d'une part de développements biotechnologiques et d'autre part, de l'étude de phénomènes fondamentaux liés au contrôle et à l'intégrité du génome.
 Ainsi les quatre axes stratégiques du laboratoire validés par I' AERES, repris au sein de quatre équipes, sont:
 - épigénétique : prolifération et différenciation,
@@ -36,39 +36,39 @@ La personne recrutée devra posséder une maîtrise des méthodes et outils en b
 La personne recrutée proposera un projet en lien avec les sujets abordés au sein de l'équipe "Conception de protéines in silico" et devra montrer comment son projet de recherche pourra également interagir avec les autres axes stratégiques de l'unité.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	PROFIL ENSEIGNEMENT
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	La personne recrutée participera aux enseignements de bioinformatique, aux niveaux Licence (L2 et L3 mention  sciences de la vie) et Master (mention biologie-santé). En licence, les besoins d'encadrement sont très importants. Sur lannée 2012-2013, 302 heures dans deux UE particulièrement concernées par ce profil de poste (en L2 UE « Informatique pour les sciences de la vie » et en L3 UE «Traitement des résultats expérimentaux et gestion des bases de données») ont été réalisées par des enseignants non statutaires (Ater, doctorants contractuels et vacataires). La stabilisation de ces équipes pédagogiques facilitera la mise en place de projets pédagogiques innovants. Au niveau Licence particulièrement, il nous paraît également important de stabiliser les équipes avec des enseignants-chercheurs pour lamélioration du taux de réussite des étudiants. 
 Le service proposé à la personne recrutée sera essentiellement constitué des heures de licence (L2 et L3) attribuées à des enseignants non-statutaires actuellement.
 Par ailleurs, ce recrutement permettra d'apporter des compétences nouvelles pour compléter efficacement les enseignements donnés au niveau master (mention biologie-santé, M1 bioinformatique et biostatistique et M2 bioinformatique). Les enseignements concerneront la bioinformatique structurale niveaux 1 et 2. La personne recrutée participera aussi à l'encadrement des TER en M1 bioinformatique et au suivi des stages de M2 de Bioinformatique.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Les auditions des candidats retenus à l'issue de la présélection auront lieu le mardi 13 mai 2014.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Personnes à contacter :
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Recherche :
 Bernard OFFMANN
 02 51 12 57 21
 bernard.offmann@univ-nantes.fr
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Enseignement : 
 Thierry DINTINGER
 02 51 12 56 01
 thierry.dintinger@univ-nantes.fr 
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -76,26 +76,26 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Un poste de maître de conférences en bioinformatique structurale (64e section du CNU) à l'université de Nantes va être ouvert au concours pour une prise de fonction en septembre 2014.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	La recherche s'effectuera au sein de l'Unité Fonctionnalité et Ingénierie des Protéines (UMR CNRS 6286).
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	PROFIL RECHERCHE
 
 Le poste sera rattaché à l'Unité de Fonctionnalisation et Ingénierie des Protéines (UFIP, UMR 6286).
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	L'UFIP est une unité de recherche labellisée par le CNRS localisée sur le site de la Faculté des Sciences et des Techniques de l'Université de Nantes.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Les objectifs de recherche poursuivis par les quatre équipes de l'Unité relèvent d'une part de développements biotechnologiques et d'autre part, de l'étude de phénomènes fondamentaux liés au contrôle et à l'intégrité du génome.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Ainsi les quatre axes stratégiques du laboratoire validés par I' AERES, repris au sein de quatre équipes, sont:
 - épigénétique : prolifération et différenciation,
 - mécanisme et régulation de la réparation de l'ADN,
@@ -104,51 +104,51 @@ La phrase 6 est en : FRA
 L'UFIP abrite également une plateforme technologique IMPACT (Interactions Moléculaires Puces ACTivités), appartenant au réseau de plate-formes du Grand-Ouest en Sciences du vivant et de l'Environnement (Biogenouest)
 L'UFIP a identifié dans son dispositif un pôle à consolider à l'interface entre modélisation moléculaire et analyse de séquences biologiques au sein de l'équipe "Conception de protéines in silico" dans le cadre de ses activités de développement de méthodes et d'outils bioinformatiques pour l'étude des structures des macromolécules biologiques, leurs fonctions et leurs interactions.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Ce renforcement permettra aussi de répondre aux besoins grandissants d'interactions entre cette équipe et les recherches menées dans les trois autres équipes de l'unité et d'autres unités de recherche en santé au sein l'université de Nantes.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	La personne recrutée devra posséder une maîtrise des méthodes et outils en bioinformatique appliqués à l'étude des données biologiques, des séquences, des génomes et des macromolécules biologiques (protéines, ADN, oligosaccharides etc.).
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Des compétences complémentaires en modélisation moléculaire et/ou en criblage virtuel de ligands, serait un atout supplémentaire mais pas indispensable.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	La personne recrutée proposera un projet en lien avec les sujets abordés au sein de l'équipe "Conception de protéines in silico" et devra montrer comment son projet de recherche pourra également interagir avec les autres axes stratégiques de l'unité.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	PROFIL ENSEIGNEMENT
 
 La personne recrutée participera aux enseignements de bioinformatique, aux niveaux Licence (L2 et L3 mention  sciences de la vie) et Master (mention biologie-santé).
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	En licence, les besoins d'encadrement sont très importants.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Sur lannée 2012-2013, 302 heures dans deux UE particulièrement concernées par ce profil de poste (en L2 UE « Informatique pour les sciences de la vie » et en L3 UE «Traitement des résultats expérimentaux et gestion des bases de données») ont été réalisées par des enseignants non statutaires (Ater, doctorants contractuels et vacataires).
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	La stabilisation de ces équipes pédagogiques facilitera la mise en place de projets pédagogiques innovants.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Au niveau Licence particulièrement, il nous paraît également important de stabiliser les équipes avec des enseignants-chercheurs pour lamélioration du taux de réussite des étudiants.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Le service proposé à la personne recrutée sera essentiellement constitué des heures de licence (L2 et L3) attribuées à des enseignants non-statutaires actuellement.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Par ailleurs, ce recrutement permettra d'apporter des compétences nouvelles pour compléter efficacement les enseignements donnés au niveau master (mention biologie-santé, M1 bioinformatique et biostatistique et M2 bioinformatique).
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Les enseignements concerneront la bioinformatique structurale niveaux 1 et 2.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	La personne recrutée participera aussi à l'encadrement des TER en M1 bioinformatique et au suivi des stages de M2 de Bioinformatique.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	Les auditions des candidats retenus à l'issue de la présélection auront lieu le mardi 13 mai 2014.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Personnes à contacter :
 
 Recherche :

@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-04_37" est globalement en : ENG
-[('ENG', 0.28336630245590766), ('FRA', 0.43189284652023435)]
+Le mail "bioinfo_2014-04_37" est globalement en : english
+[('english', 0.2101272518887795), ('french', 0.7721553662580494)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] SAVE THE DATE :  SeMoVi Seminar, April 23, 2 to 5 pm, Lyon
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Dear all,
 Save the date for the next SeMoVi Seminar, organized by BioSyl 
 (www.biosyl.org), on Wednesday, April 23, 2.00 to 5.00 ! This Semovi 
@@ -20,13 +20,13 @@ on 2nd floor,
 Gregor Mendel Building.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Campus map on : 
 http://oscar.univ-lyon1.fr/appli-externe/plan/plans/plan_campus_ouest.html
 (enter "MENDEL" in the "Search" text box)
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Our 3 speakers will be :
 - Michael DIETRICH (DARMOUTH COLLEGE and ARIZONA STATE UNIVERSITY), 2.00 
 to 3.00:
@@ -39,15 +39,15 @@ Tree of Life
 - 4.30 to 5.00 : general discussion
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	> More on : http://www.biosyl.org/news/semovi
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Best regards
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Emilie NOGUEZ, BioSyL
 Development Officer
 Bat Gregor Mendel (ex 741)
@@ -63,18 +63,18 @@ http://www.biosyl.org
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear all,
 Save the date for the next SeMoVi Seminar, organized by BioSyl 
 (www.biosyl.org), on Wednesday, April 23, 2.00 to 5.00 !
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	This Semovi 
 will be held on La Doua University Campus, PRABI training room, located 
 on 2nd floor,
 Gregor Mendel Building.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Campus map on : 
 http://oscar.univ-lyon1.fr/appli-externe/plan/plans/plan_campus_ouest.html
 (enter "MENDEL" in the "Search" text box)

@@ -1,34 +1,34 @@
-Le mail "bioinfo_2014-05_54" est globalement en : ENG
-[('ENG', 0.5185277833632594), ('FRA', 0.8722813364431418)]
+Le mail "bioinfo_2014-05_54" est globalement en : english
+[('english', 0.12619773659949765), ('french', 0.30212928464849664)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] PosDoc position: Chicago; analysis of ribosome profiling data
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Je vous fais suivre cette annonce de postdoc.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Répondre à Alexander Mankin : shura@uic.edu
 -------
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The laboratory in the Center for Pharmaceutical Biotechnology, University of Illinois at Chicago, USA, is looking for a bioinformatician (experienced graduate student, postdoctoral, or more senior) to join the project funded by the National Institutes of Health, USA, involving analysis of the ribosome profiling data. The research in the laboratory is focused on the basic mechanisms of protein synthesis in bacteria and action of antibiotics affecting the ribosome functions. As a part of this project, we are generating and analyzing the ribosome profiling data based on the technique developed by the Weissman’s laboratory (Science, 2009, 324, 218-223; Cell, 2014, 157, 624-635) where deep sequencing of the mRNA fragments protected by the ribosome probes the distribution of ribosomes along mRNA. Studying changes in the ribosome distribution provides insights into translation regulation and mechanisms of antibiotic action. Successful candidate is expected to have previous experience in the analysis of next generation sequencing data, RNA-seq data and/or search for the sequence patterns in the genomes. The candidate should be proficient with Python or Perl scripting and be able to work independently in a highly stimulating environment of molecular biologists and biochemists.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	For more information about the laboratory, visit the URL http://mankinlab.cpb.uic.edu.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Please send the inquiries to Prof. Alexander Mankin at shura@uic.edu
 
 ==========================================
@@ -36,33 +36,33 @@ Le paragraphe 5 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Je vous fais suivre cette annonce de postdoc.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Répondre à Alexander Mankin : shura@uic.edu
 -------
 
 The laboratory in the Center for Pharmaceutical Biotechnology, University of Illinois at Chicago, USA, is looking for a bioinformatician (experienced graduate student, postdoctoral, or more senior) to join the project funded by the National Institutes of Health, USA, involving analysis of the ribosome profiling data.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The research in the laboratory is focused on the basic mechanisms of protein synthesis in bacteria and action of antibiotics affecting the ribosome functions.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	As a part of this project, we are generating and analyzing the ribosome profiling data based on the technique developed by the Weissman’s laboratory (Science, 2009, 324, 218-223; Cell, 2014, 157, 624-635) where deep sequencing of the mRNA fragments protected by the ribosome probes the distribution of ribosomes along mRNA.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Studying changes in the ribosome distribution provides insights into translation regulation and mechanisms of antibiotic action.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Successful candidate is expected to have previous experience in the analysis of next generation sequencing data, RNA-seq data and/or search for the sequence patterns in the genomes.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The candidate should be proficient with Python or Perl scripting and be able to work independently in a highly stimulating environment of molecular biologists and biochemists.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	For more information about the laboratory, visit the URL http://mankinlab.cpb.uic.edu.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Please send the inquiries to Prof. Alexander Mankin at shura@uic.edu
 ==========================================

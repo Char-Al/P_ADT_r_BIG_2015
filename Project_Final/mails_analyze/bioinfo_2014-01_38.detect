@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_38" est globalement en : FRA
-[('FRA', 0.2966169376020362), ('ENG', 0.93958831196885)]
+Le mail "bioinfo_2014-01_38" est globalement en : french
+[('french', 0.568554979448848), ('english', 0.8343222430745778)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][MdC] Maitre de Conférences en statist  ique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Maitre de Conférences en statistique
 Type de poste : MdC
 Durée du poste :
@@ -25,7 +25,7 @@ Email du contact : christophe.doursat@agroparistech.fr
 Laboratoire : UMR AgroParisTech/INRA MIA 518
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/maitre-de-conf%C3%A9rences-en-statistique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/maitre-de-conf%C3%A9rences-en-statistique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Maitre de Conférences en statistique

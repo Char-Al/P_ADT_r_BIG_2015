@@ -1,38 +1,38 @@
-Le mail "bioinfo_2014-02_5" est globalement en : ENG
-[('ENG', 0.8135358420416618), ('FRA', 1.3200971952264773)]
+Le mail "bioinfo_2014-02_5" est globalement en : english
+[('english', 0.1425447092259402), ('french', 0.4371349582046565)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] SASB 2014 First Call for Papers
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	                       Call for Papers
 ------------------------------------------------------------------
                          SASB 2014
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	5th International Workshop on Static Analysis and Systems Biology
 ------------------------------------------------------------------
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	10th September, 2014,
 Munich, Germany
 Satellite Workshop of SAS 2014
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	http://www.lri.fr/sasb2014/
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	IMPORTANT DATES
 ---------------
 Submission Deadline (abstract) 25th May,       2014
@@ -42,26 +42,26 @@ Final version                  15th August,    2014
 Workshop Date                  10th September, 2014
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	OBJECTIVES
 ----------
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	SASB aims at promoting discussions and collaborations between biologists
 (modelers), computer scientists and applied-mathematicians interested in
 designing or using methods to reduce the complexity of modeling, simulating or
 analyzing biological systems.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Static analysis refers to a wide range of techniques for characterizing and 
 identifying important features from a model without its exhaustive execution.
 Static analysis is used for helping the design of models, the test of models
 against experimental data, and the prediction of behaviors.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Static analyzes can involve, for instance, modeling paradigms, such as
 rule-based modeling, that ease the characterization of the behaviors of a
 model; abstractions that prevent a full exploration of the potential concrete
@@ -71,12 +71,12 @@ dimension of a model while preserving important behaviors; characterization of
 dynamical properties with respect to the topology of the model; etc.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	SCOPE
 -----
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	The program of SASB 2014 will consist mainly of presentations of refereed
 papers and invited talks. Contributions are welcomed on all aspects about the 
 use of static analysis methods in Systems Biology, including, but not limited 
@@ -94,21 +94,21 @@ to:
   * challenges for tackling complexity of biological models.
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : english
 	SUBMISSION
 ----------
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Please visit the submission website:
 https://www.easychair.org/conferences/?conf=sasb2014
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	All submitted papers will be peer-reviewed by the program committee.
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Submitted papers should not exceed 12 pages including bibliography,
 and follow the ENTCS guidelines (http://www.entcs.org/prelim.html).
 Submitted papers may include, in addition, an appendix containing
@@ -116,42 +116,42 @@ technical details, which reviewers may read or not, at their
 discretion.
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Papers must be written and presented in English, and describe original
 work that does not substantially overlap with papers that have been
 published or that are simultaneously submitted to a journal,
 conference, or workshop with refereed proceedings.
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	PUBLICATION
 -----------
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	The proceedings of the workshop will be published electronically via 
 ENTCS.
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	ORGANIZERS
 ----------
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	* Program Co-Chairs:
 
 ==========================================
-Le paragraphe 21 est en : FRA
+Le paragraphe 21 est en : french
 	  Heinz Koeppl              Technische Universität Darmstadt, Germany
   Loic Paulevé              CNRS/LRI, Université Paris-Sud, France
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	* Program Committee:
 
 ==========================================
-Le paragraphe 23 est en : ENG
+Le paragraphe 23 est en : french
 	  Claudine Chaouyia         IGC, Portugal
   Gheorghe Craciun          University of Wisconsin-Madison, USA
   Damien Eveillard          Université de Nantes, France
@@ -168,7 +168,7 @@ Le paragraphe 23 est en : ENG
   Andrei Zinovyev           Institut Curie, France
 
 ==========================================
-Le paragraphe 24 est en : n
+Le paragraphe 24 est en : non detect
 	
 
 ==========================================
@@ -176,7 +176,7 @@ Le paragraphe 24 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	                       Call for Papers
 ------------------------------------------------------------------
                          SASB 2014
@@ -208,15 +208,15 @@ SASB aims at promoting discussions and collaborations between biologists
 designing or using methods to reduce the complexity of modeling, simulating or
 analyzing biological systems.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Static analysis refers to a wide range of techniques for characterizing and 
 identifying important features from a model without its exhaustive execution.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Static analysis is used for helping the design of models, the test of models
 against experimental data, and the prediction of behaviors.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Static analyzes can involve, for instance, modeling paradigms, such as
 rule-based modeling, that ease the characterization of the behaviors of a
 model; abstractions that prevent a full exploration of the potential concrete
@@ -225,14 +225,14 @@ computation of various properties; model reductions, that decrease the
 dimension of a model while preserving important behaviors; characterization of 
 dynamical properties with respect to the topology of the model; etc.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	SCOPE
 -----
 
 The program of SASB 2014 will consist mainly of presentations of refereed
 papers and invited talks.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Contributions are welcomed on all aspects about the 
 use of static analysis methods in Systems Biology, including, but not limited 
 to: 
@@ -248,7 +248,7 @@ to:
   * informal methods (that could be candidate to formalization),
   * challenges for tackling complexity of biological models.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	SUBMISSION
 ----------
 
@@ -257,29 +257,29 @@ https://www.easychair.org/conferences/?conf=sasb2014
 
 All submitted papers will be peer-reviewed by the program committee.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Submitted papers should not exceed 12 pages including bibliography,
 and follow the ENTCS guidelines (http://www.entcs.org/prelim.html).
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Submitted papers may include, in addition, an appendix containing
 technical details, which reviewers may read or not, at their
 discretion.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Papers must be written and presented in English, and describe original
 work that does not substantially overlap with papers that have been
 published or that are simultaneously submitted to a journal,
 conference, or workshop with refereed proceedings.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	PUBLICATION
 -----------
 
 The proceedings of the workshop will be published electronically via 
 ENTCS.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : french
 	ORGANIZERS
 ----------
 

@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-07_60" est globalement en : FRA
-[('FRA', 0.2786187348279196), ('ENG', 20.783820065161244)]
+Le mail "bioinfo_2014-07_60" est globalement en : french
+[('french', 0.328831766744693), ('english', 1.2335710616894537)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] ATER Génomique et transcriptomique àl’INSA de Lyon (Département Biosciences, UMR BF2I)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 Un poste ATER à l’NSA de Lyon (département Biosciences, UMR BF2I) est 
 ouvert en Génomique et transcriptomique :
@@ -21,7 +21,7 @@ Cordialement,
 H. Charles
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Hubert Charles (Pr)
 UMR203 Biologie Fonctionnelle Insectes et Interactions (BF2I),
 IFR41, INRA, INSA-Lyon, Bat Louis Pasteur, F-69621 Villeurbanne,
@@ -32,7 +32,7 @@ http://bf2i.insa-lyon.fr/
 http://biosciences.insa-lyon.fr/
 
 ==========================================
-Le paragraphe 3 est en : n
+Le paragraphe 3 est en : non detect
 	
 
 ==========================================
@@ -40,14 +40,14 @@ Le paragraphe 3 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 Un poste ATER à l’NSA de Lyon (département Biosciences, UMR BF2I) est 
 ouvert en Génomique et transcriptomique :
 http://www.insa-lyon.fr/files/FP_ATER_MCF0561_BS_BF2I.pdf
 Attention deadline de dépot des dossiers le 31 juillet.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Cordialement,
 H. Charles
 

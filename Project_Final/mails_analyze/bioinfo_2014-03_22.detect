@@ -1,26 +1,26 @@
-Le mail "bioinfo_2014-03_22" est globalement en : FRA
-[('FRA', 0.29903792085580083), ('ENG', 1.8240206889431425)]
+Le mail "bioinfo_2014-03_22" est globalement en : french
+[('french', 0.053871299682377395), ('english', 2.8831246284240515)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] ERRATUM : Recrutement d’undéveloppeur Web / PHP - Imagine - institut des maladies génétiques - Paris
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	ERRATUM : Ne pas tenir compte de la date limite de dépôt de candidature dans le profil de poste envoyé hier.
 Plus d'information sur l'institut Imagine : http://www.institutimagine.org
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Le 6 mars 2014 à 17:44, Nicolas Garcelon <nicolas.garcelon@institutimagine.org> a écrit :
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	> Recrutement d’un développeur Web / PHP
 > 
 > L'Institut hospitalo-universitaire (IHU) sur les maladies génétiques - Imagine développe des programmes intégrés de recherche et de soins sur les maladies génétiques à l'hôpital Necker - Enfants Malades.
@@ -104,7 +104,7 @@ Le paragraphe 3 est en : FRA
 > 
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -112,10 +112,10 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	ERRATUM : Ne pas tenir compte de la date limite de dépôt de candidature dans le profil de poste envoyé hier.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Plus d'information sur l'institut Imagine : http://www.institutimagine.org
 
 
@@ -125,7 +125,7 @@ Le 6 mars 2014 à 17:44, Nicolas Garcelon <nicolas.garcelon@institutimagine.org>
 > 
 > L'Institut hospitalo-universitaire (IHU) sur les maladies génétiques - Imagine développe des programmes intégrés de recherche et de soins sur les maladies génétiques à l'hôpital Necker - Enfants Malades.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	> 
 > MISSION ET FONCTIONS
 > 
@@ -135,18 +135,18 @@ La phrase 3 est en : FRA
 > 	• d’un entrepôt de données biomédicales: moteur de recherche et fouille de données ;
 > 	• d’outils transversaux : courbes de croissances, pancartes, etc.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	> 
 > La montée en charge de la plateforme nécessite le recrutement d’un ingénieur informatique.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	> 
 > Le candidat devra être polyvalent sur l’ensemble des développements réalisés par la plateforme.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	> Il sera sous la direction du responsable informatique de la plateforme base de données.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	> 
 > COMPETENCES
 > 
@@ -180,7 +180,7 @@ La phrase 7 est en : FRA
 > 
 > - Expérience significative dans le domaine de qualification (2 ans minimum).
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	> 
 > NATURE DU POSTE
 > 
@@ -188,7 +188,7 @@ La phrase 8 est en : FRA
 > 
 > Localisation : Institut Imagine / Hôpital Necker Enfant Malade, Paris 15 .
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	> 
 > Salaire et statut à négocier selon le profil et l’expérience
 > 
@@ -197,7 +197,7 @@ La phrase 9 est en : FRA
 > 
 > Le dossier de candidature, comprenant une lettre de motivation manuscrite et un curriculum vitae détaillé, est à adresser, sous la référence Imagine_34, à recrutement@institutimagine.org.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	> 
 > CONTACTS
 > 

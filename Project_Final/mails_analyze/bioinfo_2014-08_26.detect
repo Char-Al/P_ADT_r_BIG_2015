@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-08_26" est globalement en : FRA
-[('FRA', 0.5599184856032132), ('ENG', 2.413034241022424)]
+Le mail "bioinfo_2014-08_26" est globalement en : french
+[('french', 0.5385945762828682), ('english', 1.1192113599175457)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][IE] Ingénieurdéveloppement informat  ique scientifique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur développement informatique scientifique
 Type de poste : IE
 Durée du poste : Indeterminée
@@ -25,7 +25,7 @@ Email du contact : jobs@discngine.com
 Laboratoire : DISCNGINE
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9veloppement-informatique-scientifique
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9veloppement-informatique-scient
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur développement informatique scientifique

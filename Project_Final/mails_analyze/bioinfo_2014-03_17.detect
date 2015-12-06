@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_17" est globalement en : FRA
-[('FRA', 0.7174389161287261), ('ENG', 0.9866688779607004)]
+Le mail "bioinfo_2014-03_17" est globalement en : french
+[('french', 0.6282455113816405), ('english', 0.9810940585974565)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] INGENIEUR BIO-INFORMAT  ICIEN
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : INGENIEUR BIO-INFORMATICIEN
 Type de poste : CDD Ingénieur
 Durée du poste : 9 MOIS
@@ -25,7 +25,7 @@ Email du contact : recrutement@pasteur.fr
 Laboratoire : INSTITUT PASTEUR
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ingenieur-bio-informaticien-1
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ingenieur-bio-informaticien-1
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : INGENIEUR BIO-INFORMATICIEN

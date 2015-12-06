@@ -1,39 +1,39 @@
-Le mail "bioinfo_2014-10_5" est globalement en : FRA
-[('FRA', 0.6926942700891171), ('ENG', 14.272835126474233)]
+Le mail "bioinfo_2014-10_5" est globalement en : french
+[('french', 0.03662014848659082), ('english', 1.1163610197295921)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Opportunité de carrière - MODIS
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	MODIS société internationale réalise un CA de 2,4 milliard deuros en 2012.
 Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
 En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique. Elle sappuie sur un réseau de 7 agences. Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie. Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Description du poste :
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Pour renforcer nos équipes, nous recherchons un Ingénieur support applicatif H/F.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Vous aurez pour mission d'assurer le support applicatif pour une application globale au sein du département informatique Recherche et Développement.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	La mission portera sur la maintenance d'une application liée au domaine de la chimie : cahier de laboratoire électronique en chimie (e-NoteBook CambridgeSoft/Perkin-Elmer)
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Les principales responsabilités sont: 
 Garantir la continuité de l'activité des utilisateurs en assurant le support de niveau 3 :
 oRésolution d'incidents et de problèmes opérationnels (documentés ou non)
@@ -48,7 +48,7 @@ oParticipation à la définition, aux tests et la mise en place des changements 
 Actions de communication pour promouvoir lapplication
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Obligatoires :
 Notions de chimie
 Utilisation doutil de dessin de molécules (IsisDraw, AccelrysDraw, Chemdraw)
@@ -56,17 +56,17 @@ Le paragraphe 7 est en : FRA
 Connaissances des outils MS Office / Outlook
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Est un plus :
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Expériences en environnements serveur Windows (IIS) et Citrix
 Utilisation de SharePoint
 Utilisation dun outil de gestion dappels utilisateurs / incidents
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Localisation : Vitry-sur-Seine(des déplacements sur le site de Chilly-Mazarin peuvent être nécessaires  1 à 2 fois par mois)
 
 
@@ -75,34 +75,34 @@ Le paragraphe 10 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	MODIS société internationale réalise un CA de 2,4 milliard deuros en 2012.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Elle sappuie sur un réseau de 7 agences.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Description du poste :
 
 
 Pour renforcer nos équipes, nous recherchons un Ingénieur support applicatif H/F.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Vous aurez pour mission d'assurer le support applicatif pour une application globale au sein du département informatique Recherche et Développement.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	La mission portera sur la maintenance d'une application liée au domaine de la chimie : cahier de laboratoire électronique en chimie (e-NoteBook CambridgeSoft/Perkin-Elmer)
 
 Les principales responsabilités sont: 

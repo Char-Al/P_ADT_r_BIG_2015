@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_20" est globalement en : FRA
-[('FRA', 0.31576648902656124), ('ENG', 3.247323155566115)]
+Le mail "bioinfo_2014-10_20" est globalement en : french
+[('french', 0.413833992496734), ('english', 0.8934188293209218)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Développement d'outil   pour l'analyse de données NGS en cancérologi  e
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développement d'outil pour l'analyse de données NGS en  
 cancérologie
 Type de poste : CDD Ingénieur
@@ -26,7 +26,7 @@ Email du contact : rhrecherche@gustaveroussy.fr
 Laboratoire : PF Bioinfo de Gustave Roussy
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-doutil-pour-lanalyse-de-donn%C3%A9es-ngs-en-canc%C3%A9rologie
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/d%C3%A9veloppement-doutil-pour-lanalyse-de-donn%C3%A9
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Développement d'outil pour l'analyse de données NGS en  

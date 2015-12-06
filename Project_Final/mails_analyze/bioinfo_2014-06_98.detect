@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-06_98" est globalement en : FRA
-[('FRA', 0.5586103614189576), ('ENG', 1.2948318282934996)]
+Le mail "bioinfo_2014-06_98" est globalement en : french
+[('french', 0.4849738178997), ('english', 0.8689749782431665)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDI autre] Bioinformatique pour le NGS clinique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformatique pour le NGS clinique
 Type de poste : CDI autre
 Durée du poste : indeterminée
@@ -26,12 +26,12 @@ Email du contact : guillaume.meurice@gustaveroussy.fr
 Laboratoire : Plateforme de Bioinformatique, Institut Gustave Roussy
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformatique-pour-le-ngs-clinique-0
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-06_70" est globalement en : FRA
-[('FRA', 0.24455911757954227), ('ENG', 18.223595474252484)]
+Le mail "bioinfo_2014-06_70" est globalement en : french
+[('french', 0.07384936481152736), ('english', 3.5676408526684447)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Postes d' ingénieurs d' études en bioinformatique ouverts en mobilitéà l'INRA (avant le 03 juillet)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 La campagne de mobilité des ingénieurs et techniciens ouverte par l'INRA 
 au titre de 1015 s'achève le 03 juillet 2014 (date limite de dépôt des 
@@ -24,19 +24,19 @@ ce cadre :
 (http://www4.jouy.inra.fr/bdr) à Jouy-en-Josas
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Les profil des postes et les informations sur la procédure sont en ligne 
 sur le site de l'INRA :
 - 
 http://jobs.inra.fr/offers/emploi_perm//mobilite-it/?concours=113825&campagne=23130&domaine=&region=Ile-de-France&corps=IE&entite_rattachement=&discipline=&annonce=15023&annonce_id=0#annonce 
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	- 
 http://jobs.inra.fr/offers/emploi_perm/mobilite-it/?concours=113825&campagne=23130&domaine=&region=Provence-Alpes-C%C3%B4te%20d%27Azur&corps=IE&entite_rattachement=&discipline=&annonce=15041&annonce_id=0#annonce
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	  Ces postes sont ouverts :
 - aux fonctionnaires de l'INRA, qui souhaitent effectuer une mobilité 
 interne ou une réintégration en 2015
@@ -45,12 +45,12 @@ hospitalière et aux fonctionnaires des Etats membres de l'Union
 Européenne, qui souhaitent un accueil en détachement à l'INRA
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Les personnes intéressées sont invitées à prendre très rapidement 
 contact avec les unités où ces postes sont ouverts.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Jean-Paul Bouchet
 Institut National de la Recherche Agronomique - Centre de Provence Alpes 
 Côte d'Azur
@@ -66,13 +66,13 @@ Téléphone : 04 3272 2723
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 La campagne de mobilité des ingénieurs et techniciens ouverte par l'INRA 
 au titre de 1015 s'achève le 03 juillet 2014 (date limite de dépôt des 
 dossiers).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Deux postes d'ingénieurs d'études en bioinformatique sont ouverts dans 
 ce cadre :
 - à l'UR de Génétique et Amélioration des Fruits et Légumes 
@@ -98,7 +98,7 @@ Européenne, qui souhaitent un accueil en détachement à l'INRA
 Les personnes intéressées sont invitées à prendre très rapidement 
 contact avec les unités où ces postes sont ouverts.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Jean-Paul Bouchet
 Institut National de la Recherche Agronomique - Centre de Provence Alpes 
 Côte d'Azur

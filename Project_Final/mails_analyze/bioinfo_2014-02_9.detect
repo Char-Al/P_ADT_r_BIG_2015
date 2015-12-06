@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_9" est globalement en : FRA
-[('FRA', 1.1106338514530858), ('ENG', 6.56073062255856)]
+Le mail "bioinfo_2014-02_9" est globalement en : french
+[('french', 0.06894324077496375), ('english', 6.3770163319441835)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Poste de MCF 2ème section - profil bio-info bienvenu
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Chers tous, 
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Le poste 27MCF1313, ouvert à l'université de Nice-Sophia Antipolis,
 devrait fortement intéresser les bio-informaticiens candidats à un
 poste de maître de conférences. Le profil "systèmes dynamiques et
@@ -26,7 +26,7 @@ BioInfo (modélisation de réseaux de régulation, modélisation de
 réseaux de neurones biologiques, etc.).
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	La biologie y est largement bienvenue comme le montre le profil
 recherche ci-dessous: 
 ****
@@ -46,33 +46,33 @@ est au coeur des préoccupations du pôle pour ce poste.
 ****
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	L'ambiance au sein de toutes ces équipes du pôle MDSC (Modélisation
 Discrète des Systèmes Complexes) est extrèmement conviviale :-)
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Ce poste est très ouvert, et même si vous n'êtes pas exactement à la
 frontière entre MC3 et BioInfo, n'hésitez pas à candidater. 
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	L'enseignement est un enseignement d'informatique 27ème section
 standard. 
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Contacts:
 - Jean-Paul.Comet@unice.fr (BioInfo)
 - Enrico.Formenti@unice.fr (MC3)
 - Bruno.Martin@unice.fr (enseignement)
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Dossier à déposer sur : http://recrutement-ec.unice.fr/
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -80,14 +80,14 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Chers tous, 
 
 Le poste 27MCF1313, ouvert à l'université de Nice-Sophia Antipolis,
 devrait fortement intéresser les bio-informaticiens candidats à un
 poste de maître de conférences.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le profil "systèmes dynamiques et
 complexes" ne contient pas le mot bio-info, mais il s'agit d'un poste
 à la frontière entre l'équipe MC3 (informatique théorique pour la
@@ -95,26 +95,26 @@ modélisation de phénomènes dynamiques complexes) et notre équipe
 BioInfo (modélisation de réseaux de régulation, modélisation de
 réseaux de neurones biologiques, etc.).
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	La biologie y est largement bienvenue comme le montre le profil
 recherche ci-dessous: 
 ****
 Le candidat MCF devra prioritairement s'intégrer dans l'une des
 équipes de recherche du pôle MDSC « BioInfo » ou « MC3 ».
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Un profil
 de recherche sur des thématiques à l'intersection des activités des
 deux équipes serait particulièrement bienvenu.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Par exemple, le
 domaine de la modélisation formelle des réseaux d'interactions
 biologiques en lien avec la modélisation discrète des systèmes
 dynamiques est un des profils typiques recherchés dans le pôle
 (frontière BioInfo/MC3).
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Plus généralement, les applications de
 l'informatique théorique à la modélisation de phénomènes dynamiques
 complexes, avec une bonne capacité à étudier finement les
@@ -122,7 +122,7 @@ comportements possibles des modèles en fonction de leur structure
 et/ou en fonction des propriétés cinétiques biologiquement observées,
 est au coeur des préoccupations du pôle pour ce poste.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	****
 
 L'ambiance au sein de toutes ces équipes du pôle MDSC (Modélisation
@@ -131,11 +131,11 @@ Discrète des Systèmes Complexes) est extrèmement conviviale :-)
 Ce poste est très ouvert, et même si vous n'êtes pas exactement à la
 frontière entre MC3 et BioInfo, n'hésitez pas à candidater.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	L'enseignement est un enseignement d'informatique 27ème section
 standard.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Contacts:
 - Jean-Paul.Comet@unice.fr (BioInfo)
 - Enrico.Formenti@unice.fr (MC3)

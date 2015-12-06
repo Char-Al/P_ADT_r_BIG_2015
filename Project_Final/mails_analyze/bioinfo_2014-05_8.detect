@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-05_8" est globalement en : FRA
-[('FRA', 1.2888471312281273), ('ENG', 4.855194154467434)]
+Le mail "bioinfo_2014-05_8" est globalement en : english (conflict)
+[('english', 0.8663119021047114), ('french', 0.9861314895324194)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] PhD fellowship in Computational RNA Biology
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : n
+Le paragraphe 1 est en : non detect
 	
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Intitulé du poste : PhD fellowship in Computational RNA Biology
 Type de poste : Thèse
 Durée du poste : 36 mois
@@ -29,12 +29,12 @@ Email du contact : gorodkin@rth.dk
 Laboratoire :  Center for non-coding RNA in Technology and Health
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/phd-fellowship-computational-rna-biology
 
 ==========================================
-Le paragraphe 5 est en : n
+Le paragraphe 5 est en : non detect
 	
 
 ==========================================
@@ -42,7 +42,7 @@ Le paragraphe 5 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : english
 	
 
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr

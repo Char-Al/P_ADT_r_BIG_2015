@@ -1,31 +1,31 @@
-Le mail "bioinfo_2014-01_100" est globalement en : ENG
-[('ENG', 0.8822594783135898), ('FRA', 0.9038843177882624)]
+Le mail "bioinfo_2014-01_100" est globalement en : english
+[('english', 0.11324260495059418), ('french', 0.38953239559667796)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : french
 Subject : [bioinfo] research internship @ Xerox Research Centre Europe
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	An open internship position on a mix of string algorithms, grammatical
 inference and statistical machine learning
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	*Description*
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	We are looking for a motivated intern for a project involving the use
 of sequential patterns for the inference of grammars.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The Smallest Grammar Problem is the problem of finding the smallest
 context-free grammars that generates exactly one given sequence. We
 plan to generalize this in order to find grammars which generate a set
@@ -35,11 +35,11 @@ tree kernels for example) in our analytics pipeline or alternatively
 as a starting template for existing multilingual authoring tools.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	*Requirements*
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Research-oriented master student or PhD candidate in computer science
 Knowledge of standard text algorithms and data structures
 Knowledge of formal grammars (a course covering the Hopcroft & Ullman
@@ -48,41 +48,41 @@ Knowledge in statistical machine learning applied to text is a strong plus
 Fluency in either C, C++ or Java is a plus
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	The intern will work closely with researchers in a very international
 environment, and will be strongly encouraged to produce scientific
 publications.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	*Duration*: 5-6 months
 *Start Date*: March-April 2014
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	*Application instructions*
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Informal inquiries are welcome and can be made at
 matthias.galle@xrce.xerox.com .
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	To submit an application, please send your CV and cover letter to both
 xrce-candidates@xrce.xerox.com and matthias.galle@xrce.xerox.com .
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Ideally, you will also include in your CV people we can contact for
 letters of recommendation.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	link: http://www.xrce.xerox.com/About-XRCE/Internships/Grammatical-Inference-with-sequential-motifs
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	--mg
 
 
@@ -91,7 +91,7 @@ Le paragraphe 14 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	An open internship position on a mix of string algorithms, grammatical
 inference and statistical machine learning
 
@@ -101,22 +101,22 @@ inference and statistical machine learning
 We are looking for a motivated intern for a project involving the use
 of sequential patterns for the inference of grammars.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The Smallest Grammar Problem is the problem of finding the smallest
 context-free grammars that generates exactly one given sequence.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	We
 plan to generalize this in order to find grammars which generate a set
 of natural language documents with a strong but hidden structure.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	This
 structure will then be converted into additional features (through
 tree kernels for example) in our analytics pipeline or alternatively
 as a starting template for existing multilingual authoring tools.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	*Requirements*
 
 Research-oriented master student or PhD candidate in computer science
@@ -130,7 +130,7 @@ The intern will work closely with researchers in a very international
 environment, and will be strongly encouraged to produce scientific
 publications.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	*Duration*: 5-6 months
 *Start Date*: March-April 2014
 
@@ -139,15 +139,15 @@ La phrase 6 est en : FRA
 Informal inquiries are welcome and can be made at
 matthias.galle@xrce.xerox.com .
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	To submit an application, please send your CV and cover letter to both
 xrce-candidates@xrce.xerox.com and matthias.galle@xrce.xerox.com .
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Ideally, you will also include in your CV people we can contact for
 letters of recommendation.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	link: http://www.xrce.xerox.com/About-XRCE/Internships/Grammatical-Inference-with-sequential-motifs
 
 

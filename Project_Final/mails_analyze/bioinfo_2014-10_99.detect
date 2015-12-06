@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_99" est globalement en : FRA
-[('FRA', 0.10492354360102411), ('ENG', 1.1549472444501476)]
+Le mail "bioinfo_2014-10_99" est globalement en : french
+[('french', 0.2346262006883154), ('english', 0.604922968532242)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 - Génomique comparative et   évolution des algues brunes - recherche d’altérationsgénomiques permettant la colonisati  on de l’eau douce par Ectocarpus
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 - Génomique comparative et évolution des algues  
 brunes - recherche d’altérations génomiques permettant la colonisation de  
 l’eau douce par Ectocarpus
@@ -28,7 +28,7 @@ Laboratoire : Laboratoire de Biologie Intégrative des Modèles Marins /
 Plateforme ABiMS (Analysis and Bioinformatics for Marine Science)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-g%C3%A9nomique-comparative-et-%C3%A9volution-des-algues-brunes-recherche-d%E2%80%99alt%C3%A9rations-g%C3%A9nomiques-p
 
@@ -38,7 +38,7 @@ http://www.sfbi.fr/content/m2-g%C3%A9nomique-comparative-et-%C3%A9volution-des-a
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 - Génomique comparative et évolution des algues  

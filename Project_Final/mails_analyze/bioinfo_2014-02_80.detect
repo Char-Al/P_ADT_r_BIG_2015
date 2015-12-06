@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-02_80" est globalement en : ENG
-[('ENG', 0.577941908401026), ('FRA', 1.1868109918660532)]
+Le mail "bioinfo_2014-02_80" est globalement en : english
+[('english', 0.079893106804142), ('french', 0.2705926942217128)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] RegGenSIG 2014 - Call for abstracts
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Regulatory Genomics Special Interest Group (RegGenSIG)
 Special Interest Group (SIG) at ISMB 2014
 July 12, 2014, Boston, MA, USA.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The RegGenSIG meeting focuses on bioinformatics for regulatory genomics,
 fostering a collaborative community wherein scientists convene to
 discuss difficult research problems in computational regulatory genomics.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	CALL FOR EXTENDED ABSTRACTS
 To make an oral presentation at RegGenSIG, extended abstracts (2-3
 pages) should be submitted by April 20, 2014 to <sinhas@illinois.edu>,
@@ -31,7 +31,7 @@ including "RegGen SIG 2014 - Abstract for oral presentation" in the
 subject line. Authors will be notified by May 1, 2014.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	CALL FOR POSTERS
 For poster presentations, authors should submit a 250 word abstract no
 later than May 18, 2014 to <finn.drablos@ntnu.no>, including "RegGen SIG
@@ -39,7 +39,7 @@ later than May 18, 2014 to <finn.drablos@ntnu.no>, including "RegGen SIG
 will be notified no later than May 25, 2013.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	For more information please see <http://light.ece.ohio.edu/~reggen/2014/>.
 
 
@@ -48,37 +48,37 @@ Le paragraphe 5 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Regulatory Genomics Special Interest Group (RegGenSIG)
 Special Interest Group (SIG) at ISMB 2014
 July 12, 2014, Boston, MA, USA.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The RegGenSIG meeting focuses on bioinformatics for regulatory genomics,
 fostering a collaborative community wherein scientists convene to
 discuss difficult research problems in computational regulatory genomics.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	CALL FOR EXTENDED ABSTRACTS
 To make an oral presentation at RegGenSIG, extended abstracts (2-3
 pages) should be submitted by April 20, 2014 to <sinhas@illinois.edu>,
 including "RegGen SIG 2014 - Abstract for oral presentation" in the
 subject line.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Authors will be notified by May 1, 2014.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	CALL FOR POSTERS
 For poster presentations, authors should submit a 250 word abstract no
 later than May 18, 2014 to <finn.drablos@ntnu.no>, including "RegGen SIG
 2014 - Abstract for poster presentation" in the subject line.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Authors
 will be notified no later than May 25, 2013.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	For more information please see <http://light.ece.ohio.edu/~reggen/2014/>.
 
 ==========================================

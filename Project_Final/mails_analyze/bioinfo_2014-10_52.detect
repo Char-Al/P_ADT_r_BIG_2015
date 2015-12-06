@@ -1,37 +1,37 @@
-Le mail "bioinfo_2014-10_52" est globalement en : FRA
-[('FRA', 0.39554551243613073), ('ENG', 0.6143595334221088)]
+Le mail "bioinfo_2014-10_52" est globalement en : french (conflict)
+[('french', 0.10192717703179337), ('english', 0.789234905452596)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Sequence Bundles - Call for participants
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Science Practice recherche des candidats pour essayer leur nouvel outil de visualisation d'alignements multiple et analyse de motifs, Sequence Bundles, développé en partenariat avec EMBL-EBI. Plus information via ce lien
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	http://science-practice.com/blog/2014/10/06/sequence-bundles/
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Science Practice is looking for participants to try out their Sequence Bundles visualisation tool for multiple alignments and motif analysis developed in partnership with EMBL-EBI. More information at this URL.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	http://science-practice.com/blog/2014/10/06/sequence-bundles/
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Merci d'avance
 
 
@@ -40,22 +40,22 @@ Le paragraphe 6 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous,
 
 Science Practice recherche des candidats pour essayer leur nouvel outil de visualisation d'alignements multiple et analyse de motifs, Sequence Bundles, développé en partenariat avec EMBL-EBI.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Plus information via ce lien
 
 http://science-practice.com/blog/2014/10/06/sequence-bundles/
 
 Science Practice is looking for participants to try out their Sequence Bundles visualisation tool for multiple alignments and motif analysis developed in partnership with EMBL-EBI.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	More information at this URL.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	http://science-practice.com/blog/2014/10/06/sequence-bundles/
 
 Merci d'avance

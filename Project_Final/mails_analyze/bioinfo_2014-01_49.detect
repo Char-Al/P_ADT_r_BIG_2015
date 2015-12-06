@@ -1,38 +1,38 @@
-Le mail "bioinfo_2014-01_49" est globalement en : ENG
-[('ENG', 0.23838269691047043), ('FRA', 0.393112044485467)]
+Le mail "bioinfo_2014-01_49" est globalement en : english
+[('english', 0.030080758629354786), ('french', 0.5195612235657995)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Rgistration deadline Feb 15 : Mathematical and Computational Evolutionary
  Biology, 15-19 June 2014, Montpellier
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : french
 	
 PENSEZ A VOUS PRE-INSCRIRE (PLUS QU'UN MOIS)
 MERCI DE DIFFUSER CETTE ANNONCE
 
 ==========================================
-Le paragraphe 2 est en : n
+Le paragraphe 2 est en : non detect
 	:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	MCEB - Mathematical and Computational Evolutionary Biology, 15-19 June 
 2014 - South of France
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Webpage: http://www.lirmm.fr/mceb2014/
 Pre-registration deadline: February 15
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Scope: Mathematical and computational tools and concepts form an 
 essential basis for modern
 evolutionary studies. The goal of the MCEB conference (at its 6th 
@@ -52,20 +52,20 @@ and discussed, just as
 during the previous conference editions.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Where and when: Hameau de l'Etoile (http://www.hameaudeletoile.com/) in 
 the Montpellier
 region, South of France, 15-19 June 2014.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Cost: Conference fees including accommodation (4 nights), meals, coffee 
 breaks, buses,
 etc., will be around 500 €, and will vary depending on the room type.
 PhD students and postdocs will benefit of the cheapest rooms.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Keynote speakers:
 Richard Durbin (Wellcome Trust Sanger Institute, UK): Population genomics
 Nicolas Lartillot (Lab. Biométrie et Biologie Evolutive, FR): 
@@ -84,11 +84,11 @@ Simon Tavaré (Univ. of Cambridge and Univ. of Southern California ):
 Cancer as an evolutionary process
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	For more information, visit the website at: http://www.lirmm.fr/mceb2014/
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Please forward this announcement
 
 
@@ -97,7 +97,7 @@ Le paragraphe 10 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 PENSEZ A VOUS PRE-INSCRIRE (PLUS QU'UN MOIS)
 MERCI DE DIFFUSER CETTE ANNONCE
@@ -115,7 +115,7 @@ Scope: Mathematical and computational tools and concepts form an
 essential basis for modern
 evolutionary studies.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The goal of the MCEB conference (at its 6th 
 edition) is
 to bring together scientists with diverse backgrounds to present recent 
@@ -124,7 +124,7 @@ discuss open problems in the field of mathematical and computational
 evolutionary
 biology.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	This year a special focus will be given to the applications to 
 biodiversity in all
 its aspects: from its conservation to its ecology and evolution; from 
@@ -132,30 +132,30 @@ the diversity within
 a genome, to that between individuals within a species and that between 
 species in an ecosystem.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	General concepts, models, methods and algorithms will also be presented 
 and discussed, just as
 during the previous conference editions.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Where and when: Hameau de l'Etoile (http://www.hameaudeletoile.com/) in 
 the Montpellier
 region, South of France, 15-19 June 2014.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Cost: Conference fees including accommodation (4 nights), meals, coffee 
 breaks, buses,
 etc., will be around 500 €, and will vary depending on the room type.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	PhD students and postdocs will benefit of the cheapest rooms.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Keynote speakers:
 Richard Durbin (Wellcome Trust Sanger Institute, UK): Population genomics
 Nicolas Lartillot (Lab.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Biométrie et Biologie Evolutive, FR): 
 Comparative genomics and ecology
 Arne Mooers (Simon Fraser University, CA): Considering the Tree of Life 
@@ -169,13 +169,13 @@ recombination graphs
 Mike Steel (University of Canterbury, NZ): What can we reconstruct from 
 the past?
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Simon Tavaré (Univ.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	of Cambridge and Univ.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	of Southern California ): 
 Cancer as an evolutionary process
 

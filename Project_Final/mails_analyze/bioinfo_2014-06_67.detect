@@ -1,49 +1,49 @@
-Le mail "bioinfo_2014-06_67" est globalement en : ENG
-[('ENG', 0.5092021612125344), ('FRA', 0.7802439374569565)]
+Le mail "bioinfo_2014-06_67" est globalement en : english
+[('english', 0.026849817185161124), ('french', 0.36441674055072626)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] postdoc position at Laboratory of Computational and Quantitative Biology - Paris
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	We are interested in finding an excellent postdoc with interests in protein functional annotation, machine learning and computer grids. The position is open for 3.5 years at UPMC, in the heart of paris.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Research topic: Protein function annotation, multiple probabilistic models, domain architecture, machine learning, combinatorial optimization, computer grid. 	
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Title: A novel integrative platform for large scale protein annotation that exploits a multitude of diversified probabilistic models in several protein signature databases.							
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Abstract: Precise genome annotations are a gold mine for biologists that use them to identify proteins involved in biological processes. Databases of protein domains and functional sites are vital resources to provide functional analysis for these new proteins. Most of databases describe known domains with probabilistic models representing consensus among all domain sequences, while only a few ones associate to each protein domain family different probabilistic models, built from a sample of diversified homologous sequences. In the attempt of unifying the annotation process and providing a more accurate tool, integrative approaches combine different types of protein signatures from multiple databases into a single searchable resource. However, the increasing number of proteins with no annotation, present in highly divergent genomes, and the large number of erroneous annotations produced by current tools ask for the development of innovative solutions.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	      We propose a novel integrated approach for large scale protein annotation that will exploit an unprecedented amount of genomic data as well as sophisticated machine learning techniques and combinatorial optimization approaches taking advantages of High Performance Computing (HPC) environments. The idea is to uncover as much as possible the evolutionary processes of protein sequences that took place throughout the whole tree of life and that affected the evolution of a protein family. We have already demonstrated in a previous work that the problem of functional annotation is inherent to the ability of uncovering such paths. Now, we shall extend this approach to large scale genome annotation by considering 11 different protein databases, constituted by about 10^9 protein sequences, and by producing a large pool of diversified probabilistic models coding for about 107 evolutionary protein pathways. Such models will be used to search for specific domains in genomes to be annotated. Our previous methodology needs to be fundamentally improved to deal with this large amount of biological data. In this project, we shall work on the algorithms to reduce the space of models and the search complexity, and we shall implement some important algorithmic changes towards the realization of a powerful integrated annotation tool.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Where: This project is run on the Laboratoire de Biologie Computationnelle et Quantitative UMR7238 CNRS-UPMC  Analytical Genomics team, headed by A.Carbone. It is co-advised with Pierre-Henri Wuillemin, Laboratoire dInformatique de Paris 6  Equipe DECISION. 
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Information about the lab can be found at: http://www.lcqb.upmc.fr/
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Period: The postdoc will be payed under a contract of Ingénieur de Recherche lasting 3.5 years and it is available from september 1st, 2014.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Contact: Alessandra Carbone at alessandra.carbone@lip6.fr
 
 
@@ -52,66 +52,66 @@ Le paragraphe 9 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	We are interested in finding an excellent postdoc with interests in protein functional annotation, machine learning and computer grids.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The position is open for 3.5 years at UPMC, in the heart of paris.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Research topic: Protein function annotation, multiple probabilistic models, domain architecture, machine learning, combinatorial optimization, computer grid.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Title: A novel integrative platform for large scale protein annotation that exploits a multitude of diversified probabilistic models in several protein signature databases.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Abstract: Precise genome annotations are a gold mine for biologists that use them to identify proteins involved in biological processes.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Databases of protein domains and functional sites are vital resources to provide functional analysis for these new proteins.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Most of databases describe known domains with probabilistic models representing consensus among all domain sequences, while only a few ones associate to each protein domain family different probabilistic models, built from a sample of diversified homologous sequences.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	In the attempt of unifying the annotation process and providing a more accurate tool, integrative approaches combine different types of protein signatures from multiple databases into a single searchable resource.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	However, the increasing number of proteins with no annotation, present in highly divergent genomes, and the large number of erroneous annotations produced by current tools ask for the development of innovative solutions.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	We propose a novel integrated approach for large scale protein annotation that will exploit an unprecedented amount of genomic data as well as sophisticated machine learning techniques and combinatorial optimization approaches taking advantages of High Performance Computing (HPC) environments.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	The idea is to uncover as much as possible the evolutionary processes of protein sequences that took place throughout the whole tree of life and that affected the evolution of a protein family.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	We have already demonstrated in a previous work that the problem of functional annotation is inherent to the ability of uncovering such paths.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Now, we shall extend this approach to large scale genome annotation by considering 11 different protein databases, constituted by about 10^9 protein sequences, and by producing a large pool of diversified probabilistic models coding for about 107 evolutionary protein pathways.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Such models will be used to search for specific domains in genomes to be annotated.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Our previous methodology needs to be fundamentally improved to deal with this large amount of biological data.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	In this project, we shall work on the algorithms to reduce the space of models and the search complexity, and we shall implement some important algorithmic changes towards the realization of a powerful integrated annotation tool.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	Where: This project is run on the Laboratoire de Biologie Computationnelle et Quantitative UMR7238 CNRS-UPMC  Analytical Genomics team, headed by A.Carbone.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	It is co-advised with Pierre-Henri Wuillemin, Laboratoire dInformatique de Paris 6  Equipe DECISION.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Information about the lab can be found at: http://www.lcqb.upmc.fr/
 
 Period: The postdoc will be payed under a contract of Ingénieur de Recherche lasting 3.5 years and it is available from september 1st, 2014.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	Contact: Alessandra Carbone at alessandra.carbone@lip6.fr
 
 ==========================================

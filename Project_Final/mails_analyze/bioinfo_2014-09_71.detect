@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_71" est globalement en : FRA
-[('FRA', 0.2869872099963511), ('ENG', 2.7856595970729248)]
+Le mail "bioinfo_2014-09_71" est globalement en : french
+[('french', 0.36161068615288566), ('english', 0.8450086282503586)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] prétraitement et annotation de  s donnéesmétabolomiques
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : prétraitement et annotation des données  
 métabolomiques
 Type de poste : Stage
@@ -27,7 +27,7 @@ Laboratoire : CEA, Centre de Saclay, Institut LIST, Laboratoire pour
 l'Analyse des Données et l'Intelligence des Systèmes
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/pr%C3%A9traitement-et-annotation-des-donn%C3%A9es-m%C3%A9tabolomiques
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/pr%C3%A9traitement-et-annotation-des-donn%C3%A9es-m%C
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : prétraitement et annotation des données  

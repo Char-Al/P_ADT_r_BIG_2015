@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_102" est globalement en : FRA
-[('FRA', 0.40788671860960035), ('ENG', 3.8951797358438)]
+Le mail "bioinfo_2014-10_102" est globalement en : french
+[('french', 0.4035185467224982), ('english', 1.0986878708433752)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur en analyse   de données RNA-seq - Projet France Génomique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur en analyse de données RNA-seq - Projet  
 France Génomique
 Type de poste : CDD Ingénieur
@@ -26,7 +26,7 @@ Email du contact : daniel.gautheret@u-psud.fr
 Laboratoire : I2BC - Université Paris-Sud
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-en-analyse-de-donn%C3%A9es-rna-seq-projet-france-g%C3%A9nomique
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-en-analyse-de-donn%C3%A9es-rna-seq-pro
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur en analyse de données RNA-seq - Projet  

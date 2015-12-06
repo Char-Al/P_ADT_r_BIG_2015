@@ -1,30 +1,30 @@
-Le mail "bioinfo_2014-03_30" est globalement en : ENG
-[('ENG', 0.5480425220602297), ('FRA', 1.4049012904678817)]
+Le mail "bioinfo_2014-03_30" est globalement en : english
+[('english', 0.07567307982530262), ('french', 1.6797914627413182)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] competitive call for postdoctoral fellows
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear all,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The Faculty of Natural Sciences and Technology at NTNU has set up the FINS initiative to support excellent junior scientists from outside Norway who plan to submit applications for independent research fellowships (such as Marie Slodowska Curie (MSC) Individual Fellowships, etc.) in order to pursue an academic research career. I am inviting PhDs in semantic web technologies who would like to do postdoctoral work in Norway to apply. More information can be found on: http://www.ntnu.edu/nt/research/fins and on http://www.ntnu.edu/nt/research/fins/biology/kuiper-lab. It would be great if you could forward this to potentially interested parties. 
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Best regards,
 Martin Kuiper
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -32,24 +32,24 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear all,
 
 The Faculty of Natural Sciences and Technology at NTNU has set up the FINS initiative to support excellent junior scientists from outside Norway who plan to submit applications for independent research fellowships (such as Marie Slodowska Curie (MSC) Individual Fellowships, etc.)
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	in order to pursue an academic research career.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	I am inviting PhDs in semantic web technologies who would like to do postdoctoral work in Norway to apply.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	More information can be found on: http://www.ntnu.edu/nt/research/fins and on http://www.ntnu.edu/nt/research/fins/biology/kuiper-lab.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	It would be great if you could forward this to potentially interested parties.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Best regards,
 Martin Kuiper
 

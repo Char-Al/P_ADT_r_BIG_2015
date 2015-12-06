@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_83" est globalement en : FRA
-[('FRA', 0.15596153135711222), ('ENG', 1.0811937511738434)]
+Le mail "bioinfo_2014-10_83" est globalement en : french
+[('french', 0.3148288435963438), ('english', 0.6201588965104599)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Stratégies bioinformatiques po  ur la découverte et la gestion de nouvelles ci  bles de virulence des effecteurs de type TAL de   la bactériephytopathogène Xanthomonas
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Stratégies bioinformatiques pour la découverte et la  
 gestion de nouvelles cibles de virulence des effecteurs de type TAL de la  
 bactérie phytopathogène Xanthomonas
@@ -28,7 +28,7 @@ Laboratoire : IRD (Institut de Recherche pour le Développement) -
 Plate-forme Bioinformatique South Green
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/strat%C3%A9gies-bioinformatiques-pour-la-d%C3%A9couverte-et-la-gestion-de-nouvelles-cibles-de-virulenc
 
@@ -38,7 +38,7 @@ http://www.sfbi.fr/content/strat%C3%A9gies-bioinformatiques-pour-la-d%C3%A9couve
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Stratégies bioinformatiques pour la découverte et la  

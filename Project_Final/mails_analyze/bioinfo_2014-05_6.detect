@@ -1,40 +1,40 @@
-Le mail "bioinfo_2014-05_6" est globalement en : ENG
-[('ENG', 0.2629462347148498), ('FRA', 0.545663069985618)]
+Le mail "bioinfo_2014-05_6" est globalement en : english
+[('english', 0.06608063743116598), ('french', 0.8163653854725195)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ECCB 2014 tutorial "Computational Tools to Define and Analyse Logical Models of Cellular Networks"
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	We are pleased to announce the ECCB'14 tutorial on "Computational Tools to Define and Analyse Logical Models of Cellular Networks" that will take place Sunday, 7th September, 2014 afternoon, in Strasbourg, France. 
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Looking forward to seeing you in Strasbourg, 
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	C. Chaouiya, T. Cokelaer, T. Helikar and J. Saez-Rodriguez
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	------------------------------------------------------------------------------------------
 Tutorial T02 - Logical Modelling and Analysis of Cellular Networks
              http://www.eccb14.org/program/tutorials/lmcn
 ------------------------------------------------------------------------------------------
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	------------  Short description ------------
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	The logical framework is being increasingly used to model the dynamical behaviour of biological regulatory networks. In this context, a range of computational tools have been developed to support model definition and analysis. These tools reflect the diversity of formalisations covering “logical modelling” (Boolean, multilevel, deterministic, stochastic, etc.). This tutorial aims at providing an overview of this diversity, demonstrating the complementarity between existing computational tools made possible by a novel exchange format --Systems Biology Markup Language  Qualitative Models (SBML qual). Instructors will provide an overview of existing technology powering efficient qualitative modelling of regulatory and signalling networks. Real biological examples will be used in the proposed tutorial session. Specifically, presentations will cover the following topics:
 - Brief introduction to logical modelling;
 - Existing software tools and their specificities;
@@ -44,34 +44,34 @@ Le paragraphe 6 est en : ENG
 - The Cell Collective, a platform for collaborative creation and simulation of large-scale Boolean models (http://www.thecellcollective.org/), overview and short demo.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Attendees will have access to all the material necessary in order to follow/reproduce the various short demonstrations. Speed dating will be organised along the main conference, for one-on-one hands-on training with attendees' custom data. 
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	--------- Target audience ---------
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Students and researchers interested in learning a modelling approach to tackle the complexity of regulatory and signalling networks. This tutorial should interest not only new-comers to the field of network modelling, but also those already familiar with a particular tool, willing to learn about complementary approaches. No prior modelling experience is necessary.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	---------- Instructors ---------
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 		- Claudine Chaouiya (Instituto Gulbenkian de Ciência, Oeiras Portugal)
 	- Thomas Cokelaer (EMBL-EBI, UK)
 	- Tomas Helikar (University of Nebraska-Lincoln, USA)
 	- Julio Saez-Rodriguez (EMBL-EBI, UK) 
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Note that this tutorial is coupled with the workshop "Logical Modelling and Analysis of Cellular Networks", on the previous day (Saturday, September 6th, 2014, http://www.eccb14.org/program/workshops/lmacn).
 
 ==========================================
-Le paragraphe 13 est en : n
+Le paragraphe 13 est en : non detect
 	
 
 ==========================================
@@ -79,10 +79,10 @@ Le paragraphe 13 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	We are pleased to announce the ECCB'14 tutorial on "Computational Tools to Define and Analyse Logical Models of Cellular Networks" that will take place Sunday, 7th September, 2014 afternoon, in Strasbourg, France.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Looking forward to seeing you in Strasbourg, 
 
 C. Chaouiya, T. Cokelaer, T. Helikar and J. Saez-Rodriguez
@@ -97,22 +97,22 @@ Tutorial T02 - Logical Modelling and Analysis of Cellular Networks
 
 The logical framework is being increasingly used to model the dynamical behaviour of biological regulatory networks.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	In this context, a range of computational tools have been developed to support model definition and analysis.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	These tools reflect the diversity of formalisations covering “logical modelling” (Boolean, multilevel, deterministic, stochastic, etc.).
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	This tutorial aims at providing an overview of this diversity, demonstrating the complementarity between existing computational tools made possible by a novel exchange format --Systems Biology Markup Language  Qualitative Models (SBML qual).
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Instructors will provide an overview of existing technology powering efficient qualitative modelling of regulatory and signalling networks.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Real biological examples will be used in the proposed tutorial session.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Specifically, presentations will cover the following topics:
 - Brief introduction to logical modelling;
 - Existing software tools and their specificities;
@@ -121,24 +121,24 @@ La phrase 8 est en : ENG
 - GINsim, a software tool for the definition simulation and analysis of regulatory and signalling networks (http://www.ginsim.org/), overview and short demo;
 - The Cell Collective, a platform for collaborative creation and simulation of large-scale Boolean models (http://www.thecellcollective.org/), overview and short demo.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Attendees will have access to all the material necessary in order to follow/reproduce the various short demonstrations.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Speed dating will be organised along the main conference, for one-on-one hands-on training with attendees' custom data.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	--------- Target audience ---------
 
 Students and researchers interested in learning a modelling approach to tackle the complexity of regulatory and signalling networks.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	This tutorial should interest not only new-comers to the field of network modelling, but also those already familiar with a particular tool, willing to learn about complementary approaches.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	No prior modelling experience is necessary.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	---------- Instructors ---------
 
 	- Claudine Chaouiya (Instituto Gulbenkian de Ciência, Oeiras Portugal)

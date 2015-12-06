@@ -1,64 +1,64 @@
-Le mail "bioinfo_2014-06_51" est globalement en : ENG
-[('ENG', 0.7882711461215153), ('FRA', 0.9365478755768307)]
+Le mail "bioinfo_2014-06_51" est globalement en : english
+[('english', 0.10592136705969513), ('french', 0.33454012807400174)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] TPNC 2014: 3rd call for papers
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	*To be removed from our mailing list, please respond to this message with
 UNSUBSCRIBE in the subject line*
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	****************************************************************************
 **************
 3rd INTERNATIONAL CONFERENCE ON THE THEORY AND PRACTICE OF NATURAL COMPUTING
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	TPNC 2014
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Granada, Spain
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	December 9-11, 2014
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Organized by:
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Soft Computing and Intelligent Information Systems (SCI2S)
 University of Granada
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Research Group on Mathematical Linguistics (GRLMC)
 Rovira i Virgili University
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	http://grammars.grlmc.com/tpnc2014/
 ****************************************************************************
 **************
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	AIMS:
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	TPNC is a conference series intending to cover the wide spectrum of
 computational principles, models and techniques inspired by information
 processing in nature. TPNC 2014 will reserve significant room for young
@@ -68,30 +68,30 @@ by means of computation, nature-inspired materials, and information
 processing in nature.
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	VENUE:
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	TPNC 2014 will take place in Granada, in the region of Andalucía, to the
 south of Spain. The city is the seat of a rich Islamic historical legacy,
 including the Moorish citadel and palace called Alhambra.
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	SCOPE:
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Topics of either theoretical, experimental, or applied interest include, but
 are not limited to:
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	* Nature-inspired models of computation:
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	- amorphous computing
 - cellular automata
 - chaos and dynamical systems based computing
@@ -102,21 +102,21 @@ Le paragraphe 17 est en : ENG
 - swarm intelligence
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	* Synthesizing nature by means of computation:
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	- artificial chemistry
 - artificial immune systems
 - artificial life
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	* Nature-inspired materials:
 
 ==========================================
-Le paragraphe 21 est en : FRA
+Le paragraphe 21 est en : french
 	- computing with DNA
 - nanocomputing
 - physarum computing
@@ -124,11 +124,11 @@ Le paragraphe 21 est en : FRA
 - reaction-diffusion computing
 
 ==========================================
-Le paragraphe 22 est en : ENG
+Le paragraphe 22 est en : english
 	* Information processing in nature:
 
 ==========================================
-Le paragraphe 23 est en : ENG
+Le paragraphe 23 est en : english
 	- developmental systems
 - fractal geometry
 - gene assembly in unicellular organisms
@@ -137,54 +137,54 @@ Le paragraphe 23 est en : ENG
 - systems biology
 
 ==========================================
-Le paragraphe 24 est en : ENG
+Le paragraphe 24 est en : english
 	* Applications of natural computing to: algorithms, bioinformatics, control,
 cryptography, design, economics, graphics, hardware, learning, logistics,
 optimization, pattern recognition, programming, robotics, telecommunications
 etc.
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	A flexible "theory to/from practice" approach would be the perfect focus for
 the expected contributions.
 
 ==========================================
-Le paragraphe 26 est en : FRA
+Le paragraphe 26 est en : french
 	STRUCTURE:
 
 ==========================================
-Le paragraphe 27 est en : ENG
+Le paragraphe 27 est en : english
 	TPNC 2014 will consist of:
 
 ==========================================
-Le paragraphe 28 est en : ENG
+Le paragraphe 28 est en : english
 	- invited talks
 - peer-reviewed contributions
 
 ==========================================
-Le paragraphe 29 est en : ENG
+Le paragraphe 29 est en : english
 	INVITED SPEAKERS:
 
 ==========================================
-Le paragraphe 30 est en : ENG
+Le paragraphe 30 est en : english
 	Kalyanmoy Deb (East Lansing, US), Multi-Criterion Problem Solving: A Niche
 for Natural Computing Methods
 
 ==========================================
-Le paragraphe 31 est en : ENG
+Le paragraphe 31 est en : english
 	Marco Dorigo (Brussels, BE), Swarm Intelligence
 
 ==========================================
-Le paragraphe 32 est en : ENG
+Le paragraphe 32 est en : english
 	Francisco Herrera (Granada, ES), Bioinspired Real Parameter Optimization:
 Where We Are and Whats Next
 
 ==========================================
-Le paragraphe 33 est en : ENG
+Le paragraphe 33 est en : english
 	PROGRAMME COMMITTEE:
 
 ==========================================
-Le paragraphe 34 est en : ENG
+Le paragraphe 34 est en : french
 	Hussein A. Abbass (Canberra, AU)
 Uwe Aickelin (Nottingham, UK)
 Thomas Bäck (Leiden, NL)
@@ -228,11 +228,11 @@ Michael N. Vrahatis (Patras, GR)
 Xin Yao (Birmingham, UK)
 
 ==========================================
-Le paragraphe 35 est en : ENG
+Le paragraphe 35 est en : english
 	ORGANIZING COMMITTEE:
 
 ==========================================
-Le paragraphe 36 est en : ENG
+Le paragraphe 36 est en : english
 	Adrian Horia Dediu (Tarragona)
 Carlos García-Martínez (Córdoba)
 Carlos Martín-Vide (Tarragona, co-chair)
@@ -241,11 +241,11 @@ Francisco Javier Rodríguez (Granada)
 Florentina Lilica Voicu (Tarragona)
 
 ==========================================
-Le paragraphe 37 est en : FRA
+Le paragraphe 37 est en : french
 	SUBMISSIONS:
 
 ==========================================
-Le paragraphe 38 est en : ENG
+Le paragraphe 38 est en : english
 	Authors are invited to submit non-anonymized papers in English presenting
 original and unpublished research. Papers should not exceed 12 single-spaced
 pages (including eventual appendices, references, etc.) and should be
@@ -253,48 +253,48 @@ prepared according to the standard format for the Springer Verlag's LNCS
 series (see http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
 
 ==========================================
-Le paragraphe 39 est en : ENG
+Le paragraphe 39 est en : english
 	Submissions have to be uploaded to:
 
 ==========================================
-Le paragraphe 40 est en : ENG
+Le paragraphe 40 est en : english
 	https://www.easychair.org/conferences/?conf=tpnc2014
 
 ==========================================
-Le paragraphe 41 est en : ENG
+Le paragraphe 41 est en : english
 	PUBLICATIONS:
 
 ==========================================
-Le paragraphe 42 est en : ENG
+Le paragraphe 42 est en : english
 	A volume of proceedings published by Springer in the LNCS series will be
 available by the time of the conference.
 
 ==========================================
-Le paragraphe 43 est en : ENG
+Le paragraphe 43 est en : english
 	A special issue of the journal Soft Computing (Springer, 2012 JCR impact
 factor: 1.124) will be later published containing peer-reviewed
 substantially extended versions of some of the papers contributed to the
 conference. Submissions to it will be by invitation.
 
 ==========================================
-Le paragraphe 44 est en : ENG
+Le paragraphe 44 est en : english
 	REGISTRATION:
 
 ==========================================
-Le paragraphe 45 est en : ENG
+Le paragraphe 45 est en : english
 	The period for registration is open from April 5 to December 9, 2014. The
 registration form can be found at:
 
 ==========================================
-Le paragraphe 46 est en : ENG
+Le paragraphe 46 est en : english
 	http://grammars.grlmc.com/tpnc2014/Registration.php
 
 ==========================================
-Le paragraphe 47 est en : FRA
+Le paragraphe 47 est en : french
 	DEADLINES:
 
 ==========================================
-Le paragraphe 48 est en : ENG
+Le paragraphe 48 est en : english
 	Paper submission: July 17, 2014 (23:59h, CET)
 Notification of paper acceptance or rejection: August 24, 2014
 Final version of the paper for the LNCS proceedings: September 7, 2014
@@ -303,19 +303,19 @@ Late registration: November 25, 2014
 Submission to the post-conference journal special issue: March 11, 2015
 
 ==========================================
-Le paragraphe 49 est en : FRA
+Le paragraphe 49 est en : french
 	QUESTIONS AND FURTHER INFORMATION:
 
 ==========================================
-Le paragraphe 50 est en : FRA
+Le paragraphe 50 est en : french
 	florentinalilica.voicu@urv.cat
 
 ==========================================
-Le paragraphe 51 est en : FRA
+Le paragraphe 51 est en : french
 	POSTAL ADDRESS:
 
 ==========================================
-Le paragraphe 52 est en : ENG
+Le paragraphe 52 est en : english
 	TPNC 2014
 Research Group on Mathematical Linguistics (GRLMC)
 Rovira i Virgili University
@@ -323,27 +323,27 @@ Av. Catalunya, 35
 43002 Tarragona, Spain
 
 ==========================================
-Le paragraphe 53 est en : FRA
+Le paragraphe 53 est en : french
 	Phone: +34 977 559 543
 Fax: +34 977 558 386
 
 ==========================================
-Le paragraphe 54 est en : ENG
+Le paragraphe 54 est en : english
 	ACKNOWLEDGEMENTS:
 
 ==========================================
-Le paragraphe 55 est en : FRA
+Le paragraphe 55 est en : french
 	Universidad de Granada
 Universitat Rovira i Virgili
 
 ==========================================
-Le paragraphe 56 est en : ENG
+Le paragraphe 56 est en : english
 	---
 Este mensaje no contiene virus ni malware porque la protección de avast! Antivirus está activa.
 http://www.avast.com
 
 ==========================================
-Le paragraphe 57 est en : n
+Le paragraphe 57 est en : non detect
 	
 
 ==========================================
@@ -351,7 +351,7 @@ Le paragraphe 57 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	*To be removed from our mailing list, please respond to this message with
 UNSUBSCRIBE in the subject line*
 
@@ -383,27 +383,27 @@ TPNC is a conference series intending to cover the wide spectrum of
 computational principles, models and techniques inspired by information
 processing in nature.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	TPNC 2014 will reserve significant room for young
 scholars at the beginning of their career.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	It aims at attracting
 contributions to nature-inspired models of computation, synthesizing nature
 by means of computation, nature-inspired materials, and information
 processing in nature.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	VENUE:
 
 TPNC 2014 will take place in Granada, in the region of Andalucía, to the
 south of Spain.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The city is the seat of a rich Islamic historical legacy,
 including the Moorish citadel and palace called Alhambra.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	SCOPE:
 
 Topics of either theoretical, experimental, or applied interest include, but
@@ -448,11 +448,11 @@ cryptography, design, economics, graphics, hardware, learning, logistics,
 optimization, pattern recognition, programming, robotics, telecommunications
 etc.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	A flexible "theory to/from practice" approach would be the perfect focus for
 the expected contributions.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	STRUCTURE:
 
 TPNC 2014 will consist of:
@@ -512,7 +512,7 @@ El-Ghazali Talbi (Lille, FR)
 Jon Timmis (York, UK)
 Fernando J.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Von Zuben (Campinas, BR)
 Michael N. Vrahatis (Patras, GR)
 Xin Yao (Birmingham, UK)
@@ -531,16 +531,16 @@ SUBMISSIONS:
 Authors are invited to submit non-anonymized papers in English presenting
 original and unpublished research.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Papers should not exceed 12 single-spaced
 pages (including eventual appendices, references, etc.)
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	and should be
 prepared according to the standard format for the Springer Verlag's LNCS
 series (see http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Submissions have to be uploaded to:
 
 https://www.easychair.org/conferences/?conf=tpnc2014
@@ -550,21 +550,21 @@ PUBLICATIONS:
 A volume of proceedings published by Springer in the LNCS series will be
 available by the time of the conference.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	A special issue of the journal Soft Computing (Springer, 2012 JCR impact
 factor: 1.124) will be later published containing peer-reviewed
 substantially extended versions of some of the papers contributed to the
 conference.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Submissions to it will be by invitation.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	REGISTRATION:
 
 The period for registration is open from April 5 to December 9, 2014.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	The
 registration form can be found at:
 
@@ -590,7 +590,7 @@ Research Group on Mathematical Linguistics (GRLMC)
 Rovira i Virgili University
 Av.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	Catalunya, 35
 43002 Tarragona, Spain
 
@@ -606,10 +606,10 @@ Universitat Rovira i Virgili
 ---
 Este mensaje no contiene virus ni malware porque la protección de avast!
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	Antivirus está activa.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	http://www.avast.com
 
 

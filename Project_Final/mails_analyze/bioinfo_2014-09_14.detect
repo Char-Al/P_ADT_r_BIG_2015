@@ -1,51 +1,51 @@
-Le mail "bioinfo_2014-09_14" est globalement en : FRA
-[('ENG', 1.1456232617926563), ('FRA', 1.2754493594326597)]
+Le mail "bioinfo_2014-09_14" est globalement en : french
+[('french', 0.054868073350196576), ('english', 2.537352266227517)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Formation Bioinformatique - Initiation
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation intitulée : "Initiation à la bioinformatique" à Bordeaux sur 2 jours (du 6 au 7 novembre 2014):
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Adresse:
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle à Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex). Ce campus est situé à proximité du CHU Pellegrin.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Objectifs:
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	1. Savoir rechercher les informations dans les banques de données
 2. Maitriser les outils d'analyse de séquences tels que les alignements
 3. Savoir interpréter des résultats pour effectuer une annotation fonctionnelle
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Programme:
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	La formation se découpe en 4 modules de 4 heures (2 heures de cours et 2 heures de TP chacuns).
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	- L'organisation des banques de données publiques
 - Recherche d'informations dans des banques de données
 - Comparaison de séquences
@@ -54,27 +54,27 @@ Le paragraphe 9 est en : FRA
 - Annotation fonctionnelle des protéines
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	En fin de formation, est prévue une séance d'interaction dédiée aux problèmes particuliers d'analyse de séquence des stagiaires. 
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Cette formation vise les personnes souhaitant développer des analyses bioinformatique à partir de logiciels en ligne. elle s'adresse aussi bien aux ingénieurs ou chercheurs qu'aux biologistes de formation.
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous :
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	https://cnrsformation.cnrs.fr/stage.php?stage=14227&axe=62
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Pour toute information complémentaire (public visé, niveau, cout, ...), merci de contacter:
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	- Aurélien Barré (aurelien.barre@u-bordeaux.fr)
 - Benjamin Dartigues (benjamin.dartigues@u-bordeaux.fr) 
 
@@ -84,7 +84,7 @@ Le paragraphe 15 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Le Centre de Bioinformatique de Bordeaux (CBiB) organise une formation intitulée : "Initiation à la bioinformatique" à Bordeaux sur 2 jours (du 6 au 7 novembre 2014):
@@ -93,30 +93,30 @@ Adresse:
 
 Le Centre de Bioinformatique de Bordeaux est localisé au niveau principal du bâtiment du Centre de Génomique Fonctionnelle à Bordeaux sur le site Carreire de l'Université Bordeaux Segalen (146, rue Léo Saignat 33076 Bordeaux cedex).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Ce campus est situé à proximité du CHU Pellegrin.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Objectifs:
 
 1.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Savoir rechercher les informations dans les banques de données
 2.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Maitriser les outils d'analyse de séquences tels que les alignements
 3.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Savoir interpréter des résultats pour effectuer une annotation fonctionnelle
 
 Programme:
 
 La formation se découpe en 4 modules de 4 heures (2 heures de cours et 2 heures de TP chacuns).
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	- L'organisation des banques de données publiques
 - Recherche d'informations dans des banques de données
 - Comparaison de séquences
@@ -126,13 +126,13 @@ La phrase 7 est en : FRA
 
 En fin de formation, est prévue une séance d'interaction dédiée aux problèmes particuliers d'analyse de séquence des stagiaires.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Cette formation vise les personnes souhaitant développer des analyses bioinformatique à partir de logiciels en ligne.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	elle s'adresse aussi bien aux ingénieurs ou chercheurs qu'aux biologistes de formation.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Les inscriptions se font sur le site web du CNRS Formation indiqué ci-dessous :
 
 https://cnrsformation.cnrs.fr/stage.php?stage=14227&axe=62

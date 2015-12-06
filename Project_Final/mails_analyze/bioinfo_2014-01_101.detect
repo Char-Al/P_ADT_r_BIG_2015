@@ -1,31 +1,31 @@
-Le mail "bioinfo_2014-01_101" est globalement en : FRA
-[('ENG', 0.6174231705461667), ('FRA', 0.7012382413030193)]
+Le mail "bioinfo_2014-01_101" est globalement en : french
+[('french', 0.060630094255602396), ('english', 2.4337256013500577)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Postes MCF et PR au LIF - Aix-Marseille
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	[désolé pour les réceptions multiples]
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	5 postes de MCF et PR (CNU 27 section) seront ouverts au concours 2014 à 
 Aix-Marseille avec rattachement recherche au Laboratoire d'Informatique 
 Fondamentale (LIF).
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Des candidatures sur des thématiques de bio-informatique, avec 
 rattachement à l'équipe "Informatique mathématique et dynamique 
 biologique" (IMDB) du LIF, sont les bienvenues. Bien que ces postes 
@@ -38,7 +38,7 @@ Sciences (profil fléché pour l'équipe IMDB),
 Sciences (profil ouvert).
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	L'équipe IMDB est une jeune équipe du LIF (créée en septembre 2013) dont 
 les thématiques de recherche se placent à la frontière de l'informatique 
 fondamentale et de la biologie. Elle a pour vocation d'étudier les 
@@ -54,25 +54,25 @@ la modélisation des systèmes d'interactions biologiques sont
 particulièrement recherchés.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Plus de détails sont disponibles sur le site web du LIF : 
 http://www.lif.univ-mrs.fr/
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Bien cordialement,
 S.
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	-- 
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Sylvain Sené
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Professeur des universités
 Laboratoire d'informatique fondamentale (LIF)
 Parc scientifique et technologique de Luminy
@@ -85,7 +85,7 @@ F-13288 Marseille Cedex 9
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 [désolé pour les réceptions multiples]
@@ -94,17 +94,17 @@ La phrase 1 est en : FRA
 Aix-Marseille avec rattachement recherche au Laboratoire d'Informatique 
 Fondamentale (LIF).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Des candidatures sur des thématiques de bio-informatique, avec 
 rattachement à l'équipe "Informatique mathématique et dynamique 
 biologique" (IMDB) du LIF, sont les bienvenues.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Bien que ces postes 
 soient tous ouverts à l'ensemble des équipes du LIF, certains sont 
 affichés avec une priorité.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	En ce qui concerne directement IMDB, deux 
 ressortent :
 - le poste MCF du département Informatique et Interactions de l'UFR de 
@@ -112,18 +112,18 @@ Sciences (profil fléché pour l'équipe IMDB),
 - le poste PR du département Informatique et Interactions de l'UFR de 
 Sciences (profil ouvert).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	L'équipe IMDB est une jeune équipe du LIF (créée en septembre 2013) dont 
 les thématiques de recherche se placent à la frontière de l'informatique 
 fondamentale et de la biologie.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Elle a pour vocation d'étudier les 
 réseaux d'interactions au sens large au moyen de méthodes issues de 
 l'informatique et des mathématiques discrètes (systèmes dynamiques, 
 complexité, calculabilité).
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Son domaine d'applications privilégié est la 
 biologie moléculaire, au travers des systèmes d'interactions biologiques 
 complexes (réseaux de régulation génétique, réseaux de propagation 
@@ -133,7 +133,7 @@ mathématiques intéressés par les aspects fondamentaux et/ou appliqués de
 la modélisation des systèmes d'interactions biologiques sont 
 particulièrement recherchés.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Plus de détails sont disponibles sur le site web du LIF : 
 http://www.lif.univ-mrs.fr/
 

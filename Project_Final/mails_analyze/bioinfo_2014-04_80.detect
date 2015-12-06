@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-04_80" est globalement en : ENG
-[('ENG', 0.3813185563321799), ('FRA', 1.3551939990534319)]
+Le mail "bioinfo_2014-04_80" est globalement en : english
+[('english', 0.05944778504566736), ('french', 0.240274061658538)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] CFP OTM Academy 2014- A Tutored Workshop for PhD Students 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	================================================================
                      CALL FOR PAPERS: 
      11th OTM Academy (a tutored workshop for Ph.D. students)
@@ -23,7 +23,7 @@ In conjunction with OnTheMove Federated Conferences and Workshops (OTM'14)
           Deadline: abstracts June, 22 & papers June, 27
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Description
 ================================================================
 OTM Academy (OTMa) is a unique tutored workshop where Ph.D. students from diverse areas of  Information Systems, Computer Sciences,and Business Informatics will be able to discuss  their research plans and receive invaluable feedback from a team of accompanying professors. 
@@ -40,11 +40,11 @@ skills by appropriate experts of the OTM Academy,
 -) the possibility to become a member of our Hall-of-Fame of past OTMA PhD students on our web page. 
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Additionally, other (Ph.D.) students without an accepted submission to the OTM Academy are encouraged  to register as participants as it proves to be fruitful for them to observe and interact with presenting  authors like you, and expand the pool of ideas to be discussed. OTMA 2014 will award the best contribution!
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Potential topics include, but are not limited to:
 -------------------------------------------------
 -) Data management techniques for Linked (Big) Data, Business Information Systems, or Bioinformatics.
@@ -58,7 +58,7 @@ Querying Data, and Process and Service Specification.
 -) Innovative Data Science applications for e-finance, e-government, e-health, and e-science.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Important Dates:
  ------------------------
 Abstracts Submission Deadline: June 22
@@ -70,27 +70,27 @@ OTM Academy '14: October 27 (- 28)
 OTM Conferences: October 27 - 31
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Submissions Guidelines
 ------------------------
 Research papers are limited to 15 pages.
 All papers will be formatted according to the LNCS format.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Publication
 -------------------------
 Papers will be published in a Springer LNCS volume with papers of the OTM workshops.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	OTMA Chairs
 -----------------------
   Peter Spyns (Vrije Universiteit Brussel, Belgium), OTMA Organizing Chair
   Maria-Esther Vidal (Universidad Simon Bolivar, Venezuela), OTMA Accompanying Profesor & OTMA Organizing Chair
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Program Committee
 _________________
   Galia Angelova (Bulgarian Academy of Science, Sofia, Bulgary)
@@ -112,7 +112,7 @@ _________________
   Maria-Esther Vidal (Universidad Simon Bolivar, Venezuela), OTMA Accompanying Profesor & OTMA Organizing Chair
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	For our young audience of PhD students we added a detailed description of our 
 faculty members on our web page (http://www.onthemove-academy.org/).
 You can contact us via: academy@onthemove-conferences.org
@@ -125,7 +125,7 @@ Peter Spyns and Maria-Esther Vidal
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	================================================================
                      CALL FOR PAPERS: 
      11th OTM Academy (a tutored workshop for Ph.D. students)
@@ -140,7 +140,7 @@ Description
 ================================================================
 OTM Academy (OTMa) is a unique tutored workshop where Ph.D. students from diverse areas of  Information Systems, Computer Sciences,and Business Informatics will be able to discuss  their research plans and receive invaluable feedback from a team of accompanying professors.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Particularly, OTMa offers participants:
 -) a publication of the accepted papers in a Springer LNCS volume,
 -) a dedicated feedback and exclusive time of prominent professors, experienced researchers and  experts in your field of research during the OTM Academy,
@@ -153,38 +153,38 @@ skills by appropriate experts of the OTM Academy,
 -) a friendly and fun atmosphere (several OTM social events) to meet other Ph.D. students and researchers,
 -) the possibility to become a member of our Hall-of-Fame of past OTMA PhD students on our web page.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Additionally, other (Ph.D.) students without an accepted submission to the OTM Academy are encouraged  to register as participants as it proves to be fruitful for them to observe and interact with presenting  authors like you, and expand the pool of ideas to be discussed.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	OTMA 2014 will award the best contribution!
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Potential topics include, but are not limited to:
 -------------------------------------------------
 -) Data management techniques for Linked (Big) Data, Business Information Systems, or Bioinformatics.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	-) Context-Aware approaches for Multimedia Information Retrieval.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	-) Ontology-based techniques for Data Integration and Quality Assessment, Question Answering, Accessing and 
 Querying Data, and Process and Service Specification.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	-) Distributed and Open Architectures for Cloud Computing.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	-) Mobile-based architectures and applications.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	-) Semantics and Infrastructures to support the Internet of Things.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	-) Role of community-driven and semantic IT in organizations and business ecosystems    
 -) Innovative Data Science applications for e-finance, e-government, e-health, and e-science.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Important Dates:
  ------------------------
 Abstracts Submission Deadline: June 22
@@ -199,15 +199,15 @@ Submissions Guidelines
 ------------------------
 Research papers are limited to 15 pages.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	All papers will be formatted according to the LNCS format.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Publication
 -------------------------
 Papers will be published in a Springer LNCS volume with papers of the OTM workshops.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	OTMA Chairs
 -----------------------
   Peter Spyns (Vrije Universiteit Brussel, Belgium), OTMA Organizing Chair
@@ -236,7 +236,7 @@ _________________
 For our young audience of PhD students we added a detailed description of our 
 faculty members on our web page (http://www.onthemove-academy.org/).
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	You can contact us via: academy@onthemove-conferences.org
 Peter Spyns and Maria-Esther Vidal
 (OTMA'14 Organising Chairs)

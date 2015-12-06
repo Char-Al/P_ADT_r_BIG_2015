@@ -1,24 +1,24 @@
-Le mail "bioinfo_2014-10_61" est globalement en : FRA
-[('ENG', 0.29263702935444486), ('FRA', 1.0015640564947597)]
+Le mail "bioinfo_2014-10_61" est globalement en : french
+[('french', 0.3567550335989111), ('english', 0.3891483931440497)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] early registrations evolutinary biology meeting Marseille
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	les inscriptions pour l'EBM19 sont ouvertes
  
 http://aeeb.fr/?page_id=333
 http://sites.univ-provence.fr/evol-cgr/
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Pierre Pontarotti
 
 
@@ -27,7 +27,7 @@ Le paragraphe 2 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	les inscriptions pour l'EBM19 sont ouvertes
  
 http://aeeb.fr/?page_id=333

@@ -1,58 +1,58 @@
-Le mail "bioinfo_2014-05_20" est globalement en : ENG
-[('ENG', 0.811482720736608), ('FRA', 1.3905602399119417)]
+Le mail "bioinfo_2014-05_20" est globalement en : english
+[('english', 0.029132635609211685), ('french', 0.31506093862218054)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Call for papers, Nectar track at ECML/PKDD 2014, June 14
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	CALL FOR NECTAR TRACK CONTRIBUTIONS AT ECML/PKDD 2014
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	http://ecmlpkdd2014.loria.fr/submission/call-for-nectar-track-contributions/
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	The European Conference on “Machine Learning” and “Principles and Practice of Knowledge Discovery in Databases” (ECML-PKDD) provides an international forum for the discussion of the latest high-quality research results in all areas related to machine learning and knowledge discovery in databases and related application domains.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The goal of the Nectar Track is to offer conference attendees a compact overview of recent scientific advances at the frontier of machine learning and data mining, as published in related conferences and journals. We invite senior and junior researchers interested in Machine Learning and/or Knowledge Discovery in Databases, to submit summaries of their own work published in the neighboring fields, e.g. artificial intelligence, data analytics, bioinformatics, games, computational linguistics, computer vision, geoinformatics, health informatics, database theory, human computer interaction, information and knowledge management, robotics, pattern recognition, statistics, social network analysis, theoretical computer science, uncertainty in AI – and more.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Papers summarizing original and/or influential advances in machine learning and data mining are welcome; descriptions of new applications are welcome as well. Note that papers focusing on software implementations should rather be submitted to the demo track. Papers must be 4 pages and should be formatted according to the Author instructions and style files that can be found at http://www.springer.de/comp/lncs/authors.html
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Papers should be submitted in the CMT submission system (select from the menu the Nectar track).
 https://cmt2.research.microsoft.com/ECMLPKDD2014/
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Submissions must clearly indicate which corresponding original publication(s) are presented, and must clearly motivate the relevance of the work in the context of machine learning and data mining.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Important dates: (all deadlines are at 23:59 of the mentioned date, Pacific Time)
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 		• Submission deadline: Saturday, June 14
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 		• Notifications: Friday, June 28
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 		• Submission of camera ready copies: July 8
 
 ==========================================
@@ -60,39 +60,39 @@ Le paragraphe 11 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	CALL FOR NECTAR TRACK CONTRIBUTIONS AT ECML/PKDD 2014
 
 http://ecmlpkdd2014.loria.fr/submission/call-for-nectar-track-contributions/
 
 The European Conference on “Machine Learning” and “Principles and Practice of Knowledge Discovery in Databases” (ECML-PKDD) provides an international forum for the discussion of the latest high-quality research results in all areas related to machine learning and knowledge discovery in databases and related application domains.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The goal of the Nectar Track is to offer conference attendees a compact overview of recent scientific advances at the frontier of machine learning and data mining, as published in related conferences and journals.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	We invite senior and junior researchers interested in Machine Learning and/or Knowledge Discovery in Databases, to submit summaries of their own work published in the neighboring fields, e.g.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	artificial intelligence, data analytics, bioinformatics, games, computational linguistics, computer vision, geoinformatics, health informatics, database theory, human computer interaction, information and knowledge management, robotics, pattern recognition, statistics, social network analysis, theoretical computer science, uncertainty in AI – and more.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Papers summarizing original and/or influential advances in machine learning and data mining are welcome; descriptions of new applications are welcome as well.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Note that papers focusing on software implementations should rather be submitted to the demo track.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Papers must be 4 pages and should be formatted according to the Author instructions and style files that can be found at http://www.springer.de/comp/lncs/authors.html
 
 Papers should be submitted in the CMT submission system (select from the menu the Nectar track).
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	https://cmt2.research.microsoft.com/ECMLPKDD2014/
 
 Submissions must clearly indicate which corresponding original publication(s) are presented, and must clearly motivate the relevance of the work in the context of machine learning and data mining.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Important dates: (all deadlines are at 23:59 of the mentioned date, Pacific Time)
 
 	• Submission deadline: Saturday, June 14

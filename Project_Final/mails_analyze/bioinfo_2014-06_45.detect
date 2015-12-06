@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-06_45" est globalement en : ENG
-[('ENG', 0.3848970568769566), ('FRA', 0.7215042272621045)]
+Le mail "bioinfo_2014-06_45" est globalement en : english
+[('english', 0.06585170065362976), ('french', 0.2948989776935424)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] OPPORTUNITE DE CARRIERE - ONTOLOGY - MODIS
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	MODIS société internationale réalise un CA de 2,4 milliard deuros en 2012.
 Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, 
 France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture 
@@ -24,7 +24,7 @@ Services & lEnergie. Ils interviennent en conseil, ingénierie applicative,
 support et management des infrastructures.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	We are looking for a partner to work with in order to significantly expand 
 the existing ontology and maintain it on the long run. The partner will be in 
 charge of extending and maintaining the ontological model by designing new 
@@ -39,7 +39,7 @@ basis by mainly creating and maintaining instances in our ontology hosted on
 the solution Ontobroker from Semafora.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Main tasks to fulfill are the following:
 Phase 1 (initialisation):
 - Review our existing Ontology
@@ -53,7 +53,7 @@ will support all assay parameters identified by the on-going initiative.
 resource that will be in charge of the everyday maintenance of the ontology.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Phase 2   (Initial extension):
 Based on work described in phase 1:
 - Produced extended model supporting all identified assay parameters  
@@ -62,7 +62,7 @@ extension
 - Train the company resources to extended model
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Phase 3   (Recurring work):
 Update and maintain ontological model on the long run and on a regular basis:
 - Produced model extension depending on the company needs and though 
@@ -72,25 +72,25 @@ extensions
 Support internal resource in charge of every day maintenance
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Planning:
 Requested deliverables for Phase 1:     
 - Guidelines document describing which information to gather and how
 - An implementation plan for phase 2 including estimated costs and timelines 
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Requested deliverables for Phase 2 & 3: 
 - Ontology concepts and associated classes implemented in our Ontobroker 
 Ontology.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Technical competences:
 The project requires a mastery of OntoBroker. 
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Functional competences:
 -       Biology InVivo, InVitro, Drug Safety (Toxicity), Pharmacokinetics and 
 drug Metabolism (PK, ADME), bioMarkers, Bio-informatics, omics and 
@@ -100,11 +100,11 @@ translational
 -       English
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Project based in Les Ulis (91)
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	You have experience in R&D IT for pharmaceutical industry. You have good 
 knowledge of the research process around the activities of Biology In Vivo, 
 In Vitro such as: Pharmacology, Toxicology, DMPK, molecular and cellular 
@@ -113,7 +113,7 @@ You have evolved to Ontology definitions work and have already led 1 Ontology
 modeling and deployment project. 
 
 ==========================================
-Le paragraphe 12 est en : n
+Le paragraphe 12 est en : non detect
 	
 
 ==========================================
@@ -121,75 +121,75 @@ Le paragraphe 12 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	MODIS société internationale réalise un CA de 2,4 milliard deuros en 2012.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, 
 France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture 
 géographique mondiale.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	En France, MODIS fait partie des 30 premières Sociétés de Service en 
 Ingénierie Numérique.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Elle sappuie sur un réseau de 7 agences.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ses 1600 
 collaborateurs apportent des solutions à ses clients issus de la 
 Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le 
 Services & lEnergie.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Ils interviennent en conseil, ingénierie applicative, 
 support et management des infrastructures.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	We are looking for a partner to work with in order to significantly expand 
 the existing ontology and maintain it on the long run.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The partner will be in 
 charge of extending and maintaining the ontological model by designing new 
 concepts and consequently providing set of classes and relations type to be 
 imported in this model.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	To perform those extensions, the consultant will 
 interact with different scientific experts in various scientific domains such 
 as: Pharmacology, Toxicology, DMPK, molecular and cellular biology, 
 bio-informatics, omics and translational.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	The consultant will also train and 
 coach an internal resource who will be in charge of: collecting data to be 
 able to start modeling exercise and maintaining the ontology on a everyday 
 basis by mainly creating and maintaining instances in our ontology hosted on 
 the solution Ontobroker from Semafora.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Main tasks to fulfill are the following:
 Phase 1 (initialisation):
 - Review our existing Ontology
 The company has on-going initiative to capture all assay parameters currently 
 in used in order to have them defined in the ontology.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	You will review 
 on-going work and advise the company on the methodology to use to ensure this 
 work can be used as a basis to extend the Ontology.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	- Assess costs and timelines to deliver extension of ontological model that 
 will support all assay parameters identified by the on-going initiative.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	- Make recommendations on skills and/or training required for the company 
 resource that will be in charge of the everyday maintenance of the ontology.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Phase 2   (Initial extension):
 Based on work described in phase 1:
 - Produced extended model supporting all identified assay parameters  
@@ -214,11 +214,11 @@ Requested deliverables for Phase 2 & 3:
 - Ontology concepts and associated classes implemented in our Ontobroker 
 Ontology.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Technical competences:
 The project requires a mastery of OntoBroker.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	Functional competences:
 -       Biology InVivo, InVitro, Drug Safety (Toxicity), Pharmacokinetics and 
 drug Metabolism (PK, ADME), bioMarkers, Bio-informatics, omics and 
@@ -231,13 +231,13 @@ Project based in Les Ulis (91)
 
 You have experience in R&D IT for pharmaceutical industry.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	You have good 
 knowledge of the research process around the activities of Biology In Vivo, 
 In Vitro such as: Pharmacology, Toxicology, DMPK, molecular and cellular 
 biology but also in Bioinformatics, omics and translational.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	You have evolved to Ontology definitions work and have already led 1 Ontology 
 modeling and deployment project. 
 

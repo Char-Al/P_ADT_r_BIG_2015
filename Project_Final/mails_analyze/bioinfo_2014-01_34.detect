@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_34" est globalement en : FRA
-[('ENG', 0.499072363849474), ('FRA', 0.7101686358585263)]
+Le mail "bioinfo_2014-01_34" est globalement en : french
+[('french', 0.5698176171779507), ('english', 0.7181867817483605)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Postdoctoral position in genomics/bio-informatics (NGS)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Postdoctoral position in genomics/bio-informatics (NGS)
 Type de poste : Post-doc / IR
 Durée du poste : 18 mois
@@ -25,7 +25,7 @@ Email du contact : yoann.augagneur@univ-rennes1.fr
 Laboratoire : INERM U835
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/postdoctoral-position-genomicsbio-informatics-ngs
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/postdoctoral-position-genomicsbio-informatics-ngs
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Postdoctoral position in genomics/bio-informatics (NGS)

@@ -1,60 +1,60 @@
-Le mail "bioinfo_2014-01_4" est globalement en : FRA
-[('FRA', 0.5491931299971196), ('ENG', 2.7459195214776106)]
+Le mail "bioinfo_2014-01_4" est globalement en : french
+[('french', 0.03446380566021052), ('english', 1.3664795617307706)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Stage Master- Ingénieur en Bioinformatique et Génomique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Stage Master/Ingénieur en Bioinformatique et Génomique.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	THEME : Analyse Comparée des Génomes de Plantes et dAnimaux.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Contexte scientifique :
 Afin détudier lévolution des génomes de plantes et danimaux, la synténie (conservation des gènes entre espèces) et les duplications totales de génomes sont étudiées. En comparant les génomes séquencés despèces modernes animales et végétales léquipe PaleoEvo (Paléogénomique et Evolution) de lINRA de Clermont-ferrand (http://www4.clermont.inra.fr/umr1095/Equipes/Recherches/Paleogenomique-des-plantes-pour-l-amelioration-varietale) a défini un ancêtre à 5 chromosomes chez les Monocots, 7 chez les Dicots et 10 chez les vertébrés permettant de retracer lhistoire évolutive génomique des plantes et des animaux au niveau structural (Murat et al. 2012). Léquipe sintéresse également à des aspects fonctionnels des gènes et de régulation des génomes liés à lévolution, notamment concernant limpact des duplications totales de génomes sur lexpression/méthylation des gènes dupliqués au sein des génomes modernes. Dans ce sens, léquipe sinvestit de façon importante dans le développement doutils et de méthodes permettant de mettre en évidence des relations dhomologies entre et au sein des génomes de plantes et danimaux afin de reconstruire leurs ancêtres et de comprendre leurs histoires évolutives.
 A ce jour, le travail de mise en évidence de ces relations de synténie et de paralogie chez les plantes et les animaux séquencés a été effectué et publié (cf liste publication jointe). Lobjectif du stage est détudier différents méthylomes chez les plantes et les animaux afin de comprendre et de comparer les modes de régulation de ces génomes ainsi que de comprendre certaines différences génomiques entre les plantes et les animaux tel que la présence ou labsence de chromosomes sexuels. Sur la base des travaux de léquipe, le stagiaire devra assimiler les concepts ainsi que les différents outils et méthodes utilisés par léquipe afin de centraliser toutes les connaissances nécessaires à ce travail, il devra mettre en place une méthode afin détudier ces méthylomes (data mining, mapping, interprétation, ) et lautomatiser. Le développement de programmes sera donc également indispensable pour répondre aux objectifs.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Compétences requises:
 Maîtrise de langages de programmation (C, perl, JAVA, SQL, PHP) ainsi que des outils dinterfaçage (HTML, CGI MySQL, PHP, perl CGI) appliqués aux systèmes d'exploitation classiques (IRIX, Linux, SOLARIS, OSF1, MacOS X). Exploitation des séquences (comparaison de séquences, utilisation de banque de données biologiques, alignements multiples, détection/annotation de gènes/repeat, phylogénie). Maîtrise des techniques de sélection, exploration, modification et modélisation de grandes bases de données (Access). Méthodes statistiques (régression, AFCM, ACP, analyse discriminante,  classification, test de permutation). Visualisation des données.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Laboratoire daccueil :		      
 INRA/UBP UMR 1095 Génétique Diversité et Ecophysiologie des Céréales
 5 chemin de Beaulieu 63100 Clermont-ferrand
 Durée et période souhaitées : 6 mois.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Encadrement:
 Jérôme Salse : Directeur de recherche (jsalse@clermont.inra.fr)
 Florent Murat : Ingénieur de recherche bio-informatique (Florent.MURAT@clermont.inra.fr)
 Tél : 04 73 62 43 80.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Moyens accordés:
 Toutes les ressources, linfrastructure (bio-informatique) et lencadrement scientifique associés à la pleine réalisation du projet ainsi que la finalisation du mémoire de fin détude.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Profil stagiaire souhaité:
 Maîtrise de la programmation, bases en statistiques, intérêt pour la biologie.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Quelques publications de léquipe dans le domaine:
 1. Salse J, Abrouk M, Bolot S, Guilhot N, Courcelle E, Faraut T, Waugh R, Close TJ, Messing J, Feuillet C (2009) Reconstruction of monocotelydoneous proto-chromosomes reveals faster evolution in plants than in animals. PNAS USA. 106:14908-14913.
 2. Salse J, Abrouk M, Murat F, Masood Quraishi U, Feuillet C (2009) Improved standards and new comparative genomics tools provide new insights into grasses paleogenomics. Briefings in Bioinf. 10(6):619-30.
@@ -68,135 +68,135 @@ Le paragraphe 9 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Stage Master/Ingénieur en Bioinformatique et Génomique.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	THEME : Analyse Comparée des Génomes de Plantes et dAnimaux.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Contexte scientifique :
 Afin détudier lévolution des génomes de plantes et danimaux, la synténie (conservation des gènes entre espèces) et les duplications totales de génomes sont étudiées.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	En comparant les génomes séquencés despèces modernes animales et végétales léquipe PaleoEvo (Paléogénomique et Evolution) de lINRA de Clermont-ferrand (http://www4.clermont.inra.fr/umr1095/Equipes/Recherches/Paleogenomique-des-plantes-pour-l-amelioration-varietale) a défini un ancêtre à 5 chromosomes chez les Monocots, 7 chez les Dicots et 10 chez les vertébrés permettant de retracer lhistoire évolutive génomique des plantes et des animaux au niveau structural (Murat et al.
 ==========================================
-La phrase 5 est en : n
+La phrase 5 est en : non detect
 	2012).
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Léquipe sintéresse également à des aspects fonctionnels des gènes et de régulation des génomes liés à lévolution, notamment concernant limpact des duplications totales de génomes sur lexpression/méthylation des gènes dupliqués au sein des génomes modernes.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Dans ce sens, léquipe sinvestit de façon importante dans le développement doutils et de méthodes permettant de mettre en évidence des relations dhomologies entre et au sein des génomes de plantes et danimaux afin de reconstruire leurs ancêtres et de comprendre leurs histoires évolutives.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	A ce jour, le travail de mise en évidence de ces relations de synténie et de paralogie chez les plantes et les animaux séquencés a été effectué et publié (cf liste publication jointe).
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Lobjectif du stage est détudier différents méthylomes chez les plantes et les animaux afin de comprendre et de comparer les modes de régulation de ces génomes ainsi que de comprendre certaines différences génomiques entre les plantes et les animaux tel que la présence ou labsence de chromosomes sexuels.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Sur la base des travaux de léquipe, le stagiaire devra assimiler les concepts ainsi que les différents outils et méthodes utilisés par léquipe afin de centraliser toutes les connaissances nécessaires à ce travail, il devra mettre en place une méthode afin détudier ces méthylomes (data mining, mapping, interprétation, ) et lautomatiser.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Le développement de programmes sera donc également indispensable pour répondre aux objectifs.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Compétences requises:
 Maîtrise de langages de programmation (C, perl, JAVA, SQL, PHP) ainsi que des outils dinterfaçage (HTML, CGI MySQL, PHP, perl CGI) appliqués aux systèmes d'exploitation classiques (IRIX, Linux, SOLARIS, OSF1, MacOS X).
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Exploitation des séquences (comparaison de séquences, utilisation de banque de données biologiques, alignements multiples, détection/annotation de gènes/repeat, phylogénie).
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Maîtrise des techniques de sélection, exploration, modification et modélisation de grandes bases de données (Access).
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Méthodes statistiques (régression, AFCM, ACP, analyse discriminante,  classification, test de permutation).
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Visualisation des données.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Laboratoire daccueil :		      
 INRA/UBP UMR 1095 Génétique Diversité et Ecophysiologie des Céréales
 5 chemin de Beaulieu 63100 Clermont-ferrand
 Durée et période souhaitées : 6 mois.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Encadrement:
 Jérôme Salse : Directeur de recherche (jsalse@clermont.inra.fr)
 Florent Murat : Ingénieur de recherche bio-informatique (Florent.MURAT@clermont.inra.fr)
 Tél : 04 73 62 43 80.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	Moyens accordés:
 Toutes les ressources, linfrastructure (bio-informatique) et lencadrement scientifique associés à la pleine réalisation du projet ainsi que la finalisation du mémoire de fin détude.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	Profil stagiaire souhaité:
 Maîtrise de la programmation, bases en statistiques, intérêt pour la biologie.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Quelques publications de léquipe dans le domaine:
 1.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Salse J, Abrouk M, Bolot S, Guilhot N, Courcelle E, Faraut T, Waugh R, Close TJ, Messing J, Feuillet C (2009) Reconstruction of monocotelydoneous proto-chromosomes reveals faster evolution in plants than in animals.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	PNAS USA.
 ==========================================
-La phrase 24 est en : n
+La phrase 24 est en : non detect
 	106:14908-14913.
 ==========================================
-La phrase 25 est en : n
+La phrase 25 est en : non detect
 	2.
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	Salse J, Abrouk M, Murat F, Masood Quraishi U, Feuillet C (2009) Improved standards and new comparative genomics tools provide new insights into grasses paleogenomics.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	Briefings in Bioinf.
 ==========================================
-La phrase 28 est en : n
+La phrase 28 est en : non detect
 	10(6):619-30.
 ==========================================
-La phrase 29 est en : n
+La phrase 29 est en : non detect
 	3.
 ==========================================
-La phrase 30 est en : ENG
+La phrase 30 est en : english
 	Murat F, Xu JH, Tannier E, Abrouk M, Guilhot N, Pont C, Messing J, Salse J (2010) Ancestral Grass Karyotype Reconstrcution Unravels New Mechanisms of Genome Shuffling as a Source of Plant Evolution.
 ==========================================
-La phrase 31 est en : ENG
+La phrase 31 est en : english
 	Genome research.
 ==========================================
-La phrase 32 est en : n
+La phrase 32 est en : non detect
 	20(11):1545-1557.
 ==========================================
-La phrase 33 est en : n
+La phrase 33 est en : non detect
 	4.
 ==========================================
-La phrase 34 est en : ENG
+La phrase 34 est en : english
 	Salse J (2012) In silico archeogenomics unveils modern plant genome organisation, regulation and evolution.
 ==========================================
-La phrase 35 est en : ENG
+La phrase 35 est en : english
 	Current Opinion in Plant Biology.
 ==========================================
-La phrase 36 est en : n
+La phrase 36 est en : non detect
 	15(2):122-30.
 ==========================================
-La phrase 37 est en : n
+La phrase 37 est en : non detect
 	5.
 ==========================================
-La phrase 38 est en : ENG
+La phrase 38 est en : english
 	Murat F, Peer YV, Salse J (2012) Decoding plant and animal genome plasticity from differential paleo-evolutionnary patterns and processes.
 ==========================================
-La phrase 39 est en : ENG
+La phrase 39 est en : english
 	Genome Biology and Evolution.
 ==========================================
-La phrase 40 est en : n
+La phrase 40 est en : non detect
 	4(9):805-16.
 
 ==========================================

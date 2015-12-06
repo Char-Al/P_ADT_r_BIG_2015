@@ -1,37 +1,37 @@
-Le mail "bioinfo_2014-04_43" est globalement en : ENG
-[('ENG', 0.4438285844925074), ('FRA', 1.325090555805634)]
+Le mail "bioinfo_2014-04_43" est globalement en : english
+[('english', 0.04851616821098651), ('french', 0.45455782158603686)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Postdoctoral fellow in systems metabolism
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Voici une offre de postdoc de la part d'un collègue travaillant en Suède.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	  Postdoctoral fellow in systems metabolism
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	/We are seeking a bright and highly motivated computational scientist to develop a platform for metabolic flux analysis at Karolinska Institutet, in close 
 collaboration with experimental scientists./
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Our research group (http://www.nilssonlab.se <http://www.nilssonlab.se>) at Karolinska Institutet combines experimental and computational techniques to study 
 the metabolism of live human cells. This is a vibrant area of biomedical research, drive by the rise of common metabolic disorders as well as recent discoveries 
 of metabolic derangements in cancer. We are now seeking a postdoc with strong computational skills to spearhead the development of methods for metabolic flux 
 analysis using isotope tracing and mass spectrometry-based metabolomics.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The project involves fitting experimental data to large mathematical models of metabolic networks to infer the activity of enzymes in the central metabolism, as 
 well as rational design of isotope tracing experiments. This work will be done in close collaboration with experimental scientists, aiming to describe in great 
 detail the metabolic phenotypes of human cells in health and disease, in particular in models of cancer transformation. One goal is to identify enzymes that may 
@@ -39,31 +39,31 @@ be of interest as drug targets. The work will also help establish a platform for
 metabolism research at Karolinska Institutet.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	The candidate should have a strong background in applied mathematics or physics, especially in network models / graph theory, mathematical statistics, and 
 constrained nonlinear optimization. The candidate should also be adept at programming numerical algorithms in languages such as C++, Java and MatLab/Mathematica.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	The Nilsson Lab is part of the Unit for Computational Medicine, a larger initiative aiming to establish systems biology approaches at Karolinska Institutet, the 
 premier biomedical research institute in Sweden. We work in close collaboration with colleagues at the University of California, San Diego (UCSD) and provide a 
 vibrant international research environment with members from a dozen different countries.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	For more information, please contact:
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Roland Nilsson
 Assistant Professor, Karolinska Institutet
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	roland.nilsson@ki.se <mailto:roland.nilsson%40ki.se>
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -71,10 +71,10 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Voici une offre de postdoc de la part d'un collègue travaillant en Suède.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Postdoctoral fellow in systems metabolism
 
 /We are seeking a bright and highly motivated computational scientist to develop a platform for metabolic flux analysis at Karolinska Institutet, in close 
@@ -84,46 +84,46 @@ collaboration with experimental scientists./
 Our research group (http://www.nilssonlab.se <http://www.nilssonlab.se>) at Karolinska Institutet combines experimental and computational techniques to study 
 the metabolism of live human cells.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	This is a vibrant area of biomedical research, drive by the rise of common metabolic disorders as well as recent discoveries 
 of metabolic derangements in cancer.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We are now seeking a postdoc with strong computational skills to spearhead the development of methods for metabolic flux 
 analysis using isotope tracing and mass spectrometry-based metabolomics.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The project involves fitting experimental data to large mathematical models of metabolic networks to infer the activity of enzymes in the central metabolism, as 
 well as rational design of isotope tracing experiments.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	This work will be done in close collaboration with experimental scientists, aiming to describe in great 
 detail the metabolic phenotypes of human cells in health and disease, in particular in models of cancer transformation.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	One goal is to identify enzymes that may 
 be of interest as drug targets.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The work will also help establish a platform for metabolic flux analysis that we envision will become a central resource for 
 metabolism research at Karolinska Institutet.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	The candidate should have a strong background in applied mathematics or physics, especially in network models / graph theory, mathematical statistics, and 
 constrained nonlinear optimization.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	The candidate should also be adept at programming numerical algorithms in languages such as C++, Java and MatLab/Mathematica.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	The Nilsson Lab is part of the Unit for Computational Medicine, a larger initiative aiming to establish systems biology approaches at Karolinska Institutet, the 
 premier biomedical research institute in Sweden.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	We work in close collaboration with colleagues at the University of California, San Diego (UCSD) and provide a 
 vibrant international research environment with members from a dozen different countries.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	For more information, please contact:
 
 

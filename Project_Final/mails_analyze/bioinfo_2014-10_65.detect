@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_65" est globalement en : FRA
-[('FRA', 0.29041929366336294), ('ENG', 2.4506953366298454)]
+Le mail "bioinfo_2014-10_65" est globalement en : french
+[('french', 0.5522619689898759), ('english', 1.015770064059027)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Développement de méthode in s  ilico pour la prédiction des piARNs
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Développement de méthode in silico pour la prédiction  
 des piARNs
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : tahi@ibisc.univ-evry.fr
 Laboratoire : IBISC
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/d%C3%A9veloppement-de-m%C3%A9thode-silico-pour-la-pr%C3%A9diction-des-piarns
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/d%C3%A9veloppement-de-m%C3%A9thode-silico-pour-la-pr%
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Développement de méthode in silico pour la prédiction  

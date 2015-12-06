@@ -1,63 +1,63 @@
-Le mail "bioinfo_2014-09_28" est globalement en : FRA
-[('FRA', 0.663507379694473), ('ENG', 2.7798170463021554)]
+Le mail "bioinfo_2014-09_28" est globalement en : french
+[('french', 0.09628854422827125), ('english', 0.4361235632283136)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] annonce: journéethématique "Bioinformatique microbienne"
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Chers Collègues,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Vous êtes cordialement invités à la journée thématique "Bioinformatique microbienne" que nous organisons dans le cadre des
 groupes de travail mis en place au sein des infrastructures nationales IFB et FG.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Cette journée portera sur les développements récents des PFs de bio-informatique dans le domaine de la bioinformatique
 microbienne (données NGS) et de leurs applications. Elle se tiendra le jeudi 25 septembre 2014 dans l'amphi Duclaux de
 l'Institut Pasteur.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Vous trouverez ci dessous le programme de cette journée.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	L'inscription est sans frais mais obligatoire (contact: AnnieEtienneannie.etienne@pasteur.fr)
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Bien cordialement,
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Claudine Médigue et Philippe Glaser
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	=======================================
 *MICROBIAL BIOINFORMATICS **
 *Thursday, September the 25th, 2014
 Amphitheatre Emile Duclaux, Institut Pasteur, Paris
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	09:30 - 09:35 Introduction
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	09:35 -- 10:50
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	* Christine POURCEL (IGM/PF eBio, Orsay) "Le serveur CRISPR: une base de
 données et des outils pour l'identification
 et la caractérisation des CRISPRs et des gènes associés" (The CRISPR
@@ -65,13 +65,13 @@ webserver: a database and tools for the identification
 and the characterisation of CRISPRs and their associated genes)
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	* Aurélien BARRE (PF CBiB Bordeaux) "L'outil Mix pour le finishing de
 génomes bactériens et la base MolliGen" (The Mix
 tool for bacterial genomes finishing and the MolliGen database)
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	* Valentin LOUX (PF MIGALE, Jouy) "Outils pour l'annotation et la
 comparaison de génomes bactériens dans le cadre de la
 plateforme E-Biothon hébergée à l'IDRIS" (Tools for bacterial genomes
@@ -79,22 +79,22 @@ annotation and comparison using the E-Biothon platform
 hosted by IDRIS)
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	10:50  - 11:15 Coffee Break
 
 ==========================================
-Le paragraphe 15 est en : n
+Le paragraphe 15 est en : non detect
 	11:15 - 12:30
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	* Jacques VAN HELDEN (TAGC, Marseille) "Accessibilité et
 interopérabilité d'outils et ressources bioinformatiques pour la
 microbiologie" (Accessibility and interoperability of bioinformatics
 tools and resources for microbiology)
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	* Claudine MEDIGUE (PF MicroScope, Evry) "le composant PALOMA
 (Polymorphism Analyses in Light Of Massive DNA sequencing) de
 la plateforme MicroScope" (The PALOMA (Polymorphism Analyses in Light Of
@@ -102,25 +102,25 @@ Massive DNA sequencing) component of the MicroScope
 platform)
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	* Delphine CAPELA (LIPM, INRA Toulouse), Invited talk: "Transient
 hypermutagenesis accelerates the evolution of legume
 symbionts following horizontal gene transfer »
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	12:30  - 13:45 Lunch
 
 ==========================================
-Le paragraphe 20 est en : n
+Le paragraphe 20 est en : non detect
 	13:45 -- 15:35
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	* Todd J. TREANGEN (Univ. Maryland, USA) Invited talk:  to be announced
 
 ==========================================
-Le paragraphe 22 est en : FRA
+Le paragraphe 22 est en : french
 	* Philippe GLASER (PF Genopole, Institut Pasteur) "Recherche de variants
 dans les génomes bactériens: application à
 l'analyse de clones bactériens épidémiques ou endémique» (Finding
@@ -128,24 +128,24 @@ variants in bacterial genomes: application to the
 analysis of epidemic or endemic clones)
 
 ==========================================
-Le paragraphe 23 est en : FRA
+Le paragraphe 23 est en : french
 	* Guy PERRIERE (PF PRABI, Lyon) "Identification taxonomique à grande et
 moyenne échelle de séquences procaryotes"
 (large and medium scale taxonomic identification of prokaryotic sequences)
 
 ==========================================
-Le paragraphe 24 est en : FRA
+Le paragraphe 24 est en : french
 	* Erwan CORRE (PF ABiMS, Roscoff) « microbiologie marine et
 développements en métagénomique » (marime microbial
 and metagenomic developements)
 
 ==========================================
-Le paragraphe 25 est en : FRA
+Le paragraphe 25 est en : french
 	15:35 - 17:00 TABLE RONDE: quelles formations pour le traitement des
 données NGS ?
 
 ==========================================
-Le paragraphe 26 est en : FRA
+Le paragraphe 26 est en : french
 	* Jacques VAN HELDEN (TAGC, Marseille) "Adapter les ressources
 bioinformatiques et les formations pour permettre
 aux biologistes d'analyser des milliers de génomes microbiens" (Adapting
@@ -153,22 +153,22 @@ bioinformatics resources and training
 material to enable biologists using thousands of microbial genomes)
 
 ==========================================
-Le paragraphe 27 est en : FRA
+Le paragraphe 27 est en : french
 	* DISCUSSION
 
 ==========================================
-Le paragraphe 28 est en : ENG
+Le paragraphe 28 est en : english
 	Registration is free of charge but mandatory Contact: Annie
 Etienne (annie.etienne@pasteur.fr)
 
 ==========================================
-Le paragraphe 29 est en : ENG
+Le paragraphe 29 est en : english
 	Organisateurs: Philippe GLASER (Institut Pasteur) et Claudine MEDIGUE
 (Genoscope)
 Contact:pglaser@pasteur.fr  -cmedigue@genoscope.cns.fr
 
 ==========================================
-Le paragraphe 30 est en : ENG
+Le paragraphe 30 est en : english
 	-- 
 --
 François Le Fèvre
@@ -185,7 +185,7 @@ Blog: http://biocamp.blogspot.com
 Personal website : https://sites.google.com/site/synbiocamp/
 
 ==========================================
-Le paragraphe 31 est en : n
+Le paragraphe 31 est en : non detect
 	
 
 ==========================================
@@ -193,24 +193,24 @@ Le paragraphe 31 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Chers Collègues,
 
 Vous êtes cordialement invités à la journée thématique "Bioinformatique microbienne" que nous organisons dans le cadre des
 groupes de travail mis en place au sein des infrastructures nationales IFB et FG.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Cette journée portera sur les développements récents des PFs de bio-informatique dans le domaine de la bioinformatique
 microbienne (données NGS) et de leurs applications.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Elle se tiendra le jeudi 25 septembre 2014 dans l'amphi Duclaux de
 l'Institut Pasteur.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Vous trouverez ci dessous le programme de cette journée.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	L'inscription est sans frais mais obligatoire (contact: AnnieEtienneannie.etienne@pasteur.fr)
 
 Bien cordialement,
@@ -270,7 +270,7 @@ symbionts following horizontal gene transfer »
 
 * Todd J. TREANGEN (Univ.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Maryland, USA) Invited talk:  to be announced
 
 * Philippe GLASER (PF Genopole, Institut Pasteur) "Recherche de variants
@@ -290,7 +290,7 @@ and metagenomic developements)
 15:35 - 17:00 TABLE RONDE: quelles formations pour le traitement des
 données NGS ?
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	* Jacques VAN HELDEN (TAGC, Marseille) "Adapter les ressources
 bioinformatiques et les formations pour permettre
 aux biologistes d'analyser des milliers de génomes microbiens" (Adapting

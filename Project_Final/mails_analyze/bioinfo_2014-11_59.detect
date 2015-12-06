@@ -1,40 +1,40 @@
-Le mail "bioinfo_2014-11_59" est globalement en : FRA
-[('FRA', 0.8355950511129739), ('ENG', 6.039985013741439)]
+Le mail "bioinfo_2014-11_59" est globalement en : french
+[('french', 0.33424668084087517), ('english', 2.4994008886239882)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] journée biologie intégrative , 17 décembre , Lille
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	bonjour
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	La plate-forme de bio-informatique de Lille organise le 17 décembre 
 prochain
 une journée scientifique autour de la biologie intégrative. Le programme et
 le formulaire d'inscription sont disponibles à l'URL:
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	http://www.lifl.fr/~touzet/PPF/integrative.html
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Date limite d'inscription: 30 novembre
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	bien cordialement,
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Hélène
 
 
@@ -43,14 +43,14 @@ Le paragraphe 6 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	bonjour
 
 La plate-forme de bio-informatique de Lille organise le 17 décembre 
 prochain
 une journée scientifique autour de la biologie intégrative.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le programme et
 le formulaire d'inscription sont disponibles à l'URL:
 

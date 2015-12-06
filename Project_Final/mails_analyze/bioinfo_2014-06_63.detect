@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-06_63" est globalement en : FRA
-[('ENG', 0.25989070425497235), ('FRA', 0.5945680624379979)]
+Le mail "bioinfo_2014-06_63" est globalement en : french
+[('french', 0.5755634519408124), ('english', 0.7002170199640272)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Statistical analysis of algal virus diversity
  in marine ecosystems
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Statistical analysis of algal virus diversity in 
 marine
 ecosystems
@@ -29,12 +29,12 @@ Email du contact : stephane.dray@univ-lyon1.fr
 Laboratoire : Laboratoire de Biométrie et Biologie Evolutive
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/statistical-analysis-algal-virus-diversity-marine-ecosystems
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -42,7 +42,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

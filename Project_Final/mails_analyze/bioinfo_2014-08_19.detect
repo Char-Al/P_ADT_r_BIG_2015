@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-08_19" est globalement en : FRA
-[('FRA', 0.44793571995347725), ('ENG', 0.5341408324732794)]
+Le mail "bioinfo_2014-08_19" est globalement en : french
+[('french', 0.42283772905610983), ('english', 0.5665203232425204)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Next Generation Sequencing Project in Human Genetics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Next Generation Sequencing Project in Human Genetics
 Type de poste : Post-doc / IR
 Durée du poste : 16 months at least
@@ -26,7 +26,7 @@ Laboratoire : INSERM Research Unit 827, Institut Universitaire de Recherche
 Clinique
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/next-generation-sequencing-project-human-genetics
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/next-generation-sequencing-project-human-genetics
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Next Generation Sequencing Project in Human Genetics

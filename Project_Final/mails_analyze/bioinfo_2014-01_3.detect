@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-01_3" est globalement en : FRA
-[('FRA', 0.2769264364464898), ('ENG', 8.284975797187032)]
+Le mail "bioinfo_2014-01_3" est globalement en : french
+[('french', 0.041449077164975236), ('english', 1.1957381755408472)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] La société Dassault Systèmes propose 3 stages rémunérés en bioinformatique d’unedurée de 6 mois.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	La société Dassault Systèmes propose 3 stages rémunérés en bioinformatique d’une durée de 6 mois. Si vous êtes intéressés, nous vous remercions de bien vouloir candidater directement en ligne sur notre site web (http://www.3ds.com/jobs/).
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	DESCRIPTIF DE L'ENTREPRISE :
 Dassault Systèmes, « The 3DEXPERIENCE Company », offre aux entreprises et aux particuliers les univers virtuels nécessaires à la conception d’innovations durables.
 Ses solutions leaders sur le marché transforment pour nos clients, la conception, la fabrication et la maintenance de leurs produits.
@@ -29,20 +29,20 @@ Pour plus d’informations : www.3ds.com
 Nos solutions : 3DSWYM, 3DVIA, CATIA, DELMIA, ENOVIA, EXALEAD, GEOVIA, NETVIBES, SIMULIA et SOLIDWORKS.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	RÉSUMÉ DES STAGES PROPOSÉS :
 Analyse et simulation en biologie systémique (H/F)
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Expérience utilisateur de compose de modèles de biologie systémique (H/F)
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Visualisation innovante de résultats de simulations scientifiques (H/F)
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	DÉTAILS DES STAGES :
 ANALYSE ET SIMULATION EN BIOLOGIE SYSTEMIQUE (H/F)
 Job description
@@ -51,37 +51,37 @@ Présentation de l’équipe dans laquelle sera intégré(e) le/la stagiaire :
 Le/la stagiaire sera intégré(e) au sein du département Life/Sciences R&D qui développe des outils de modélisation, simulation et exploration de bases de données en « System Biology » à destination des industries pharmaceutiques. L’équipe Simulation développe des outils d’analyse et de simulation des réseaux d’interactions biochimiques qui se déroulent au sein des cellules.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Mission(s) du / de la stagiaire :
 Le coût croissant de la recherche de médicaments se traduit aujourd’hui par un intérêt croissant des industries pharmaceutiques pour la modélisation et la simulation numérique des phénomènes biochimiques au sein des cellules vivantes. Des scénarios de simulation permettent de réaliser des expériences in silico, d’améliorer la qualité de la modélisation mathématique, puis de rechercher des cibles thérapeutiques.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	L’objet de ce stage est justement de développer un prototype de code en C++, intégré au logiciel CATIA, et permettant la recherche de telles cibles.
 Le réseau d’interactions chimiques est modélisé par un système d’équations différentielles.
 Il s’agira d’utiliser des outils mathématiques issus de la théorie du contrôle, en particulier le point de départ du stage sera un article de Liu/Slotine/Barabasi paru dans Nature en 2011.
 Le stage comprendra une part de recherche bibliographique autour de cet article, puis il s’agira de réfléchir à l’implémentation de l’algorithme qui s’y trouve décrit, d’écrire le code proprement dit et, enfin, de le valider sur des exemples réalistes issus de travaux de recherche récents en biologie des systèmes.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Candidate's profile
 Profil recherché
 Etudiant(e) préparant un diplôme de niveau BAC+5, Ecole d’ingénieurs ou Master Universitaire.
 Spécialité(s) / Option(s) souhaitée(s) : Mathématiques Appliquées.
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Compétences techniques attendues / ou souhaitées :
 • Ce stage est destiné à un(e) stagiaire effectuant des études de mathématiques.  De bonnes connaissances de la théorie des systèmes dynamiques ainsi que des schémas numériques d’intégration sont indispensables. Des connaissances de base sur la théorie du contrôle seraient appréciées. Enfin, le/la stagiaire devra de préférence avoir des connaissances de programmation en C++.
 • Ce stage permet de se confronter à un champ d’applications assez récent et passionnant pour les mathématiques : la biologie. Il couvre un spectre assez large, de la lecture d’articles jusqu’à la programmation, en passant par la conception de l’architecture du code.
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Qualités professionnelles attendues / ou souhaitées :
 • Le/la stagiaire devra avoir du goût pour la recherche bibliographique, et savoir faire preuve d’autonomie et de curiosité en ce domaine.
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	EXPERIENCE UTILISATEUR DE COMPOSE DE MODELES DE BIOLOGIE SYSTEMIQUE (H/F)
 Job description
 Descriptif du poste
@@ -89,70 +89,70 @@ Présentation de l’équipe dans laquelle sera intégré(e) le/la stagiaire :
 L'organisation de Recherche a pour objectif de réaliser des projets de prototypage pour évaluer l'applicabilité de nouvelles technologies. Ce service doit assurer en tout moment un haut niveau de compétences dans tous les domaines techniques de l'entreprise et préparer ses éventuelles diversifications. Au sein de l’équipe Life Sciences, l’équipe Modélisation et Edition est en charge du développement des applications de modélisation de systèmes biologiques.
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Mission(s) du / de la stagiaire :
 Les pathways biologiques sont des cascades de réactions chimiques qui ont lieu au cœur d'une cellule. Ce sont des modèles très pertinents pour comprendre les mécanismes nominaux (physiologiques) et anormaux (pathologiques) que l'on rencontre dans le vivant à l'échelle de la cellule. Ces réseaux d'interaction posent de nombreux défis au niveau de la visualisation d’information.
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	Le/la stagiaire aura pour mission de spécifier et d’implémenter les fonctionnalités de compose de pathways et de visualisations de compartiments cellulaires dans l’éditeur CATIA BioSystems :
 • Spécification d’interactions graphiques intuitives et  innovantes,
 • Implémentation de l’expérience utilisateur en suivant la méthodologie Agile SCRUM,
 • Tests utilisateur.
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	Candidate's profile
 Etudiant(e) préparant un diplôme de niveau BAC+4 / BAC+5, Ecole d’ingénieurs ou Master Universitaire.
 Spécialité(s) / Option(s) souhaitée(s) : Ergonomie, Interface utilisateur.
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	Compétences attendues :
 • Connaissance d’un langage objet (C++/Java/C#…),
 • Connaissance d’un toolkit graphique (QT, GTK+, WPF, Swing…).
 
 ==========================================
-Le paragraphe 18 est en : FRA
+Le paragraphe 18 est en : french
 	Compétences souhaitées :
 • Fondamentaux de biologie,
 • Développement web (Javascript, HTML5, CSS3, Ajax, jQuery).
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	Qualités professionnelles attendues / ou souhaitées :
 • Autonomie
 • Créativité
 • Goût pour les IHM
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	VISUALISATION INNOVANTE DE RESULTATS DE SIMULATIONS SCIENTIFIQUES (H/F)
 Job description
 Présentation de l’équipe dans laquelle sera intégré(e) le/la stagiaire :
 Le/la stagiaire sera intégré(e) au sein du département Life/Sciences R&D qui développe des outils de modélisation, simulation et exploration de bases de données en « Systems Biology » à destination des industries pharmaceutiques. L’équipe simulation développe des outils d’analyse et de simulation des réseaux d’interactions biochimiques qui se déroulent au sein des cellules.
 
 ==========================================
-Le paragraphe 21 est en : FRA
+Le paragraphe 21 est en : french
 	Mission(s) du / de la stagiaire :
 Les systèmes biologiques (« pathways ») et leurs simulations au travers de modèles numériques représentent un enjeu important pour les acteurs du secteur des sciences de la vie. L’usage des nouvelles technologies permet désormais des études « in silico » réduisant les coûts financiers liés aux expérimentations et dont la finalité est la découverte plus rapide de nouveaux médicaments.
 On s’intéressera plus particulièrement, dans le cadre de ce stage, à la représentation des résultats de simulations scientifiques. Le but est d’offrir aux biologistes un outil visuel, intuitif et innovant pour la compréhension et l’analyse de ces résultats, en particulier dans le domaine des simulations stochastiques.
 Le/la stagiaire fera preuve d’autonomie et sera force de proposition pour la mise en œuvre d’une solution innovante et optimisée. Il/elle démontrera son travail au moyen d’un prototype dont la vocation sera d’être intégrée au produit « In Silico Drug Simulation ».
 
 ==========================================
-Le paragraphe 22 est en : FRA
+Le paragraphe 22 est en : french
 	Candidate's profile
 Etudiant(e) préparant un diplôme de niveau BAC+5, Ecole d’ingénieurs ou Master Universitaire.
 Spécialité(s) / Option(s) souhaitée(s) : Informatique, Interface Utilisateur Scientifique, Bio-informatique.
 
 ==========================================
-Le paragraphe 23 est en : FRA
+Le paragraphe 23 est en : french
 	Compétences techniques attendues / ou souhaitées :
 • Bonne maîtrise d’un langage de programmation orienté objet, idéalement C++ (ou java),
 • Attrait pour les composants d’interface utilisateur de haut niveau.
 
 ==========================================
-Le paragraphe 24 est en : FRA
+Le paragraphe 24 est en : french
 	Qualités professionnelles attendues / ou souhaitées :
 • Autonomie,
 • esprit de synthèse,
@@ -160,7 +160,7 @@ Le paragraphe 24 est en : FRA
 • aisance en informatique et motivation pour le sujet.
 
 ==========================================
-Le paragraphe 25 est en : ENG
+Le paragraphe 25 est en : english
 	Cordialement / Best Regards,
 -----------------------------
 Gwenael KERVIZIC, Ph.D.
@@ -172,23 +172,23 @@ Dassault Systèmes SA - 10 rue Marcel Dassault CS 40501 - 78946 VELIZY VILLACOUB
 This email and any attachments are intended solely for the use of the individual or entity to whom it is addressed and may be confidential and/or privileged.
 
 ==========================================
-Le paragraphe 26 est en : ENG
+Le paragraphe 26 est en : english
 	If you are not one of the named recipients or have received this email in error,
 
 ==========================================
-Le paragraphe 27 est en : ENG
+Le paragraphe 27 est en : english
 	(i) you should not read, disclose, or copy it,
 
 ==========================================
-Le paragraphe 28 est en : ENG
+Le paragraphe 28 est en : english
 	(ii) please notify sender of your receipt by reply email and delete this email and all attachments,
 
 ==========================================
-Le paragraphe 29 est en : ENG
+Le paragraphe 29 est en : english
 	(iii) Dassault Systemes does not accept or assume any liability or responsibility for any use of or reliance on this email.
 
 ==========================================
-Le paragraphe 30 est en : ENG
+Le paragraphe 30 est en : english
 	For other languages, go to http://www.3ds.com/terms/email-disclaimer
 
 
@@ -197,32 +197,32 @@ Le paragraphe 30 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 La société Dassault Systèmes propose 3 stages rémunérés en bioinformatique d’une durée de 6 mois.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Si vous êtes intéressés, nous vous remercions de bien vouloir candidater directement en ligne sur notre site web (http://www.3ds.com/jobs/).
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	DESCRIPTIF DE L'ENTREPRISE :
 Dassault Systèmes, « The 3DEXPERIENCE Company », offre aux entreprises et aux particuliers les univers virtuels nécessaires à la conception d’innovations durables.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Ses solutions leaders sur le marché transforment pour nos clients, la conception, la fabrication et la maintenance de leurs produits.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Les solutions collaboratives de Dassault Systèmes permettent de promouvoir l’innovation sociale et offrent de nouvelles possibilités d’améliorer le monde réel grâce aux univers virtuels.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Avec des ventes dans 80 pays, le Groupe apporte de la valeur à plus de 150 000 entreprises de toutes tailles dans tous les secteurs.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Pour plus d’informations : www.3ds.com
 Nos solutions : 3DSWYM, 3DVIA, CATIA, DELMIA, ENOVIA, EXALEAD, GEOVIA, NETVIBES, SIMULIA et SOLIDWORKS.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	RÉSUMÉ DES STAGES PROPOSÉS :
 Analyse et simulation en biologie systémique (H/F)
 
@@ -238,106 +238,106 @@ Descriptif du poste
 Présentation de l’équipe dans laquelle sera intégré(e) le/la stagiaire :
 Le/la stagiaire sera intégré(e) au sein du département Life/Sciences R&D qui développe des outils de modélisation, simulation et exploration de bases de données en « System Biology » à destination des industries pharmaceutiques.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	L’équipe Simulation développe des outils d’analyse et de simulation des réseaux d’interactions biochimiques qui se déroulent au sein des cellules.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Mission(s) du / de la stagiaire :
 Le coût croissant de la recherche de médicaments se traduit aujourd’hui par un intérêt croissant des industries pharmaceutiques pour la modélisation et la simulation numérique des phénomènes biochimiques au sein des cellules vivantes.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Des scénarios de simulation permettent de réaliser des expériences in silico, d’améliorer la qualité de la modélisation mathématique, puis de rechercher des cibles thérapeutiques.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	L’objet de ce stage est justement de développer un prototype de code en C++, intégré au logiciel CATIA, et permettant la recherche de telles cibles.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Le réseau d’interactions chimiques est modélisé par un système d’équations différentielles.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Il s’agira d’utiliser des outils mathématiques issus de la théorie du contrôle, en particulier le point de départ du stage sera un article de Liu/Slotine/Barabasi paru dans Nature en 2011.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Le stage comprendra une part de recherche bibliographique autour de cet article, puis il s’agira de réfléchir à l’implémentation de l’algorithme qui s’y trouve décrit, d’écrire le code proprement dit et, enfin, de le valider sur des exemples réalistes issus de travaux de recherche récents en biologie des systèmes.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Candidate's profile
 Profil recherché
 Etudiant(e) préparant un diplôme de niveau BAC+5, Ecole d’ingénieurs ou Master Universitaire.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Spécialité(s) / Option(s) souhaitée(s) : Mathématiques Appliquées.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Compétences techniques attendues / ou souhaitées :
 • Ce stage est destiné à un(e) stagiaire effectuant des études de mathématiques.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	De bonnes connaissances de la théorie des systèmes dynamiques ainsi que des schémas numériques d’intégration sont indispensables.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	Des connaissances de base sur la théorie du contrôle seraient appréciées.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Enfin, le/la stagiaire devra de préférence avoir des connaissances de programmation en C++.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	• Ce stage permet de se confronter à un champ d’applications assez récent et passionnant pour les mathématiques : la biologie.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	Il couvre un spectre assez large, de la lecture d’articles jusqu’à la programmation, en passant par la conception de l’architecture du code.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	Qualités professionnelles attendues / ou souhaitées :
 • Le/la stagiaire devra avoir du goût pour la recherche bibliographique, et savoir faire preuve d’autonomie et de curiosité en ce domaine.
 ==========================================
-La phrase 25 est en : FRA
+La phrase 25 est en : french
 	EXPERIENCE UTILISATEUR DE COMPOSE DE MODELES DE BIOLOGIE SYSTEMIQUE (H/F)
 Job description
 Descriptif du poste
 Présentation de l’équipe dans laquelle sera intégré(e) le/la stagiaire :
 L'organisation de Recherche a pour objectif de réaliser des projets de prototypage pour évaluer l'applicabilité de nouvelles technologies.
 ==========================================
-La phrase 26 est en : FRA
+La phrase 26 est en : french
 	Ce service doit assurer en tout moment un haut niveau de compétences dans tous les domaines techniques de l'entreprise et préparer ses éventuelles diversifications.
 ==========================================
-La phrase 27 est en : FRA
+La phrase 27 est en : french
 	Au sein de l’équipe Life Sciences, l’équipe Modélisation et Edition est en charge du développement des applications de modélisation de systèmes biologiques.
 ==========================================
-La phrase 28 est en : FRA
+La phrase 28 est en : french
 	Mission(s) du / de la stagiaire :
 Les pathways biologiques sont des cascades de réactions chimiques qui ont lieu au cœur d'une cellule.
 ==========================================
-La phrase 29 est en : FRA
+La phrase 29 est en : french
 	Ce sont des modèles très pertinents pour comprendre les mécanismes nominaux (physiologiques) et anormaux (pathologiques) que l'on rencontre dans le vivant à l'échelle de la cellule.
 ==========================================
-La phrase 30 est en : FRA
+La phrase 30 est en : french
 	Ces réseaux d'interaction posent de nombreux défis au niveau de la visualisation d’information.
 ==========================================
-La phrase 31 est en : FRA
+La phrase 31 est en : french
 	Le/la stagiaire aura pour mission de spécifier et d’implémenter les fonctionnalités de compose de pathways et de visualisations de compartiments cellulaires dans l’éditeur CATIA BioSystems :
 • Spécification d’interactions graphiques intuitives et  innovantes,
 • Implémentation de l’expérience utilisateur en suivant la méthodologie Agile SCRUM,
 • Tests utilisateur.
 ==========================================
-La phrase 32 est en : FRA
+La phrase 32 est en : french
 	Candidate's profile
 Etudiant(e) préparant un diplôme de niveau BAC+4 / BAC+5, Ecole d’ingénieurs ou Master Universitaire.
 ==========================================
-La phrase 33 est en : FRA
+La phrase 33 est en : french
 	Spécialité(s) / Option(s) souhaitée(s) : Ergonomie, Interface utilisateur.
 ==========================================
-La phrase 34 est en : ENG
+La phrase 34 est en : english
 	Compétences attendues :
 • Connaissance d’un langage objet (C++/Java/C#…),
 • Connaissance d’un toolkit graphique (QT, GTK+, WPF, Swing…).
 ==========================================
-La phrase 35 est en : FRA
+La phrase 35 est en : french
 	Compétences souhaitées :
 • Fondamentaux de biologie,
 • Développement web (Javascript, HTML5, CSS3, Ajax, jQuery).
 ==========================================
-La phrase 36 est en : FRA
+La phrase 36 est en : french
 	Qualités professionnelles attendues / ou souhaitées :
 • Autonomie
 • Créativité
@@ -349,48 +349,48 @@ Job description
 Présentation de l’équipe dans laquelle sera intégré(e) le/la stagiaire :
 Le/la stagiaire sera intégré(e) au sein du département Life/Sciences R&D qui développe des outils de modélisation, simulation et exploration de bases de données en « Systems Biology » à destination des industries pharmaceutiques.
 ==========================================
-La phrase 37 est en : FRA
+La phrase 37 est en : french
 	L’équipe simulation développe des outils d’analyse et de simulation des réseaux d’interactions biochimiques qui se déroulent au sein des cellules.
 ==========================================
-La phrase 38 est en : FRA
+La phrase 38 est en : french
 	Mission(s) du / de la stagiaire :
 Les systèmes biologiques (« pathways ») et leurs simulations au travers de modèles numériques représentent un enjeu important pour les acteurs du secteur des sciences de la vie.
 ==========================================
-La phrase 39 est en : FRA
+La phrase 39 est en : french
 	L’usage des nouvelles technologies permet désormais des études « in silico » réduisant les coûts financiers liés aux expérimentations et dont la finalité est la découverte plus rapide de nouveaux médicaments.
 ==========================================
-La phrase 40 est en : FRA
+La phrase 40 est en : french
 	On s’intéressera plus particulièrement, dans le cadre de ce stage, à la représentation des résultats de simulations scientifiques.
 ==========================================
-La phrase 41 est en : FRA
+La phrase 41 est en : french
 	Le but est d’offrir aux biologistes un outil visuel, intuitif et innovant pour la compréhension et l’analyse de ces résultats, en particulier dans le domaine des simulations stochastiques.
 ==========================================
-La phrase 42 est en : FRA
+La phrase 42 est en : french
 	Le/la stagiaire fera preuve d’autonomie et sera force de proposition pour la mise en œuvre d’une solution innovante et optimisée.
 ==========================================
-La phrase 43 est en : FRA
+La phrase 43 est en : french
 	Il/elle démontrera son travail au moyen d’un prototype dont la vocation sera d’être intégrée au produit « In Silico Drug Simulation ».
 ==========================================
-La phrase 44 est en : FRA
+La phrase 44 est en : french
 	Candidate's profile
 Etudiant(e) préparant un diplôme de niveau BAC+5, Ecole d’ingénieurs ou Master Universitaire.
 ==========================================
-La phrase 45 est en : FRA
+La phrase 45 est en : french
 	Spécialité(s) / Option(s) souhaitée(s) : Informatique, Interface Utilisateur Scientifique, Bio-informatique.
 ==========================================
-La phrase 46 est en : FRA
+La phrase 46 est en : french
 	Compétences techniques attendues / ou souhaitées :
 • Bonne maîtrise d’un langage de programmation orienté objet, idéalement C++ (ou java),
 • Attrait pour les composants d’interface utilisateur de haut niveau.
 ==========================================
-La phrase 47 est en : FRA
+La phrase 47 est en : french
 	Qualités professionnelles attendues / ou souhaitées :
 • Autonomie,
 • esprit de synthèse,
 • force de proposition,
 • aisance en informatique et motivation pour le sujet.
 ==========================================
-La phrase 48 est en : ENG
+La phrase 48 est en : english
 	Cordialement / Best Regards,
 -----------------------------
 Gwenael KERVIZIC, Ph.D.
@@ -401,7 +401,7 @@ Visit us at: www.3ds.com
 Dassault Systèmes SA - 10 rue Marcel Dassault CS 40501 - 78946 VELIZY VILLACOUBLAY CEDEX - France
 This email and any attachments are intended solely for the use of the individual or entity to whom it is addressed and may be confidential and/or privileged.
 ==========================================
-La phrase 49 est en : ENG
+La phrase 49 est en : english
 	If you are not one of the named recipients or have received this email in error,
 
 (i) you should not read, disclose, or copy it,
@@ -410,7 +410,7 @@ La phrase 49 est en : ENG
 
 (iii) Dassault Systemes does not accept or assume any liability or responsibility for any use of or reliance on this email.
 ==========================================
-La phrase 50 est en : ENG
+La phrase 50 est en : english
 	For other languages, go to http://www.3ds.com/terms/email-disclaimer
 
 ==========================================

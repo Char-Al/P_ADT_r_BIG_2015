@@ -1,42 +1,42 @@
-Le mail "bioinfo_2014-06_23" est globalement en : ENG
-[('ENG', 0.27110688178950904), ('FRA', 0.3020010735453246)]
+Le mail "bioinfo_2014-06_23" est globalement en : english
+[('english', 0.04644587906793048), ('french', 0.3182390435735016)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Capita Selecta in Complex Disease Analysis (CSCDA2014) Announcement
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	--- APOLOGIES FOR CROSS-POSTING---
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Dear Friends and Colleagues,
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	On behalf of the entire organizing committee, we are glad to announce the third edition of CAPITA SELECTA IN COMPLEX DISEASE ANALYSIS (CSCDA2014).
 This year’s meeting aims to create a broad platform to discuss issues in complex disease analysis, in particular in uncovering population and patient heterogeneity, as well as in data fusion and integration to improve mechanistic insights in rare diseases. Our targeted audience has a background in life sciences, biomedical sciences, statistics, bioinformatics, statistical genetics and medicine, or related disciplines. The mini-conference will exist of two parts: tutorial sessions in the forenoon of November 24, and keynote speaker sessions, followed by contributed oral and poster presentations on November 24 – November 26.
 The ABSTRACT SUBMISSION DEADLINE IS JULY 15, 2014. More information about abstract submission and registration details are available on the conference website.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : english
 	MARK YOUR AGENDA:
 Date:    24 November – 26 November 2014
 Place:   Liège, GIGA, Belgium
 URL:   http://www.statgen.ulg.ac.be/CSCDA2014/cscda2014.html 
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	We already have an impressive list of confirmed speakers for this edition, and hope to see you in Liège during the fall! Please do feel free to forward this e-mail correspondence to others who you might think would be interested in the event.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	With best regards,
 on behalf of the CSCDA2014 Organizing committee,
 Kristel Van Steen and Kristel Sleegers
@@ -46,29 +46,29 @@ Kristel Van Steen and Kristel Sleegers
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	--- APOLOGIES FOR CROSS-POSTING---
 
 Dear Friends and Colleagues,
 
 On behalf of the entire organizing committee, we are glad to announce the third edition of CAPITA SELECTA IN COMPLEX DISEASE ANALYSIS (CSCDA2014).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	This year’s meeting aims to create a broad platform to discuss issues in complex disease analysis, in particular in uncovering population and patient heterogeneity, as well as in data fusion and integration to improve mechanistic insights in rare diseases.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Our targeted audience has a background in life sciences, biomedical sciences, statistics, bioinformatics, statistical genetics and medicine, or related disciplines.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The mini-conference will exist of two parts: tutorial sessions in the forenoon of November 24, and keynote speaker sessions, followed by contributed oral and poster presentations on November 24 – November 26.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The ABSTRACT SUBMISSION DEADLINE IS JULY 15, 2014.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	More information about abstract submission and registration details are available on the conference website.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	MARK YOUR AGENDA:
 Date:    24 November – 26 November 2014
 Place:   Liège, GIGA, Belgium
@@ -76,10 +76,10 @@ URL:   http://www.statgen.ulg.ac.be/CSCDA2014/cscda2014.html
 
 We already have an impressive list of confirmed speakers for this edition, and hope to see you in Liège during the fall!
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Please do feel free to forward this e-mail correspondence to others who you might think would be interested in the event.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	With best regards,
 on behalf of the CSCDA2014 Organizing committee,
 Kristel Van Steen and Kristel Sleegers

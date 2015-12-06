@@ -1,37 +1,37 @@
-Le mail "bioinfo_2014-02_46" est globalement en : ENG
-[('ENG', 0.3106035734694724), ('FRA', 0.5074858052406253)]
+Le mail "bioinfo_2014-02_46" est globalement en : french (conflict)
+[('french', 0.6943372036925557), ('english', 7.623557200421784)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Systems Genetics and Evolution of non-human (model) organisms
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear all,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	you might be interested by the conference "Systems Genetics and Evolution of non-human (model) organisms", May 18th to 22nd, 2014, in the terrific Ascona, Switzerland:
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	http://sge2014.epfl.ch/
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The abstract and registration deadline is March 1st.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Best,
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : french
 	Julien Gagneur
 Computational Genomics
 Gene Center
@@ -40,15 +40,15 @@ Feodor-Lynen-Str. 25
 81377 München, Germany
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Phone: +49-89-2180-76742
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	http://www.gagneur.genzentrum.lmu.de
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -56,7 +56,7 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear all,
 
 you might be interested by the conference "Systems Genetics and Evolution of non-human (model) organisms", May 18th to 22nd, 2014, in the terrific Ascona, Switzerland:
@@ -65,7 +65,7 @@ http://sge2014.epfl.ch/
 
 The abstract and registration deadline is March 1st.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : french
 	Best,
 
 
@@ -75,7 +75,7 @@ Gene Center
 Ludwig-Maximilians-Universität München
 Feodor-Lynen-Str.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : french
 	25
 81377 München, Germany
 

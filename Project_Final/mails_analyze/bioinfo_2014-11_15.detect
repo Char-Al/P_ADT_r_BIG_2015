@@ -1,39 +1,39 @@
-Le mail "bioinfo_2014-11_15" est globalement en : FRA
-[('ENG', 0.587298620703532), ('FRA', 0.7583652500324363)]
+Le mail "bioinfo_2014-11_15" est globalement en : french
+[('french', 0.09190074567269568), ('english', 8.00841267405789)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] La bio-informatique au sein d'un laboratoire collaboratif lyonnais?
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Je rebondis sur un article trouvé sur bioinfo-fr
 (http://bioinfo-fr.net/le-role-de-la-bioinformatique-dans-les-labos-collaboratifs).
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Nous sommes en train de monter une activité biologie au sein de
 Laboratoire Ouvert Lyonnais (http://www.lyonopenlab.org/) qui est un
 lieu dédié au Do It Yourself basé place Louis Chazette à Lyon.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Ce lieu est très fréquenté par une population d'informaticiens. Je
 pense donc qu'il serait intéressant de rencontrer des
 bio-informaticiens de la région (ou de plus loin) afin de discuter de
 projets mêlant les 2 disciplines.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	A titre d'exemple, ces projets pourraient être de la
 micro-formation/information à destination des personnes intéressées ou
 des développements de modules pour des logiciels libres (je pense à
@@ -41,21 +41,21 @@ Galaxy par exemple qui semble de plus en plus demandé par la
 communauté scientifique).
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Si des personnes sont intéressées par ce projets, je les invite à me
 contacter ou à venir nous rencontrer 7 place Chazette à Lyon les mardi
 ou jeudi soirs.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Bonne soirée.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Pierre
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	-- 
 Pierre Granouillet
 Tel.: 06 78 96 60 49
@@ -66,49 +66,49 @@ Tel.: 06 78 96 60 49
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Bonjour,
 
 Je rebondis sur un article trouvé sur bioinfo-fr
 (http://bioinfo-fr.net/le-role-de-la-bioinformatique-dans-les-labos-collaboratifs).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Nous sommes en train de monter une activité biologie au sein de
 Laboratoire Ouvert Lyonnais (http://www.lyonopenlab.org/) qui est un
 lieu dédié au Do It Yourself basé place Louis Chazette à Lyon.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Ce lieu est très fréquenté par une population d'informaticiens.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Je
 pense donc qu'il serait intéressant de rencontrer des
 bio-informaticiens de la région (ou de plus loin) afin de discuter de
 projets mêlant les 2 disciplines.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	A titre d'exemple, ces projets pourraient être de la
 micro-formation/information à destination des personnes intéressées ou
 des développements de modules pour des logiciels libres (je pense à
 Galaxy par exemple qui semble de plus en plus demandé par la
 communauté scientifique).
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Si des personnes sont intéressées par ce projets, je les invite à me
 contacter ou à venir nous rencontrer 7 place Chazette à Lyon les mardi
 ou jeudi soirs.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Bonne soirée.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Pierre
 
 -- 
 Pierre Granouillet
 Tel.
 ==========================================
-La phrase 9 est en : n
+La phrase 9 est en : non detect
 	: 06 78 96 60 49
 
 ==========================================

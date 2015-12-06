@@ -1,28 +1,28 @@
-Le mail "bioinfo_2014-07_41" est globalement en : FRA
-[('FRA', 1.01642545832318), ('ENG', 50.36729253977305)]
+Le mail "bioinfo_2014-07_41" est globalement en : french
+[('french', 0.1938357444643927), ('english', 1.8130617450192876)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] INVITATION à notre journée MEET THE INDUSTRY, 19/11/2014, Lyon
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 Vous souhaitez découvrir la biologie systémique et, au delà, ses 
 applications pour vos activités ?
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Alors la journée "MEET THE INDUSTRY DAY 2014", le mercredi 19 novembre 
 2014 à Lyon, est susceptible de vous intéresser !
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Cet évènement, co-organisé par BioSyL (structure fédérative de recherche 
 en biologie systémique de l'Université de Lyon, www.biosyl.org) et le 
 Laboratoire d'excellence ECOFECT (Dynamiques éco-évolutives des maladies 
@@ -31,25 +31,25 @@ la biologie des systèmes. Il s'adresse à un public scientifique issu des
 milieux académiques et industriels.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Parmi les intervenants seront présents des représentants d’entreprises 
 (DANONE, SANOFI, LIXOFT, PHARNEXT), d'organismes travaillant aux 
 interfaces public-privé (AFFSSI, SATT Lyon St-Etienne, LYON INGENIERIE 
 PROJETS), ainsi que des chercheurs du monde académique.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Vous trouverez le programme et les modalités d'inscription (gratuite 
 MAIS OBLIGATOIRE) à cette journée sur :
 > http://indusday19nov.sciencesconf.org
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Vous pouvez dès maintenant vous inscrire en ligne sur :
 > http://indusday19nov.sciencesconf.org/registration/index
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Des stands promotionnels seront mis à disposition des entreprises. Sur 
 ces stands pourront être disposés des produits, du matériel de 
 démonstration, des affiches ou photos grands formats, des brochures et 
@@ -57,7 +57,7 @@ plaquettes (sur des présentoirs), des collations. Nous consulter pour
 les tarifs et modalités.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	COMITE D'ORGANISATION :
 Eric BOIX (CosMo Company), Thierry BUSSO (Université Jean Monnet, St 
 Etienne, BioSyL) Hubert CHARLES (INSA Lyon, BioSyL,) François Loic 
@@ -69,11 +69,11 @@ Projets,) Dominique PONTIER (Université C. Bernard Lyon 1, Ecofect),
 Gaël YVERT (ENS Lyon, BioSyL)
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	En vous priant d'agréér notre considération distinguée.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Emilie NOGUEZ, BioSyL
 Chargée de développement
 Bat Gregor Mendel (ex 741)
@@ -89,33 +89,33 @@ http://www.biosyl.org
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 Vous souhaitez découvrir la biologie systémique et, au delà, ses 
 applications pour vos activités ?
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Alors la journée "MEET THE INDUSTRY DAY 2014", le mercredi 19 novembre 
 2014 à Lyon, est susceptible de vous intéresser !
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Cet évènement, co-organisé par BioSyL (structure fédérative de recherche 
 en biologie systémique de l'Université de Lyon, www.biosyl.org) et le 
 Laboratoire d'excellence ECOFECT (Dynamiques éco-évolutives des maladies 
 infectieuses, http://ecofect.universite-lyon.fr), abordera les enjeux de 
 la biologie des systèmes.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Il s'adresse à un public scientifique issu des 
 milieux académiques et industriels.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Parmi les intervenants seront présents des représentants d’entreprises 
 (DANONE, SANOFI, LIXOFT, PHARNEXT), d'organismes travaillant aux 
 interfaces public-privé (AFFSSI, SATT Lyon St-Etienne, LYON INGENIERIE 
 PROJETS), ainsi que des chercheurs du monde académique.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Vous trouverez le programme et les modalités d'inscription (gratuite 
 MAIS OBLIGATOIRE) à cette journée sur :
 > http://indusday19nov.sciencesconf.org
@@ -125,17 +125,17 @@ Vous pouvez dès maintenant vous inscrire en ligne sur :
 
 Des stands promotionnels seront mis à disposition des entreprises.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Sur 
 ces stands pourront être disposés des produits, du matériel de 
 démonstration, des affiches ou photos grands formats, des brochures et 
 plaquettes (sur des présentoirs), des collations.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Nous consulter pour 
 les tarifs et modalités.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	COMITE D'ORGANISATION :
 Eric BOIX (CosMo Company), Thierry BUSSO (Université Jean Monnet, St 
 Etienne, BioSyL) Hubert CHARLES (INSA Lyon, BioSyL,) François Loic 
@@ -149,7 +149,7 @@ Gaël YVERT (ENS Lyon, BioSyL)
 
 En vous priant d'agréér notre considération distinguée.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Emilie NOGUEZ, BioSyL
 Chargée de développement
 Bat Gregor Mendel (ex 741)

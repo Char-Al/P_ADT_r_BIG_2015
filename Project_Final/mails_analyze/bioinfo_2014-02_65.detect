@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_65" est globalement en : FRA
-[('FRA', 0.28116302717448255), ('ENG', 2.3021539494568826)]
+Le mail "bioinfo_2014-02_65" est globalement en : french
+[('french', 0.3124253196601057), ('english', 0.8832687297656898)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] Etude des mécanismesréactio  nnels des enzymes de réparation de l’ADN d  ’un point de vue structural et dynamique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Etude des mécanismes réactionnels des enzymes de  
 réparation de l’ADN d’un point de vue structural et dynamique
 Type de poste : Thèse
@@ -26,7 +26,7 @@ Email du contact : norbert.garnier@cnrs-orleans.fr
 Laboratoire : Centre de Biophysique Moléculaire UPR4301 CNRS
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/etude-des-m%C3%A9canismes-r%C3%A9actionnels-des-enzymes-de-r%C3%A9paration-de-l%E2%80%99adn-d%E2%80%99un-point-de-vue-struc
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/etude-des-m%C3%A9canismes-r%C3%A9actionnels-des-enzym
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Etude des mécanismes réactionnels des enzymes de  

@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_35" est globalement en : FRA
-[('FRA', 0.6235195456098281), ('ENG', 0.9549267017570295)]
+Le mail "bioinfo_2014-02_35" est globalement en : french
+[('french', 0.049484548197021874), ('english', 3.121673480658585)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Ecole de Berder-Porquerolles -13-18 avril 2014
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	***Ecole de Berder-Porquerolles -13-18 avril 2014  pré-inscriptions ouvertes jusqu'au 28 février***
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	 
 Cher(e)s collègues,
  
@@ -37,7 +37,7 @@ Le comité d'organisation (C Lavelle, B Abou, H Berry)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	***Ecole de Berder-Porquerolles -13-18 avril 2014  pré-inscriptions ouvertes jusqu'au 28 février***
 
  
@@ -45,22 +45,22 @@ Cher(e)s collègues,
  
 Les inscriptions pour l'Ecole thématique interdisciplinaire d'échanges et de formation en biologie (ex "Ecole de Berder"), qui se tiendra du 13 au 18 avril 2014 sur l'île de Porquerolles (dans le Var), sont ouvertes jusqu'au 28 février.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Cette année, nous aurons plus particulièrement l'occasion de discuter des "Evènements rares en biologie".
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Cette Ecole, qui en est à sa 13e édition, a permis au fur et à mesure des années de développer et animer une communauté multidisciplinaire (biologistes, mathématiciens, informaticiens, physiciens, chimistes, philosophes, historiens, économistes, sociologues) autour de problématiques biologiques actuelles, et de stimuler lémergence de projets interdisciplinaires innovants.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Vous trouverez toutes les informations utiles (déroulé, enjeux, orateurs prévus, modalités d'inscription) sur le site http://biophysique.mnhn.fr/berder-porquerolles-2014.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Il est rappelé que, s'agissant d'une école CNRS,  les agents CNRS bénéficient de la gratuité.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Sur ce, n'attendez pas pour vous pré-inscrire (le nombre de place est limité), et n'hésitez pas à diffuser l'annonce auprès de vos collègues.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Au plaisir de vous retrouver prochainement à Porquerolles,
  
 Le comité d'organisation (C Lavelle, B Abou, H Berry)

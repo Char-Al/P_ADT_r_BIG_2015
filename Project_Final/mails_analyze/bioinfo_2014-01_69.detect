@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_69" est globalement en : FRA
-[('FRA', 0.3483429117972567), ('ENG', 3.3154713562401357)]
+Le mail "bioinfo_2014-01_69" est globalement en : french
+[('french', 0.5152410324427339), ('english', 1.048043307363316)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur /Administrat  eur Base de données
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur/Administrateur Base de données
 Type de poste : CDD Ingénieur
 Durée du poste : 8 mois
@@ -25,7 +25,7 @@ Email du contact : bucciarelli.f@chu-toulouse.fr
 Laboratoire : UMR1043, CPTP
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieuradministrateur-base-de-donn%C3%A9es
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieuradministrateur-base-de-donn%C3%A9es
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur/Administrateur Base de données

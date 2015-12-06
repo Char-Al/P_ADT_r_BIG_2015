@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_16" est globalement en : FRA
-[('FRA', 0.5720289196274575), ('ENG', 1.6613659389618585)]
+Le mail "bioinfo_2014-10_16" est globalement en : french
+[('french', 0.4226827857722665), ('english', 1.1430192938963901)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur BioStatisti  cien / Statisticien h-f
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur BioStatisticien / Statisticien h-f
 Type de poste : CDD Ingénieur
 Durée du poste : 12 mois
@@ -26,7 +26,7 @@ Laboratoire : Institut Pasteur - Unité de Modélisation Mathématique des
 Maladies Infectieuses
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-biostatisticien-statisticien-h-f
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-biostatisticien-statisticien-h-f
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur BioStatisticien / Statisticien h-f

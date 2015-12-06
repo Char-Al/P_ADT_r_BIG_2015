@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_41" est globalement en : FRA
-[('FRA', 0.6226922876927664), ('ENG', 2.297906126160729)]
+Le mail "bioinfo_2014-09_41" est globalement en : french
+[('french', 0.473816393276772), ('english', 0.7118998977612273)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] Metabolic regulation of the ep  igenome in early embryonic differentiation
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Metabolic regulation of the epigenome in early embryonic  
 differentiation
 Type de poste : Thèse
@@ -26,7 +26,7 @@ Email du contact : n.lenovere@gmail.com
 Laboratoire : Le Novere Lab, Babraham Institute
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/metabolic-regulation-epigenome-early-embryonic-differentiation
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/metabolic-regulation-epigenome-early-embryonic-differ
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Metabolic regulation of the epigenome in early embryonic  

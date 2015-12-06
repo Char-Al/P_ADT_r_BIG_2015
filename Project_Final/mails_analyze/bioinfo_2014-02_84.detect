@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-02_84" est globalement en : FRA
-[('ENG', 0.29896003036720203), ('FRA', 0.6274824662543637)]
+Le mail "bioinfo_2014-02_84" est globalement en : french (conflict)
+[('french', 0.22152897370996238), ('english', 0.7075672343927683)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] PhD position in Statistical Genetics at the CNG
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	The French National Center for Genotyping (www.CNG.fr/en) and the Inserm U1078 lab propose a PhD position in Statistical Genetics to study rare variants and gene-environment interactions in complex human diseases. A summary can be found below and further details about the project can be provided for interested candidates.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Applications will go through a competitive recruitment process, called Irtelis, which will fund up to 20 PhD fellowships for a duration of 3 years starting end of 2014 at the Life Science Division of the French Alternative Energies and Atomic Energy Commission (www.CEA.fr/english-portal). 
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Deadline for online application is Friday 21 of March, 2014, at noon CET (my guess!).
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Then an ad-hoc committee will preselect applicants who will be invited from May 21 to 23 at the Saclay research center of CEA (near Paris) for:
 - an interview with a panel of distinguished scientists (from CEA and affiliated universities),
 - an informal chat with prospective PhD supervisors (poster session).
@@ -31,85 +31,85 @@ For non-local participants, low-cost travel expenses and accommodation will be c
 Successful candidates will be notified by Friday 23 of May, 2014.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The web page containing all the necessary information (PhD projects and application form) is available at: www-dsv.cea.fr/en/phd-program/program-presentation
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Please, contact me if you would like to discuss this opportunity further (kazma@cng.fr or remi.kazma@gmail.com).
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : french
 	Rémi Kazma
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Statistical Genetics @ CNG
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	***
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Summary
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Genome-wide association studies have identified many associations between common variants and complex diseases. However, these only explain a limited amount of the genetic variability of these diseases. Two hypotheses often suggested to explain this include the association with rare variants and gene-environment interactions. The hypothesis of association with rare variants lies in the idea that a large number of rare variants located in a gene or a genomic region would harbor alleles that increase the risk of developing the studied disease, moderately to importantly. New sequencing technologies will allow the large scale identification of rare variants and consequently to test this hypothesis on large samples. Several methods based on the aggregation of multiple variants have been proposed to analyze rare variants. Yet, none of these methods have proposed to analyze interactions between these rare variants and environmental factors. In a first study,  we showed how a joint test of the association with a set of rare variants and of their interactions with an environmental factor can be more powerful than a standard test of genetic association alone. However, several methodological developments are needed. The aim of this thesis is to develop and evaluate the properties of statistical methods for analyzing gene-environment interactions involving rare variants. Moreover, the CNG plays a central role in the international genetic community. This will provide many opportunities to illustrate these methods in real data applications.
 
 ==========================================
-Le paragraphe 12 est en : n
+Le paragraphe 12 est en : non detect
 	========================
 ========================
 ========================
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Le Centre National de Génotypage (www.CNG.fr) propose un sujet de thèse en Génétique Statistique portant sur l'étude des variants rares et des interactions gène-environnement dans les maladies complexes humaines. Un résumé se trouve ci-dessous et de plus amples détails sont disponibles pour des candidats intéressés.
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	Les candidatures se feront via un processus de recrutement compétitif, appelé Irtelis, qui financera 20 bourses de thèse de 3 ans à partir de la fin 2014 au Département des Sciences de la Vie du Commissariat à l'Énergie Atomique et aux Énergies Alternatives (www.CEA.fr). 
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	La date limite de dépôt des candidatures est fixée au vendredi 21 mars 2014 à midi.
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	Ensuite, un jury ad-hoc présélectionnera les candidats qui seront invités du 21 au 23 mai 2014 au centre de recherche de Saclay du CEA (près de Paris) pour:
 - une audition devant un jury constitué de scientifiques du CEA et des écoles doctorales partenaires,
 - une rencontre informelle avec les directeurs de thèses proposant des sujets (session de posters).
 Pour les candidats n'habitant pas la région parisienne, les frais de transport "low-cost" et les frais d'hébergement seront pris en charge par la DSV.
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	Les candidats lauréats seront informés le vendredi 23 mai 2014.
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	La page web contenant toutes les informations utiles (sujets de thèses et formulaire de candidature) est: www-dsv.cea.fr/en/phd-program/program-presentation
 
 ==========================================
-Le paragraphe 19 est en : FRA
+Le paragraphe 19 est en : french
 	Nhésitez pas à me contacter si vous voulez discutez plus en détail de cette opportunité (kazma@cng.fr ou remi.kazma@gmail.com).
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	Rémi Kazma
 Statistical Genetics @ CNG
 
 ==========================================
-Le paragraphe 21 est en : n
+Le paragraphe 21 est en : non detect
 	***
 
 ==========================================
-Le paragraphe 22 est en : FRA
+Le paragraphe 22 est en : french
 	Résumé
 
 ==========================================
-Le paragraphe 23 est en : FRA
+Le paragraphe 23 est en : french
 	Les études dassociations pangénomiques ont identifié de nombreuses associations entre variants fréquents et maladies complexes. Cependant, celles-ci nexpliquent quune part limitée de la variabilité génétique de ces maladies. Deux hypothèses souvent suggérées pour expliquer cela sont lassociation avec des variants rares et les interactions gène-environnement. Lhypothèse dassociation avec des variants rares repose sur lidée quun grand nombre de variants rares localisées dans un gène ou une région génomique présenteraient des allèles conférant un risque modéré à important de développer la maladie étudiée. Les nouvelles technologies de séquençage vont permettre didentifier ces variants rares à grande échelle et donc de tester cette hypothèse sur de grands échantillons. De nombreuses méthodes fondées sur lagrégation de multiples variants ont été proposées pour analyser les variants rares. Cependant, aucune de ces méthodes na jusque-là proposé danalyser des interactions entre ces variants et des facteurs environnementaux. Dans une première étude, nous avons montré quun test conjoint de lassociation avec un groupe de variants rares et de leurs interactions avec un facteur environnemental peut être plus puissant quun test standard dassociation génétique seul. Toutefois, de nombreux autres développements méthodologiques sont nécessaires. Lobjectif de cette thèse est de développer et dévaluer les propriétés de méthodes statistiques pour analyser les interactions de variants rares avec des facteurs environnementaux à laide de simulations. Par ailleurs, le CNG est un acteur central du paysage de la génétique internationale, ce qui permettra dillustrer ces méthodes par des applications sur des données réelles.
 
 
@@ -118,35 +118,35 @@ Le paragraphe 23 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	The French National Center for Genotyping (www.CNG.fr/en) and the Inserm U1078 lab propose a PhD position in Statistical Genetics to study rare variants and gene-environment interactions in complex human diseases.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	A summary can be found below and further details about the project can be provided for interested candidates.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Applications will go through a competitive recruitment process, called Irtelis, which will fund up to 20 PhD fellowships for a duration of 3 years starting end of 2014 at the Life Science Division of the French Alternative Energies and Atomic Energy Commission (www.CEA.fr/english-portal).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Deadline for online application is Friday 21 of March, 2014, at noon CET (my guess!).
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Then an ad-hoc committee will preselect applicants who will be invited from May 21 to 23 at the Saclay research center of CEA (near Paris) for:
 - an interview with a panel of distinguished scientists (from CEA and affiliated universities),
 - an informal chat with prospective PhD supervisors (poster session).
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	For non-local participants, low-cost travel expenses and accommodation will be covered by the DSV.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Successful candidates will be notified by Friday 23 of May, 2014.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	The web page containing all the necessary information (PhD projects and application form) is available at: www-dsv.cea.fr/en/phd-program/program-presentation
 
 Please, contact me if you would like to discuss this opportunity further (kazma@cng.fr or remi.kazma@gmail.com).
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Rémi Kazma
 
 Statistical Genetics @ CNG
@@ -157,72 +157,72 @@ Summary
 
 Genome-wide association studies have identified many associations between common variants and complex diseases.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	However, these only explain a limited amount of the genetic variability of these diseases.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Two hypotheses often suggested to explain this include the association with rare variants and gene-environment interactions.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	The hypothesis of association with rare variants lies in the idea that a large number of rare variants located in a gene or a genomic region would harbor alleles that increase the risk of developing the studied disease, moderately to importantly.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	New sequencing technologies will allow the large scale identification of rare variants and consequently to test this hypothesis on large samples.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Several methods based on the aggregation of multiple variants have been proposed to analyze rare variants.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Yet, none of these methods have proposed to analyze interactions between these rare variants and environmental factors.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	In a first study,  we showed how a joint test of the association with a set of rare variants and of their interactions with an environmental factor can be more powerful than a standard test of genetic association alone.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	However, several methodological developments are needed.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	The aim of this thesis is to develop and evaluate the properties of statistical methods for analyzing gene-environment interactions involving rare variants.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Moreover, the CNG plays a central role in the international genetic community.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	This will provide many opportunities to illustrate these methods in real data applications.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	========================
 ========================
 ========================
 
 Le Centre National de Génotypage (www.CNG.fr) propose un sujet de thèse en Génétique Statistique portant sur l'étude des variants rares et des interactions gène-environnement dans les maladies complexes humaines.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	Un résumé se trouve ci-dessous et de plus amples détails sont disponibles pour des candidats intéressés.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	Les candidatures se feront via un processus de recrutement compétitif, appelé Irtelis, qui financera 20 bourses de thèse de 3 ans à partir de la fin 2014 au Département des Sciences de la Vie du Commissariat à l'Énergie Atomique et aux Énergies Alternatives (www.CEA.fr).
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	La date limite de dépôt des candidatures est fixée au vendredi 21 mars 2014 à midi.
 ==========================================
-La phrase 25 est en : FRA
+La phrase 25 est en : french
 	Ensuite, un jury ad-hoc présélectionnera les candidats qui seront invités du 21 au 23 mai 2014 au centre de recherche de Saclay du CEA (près de Paris) pour:
 - une audition devant un jury constitué de scientifiques du CEA et des écoles doctorales partenaires,
 - une rencontre informelle avec les directeurs de thèses proposant des sujets (session de posters).
 ==========================================
-La phrase 26 est en : FRA
+La phrase 26 est en : french
 	Pour les candidats n'habitant pas la région parisienne, les frais de transport "low-cost" et les frais d'hébergement seront pris en charge par la DSV.
 ==========================================
-La phrase 27 est en : FRA
+La phrase 27 est en : french
 	Les candidats lauréats seront informés le vendredi 23 mai 2014.
 ==========================================
-La phrase 28 est en : FRA
+La phrase 28 est en : french
 	La page web contenant toutes les informations utiles (sujets de thèses et formulaire de candidature) est: www-dsv.cea.fr/en/phd-program/program-presentation
 
 Nhésitez pas à me contacter si vous voulez discutez plus en détail de cette opportunité (kazma@cng.fr ou remi.kazma@gmail.com).
 ==========================================
-La phrase 29 est en : FRA
+La phrase 29 est en : french
 	Rémi Kazma
 Statistical Genetics @ CNG
 
@@ -232,34 +232,34 @@ Résumé
 
 Les études dassociations pangénomiques ont identifié de nombreuses associations entre variants fréquents et maladies complexes.
 ==========================================
-La phrase 30 est en : FRA
+La phrase 30 est en : french
 	Cependant, celles-ci nexpliquent quune part limitée de la variabilité génétique de ces maladies.
 ==========================================
-La phrase 31 est en : FRA
+La phrase 31 est en : french
 	Deux hypothèses souvent suggérées pour expliquer cela sont lassociation avec des variants rares et les interactions gène-environnement.
 ==========================================
-La phrase 32 est en : FRA
+La phrase 32 est en : french
 	Lhypothèse dassociation avec des variants rares repose sur lidée quun grand nombre de variants rares localisées dans un gène ou une région génomique présenteraient des allèles conférant un risque modéré à important de développer la maladie étudiée.
 ==========================================
-La phrase 33 est en : FRA
+La phrase 33 est en : french
 	Les nouvelles technologies de séquençage vont permettre didentifier ces variants rares à grande échelle et donc de tester cette hypothèse sur de grands échantillons.
 ==========================================
-La phrase 34 est en : FRA
+La phrase 34 est en : french
 	De nombreuses méthodes fondées sur lagrégation de multiples variants ont été proposées pour analyser les variants rares.
 ==========================================
-La phrase 35 est en : FRA
+La phrase 35 est en : french
 	Cependant, aucune de ces méthodes na jusque-là proposé danalyser des interactions entre ces variants et des facteurs environnementaux.
 ==========================================
-La phrase 36 est en : FRA
+La phrase 36 est en : french
 	Dans une première étude, nous avons montré quun test conjoint de lassociation avec un groupe de variants rares et de leurs interactions avec un facteur environnemental peut être plus puissant quun test standard dassociation génétique seul.
 ==========================================
-La phrase 37 est en : FRA
+La phrase 37 est en : french
 	Toutefois, de nombreux autres développements méthodologiques sont nécessaires.
 ==========================================
-La phrase 38 est en : FRA
+La phrase 38 est en : french
 	Lobjectif de cette thèse est de développer et dévaluer les propriétés de méthodes statistiques pour analyser les interactions de variants rares avec des facteurs environnementaux à laide de simulations.
 ==========================================
-La phrase 39 est en : FRA
+La phrase 39 est en : french
 	Par ailleurs, le CNG est un acteur central du paysage de la génétique internationale, ce qui permettra dillustrer ces méthodes par des applications sur des données réelles.
 
 ==========================================

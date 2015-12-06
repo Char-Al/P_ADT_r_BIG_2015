@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_56" est globalement en : ENG
-[('FRA', 2.0695138468423964), ('ENG', 4.338989077651789)]
+Le mail "bioinfo_2014-07_56" est globalement en : english (conflict)
+[('english', 1.3442942054172031), ('french', 1.6619711078109385)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] IngénieurDéveloppeur Worflows
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur Développeur Worflows
 Type de poste : CDD Ingénieur
 Durée du poste : 12
@@ -26,12 +26,12 @@ Email du contact : visotheary.riviere-ung@snv.jussieu.fr
 Laboratoire : ISYEB
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9veloppeur-worflows
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

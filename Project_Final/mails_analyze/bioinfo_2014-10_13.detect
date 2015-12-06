@@ -1,28 +1,28 @@
-Le mail "bioinfo_2014-10_13" est globalement en : FRA
-[('FRA', 0.5191212190879454), ('ENG', 6.54498941422219)]
+Le mail "bioinfo_2014-10_13" est globalement en : french
+[('french', 0.06629867043630959), ('english', 1.4182310361516175)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Opportunité de carrière - Chemoinformatique - MODIS
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	MODIS société internationale réalise un CA de 2,4 milliard deuros en 2012.
 Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
 En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique. Elle sappuie sur un réseau de 7 agences. Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie. Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
 Description du poste :
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Pour renforcer nos équipes, nous recherchons un Consultant Chémoinformatique H/F qui aura pour mission dintervenir sur la recherche et lanalyse des données chimiques et pharmacologiques.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Compétences requises :
 Très bonne connaissance des outils et méthodes de manipulation de molécules : 
 ocalculs de descripteurs, recherche par similarité, clustering, 
@@ -34,7 +34,7 @@ Très bonne connaissance dun outil de traitement de flux de données
 Connaissance (utilisateur) dun système Linux
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Serait un plus :
 -connaissance des réseaux (graphes) : théorie, construction et analyse
 -connaissance des logiciels suivants :
@@ -47,17 +47,17 @@ oModélisation moléculaire : MOE, Discovery Studio, Schrödinger
 De formation Bac +5, vous êtes diplomé dun Master en Chémo informatique ou modélisation moléculaire « ligand-based ». Vous justifiez dune expérience de minimum 3 ans dans un groupe de chemo-informatique ou modélisation moléculaire pharmaceutique, biotech ou académique. Une thèse dans un domaine de la chemo-informatique (manipulation des données moléculaires) équivaudrait à 3 ans dexpérience. Vous êtes reconnu pour vos qualités dorganisation, de rigueur et votre sens du service.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée. 
 Pour découvrir lensemble des postes ouverts, notre culture, nos atouts  Rendez-vous directement sur notre site www.modisfrance.fr. 
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Ce poste est ouvert à tous.
 En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	
 
 ==========================================
@@ -65,37 +65,37 @@ Le paragraphe 7 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	MODIS société internationale réalise un CA de 2,4 milliard deuros en 2012.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Sa présence dans de nombreux pays (Etats-Unis, Angleterre, Australie, Canada, France, Belgique, Pays-Bas, Pologne) lui permet dassurer une couverture géographique mondiale.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	En France, MODIS fait partie des 30 premières Sociétés de Service en Ingénierie Numérique.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Elle sappuie sur un réseau de 7 agences.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ses 1600 collaborateurs apportent des solutions à ses clients issus de la Banque/Finance, lAssurance, la Distribution, les Télécoms, lIndustrie, le Services & lEnergie.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Ils interviennent en conseil, ingénierie applicative, support et management des infrastructures.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Description du poste :
 
 Pour renforcer nos équipes, nous recherchons un Consultant Chémoinformatique H/F qui aura pour mission dintervenir sur la recherche et lanalyse des données chimiques et pharmacologiques.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Compétences requises :
 Très bonne connaissance des outils et méthodes de manipulation de molécules : 
 ocalculs de descripteurs, recherche par similarité, clustering, 
 ofouille de données, manipulation de bases de données SQL ou graphe
 oanalyse statistique : PCA, MLR, PLS, SVM, Kohonen, Neural networks, Random Forest, etc.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	oconstruction de modèles 3D-pharmacophores
 oconstruction de modèles QSAR et/ou 3D-QSAR
 Très bonne connaissance dun outil de traitement de flux de données
@@ -112,25 +112,25 @@ oModélisation moléculaire : MOE, Discovery Studio, Schrödinger
 	
 De formation Bac +5, vous êtes diplomé dun Master en Chémo informatique ou modélisation moléculaire « ligand-based ».
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Vous justifiez dune expérience de minimum 3 ans dans un groupe de chemo-informatique ou modélisation moléculaire pharmaceutique, biotech ou académique.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Une thèse dans un domaine de la chemo-informatique (manipulation des données moléculaires) équivaudrait à 3 ans dexpérience.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Vous êtes reconnu pour vos qualités dorganisation, de rigueur et votre sens du service.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Vous souhaitez rejoindre une entreprise qui réponde à vos ambitions, MODIS vous accompagne avec une équipe RH dédiée.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Pour découvrir lensemble des postes ouverts, notre culture, nos atouts  Rendez-vous directement sur notre site www.modisfrance.fr.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Ce poste est ouvert à tous.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	En 2013, Modis et ses partenaires sociaux ont signé auprès de la Direccte un accord en faveur des personnes en situation de handicap.
 
 

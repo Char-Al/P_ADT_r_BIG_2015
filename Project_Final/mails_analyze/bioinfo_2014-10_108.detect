@@ -1,37 +1,37 @@
-Le mail "bioinfo_2014-10_108" est globalement en : ENG
-[('ENG', 0.3433669442651201), ('FRA', 0.6595899715978611)]
+Le mail "bioinfo_2014-10_108" est globalement en : english
+[('english', 0.21073295017134583), ('french', 0.34658202812486244)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] 4th Cross Disciplinary Genomics Meeting
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	**4th Cross Disciplinary Genomics Meeting - Up-and-Coming Advances in Genome Sciences**
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Paris - UPMC - November 13-14, 2014
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Amphi Durand - Bât Esclangon - 4 place Jussieu 75005 Paris
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Register at: http://cross-genomics.sciencesconf.org/  (no registration fee). 
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Scientific topics: 
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	-Synthetic biology and genome engineering 
 -Computational genomics
 -Chromosome architecture and Single cell genomics
@@ -52,11 +52,11 @@ Valentina PROSERPIO - EBI, Cambridge, UK
  
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	We look forward seeing you. 
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	 The organizing comittee
  
  Alessandra Carbone
@@ -67,12 +67,12 @@ Le paragraphe 8 est en : FRA
  Martin Weigt
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Laboratory of Computational and Quantitative Biology - UMR 7238 CNRS - 
 Université Pierre et Marie Curie
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -80,7 +80,7 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	**4th Cross Disciplinary Genomics Meeting - Up-and-Coming Advances in Genome Sciences**
 
 Paris - UPMC - November 13-14, 2014
@@ -89,7 +89,7 @@ Amphi Durand - Bât Esclangon - 4 place Jussieu 75005 Paris
 
 Register at: http://cross-genomics.sciencesconf.org/  (no registration fee).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Scientific topics: 
 
 -Synthetic biology and genome engineering 
@@ -113,7 +113,7 @@ Valentina PROSERPIO - EBI, Cambridge, UK
 
 We look forward seeing you.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	The organizing comittee
  
  Alessandra Carbone

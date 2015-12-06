@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_103" est globalement en : FRA
-[('FRA', 0.6125041866791286), ('ENG', 3.568832014104927)]
+Le mail "bioinfo_2014-10_103" est globalement en : french
+[('french', 0.4798716700238778), ('english', 1.2689547233247935)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Chémoinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Chémoinformatique
 Type de poste : CDD Ingénieur
 Durée du poste : 6 mois
@@ -26,7 +26,7 @@ Laboratoire : Molécules Thérapeutiques in silico (MTi), INSERM UMR-S973,
 Université Paris Diderot
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ch%C3%A9moinformatique
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ch%C3%A9moinformatique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Chémoinformatique

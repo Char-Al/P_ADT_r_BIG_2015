@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_20" est globalement en : FRA
-[('FRA', 0.16129417953350597), ('ENG', 0.3826955612076814)]
+Le mail "bioinfo_2014-01_20" est globalement en : french
+[('french', 0.33149258703823187), ('english', 1.3166146836345636)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Stage de recherche M2, structur  e d'indexation pour le suivi de la leucémie
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Stage de recherche M2, structure d'indexation pour le  
 suivi de la leucémie
 Type de poste : Stage
@@ -27,7 +27,7 @@ Laboratoire : équipe Bonsai, Laboratoire d'Informatique Fondamentale de
 Lille (LIFL, Univ. Lille 1, CNRS) et Inria Lille
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-de-recherche-m2-structure-dindexation-pour-le-suivi-de-la-leuc%C3%A9mie
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/stage-de-recherche-m2-structure-dindexation-pour-le-s
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Stage de recherche M2, structure d'indexation pour le  
@@ -50,7 +50,7 @@ Email du contact : mathieu.giraud@lifl.fr
 Laboratoire : équipe Bonsai, Laboratoire d'Informatique Fondamentale de  
 Lille (LIFL, Univ.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : english
 	Lille 1, CNRS) et Inria Lille
 
 Voir la description complète du poste sur  

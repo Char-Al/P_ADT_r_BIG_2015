@@ -1,37 +1,37 @@
-Le mail "bioinfo_2014-07_48" est globalement en : ENG
-[('ENG', 0.2076663937697851), ('FRA', 0.8858924558665194)]
+Le mail "bioinfo_2014-07_48" est globalement en : french (conflict)
+[('french', 0.31084797519963714), ('english', 0.36054186519003084)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] save the date: aSSB'15 Thematic Research School on "advances in Systems and Synthetic Biology", Strasbourg ~ 23-27 March 2015 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear Colleague,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	We are pleased to announce the aSSB'15 Thematic Research School on "advances in Systems and Synthetic Biology - Modelling complex biological systems in the context of genomics". The upcoming session will take place in Strasbourg on 23-27 March 2015. The program will include conferences (the speakers are listed below), hands-on tutorials, selected talks by students and postdocs, and poster sessions.
 Online registration will open on 30 September 2014.
 This annual cross-disciplinary Thematic School on Systems and Synthetic Biology started in 2002. Previous session proceedings may be found here. 
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Best wishes,
 The aSSB'15 Scientific Board.
 ----------------------------------------
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	aSSB'15 SPEAKERS:
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : french
 	Jacques DEMONGEOT (AGIM, UJF, Grenoble, FR), special guest
 Albert GOLDBETER (ULB, Bruxelles, BE), keynote speaker
 Laurence CALZONE (Inst. Curie, Paris, FR)
@@ -46,11 +46,11 @@ Jürgen ZANGHELLINI (ACIB, Graz, AT)
 Jens HAUSER (Synth-ethic, Vienna, AT & Paris, FR)
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	aSSB SCIENTIFIC BOARD:
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : french
 	Patrick Amar (U. Paris-Sud, FR)
 Gilles Bernot (U. Nice-Sophia, FR)
 Marie Beurton-Aimar (U. Bordeaux, FR)
@@ -69,7 +69,7 @@ Ines Thiele (U. Luxembourg, LU)
 Birgit Wiltschi (Austrian Centre of Industrial Biotechnology, Graz, AT)
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	
 
 ==========================================
@@ -77,31 +77,31 @@ Le paragraphe 8 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear Colleague,
 
 We are pleased to announce the aSSB'15 Thematic Research School on "advances in Systems and Synthetic Biology - Modelling complex biological systems in the context of genomics".
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The upcoming session will take place in Strasbourg on 23-27 March 2015.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The program will include conferences (the speakers are listed below), hands-on tutorials, selected talks by students and postdocs, and poster sessions.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Online registration will open on 30 September 2014.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	This annual cross-disciplinary Thematic School on Systems and Synthetic Biology started in 2002.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Previous session proceedings may be found here.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Best wishes,
 The aSSB'15 Scientific Board.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	----------------------------------------
 
 aSSB'15 SPEAKERS:
@@ -110,7 +110,7 @@ Jacques DEMONGEOT (AGIM, UJF, Grenoble, FR), special guest
 Albert GOLDBETER (ULB, Bruxelles, BE), keynote speaker
 Laurence CALZONE (Inst.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : french
 	Curie, Paris, FR)
 Nicolas LE NOVÈRE (Babraham Inst., Cambridge, UK)
 François FAGES (INRIA, Rocquencourt, FR)

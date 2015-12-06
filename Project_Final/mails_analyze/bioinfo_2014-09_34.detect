@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_34" est globalement en : FRA
-[('FRA', 0.42070924586907216), ('ENG', 6.472524583856704)]
+Le mail "bioinfo_2014-09_34" est globalement en : french
+[('french', 0.5548601575563586), ('english', 1.0963132064301357)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur administrat  eur système
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur administrateur système
 Type de poste : CDD Ingénieur
 Durée du poste : 18 mois
@@ -25,7 +25,7 @@ Email du contact : jean-francois.gibrat@france-bioinformatique.fr
 Laboratoire : UMS3601 - IFB-core
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-administrateur-syst%C3%A8me-0
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-administrateur-syst%C3%A8me-0
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur administrateur système

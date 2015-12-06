@@ -1,48 +1,48 @@
-Le mail "bioinfo_2014-05_32" est globalement en : ENG
-[('ENG', 0.1819701779702086), ('FRA', 0.3390931090535534)]
+Le mail "bioinfo_2014-05_32" est globalement en : english
+[('english', 0.12578812270365383), ('french', 0.2731090502081553)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ECML-PKDD'14 tutorial "The Pervasiveness of Machine Learning in Omics Science"
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Je me permets de vous transmettre ce premier appel à participation pour notre tutorial de ECML-PKDD'14 (Nancy) consacré aux méthodes d'analyse pour les jeux de données OMICS.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Au plaisir d'y accueillir vos participation!
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Ronnie, Claude & Nicolas
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	----------------------------------------------------------------
                          ECML-PKDD Tutorial
                       Nancy, 15th September 2014 
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The Pervasiveness of Machine Learning in Omics Science
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	       http://ecmlpkdd2014.loria.fr/program/tutorial-list/
        https://sites.google.com/site/alvesrco/tutorial_ecml_pkdd2014
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	---------------- Description -------------------------------
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Biology has become an enormously data-rich subject. Data is generated in many flavors and follows particularities of the omics perspective adopted along experimental studies. For instance, genomics is the field of study dealing with genomes and it is mostly associated with the static view (the genes and where they are placed along the genome). The dynamic view is brought from the transcriptomics perspective, so the gene expression and its regulation. Finally, interactomics is usually associated to gene products, proteins, and their interactions. However it could also be seen as a huge graph network with layers of interaction integrating distinct omics perspectives. Omics science applications of unsupervised and/or supervised machine learning (ML) techniques abound in the literature. In this tutorial, we discuss machine learning on omics data, putting the emphasis on (i) mapping and (ii) learning omics patterns. We consider three main omics data: genomics, transcriptomics and interactomics. For each perspective, we first provide, the biological problem, the data mapping (from a biological problem to a machine learning problem), the core ML methods employed and its implementation in the R language.
 
 
@@ -51,13 +51,13 @@ Le paragraphe 8 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Je me permets de vous transmettre ce premier appel à participation pour notre tutorial de ECML-PKDD'14 (Nancy) consacré aux méthodes d'analyse pour les jeux de données OMICS.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Au plaisir d'y accueillir vos participation!
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Ronnie, Claude & Nicolas
 
 ----------------------------------------------------------------
@@ -73,31 +73,31 @@ The Pervasiveness of Machine Learning in Omics Science
 
 Biology has become an enormously data-rich subject.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Data is generated in many flavors and follows particularities of the omics perspective adopted along experimental studies.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	For instance, genomics is the field of study dealing with genomes and it is mostly associated with the static view (the genes and where they are placed along the genome).
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The dynamic view is brought from the transcriptomics perspective, so the gene expression and its regulation.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Finally, interactomics is usually associated to gene products, proteins, and their interactions.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	However it could also be seen as a huge graph network with layers of interaction integrating distinct omics perspectives.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Omics science applications of unsupervised and/or supervised machine learning (ML) techniques abound in the literature.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	In this tutorial, we discuss machine learning on omics data, putting the emphasis on (i) mapping and (ii) learning omics patterns.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	We consider three main omics data: genomics, transcriptomics and interactomics.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	For each perspective, we first provide, the biological problem, the data mapping (from a biological problem to a machine learning problem), the core ML methods employed and its implementation in the R language.
 
 ==========================================

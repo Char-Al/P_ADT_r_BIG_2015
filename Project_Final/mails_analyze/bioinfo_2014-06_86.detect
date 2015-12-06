@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-06_86" est globalement en : FRA
-[('ENG', 0.4003006392219629), ('FRA', 0.6567517819904276)]
+Le mail "bioinfo_2014-06_86" est globalement en : french
+[('french', 0.166130787801669), ('english', 17.284821784323633)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] 18th EBM Dead line et programme
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour la date limite normale pour l'inscription au   18th Evolutionary Biology Meeting at Marseilles est le 30 juin à Minuit
 nous passons ensuite en "late registration" et le programme sera disponible le 3 juillet
 http://sites.univ-provence.fr/evol-cgr/  
@@ -25,7 +25,7 @@ Pierre
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour la date limite normale pour l'inscription au   18th Evolutionary Biology Meeting at Marseilles est le 30 juin à Minuit
 nous passons ensuite en "late registration" et le programme sera disponible le 3 juillet
 http://sites.univ-provence.fr/evol-cgr/  

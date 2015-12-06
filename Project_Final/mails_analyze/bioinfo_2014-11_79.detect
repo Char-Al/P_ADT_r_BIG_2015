@@ -1,33 +1,33 @@
-Le mail "bioinfo_2014-11_79" est globalement en : ENG
-[('ENG', 0.5004745564107554), ('FRA', 0.5723282702669513)]
+Le mail "bioinfo_2014-11_79" est globalement en : english
+[('english', 0.033407761846150075), ('french', 0.8546779288126225)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Mathematical and Computational Evolutionary Biology, 21-25 June 2015
  - Porquerolles
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	MCEB - Mathematical and Computational Evolutionary Biology
 21-25 June 2015 - Porquerolles Island, South of France.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Webpage: http://www.lirmm.fr/mceb2015/
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Pre-registration deadline: February 10th
 Notification to applicants: February 28th
 Final list of attendees: April 1st
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Scope: Mathematical and computational tools and concepts form
 an essential basis for modern evolutionary studies. The goal
 of the MCEB conference (at its 7th edition) is to bring together
@@ -44,67 +44,67 @@ methods and algorithms will also be presented and discussed,
 just as during the previous conference editions.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Where and when: Porquerolles Island, near Hyères, in the
 South of France, 21-25 June 2015.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Cost: Conference fees including accommodation for four nights,
 meals, coffee breaks, etc., will be between 300€ and 630€, all
 inclusive, and will vary depending on the room. PhD students
 and postdocs will benefit of the cheapest rooms.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Keynote speakers (to be completed):
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	David Bryant - http://www.maths.otago.ac.nz/~dbryant/
 University of Otago, NZ
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Jukka Corander - http://www.helsinki.fi/bsg/
 Bayesian Statistics Group, University of Helsinki, FI
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Asger Hobolth - http://www.daimi.au.dk/~asger/
 Bioinformatics Research Center (BiRC), Aarhus University, DK
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Philippe Lemey
 https://rega.kuleuven.be/cev/ecv/lab-members/PhilippeLemey.html
 Rega Institute, Clinical and Epidemiological Virology, BE
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Bernard Moret - http://lcbb.epfl.ch/
 Laboratory for Computational Biology and Bioinformatics, EPFL, CH
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Ludovic Orlando - http://lcbb.epfl.ch/
 Center for GeoGenetics, Natural History Museum of Denmark, DK
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Molly Przeworski - http://przeworski.c2b2.columbia.edu/
 Columbia University, New york, USA
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	For more information, visit the website at: http://www.lirmm.fr/mceb2015/
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Please forward this announcement.
 
 ==========================================
-Le paragraphe 17 est en : n
+Le paragraphe 17 est en : non detect
 	
 
 ==========================================
@@ -112,11 +112,11 @@ Le paragraphe 17 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	MCEB - Mathematical and Computational Evolutionary Biology
 21-25 June 2015 - Porquerolles Island, South of France.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Webpage: http://www.lirmm.fr/mceb2015/
 
 Pre-registration deadline: February 10th
@@ -126,47 +126,47 @@ Final list of attendees: April 1st
 Scope: Mathematical and computational tools and concepts form
 an essential basis for modern evolutionary studies.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The goal
 of the MCEB conference (at its 7th edition) is to bring together
 scientists with diverse backgrounds to present recent advances
 and discuss open problems in the field of mathematical and
 computational evolutionary biology.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The theme of this year’s
 edition will be new data, new questions, new methods.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	New
 generation sequencing techniques have multiplied not just
 the amount, but also the types of genetic data produced,
 giving rise to new questions, and new methodologies to answer
 them.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	These methodologies are often cross-disciplinary, with
 applications to diverse research topics.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	General concepts, models,
 methods and algorithms will also be presented and discussed,
 just as during the previous conference editions.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Where and when: Porquerolles Island, near Hyères, in the
 South of France, 21-25 June 2015.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Cost: Conference fees including accommodation for four nights,
 meals, coffee breaks, etc., will be between 300€ and 630€, all
 inclusive, and will vary depending on the room.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	PhD students
 and postdocs will benefit of the cheapest rooms.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Keynote speakers (to be completed):
 
 David Bryant - http://www.maths.otago.ac.nz/~dbryant/

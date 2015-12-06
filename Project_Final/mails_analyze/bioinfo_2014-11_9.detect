@@ -1,36 +1,36 @@
-Le mail "bioinfo_2014-11_9" est globalement en : ENG
-[('ENG', 0.41008616107533863), ('FRA', 0.5492601434390911)]
+Le mail "bioinfo_2014-11_9" est globalement en : english
+[('english', 0.08996264378804487), ('french', 0.7958313615703684)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] DebianMed annual sprint in Saint Malo 31/01/15 -> 01/02/15
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	DebianMed [0] is a team of Debian, the Linux distribution, focusing on
 open source software packaging related to life sciences (medical,
 biology, bioinformatics, ..). Ubuntu is a derivative of Debian, and
 packages in Debian are available in Ubuntu distributions.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Debian already provides tons of bioinformatics (and other) packages, and
 our goal is to provide more and more software, to ease the installation,
 availability and use of those software for the final user.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	We hold this year our annual sprint in Saint Malo, France, from 31/01/15
 to 01/02/15. Our sprints are a way to collaborate on software packaging
 and Debian future.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	We welcome newcomers willing to learn Debian packaging and/or willing to
 package their bioinformatics software (open source ) to make them
 available in Debian/Ubuntu repositories. Debian developers can help you
@@ -39,33 +39,33 @@ you...). Please note that your software should be open source to be
 eligible.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	This is an informal meeting, not a conference/workshop/..., and it is
 free. Room space is limited, so if you are interested, please let us know.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	More info at:
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	https://wiki.debian.org/Sprints/2015/DebianMed2015
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	[0] http://en.wikipedia.org/wiki/Debian-Med
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	-- 
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	gpg key id: 4096R/326D8438  (keyring.debian.org)
 Key fingerprint = 5FB4 6F83 D3B9 5204 6335  D26D 78DC 68DB 326D 8438
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -73,50 +73,50 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	DebianMed [0] is a team of Debian, the Linux distribution, focusing on
 open source software packaging related to life sciences (medical,
 biology, bioinformatics, ..).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Ubuntu is a derivative of Debian, and
 packages in Debian are available in Ubuntu distributions.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Debian already provides tons of bioinformatics (and other) packages, and
 our goal is to provide more and more software, to ease the installation,
 availability and use of those software for the final user.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	We hold this year our annual sprint in Saint Malo, France, from 31/01/15
 to 01/02/15.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Our sprints are a way to collaborate on software packaging
 and Debian future.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	We welcome newcomers willing to learn Debian packaging and/or willing to
 package their bioinformatics software (open source ) to make them
 available in Debian/Ubuntu repositories.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Debian developers can help you
 during this week-end to prepare your package (help you, not do it for
 you...).
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Please note that your software should be open source to be
 eligible.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	This is an informal meeting, not a conference/workshop/..., and it is
 free.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Room space is limited, so if you are interested, please let us know.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	More info at:
 
 https://wiki.debian.org/Sprints/2015/DebianMed2015

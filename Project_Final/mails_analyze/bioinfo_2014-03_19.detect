@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_19" est globalement en : FRA
-[('FRA', 0.38708961226138777), ('ENG', 7.606715884153906)]
+Le mail "bioinfo_2014-03_19" est globalement en : french
+[('french', 0.4086879756123134), ('english', 1.311987509170202)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] biologie systémique a  ppliquée aux maladies neurodégénérati ves
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : biologie systémique appliquée aux maladies  
 neurodégénératives
 Type de poste : CDD Ingénieur
@@ -26,7 +26,7 @@ Email du contact : christian.neri@inserm.fr
 Laboratoire : CNRS UMR8256
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/biologie-syst%C3%A9mique-appliqu%C3%A9e-aux-maladies-neurod%C3%A9g%C3%A9n%C3%A9ratives
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/biologie-syst%C3%A9mique-appliqu%C3%A9e-aux-maladies-
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : biologie systémique appliquée aux maladies  

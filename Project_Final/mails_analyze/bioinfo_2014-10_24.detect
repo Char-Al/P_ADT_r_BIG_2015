@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_24" est globalement en : FRA
-[('FRA', 0.25300796811332965), ('ENG', 0.380383649850395)]
+Le mail "bioinfo_2014-10_24" est globalement en : french
+[('french', 0.347046386144696), ('english', 0.5303192097166437)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 - Prediction de ligands peptidiques du complexe majeur d'histocompatibilite par design computationnel de proteines
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 - Prediction de ligands peptidiques du complexe  
 majeur d'histocompatibilite par design computationnel de proteines
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : thomas.gaillard@polytechnique.edu
 Laboratoire : Laboratoire de Biochimie, Ecole Polytechnique
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-prediction-de-ligands-peptidiques-du-complexe-majeur-dhistocompatibilite-par-design-compu
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m2-prediction-de-ligands-peptidiques-du-complexe-maje
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 - Prediction de ligands peptidiques du complexe  

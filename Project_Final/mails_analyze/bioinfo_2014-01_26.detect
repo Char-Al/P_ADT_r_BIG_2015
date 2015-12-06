@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_26" est globalement en : FRA
-[('FRA', 0.2092017719496679), ('ENG', 1.4654534353589206)]
+Le mail "bioinfo_2014-01_26" est globalement en : french
+[('french', 0.3692224384753098), ('english', 0.6919767517637715)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Analyse comparative des transcr  iptomes de stades embryonnaires équivalents de   trois espècesd’Ascidies
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Analyse comparative des transcriptomes de stades  
 embryonnaires équivalents de trois espèces d’Ascidies
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : patrick.lemaire@crbm.cnrs.fr
 Laboratoire : CRBM - CNRS
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/analyse-comparative-des-transcriptomes-de-stades-embryonnaires-%C3%A9quivalents-de-trois-esp%C3%A8ce-0
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/analyse-comparative-des-transcriptomes-de-stades-embr
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Analyse comparative des transcriptomes de stades  

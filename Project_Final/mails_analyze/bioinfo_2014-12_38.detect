@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_38" est globalement en : FRA
-[('ENG', 0.3188910654902983), ('FRA', 0.6094035378099486)]
+Le mail "bioinfo_2014-12_38" est globalement en : french
+[('french', 0.5331516697921327), ('english', 0.6827488948467934)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Discovering cis-regulatory motifs governing miRNA regulation
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Discovering cis-regulatory motifs governing miRNA  
 regulation
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact : brehelin@lirmm.fr
 Laboratoire : LIRMM / IBC
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/discovering-cis-regulatory-motifs-governing-mirna-regulation
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/discovering-cis-regulatory-motifs-governing-mirna-reg
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Discovering cis-regulatory motifs governing miRNA  

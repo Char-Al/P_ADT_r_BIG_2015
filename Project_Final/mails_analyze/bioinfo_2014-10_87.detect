@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_87" est globalement en : FRA
-[('FRA', 0.5883092770706322), ('ENG', 10.42407603102969)]
+Le mail "bioinfo_2014-10_87" est globalement en : french
+[('french', 0.5195509830017709), ('english', 1.3050517704025544)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] modèles stochastiques pour mo  délisation de l'apoptose (ANR STOCH-MC)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : modèles stochastiques pour modélisation de l'apoptose  
 (ANR STOCH-MC)
 Type de poste : Thèse
@@ -26,7 +26,7 @@ Email du contact : bgenest@irisa.fr
 Laboratoire : IRISA
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/mod%C3%A8les-stochastiques-pour-mod%C3%A9lisation-de-lapoptose-anr-stoch-mc
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/mod%C3%A8les-stochastiques-pour-mod%C3%A9lisation-de-
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : modèles stochastiques pour modélisation de l'apoptose  

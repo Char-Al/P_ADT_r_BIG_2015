@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_2" est globalement en : FRA
-[('FRA', 0.176935323993541), ('ENG', 8.064746973144057)]
+Le mail "bioinfo_2014-11_2" est globalement en : french
+[('french', 0.2963714006502738), ('english', 1.2171931701821355)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Stage M2: Mode d’action de di  verses drogues, dont l’ivermectine , sur la P-  glycoprotéine de mammifère (ABC B1) associéeà la résistance multidrogue
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Stage M2: Mode d’action de diverses drogues, dont  
 l’ivermectine, sur la P-glycoprotéine de mammifère (ABC B1) associée à  
 la résistance multidrogue
@@ -28,7 +28,7 @@ Laboratoire : Laboratoire stress Oxydant et Detoxication,
 CEA/DSV/iBiTec-S/SB2SM/LSOD
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/stage-m2-mode-d%E2%80%99action-de-diverses-drogues-dont-l%E2%80%99ivermectine-sur-la-p-glycoprot%C3%A9ine-de-mamm
 
@@ -38,7 +38,7 @@ http://www.sfbi.fr/content/stage-m2-mode-d%E2%80%99action-de-diverses-drogues-do
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Stage M2: Mode d’action de diverses drogues, dont  

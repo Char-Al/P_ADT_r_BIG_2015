@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_60" est globalement en : FRA
-[('FRA', 0.2587951944608946), ('ENG', 5.9229560906616205)]
+Le mail "bioinfo_2014-09_60" est globalement en : french
+[('french', 0.28314836482846245), ('english', 1.0982026061122265)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Méthodes pour la détection de   variants génomiques complexes dans les donné  es de séquençage nouvelle génération
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Méthodes pour la détection de variants génomiques  
 complexes dans les données de séquençage nouvelle génération
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : claire.lemaitre@inria.fr
 Laboratoire : IRISA Genscale
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m%C3%A9thodes-pour-la-d%C3%A9tection-de-variants-g%C3%A9nomiques-complexes-dans-les-donn%C3%A9es-de-s%C3%A9quen%C3%A7age-n
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m%C3%A9thodes-pour-la-d%C3%A9tection-de-variants-g%C3
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Méthodes pour la détection de variants génomiques  

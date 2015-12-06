@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-11_35" est globalement en : FRA
-[('ENG', 0.49235685368772414), ('FRA', 0.841528361991676)]
+Le mail "bioinfo_2014-11_35" est globalement en : french
+[('french', 0.05120406681350886), ('english', 1.2552327195902508)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Stage M2 bioinfo (IRD Montpellier)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	SUJET : Stratégies bioinformatiques pour la découverte et la gestion de 
 nouvelles cibles de virulence des effecteurs de type TAL de la bactérie 
 phytopathogène Xanthomonas
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	CONTEXTE SCIENTIFIQUE
 Les effecteurs de type TAL (pour « Transcription Activator-Like ») 
 agissent dans certaines espèces comme des déterminants majeurs du 
@@ -50,7 +50,7 @@ signes de sélection ou de convergence dans les interactions « TAL-gène
 cible ».
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	REFERENCES
 Boch J, Scholze H, Schornack S, Landgraf A, Hahn S, Kay S, Lahaye T, 
 Nickstadt A, Bonas U (2009). Science 326: 1509-1512.
@@ -59,7 +59,7 @@ Pérez-Quintero, A.L., Rodriguez-R LM, Dereeper A, López C, Koebnik R,
 Szurek B, Cunnac S. (2013). PLoS One 8:e68464.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	OBJECTIFS ET MISSIONS BIOINFORMATIQUES
 L’objectif principal de ce stage est de développer une base de données 
 relationnelle (type MySQL ou autre) associée à une interface graphique 
@@ -69,7 +69,7 @@ aidera également à développer et exécuter des scripts pour enrichir et
 interroger la base de données.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	DEROULEMENT DU STAGE
 Les différentes activités bioinformatiques à entreprendre seront les 
 suivantes :
@@ -82,7 +82,7 @@ d’orthologues de gènes cibles.
 gènes différentiellement exprimés.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	FORMATION / COMPÉTENCES
 - Niveau Master 2 bioinformatique
 - Bioinformatique: analyse de séquences, bioanalyse, annotations de 
@@ -95,12 +95,12 @@ Maîtrise de l’environnement Linux.
 - Un bon niveau d’anglais est également demandé
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	DURÉE
 6 mois
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	ENCADREMENT
 Le stage se déroulera au sein de l’UMR IPME (Interaction 
 Plante-Microorganismes et Environnement), sur le site de l’IRD de 
@@ -113,24 +113,24 @@ Le stagiaire sera accueilli sur le plateau bioinformatique de l'IRD
 SouthGreen (http://southgreen.cirad.fr/).
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	CONTACTS
 Alvaro PEREZ-QUINTERO <perez-quintero.alvaro-wis@ird.fr> 07 77 60 39 84
 Boris SZUREK <boris.szurek@ird.fr> 04 67 41 62 12
 Alexis DEREEPER <alexis.dereeper@ird.fr> 04 67 41 62 28 ou 04 67 61 57 21
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	ACCUEIL
 Indemnités de stage : 437 € / mois
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	-- 
 Alexis DEREEPER
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	UMR RPB (IRD-UM2-CIRAD) Résistance des Plantes aux Bioagresseurs
 IRD - Institut de Recherche pour le Développement
 Bureau 351
@@ -140,13 +140,13 @@ BP 64501
 FRANCE
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Alexis.Dereeper@ird.fr
 tel IRD   : + 33 (0)4 67 41 61 88
 tel CIRAD : + 33 (0)4 67 61 57 21
 
 ==========================================
-Le paragraphe 14 est en : n
+Le paragraphe 14 est en : non detect
 	 
 
 
@@ -155,7 +155,7 @@ Le paragraphe 14 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	SUJET : Stratégies bioinformatiques pour la découverte et la gestion de 
 nouvelles cibles de virulence des effecteurs de type TAL de la bactérie 
 phytopathogène Xanthomonas
@@ -166,46 +166,46 @@ Les effecteurs de type TAL (pour « Transcription Activator-Like »)
 agissent dans certaines espèces comme des déterminants majeurs du 
 pouvoir pathogène des phytobactéries du genre Xanthomonas.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Les TALs 
 miment l’activité de facteurs de transcription de la plante, se fixant 
 aux régions promotrices de certains gènes de la plante hôte.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Les TALs se 
 fixent de manière spécifique aux promoteurs hôtes grâce à la présence de 
 motifs répétés de 34 acides aminés qui contiennent deux résidus 
 hypervariables appelés RVDs (« Repeat-Variable Diresidues »).
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Les RVDs 
 s’associent de manière sélective à un type de nucléotides (A, T, G ou 
 C), ce qui varie en fonction de la nature des acides aminés constituant 
 les RVDs (Boch et al., 2009; Moscou and Bogdanove, 2009).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Potentiellement, chaque souche de Xanthomonas possède une combinaison 
 unique de protéines TALs, présentant chacune des séquences de RVDs 
 distinctes et théoriquement capables de se fixer aux promoteurs d’un set 
 de gènes spécifiques.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Des études menées dans notre laboratoire ont 
 conduit au design de nouveaux algorithmes permettant la prédiction de 
 cibles de TALs dans le génome de plantes, ce qui a permis 
 l’identification de plusieurs cibles potentielles chez le Riz.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Ces 
 cibles nouvellement identifiées ont révélé l’existence de réseaux « 
 protéine TAL/gène cible », qui eux-mêmes semblent converger lorsque l’on 
 compare différents TALs provenant de différentes souches de la bactérie 
 Xanthomonas oryzae qui est pathogène sur le riz (Perez-Quintero et al.
 ==========================================
-La phrase 8 est en : n
+La phrase 8 est en : non detect
 	2013).
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Notre projet est maintenant d’exploiter plus en avant ces résultats en 
 intégrant de nouvelles données d’expression de type RNA-seq, de 
 nouvelles séquences de TALs provenant de souches de Xanthomonas encore 
@@ -213,75 +213,75 @@ inexplorées, ainsi que de nouveaux outils dédiés à l’identification de
 signes de sélection ou de convergence dans les interactions « TAL-gène 
 cible ».
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	REFERENCES
 Boch J, Scholze H, Schornack S, Landgraf A, Hahn S, Kay S, Lahaye T, 
 Nickstadt A, Bonas U (2009).
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Science 326: 1509-1512.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Moscou MJ, Bogdanove AJ (2009).
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Science 326: 1501.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Pérez-Quintero, A.L., Rodriguez-R LM, Dereeper A, López C, Koebnik R, 
 Szurek B, Cunnac S. (2013).
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	PLoS One 8:e68464.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	OBJECTIFS ET MISSIONS BIOINFORMATIQUES
 L’objectif principal de ce stage est de développer une base de données 
 relationnelle (type MySQL ou autre) associée à une interface graphique 
 pour permettre l’intégration de différents types de données issues des 
 analyses de détection de nouvelles cibles de protéines TAL.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Le stagiaire 
 aidera également à développer et exécuter des scripts pour enrichir et 
 interroger la base de données.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	DEROULEMENT DU STAGE
 Les différentes activités bioinformatiques à entreprendre seront les 
 suivantes :
 - Explorer les génomes et leurs annotations.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	- Identifier des orthologues parmi différents génomes de Riz.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	- Prédire les sites de fixation des TALs dans différents génomes de plantes.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	- Analyser les polymorphismes SNPs dans les promoteurs d’un groupe 
 d’orthologues de gènes cibles.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	- Procéder au mapping de données RNASeq sur un génome et identifier des 
 gènes différentiellement exprimés.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	FORMATION / COMPÉTENCES
 - Niveau Master 2 bioinformatique
 - Bioinformatique: analyse de séquences, bioanalyse, annotations de 
 séquences.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	La connaissance d’outils bioinformatiques pour le séquençage haut débit 
 (NGS) serait un plus.
 ==========================================
-La phrase 25 est en : FRA
+La phrase 25 est en : french
 	- Informatique : bonne connaissance du langage Perl, R.
 Bases de données relationnelles (MySQL)
 Maîtrise de l’environnement Linux.
 ==========================================
-La phrase 26 est en : FRA
+La phrase 26 est en : french
 	- Un bon niveau d’anglais est également demandé
 
 DURÉE
@@ -295,12 +295,12 @@ en biologie moléculaire et Boris Szurek, chercheur dans l’équipe «GTIPP»
 (Génomique et Transcriptomique dans Interactions Plantes-Procaryotes), 
 et d'Alexis Dereeper, bioinformaticien de l’Unité.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	Le stagiaire sera accueilli sur le plateau bioinformatique de l'IRD 
 (http://bioinfo.mpl.ird.fr/) et travaillera en lien avec la plate-forme 
 SouthGreen (http://southgreen.cirad.fr/).
 ==========================================
-La phrase 28 est en : FRA
+La phrase 28 est en : french
 	CONTACTS
 Alvaro PEREZ-QUINTERO <perez-quintero.alvaro-wis@ird.fr> 07 77 60 39 84
 Boris SZUREK <boris.szurek@ird.fr> 04 67 41 62 12

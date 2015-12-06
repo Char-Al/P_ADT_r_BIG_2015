@@ -1,82 +1,82 @@
-Le mail "bioinfo_2014-10_82" est globalement en : FRA
-[('ENG', 0.8213463218847723), ('FRA', 1.4270201882539035)]
+Le mail "bioinfo_2014-10_82" est globalement en : french
+[('french', 0.7641111669210126), ('english', 1.7650693900118464)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Workshop SeqBio 2014 inscriptions/registration
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	% in FRENCH  here, in ENGLISH below ; Sorry for multiple copies
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	le programme du workshop SeqBio portant sur l'algorithmique des séqunces 
 et leurs analyses en bioinformatique
 est en ligne sur notre site
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	http://www.gdr-bim.cnrs.fr/seqbio2014
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Horaires de début des exposés le mardi 4 nov à 10h
 Fin le mercredi 5 nov à 17h
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Ce sont les derniers jours pour l'inscription 
 http://gdr-bim.cnrs.fr/seqbio2014/?page_id=33
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	au plaisir de vous accueillir à Montpellier.
 bien cordialement
 Eric Rivals pour le comité d'organisation
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Dear All
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	the program of the worskhop SeqBio 2014 is on our website
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	http://www.gdr-bim.cnrs.fr/seqbio2014
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Starting time of the talks on Tuesday the 4th  nov at 10 am
 End on Wed  5th nov at 5 pm
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Last days for registration (free but compulsory) 
 http://gdr-bim.cnrs.fr/seqbio2014/?page_id=33
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Looking forward seeing you in Montpellier.
 Eric Rivals for the organisation committee
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	-- 
 Eric RIVALS (PhD) - rivals@lirmm.fr - www.lirmm.fr/~rivals
 CNRS Research Director & Head of GDR Bioinformatique Moléculaire
@@ -87,7 +87,7 @@ Fax. (33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 
 ==========================================
-Le paragraphe 16 est en : n
+Le paragraphe 16 est en : non detect
 	
 
 ==========================================
@@ -95,7 +95,7 @@ Le paragraphe 16 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	% in FRENCH  here, in ENGLISH below ; Sorry for multiple copies
 
 Bonjour,
@@ -114,7 +114,7 @@ http://gdr-bim.cnrs.fr/seqbio2014/?page_id=33
 
 au plaisir de vous accueillir à Montpellier.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	bien cordialement
 Eric Rivals pour le comité d'organisation
 
@@ -134,7 +134,7 @@ http://gdr-bim.cnrs.fr/seqbio2014/?page_id=33
 
 Looking forward seeing you in Montpellier.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Eric Rivals for the organisation committee
 
 -- 
@@ -144,11 +144,11 @@ LIRMM - UMR 5506 & Univ Montpellier 2 (CC 05016)
 860 rue de St Priest - 34095 Montpellier cedex 5 FRANCE
 Tel.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	(33 or 0 from France) 4 67 41 86 64
 Fax.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	(33 or 0 from France) 4 67 41 85 00
 http://www.gdr-bim.cnrs.fr
 

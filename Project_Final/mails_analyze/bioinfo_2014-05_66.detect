@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-05_66" est globalement en : FRA
-[('FRA', 0.36232175290552115), ('ENG', 20.119893558980543)]
+Le mail "bioinfo_2014-05_66" est globalement en : french
+[('french', 0.0573475634130345), ('english', 3.149168579148172)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Ouverture en mobilité d'un poste d' ingénieur d' études en bioinformatique à l'INRA (Avignon)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Dans le cadre de la campagne de mobilité des ingénieurs et techniciens 
 au titre de l'année 2015, l'INRA vient d'ouvrir un poste d'ingénieur 
@@ -19,7 +19,7 @@ d'études en bioinformatique à l'UR de Génétique et Amélioration des
 Fruits et Légumes <http://w3.avignon.inra.fr/gafl> à Avignon.
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Ce poste est ouvert :
 - aux fonctionnaires de l'INRA, qui souhaitent effectuer une mobilité 
 interne ou une réintégration en 2015
@@ -31,16 +31,16 @@ sur le site de l'INRA :
 <http://jobs.inra.fr/offers/emploi_perm/mobilite-it/?campagne=23130&intitule=concours&concours=113825>
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	La date limite de dépôt des dossiers de candidature est le 03 juillet 2014.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	J'invite les candidates et candidats intéressés à prendre contact 
 rapidement avec moi.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Jean-Paul Bouchet
 Institut National de la Recherche Agronomique - Centre de Provence Alpes 
 Côte d'Azur
@@ -51,7 +51,7 @@ Courriel : <mailto:Jean-Paul.Bouchet@avignon.inra.fr>
 Téléphone : 04 3272 2723
 
 ==========================================
-Le paragraphe 6 est en : n
+Le paragraphe 6 est en : non detect
 	
 
 ==========================================
@@ -59,14 +59,14 @@ Le paragraphe 6 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Dans le cadre de la campagne de mobilité des ingénieurs et techniciens 
 au titre de l'année 2015, l'INRA vient d'ouvrir un poste d'ingénieur 
 d'études en bioinformatique à l'UR de Génétique et Amélioration des 
 Fruits et Légumes <http://w3.avignon.inra.fr/gafl> à Avignon.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Ce poste est ouvert :
 - aux fonctionnaires de l'INRA, qui souhaitent effectuer une mobilité 
 interne ou une réintégration en 2015
@@ -79,11 +79,11 @@ sur le site de l'INRA :
 
 La date limite de dépôt des dossiers de candidature est le 03 juillet 2014.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	J'invite les candidates et candidats intéressés à prendre contact 
 rapidement avec moi.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Jean-Paul Bouchet
 Institut National de la Recherche Agronomique - Centre de Provence Alpes 
 Côte d'Azur

@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-07_21" est globalement en : FRA
-[('FRA', 1.079305255358938), ('ENG', 50.34407326357871)]
+Le mail "bioinfo_2014-07_21" est globalement en : french
+[('french', 0.07226341977935885), ('english', 1.2763970453001623)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] 2 formations bioinfo (Galaxy et Linux) à Montpellier 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Deux formations en bio-informatique auront lieu à Montpellier en Février 2015. 
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	###########################################################
 Formation 1 : Analyse bioinformatique de séquences sous Galaxy (9-13 Février 2015)
 Responsables pédagogiques : J.F. Dufayard et V. Ranwez
@@ -30,14 +30,14 @@ ii) savoir enchaîner de façon pertinente un ensemble de traitements bioinforma
 Au-delà des aspects techniques, l’accent sera mis sur le choix des outils pertinents et de leurs paramétrages pour répondre au mieux à un besoin d’analyse. Cette formation s’appuie donc sur un large panel d’intervenants spécialistes des thématiques abordées (e.g. analyse de données NGS, annotation de séquences, prédiction de structure 3D)
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	###########################################################
 Formation 2 : Automatiser des analyses génomiques grâce aux commandes Linux et à l'écriture de scripts (16-20 Février 2015)
 Responsable pédagogique : V. Ranwez
 ###########################################################
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Le système d’exploitation Linux est disponible sur de nombreux ordinateurs, il offre un ensemble de commandes textuelles très puissantes qu’il est possible d’enchainer (sous forme de « script ») pour réaliser automatiquement des tâches complexes et/ou répétitives. Les objectifs pédagogiques de cette formation sont :
 i) connaître les commandes essentielles du système Linux,
 ii) savoir les utiliser pour traiter des données génomiques,
@@ -46,13 +46,13 @@ iv) savoir écrire des scripts « simples » en « bash » (le langage de base d
 La formation vise une autonomie des stagiaires via une mise en situation lors de TP (qui constituent l’essentiel de la formation) portant sur des données/problèmes réels (e.g. manipulation de fichiers fasta, assemblage et mapping de données NGS). L’accent est mis sur les aspects techniques et la maitrise de Linux via un fort taux d’encadrement (2 ou 3 encadrants, selon les TP, pour 12 stagiaires max).
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	###########################################################
 Compléments d’informations et inscriptions
 ###########################################################
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Pour plus d’information sur ces deux formations vous pouvez consulter le site de la formation continue de Montpellier SupAgro (http://www.supagro.inra.fr, rubrique catalogue des formations). 
 Ces deux formations offrent un nombre de places limité, l’expérience montre qu’il est préférable de s’inscrire au plus tôt car nous sommes chaque année contraints de refuser des inscriptions afin de pouvoir garantir une pédagogie personnalisée à chaque inscrit.
 Pour les inscriptions ou toutes informations sur les tarifs et aspects administratifs vous pouvez contacter Y. Olivier du service formation continue de Montpellier SupAgro (olivier@supagro.inra.fr, 04.99.61.23.56). Pour plus d’information sur le contenu des formations vous pouvez contacter :
@@ -60,21 +60,21 @@ J.F. Dufayard, jean-francois.dufayard@cirad.fr pour la formation Galaxy
 et V. Ranwez, ranwez@supagro.inra.fr (04 99 61 28 75) pour la formation Linux
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Vincent Ranwez
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Professor at Montpellier SupAgro (bat 21, campus de la Gaillarde)
 web site: https://sites.google.com/site/ranwez/
 tel : +33 (0)4 99 61 28 75
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -82,34 +82,34 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 
 Deux formations en bio-informatique auront lieu à Montpellier en Février 2015.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	###########################################################
 Formation 1 : Analyse bioinformatique de séquences sous Galaxy (9-13 Février 2015)
 Responsables pédagogiques : J.F.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Dufayard et V. Ranwez
 ###########################################################
 Galaxy est un outil puissant qui permet de créer facilement des « pipelines » d’analyses à l’aide d’une représentation visuelle de ces pipelines.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Les objectifs pédagogiques de cette  formation sont :
 i) maîtriser les fonctionnalités de la plateforme bioinformatique Galaxy
 ii) savoir enchaîner de façon pertinente un ensemble de traitements bioinformatiques pour analyser des données de séquences.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Au-delà des aspects techniques, l’accent sera mis sur le choix des outils pertinents et de leurs paramétrages pour répondre au mieux à un besoin d’analyse.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Cette formation s’appuie donc sur un large panel d’intervenants spécialistes des thématiques abordées (e.g.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	analyse de données NGS, annotation de séquences, prédiction de structure 3D)
 
 
@@ -120,40 +120,40 @@ Responsable pédagogique : V. Ranwez
 
 Le système d’exploitation Linux est disponible sur de nombreux ordinateurs, il offre un ensemble de commandes textuelles très puissantes qu’il est possible d’enchainer (sous forme de « script ») pour réaliser automatiquement des tâches complexes et/ou répétitives.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Les objectifs pédagogiques de cette formation sont :
 i) connaître les commandes essentielles du système Linux,
 ii) savoir les utiliser pour traiter des données génomiques,
 iii) être capable d’utiliser un cluster de calculs pour effectuer ces traitements.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	iv) savoir écrire des scripts « simples » en « bash » (le langage de base de Linux) 
 La formation vise une autonomie des stagiaires via une mise en situation lors de TP (qui constituent l’essentiel de la formation) portant sur des données/problèmes réels (e.g.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	manipulation de fichiers fasta, assemblage et mapping de données NGS).
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	L’accent est mis sur les aspects techniques et la maitrise de Linux via un fort taux d’encadrement (2 ou 3 encadrants, selon les TP, pour 12 stagiaires max).
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	###########################################################
 Compléments d’informations et inscriptions
 ###########################################################
 
 Pour plus d’information sur ces deux formations vous pouvez consulter le site de la formation continue de Montpellier SupAgro (http://www.supagro.inra.fr, rubrique catalogue des formations).
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Ces deux formations offrent un nombre de places limité, l’expérience montre qu’il est préférable de s’inscrire au plus tôt car nous sommes chaque année contraints de refuser des inscriptions afin de pouvoir garantir une pédagogie personnalisée à chaque inscrit.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	Pour les inscriptions ou toutes informations sur les tarifs et aspects administratifs vous pouvez contacter Y. Olivier du service formation continue de Montpellier SupAgro (olivier@supagro.inra.fr, 04.99.61.23.56).
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Pour plus d’information sur le contenu des formations vous pouvez contacter :
 J.F.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	Dufayard, jean-francois.dufayard@cirad.fr pour la formation Galaxy
 et V. Ranwez, ranwez@supagro.inra.fr (04 99 61 28 75) pour la formation Linux
 

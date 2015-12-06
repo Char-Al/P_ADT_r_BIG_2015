@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_62" est globalement en : FRA
-[('FRA', 0.49043199782682906), ('ENG', 2.8111004856640958)]
+Le mail "bioinfo_2014-07_62" est globalement en : french
+[('french', 0.5055399339981477), ('english', 0.9304608675913046)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Ingénieur -bioinformaticien (ingénieurd’étude niveau 1)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur-bioinformaticien (ingénieur d’étude
 niveau 1)
 Type de poste : Post-doc / IR
@@ -27,12 +27,12 @@ Email du contact : obischof@pasteur.fr
 Laboratoire : Institut Pasteur
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-bioinformaticien-ing%C3%A9nieur-d%E2%80%99%C3%A9tude-niveau-1
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

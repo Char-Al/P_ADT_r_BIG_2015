@@ -1,18 +1,18 @@
-Le mail "bioinfo_2014-11_46" est globalement en : FRA
-[('ENG', 0.23366404871181945), ('FRA', 0.3535185557260927)]
+Le mail "bioinfo_2014-11_46" est globalement en : french
+[('french', 0.08763316153483364), ('english', 6.412238045612552)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] SOUTENANCE DE THESE - LANGAGE DE PRGRAMMATION POUR LA BIOLOGIE SYNTHETIQUE
  - ADRIEN BASSO BLANDIN
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	  Bonjour,
 j'ai le plaisir de vous inviter à ma soutenance de Thèse, intitulée 
 "Conception d’un langage dédié à la conception de fonctions biologiques 
@@ -21,7 +21,7 @@ lieu le Mardi 25 novembre 2014 à 14h30 à l'amphithéâtre du batiment
 IBGBI à Evry (à proximité de Paris)
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	laboratoire Ibisc
 Université d'Evry
 IBGBI
@@ -29,7 +29,7 @@ IBGBI
 Plan : https://www.ibisc.univ-evry.fr/acces
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Composition du jury :
 Directeur de thèse :  Franck Delaplace, Professeur au Laboratoire Ibisc.
 Rapporteur : Cédric Lhoussaine, HDR, au laboratoire LIFL
@@ -47,11 +47,11 @@ Mots-clés : Compilation, biologie de synthèse, spécification
 comportementale, langage.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Résumé :
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	La biologie de synthèse est un domaine émergent en quête d’outils afin de
 formaliser et d’automatiser la caractérisation et la conception de 
 systèmes biologiques.
@@ -64,7 +64,7 @@ composants biologiques
 capable de reproduire le comportement spécifié.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	  Gubs est un langage déclaratif que nous pouvons assimiler à un langage 
 de requêtes évolué de recherche
 de comportements décrits par un ensemble de relations causales. Associé 
@@ -78,15 +78,15 @@ qui permet de garantir formellement
 la correction de cet assemblage.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Au plaisir de vous y voir nombreux,
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Adrien Basso-Blandin
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	-- 
 Adrien Basso-Blandin, Phd Student - Computer Science &  Synthetic biology
 www.ibisc.univ-evry.fr/~abasso
@@ -94,7 +94,7 @@ IBISC Lab   -  IBGBI -  23, boulevard de France - 91037 Evry - FRANCE
 Evry Val d'Essonne University
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -102,7 +102,7 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	  Bonjour,
 j'ai le plaisir de vous inviter à ma soutenance de Thèse, intitulée 
 "Conception d’un langage dédié à la conception de fonctions biologiques 
@@ -115,13 +115,13 @@ Université d'Evry
 IBGBI
 23, Bd de France 91034 - EVRY .
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : english
 	Plan : https://www.ibisc.univ-evry.fr/acces
 
 Composition du jury :
 Directeur de thèse :  Franck Delaplace, Professeur au Laboratoire Ibisc.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Rapporteur : Cédric Lhoussaine, HDR, au laboratoire LIFL
 Rapporteur : Olivier Roux, Professeur au laboratoire IRCCyN
 Examinateur : François Fages, Directeur de recherche à l'INRIA 
@@ -136,44 +136,44 @@ de synthèse par compilation de spécifications comportementales
 Mots-clés : Compilation, biologie de synthèse, spécification 
 comportementale, langage.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Résumé :
 
 La biologie de synthèse est un domaine émergent en quête d’outils afin de
 formaliser et d’automatiser la caractérisation et la conception de 
 systèmes biologiques.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Dans ce cadre, nous proposons de définir le langage GUBS (Genetic 
 Unified Behaviour Specification)
   utilisé pour  spécifier de manière comportementale les systèmes 
 biologiques à synthétiser.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	De cette définition, le compilateur Ggc recherche un assemblage de 
 composants biologiques
 capable de reproduire le comportement spécifié.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Gubs est un langage déclaratif que nous pouvons assimiler à un langage 
 de requêtes évolué de recherche
 de comportements décrits par un ensemble de relations causales.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Associé 
 à ce langage, le  compilateur Ggc
 sélectionne automatiquement les composants  pour qu’une fois assemblés 
 leur comportement collectif "inclut"
   celui décrit.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	La compilation d’une spécification Gubs s’appuie sur le 
 principe d’ACI-Unification en utilisant
 plus généralement un schéma similaire au système de preuve automatique 
 qui permet de garantir formellement
 la correction de cet assemblage.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Au plaisir de vous y voir nombreux,
 
 Adrien Basso-Blandin

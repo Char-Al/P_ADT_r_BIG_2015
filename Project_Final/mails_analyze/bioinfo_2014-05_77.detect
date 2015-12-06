@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-05_77" est globalement en : ENG
-[('ENG', 0.3013840436386281), ('FRA', 0.9856028877262984)]
+Le mail "bioinfo_2014-05_77" est globalement en : english
+[('english', 0.04672133273002333), ('french', 0.42887550774255634)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ALLBIO training workshop - Analysing thousands of bacterial genomes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	================================================================
                    ALLBIO training workshop
           Analysing thousands of bacterial genomes:
@@ -19,38 +19,38 @@ Le paragraphe 1 est en : ENG
 ================================================================
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	ALLBIO training workshop  Marseille, June 23-25, 2014
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Practical info
 --------------
 Registration, schedule, details:
    http://www.allbioinformatics.eu/doku.php?id=public:valid-ulb
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Organizer: Jacques van Helden <Jacques.van-Helden@univ-amu.fr>
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Dates: June 23-25, 2014
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Location: Site de Luminy, 
     Aix-Marseille Université (AMU), 
     Marseille, France
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Expected participants: 20
 Cost: 0
 Registration: before June 11, 2014
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Motivation
 ----------
 Sequencing technologies allow microbiologists to sequence, for a
@@ -63,7 +63,7 @@ querying and analysing multitudes of sequenced bacterial genomes in
 parallel. 
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	This training workshop will show how to combine several specialized
 bioinformatics resources to extract information about bacterial genes
 and their annotations (Ensembl Genomes), metabolism (MICROSCOPE), and
@@ -73,7 +73,7 @@ from the massive reduction of sequencing costs resulting from Next
 Generation Sequencing.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	The course will mainly be based on user-friendly Web interfaces. It
 will also include a basic introduction about the programmatic access
 to bioinformatics resources, showing by simple and well-documented
@@ -81,21 +81,21 @@ examples how to automatize the collection of data, and extract
 information from multiple data sets.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	Target audience
 ---------------
 This course is addressed to microbiologists confronted to the need to
 use bioinformatics resources to analyse multiple genomes.
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Prerequisites
 -------------
 The course does not require any computing skills. A basic knowledge of
 the Linux environment is welcome, but not required.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Computer environment
 --------------------
 The training room is equipped with Linux computers, but participants
@@ -103,17 +103,17 @@ are welcome to bring their own laptop if they wish to work in their
 familiar environment.
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Contents
 --------
 This training course will include
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	- Short talks illustrating the functionalities offered by bioinformatics resources suited for the analysis of multiple bacterial genomes. 
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	- Practicals based on concrete study cases;
     * collecting multiple genomes from bacteria;
     * comparing annotations between different species;
@@ -126,13 +126,13 @@ Le paragraphe 16 est en : ENG
       elements.
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	- Practicals on programmatic use of the tools:
     * extracting data for multiple genomes;
     * combining data from diverse sources.
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	Teachers
 --------
 Dan Staines
@@ -141,21 +141,21 @@ Dan Staines
     http://ensemblgenomes.org/
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	François LeFevre, Eugeni Belda, Claudine Médigue
     Genoscope (CEA), France
     MICROSCOPE
     http://www.genoscope.cns.fr/agc/microscope/
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	Jacques van Helden, Denis Puthier
     Aix-Marseille Université (AMU), France
     Regulatory Sequence Analysis Tools (RSAT)
     http://www.rsat.eu/
 
 ==========================================
-Le paragraphe 21 est en : ENG
+Le paragraphe 21 est en : english
 	Funding
 -------
 This training workshop is funded by the ALLBIO project
@@ -165,7 +165,7 @@ uncovered needs for other fields than human genomics (microbial,
 plant, livestock). 
 
 ==========================================
-Le paragraphe 22 est en : n
+Le paragraphe 22 est en : non detect
 	=================================================================
 
 
@@ -174,7 +174,7 @@ Le paragraphe 22 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	================================================================
                    ALLBIO training workshop
           Analysing thousands of bacterial genomes:
@@ -209,68 +209,68 @@ moderate cost, not only the genome of their favourite species, but a
 few dozens of related species, a collection of strains, and even to
 characterize inter-individual variations.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	The Ensembl Genomes resource
 contains over 10,000 completely sequenced genomes.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	The availability of
 such data requires new bioinformatics resources suited for annotating,
 querying and analysing multitudes of sequenced bacterial genomes in
 parallel.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	This training workshop will show how to combine several specialized
 bioinformatics resources to extract information about bacterial genes
 and their annotations (Ensembl Genomes), metabolism (MICROSCOPE), and
 regulation (RSAT).
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The course will be oriented towards comparative
 genomics, and give a perspective about advances that can be expected
 from the massive reduction of sequencing costs resulting from Next
 Generation Sequencing.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The course will mainly be based on user-friendly Web interfaces.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	It
 will also include a basic introduction about the programmatic access
 to bioinformatics resources, showing by simple and well-documented
 examples how to automatize the collection of data, and extract
 information from multiple data sets.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Target audience
 ---------------
 This course is addressed to microbiologists confronted to the need to
 use bioinformatics resources to analyse multiple genomes.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Prerequisites
 -------------
 The course does not require any computing skills.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	A basic knowledge of
 the Linux environment is welcome, but not required.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Computer environment
 --------------------
 The training room is equipped with Linux computers, but participants
 are welcome to bring their own laptop if they wish to work in their
 familiar environment.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Contents
 --------
 This training course will include
 
 - Short talks illustrating the functionalities offered by bioinformatics resources suited for the analysis of multiple bacterial genomes.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	- Practicals based on concrete study cases;
     * collecting multiple genomes from bacteria;
     * comparing annotations between different species;
@@ -282,12 +282,12 @@ La phrase 13 est en : ENG
     * phylogenetic footprints: detection of conserved cis-regulatory
       elements.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	- Practicals on programmatic use of the tools:
     * extracting data for multiple genomes;
     * combining data from diverse sources.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Teachers
 --------
 Dan Staines
@@ -313,7 +313,7 @@ link between bioinformatics and biologist communities who express
 uncovered needs for other fields than human genomics (microbial,
 plant, livestock).
 ==========================================
-La phrase 16 est en : n
+La phrase 16 est en : non detect
 	=================================================================
 
 ==========================================

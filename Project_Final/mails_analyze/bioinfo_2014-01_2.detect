@@ -1,26 +1,26 @@
-Le mail "bioinfo_2014-01_2" est globalement en : FRA
-[('FRA', 0.1964265541739449), ('ENG', 12.221429797018036)]
+Le mail "bioinfo_2014-01_2" est globalement en : french
+[('french', 0.026009921647108507), ('english', 3.1235051823434095)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] 2nd appel à contributions TSI : numérospécial sur le rôle des irrégularités dans les automates cellulaires et les réseaux d'automates
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous, et tous nos meilleurs vœux pour cette nouvelle année,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Tout d'abord, nous vous prions de nous excuser pour les éventuelles 
 réceptions multiples.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Ce message détaille un second appel à contributions pour un numéro 
 spécial pour la revue française Technique et Science Informatiques
 (TSI - http://tsi.revuesonline.com) sur le thème du rôle de
@@ -31,28 +31,28 @@ disponible sur le site de la revue TSI (http://tsi.revuesonline.com,
 dans l'onglet "appel à contribution").
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Comme ce nouvel appel l'indique, la date limite de soumission a été 
 repoussée au 31 mars 2014 mais nous serions reconnaissants à tous ceux 
 qui prévoiraient de participer à ce projet de nous le signaler dès que
 possible.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Bien entendu, n'hésitez pas à nous contacter pour tout renseignement
 concernant ce projet.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Bien cordialement,
 Nazim Fatès et Sylvain Sené (les coordonnateurs)
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	----------
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	========================================================================
 =        *Appel à contributions pour un numéro spécial de TSI*         =
 =                                                                      =
@@ -65,7 +65,7 @@ Le paragraphe 8 est en : FRA
 ========================================================================
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	L'informatique jusqu'à présent s'est principalement bâtie sur le modèle
 de la machine de Turing, c'est-à-dire sur la base d'un système
 appliquant des algorithmes de manière déterministe et séquentielle sur
@@ -85,7 +85,7 @@ comprendre comment calculer sur de tels systèmes, comme dans le cas du
 calcul en milieu amorphe.
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Le but de ce numéro est avant tout de faire un tour d'horizon de cette
 thématique et de faire se rencontrer différents points de vue. Nous
 souhaitons donc regrouper les synthèses des travaux, déjà publiés ou
@@ -94,11 +94,11 @@ idées pouvant donner lieu à discussion et présentant les défis
 stimulants du domaine.
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	THÉMATIQUE
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	– Automates cellulaires probabilistes ou asynchrones, non réguliers en
 espace, etc. ;
 – Réseaux d'automates finis (réseaux booléens ou multi-valués, réseaux
@@ -108,7 +108,7 @@ de neurones formels, etc.) ;
 – Systèmes dynamiques sur graphes réguliers ou non.
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	Toute autre étude de système discret où l'irrégularité de structure
 joue un rôle central est la bienvenue. Les recherches présentées
 peuvent être analytiques ou expérimentales, mettre en avant la
@@ -118,11 +118,11 @@ d'algorithmes novateurs, notamment dans le domaine du calcul
 spatialement distribué.
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	COMITÉ DE LECTURE
 
 ==========================================
-Le paragraphe 15 est en : FRA
+Le paragraphe 15 est en : french
 	- Julio Aracena, Université de Concepción, Concepción, Chili
 - Jacques Demongeot, AGIM, Université Joseph Fourier - Grenoble 1
 - Enrico Formenti, I3S, Université de Nice - Sophia Antipolis
@@ -139,11 +139,11 @@ Le paragraphe 15 est en : FRA
 - Anne Siegel, IRISA, CNRS, Rennes
 
 ==========================================
-Le paragraphe 16 est en : FRA
+Le paragraphe 16 est en : french
 	RECOMMANDATIONS AUX AUTEURS
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	- Les soumissions doivent respecter la feuille de style de la revue,
 disponible sur le serveur http://tsi.revuesonline.com (ou sur demande
 à : tsi@lavoisier.fr).
@@ -159,19 +159,19 @@ TSI, en précisant le thème du numéro thématique et en respectant les
 consignes afférentes.
 
 ==========================================
-Le paragraphe 18 est en : n
+Le paragraphe 18 est en : non detect
 	----------
 
 ==========================================
-Le paragraphe 19 est en : n
+Le paragraphe 19 est en : non detect
 	-- 
 
 ==========================================
-Le paragraphe 20 est en : FRA
+Le paragraphe 20 est en : french
 	Sylvain Sené
 
 ==========================================
-Le paragraphe 21 est en : FRA
+Le paragraphe 21 est en : french
 	Professeur des universités
 Laboratoire d'informatique fondamentale (LIF)
 Parc scientifique et technologique de Luminy
@@ -184,13 +184,13 @@ F-13288 Marseille Cedex 9
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous, et tous nos meilleurs vœux pour cette nouvelle année,
 
 Tout d'abord, nous vous prions de nous excuser pour les éventuelles 
 réceptions multiples.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Ce message détaille un second appel à contributions pour un numéro 
 spécial pour la revue française Technique et Science Informatiques
 (TSI - http://tsi.revuesonline.com) sur le thème du rôle de
@@ -198,22 +198,22 @@ l'irrégularité dans les automates cellulaires et les réseaux
 d'automates, qui sont largement utilisés dans la modélisation de
 systèmes d'interactions biologiques.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Une version PDF de cet appel est
 disponible sur le site de la revue TSI (http://tsi.revuesonline.com,
 dans l'onglet "appel à contribution").
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Comme ce nouvel appel l'indique, la date limite de soumission a été 
 repoussée au 31 mars 2014 mais nous serions reconnaissants à tous ceux 
 qui prévoiraient de participer à ce projet de nous le signaler dès que
 possible.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Bien entendu, n'hésitez pas à nous contacter pour tout renseignement
 concernant ce projet.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Bien cordialement,
 Nazim Fatès et Sylvain Sené (les coordonnateurs)
 
@@ -236,13 +236,13 @@ de la machine de Turing, c'est-à-dire sur la base d'un système
 appliquant des algorithmes de manière déterministe et séquentielle sur
 un espace régulier.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Par contraste avec cette approche "classique", un
 autre type d'informatique s'intéresse à la compréhension des systèmes
 où les irrégularités de toutes sortes, loin d'être un obstacle à
 éviter, jouent un rôle constructif dans leur évolution.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Des exemples
 sont fournis par les automates cellulaires, les réseaux d'automates
 (réseaux booléens et réseaux multi-valués), qui sont étudiés avec un
@@ -250,7 +250,7 @@ fonctionnement asynchrone ou probabiliste et conduisent à des
 dynamiques complexes en dépit de l'utilisation de règles locales
 simples.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	On peut étudier comment les perturbations de la structure d'un
 système dynamique discret conduisent à observer des différences de
 comportement avec le système "régulier", ou alors tout simplement
@@ -258,39 +258,39 @@ partir d'un graphe irrégulier de relations entre composants pour
 comprendre comment calculer sur de tels systèmes, comme dans le cas du
 calcul en milieu amorphe.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Le but de ce numéro est avant tout de faire un tour d'horizon de cette
 thématique et de faire se rencontrer différents points de vue.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Nous
 souhaitons donc regrouper les synthèses des travaux, déjà publiés ou
 non, si possible incluant un état de l'art d'un domaine, ainsi que les
 idées pouvant donner lieu à discussion et présentant les défis
 stimulants du domaine.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	THÉMATIQUE
 
 – Automates cellulaires probabilistes ou asynchrones, non réguliers en
 espace, etc.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	;
 – Réseaux d'automates finis (réseaux booléens ou multi-valués, réseaux
 de neurones formels, etc.)
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	;
 – Systèmes multi-agents réactifs ;
 – Calcul en milieu amorphe ;
 – Systèmes dynamiques sur graphes réguliers ou non.
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Toute autre étude de système discret où l'irrégularité de structure
 joue un rôle central est la bienvenue.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Les recherches présentées
 peuvent être analytiques ou expérimentales, mettre en avant la
 modélisation de phénomènes naturels (régulation génétique, interactions
@@ -298,7 +298,7 @@ cellulaires...), les problématiques de simulation, ou la conception
 d'algorithmes novateurs, notamment dans le domaine du calcul
 spatialement distribué.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	COMITÉ DE LECTURE
 
 - Julio Aracena, Université de Concepción, Concepción, Chili
@@ -322,29 +322,29 @@ RECOMMANDATIONS AUX AUTEURS
 disponible sur le serveur http://tsi.revuesonline.com (ou sur demande
 à : tsi@lavoisier.fr).
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	- Selon la politique éditoriale de TSI, les articles de recherche (20 à
 25 pages), d'application (au plus 20 pages) ou de synthèse (au plus 30
 pages) sont acceptés.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	Ils doivent être en français, sauf si aucun des
 auteurs n'est francophone.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	- Les soumissions sont envoyées au format PDF de préférence.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	Les
 versions finales sont acceptées au format Word (ou PDF pour les
 articles faits avec Latex).
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	- Les articles doivent être soumis en ligne sur le site de la revue
 TSI, en précisant le thème du numéro thématique et en respectant les
 consignes afférentes.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	----------
 
 -- 

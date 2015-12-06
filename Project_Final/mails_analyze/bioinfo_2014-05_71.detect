@@ -1,46 +1,46 @@
-Le mail "bioinfo_2014-05_71" est globalement en : ENG
-[('ENG', 0.3546614720947426), ('FRA', 0.8244150564809766)]
+Le mail "bioinfo_2014-05_71" est globalement en : english
+[('english', 0.045112450433832794), ('french', 0.175157218388906)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Postdoctoral Position in Evolutionary Genomics (Lyon, France)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	A position is available for a highly motivated postdoctoral researcher in the group of Laurent Duret at The Laboratoire de Biométrie et Biologie Evolutive, CNRS, Université Lyon 1.
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The researcher will be involved in the comparative analysis of programmed genome rearrangements in the ciliate Paramecium. In paramecia, as in other ciliates, genome rearrangements occur during the development of the somatic macronucleus (MAC) from the germline micronucleus (MIC), in each sexual generation. Rearrangements include the precise elimination of ~45.000 single-copy Internal Eliminated Sequences (IESs), which are believed to be degenerate remnants of ancient transposable element insertions. We are sequencing MIC genomes of different strains and species of the Paramecium genus to reconstruct the evolutionary history of IESs and to test the hypothesis that polymorphisms in these elements result in sexual incompatibility.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Candidates must hold a Ph.D. in computational biology, evolutionary genetics/genomics, molecular evolution or a related field. Experience in comparative genome-wide analyses, next-gen sequencing data, and bioinformatic programming are preferred. Programming skills in either perl, python, or other languages suitable for bioinformatic analyses are required.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	This is a two-year position. The position is open immediately and the start date is negotiable (but not later than January 1st 2015).
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	To formally apply, please send the following in PDF format to Laurent Duret (Laurent.Duret@univ-lyon1.fr):
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	1. A curriculum vitae, including names of 3 referees.
 2. A brief statement describing current and future research goals
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	https://lbbe.univ-lyon1.fr/-Duret-Laurent-.html?lang=en
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	 
 ____________________________
 Laurent Duret
@@ -51,7 +51,7 @@ UMR CNRS 5558, Université Lyon 1
 France
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Phone  : +33  (0) 4 72 44 62 97
 FAX    : +33  (0) 4 72 43 13 88
 e-mail : Laurent.Duret@univ-lyon1.fr
@@ -59,7 +59,7 @@ Web page: http://lbbe.univ-lyon1.fr/-Duret-Laurent-.html?lang=en
 ________________________________
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -67,48 +67,48 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	A position is available for a highly motivated postdoctoral researcher in the group of Laurent Duret at The Laboratoire de Biométrie et Biologie Evolutive, CNRS, Université Lyon 1.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The researcher will be involved in the comparative analysis of programmed genome rearrangements in the ciliate Paramecium.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	In paramecia, as in other ciliates, genome rearrangements occur during the development of the somatic macronucleus (MAC) from the germline micronucleus (MIC), in each sexual generation.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Rearrangements include the precise elimination of ~45.000 single-copy Internal Eliminated Sequences (IESs), which are believed to be degenerate remnants of ancient transposable element insertions.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	We are sequencing MIC genomes of different strains and species of the Paramecium genus to reconstruct the evolutionary history of IESs and to test the hypothesis that polymorphisms in these elements result in sexual incompatibility.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Candidates must hold a Ph.D. in computational biology, evolutionary genetics/genomics, molecular evolution or a related field.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Experience in comparative genome-wide analyses, next-gen sequencing data, and bioinformatic programming are preferred.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Programming skills in either perl, python, or other languages suitable for bioinformatic analyses are required.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	This is a two-year position.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	The position is open immediately and the start date is negotiable (but not later than January 1st 2015).
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	To formally apply, please send the following in PDF format to Laurent Duret (Laurent.Duret@univ-lyon1.fr):
 
 1.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	A curriculum vitae, including names of 3 referees.
 ==========================================
-La phrase 13 est en : n
+La phrase 13 est en : non detect
 	2.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	A brief statement describing current and future research goals
 
 https://lbbe.univ-lyon1.fr/-Duret-Laurent-.html?lang=en

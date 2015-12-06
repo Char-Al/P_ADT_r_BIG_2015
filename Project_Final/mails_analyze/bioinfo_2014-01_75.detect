@@ -1,34 +1,34 @@
-Le mail "bioinfo_2014-01_75" est globalement en : ENG
-[('ENG', 0.257578936136973), ('FRA', 0.46939375646032055)]
+Le mail "bioinfo_2014-01_75" est globalement en : english
+[('english', 0.09713925299876698), ('french', 0.4588169809304547)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] two Post-Doctoral Research Positions in computational structural biology / structural bioinformatics (INRIA Grenoble)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Two post-doctoral research positions are open in the framework of the PEPSI (Polynomial Expansions of Protein Structures and Interactions) ANR project (http://pepsi.gforge.inria.fr) at NANO-D group of INRIA Grenoble (http://nano-d.inrialpes.fr).
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The goal of the first position is to develop an exhaustive-search FFT-based method that incorporates a very detailed knowledge-based interaction potential. This will combine the speed of FFT-accelerated techniques (which are, however, rather inaccurate) with the precision of state-of-the-art scoring functions (which are too slow otherwise). This work will be grounded on the spherical polar Fourier (SPF) correlation FFT docking algorithm developed by our collaborators (Ritchie and Kemp 2000), which operates on potentials expressed in a basis of orthogonal functions. Later, we will express the knowledge-base potential in the Cartesian basis set and utilize a polar/Cartesian FFT algorithm.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	The second position is for the development of algorithms for annotating and fitting of electron density maps. Medium resolution cryoEM electron density maps pose a challenge: at sub-nanometer resolution, α-helices become resolvable, and as the resolution improves further, β-sheets become discernible, eventually showing strand separation. In this intermediate (~5-10 Å) resolution range, tools for automatic identification and localization of secondary structure elements become quite valuable. The first task will be to use supervised learning and exhaustive search techniques to automatically identify regions inside the map that belong to different structural traits, α-helices or β-sheets. Grounded on our recently developed exhaustive–search FFT-based algorithms for fitting a structure into a density map, the second task deals with symmetry information in the formulation of the fitting problem. 
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Desired profile:
 We are looking for creative, passionate and hard-working individuals with exceptional talent for computer science and mathematics. Excellent oral, written and interpersonal communication skills are essential (working language will be English – knowledge of French is not necessary, but a plus).
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Requirements
 	Strong computer science background (knowledge of machine learning is a plus)
 	Strong knowledge of applied math (linear algebra, signal processing, Fourier analysis, polynomial expansions)
@@ -39,39 +39,39 @@ Le paragraphe 5 est en : ENG
 	Ability to work independently and with a team
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Benefits
 	Possibility of French courses
 	Help for housing
 	Scientific resident card and help to obtain visa (for both you and your spouse)
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Salary and duration:
 2,620.84 € gross/month for 18 months
 Monthly salary after taxes: around 2,138 € (medical insurance included).
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	About Grenoble:
 Grenoble is the capital city of the French Alps. Combining the urban life-style of southern France with a unique mountain setting, it is ideally situated for outdoor activities. The Grenoble area is today an important centre of industry and science (second largest in France). Dedicated to an ambitious policy in the arts, the city is host to numerous cultural institutions. With 60,000 students (including 6,000 foreign students), Grenoble is the third largest student area in France. 
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	About the NANO-D research group at INRIA:
 The NANO-D group, led by Stephane Redon at INRIA, develops novel multiscale, adaptive modeling and simulation methods, which automatically focus computational resources on the most relevant parts of the nanosystems under study. All algorithms developed by the group are gathered into SAMSON, an open-architecture software platform designed by NANO-D (SAMSON: Software for Adaptive Modeling and Simulation Of Nanosystems). 
 During the twentieth century, the development of macroscopic engineering has been largely stimulated by progress in numerical design and prototyping: cars, planes, boats, and many other manufactured objects are nowadays designed and tested on computers. Digital prototypes have progressively replaced actual ones, and effective computer-aided engineering tools have helped cut costs and reduce production cycles of these macroscopic systems.
 The twenty-first century is most likely to see a similar development at the atomic scale. Indeed, the recent years have seen tremendous progress in nanotechnology - in particular in the ability to control matter at the atomic scale. Similar to what has happened with macroscopic engineering, powerful and generic computational tools will be employed to engineer complex nanosystems, through modeling and simulation. The NANO-D group is funded through ANR grants, an ARC grant, and an ERC Starting Grant (http://nano-d.inrialpes.fr).  
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	More info:
 http://pepsi.gforge.inria.fr/open-positions/postdoctoral-position-1/
 http://pepsi.gforge.inria.fr/open-positions/postdoctoral-position-2/
 http://nano-d.inrialpes.fr/openings/
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	To apply: 
 Send an email to Sergei Grudinin (sergei.grudinin@inria.fr) with:
 	A resume
@@ -83,44 +83,44 @@ Send an email to Sergei Grudinin (sergei.grudinin@inria.fr) with:
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Two post-doctoral research positions are open in the framework of the PEPSI (Polynomial Expansions of Protein Structures and Interactions) ANR project (http://pepsi.gforge.inria.fr) at NANO-D group of INRIA Grenoble (http://nano-d.inrialpes.fr).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The goal of the first position is to develop an exhaustive-search FFT-based method that incorporates a very detailed knowledge-based interaction potential.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	This will combine the speed of FFT-accelerated techniques (which are, however, rather inaccurate) with the precision of state-of-the-art scoring functions (which are too slow otherwise).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	This work will be grounded on the spherical polar Fourier (SPF) correlation FFT docking algorithm developed by our collaborators (Ritchie and Kemp 2000), which operates on potentials expressed in a basis of orthogonal functions.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Later, we will express the knowledge-base potential in the Cartesian basis set and utilize a polar/Cartesian FFT algorithm.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The second position is for the development of algorithms for annotating and fitting of electron density maps.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Medium resolution cryoEM electron density maps pose a challenge: at sub-nanometer resolution, α-helices become resolvable, and as the resolution improves further, β-sheets become discernible, eventually showing strand separation.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	In this intermediate (~5-10 Å) resolution range, tools for automatic identification and localization of secondary structure elements become quite valuable.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	The first task will be to use supervised learning and exhaustive search techniques to automatically identify regions inside the map that belong to different structural traits, α-helices or β-sheets.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Grounded on our recently developed exhaustive–search FFT-based algorithms for fitting a structure into a density map, the second task deals with symmetry information in the formulation of the fitting problem.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Desired profile:
 We are looking for creative, passionate and hard-working individuals with exceptional talent for computer science and mathematics.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Excellent oral, written and interpersonal communication skills are essential (working language will be English – knowledge of French is not necessary, but a plus).
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Requirements
 	Strong computer science background (knowledge of machine learning is a plus)
 	Strong knowledge of applied math (linear algebra, signal processing, Fourier analysis, polynomial expansions)
@@ -139,48 +139,48 @@ Salary and duration:
 2,620.84 € gross/month for 18 months
 Monthly salary after taxes: around 2,138 € (medical insurance included).
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	About Grenoble:
 Grenoble is the capital city of the French Alps.
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	Combining the urban life-style of southern France with a unique mountain setting, it is ideally situated for outdoor activities.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	The Grenoble area is today an important centre of industry and science (second largest in France).
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	Dedicated to an ambitious policy in the arts, the city is host to numerous cultural institutions.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	With 60,000 students (including 6,000 foreign students), Grenoble is the third largest student area in France.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	About the NANO-D research group at INRIA:
 The NANO-D group, led by Stephane Redon at INRIA, develops novel multiscale, adaptive modeling and simulation methods, which automatically focus computational resources on the most relevant parts of the nanosystems under study.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	All algorithms developed by the group are gathered into SAMSON, an open-architecture software platform designed by NANO-D (SAMSON: Software for Adaptive Modeling and Simulation Of Nanosystems).
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	During the twentieth century, the development of macroscopic engineering has been largely stimulated by progress in numerical design and prototyping: cars, planes, boats, and many other manufactured objects are nowadays designed and tested on computers.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	Digital prototypes have progressively replaced actual ones, and effective computer-aided engineering tools have helped cut costs and reduce production cycles of these macroscopic systems.
 ==========================================
-La phrase 23 est en : ENG
+La phrase 23 est en : english
 	The twenty-first century is most likely to see a similar development at the atomic scale.
 ==========================================
-La phrase 24 est en : ENG
+La phrase 24 est en : english
 	Indeed, the recent years have seen tremendous progress in nanotechnology - in particular in the ability to control matter at the atomic scale.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	Similar to what has happened with macroscopic engineering, powerful and generic computational tools will be employed to engineer complex nanosystems, through modeling and simulation.
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	The NANO-D group is funded through ANR grants, an ARC grant, and an ERC Starting Grant (http://nano-d.inrialpes.fr).
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	More info:
 http://pepsi.gforge.inria.fr/open-positions/postdoctoral-position-1/
 http://pepsi.gforge.inria.fr/open-positions/postdoctoral-position-2/

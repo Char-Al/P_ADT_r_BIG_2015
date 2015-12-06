@@ -1,34 +1,34 @@
-Le mail "bioinfo_2014-10_40" est globalement en : FRA
-[('FRA', 1.4214537730457548), ('ENG', 80.04981198642295)]
+Le mail "bioinfo_2014-10_40" est globalement en : french
+[('french', 0.10317509459235921), ('english', 1.794635430249738)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] infos congrès SFB2014 àGuéthary du 10-13 novembre
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Chers collègues,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Merci de prendre note des informations ci-dessous relatives au 
 prochain congrès de la Société Française de Biophysique qui aura 
 lieu à Guéthary du 10 au 13 novembre (http://sfb2014.sciencesconf.org/):
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	- la date limite pour vous inscrire sans supplément et soumettre 
 un résumé pour une contribution affichée ou orale est repoussée au 
 15 Octobre, c'est à dire aujourd'hui :))
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	- le programme des conférences invitées ci-dessous n'attend plus qu'à 
 être complété par vos contributions! 
 Pour les bio-informaticiens et modélisateurs en particulier il y aura 
@@ -36,7 +36,7 @@ Syma Khalid et très certainement Toby Allen (information encore
 officieuse), tous deux orateurs de premier renom.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	- le centre de Guéthary peut accueillir les participants dès le 
 dimanche 9 novembre (les habitations seront disponibles à partir 
 de 16h) en demi-pension (dîner, nuit et petit-déjeûner) au tarif de 
@@ -45,13 +45,13 @@ ou pour toute demande particulière relative à votre séjour,
 contacter Laurence Salomé par mail à laurence.salome@ipbs.fr.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Au plaisir de vous retrouver à Guéthary,
 Pour le comité scientifique,
   Marc Baaden
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Programme
 R Phillips: The Other Bohr and Biology's Greatest Model
  
@@ -89,21 +89,21 @@ P Schultz: Structure, function and assembly of the TFIID and SAGA
 Round table "Physicists meet biologists"
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	A Bancaud: Investigation of chromosome structure in living yeast by 
            fluorescence microscopy
 J-F Berret: Particles and nanowires in interaction with living cells: 
             from fundamentals to applications
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	-- 
  Dr. Marc Baaden  - Institut de Biologie Physico-Chimique, Paris
  mailto:baaden@smplinux.de      -      http://www.baaden.ibpc.fr
  FAX: +33 15841 5026  -  Tel: +33 15841 5176  ou  +33 609 843217
 
 ==========================================
-Le paragraphe 10 est en : n
+Le paragraphe 10 est en : non detect
 	
 
 ==========================================
@@ -111,7 +111,7 @@ Le paragraphe 10 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Chers collègues,
 
@@ -126,23 +126,23 @@ un résumé pour une contribution affichée ou orale est repoussée au
 - le programme des conférences invitées ci-dessous n'attend plus qu'à 
 être complété par vos contributions!
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Pour les bio-informaticiens et modélisateurs en particulier il y aura 
 Syma Khalid et très certainement Toby Allen (information encore 
 officieuse), tous deux orateurs de premier renom.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	- le centre de Guéthary peut accueillir les participants dès le 
 dimanche 9 novembre (les habitations seront disponibles à partir 
 de 16h) en demi-pension (dîner, nuit et petit-déjeûner) au tarif de 
 62 euro en chambre double et 74 euro en single.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Pour en bénéficier 
 ou pour toute demande particulière relative à votre séjour, 
 contacter Laurence Salomé par mail à laurence.salome@ipbs.fr.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Au plaisir de vous retrouver à Guéthary,
 Pour le comité scientifique,
   Marc Baaden

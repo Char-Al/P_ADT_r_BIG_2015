@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_49" est globalement en : FRA
-[('FRA', 0.31255444277468053), ('ENG', 3.424376162497722)]
+Le mail "bioinfo_2014-11_49" est globalement en : french
+[('french', 0.4637664470933664), ('english', 1.9881704330884873)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2, classification de séquence  s en métagénomique virale
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2, classification de séquences en métagénomique  
 virale
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : macha@labri.fr
 Laboratoire : Centre de Bioinformatique de Bordeaux (CBiB)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-classification-de-s%C3%A9quences-en-m%C3%A9tag%C3%A9nomique-virale
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m2-classification-de-s%C3%A9quences-en-m%C3%A9tag%C3%
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2, classification de séquences en métagénomique  

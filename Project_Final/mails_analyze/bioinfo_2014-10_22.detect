@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_22" est globalement en : FRA
-[('FRA', 0.30647706023998456), ('ENG', 7.1901591566549365)]
+Le mail "bioinfo_2014-10_22" est globalement en : french
+[('french', 0.4242268071239073), ('english', 1.2267902636714982)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] IntégrationSémantiq  ue de bases de donnéesvégétales nationales
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Intégration Sémantique de bases de données  
 végétales nationales
 Type de poste : CDD Ingénieur
@@ -26,7 +26,7 @@ Email du contact : manuel.ruiz@cirad.fr
 Laboratoire : UMR AGAP et IBC
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/int%C3%A9gration-s%C3%A9mantique-de-bases-de-donn%C3%A9es-v%C3%A9g%C3%A9tales-nationales
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/int%C3%A9gration-s%C3%A9mantique-de-bases-de-donn%C3%
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Intégration Sémantique de bases de données  

@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-04_41" est globalement en : ENG
-[('ENG', 0.17950885633226246), ('FRA', 0.37066900047521806)]
+Le mail "bioinfo_2014-04_41" est globalement en : english
+[('english', 0.05477185936554925), ('french', 0.4998559395441206)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] PhD position at INRIA Grenoble – DEVELOPMENT OF NOVEL ALGORITHMS FOR STRUCTURE-BASED DRUG DESIGN
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	PhD position at INRIA Grenoble - Rhône-Alpes, France
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	DEVELOPMENT OF NOVEL ALGORITHMS FOR STRUCTURE-BASED DRUG DESIGN
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	In the context of the INRIA 2014 recruitment campaign, a PhD position in the field of computational drug design is proposed at INRIA Grenoble, France.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The overall subject of the PhD is to extend the state-of-the art methods for accurate modelling of protein–drug interactions. The PhD project will be conducted in the NANO-D team, which is funded through national, regional, and a European ERC Starting Grant (http://nano-d.inrialpes.fr). Algorithms developed during the project will be distributed with the SAMSON software platform created in the team.
 The project consists in several tasks : 
 * development of a reliable potential function for flexible drugs 
@@ -31,7 +31,7 @@ The project consists in several tasks :
 * applying motion-planning methods to enhance efficiency of global search algorithms for protein–drug docking
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Candidates should posses 
 * Strong computer science background
 * Strong knowledge of applied math and physics
@@ -40,22 +40,22 @@ Le paragraphe 5 est en : ENG
 * Ability to work independently and with a team
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Application deadline is 04/05/2014. Applications must be submitted via the official INRIA online system, see http://www.inria.fr/institut/recrutement-metiers/offres/theses/campagne-2014 for the procedure as well as for eligibility, salary, and other information.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Detailed project description can be found at 
 https://www.inria.fr/en/institute/recruitment/offers/phd/campaign-2014/(view)/details.html?nPostingTargetID=14430
 and
 http://nano-d.inrialpes.fr/openings/
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	For more information, please contact Sergei Grudinin, sergei.grudinin@inria.fr.
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -63,23 +63,23 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	PhD position at INRIA Grenoble - Rhône-Alpes, France
 
 DEVELOPMENT OF NOVEL ALGORITHMS FOR STRUCTURE-BASED DRUG DESIGN
 
 In the context of the INRIA 2014 recruitment campaign, a PhD position in the field of computational drug design is proposed at INRIA Grenoble, France.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The overall subject of the PhD is to extend the state-of-the art methods for accurate modelling of protein–drug interactions.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The PhD project will be conducted in the NANO-D team, which is funded through national, regional, and a European ERC Starting Grant (http://nano-d.inrialpes.fr).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Algorithms developed during the project will be distributed with the SAMSON software platform created in the team.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The project consists in several tasks : 
 * development of a reliable potential function for flexible drugs 
 * development of new algorithms to explore the conformational space of flexible drugs 
@@ -94,10 +94,10 @@ Candidates should posses
 
 Application deadline is 04/05/2014.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Applications must be submitted via the official INRIA online system, see http://www.inria.fr/institut/recrutement-metiers/offres/theses/campagne-2014 for the procedure as well as for eligibility, salary, and other information.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Detailed project description can be found at 
 https://www.inria.fr/en/institute/recruitment/offers/phd/campaign-2014/(view)/details.html?nPostingTargetID=14430
 and

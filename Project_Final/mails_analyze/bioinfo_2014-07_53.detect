@@ -1,23 +1,23 @@
-Le mail "bioinfo_2014-07_53" est globalement en : FRA
-[('ENG', 0.140730296599657), ('FRA', 0.2624930225351865)]
+Le mail "bioinfo_2014-07_53" est globalement en : french
+[('french', 0.3636831756364228), ('english', 0.6469769350056277)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Genetic and nutritional influences on the
  root architecture of Brassicaceae species
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Genetic and nutritional influences on the root
 architecture of Brassicaceae species
 Type de poste : Post-doc / IR
@@ -28,12 +28,12 @@ Email du contact : chermans@ulb.ac.be
 Laboratoire : Physiologie et Génétique moléculaire des Plantes
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/genetic-and-nutritional-influences-root-architecture-brassicaceae-species
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -41,7 +41,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

@@ -1,52 +1,52 @@
-Le mail "bioinfo_2014-06_24" est globalement en : ENG
-[('ENG', 0.2769576405058206), ('FRA', 0.551020570390795)]
+Le mail "bioinfo_2014-06_24" est globalement en : english
+[('english', 0.0357973381517985), ('french', 0.8565547151614624)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Computational Models in Biology and Medicine, September 18th/19th, Cologne
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Dear colleagues,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	we are glad to announce the 2014 GMDS/IBS workshop on
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Computational Models in Biology and Medicine
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The workshop will take place in Cologne, on September 18th/19th.  The GMDS/IBS workshop has established itself as an international forum for researchers from bioinformatics, biostatistics and systems biology, who share a common interest in the statistical analysis and modeling of biological systems and their applications in medical research. The conference is free of charge, and participants are encouraged to contribute posters or talks to one of the topics:
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	- Cancer Genomics 
 - Transcription Regulation
 - Dynamic Modeling
 - High Throughput Sequencing
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	You will find further information on our conference website (http://www.treschgroup.de/GMDS2014cologne.html).
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Looking forward to seeing you in Cologne!
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	The organising committee
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Achim Tresch, Andreas Beyer, Holger Fröhlich, Ingmar Glauche, Julien Gagneur, Nicole Radde, Simon Anders, Tim Beissbarth
 
 ==========================================
@@ -54,7 +54,7 @@ Le paragraphe 9 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear colleagues,
 
 we are glad to announce the 2014 GMDS/IBS workshop on
@@ -63,10 +63,10 @@ Computational Models in Biology and Medicine
 
 The workshop will take place in Cologne, on September 18th/19th.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The GMDS/IBS workshop has established itself as an international forum for researchers from bioinformatics, biostatistics and systems biology, who share a common interest in the statistical analysis and modeling of biological systems and their applications in medical research.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The conference is free of charge, and participants are encouraged to contribute posters or talks to one of the topics:
 
 - Cancer Genomics 
@@ -76,10 +76,10 @@ La phrase 3 est en : ENG
 
 You will find further information on our conference website (http://www.treschgroup.de/GMDS2014cologne.html).
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Looking forward to seeing you in Cologne!
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The organising committee
 
 Achim Tresch, Andreas Beyer, Holger Fröhlich, Ingmar Glauche, Julien Gagneur, Nicole Radde, Simon Anders, Tim Beissbarth

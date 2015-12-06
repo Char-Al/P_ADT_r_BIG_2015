@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-01_62" est globalement en : FRA
-[('FRA', 0.7824949793388352), ('ENG', 162.98131996762967)]
+Le mail "bioinfo_2014-01_62" est globalement en : french
+[('french', 0.07887863911724857), ('english', 4.3285356026854815)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] M1/M2 stages à Montpellier
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	M1/M2 stages à Montpellier
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Sujet : Annotation structurale et fonctionnelle du protéomes.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	L'augmentation de la masse de données génomiques disponibles pose de 
 nouveaux défis aux chercheurs : identifier les fonctions moléculaires et 
 cellulaires des millions de séquences protéiques séquencées à ce jour 
@@ -31,23 +31,23 @@ développement de nouveaux algorithmes et outils informatiques pour
 mettre en place la chaîne de traitement complexe nécessaire à ces analyses.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Ces stages se feront en collaboration avec l'Institut de Biologie 
 Computationnelle (IBC http://www.ibc-montpellier.fr/).
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Compétences requises : programmation, algorithmique.  Des connaissances 
 en biologie et/ou statistique sont un plus.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Les candidatures (CV et lettre de motivation) sont à envoyer en format 
 électronique à:
 Andrey Kajava (andrey.kajava@crbm.cnrs.fr)
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Dr. Andrey Kajava
 Directeur de Recherche
 Equipe : Bioinformatique structurale et modélisation moléculaire
@@ -65,39 +65,39 @@ http://bioinfo.montp.cnrs.fr/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	M1/M2 stages à Montpellier
 
 Sujet : Annotation structurale et fonctionnelle du protéomes.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	L'augmentation de la masse de données génomiques disponibles pose de 
 nouveaux défis aux chercheurs : identifier les fonctions moléculaires et 
 cellulaires des millions de séquences protéiques séquencées à ce jour 
 nécessite de mettre en place des approches automatisées basées sur 
 l'analyse de séquence, la structure 3D, l'histoire évolutive, etc.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Aujourd'hui, les capacités de séquençage surpassent de loin les 
 capacités à analyser ces données.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Notre projet a pour objectif le 
 développement de nouveaux algorithmes et outils informatiques pour 
 mettre en place la chaîne de traitement complexe nécessaire à ces analyses.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Ces stages se feront en collaboration avec l'Institut de Biologie 
 Computationnelle (IBC http://www.ibc-montpellier.fr/).
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Compétences requises : programmation, algorithmique.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Des connaissances 
 en biologie et/ou statistique sont un plus.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Les candidatures (CV et lettre de motivation) sont à envoyer en format 
 électronique à:
 Andrey Kajava (andrey.kajava@crbm.cnrs.fr)

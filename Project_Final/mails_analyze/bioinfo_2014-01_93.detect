@@ -1,30 +1,30 @@
-Le mail "bioinfo_2014-01_93" est globalement en : ENG
-[('ENG', 0.3496596053470612), ('FRA', 0.530371142498108)]
+Le mail "bioinfo_2014-01_93" est globalement en : english
+[('english', 0.058400191558737255), ('french', 0.18326156105922595)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Permanent research position in Biomedical Knowledge Extraction from
  Text, INRA France 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	pourrez-vous diffuser l'annonce de poste ci-dessous ? Merci beaucoup,
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Claire Nédellec
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	----------------------
 Permanent Research Position in Biomedical Knowledge Extraction from Text
 in Bibliome team (MIG lab. INRA)
@@ -33,7 +33,7 @@ Application deadline: March, 3 2014
 -------------------------
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Bibliome research team in MIG laboratory (Mathematics, Informatics and 
 Genome) at INRA (French Institute for Agronomic Research) has an open 
 permanent position for a junior researcher in Knowledge Extraction from 
@@ -43,7 +43,7 @@ This is a permanent position as a public servant for the French State.
 The benefit package includes health and retirement insurance.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Bibliome group designs methods for the acquisition and the annotation of 
 semantic knowledge from scientific documents for Information Extraction 
 (e.g. genic interactions), Information Retrieval (e.g. semantic search) 
@@ -53,7 +53,7 @@ all steps of the linguistic analysis by NLP methods and the Knowledge
 Acquisition by Machine Learning.
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Ideal candidates should have a PhD in Artificial Intelligence and should 
 have several years of experience in Information Extraction (doctoral or 
 post-doctoral) for Knowledge Acquisition with a strong focus on Natural 
@@ -62,7 +62,7 @@ parsing, semantic role labeling), and Machine Learning for NLP (e.g.
 distributional semantics, dependency path kernel).
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	The applicant should have experience in programming and be comfortable 
 in Linux environment. Experiences of applied research to Life Science is 
 an asset.  Prior experience in collecting and integrating linguistic 
@@ -70,12 +70,12 @@ ressources (corpora and lexicon) and tools into pipelines represents an
 advantage. An advanced level of English (oral and written) is an asset.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Applications will be accepted until 3 March 2014.
 The starting date will be September-October 2014.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Interested candidates should contact
 - Claire Nédellec (head of Bibliome research team) for scientific questions
 by email: claire.nedellec@jouy.inra.fr
@@ -83,22 +83,22 @@ by email: claire.nedellec@jouy.inra.fr
 any other question.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	* Description of the position at INRA website:
 http://jobs.inra.fr/en/offers/emploi_perm/open-competitions/cr2/?concours=24348&campagne=23129&domaine=&region=&corps=&entite_rattachement=MIA%20Applied%20mathematics%20and%20informatics&discipline=Informatics%20and%20artificial%20intelligence&annonce=14111&annonce_id=0#annonce
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	* Instructions for application (Guide for Candidates): 
 http://jobs.inra.fr/eng/offers/emploi_perm/open-competitions/cr2/?campagne=23129&intitule=open+competitions&concours=24348 
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	* Bibliome team website: http://bibliome.jouy.inra.fr/index.en.html
 --------------------
 
 ==========================================
-Le paragraphe 14 est en : n
+Le paragraphe 14 est en : non detect
 	
 
 ==========================================
@@ -106,12 +106,12 @@ Le paragraphe 14 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Bonjour,
 
 pourrez-vous diffuser l'annonce de poste ci-dessous ?
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Merci beaucoup,
 
 Claire Nédellec
@@ -120,7 +120,7 @@ Claire Nédellec
 Permanent Research Position in Biomedical Knowledge Extraction from Text
 in Bibliome team (MIG lab.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	INRA)
 Near Paris, France
 Application deadline: March, 3 2014
@@ -131,80 +131,80 @@ Genome) at INRA (French Institute for Agronomic Research) has an open
 permanent position for a junior researcher in Knowledge Extraction from 
 texts in Biology.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Bibliome is located in INRA research center in 
 Jouy-en-Josas, near Paris in France.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	This is a permanent position as a public servant for the French State.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The benefit package includes health and retirement insurance.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Bibliome group designs methods for the acquisition and the annotation of 
 semantic knowledge from scientific documents for Information Extraction 
 (e.g.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	genic interactions), Information Retrieval (e.g.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	semantic search) 
 and Terminology and Ontology building.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	It has been pioneer in the field 
 of Information Extraction for Molecular Biology.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	Its expertise covers 
 all steps of the linguistic analysis by NLP methods and the Knowledge 
 Acquisition by Machine Learning.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	Ideal candidates should have a PhD in Artificial Intelligence and should 
 have several years of experience in Information Extraction (doctoral or 
 post-doctoral) for Knowledge Acquisition with a strong focus on Natural 
 Language Processing (e.g.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	term and relation extraction, dependency 
 parsing, semantic role labeling), and Machine Learning for NLP (e.g.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	distributional semantics, dependency path kernel).
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : french
 	The applicant should have experience in programming and be comfortable 
 in Linux environment.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Experiences of applied research to Life Science is 
 an asset.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	Prior experience in collecting and integrating linguistic 
 ressources (corpora and lexicon) and tools into pipelines represents an 
 advantage.
 ==========================================
-La phrase 18 est en : ENG
+La phrase 18 est en : english
 	An advanced level of English (oral and written) is an asset.
 ==========================================
-La phrase 19 est en : ENG
+La phrase 19 est en : english
 	Applications will be accepted until 3 March 2014.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	The starting date will be September-October 2014.
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	Interested candidates should contact
 - Claire Nédellec (head of Bibliome research team) for scientific questions
 by email: claire.nedellec@jouy.inra.fr
 - INRA Human Resource Service at concours_chercheurs@paris.inra.fr for 
 any other question.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	* Description of the position at INRA website:
 http://jobs.inra.fr/en/offers/emploi_perm/open-competitions/cr2/?concours=24348&campagne=23129&domaine=&region=&corps=&entite_rattachement=MIA%20Applied%20mathematics%20and%20informatics&discipline=Informatics%20and%20artificial%20intelligence&annonce=14111&annonce_id=0#annonce
 

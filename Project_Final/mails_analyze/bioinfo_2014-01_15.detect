@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_15" est globalement en : FRA
-[('FRA', 0.16079631525703675), ('ENG', 0.24347677199175172)]
+Le mail "bioinfo_2014-01_15" est globalement en : french
+[('french', 0.4283285982758021), ('english', 0.7716640971896517)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDI autre] RESPONSABLE DU PLATEAU TECHNIQUE STOCKAGE DE DONNEES ET CALCUL INTENSIF
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : RESPONSABLE DU PLATEAU TECHNIQUE STOCKAGE DE DONNEES ET  
 CALCUL INTENSIF
 Type de poste : CDI autre
@@ -26,7 +26,7 @@ Email du contact : julie.dumontet@bioaster.org
 Laboratoire : BIOASTER
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/responsable-du-plateau-technique-stockage-de-donnees-et-calcul-intensif
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/responsable-du-plateau-technique-stockage-de-donnees-
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : RESPONSABLE DU PLATEAU TECHNIQUE STOCKAGE DE DONNEES ET  

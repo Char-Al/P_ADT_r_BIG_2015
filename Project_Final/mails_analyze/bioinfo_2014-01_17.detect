@@ -1,57 +1,57 @@
-Le mail "bioinfo_2014-01_17" est globalement en : ENG
-[('FRA', 0.3692924525236158), ('ENG', 36.72948700782685)]
+Le mail "bioinfo_2014-01_17" est globalement en : english
+[('english', 0.08110238058977125), ('french', 0.29407529676925237)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Stage Master ou CDD - 3 à 6 mois - Text Mining et Life Sciences - Paris
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	6 month Internship or 3 - 6 months contract ("CDD") - Life Science Text Mining Analyst at TEMIS France
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	TEMIS is a leading provider of Text Mining solutions in various fields (life sciences, competitive intelligence, events, sentiment analysis). With a view to strengthen consulting activities in the life sciences field, TEMIS has opened a 3 - 6 months position in the Professional Services department.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Main responsibilities will cover:
 - Identify and analyze public available data sources relevant for scientific research questions
 - Identify and model the underlying biological and medical concepts
 - Define use cases in the life sciences field where Text Mining technologies can bring added value
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Skills, Knowledge and Experience:
 - Fluent English
 - Good knowledge and understanding of biological and medical concepts
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	- Skills in Text Mining, Semantic web standards and technologies would be a plus.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Location:
 207, rue de Bercy, 75012 Paris
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	Duration:
 3 - 6 months
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	Monthly Indemnity:
 To be defined
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Please send CV and cover letter to ursula.vonrekowski[at]temis.com
 
 
@@ -60,15 +60,15 @@ Le paragraphe 9 est en : ENG
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	6 month Internship or 3 - 6 months contract ("CDD") - Life Science Text Mining Analyst at TEMIS France
 
 TEMIS is a leading provider of Text Mining solutions in various fields (life sciences, competitive intelligence, events, sentiment analysis).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	With a view to strengthen consulting activities in the life sciences field, TEMIS has opened a 3 - 6 months position in the Professional Services department.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Main responsibilities will cover:
 - Identify and analyze public available data sources relevant for scientific research questions
 - Identify and model the underlying biological and medical concepts
@@ -81,7 +81,7 @@ Skills, Knowledge and Experience:
 
 - Skills in Text Mining, Semantic web standards and technologies would be a plus.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Location:
 207, rue de Bercy, 75012 Paris
 

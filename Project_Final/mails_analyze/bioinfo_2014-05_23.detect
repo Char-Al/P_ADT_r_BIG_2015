@@ -1,11 +1,11 @@
-Le mail "bioinfo_2014-05_23" est globalement en : FRA
-[('ENG', 0.19597712529013683), ('FRA', 0.31414269163433256)]
+Le mail "bioinfo_2014-05_23" est globalement en : french
+[('french', 0.38041879725934663), ('english', 0.5144130183756856)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position : Large-scale analysis
  of the epigenome in a mouse model of combined nutritional and psycho-social
  stress
@@ -13,12 +13,12 @@ Subject : [bioinfo] [Emploi][Post-doc / IR] Post-doctoral position : Large-scale
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Post-doctoral position : Large-scale analysis of the
 epigenome in a mouse model of combined nutritional and psycho-social stress
 Type de poste : Post-doc / IR
@@ -29,12 +29,12 @@ Email du contact : anne.gabory@jouy.inra.fr
 Laboratoire : Unité Biologie du Développement et Reproduction
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/post-doctoral-position-large-scale-analysis-epigenome-mouse-model-combined-nutritional-and-p
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -42,7 +42,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

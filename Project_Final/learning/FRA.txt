@@ -1223,3 +1223,570 @@ Voici un exemple de tâches et débouchés réalisés par plusieurs étudiants e
     Adaptation de technologies informatiques au domaine de la biologie
     Création, entretien et développement d'entrepôts de données
     Tour guidé pour une introduction à la bio-informatique, conçu par SIB Institut Suisse de Bioinformatique
+
+Biologie
+Page d'aide sur l'homonymie Pour les articles homonymes, voir Bio.
+
+La biologie est la science du vivant. Prise au sens large de science du vivant elle recouvre une partie des sciences de la nature et de l'histoire naturelle des êtres vivants (ou ayant vécu). Toutefois la distinction entre organismes vivants et non vivants est parfois difficile et la détermination de l'objet spécifique de la biologie n'a rien d'évident.
+
+La vie se présente sous tellement de formes et à des échelles si différentes que la biologie couvre un très large spectre, qui va du niveau moléculaire, en passant par celui de la cellule, puis de l'organisme, jusqu'au niveau de la population et de l'écosystème. Ces différents niveaux montrent que le domaine du vivant est fortement hiérarchisé et au fur et à mesure que la biologie progresse, elle se spécialise en de multiples domaines, tous plus ou moins liés aux autres(...)
+
+Sommaire
+
+    1 Étymologie
+    2 Histoire
+    3 Principes fondateurs
+        3.1 Définition de l'objet
+        3.2 Évolution
+        3.3 Diversité
+        3.4 Universalité
+    4 Domaines d'études
+        4.1 Structure du vivant
+        4.2 Anatomie et physiologie
+        4.3 Diversité et évolution
+        4.4 Interactions
+        4.5 Niveaux d'observation et disciplines
+    5 Applications
+    6 Impacts sur la société
+    7 Notes et références
+    8 Voir aussi
+        8.1 Articles connexes
+        8.2 Bibliographie
+            8.2.1 Introduction à la biologie : dictionnaire, traité, présentation générale, réflexion
+            8.2.2 Botanique
+            8.2.3 Espèces animales
+            8.2.4 Écologie et milieux
+            8.2.5 Biogéographie et culture botanique
+            8.2.6 Initiation à la biophysique et biologie humaine
+            8.2.7 Histoire de la biologie
+            8.2.8 La biologie, source de débats contemporains
+        8.3 Lien externe
+
+Étymologie
+Portrait de Jean-Baptiste Lamarck, 1893.
+
+Le terme biologie est formé par la composition des deux mots grecs bios (βιος) en français « vie » et logos (λογος) qui signifie « discours, parole »1,2.
+
+Ce néologisme est créé à la fin du XVIIIe siècle et au début du XIXe siècle et de façon indépendante :
+
+    en allemand par Theodor Georg August Roose en 17973, Karl Friedrich Burdach en 1800 et Gottfried Reinhold Treviranus dans son ouvrage Biologie oder Philosophie der lebenden Natur, publié à Göttingen en 1802 ;
+    en français par le naturaliste français Jean-Baptiste de Lamarck dans ses Recherches sur l’organisation des corps vivants en 1802 :
+
+    « Tout ce qui est généralement commun aux végétaux et aux animaux comme toutes les facultés qui sont propres à chacun de ces êtres sans exception, doit constituer l'unique et vaste objet d'une science particulière qui n'est pas encore fondée, qui n'a même pas de nom, et à laquelle je donnerai le nom de biologie. »
+
+Chez Lamarck on trouve, pour la première fois, une conception de l'être vivant qui reconnaît son originalité comparativement aux objets inanimés sans pour autant la faire déroger aux lois de la physique, contrairement à ce qu'avaient tendance à faire les vitalistes et les fixistes.
+
+Le même Lamarck, bien avant de donner des cours de biologie en 1819, sépare dans son ouvrage Hydrogéologie, paru également en 1802, la physique terrestre en trois parties :
+
+    la météorologie (étude de l'atmosphère) ;
+    l'hydrogéologie (étude de la croûte minérale) ;
+    la biologie (étude des corps vivants).
+
+Les savants allemands, à l'appel de Treviranus, lancent les méticuleux inventaires de la flore et de la faune, réalisés par ceux qui, respectivement, se nommeront botanistes et zoologistes. Vers le milieu du XIXe siècle, un intérêt pour les fonctions du vivant oriente la recherche biologique vers la physiologie.
+Histoire
+Articles détaillés : Histoire de la biologie et Chronologie de la biologie.
+Principes fondateurs
+Définition de l'objet
+
+L'objet de la biologie est l'être vivant et la vie dans son ensemble et son fonctionnement. Mais qu'est-ce qu'un être vivant ? En quoi se différencie-t-il des objets inanimés et des machines ? Et qu'est-ce que la vie4 ? À ces questions, les biologistes n'ont actuellement pas de réponse précise qui fasse l'unanimité dans la communauté scientifique. Certain d'entre eux, et non des moindres, pensent même que ces questions sont sans objet.
+
+Ainsi Claude Bernard, dans la première des Leçons sur les phénomènes de la vie communs aux animaux et aux végétaux (1878), déclare explicitement que l'on n'a pas à définir a priori la notion de vie, car la biologie doit être une science expérimentale ; ce serait là une définition a priori et « la méthode qui consiste à définir et à tout déduire d'une définition peut convenir aux sciences de l'esprit, mais elle est contraire à l'esprit même des sciences expérimentales ». En conséquence, « il suffit que l'on s'entende sur le mot vie pour l'employer » et « il est illusoire et chimérique, contraire à l'esprit même de la science, d'en chercher une définition absolue ».
+
+La biologie semble être restée fidèle à cette conception, puisqu'elle continue à ne pas précisément définir la notion de vie pour se limiter à l'analyse de « choses naturelles » ou parfois en partie créées par l'homme (via la sélection puis le génie génétique) que le sens commun lui désigne comme vivants. Cette analyse permet de mettre en évidence un certain nombre de caractères communs à ces objets d'étude, et ainsi d'appliquer ce qualificatif de vivant à d'autres objets présentant les mêmes caractères. Cette méthode, exclusivement analytique et expérimentale, a considérablement renforcé l'efficacité et la scientificité du travail du biologiste, comparativement aux conceptions souvent spéculatives d'avant Claude Bernard. Elle a cependant amené une « physicalisation » telle que l'on a parfois l'impression que, pour rendre scientifique la biologie, il a fallu nier toute spécificité à son objet.
+
+De fait, certain biologistes en viennent à déclarer que « la vie n'existe pas ! », ou plus exactement qu'elle serait un processus physico-chimique parmi d'autres.
+
+Le premier d’entre eux est probablement Albert Szent-Györgyi, prix Nobel de médecine en 1937, qui a déclaré :
+
+    « La vie en tant que telle n’existe pas, personne ne l’a jamais vue5. »
+
+Le plus connu est François Jacob :
+
+    « On n'interroge plus la vie aujourd'hui dans les laboratoires. On ne cherche plus à en cerner les contours. […] C'est aux algorithmes du monde vivant que s'intéresse aujourd'hui la biologie6. »
+
+Plus récemment, c'est aussi la position d'Henri Atlan :
+
+    « L’objet de la biologie est physico-chimique. À partir du moment où l’on fait de la biochimie et de la biophysique, et où l’on comprend les mécanismes physico-chimiques qui rendent compte des propriétés des êtres vivants, alors la vie s’évanouit ! Aujourd’hui, un biologiste moléculaire n’a pas à utiliser pour son travail le mot « vie ». Cela s’explique historiquement : il s’occupe d’une chimie qui existe dans la nature, dans un certain nombre de systèmes physico-chimiques particuliers, aux propriétés spécifiques, et appelés animaux ou plantes, c’est tout7 ! »
+
+Cette dernière citation illustre la confusion entre l'étude de la vie et celle de la matière des êtres vivants, où transparaît la tentation de réduire la biologie à la seule biologie moléculaire en niant au vivant, grâce au nivellement que permet la chimie, toute spécificité qui ne soit pas une simple différence physico-chimique. Autrement dit, il est tentant, en réduisant la biologie à la biologie moléculaire, de ne différencier le vivant de l'inanimé que par les critères par lesquels la biologie moléculaire se différencie du reste de la chimie.
+
+Cette négation de la spécificité du vivant vient d'une conception où l'on n'admet aucune discontinuité entre vivant et inanimé pour conserver un univers cohérent et unifié. On y admet donc une gradation progressive entre l'inanimé et le vivant, tant dans les formes actuelles (les virus, censés être à la limite du vivant et de l'inanimé) que dans l'apparition de la vie sur Terre (cette apparition y est comprise comme une phase prébiotique progressive sans discontinuité marquée). En fait, cette négation de la spécificité du vivant, qui se veut matérialiste, confond simplement le matérialisme épistémologique et les sciences de la matière. Les sciences, y compris la biologie, se doivent d'être matérialistes, personne ne dira le contraire. Mais doivent-elles pour autant n'être que des sciences de la matière ? La physique est depuis longtemps la science modèle pour toutes les autres, à tel point qu'on a fini par la confondre avec l'idéal du matérialisme épistémologique.
+
+Parler de la notion de vie, de la spécificité de l'être vivant, c'est, en biologie, s'exposer à se voir qualifier de vitaliste, voire d'animiste, car qui s'écarte un peu de la physico-chimie est censé sortir du matérialisme épistémologique. Si bien qu'aujourd'hui on a l'impression que ce que vise la biologie n'est pas tant l'étude de la vie (ou de l'être vivant dans ce qu'il a de spécifique relativement à l'objet inanimé) que sa pure et simple négation, le nivellement et l'unification de l'univers par la physico-chimie. Comme si, pour unifier, il valait mieux nier les solutions de continuité que les comprendre.
+
+Une autre approche est plus systémique ainsi résumée par Jacob (1970) : « Tout objet que considère la Biologie représente un système de systèmes; lui - même élément d'un système d'ordre supérieur, il obéit parfois à des règles qui ne peuvent être déduites de sa propre analyse » ; c'est une des base de l'écologie scientifique et de son « approche écosystémique ».
+
+Le problème de la spécificité de l'être vivant n'est donc pas encore réglé par la biologie moderne qui ainsi n'a donc aucune définition claire et explicite de son objet. Ce problème est seulement occulté de diverses manières, qui toutes tendent à ramener, faute de mieux, la conception de Descartes de l'être vivant comme plus ou moins semblable à une machine très complexe. Rares sont les biologistes qui s'inscrivent en faux contre cette approximation en avançant une conception du vivant plus précise et proche de la réalité8.
+Évolution
+Article détaillé : Évolution (biologie).
+Charles Darwin en 1868.
+Page titre du Origin of Species (L'Origine des espèces) de Charles Darwin.
+
+La première théorie de l'évolution du vivant a été avancée par Jean-Baptiste Lamarck dans son ouvrage Philosophie Zoologique en 1809. Comme son titre l'indique, elle se présente sous la forme d'un système philosophique, bien qu'elle pose les bases essentielles pour la compréhension des êtres vivants et de leur évolution. Cinquante ans plus tard, en 1859, avec la parution de L'Origine des espèces, Charles Darwin propose une explication scientifique de l'évolution, sous la forme d'un mécanisme simple, avec le principe de sélection naturelle. Avec le temps, la théorie originelle de Darwin a été affinée avec les résultats des expériences et observations que les biologistes ont effectuées. La théorie faisant actuellement consensus est celle de la théorie synthétique de l'évolution ou néo-darwinisme.
+
+Le caractère évolutionniste de la vie a pendant très longtemps été discuté et est même encore mis en doute par certaines personnes en dehors de la communauté scientifique, mais aucune de ces objections à la théorie de l'évolution n'est scientifiquement fondée. La communauté scientifique a depuis très largement admis l'évolutionnisme de la vie comme un fait démontré par l'expérience et l'observation à maintes reprises notamment par :
+
+    l'examen des fossiles en paléontologie qui montre l'évolution des formes de vie à travers le temps ;
+    l'anatomie comparée qui met en évidence les similitudes morphologiques entre des animaux pourtant différents ;
+    l'hérédité qui explique les variations génétiques d'une génération à une autre ;
+    l'étude comparée du génome de plusieurs organismes qui montre l'éloignement plus ou moins important dans l'arbre phylogénétique, permettant ainsi de retracer l'évolution et l'éloignement des différentes formes de vie ;
+    la sélection artificielle qui, pratiquée par l'Homme chez les animaux et les plantes qu'il a domestiqués, est la mise en application par l'Homme du principe de la sélection naturelle.
+
+Diversité
+Article détaillé : Biodiversité.
+
+Si la biologie est si vaste, c'est en raison de l'extrême diversité du vivant qui se présente sous tellement de formes que l'on peut avoir du mal à discerner des points communs. Une hiérarchisation du vivant a tout de même été réalisée, qui est le domaine de la systématique et de la taxinomie. Tous les êtres vivants sont classés en trois domaines :
+
+    les bactéries ;
+    les archées ;
+    les eucaryotes.
+
+Universalité
+Structure en 3D de la molécule d'ADN
+
+Bien qu'étant différentes, toutes les formes de vie partagent des caractères communs. Ce qui porte à croire que la vie sur Terre a pour origine une seule et même forme de vie, désignée sous l'acronyme de LUCA (pour l'anglais : Last universal common ancestor), qui serait apparue sur Terre il y a au moins 2,5 milliards d'années.
+
+Les principaux caractères universels du vivant sont :
+
+    le carbone, qui de par ses caractéristiques physiques sert de « squelette » à tous les composés organiques ;
+    l'ADN et l'ARN, qui servent de support au génome et assurent la transmission de ce dernier à la descendance lors de la reproduction ;
+    la cellule qui est la plus petite unité vivante. Ce dernier point est discuté au sein de la communauté scientifique, car les virus sont considérés comme vivants par certains biologistes, alors qu'ils n'ont pas de cellules.
+
+Domaines d'études
+
+En raison du caractère extrêmement vaste du sujet, l'étude de la biologie nécessite un morcellement en domaines d'études. Une approche un peu « réductrice » mais ayant l'avantage de clarifier les thèmes consiste à définir des niveaux d'organisation. Dans un souci de parvenir à une compréhension plus globale de la biologie, des ponts se sont naturellement créés entre les différentes disciplines.
+Structure du vivant
+Articles détaillés : Biologie moléculaire et Biologie cellulaire.
+Structure d'une cellule végétale.
+
+Les domaines étudiant la structure du vivant sont à l'échelle de l'atome pour la biologie moléculaire et de la cellule pour la biologie cellulaire.
+
+Le domaine de la biologie moléculaire étudie les composés de bases du vivant, comme l'ADN et les protéines. Pendant longtemps, on a cru que les lois de la chimie régissant le vivant étaient différentes de celles pour la matière inanimée. Mais depuis la synthèse de nombreux composés organiques, il est clairement admis que les lois chimiques sont les mêmes que pour la matière inorganique. Aucune force vitale n'insuffle la vie à la matière comme on le pensait avant avec la théorie vitaliste.
+
+La mise au point du microscope avec lequel Robert Hooke a découvert les cellules en 1665 a marqué la naissance de la biologie cellulaire et celle d'un monde alors insoupçonné. Cette découverte et les nombreuses qui ont suivi ont permis d'expliquer certains phénomènes comme ce que l'on qualifiait à l'époque de génération spontanée. C'est à cette échelle que l'on rencontre les premiers organismes vivants.
+Anatomie et physiologie
+Aspect de différents squelettes d'après le Larousse de 1922.
+Articles détaillés : Histologie, Physiologie et Anatomie.
+
+Prise au sens structurelle et fonctionnelle, la biologie recouvre également l'ensemble des disciplines, classiques et modernes, qui étudient des structures comme les tissus avec l'histologie ou les organes avec l'anatomie. La physiologie quant à elle étudie les principes mécaniques, physiques et biochimiques des organismes vivants et est séparée en deux branches : la physiologie végétale et la physiologie animale.
+Diversité et évolution
+L'arbre phylogénétique.
+Articles détaillés : Taxinomie, Systématique, Biologie de l'évolution, Botanique et Zoologie.
+
+L'extrême diversité du vivant n'empêche en rien le groupement en entités ou taxons (Taxinomie), leurs relations les uns par rapport aux autres et leur classement (systématique).
+Interactions
+Articles détaillés : Écologie et Éthologie.
+
+Les interactions des êtres vivants entre eux et les liens les unissant avec leur environnement est le domaine de l'écologie. L'éthologie quant à elle étudie le comportement animal dans le milieu naturel.
+Niveaux d'observation et disciplines
+Niveau d'observation 	Exemple 	Disciplines
+moléculaire 	molécules biologiques : protéines, ADN 	chimie organique, biochimie, biologie moléculaire
+microscopique 	composants de la cellule (organites) 	biologie cellulaire, cytologie
+cellules, organismes unicellulaires 	microbiologie
+organes, tissus 	physiologie, histologie
+macroscopique 	organismes, individus 	biologie des organismes, anatomie, éthologie
+populationnel 	colonies, populations, métapopulations 	biologie des populations, génétique des populations
+spécifique 	espèce 	taxinomie, phylogéographie, etc.
+supra-spécifique 	groupes d'espèces, écosystèmes, évolution humaine 	systématique, écologie, phylogénie
+Applications
+Un laboratoire à l'institut de biochimie de Cologne.
+
+Les applications des découvertes en biologie sont nombreuses et très présentes dans le quotidien de l'être humain. Les avancées importantes de ces dernières décennies en médecine ont principalement pour origine les découvertes sur le fonctionnement du corps humain. Le domaine pharmaceutique profite également des avancées en chimie organique.
+
+Plus récemment, la découverte de la structure de l'ADN et une meilleure compréhension de l'hérédité ont permis de modifier finement les êtres vivants [Comment ?] et trouvent des applications dans les domaines agricole et agro-alimentaire.
+Impacts sur la société
+
+Depuis le développement de la biologie moléculaire et de la physiologie cellulaire dans la seconde partie du XXe siècle, les progrès de la biologie sont devenus quotidiens et ont un impact énorme sur la société : compréhension des mécanismes moléculaires de plusieurs centaines de maladies, amélioration des traitements contre le cancer, compréhension des mécanismes neurologiques, amélioration des traitements des maladies mentales et dépistage de tares génétiques in utero. Une meilleure compréhension de l'évolution moléculaire, substrat physique à l'évolution des espèces, permet de transposer à l'homme les découvertes faites sur les animaux, y compris des vers comme C. elegans ou la mouche drosophile, dont on a montré que les mécanismes moléculaires de segmentation du corps au cours de l'embryogenèse sont identiques à ceux de l'humain, et, de manière générale, à tout le vivant métazoaire.
+
+Toutefois, les progrès très rapides de la biologie suscitent parfois des interrogations philosophiques, de vives inquiétudes, voire une forte opposition de certaines associations ou organisations non gouvernementales (ONG). Citons notamment : le clonage, les organismes génétiquement modifiés (OGM), le séquençage et les problèmes de propriété intellectuelle qui en découlent.
+
+François Hollande
+Page d'aide sur l'homonymie Pour les articles homonymes, voir Hollande (homonymie).
+François Hollande
+François Hollande, le 6 décembre 2014,à Moscou, en Russie.
+François Hollande, le 6 décembre 2014,
+à Moscou, en Russie.
+Fonctions
+24e président de la République française
+En fonction depuis le 15 mai 2012
+(3 ans 6 mois et 19 jours)
+Élection 	6 mai 2012
+Premier ministre 	Jean-Marc Ayrault
+Manuel Valls
+Prédécesseur 	Nicolas Sarkozy
+Président du conseil général de la Corrèze
+20 mars 2008 – 11 mai 2012
+(4 ans 1 mois et 21 jours)
+Prédécesseur 	Jean-Pierre Dupont
+Successeur 	Gérard Bonnet
+Maire de Tulle
+19 mars 2001 – 17 mars 2008
+(6 ans 11 mois et 27 jours)
+Prédécesseur 	Raymond-Max Aubert
+Successeur 	Bernard Combes
+Premier secrétaire du Parti socialiste
+27 novembre 1997 – 26 novembre 2008
+(10 ans 11 mois et 30 jours)
+Prédécesseur 	Lionel Jospin
+Successeur 	Martine Aubry
+Député de la première circonscription de la Corrèze
+12 juin 1997 – 14 mai 2012
+(14 ans 11 mois et 2 jours)
+Législature 	XIe, XIIe et XIIIe
+Prédécesseur 	Lucien Renaudie
+Successeur 	Sophie Dessus
+23 juin 1988 – 1er avril 1993
+(4 ans 9 mois et 9 jours)
+Législature 	IXe
+Prédécesseur 	Circonscription créée
+Successeur 	Raymond-Max Aubert
+Député européen
+20 juillet 1999 – 17 décembre 1999
+(4 mois et 27 jours)
+Élection 	13 juin 1999
+Législature 	5e
+Biographie
+Nom de naissance 	François Gérard Georges Nicolas Hollande
+Date de naissance 	12 août 1954 (61 ans)
+Lieu de naissance 	Rouen, Seine-Inférieure
+Drapeau de la France France
+Nationalité 	française
+Parti politique 	Parti socialiste (1979-2012)1,2
+Conjoint 	Ségolène Royal (1978–2007)
+Valérie Trierweiler (2007–2014)
+Diplômé de 	Université Panthéon-Assas
+HEC Paris
+IEP de Paris
+ENA
+Profession 	Haut fonctionnaire
+Avocat
+Résidence 	Palais de l'Élysée, Paris
+Signature
+François Hollande
+Présidents de la République française
+modifier Consultez la documentation du modèle
+
+François Hollande, né le 12 août 1954 à Rouen, est un homme d'État français. Depuis le 15 mai 2012, il est le 24e président de la République française.
+
+Magistrat à la Cour des comptes, et avocat pendant quelques mois entre 1996 et 1997, il est premier secrétaire du Parti socialiste de 1997 à 2008, pendant la troisième cohabitation puis dans l'opposition. Maire de Tulle de 2001 à 2008, il est député de la première circonscription de la Corrèze de 1988 à 1993 et de nouveau de 1997 à 2012, et préside le conseil général de la Corrèze de 2008 à 2012.
+
+Désigné candidat du PS et du PRG à l'élection présidentielle de 2012 à l'issue d'une primaire, il emporte le second tour avec 51,64 % des voix face au président sortant, Nicolas Sarkozy, le 6 mai 2012. Il prend ses fonctions de 24e président de la République française le 15 mai 2012.
+Sommaire
+
+    1 Éléments personnels
+        1.1 Famille et vie privée
+        1.2 Jeunesse et études
+        1.3 Carrière professionnelle
+    2 Carrière politique
+        2.1 1974-1997 : débuts
+        2.2 1997-2008 : premier secrétaire du Parti socialiste
+        2.3 2011-2012 : candidature à l'élection présidentielle
+        2.4 Depuis 2012 : président de la République française
+    3 Mandats et fonctions
+        3.1 Mandats parlementaires
+        3.2 Mandats locaux
+        3.3 Fonctions politiques
+        3.4 Présidence de la République
+    4 Distinctions et décorations
+        4.1 En tant que président de la République
+        4.2 Décorations officielles
+        4.3 Autres distinctions
+    5 Dans les arts et la culture populaire
+        5.1 Télévision
+    6 Publications
+        6.1 Ouvrages
+        6.2 Ouvrages collectifs
+        6.3 Préfaces
+    7 Annexes
+        7.1 Bibliographie
+        7.2 Documentaires
+        7.3 Articles connexes
+        7.4 Liens externes
+    8 Notes et références
+        8.1 Notes
+        8.2 Références
+
+Éléments personnels
+Famille et vie privée
+Article détaillé : Famille de François Hollande.
+
+François Gérard Georges Nicolas Hollande naît le 12 août 1954 à Rouen en Seine-Inférieure3. Il est le fils cadet4 de Georges Gustave Hollande, catholique5, né le 9 mai 1923 à Cognac, médecin ORL, candidat perdant sur une liste d'extrême droite aux élections municipales de Rouen en 1959 et de Bois-Guillaume en 19656. Sa mère, Nicole Frédérique Marguerite Tribert, catholique de gauche6,7 née le 7 septembre 1927 à Vigneux-sur-Seine et décédée le 8 mars 2009 à Cannes8, était assistante sociale. Cette dernière figurait en 2008, en dernière position, sur la liste du Parti socialiste pour l'élection municipale de Cannes9. François Hollande a reçu une éducation religieuse catholique, qu'il considère comme « une bonne expérience », mais se définit lui-même comme « non-croyant » n'ayant « aucune pratique religieuse » et ayant sa « propre philosophie de la vie »10.
+
+Il est aussi cousin d'Hélène Pilichowski.
+François Hollande et Ségolène Royal, lors de la campagne présidentielle de 2007.
+
+À la fin des années 1970, il fait la connaissance de Ségolène Royal, également de la promotion Voltaire (1980), lors d'une soirée de l'ENA. Il se lie avec elle au cours d'un stage effectué dans une cité HLM de banlieue, « La Noé », à Chanteloup-les-Vignes11. Le couple forme une union libre et a quatre enfants : Thomas (1984), qui est avocat, Clémence (1986), interne en hépato-gastro-entérologie à Paris, Julien (1987), cinéaste, et Flora (1992), étudiante en psychologie12. Leur séparation est annoncée au soir du second tour des élections législatives de 200713.
+
+En 2010, François Hollande officialise sa relation avec la journaliste Valérie Trierweiler, née Massonneau14,15, qui était sa compagne depuis le milieu des années 200016,17,18,19 ; cette relation était restée cachée lors de la campagne de Ségolène Royal20,21.
+
+Le 10 janvier 2014, le magazine Closer évoque la possible relation de François Hollande avec l'actrice Julie Gayet, publiant des photos à l'appui de ses affirmations22. Cette information est reprise par la presse internationale, mais aussi, fait inédit, par les médias français23,24. Le 25 janvier 2014, François Hollande, s’exprimant à titre personnel, annonce « la fin de sa vie commune » avec Valérie Trierweiler25,26,27.
+Jeunesse et études
+
+Il passe son enfance à Rouen, puis, à partir de 1958, à Bois-Guillaume28, ville résidentielle sur les hauteurs de Rouen, dans un quartier aisé. Il est élève au pensionnat Jean-Baptiste-de-La-Salle de Rouen. Au premier trimestre 1968, son père, favorable à l’Algérie française29 et mal vu du fait de sa proximité avec Jean-Louis Tixier-Vignancour et l’OAS30, vend sa clinique, ses appartements du Clos du Hamel, la maison de Bois-Guillaume, et déménage avec sa famille à Neuilly-sur-Seine, où il se lance dans l’immobilier6. Élève au lycée Pasteur de Neuilly-sur-Seine, il obtient son baccalauréat en 197231. François Hollande poursuit ses études à Paris-II, où il obtient une licence en droit32, puis à HEC Paris33 (H.1975) et à l’Institut d'études politiques de Paris34 (promotion 1974, diplôme section Service public), où il milite à l’UNEF-Renouveau, proche du Parti communiste français6. En 1978, il est stagiaire à l'ambassade de France en Algérie35. En 1980, il sort de l’ENAn 1, dans la promotion Voltaire29, où il rencontre Ségolène Royal.
+
+En 1976, il est réformé du service militaire à cause de sa myopie lors de ses « trois jours » au fort de Vincennes, mais, par « devoir », obtient l’annulation de cette décision36. Lors de ses classes en tant qu’élève officier de réserve à Coëtquidan, en janvier 1977, il est dans la même chambrée que Jean-Pierre Jouyet, Michel Sapin, Henri de Castries et Jean-Michel Lambert, puis il rejoint l’École d’application du génie (EAG) à Angers, avant d’être affecté au 71e régiment du Génie, à Oissel11,36. François Hollande finit son service en 1978 avec le grade de lieutenant de réserve37.
+Carrière professionnelle
+
+Sorti 7e de l'ENA en 1980, il choisit d'être auditeur à la Cour des comptes32. Il est également maître de conférences à l'IEP de Paris, où il donne des cours d'économie aux étudiants de troisième année jusqu'en 199138. En 1984, il devient conseiller référendaire à la Cour des comptes32.
+
+Magistrat de la Cour des comptes, François Hollande dispose d'une équivalence (au CAPA)39 lui permettant d'exercer la profession d'avocat. Il travaille pendant quelques mois, à partir de 1997, dans le cabinet de son ami Jean-Pierre Mignard40, activité qui n'est pas mentionnée dans sa biographie officielle41.
+Carrière politique
+1974-1997 : débuts
+
+En 1974, il préside la section de l'UNEF à l'Institut d'études politiques de Paris. Il entre à HEC Paris, et y préside le comité de soutien à la candidature de François Mitterrand42. Il adhère au Parti socialiste en 197943.
+
+À la suite de l'élection de François Mitterrand à la présidence de la République, en 1981, François Hollande devient chargé de mission (toujours à propos d'économie) pour l'Élysée, à l'époque où le nouveau pouvoir entame sa politique de relance par la demande (relance keynésienne) et de nationalisations. Lors des élections législatives de juin 1981, François Hollande est désigné comme candidat socialiste contre Jacques Chirac dans la troisième circonscription de la Corrèze, après le refus de Jacques Delors. Durant la campagne, il se rend à un meeting de son concurrent, à Neuvic, et l'interpelle sur le fait qu'il n'a pas répondu à sa demande écrite de débat. Avec 26 % des voix, contre 23 % au candidat communiste, il lui manque 350 voix pour mettre en ballottage Jacques Chirac, qui l'emporte dès le premier tour44.
+
+De 1983 à 1984, il est le directeur de cabinet des deux porte-parole successifs du troisième gouvernement de Pierre Mauroy : Max Gallo et Roland Dumas. Il participe alors à une manipulation politique : à l'instigation de François Mitterrand, Jacques Attali demande à l'éditeur Fayard de publier un pamphlet contre la droite. La tâche est confiée au journaliste André Bercoff qui, sous le pseudonyme de « Caton » (un soi-disant dirigeant de la droite), publie un livre intitulé De la reconquête. François Hollande apportera à André Bercoff des éléments chiffrés pour la rédaction du livre, et se verra confier, par le journaliste lui-même, la promotion du livre : se faisant passer pour Caton, le faux dirigeant de la droite45, François Hollande accorde alors plusieurs interviews téléphoniques et radiodiffusées. La même année, il échoue aux élections municipales, mais devient conseiller municipal d'Ussel (en Corrèze).
+
+Claude Allègre l'enrôle dans l'équipe d'« experts » dont s'entoure Lionel Jospin après la défaite du Parti socialiste aux élections législatives de 198646. Aux élections législatives de 1988, qui font suite à la réélection de François Mitterrand, il se présente une nouvelle fois en Corrèze, mais change de circonscription. Avec près de 53 % des suffrages exprimés, il est élu député de la première circonscription de la Corrèze. À l'Assemblée nationale, il devient secrétaire de la Commission des finances et du Plan et rapporteur du budget de la Défense32.
+
+Au Parti socialiste, il lance avec Jean-Yves Le Drian, Jean-Pierre Mignard et Jean-Michel Gaillard, les « transcourants », rebaptisés ultérieurement « Démocratie 2000 »32. En 1985, il publie, aux côtés de Jean-Pierre Jouyet, Michel Sapin, Jean-Michel Gaillard et Jean-Pierre Mignard et sous le pseudonyme de Jean-François Trans (pour transcourants), un livre intitulé La Gauche bouge, qui appelle à la fondation d'un parti démocrate à l'américaine sur les bases d'un « consensus stratégique entre [le PS] et les courants démocratiques du pays, au-delà du clivage gauche-droite »47,48.
+
+François Hollande quitte, en 1989, la ville d'Ussel, où il est conseiller municipal d'opposition depuis six ans, pour se présenter à Tulle. Il devient adjoint au maire de Tulle, le communiste Jean Combasteil. L'année suivante, il soutient la motion Mauroy-Mermaz-Jospin au congrès de Rennes32. En 1993, il perd son mandat de député en étant battu par Raymond-Max Aubert (RPR) ; il reconnaîtra avoir délaissé ses électeurs pour ses activités nationales49. Il prend ensuite la présidence du club « Témoin » de Jacques Delors, qu'il conserve jusqu'en 1997, et préside la communauté de communes de Tulle à partir de 1993. Lors des élections municipales de 1995, la gauche perd Tulle et Raymond-Max Aubert en devient le maire.
+
+Président du Conseil national consultatif des personnes handicapées en décembre 199232, il devient secrétaire national du Parti socialiste chargé des questions économiques en novembre 1994. En 1995, après la renonciation de Jacques Delors, dont il soutenait la candidature à l'élection présidentielle, il se rapproche de Lionel Jospin, qui fait de lui un des porte-parole de sa campagne présidentielle. Après sa défaite face à Jacques Chirac, Lionel Jospin nomme François Hollande, en octobre 1995, porte-parole du PS32. Selon Serge Raffy, le premier secrétaire du PS cherche alors un homme qui « apaise, apporte sérénité et concorde » pour sortir des conflits suscités par la succession de François Mitterrand50.
+
+En 1996, François Hollande participe au programme Young Leaders organisé par la French-American Foundation51, une fondation franco-américaine fondée en 1976 sous l'égide des présidents Valéry Giscard d'Estaing et Gerald Ford dans le but de « renforcer les liens entre les deux pays en encourageant la rencontre et l’échange entre futurs leaders français et américains ».
+1997-2008 : premier secrétaire du Parti socialiste
+François Hollande avec François Zimeray lors de la campagne des élections européennes de 1999.
+
+En 1997, après la victoire de la gauche plurielle aux élections législatives, François Hollande retrouve son siège de député (avec 54,52 % des suffrages exprimés au deuxième tour face à Raymond-Max Aubert), et Lionel Jospin est nommé Premier ministre. Ce dernier le choisit pour lui succéder au poste de premier secrétaire du parti, en novembre 1997. Il est élu contre Jean-Luc Mélenchon lors du Congrès de Brest. À ce poste, il conseille notamment à Lionel Jospin de ne pas réformer le système de retraites avant l'échéance présidentielle de 200252.
+
+Lors des élections européennes de 1999, François Hollande mène la liste PS/PRG/MDC, qui arrive en tête avec 21,95 % des suffrages devant la liste RPF menée par Charles Pasqua et Philippe de Villiers (13,05 %) et la liste RPR/DL menée par Nicolas Sarkozy (12,82 %). Il siège au Parlement européen jusqu'au 17 décembre 1999, date à laquelle il renonce à son mandat53. Il devient cette même année vice-président de l'Internationale socialiste.
+
+En 2001, il est élu maire de Tulle par le nouveau conseil municipal, la liste qu'il conduisait l'ayant emporté avec 53,1 % des voix au premier tour des élections municipales54. À ce poste, il lance notamment une politique du sport qui a permis l'amélioration des équipements sportifs existants et la création d'équipements nouveaux : ainsi, la réhabilitation en 2002 d'infrastructures de la ville tels que le gymnase Victor Hugo ou la plaine de jeux, l'ouverture d'un centre aquarécréatif et d'un boulodrome couvert en 2003, la création d'un skatepark en octobre 2002 et la réhabilitation du Centre culturel et sportif l'année suivante illustrent la volonté de la nouvelle municipalité de promouvoir l'activité sportive.
+
+En 2008, Tulle est candidate au challenge de la ville la plus sportive de France55. Le 24 juin, elle est désignée première ex æquo avec Tignes56.
+
+Après le retrait de Lionel Jospin de la vie politique à la suite de son échec à la présidentielle le 21 avril 2002, François Hollande est réélu député le 16 juin 2002, avec 52,92 % des suffrages exprimés au second tour57.
+
+Lors de la campagne des élections régionales et cantonales de 2004, il fait un tour de France des régions alors que, des personnalités socialistes de premier plan, seule Ségolène Royal s'est engagée dans la lutte dans le Poitou-Charentes46. Le Parti socialiste remporte 24 des 26 régions françaises et les deux tiers des cantons renouvelables (51 des 100 départements ont ainsi un président de gauche), à un moment où la popularité du 2e gouvernement Raffarin est au plus bas. En juin suivant, le PS obtient 28,9 % des suffrages aux élections européennes, un record pour ce scrutin. Toujours en 2004, il prend position pour le « oui » à la Constitution européenne et s'oppose ainsi au numéro deux du parti, Laurent Fabius. Contrairement à ce qu'il avait promis à ce dernier58, il décide d'organiser un référendum interne au PS sur la question : le 1er décembre, les militants votent « oui » à 59 %. Il remplace alors plusieurs des partisans du « non » au Secrétariat national par des promoteurs du « oui », dont un certain nombre de ministres de Lionel Jospin : Martine Aubry, Dominique Strauss-Kahn, Jack Lang, etc. Il sort finalement affaibli du référendum du 29 mai 2005, où la majorité des Français, et des sympathisants socialistes selon les sondages, ont voté « non ». Le PS est, dès lors, vu par les médias comme durablement divisé entre partisans du « oui » et partisans du « non », emmenés par Laurent Fabius, à qui François Hollande retire son poste de numéro deux du parti.
+François Hollande, en 2005.
+
+Au congrès du Mans de 2005, la motion dont il est le premier signataire (aux côtés de Martine Aubry, Jack Lang, Dominique Strauss-Kahn, Ségolène Royal, Julien Dray et Bertrand Delanoë) obtient 53,6 % des suffrages exprimés lors du vote des militants, une majorité moins confortable que celles obtenues précédemment (84 % en 1997, 73 % en 2000, 61 % en 2003). Voulant mettre fin à un an de discussions et de querelles, François Hollande choisit de proposer une synthèse aux courants minoritaires, qui l'acceptent. Le 24 novembre 2005, seul candidat, il est réélu premier secrétaire du PS, avec 76,96 %. Il est alors considéré par ses détracteurs comme l'homme de la « synthèse molle », « fuyant l'affrontement pour au final ne rien décider »59,60.
+
+En 2006, devant la montée des intentions de vote en faveur de sa compagne Ségolène Royal, il renonce à se présenter à l'élection présidentielle de 200761, pour laquelle il a contribué à l'élaboration du programme socialiste62. Après avoir gagné la primaire organisée par le PS, Ségolène Royal est finalement battue par Nicolas Sarkozy au second tour de l'élection présidentielle. Le 17 juin 2007, François Hollande est réélu député de la première circonscription de la Corrèze au second tour, avec 60,25 % des suffrages exprimés63. D'après un classement effectué en 2010 par lesinfos.com, conduit par Bernard de La Villardière, il occupe la 411e place des députés les plus actifs64.
+
+La liste qu'il conduit l'emporte à l'élection municipale de Tulle en 2008, au premier tour, avec 72,2 % des suffrages exprimés, contre la liste de droite65. En application de la loi sur le non-cumul des mandats, il démissionne de son mandat de conseiller municipal de Tulle, l'un de ses proches, Bernard Combes, lui succédant en tant que maire. Dans le même temps, il est élu conseiller général de la Corrèze dans le canton de Vigeois, au premier tour, le 10 mars 2008, avec 54,8 % des suffrages exprimés, face au candidat UMP et maire de Vigeois Albert Chassaing. Il succède le 20 mars suivant à Jean-Pierre Dupont à la présidence du conseil général de la Corrèze, détenue par la droite depuis 1970, date à laquelle Jacques Chirac avait été élu comme successeur d'Élie Rouby, mort quelques jours avant les élections cantonales. À ce poste, il lance notamment l'opération « ordicollège » (financement d'ordinateurs portables pour tous les élèves et enseignants de la 5e à la 3e à partir de 2008 ; ce dispositif évolue en 2010 : des iPad sont fournis aux élèves entrants en 6e)66. Sa gestion des finances du département, entre 2008 et 2012, est parfois critiquée par ses opposants67,68. En réponse à cette accusation, la porte-parole de campagne de François Hollande, Delphine Batho, souligne que la droite, qui était à la tête du département entre 2001 et 2008, aurait cumulé une dette de 300 millions d'euros69,70.
+
+Le 26 novembre 2008, à la suite du congrès de Reims, Martine Aubry lui succède au poste de premier secrétaire du Parti socialiste. Il n'était pas candidat à sa propre succession, mais avait soutenu la candidature de Bertrand Delanoë58.
+2011-2012 : candidature à l'élection présidentielle
+Primaire socialiste
+Article détaillé : Primaire présidentielle socialiste de 2011.
+Logo utilisé par François Hollande dans le cadre de la primaire socialiste.
+
+Dans les mois qui suivent son départ de la direction du Parti socialiste, François Hollande travaille à la préparation d'un projet autour de trois grands axes : la production, la fiscalité et l'éducation. Pour ce faire, il lance notamment l'association « Répondre à gauche » animée par Stéphane Le Foll en 2009 puis l'association « Démocratie 2012 » animée par Dominique Villemot et Jean-Marie Cambacérès en 2010. À partir de 2010, les sondages indiquent une progression des intentions de vote en sa faveur en vue de la primaire présidentielle socialiste de 201171. Ayant conditionné sa candidature à sa reconduction à la présidence du conseil général de la Corrèze72, il se déclare officiellement candidat à la primaire à Tulle, quelques heures après sa réélection, le 31 mars 201173.
+
+Dans le cadre de la précampagne de la primaire socialiste, François Hollande apparaît comme le principal rival de Dominique Strauss-Kahn, directeur général du FMI et alors favori des sondages. Les médias le présentent donc comme l'« anti-DSK », du fait de sa volonté de devenir un « président normal »74,75. Dominique Strauss-Kahn est accusé d'agression sexuelle et arrêté à New York le 14 mai 2011, ce qui empêche son retour en France avant la clôture des candidatures à la primaire.
+
+François Hollande, qui était distancé de plus de 20 points dans les sondages par Dominique Strauss-Kahn au premier tour de la primaire, est, dès lors, considéré comme le favori. Mais il doit faire face à la montée de Martine Aubry dans les enquêtes d'opinion à la suite de l'annonce de la candidature de cette dernière, le 28 juin 2011. À partir de la mi-juillet, François Hollande est de nouveau en tête76. Durant la campagne, il est notamment critiqué pour son bilan à la tête du Parti socialiste et son manque d'expérience ministérielle77.
+
+En mai 2010, il avait qualifié, conformément au projet socialiste, d'« illusion » un retour du déficit public à 3 % du PIB en 2013, « sauf à augmenter drastiquement les impôts »78,79,80,81. Toutefois, face à la crise de la dette dans la zone euro, il s'engage, dans un entretien accordé au Monde le 16 juillet 2011, à réaliser cet objectif, jugeant que « nous ne pouvons pas laisser gonfler la dette publique au risque de faire de la charge de nos intérêts le premier budget du pays, ce qui altèrerait toutes nos marges de manœuvre »82. De même, il défend un retour à l'équilibre des comptes publics en 2017 et, bien que refusant l'inscription de la « règle d'or » sur les déficits dans la Constitution, propose une « loi de programmation » sur la réduction des déficits83 (il optera finalement pendant la campagne présidentielle pour une loi organique84). Il déclare que « le candidat qui annonce qu'il n'y aura pas d'effort supplémentaire après 2012 sera un président qui se parjurera »85. Il appelle par ailleurs à « une réforme fiscale ample consistant à imposer le même barème à tous les revenus, ceux du travail comme ceux du capital », supprimant « les niches fiscales et les mesures dérogatoires » et fusionnant « l'impôt sur le revenu et la CSG ».
+
+En septembre 2011, sa proposition d'abandonner la règle du non-remplacement d'un fonctionnaire sur deux partant à la retraite et de recréer 60 000 à 70 000 postes dans l'Éducation nationale, soit environ 12 000 postes par an pendant cinq ans, pour un coût annuel de 500 millions d'euros, est critiquée à droite et à l'extrême droite, et par sa concurrente Martine Aubry86. L'autre mesure phare qu'il défend durant la campagne des primaires, le « contrat de génération », qui prévoit des dispenses de cotisations sociales pour les entreprises embauchant un jeune tout en gardant un senior, fait également l'objet de critiques, tant à droite que par Martine Aubry, pour son coût — estimé à huit milliards d'euros par an par l'Institut de l'entreprise87 — et pour sa supposée inefficacité dans les pays l'ayant mise en œuvre. Pour ces deux mesures, François Hollande indique que le financement se fait par redéploiement de crédits (« autant de dépenses supplémentaires que d'économies »)88.
+
+Au soir du premier tour de la primaire, le 9 octobre 2011, François Hollande réalise un score de 39,17 % des voix, se qualifiant ainsi pour le second tour avec Martine Aubry (30,42 %). Entre les deux tours, les quatre candidats éliminés au premier tour, Manuel Valls (5,63 %), Jean-Michel Baylet (0,64 %), Ségolène Royal (6,95 %) et Arnaud Montebourg (17,19 %) apportent leur soutien à François Hollande. Le 16 octobre 2011, il l'emporte avec 56,57 % des suffrages, et devient ainsi le candidat du Parti socialiste et du Parti radical de gauche pour l'élection présidentielle de 201289. Lors de son premier discours consécutif à sa désignation, il appelle à un grand rassemblement et affirme : « C'est le rêve français que je veux réenchanter, celui qui a permis à des générations, durant toute la République, de croire à l'égalité et au progrès »90.
+Campagne présidentielle
+Article détaillé : Élection présidentielle française de 2012.
+Logotype utilisé par François Hollande dans le cadre de sa campagne.
+
+Sa campagne est organisée par Pierre Moscovici et Stéphane Le Foll, assistés des préfets Nacer Meddah et Chantal Jourdan91, et adjoints de Michel Sapin pour la préparation du projet présidentiel et Manuel Valls à la tête d'un pôle de communication de quatre porte-parole92. Le début de sa campagne est marqué par les difficultés entourant l'élaboration de l'accord programmatique et électoral entre le Parti socialiste et Europe Écologie Les Verts en vue de 2012, notamment en ce qui concerne une éventuelle sortie du nucléaire93. François Hollande intervient dans le cadre de cet accord, revendiquant le retrait du paragraphe sur la « reconversion à emploi constant » de la filière MOX, puis s'opposant à la proposition de supprimer le droit de veto de la France au Conseil de sécurité des Nations unies94. En outre, il subit une série de critiques, de ses concurrents de gauche (Eva Joly, Jean-Luc Mélenchon) et de la droite, qui lui supposent un manque d'autorité et lui reprochent de cultiver l'ambiguïté95,96, dans l'attente de son programme.
+François Hollande, en janvier 2012.
+
+Après en avoir esquissé les grandes lignes, lors d'un premier grand meeting au Bourget, le 22 janvier 201297,98, il présente le 26 janvier à la Maison des Métallos ses « soixante engagements pour la France », qui prévoient :
+
+    en politique européenne, la conclusion d'un nouveau contrat de partenariat franco-allemand, la demande de l'adoption d'une directive sur la protection des services publics ;
+    face au système financier, la création d'une agence de notation européenne, la séparation des activités de crédit et d'investissement des banques ;
+    en matière énergétique, la réduction de 75 à 50 % de la part du nucléaire dans la production électrique au profit des énergies renouvelables d'ici 2025 ;
+    concernant la fiscalité des particuliers, la fusion de l'impôt sur le revenu et de la CSG, la création d'une tranche supplémentaire de 45 % pour les revenus supplémentaires à 150 000 euros, le plafonnement des niches fiscales à un maximum de 10 000 euros par an, la remise en cause de l'allègement de l'ISF, mesures qui doivent rapporter 29 milliards d'euros de recettes supplémentaires selon lui ;
+    la construction de 500 000 logements par an, dont 150 000 sociaux, financée par un doublement du plafond du livret A, l'État mettant à la disposition des collectivités territoriales ses terrains disponibles dans les 5 ans ;
+    sur l'insertion des jeunes, le recrutement de 60 000 professeurs, la création d'une allocation d'études et de formation sous condition de ressources, mise en place d'un contrat de génération qui permettrait à un salarié expérimenté d'être le tuteur d'un jeune embauché en contrepartie d'exonérations de cotisations sociales, création au total de 150 000 emplois aidés ;
+    des aides aux PME, avec la création d'une banque publique d'investissement orientée vers les PME et la réduction du taux d'imposition à 30 % pour les moyennes entreprises et à 15 % pour les petites ;
+    le recrutement de 5 000 magistrats, policiers et gendarmes et le rétablissement de la retraite à 60 ans pour ceux qui auront cotisé plus de 41 ans ;
+    sur le plan international, le retrait de toutes les troupes françaises d'Afghanistan avant la fin de l'année 201299.
+    sur le plan des libertés, une loi assurant la protection des sources d'information des journalistes.
+
+Il évalue le coût total des nouvelles mesures à 20 milliards d'euros en cinq ans et les hausses d'impôts nécessaires à 29 milliards d'euros si le taux de croissance est de 2 % en 2014 puis de 2,5 % les années suivantes.
+
+Le chiffrage du programme est largement analysé100,101,102. Il est contesté par ses opposants et par l'Institut Montaigne, de tendance libérale103, d'autant plus qu'au programme initial s'ajoutent plusieurs mesures, annoncées début mars 2012 (sur l'enseignement supérieur, le droit des femmes, le pouvoir d'achat), pour un coût supplémentaire évalué entre 2,8 et 5,2 milliards par an selon le think tank patronal l'Institut de l'entreprise104.
+
+Avec 28,63 % des voix (10 272 705 voix) au premier tour105, François Hollande se qualifie pour le second tour, arrivant devant le président de la République en fonction Nicolas Sarkozy, qui récolte 27,18 % des suffrages exprimés. Il obtient le plus grand nombre de voix au premier tour pour un candidat socialiste depuis 1988. C'est par ailleurs la première fois qu'un candidat se classe devant le président de la République en exercice lors d'un premier tour à l'élection présidentielle.
+
+Lors de l'entre-deux-tours, aucun des huit candidats éliminés ne se prononce en faveur de Nicolas Sarkozy. François Hollande bénéficie des appels en sa faveur de l'écologiste Eva Joly, du candidat du Front de gauche, Jean-Luc Mélenchon, ou encore de Jacques Cheminade. Le centriste François Bayrou surprend106 en annonçant qu'il votera pour François Hollande « à titre personnel », par rejet de la « course-poursuite à l'extrême droite » engagée selon lui par le candidat UMP107, mais sans toutefois approuver le programme économique du candidat de la gauche ni rejoindre sa future majorité108. Autre fait notable et inhabituel, le dirigeant de la CGT, Bernard Thibault, et le Syndicat de la magistrature appellent à voter pour le candidat socialiste109.
+
+Après un débat télévisé le 2 mai 2012 où il présente le président qu'il sera (par l'anaphore « Moi président de la République »), François Hollande sort vainqueur le 6 mai 2012 au second tour face au président sortant Nicolas Sarkozy, avec 51,64 % des suffrages exprimés (18 000 668 voix)110, et est ainsi élu 24e président de la République française. Alors que les sondages donnaient François Hollande victorieux avec une avance de cinq à sept points sur son adversaire111, il s'agit de la deuxième élection présidentielle la plus serrée de l'histoire de la Cinquième République, après celle de 1974 ; le résultat du candidat socialiste est proche de celui de François Mitterrand en 1981 (51,76 %).
+Depuis 2012 : président de la République française
+Nicolas Sarkozy et François Hollande, lors de la passation de pouvoirs, le 15 mai 2012 au palais de l'Élysée.
+Articles connexes : Gouvernement Jean-Marc Ayrault I, Ayrault II, Valls I et Valls II.
+
+Le 8 mai 2012, François Hollande participe aux commémorations de la fin de la Seconde Guerre mondiale aux côtés de Nicolas Sarkozy à la suite de l'invitation de ce dernier. Le 10 mai, le Conseil constitutionnel proclame les résultats officiels de l'élection présidentielle. La passation des pouvoirs a lieu le 15 mai 2012112, François Hollande devient alors le 24e président de la République française et le 7e président de la Ve République, ainsi que le 67e coprince français d'Andorre113. Il est par ailleurs le second président socialiste de la Cinquième République. Le même jour, il rend hommage à Jules Ferry et Marie Curie devant leur monument respectif et assiste à la réception rituelle à l'hôtel de ville de Paris114. Son cabinet est nommé le 15 mai 2012 également115.
+Politique intérieure
+
+Le 15 mai 2012, François Hollande nomme Jean-Marc Ayrault au poste de Premier ministre. Le lendemain, ce dernier prend ses fonctions à l'hôtel Matignon, où il constitue un gouvernement de trente-quatre ministres (dix-sept hommes et dix-sept femmes). C'est le premier gouvernement dans l'histoire de la République française à respecter une stricte parité116. Lors du premier conseil des ministres, le 17 mai 2012, François Hollande, Jean-Marc Ayrault ainsi que l'ensemble des ministres, baissent leurs salaires de 30 %, en réponse aux promesses faites durant la campagne présidentielle. De même, ils signent une « charte de déontologie », qui leur interdit le cumul des mandats. Ils promettent également de « se garder de tout conflit d'intérêts »117.
+
+Le début de son mandat est notamment marqué par la prolongation de la trêve hivernale pour l'hébergement des sans-abri118, la revalorisation de 25 % de l'allocation de rentrée scolaire pour la rentrée 2012119 et par un retour partiel à la retraite à 60 ans pour ceux qui ont commencé à travailler à 18 ou 19 ans120. Ces mesures sont populaires auprès des sondés, bien que l'état de grâce du chef d'État soit faible dans un contexte de forte crise économique et sociale. Le gouvernement et des syndicats accusent l'ancienne majorité d'avoir repoussé l'annonce de plusieurs plans sociaux à l'après-campagne présidentielle121. Le gouvernement doit également faire face à un dégel des prix de gaz122.
+
+Le 18 juin 2012, après les élections législatives, à l'issue desquelles le Parti socialiste obtient seul une majorité absolue, Jean-Marc Ayrault lui remet, selon la tradition, la démission de son gouvernement ; François Hollande le charge alors de former un deuxième gouvernement. Quelques portefeuilles à la marge sont redistribués pour ménager les sensibilités, et deux ministères supplémentaires apparaissent123.
+
+Fin 2012, le Conseil constitutionnel censure – pour un motif de non-respect du principe du quotient familial – la taxe à 75 % sur les revenus dépassant un million d'euros par personne, instaurée par le gouvernement124. Cette décision remet en question une mesure fiscale promise par François Hollanden 2. À la suite de cette promesse de taxation, le Premier ministre britannique David Cameron avait déclaré, en juin 2012 : « Quand la France instituera un taux de 75 % pour la tranche supérieure de l'impôt sur le revenu, nous déroulerons le tapis rouge, et nous accueillerons plus d'entreprises françaises, qui paieront leurs impôts au Royaume-Uni »125. Début 2013, l'acteur français Gérard Depardieu se voit octroyer la citoyenneté russe par le président Vladimir Poutine, alors qu'il envisageait une expatriation fiscale en Belgique et avait ainsi déclenché une tempête médiatique126, comme Bernard Arnault en septembre 2012127,128. En décembre 2012, le ministre belge des Affaires étrangères Didier Reynders refusait que la Belgique soit le « bouc émissaire de l'affaire Depardieu » et invitait Paris à s'interroger sur sa politique fiscale, dont la taxe à 75 %129. Deux fois plus de Français ont demandé la nationalité belge en 2012 qu'en 2011, même si le phénomène reste marginal, avec 126 dossiers en 2012130. Selon certains experts fiscaux, l'exil fiscal total concernerait, en 2012, entre 3 500 et 4 000 contribuables français, soit cinq fois plus qu'en 2011131. Un nouveau recours contre cette taxe formé par des députés de l'opposition est repoussé par le Conseil constitutionnel à la fin de 2013132. Le gouvernement annonce finalement la suppression au 1er février 2015 de cette taxe, qui aurait au total rapporté 420 millions d’euros et réduit l'attractivité économique de la France133,134.
+
+Le 7 novembre 2012, le Parlement est saisi d'un projet de loi visant à légaliser le mariage et l'adoption pour les couples de même sexe, en vertu de l'« engagement 31 » des promesses de campagne de François Hollande, qui s'estime convaincu qu'il s'agit d'un « progrès pour l'égalité »135. Il s'écoule un peu plus de six mois entre la présentation du projet en Conseil des ministres et la publication au Journal officiel, faisant de ce texte de loi l'un des plus longuement débattus au Parlement, avec cent dix heures de débat136. L'adoption de ce texte fait de la France le 14e pays à autoriser le mariage homosexuel et constitue, selon l'agence de presse Reuters, l'une des réformes sociales les plus importantes depuis l'abolition de la peine de mort en 1981137,138,n 3. Cette loi, qui connaît une opposition plus forte en France que dans d'autres pays européens et qui fait encore l'objet d'une contestation dans les mois qui suivent son adoptionn 4, est définitivement adoptée le 23 avril 2013, puis validée par le Conseil constitutionnel et promulguée le 17 mai 2013139. Pendant ce débat, des personnalités de droite hostiles au texte accusent François Hollande de diviser le pays et de ne pas rechercher la concertation, tandis qu'une partie de la gauche s'étonne de ses propos sur la « liberté de conscience » des maires qui refuseraient de célébrer des mariages entre personnes du même sexe, expression sur laquelle il revient finalement140,141. Le 18 octobre 2013, le Conseil constitutionnel répond négativement à une question prioritaire de constitutionnalité demandant l'usage de la liberté de conscience pour les officiers d'état civil concernant le mariage.
+François Hollande, aux cérémonies du 11 novembre 2012.
+
+Le 19 mars 2013, le président de la République annonce le départ du gouvernement du ministre délégué au Budget, Jérôme Cahuzac, accusé de fraude fiscale142. François Hollande est alors accusé par l'opposition, en particulier par le président de la commission d'enquête parlementaire sur l'affaire Cahuzac, Charles de Courson, d'avoir détenu depuis plusieurs mois des informations lui permettant de savoir que le ministre du Budget avait un compte en Suisse143,144,145. Le rapporteur de la commission d'enquête parlementaire, Alain Claeys (PS), estime finalement qu'il y a eu des dysfonctionnements, mais que « les services de l'État et le gouvernement ont agi dans le respect de la légalité », ce que contestent les députés UMP membres de la commission146,147.
+
+En octobre 2013, alors que le PS s'inquiète de l'élimination dès le premier tour de plusieurs de ses candidats au profit de candidats du Front national lors d'élections partielles148, éclate l'affaire Leonarda, dans un contexte d'ostracisme des Roms. L'expulsion vers le Kosovo de Leonarda Dibrani, Rom de 15 ans, attire l'attention des médias le 14 octobre 2013. Devant la forte pression de la classe politique et de lycéens, François Hollande intervient publiquement le 19 octobre pour proposer le retour en France à Leonarda « et à elle seule »149. Plusieurs élus de la majorité présidentielle ou de droite dénoncent ses propos150. À l'étranger, des médias tels que le Financial Times, Die Welt, La Stampa et El País titrent sur un affaiblissement de l'autorité du chef de l'État français151,152. Dans le même temps, le gouvernement doit renoncer à plusieurs mesures face à la contestation (hausse des prélèvements sur les produits d'épargne, écotaxe, taxe sur les transactions financières, modulation des taux de TVA, baisse du plafond du quotient familial, taxe sur l'EBE)153,154,155.
+
+Au début de l'année 2014, plusieurs de ses déclarations conduisent certains commentateurs et politiques à parler de « virage social-démocrate ». Après avoir fait voter la hausse du taux normal de TVA de 19,6 % à 20 %, contrairement à ses engagements de campagne, François Hollande propose, lors de ses vœux du 31 décembre 2013, un allègement des charges patronales en échange de créations d'emplois156. Cette proposition surprend au sein de la majorité et suscite les critiques des syndicats de salariés et de la gauche radicale, qui dénoncent une nouvelle mesure en faveur du patronat. La droite, de son côté, fait part de son scepticisme157.
+
+Le 8 janvier 2015, il décrète une journée de deuil national à la suite de l'attentat contre Charlie Hebdo survenu la veille158,159. Au lendemain des attentats du 13 novembre 2015 ayant fait au moins 129 morts, il convoque le Congrès. Le 16 novembre, il y annonce une révision de la Constitution en vue d'instituer un état intermédiaire permettant « la prise de mesures exceptionnelles pour une certaine durée sans recourir à l’état d’urgence et sans compromettre l’exercice des libertés publiques »160 et des moyens supplémentaires pour la police et la Justice justifiant que « le pacte de sécurité l'emporte sur le pacte de stabilité » budgétaire européen160.
+Évolution de la popularité
+
+Dès sa prise de fonctions, la cote de popularité de François Hollande est à un niveau beaucoup plus faible que celle de ses prédécesseurs (53 % selon le baromètre Ipsos-Le Point). La presse souligne cette absence d'état de grâce dans une période de crise161.
+Manifestants reprochant à François Hollande ses réserves sur l'ouverture du mariage aux couples de personnes de même sexe.
+
+Sa popularité connait un premier fléchissement à la fin de l'été 2012, notamment à la suite de ses vacances prises à Brégançon alors que les plans sociaux se succèdent et que les tensions culminent sur le site industriel de Florange, dont il avait promis de sauver les hauts fourneaux162. Sa popularité continue par la suite à décroître avec des mesures fiscales comme la fin de la défiscalisation des heures supplémentaires et la hausse des prélèvements obligatoires162. La hausse du chômage se poursuit également. Dans le même temps, son action et son style (qualifié par lui-même de « normal »163) suscitent des interrogations et des critiques, y compris au sein de la gauche164. L'opposition dénonce en particulier son manque de réactivité et l'absence de « réformes structurelles » en période de crise164. Dans un entretien au Monde, François Hollande réplique en opposant son mode de gouvernance à celui de Nicolas Sarkozy et en mettant en avant sa « constance »165.
+
+En mai 2013, L’Express expose, à partir des résultats de plusieurs sondages, cinq raisons à l'impopularité croissante du président de la République : absence de gouvernance, absence d'autorité, absence de ligne directrice, opposition d'une partie de la population au projet d'ouverture du mariage aux couples de personnes de même sexe, promesses économiques non tenues166. L'éditorialiste François Lenglet estime ainsi que c'est le non-respect de trois promesses fondamentales ayant trait à l'économie du pays (celle de la résorption du déficit public à 3 % du PIB en 2013 - s'établissant finalement à 4,1 % -, celle d'inverser la courbe du chômage cette même année et l'engagement de « stabilité fiscale ») qui explique une grande partie de la très forte et persistante impopularité de l'exécutif167. L'affaire Cahuzac et ses prises de position dans le conflit syrien ont également un impact négatif sur la perception de son action162.
+
+En octobre 2013, l'affaire Leonarda conduit à un changement de la nature de l'impopularité de François Hollande : alors qu'auparavant les mauvais résultats économiques et les hausses d'impôts en constituaient les facteurs essentiels, Le Point note que cette affaire impacte directement le jugement de la personnalité de François Hollande ; en novembre 2013, il est considéré comme le président le moins courageux de la Ve République168 et apparaît, d'après une analyse de BVA, comme « incapable de trancher »169. Le même mois, le baromètre Ifop indique que François Hollande bat le record d'impopularité pour un président de la Ve République, avec seulement 20 % d'avis favorables170.
+
+Dès 2013, l'hypothèse que Manuel Valls lui soit préféré en vue de la présidentielle de 2017 est évoquée171,172. Plusieurs sondages donnent en effet François Hollande éliminé de la compétition présidentielle dès le premier tour173,174. À la suite des élections municipales et européennes de 2014, qui sont un échec pour la gauche, sa popularité continue à diminuer (18 % de satisfaction contre 82 % de mécontents selon le baromètre Ifop), y compris chez les sympathisants socialistes, qui ne lui accordent plus majoritairement leur confiance162. Son impopularité record sous la Cinquième République est confirmée en septembre 2014 par tous les instituts de sondage, avec des taux d'opinions favorables allant de 13 à 19 %175.
+François Hollande en meeting à Carcassonne le 19 mai 2015
+
+Valérie Trierweiler publie, le 4 septembre 2014, Merci pour ce moment, un essai autobiographique relatant sa vie privée avec François Hollande176,177,178,179. En dépit d'une impopularité croissante, le président de la République conservait, avant la publication de cet ouvrage, l'image d’une personne sympathique et avenante180. Dans son livre, Valérie Trierweiler décrit François Hollande comme un homme froid, cynique et menteur181,182,183,184. Elle affirme notamment qu'il est méprisant à l'égard des pauvres, qu'il appellerait les « sans-dents », une expression qui est largement relayée dans la presse et qui produit un effet particulier dans l'opinion publique185,186,187,188,n 5.
+
+En janvier 2015, les attentats islamistes en France, qui font 17 morts en trois jours, sont à l'origine d'un mouvement d'union nationale face au terrorisme189,190. La gestion des événements par l'exécutif et la participation de François Hollande à la marche du 11 janvier 2015 permettent à celui-ci de voir son niveau de bonnes opinions passer de 19 % à 40 % selon le baromètre Ifop-Fiducial191. Mais sa popularité repart à la baisse dès le mois suivant192. Dans le même contexte, en décembre 2015, à la suite des attentats du 13 novembre 2015, la cote de popularité de François Hollande augmente de 22 points pour atteindre 50 % d'opinions favorables, selon le baromètre Ifop-Fiducial193.
+Politique internationale
+
+Le jour de son investiture, il effectue sa première visite à l'étranger en se rendant à Berlin pour rencontrer la chancelière allemande, Angela Merkel194. Le 18 mai, il se rend à Washington pour un entretien bilatéral avec Barack Obama, le président des États-Unis. Les sujets évoqués sont notamment la situation économique de la zone euro et le retrait des forces combattantes françaises d'Afghanistan195. François Hollande participe le lendemain au sommet du G8 à Camp David196, puis il se rend au 25e sommet de l'OTAN à Chicago197 les 20 et 21 mai198.
+
+Sa promesse de campagne sur le retrait de tous les militaires d'Afghanistan se limite aux « troupes combattantes », soit 2 000 soldats199. Il restera alors, après le 31 décembre 2012, plus de 1400 militaires200 toujours sous commandement de l'ISAF, et dont la mission exacte demeure « floue »201,202. Le 25 mai 2012, il se rend à Kaboul afin de présenter son plan de retrait aux troupes sur place203.
+
+Dans le cadre de la guerre civile syrienne, François Hollande demande le départ de Bachar el-Assad et la constitution d'un gouvernement de transition, ainsi qu'une intervention du Conseil de sécurité de l'ONU (au sein duquel la Russie et la Chine bloquent toute opération). Dans ce cadre, il n'exclut pas une intervention armée204,205. Dans la continuité de Nicolas Sarkozy, il poursuit la collaboration controversée avec le Qatar, soupçonné de favoriser la prise de pouvoir d'organisations islamistes wahhabites et takfiristes dans les pays touchés par le Printemps arabe206,207, tout en relançant les relations avec l'Arabie saoudite208,209.
+
+Sur le plan européen, il se prononce pour la ratification du pacte budgétaire européen signé par Nicolas Sarkozy et renonce à transmettre à ses partenaires européens un mémorandum détaillé proposant un pacte de croissance dans le but de compléter le traité de stabilité et réorienter la construction européenne vers la croissance. Il obtient néanmoins la mise en place de quelques mesures de croissance en Europe, même si celles-ci sont considérées comme assez faibles210.
+John Kerry reçu par François Hollande à l'Élysée, en 2013.
+François Hollande reçu par le couple présidentiel américain, le 11 février 2014.
+
+Ses relations avec Angela Merkel sont si tendues que, dès octobre 2012, le Spiegel s'interroge sur la pérennité de l'alliance franco-allemande ; il note également que si son prédécesseur Nicolas Sarkozy pouvait également avoir des divergences avec la chancelière, ils parvenaient à se mettre d'accord sur une position commune avant un sommet européen, alors que les relations sont devenues bien plus conflictuelles avec François Hollande211. Angela Merkel s’inquiète aussi que le PS français puisse soutenir le SPD allemand lors des élections allemandes de 2013 après qu'elle a pour sa part pris position pour Nicolas Sarkozy lors des élections françaises de 2012211. La coopération franco-allemande s'améliore ensuite, avec la décision d'un plan commun pour l'emploi des jeunes officialisé après le sommet franco-allemand de mai 2013212. François Hollande et Angela Merkel s'accordent sur un mécanisme de taxe sur les transactions financières, qu'ils cherchent à imposer aux autres pays européens avant les élections européennes de 2014213.
+
+Le 11 janvier 2013, après un appel à l'aide du président malien par intérim, Dioncounda Traoré, et en invoquant un accord avec les résolutions du Conseil de sécurité de l'ONU, il annonce une intervention militaire limitée en soutien aux Forces armées et de sécurité du Mali qui luttent sur leur territoire contre des groupes terroristes islamistes, alors que l'état d'urgence y est décrété : c'est le lancement de l'opération Serval214. Cette décision est saluée par une grande partie de la classe politique française215. François Hollande est également soutenu dans cette démarche par les pays d'Afrique de l'Ouest, le Royaume-Uni, les États-Unis, l'Allemagne et la Russie216.
+
+Fin août 2013, François Hollande attribue la responsabilité de l'utilisation d'armes chimiques dans le cadre de la guerre civile syrienne au régime de Bachar el-Assad, qu'il menace d'une intervention militaire punitive sans passer par un accord de l'ONU. Mais cette option n'est plus privilégiée après le vote négatif du Parlement britannique et la décision du président américain, Barack Obama, de finalement solliciter le Congrès sur la question. François Hollande est alors critiqué pour son côté « va-t-en-guerre », les titres de presse le présentant comme « piégé » sur la scène internationale et « seul » sur le front interne, au vu de l'opposition des Français à toute intervention militaire217,218,219. La « débâcle » de la diplomatie française est amplement commentée à l'étranger220,221. Une proposition russe, émise le 9 septembre 2013 par Sergueï Lavrov, prévoit finalement le placement des stocks syriens d'armes chimiques sous contrôle international.
+
+Début décembre 2013, il lance l'opération Sangaris en République centrafricaine, dont le but est de mettre fin à la « faillite totale de l'ordre public, l'absence de l'État de droit et les tensions interconfessionnelles » selon le mandat de l'ONU222.
+
+Conformément aux usages des présidents de la Ve République, François Hollande effectue une visite au Saint-Siège le 24 janvier 2014223. À cette occasion, il est reçu en audience privée par le pape François ; il est ensuite reçu par le secrétaire d'État du Vatican, Mgr Pietro Parolin.
+
+Les 27 et 28 janvier 2014, il entreprend une visite officielle en Turquie, vingt-deux ans après la dernière visite d'État d'un président français, celle de François Mitterrand en 1992, avec la volonté de relancer les relations franco-turques et la procédure d'adhésion de la Turquie à l'Union européenne, à laquelle son prédécesseur Nicolas Sarkozy était hostile224,225. À cette occasion, il s'engage à ce que l'adhésion de la Turquie soit soumise à un référendum en France226 et appelle Ankara à « faire son travail de mémoire » sur le génocide arménien, dont il s'est engagé à pénaliser la négation en France227.
+
+Du 10 au 12 février 2014, il est en visite d'État aux États-Unis, 18 ans après celle de Jacques Chirac en 1996228.
+
+Au cours de l'année 2015, il est fortement impliqué en soutien au gouvernement grec d'Aléxis Tsípras dans les négociations autour de crise de la dette publique grecque afin de maintenir ce pays dans la zone euro229. Ce soutien renforce les dissensions au sein du couple franco-allemand230. En octobre 2015, lors d'une visite officielle en Grèce, il est accueilli par Aléxis Tsípras — qui souligne l'importance de son rôle dans l'accord du 13 juillet —, et fait l'objet d'une standing ovation du Parlement grec ; il plaide pour une réflexion européenne sur le service de la dette grecque avec un rééchelonnement des intérêts231.
+François Hollande avec Vladimir Poutine, en novembre 2015.
+
+En réponse aux pires attentats terroristes que la France ait connu depuis des décennies, François Hollande annonce l'intensification des frappes de l'armée de l'air française menées contre l'État islamique, notamment à Raqqa (le Charles de Gaulle est par ailleurs dépêché vers le Moyen-Orient pour renforcer la puissance de frappe française dans cette zone)232. Est également décidée une « collaboration plus étroite » avec les forces armées russes, qui bombardent également l'organisation terroriste233. La diplomatie française fait parallèlement adopter à l'unanimité par le Conseil de sécurité des Nations unies une résolution appelant à user de « toutes les mesures nécessaires » pour vaincre l'État Islamique, organisation reconnue comme « menace mondiale et sans précédent contre la paix et la sécurité internationales234. » Ces prises de position de François Hollande marquent une nette évolution par rapport à ses déclarations passées, notamment concernant son refus de toute action conjointe avec la Russie et sa volonté, exprimée en 2013, d'une intervention militaire en Syrie dans le seul but de renverser Bachar el-Assad235.
+Comme co-prince d'Andorre
+
+Durant son mandat de président de la République française, François Hollande est ex officio l'un des deux chefs d'État de la principauté d'Andorre, micro-État indépendant voisin de la France. Ce rôle est essentiellement symbolique, mais lui permet en principe d'« arbitrer les institutions, participer aux orientations économiques du pays et agir comme représentant [d'Andorre] sur la scène internationale »236. Après son élection en 2012, il reçoit ainsi Antoni Martí Petit, chef du gouvernement, et Vicenç Mateu Zamora, président de l'assemblée législative, avec qui il évoque notamment la politique fiscale et les échanges commerciaux entre l'Andorre et la France237,238. Il encourage d'importantes réformes fiscales visant à faire abandonner à la principauté son statut de « paradis fiscal ». En 2013, le gouvernement andorran annonce l'introduction d'un « impôt sur le revenu généralisé »239.
+
+François Hollande visite à nouveau l'Andorre en juin 2014, et y inaugure les nouveaux locaux du Parlement. S'exprimant devant celui-ci, puis devant la population sur la place du Peuple à Andorre-la-Vieille, il loue les réformes fiscales entreprises par le gouvernement de la principauté240,241.
+Mandats et fonctions
+Mandats parlementaires
+
+    23 juin 1988 - 1er avril 1993 : député de la première circonscription de la Corrèze.
+    12 juin 1997 - 14 mai 2012 : député de la première circonscription de la Corrèze.
+    20 juillet 1999 - 17 décembre 1999 : député européen.
+
+Mandats locaux
+
+    14 mars 1983 - 16 mars 1989 : conseiller municipal d'Ussel.
+    17 mars 1989 - 24 juin 1995 : adjoint au maire de Tulle.
+    23 mars 1992 - 30 mars 1992 : conseiller régional du Limousin.
+    16 décembre 1993 - 30 juin 1995 : président de la communauté de communes Tulle et Cœur de Corrèze.
+    25 juin 1995 - 18 mars 2001 : conseiller municipal de Tulle.
+    16 mars 1998 - 2 avril 2001 : conseiller régional du Limousin.
+    19 mars 2001 - 17 mars 2008 : maire de Tulle.
+    16 mars 2008 - 11 mai 2012 : conseiller général de la Corrèze, pour le canton de Vigeois.
+    20 mars 2008 - 11 mai 2012 : président du conseil général de la Corrèze.
+
+Fonctions politiques
+
+    1995 - 1997 : porte-parole, secrétaire national du Parti socialiste, chargé de la presse.
+    1997 - 2008 : membre du bureau national et premier secrétaire du Parti socialiste.
+
+Présidence de la République
+
+    Depuis le 15 mai 2012 : président de la République française et coprince d'Andorre
+
+Distinctions et décorations
+En tant que président de la République
+
+    Grand maître de l'ordre national de la Légion d'honneur242.
+    Grand maître de l'ordre national du Mérite.
+    Chanoine d'honneur de l'Archibasilique Saint-Jean de Latran, des cathédrales Saint-Jean-de-Maurienne, Saint-Julien du Mans et Saint-Étienne de Châlons, des églises de Saint-Hilaire de Poitiers, de Saint-Martin de Tours et Saint-Martin d'Angers.
+    Proto-chanoine de la cathédrale Notre-Dame d'Embrun et de Notre-Dame de Cléry.
+
+Décorations officielles
+
+    Legion Honneur GC ribbon.svg Grand-croix de l'ordre national de la Légion d'honneur de droit en tant que grand maître de l'Ordre (15 mai 2012).
+    National Order of Merit Grand Cross Ribbon.png Grand-croix de l'ordre national du Mérite de droit en tant que grand maître de l'Ordre (15 mai 2012).
+    POL Order Orła Białego BAR.svg Chevalier de l'Ordre de l'Aigle blanc (Pologne) le 16 novembre 2012243,244.
+    ITA OMRI 2001 GC-GCord BAR.svg Chevalier grand-croix au grand cordon de l'Ordre du Mérite de la République italienne le 21 novembre 2012245.
+    Ordre du Ouissam El Mohammad, classe exceptionnelle (Maroc) le 3 avril 2013246.
+    Mali Ordre national du Mali GC ribbon.svg Grand-croix de l'Ordre national du Mali (15 juillet 2013)247.
+    SVK Rad Bieleho Dvojkriza 1 triedy BAR.svg Ordre de la Double Croix blanche, première classe (Slovaquie) le 29 octobre 2013248.
+    MCO Order of Saint-Charles - Grand Cross BAR.png Grand-Croix de l'Ordre de Saint-Charles (Monaco) le 14 novembre 2013249.
+    NLD Order of the Dutch Lion - Grand Cross BAR.png Chevalier grand-croix de l'Ordre du Lion néerlandais (20 janvier 2014)250.
+    Order of the Bath (ribbon).svg Chevalier grand-croix de l'Ordre du bain (Royaume-Uni) (5 juin 2014)251.
+    Order of the Seraphim - Ribbon bar.svg Chevalier de l'Ordre du Séraphin (Suède) (2 décembre 2014)252
+
+Autres distinctions
+
+    Docteur honoris causa de l'université Aboubakr-Belkaïd de Tlemcen253,254.
+    Docteur honoris causa de l'Université d'Athènes231.
+
+Dans les arts et la culture populaire
+Télévision
+
+    Dans les Guignols de l'info, François Hollande possède sa marionnette depuis qu'il a été tête de liste pour les élections européennes de 1999. Il est présenté comme assez naïf et termine chacune de ses interventions par un rire simplet. C'est l'imitateur Nicolas Canteloup qui lui prête sa voix jusqu'en 2011, date à laquelle il est remplacé par Thierry Garcia, ceci s'accompagnant également d'un changement de marionnette255.
+    La Dernière Campagne, téléfilm de 2013 réalisé par Bernard Stora. Bernard Le Coq interprète Jacques Chirac, Patrick Braoudé François Hollande, et Thierry Frémont Nicolas Sarkozy.
+
+Publications
+Ouvrages
+
+    L'Heure des choix. Pour une économie politique, avec Pierre Moscovici, 1991 (ISBN 978-2738101464).
+    Devoirs de vérité, entretiens avec Edwy Plenel, éditions Stock, 2007 (ISBN 978-2234059344).
+    Droit d'inventaires, entretiens avec Pierre Favier, éditions du Seuil, 2009 (ISBN 978-2020979139).
+    Le Rêve français, éditions Privat, août 2011 (ISBN 978-2708944411).
+    Un destin pour la France, éditions Fayard, janvier 2012 (ISBN 978-2213662831).
+    Changer de destin, éditions Robert Laffont, 23 février 2012 (ISBN 978-2221131176).
+    Discours du Bourget et autres discours de la campagne présidentielle, L'Harmattan, 2 avril 2012 (ISBN 978-2296960756)
+    Dialogue sur la politique. La Gauche et la crise, avec Edgar Morin, éditions de l'Aube, 7 septembre 2012 (ISBN 978-2815906630)
+
+Ouvrages collectifs
+
+    La Gauche bouge, sous le pseudonyme de Jean-François Trans, éditions Jean-Claude Lattès, 1985.
+    Changer d'Europe, Syros, 1994 (ISBN 2841460177)
+    L'Idée socialiste aujourd'hui, éditions Omnibus, 2001 (ISBN 978-2259195843).
+    Quelle VIe République ?, Le Temps des cerises, 2007 (ISBN 978-2841091614)
+
+Préfaces
+
+    La Fin du cumul des mandats de Bernard Roman, éd. B. Leprince, 2000.
+    Le Socialisme selon Léon Blum de David Frapet, éditions Créer, 2003.
+    Socialisme sans discriminations de Joseph Yakete, L'Harmattan, 2005.
+    Choisir. Entretiens avec Jean Bothorel de Pierre Mendès France, Fayard, 2006.
+    Les Grands discours socialistes français du XXe siècle, éditions Complexe, 2007.
+    Le Dernier Chirac de Bruno Dive, éditions Jacob-Duvernet, 2009.
+    Pourquoi pas le socialisme ? de Gerald Cohen, L'Herne, 2010 (ISBN 978-2851979216).
+    De Mendès France à Bérégovoy : l'honneur en politique de Régis Paranque, Pascal Galodé édition, 2011.
+    Bort-les-Orgues, un barrage dans l'histoire de Alexandre Pau, éditions Privat, 2011.
+    Le Rapport Beveridge de William Beveridge, éditions Perrin, 2012.
+    Quelle République pour le XXIe siècle ? d'Eric Ferrand, éditions Le Publieur, 2012.
+    Mes points sur les i. Propos sur la présidentielle et la crise de Michel Rocard, éditions Odile Jacob, 2012.
+    François Hollande président de Stéphane Ruet et Valérie Trierweiler, Le Cherche midi, 2012.
+
+Annexes

@@ -1,33 +1,33 @@
-Le mail "bioinfo_2014-02_8" est globalement en : FRA
-[('ENG', 0.2733443441529877), ('FRA', 0.5119970394648647)]
+Le mail "bioinfo_2014-02_8" est globalement en : french
+[('french', 0.07535786384469276), ('english', 3.0026674153439004)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Stage Master Biologie Computationnelle
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Proposition STAGE : Biologie Computationnelle
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Un stage de Master est proposé dans l’équipe de Catalyse et Ingénierie 
 Moléculaire Enzymatiques du Laboratoire d'Ingénierie des Systèmes 
 Biologiques et des Procédés (UMR - CNRS 5504 - INRA 792) de l’INSA de 
 Toulouse.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Sujet : "Développement et validation d’outils computationnels de design 
 des interactions enzyme-substrat "
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Le projet de stage s’inscrit dans la poursuite des travaux actuels de 
 l’équipe et porte sur le développement et la validation de méthodologies 
 computationnelles pour le design d’enzymes. Les nouveaux algorithmes 
@@ -44,14 +44,14 @@ dans l’équipe ainsi qu’un travail d'application sur des systèmes
 enzymatiques modèles.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Conditions :
 Rémunération: application de la convention pour la rémunération des 
 stagiaires
 Prolongement en thèse envisageable
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Laboratoire d’accueil
 Laboratoire d'Ingénierie des Systèmes Biologiques et des Procédés (LISBP)
 UMR - CNRS 5504 - INRA 792
@@ -60,7 +60,7 @@ Institut National des Sciences Appliquées
 F-31077 Toulouse Cedex 04 France
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Responsable du stage
 Sophie Barbe
 Tél : 05 61 55 99 63
@@ -72,7 +72,7 @@ E-mail : sophie.barbe@insa-toulouse.fr
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Proposition STAGE : Biologie Computationnelle
 
 Un stage de Master est proposé dans l’équipe de Catalyse et Ingénierie 
@@ -80,7 +80,7 @@ Moléculaire Enzymatiques du Laboratoire d'Ingénierie des Systèmes
 Biologiques et des Procédés (UMR - CNRS 5504 - INRA 792) de l’INSA de 
 Toulouse.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Sujet : "Développement et validation d’outils computationnels de design 
 des interactions enzyme-substrat "
 
@@ -88,27 +88,27 @@ Le projet de stage s’inscrit dans la poursuite des travaux actuels de
 l’équipe et porte sur le développement et la validation de méthodologies 
 computationnelles pour le design d’enzymes.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Les nouveaux algorithmes 
 proposés visent à prendre en compte la flexibilité, à la fois du 
 substrat et de l’enzyme, afin de proposer in fine des techniques de 
 criblage virtuel d’enzymes, encore peu développées par rapport à celles 
 dédiées au drug design.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Ces approches computationnelles viseront à 
 reprogrammer la fonction catalytique des enzymes, afin d’accélérer la 
 construction de catalyseurs enzymatiques répondant à des besoins 
 biotechnologiques spécifiques, tels qu’une efficacité ou sélectivité 
 accrues, une nouvelle spécificité de substrat, ….
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Le stage inclura un 
 travail d'amélioration des méthodologies computationnelles développées 
 dans l’équipe ainsi qu’un travail d'application sur des systèmes 
 enzymatiques modèles.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Conditions :
 Rémunération: application de la convention pour la rémunération des 
 stagiaires

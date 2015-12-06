@@ -1,34 +1,34 @@
-Le mail "bioinfo_2014-04_93" est globalement en : ENG
-[('ENG', 0.4005194557484932), ('FRA', 1.497808670720792)]
+Le mail "bioinfo_2014-04_93" est globalement en : english
+[('english', 0.04317642734888339), ('french', 0.398130943930827)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Fwd: Bordeaux Workshop on Bio-Informatics of Personalised Treatment of Cancer, 20th of June
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Registration addendum
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Dear colleagues, please use the following URL for Workshop registration: http://siric-brio.com/actualites/3283/
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Best regards,
 Macha Nikolski.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Begin forwarded message:
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	> From: Macha Nikolski <macha@labri.fr>
 > Subject: Bordeaux Workshop on Bio-Informatics of Personalised Treatment of Cancer, 20th of June
 > Date: April 25, 2014 9:07:14 PM GMT+02:00
@@ -94,7 +94,7 @@ Le paragraphe 5 est en : ENG
 > Hervé Bonnefoi, SIRIC BRIO Breast Group, Institut Bergonié
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	--
 Head of Bordeaux Bioinformatics Center
 Research Scientist LaBRI / CNRS
@@ -104,7 +104,7 @@ www : http://dept-info.labri.fr/~macha/
 tel : 05 57 57 12 47
 
 ==========================================
-Le paragraphe 7 est en : n
+Le paragraphe 7 est en : non detect
 	
 
 ==========================================
@@ -112,7 +112,7 @@ Le paragraphe 7 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Registration addendum
 
 Dear colleagues, please use the following URL for Workshop registration: http://siric-brio.com/actualites/3283/
@@ -120,7 +120,7 @@ Dear colleagues, please use the following URL for Workshop registration: http://
 Best regards,
 Macha Nikolski.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Begin forwarded message:
 
 > From: Macha Nikolski <macha@labri.fr>
@@ -130,26 +130,26 @@ La phrase 2 est en : ENG
 > 
 > The First Bordeaux Workshop on Bio-Informatics of Personalised Treatment of Cancer will take place on the 20th of June 2014.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	> 
 > Sequencing revolution is making increasingly possible to use genomic information in the clinical practice for cancer treatment.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	It is particularly salient in the design of clinical trial stratification strategies, with the ultimate goal being to adjust cancer treatment to genomic profile of a patient.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Both quantity and complexity of the available information make bioinformatics an essential part in most steps of this new personalised treatment approach.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	> 
 > Address: Espace Agora Domaine du Haut-Carré, 43 rue Pierre Noailles, 33400 Talence 
 > 
 > The workshop is free of charge, but you have to register by sending an e-mail to macha@labri.fr and R.Iggo@bordeaux.unicancer.fr.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	> Before 30th of May we will go through the registration list and send you a confirmation for participation.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	This will be done on the first come first served basis (if you need this confirmation earlier, please mention this in your e-mail)
 > 
 > Workshop schedule

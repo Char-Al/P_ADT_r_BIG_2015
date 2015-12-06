@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_90" est globalement en : FRA
-[('FRA', 0.3922202708320039), ('ENG', 5.166892744039158)]
+Le mail "bioinfo_2014-10_90" est globalement en : french
+[('french', 0.36797824047025063), ('english', 0.9528179494978347)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Bioinformatique et analyse de d  onnées de séquençage nouvelle- génération
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformatique et analyse de données de séquençage  
 nouvelle-génération
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : raphael.mourad@ibcg.biotoul.fr
 Laboratoire : Laboratoire de Biologie Moléculaire Eucaryote (LBME)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatique-et-analyse-de-donn%C3%A9es-de-s%C3%A9quen%C3%A7age-nouvelle-g%C3%A9n%C3%A9ration
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/bioinformatique-et-analyse-de-donn%C3%A9es-de-s%C3%A9
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Bioinformatique et analyse de données de séquençage  

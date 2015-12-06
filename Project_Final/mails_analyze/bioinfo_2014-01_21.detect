@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_21" est globalement en : FRA
-[('FRA', 0.289556321800677), ('ENG', 0.5310127373795097)]
+Le mail "bioinfo_2014-01_21" est globalement en : french
+[('french', 0.07956620080702644), ('english', 2.0697244267684565)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Sujet stage de M2R - Comparaison de méthodes d'analyse (IBC, Montpellier)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Veuillez trouver ci-dessous un sujet de stage de M2R à lInstitut de
 Biologie Computationnelle de Montpellier.
 Le sujet est aussi disponible à ladresse suivante :
@@ -25,12 +25,12 @@ Cordialement,
 Sarah Cohen-Boulakia
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	*** Conception dun module de Provenance dans OpenAlea pour léchange et la
 comparaison de méthodes danalyse ***
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	Encadrants : Sarah Cohen-Boulakia (contact : cohen@lri.fr) et Patrick
 Valduriez 
 En collaboration avec Christophe Pradal
@@ -38,7 +38,7 @@ Lieu : Institut de Biologie Computationnelle (IBC), Montpellier
 Rémunération : 436 euros/mois (gratification)
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Contexte
 La taille et la quantité des données scientifiques produites et disponibles
 ont considérablement augmentées au cours des dernières années. En plus de
@@ -63,7 +63,7 @@ proposition dun standard très général de provenance OPM, Open Provenance
 Model [MCF+11]. 
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	OpenAlea [PDB+08] est une plateforme danalyse, de visualisation et
 modélisation du fonctionnement et de la croissance de larchitecture des
 plantes. Elle offre un point daccès unique à un ensemble de données et
@@ -75,7 +75,7 @@ décrivant une analyse complète. La plateforme compte aujourdhui plusieurs
 centaines dutilisateurs. 
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Lobjectif général de ce stage est de doter OpenAlea dun module de
 Provenance capable de garder la trace précise de la composition des
 dataflows et des exécutions (outils utilisés, paramètres et données prises
@@ -94,7 +94,7 @@ de détails plus ou moins important selon ses souhaits pour ne pas être
 submergé dinformations.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Travail attendu
 Le but de ce stage est (i) de proposer une représentation concise,
 expressive et capable de prendre en compte des niveaux de granularités de
@@ -116,7 +116,7 @@ dataflows et dexécutions à divers niveaux de granularités
 différenciation des dataflows et exécutions dans la plateforme OpenAlea
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : french
 	Références
 [ABM+09] Anand, M. K., Bowers, S., McPhillips, T., & Ludäscher, B. (2009,
 March). Efficient provenance storage over nested data collections. In
@@ -124,52 +124,52 @@ Proceedings of the 12th International Conference on Extending Database
 Technology: Advances in Database Technology (pp. 958-969). ACM.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	[BCD+09] Bao, Z., Cohen-Boulakia, S., Davidson, S. B., Eyal, A., & Khanna,
 S. (2009, March). Differencing provenance in scientific workflows. In Data
 Engineering, 2009. ICDE'09. IEEE 25th International Conference on (pp.
 808-819). IEEE.
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	[BCD+08] Biton, O., Cohen-Boulakia, S., Davidson, S. B., & Hara, C. S.
 (2008, April). Querying and managing provenance through user views in
 scientific workflows. In Data Engineering, 2008. ICDE 2008. IEEE 24th
 International Conference on (pp. 1072-1081). IEEE.
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	[MCF+11] Moreau, L., Clifford, B., Freire, J., Futrelle, J., Gil, Y., Groth,
 P., & den Bussche, J. V. (2011). The open provenance model core
 specification (v1. 1). Future Generation Computer Systems, 27(6), 743-756.
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : french
 	[MLA+08] Moreau, L., Ludäscher, B., Altintas, I., Barga, R. S., Bowers, S.,
 Callahan, S., et al (2008). Special issue: The first provenance challenge.
 Concurrency and computation: practice and experience, 20(5), 409-418.
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	[MPB10] Missier, P., Paton, N. W., & Belhajjame, K. (2010, March).
 Fine-grained and efficient lineage querying of collection-based workflow
 provenance. In Proceedings of the 13th International Conference on Extending
 Database Technology (pp. 299-310). ACM.
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	[PDB+08] C. Pradal, S. Dufour-Kowalski, F. Boudon, C. Fournier, C. Godin.
 OpenAlea: A visual programming and component-based software platform for
 plant modeling. Functional Plant Biology
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	[SGM11] Simmhan, Y., Groth, P., & Moreau, L. (2011). Special Section: The
 third provenance challenge on using the open provenance model for
 interoperability. Future Generation Computer Systems, 27(6), 737-742.
 
 ==========================================
-Le paragraphe 17 est en : FRA
+Le paragraphe 17 est en : french
 	--
 Sarah Cohen-Boulakia
 Maître de conférences
@@ -177,7 +177,7 @@ Laboratoire de Recherche en Informatique
 Université Paris Sud
 
 ==========================================
-Le paragraphe 18 est en : n
+Le paragraphe 18 est en : non detect
 	
 
 ==========================================
@@ -185,13 +185,13 @@ Le paragraphe 18 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Veuillez trouver ci-dessous un sujet de stage de M2R à lInstitut de
 Biologie Computationnelle de Montpellier.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Le sujet est aussi disponible à ladresse suivante :
 https://www.lri.fr/~cohen/IBC/OpenAleaDataflows.pdf
 Merci de me contacter si vous êtes intéressé(e)s.
@@ -211,24 +211,24 @@ Contexte
 La taille et la quantité des données scientifiques produites et disponibles
 ont considérablement augmentées au cours des dernières années.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	En plus de
 devoir être stockées et gérées, la tâche la plus importante réalisée sur ces
 ensembles de données est leur analyse qui met en jeu une série doutils
 bioinformatiques complexes et dédiés au domaine détude.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Une telle analyse
 est typiquement réalisée par lassemblage détapes impliquant une multitude
 de scripts, doutils et dalgorithmes.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Des efforts considérables ont été
 réalisés dans le développement de systèmes et plateformes capables de
 fournir un soutien à lutilisateur lors de la conception et la gestion de
 telles analyses (appelés « workflow systems » ou « dataflow systems »).
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Certains de ces systèmes ont depuis quelques années des modules de
 provenance, capable de garder la trace précise des lancements
 denchaînements doutils effectués, offrant à lutilisateur la possibilité
@@ -237,59 +237,59 @@ informations relatives à la qualité des résultats obtenus (qualité relative
 à la fiabilité des outils utilisés, des données prises en entrées, des types
 de paramètres utilisés etc.).
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Face à la multitude de représentations
 disponibles pour les données de provenance [MPB10], [ABM+09] une série de
 Provenance Challenges [MLA+08] [SGM11] a été organisée, débouchant sur la
 proposition dun standard très général de provenance OPM, Open Provenance
 Model [MCF+11].
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	OpenAlea [PDB+08] est une plateforme danalyse, de visualisation et
 modélisation du fonctionnement et de la croissance de larchitecture des
 plantes.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Elle offre un point daccès unique à un ensemble de données et
 doutils danalyse tout en fournissant aussi à ses utilisateurs la
 possibilité de créer de nouveaux outils (en python) danalyse et de
 modélisation.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Ces différents outils peuvent être utilisés les uns à la suite
 des autres formant ainsi des dataflows ou (workflows scientifiques)
 décrivant une analyse complète.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	La plateforme compte aujourdhui plusieurs
 centaines dutilisateurs.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Lobjectif général de ce stage est de doter OpenAlea dun module de
 Provenance capable de garder la trace précise de la composition des
 dataflows et des exécutions (outils utilisés, paramètres et données prises
 en entrée et générées).
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Ce module devra permettre aux utilisateurs de
 connaître lévolution dun dataflow : « quel module a été modifié ou ajouté
 entre deux versions de ce dataflow ?», « quelles sont les différences entre
 deux dataflows ayant le même but général (ie produisant le même type de
 donnée) mais ayant été conçu par deux équipes/personnes différentes » ?...
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Ce module devra aussi permettre aux utilisateurs de comprendre mieux les
 résultats différents obtenus par les exécutions dun même dataflow (rôle du
 paramétrage des outils impliqués dans le dataflow, rôle des données
 dentrée) [BCD+09].
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	Les réponses à ces questions doivent pouvoir être considérées à différents
 niveaux de granularité [BCD+08] en fournissant à lutilisateur des niveaux
 de détails plus ou moins important selon ses souhaits pour ne pas être
 submergé dinformations.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Travail attendu
 Le but de ce stage est (i) de proposer une représentation concise,
 expressive et capable de prendre en compte des niveaux de granularités de
@@ -297,7 +297,7 @@ provenance différents des dataflows dOpenAlea et de leurs exécutions
 (compatible avec les standards de provenance) et (ii) dintroduire un
 algorithme efficace de comparaison de ces dataflows et exécutions.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Plus
 spécifiquement, les différentes tâches attendues sont les suivantes :
 (1)	Représentation des dataflows (modules et les liens entre les
@@ -305,12 +305,12 @@ modules), représentation des exécutions des dataflows (données consommées et
 produites lors dune exécution et exécution de modules), définition de la
 relation entre ces représentations (models of computation).
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Différents
 niveaux de granularité/détail devront pouvoir être considérés dans ces
 représentations.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	(2)	Proposition dune structure de stockage et dun format déchange
 pour les dataflows et leurs exécutions
 (3)	Conception et implémentation dun algorithme de comparaison de
@@ -321,133 +321,133 @@ différenciation des dataflows et exécutions dans la plateforme OpenAlea
 Références
 [ABM+09] Anand, M. K., Bowers, S., McPhillips, T., & Ludäscher, B.
 ==========================================
-La phrase 20 est en : ENG
+La phrase 20 est en : english
 	(2009,
 March).
 ==========================================
-La phrase 21 est en : ENG
+La phrase 21 est en : english
 	Efficient provenance storage over nested data collections.
 ==========================================
-La phrase 22 est en : ENG
+La phrase 22 est en : english
 	In
 Proceedings of the 12th International Conference on Extending Database
 Technology: Advances in Database Technology (pp.
 ==========================================
-La phrase 23 est en : n
+La phrase 23 est en : non detect
 	958-969).
 ==========================================
-La phrase 24 est en : ENG
+La phrase 24 est en : english
 	ACM.
 ==========================================
-La phrase 25 est en : ENG
+La phrase 25 est en : english
 	[BCD+09] Bao, Z., Cohen-Boulakia, S., Davidson, S. B., Eyal, A., & Khanna,
 S. (2009, March).
 ==========================================
-La phrase 26 est en : ENG
+La phrase 26 est en : english
 	Differencing provenance in scientific workflows.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	In Data
 Engineering, 2009.
 ==========================================
-La phrase 28 est en : FRA
+La phrase 28 est en : french
 	ICDE'09.
 ==========================================
-La phrase 29 est en : ENG
+La phrase 29 est en : english
 	IEEE 25th International Conference on (pp.
 ==========================================
-La phrase 30 est en : n
+La phrase 30 est en : non detect
 	808-819).
 ==========================================
-La phrase 31 est en : FRA
+La phrase 31 est en : french
 	IEEE.
 ==========================================
-La phrase 32 est en : ENG
+La phrase 32 est en : english
 	[BCD+08] Biton, O., Cohen-Boulakia, S., Davidson, S. B., & Hara, C. S.
 (2008, April).
 ==========================================
-La phrase 33 est en : ENG
+La phrase 33 est en : english
 	Querying and managing provenance through user views in
 scientific workflows.
 ==========================================
-La phrase 34 est en : ENG
+La phrase 34 est en : english
 	In Data Engineering, 2008.
 ==========================================
-La phrase 35 est en : FRA
+La phrase 35 est en : french
 	ICDE 2008.
 ==========================================
-La phrase 36 est en : ENG
+La phrase 36 est en : english
 	IEEE 24th
 International Conference on (pp.
 ==========================================
-La phrase 37 est en : n
+La phrase 37 est en : non detect
 	1072-1081).
 ==========================================
-La phrase 38 est en : FRA
+La phrase 38 est en : french
 	IEEE.
 ==========================================
-La phrase 39 est en : ENG
+La phrase 39 est en : french
 	[MCF+11] Moreau, L., Clifford, B., Freire, J., Futrelle, J., Gil, Y., Groth,
 P., & den Bussche, J. V. (2011).
 ==========================================
-La phrase 40 est en : ENG
+La phrase 40 est en : english
 	The open provenance model core
 specification (v1.
 ==========================================
-La phrase 41 est en : n
+La phrase 41 est en : non detect
 	1).
 ==========================================
-La phrase 42 est en : ENG
+La phrase 42 est en : english
 	Future Generation Computer Systems, 27(6), 743-756.
 ==========================================
-La phrase 43 est en : ENG
+La phrase 43 est en : french
 	[MLA+08] Moreau, L., Ludäscher, B., Altintas, I., Barga, R. S., Bowers, S.,
 Callahan, S., et al (2008).
 ==========================================
-La phrase 44 est en : ENG
+La phrase 44 est en : english
 	Special issue: The first provenance challenge.
 ==========================================
-La phrase 45 est en : FRA
+La phrase 45 est en : french
 	Concurrency and computation: practice and experience, 20(5), 409-418.
 ==========================================
-La phrase 46 est en : ENG
+La phrase 46 est en : english
 	[MPB10] Missier, P., Paton, N. W., & Belhajjame, K. (2010, March).
 ==========================================
-La phrase 47 est en : ENG
+La phrase 47 est en : english
 	Fine-grained and efficient lineage querying of collection-based workflow
 provenance.
 ==========================================
-La phrase 48 est en : ENG
+La phrase 48 est en : english
 	In Proceedings of the 13th International Conference on Extending
 Database Technology (pp.
 ==========================================
-La phrase 49 est en : n
+La phrase 49 est en : non detect
 	299-310).
 ==========================================
-La phrase 50 est en : ENG
+La phrase 50 est en : english
 	ACM.
 ==========================================
-La phrase 51 est en : ENG
+La phrase 51 est en : english
 	[PDB+08] C. Pradal, S. Dufour-Kowalski, F. Boudon, C. Fournier, C. Godin.
 ==========================================
-La phrase 52 est en : ENG
+La phrase 52 est en : english
 	OpenAlea: A visual programming and component-based software platform for
 plant modeling.
 ==========================================
-La phrase 53 est en : ENG
+La phrase 53 est en : english
 	Functional Plant Biology
 
 [SGM11] Simmhan, Y., Groth, P., & Moreau, L. (2011).
 ==========================================
-La phrase 54 est en : ENG
+La phrase 54 est en : english
 	Special Section: The
 third provenance challenge on using the open provenance model for
 interoperability.
 ==========================================
-La phrase 55 est en : ENG
+La phrase 55 est en : english
 	Future Generation Computer Systems, 27(6), 737-742.
 ==========================================
-La phrase 56 est en : FRA
+La phrase 56 est en : french
 	--
 Sarah Cohen-Boulakia
 Maître de conférences

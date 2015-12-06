@@ -1,50 +1,50 @@
-Le mail "bioinfo_2014-07_6" est globalement en : ENG
-[('ENG', 0.5707410566568812), ('FRA', 0.7497937436778027)]
+Le mail "bioinfo_2014-07_6" est globalement en : english
+[('english', 0.025792431550138332), ('french', 0.38659033297468)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] postdoc position RNA/Protein modeling
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Postdoc position 
 Proteins/RNAs coarse grained modeling 
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	An increasing number of non-coding RNAs (ncRNA) that does not code for proteins but rather are involved in regulation of gene expression have been identified in the 98% of the genome. We know however little of the structural and dynamical properties of these ncRNA, a requirement for a detailed understanding of their mechanisms of action.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Despite advances in experimental methods, many questions remain open concerning the dynamics and thermodynamics of ncRNAs, and their interaction with proteins and RNAs. Computer simulations can complement experimental studies, but they are limited by the size of the systems and by the time-scales characteristic of the biological processes. In recent years, we have developed two coarse grained models to simulate these molecules, OPEP and HiRE-RNA. The uniqueness of these models is their ability to predict the native folds for both kinds of molecules with the sole knowledge of their sequences. Both force fields are coupled to many advanced conformational techniques. See Sterpone et al, Chem. Soc. Rev. 2014 Jul 7;43(13):4871-93 for a review on the two force fields and their current applications.Up till now the two models have been developed on the same platform, but independently from one another.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	 The first aim of this project will be to develop the intermolecular force field to simulate together proteins and RNA, and improve the RNA force field (presence of ions).
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	 The second aim of this project will be to integrate sparse experimental data when available (SAXS, Cryo-EM, SHAPE, 1D and 2D NMR) so as to guide standard simulations (such as replica exchange molecular dynamics or simulated tempering) or interactive MD simulations through the use of a haptic arm.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	The third aim is to apply these new computational technologies to (i) study the non-coding RNA 7SK involved in gene expression regulation, and its interaction with protein partners, and (ii) determine how the protein MDH1 activates or protects the messager RNA atpI 5'UTR
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	The candidate should have a Ph.D. in chemistry or physics, have experience in molecular modeling as well as simulation techniques, and have very good programming skills (Fortan, C++, python).
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	The work will be supervised jointly by Philippe Derreumaux and by Samuela Pasquali at the Laboratoire de Biochimie Theorique (UPR9080 CNRS), at the Institut de Biologie Physico-Chimique (IBPC) in central Paris. The position is for two years starting in the fall of 2014.
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	If interested, please send your CV, a one page resumé of your past and current research activity as well as 3 recommendation letters to samuela.pasquali@ibpc.fr 
 A decision will be taken early September.
 
@@ -54,60 +54,60 @@ A decision will be taken early September.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Postdoc position 
 Proteins/RNAs coarse grained modeling 
 
 An increasing number of non-coding RNAs (ncRNA) that does not code for proteins but rather are involved in regulation of gene expression have been identified in the 98% of the genome.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	We know however little of the structural and dynamical properties of these ncRNA, a requirement for a detailed understanding of their mechanisms of action.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Despite advances in experimental methods, many questions remain open concerning the dynamics and thermodynamics of ncRNAs, and their interaction with proteins and RNAs.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Computer simulations can complement experimental studies, but they are limited by the size of the systems and by the time-scales characteristic of the biological processes.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	In recent years, we have developed two coarse grained models to simulate these molecules, OPEP and HiRE-RNA.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The uniqueness of these models is their ability to predict the native folds for both kinds of molecules with the sole knowledge of their sequences.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Both force fields are coupled to many advanced conformational techniques.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	See Sterpone et al, Chem.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	Soc.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Rev.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	2014 Jul 7;43(13):4871-93 for a review on the two force fields and their current applications.Up till now the two models have been developed on the same platform, but independently from one another.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	The first aim of this project will be to develop the intermolecular force field to simulate together proteins and RNA, and improve the RNA force field (presence of ions).
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	The second aim of this project will be to integrate sparse experimental data when available (SAXS, Cryo-EM, SHAPE, 1D and 2D NMR) so as to guide standard simulations (such as replica exchange molecular dynamics or simulated tempering) or interactive MD simulations through the use of a haptic arm.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	The third aim is to apply these new computational technologies to (i) study the non-coding RNA 7SK involved in gene expression regulation, and its interaction with protein partners, and (ii) determine how the protein MDH1 activates or protects the messager RNA atpI 5'UTR
 
 The candidate should have a Ph.D. in chemistry or physics, have experience in molecular modeling as well as simulation techniques, and have very good programming skills (Fortan, C++, python).
 ==========================================
-La phrase 15 est en : ENG
+La phrase 15 est en : english
 	The work will be supervised jointly by Philippe Derreumaux and by Samuela Pasquali at the Laboratoire de Biochimie Theorique (UPR9080 CNRS), at the Institut de Biologie Physico-Chimique (IBPC) in central Paris.
 ==========================================
-La phrase 16 est en : ENG
+La phrase 16 est en : english
 	The position is for two years starting in the fall of 2014.
 ==========================================
-La phrase 17 est en : ENG
+La phrase 17 est en : english
 	If interested, please send your CV, a one page resumé of your past and current research activity as well as 3 recommendation letters to samuela.pasquali@ibpc.fr 
 A decision will be taken early September.
 

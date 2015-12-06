@@ -1,58 +1,58 @@
-Le mail "bioinfo_2014-11_37" est globalement en : FRA
-[('FRA', 0.892678528750725), ('ENG', 0.9472864838448035)]
+Le mail "bioinfo_2014-11_37" est globalement en : french
+[('french', 0.08402656501544896), ('english', 2.010498131060593)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] CDI informatique gestion / domaine bio
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : n
+Le paragraphe 2 est en : non detect
 	 
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Nous sommes la SSII : TEQUIA, (cf www.tequia.com).  
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Pour lun de nos clients: domaine Génétique animale, informatique de gestion (et non bio-informatique!), nous cherchons un profil développeur, pour participer à de multiples petits projets de développements (petites équipes, 20 pers en tout), faisant appel principalement aux techniques SQL (bon niveau requis), et C / C++. Le client cherche un profil motivé par la programmation et les tests, pour une mission plutôt longue, et qui est intéressé par le sujet traité (biologie, génétique). Le cadre de travail est très agréable (dans un parc), le lieu est près de Versailles, sur la ligne RER vers Massy Palaiseau.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	 Merci de ne répondre que si vous avez une expérience en informatique de gestion sur les techniques évoquées, et que votre statut vous permet de travailler en France (pour les étrangers) 
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Candidatures à traiter avant fin novembre, démarrage début 2015.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Pouvez-vous nous envoyer un CV au format Word détaillé sur vos expériences dans l'environnement cité et vos prétentions de salaire? Nous pourrons nous rencontrer sur La Défense.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Michel PLAT
 tequia@tequia.com
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	TEQUIA
 
 ==========================================
-Le paragraphe 11 est en : n
+Le paragraphe 11 est en : non detect
 	
 
 ==========================================
@@ -60,37 +60,37 @@ Le paragraphe 11 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Bonjour,
 
  
 
 Nous sommes la SSII : TEQUIA, (cf www.tequia.com).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Pour lun de nos clients: domaine Génétique animale, informatique de gestion (et non bio-informatique!
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	), nous cherchons un profil développeur, pour participer à de multiples petits projets de développements (petites équipes, 20 pers en tout), faisant appel principalement aux techniques SQL (bon niveau requis), et C / C++.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Le client cherche un profil motivé par la programmation et les tests, pour une mission plutôt longue, et qui est intéressé par le sujet traité (biologie, génétique).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Le cadre de travail est très agréable (dans un parc), le lieu est près de Versailles, sur la ligne RER vers Massy Palaiseau.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Merci de ne répondre que si vous avez une expérience en informatique de gestion sur les techniques évoquées, et que votre statut vous permet de travailler en France (pour les étrangers) 
 
 Candidatures à traiter avant fin novembre, démarrage début 2015.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Pouvez-vous nous envoyer un CV au format Word détaillé sur vos expériences dans l'environnement cité et vos prétentions de salaire?
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Nous pourrons nous rencontrer sur La Défense.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Cordialement,
 
 Michel PLAT

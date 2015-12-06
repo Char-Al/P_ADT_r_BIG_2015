@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-09_74" est globalement en : FRA
-[('FRA', 1.1840447581221283), ('ENG', 5.110171042431962)]
+Le mail "bioinfo_2014-09_74" est globalement en : french
+[('french', 0.940378857026253), ('english', 1.0075409937024453)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] FPI PhD Fellowship in Structur  al Genomics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : FPI PhD Fellowship in Structural Genomics
 Type de poste : Thèse
 Durée du poste : 3 years
@@ -25,7 +25,7 @@ Email du contact : mmarti@pcb.ub.cat
 Laboratoire : CNAG (Structural Genomics Group)
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/fpi-phd-fellowship-structural-genomics
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/fpi-phd-fellowship-structural-genomics
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : FPI PhD Fellowship in Structural Genomics

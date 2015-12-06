@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_91" est globalement en : FRA
-[('FRA', 1.007376517070782), ('ENG', 1.1260870432847814)]
+Le mail "bioinfo_2014-10_91" est globalement en : french
+[('french', 0.7991230409819396), ('english', 1.120465329138677)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 Bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 Bioinformatique
 Type de poste : Stage
 Durée du poste : 6 mois
@@ -26,7 +26,7 @@ Laboratoire : Institut Pierre-Louis (UMR S 1136), Equipe 1, réseau
 Sentinelles
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-bioinformatique-0
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m2-bioinformatique-0
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 Bioinformatique

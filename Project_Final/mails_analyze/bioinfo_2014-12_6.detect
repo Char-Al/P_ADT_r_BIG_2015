@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_6" est globalement en : ENG
-[('ENG', 0.20241484971558038), ('FRA', 0.3474560526795948)]
+Le mail "bioinfo_2014-12_6" est globalement en : english (conflict)
+[('english', 0.41147181228326585), ('french', 0.5638256338101861)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Statistical and machine learning methods and software to address questions in biology and biomedicine
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : Statistical and machine learning methods and software to  
 address questions in biology and biomedicine
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact :  soeding@mpibpc.mpg.de
 Laboratoire : Max-Planck Institute for Biophysical Chemistry
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/statistical-and-machine-learning-methods-and-software-address-questions-biology-and-biomedic
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/statistical-and-machine-learning-methods-and-software
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Statistical and machine learning methods and software to  

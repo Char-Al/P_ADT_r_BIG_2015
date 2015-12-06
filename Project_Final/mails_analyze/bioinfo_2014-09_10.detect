@@ -1,51 +1,51 @@
-Le mail "bioinfo_2014-09_10" est globalement en : FRA
-[('FRA', 0.32078388180217693), ('ENG', 0.8751187370406805)]
+Le mail "bioinfo_2014-09_10" est globalement en : french
+[('french', 0.07685013865954718), ('english', 2.452365872070588)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Prochains cycles d'apprentissage organisés par la plateforme Bioinfo Genotoul et l' équipe Sigenae.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Chers collègues,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	(Désolée pour les éventuels doublons.)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	La plateforme bioinfo Genotoul organise en collaboration avec l'équipe 
 Sigenae plusieurs cycles d'apprentissage cet automne.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Du 3 au 6 novembre 2014 : *Galaxy training days* : 4 jours indivisibles 
 de formation aux traitements de données des séquenceurs haut débit sous 
 environnement Galaxy.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Après une initiation à l’environnement Galaxy, cette formation vous 
 permettra d'effectuer un alignement de séquences, la recherche de 
 polymorphisme et l'analyse de données RNA-Seq sous environnement Galaxy. 
 Ce cycle ne nécessite aucune connaissance préalable en ligne de commande.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Du 1er au 3 décembre : *RNA-Seq de novo assembly* : 2 jours et demi 
 indivisibles consacrés à l'assemblage de novo des données de 
 transcriptome de novo obtenues grâce aux nouvelles technologies de 
 séquençage.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Vous apprendrez comment vérifier la qualité des données et pré-traiter 
 les lectures en conséquences, comment fonctionne un assembleur et 
 comment l'utiliser sur ce type de données. Enfin, ce stage vous donnera 
@@ -53,12 +53,12 @@ des clefs pour appréhender la qualité d'un assemblage et choisir le
 meilleur.
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Du 8 au 10 décembre : *Phylogénie et évolution de séquences* : 3 
 journées divisibles constituées de 4 modules indépendants.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Module 1 (8 déc.) : Initiation à l'alignement de séquences et à la 
 phylogénie. Aucun pré-requis n'est nécessaire. Public visé : biologistes 
 et bioinformaticiens souhaitant s'initier à l'analyse phylogénétique.
@@ -82,7 +82,7 @@ principaux modèles évolutifs et les méthodes de constructions d'arbres
 phylogénétiques.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Ces formations sont organisées sur le site de l'INRA de Toulouse Auzeville.
 Toutes les informations sont sur notre site web : 
 http://bioinfo.genotoul.fr/index.php?id=10
@@ -90,15 +90,15 @@ Les tarifs sont disponibles ici :
 http://bioinfo.genotoul.fr/index.php?id=115
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Cordialement,
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	Claire Hoede
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	-- 
 Claire Hoede
 INRA, MIAT & PF GenoToul Bioinfo
@@ -107,13 +107,13 @@ CS 52 627
 31326 Castanet Tolosan cedex
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Tel : 33 (0) 5 61 28 53 05
 email :Claire.Hoede@toulouse.inra.fr
 web :http://bioinfo.genotoul.fr  
 
 ==========================================
-Le paragraphe 15 est en : n
+Le paragraphe 15 est en : non detect
 	
 
 ==========================================
@@ -121,118 +121,118 @@ Le paragraphe 15 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Chers collègues,
 
 (Désolée pour les éventuels doublons.)
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	La plateforme bioinfo Genotoul organise en collaboration avec l'équipe 
 Sigenae plusieurs cycles d'apprentissage cet automne.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Du 3 au 6 novembre 2014 : *Galaxy training days* : 4 jours indivisibles 
 de formation aux traitements de données des séquenceurs haut débit sous 
 environnement Galaxy.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Après une initiation à l’environnement Galaxy, cette formation vous 
 permettra d'effectuer un alignement de séquences, la recherche de 
 polymorphisme et l'analyse de données RNA-Seq sous environnement Galaxy.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ce cycle ne nécessite aucune connaissance préalable en ligne de commande.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Du 1er au 3 décembre : *RNA-Seq de novo assembly* : 2 jours et demi 
 indivisibles consacrés à l'assemblage de novo des données de 
 transcriptome de novo obtenues grâce aux nouvelles technologies de 
 séquençage.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Vous apprendrez comment vérifier la qualité des données et pré-traiter 
 les lectures en conséquences, comment fonctionne un assembleur et 
 comment l'utiliser sur ce type de données.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Enfin, ce stage vous donnera 
 des clefs pour appréhender la qualité d'un assemblage et choisir le 
 meilleur.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Du 8 au 10 décembre : *Phylogénie et évolution de séquences* : 3 
 journées divisibles constituées de 4 modules indépendants.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Module 1 (8 déc.)
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	: Initiation à l'alignement de séquences et à la 
 phylogénie.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Aucun pré-requis n'est nécessaire.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	Public visé : biologistes 
 et bioinformaticiens souhaitant s'initier à l'analyse phylogénétique.
 ==========================================
-La phrase 14 est en : FRA
+La phrase 14 est en : french
 	Module 2 (9 déc.)
 ==========================================
-La phrase 15 est en : FRA
+La phrase 15 est en : french
 	: Présentation est mise en œuvre de différentes 
 méthodes de construction d'arbres phylogénétiques.
 ==========================================
-La phrase 16 est en : FRA
+La phrase 16 est en : french
 	Public visé : 
 biologistes avertis en ligne de commandes et bioinformaticiens 
 souhaitant découvrir l'analyse phylogénétique.
 ==========================================
-La phrase 17 est en : FRA
+La phrase 17 est en : french
 	Pré-requis : Savoir 
 générer et interpréter un alignement de séquences.
 ==========================================
-La phrase 18 est en : FRA
+La phrase 18 est en : french
 	Module 3 (10 déc.
 ==========================================
-La phrase 19 est en : FRA
+La phrase 19 est en : french
 	au matin) : Présentation et mise en œuvre de méthodes 
 de phylogénomique.
 ==========================================
-La phrase 20 est en : FRA
+La phrase 20 est en : french
 	Public visé : biologistes avertis en ligne de 
 commandes et bioinformaticiens souhaitant découvrir l'analyse 
 phylogénétique.
 ==========================================
-La phrase 21 est en : FRA
+La phrase 21 est en : french
 	Pré-requis : Savoir générer et interpréter un alignement 
 de séquences, connaître les principaux modèles évolutifs et les méthodes 
 de constructions d'arbres phylogénétiques.
 ==========================================
-La phrase 22 est en : FRA
+La phrase 22 est en : french
 	Module 4 (10 déc.
 ==========================================
-La phrase 23 est en : FRA
+La phrase 23 est en : french
 	après-midi) : Présentation et mise en œuvre de 
 méthodes de détection de pression de sélection.
 ==========================================
-La phrase 24 est en : FRA
+La phrase 24 est en : french
 	Public visé : 
 biologistes avertis en ligne de commandes et bioinformaticiens 
 souhaitant découvrir l'analyse phylogénétique.
 ==========================================
-La phrase 25 est en : FRA
+La phrase 25 est en : french
 	Pré-requis : Savoir 
 générer et interpréter un alignement de séquences, connaître les 
 principaux modèles évolutifs et les méthodes de constructions d'arbres 
 phylogénétiques.
 ==========================================
-La phrase 26 est en : FRA
+La phrase 26 est en : french
 	Ces formations sont organisées sur le site de l'INRA de Toulouse Auzeville.
 ==========================================
-La phrase 27 est en : ENG
+La phrase 27 est en : english
 	Toutes les informations sont sur notre site web : 
 http://bioinfo.genotoul.fr/index.php?id=10
 Les tarifs sont disponibles ici : 

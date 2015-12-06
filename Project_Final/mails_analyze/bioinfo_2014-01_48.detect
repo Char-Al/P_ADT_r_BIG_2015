@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_48" est globalement en : FRA
-[('FRA', 0.6382584622764492), ('ENG', 6.319259241496901)]
+Le mail "bioinfo_2014-01_48" est globalement en : french
+[('french', 0.4233916684336877), ('english', 1.5963467563907898)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur d' étude en   bioinformatique – Diagnostic génétique 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur d'étude en bioinformatique – Diagnostic  
 génétique
 Type de poste : CDD Ingénieur
@@ -26,7 +26,7 @@ Email du contact : jean-baptiste.riviere@u-bourgogne.fr
 Laboratoire : CHU de Dijon - Laboratoire de génétique moléculaire.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9tude-en-bioinformatique-%E2%80%93-diagnostic-g%C3%A9n%C3%A9tique-0
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9tude-en-bioinformatique-%E2%80%
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur d'étude en bioinformatique – Diagnostic  
@@ -48,7 +48,7 @@ Nom du contact : Jean-Baptiste Rivière
 Email du contact : jean-baptiste.riviere@u-bourgogne.fr
 Laboratoire : CHU de Dijon - Laboratoire de génétique moléculaire.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-d%C3%A9tude-en-bioinformatique-%E2%80%93-diagnostic-g%C3%A9n%C3%A9tique-0
 

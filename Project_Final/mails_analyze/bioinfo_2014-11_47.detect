@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-11_47" est globalement en : FRA
-[('FRA', 0.5844031230166802), ('ENG', 1.1021929580399796)]
+Le mail "bioinfo_2014-11_47" est globalement en : french
+[('french', 0.6358248078956151), ('english', 1.3709889287596015)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][PR] Bioinformatien(ne) - génomique co  mparative
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformatien(ne) - génomique comparative
 Type de poste : PR
 Durée du poste : Indéterminée
@@ -25,7 +25,7 @@ Email du contact : cv@inovarion.com
 Laboratoire : Inovarion
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/bioinformatienne-g%C3%A9nomique-comparative
 
@@ -35,7 +35,7 @@ http://www.sfbi.fr/content/bioinformatienne-g%C3%A9nomique-comparative
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Bioinformatien(ne) - génomique comparative

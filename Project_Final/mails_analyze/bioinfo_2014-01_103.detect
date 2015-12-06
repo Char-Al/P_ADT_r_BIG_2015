@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_103" est globalement en : FRA
-[('FRA', 0.5266852712423993), ('ENG', 4.230098593719357)]
+Le mail "bioinfo_2014-01_103" est globalement en : french
+[('french', 0.38017121902265355), ('english', 0.7579818549182803)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][PR] Poste de Professeur en 65/64 èmes   sections – Bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Poste de Professeur en 65/64 èmes sections –  
 Bioinformatique
 Type de poste : PR
@@ -27,7 +27,7 @@ Laboratoire : UMR 1345 IRHS (Institut de Recherche en Horticulture et
 Semences)
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/poste-de-professeur-en-6564-%C3%A8mes-sections-%E2%80%93-bioinformatique
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/poste-de-professeur-en-6564-%C3%A8mes-sections-%E2%80
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Poste de Professeur en 65/64 èmes sections –  

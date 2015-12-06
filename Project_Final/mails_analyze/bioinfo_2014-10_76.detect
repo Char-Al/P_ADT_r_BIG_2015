@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_76" est globalement en : FRA
-[('FRA', 0.37431288042144667), ('ENG', 4.861987849971455)]
+Le mail "bioinfo_2014-10_76" est globalement en : french
+[('french', 0.4180983563030659), ('english', 0.9997949394049608)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur Institut de   Modélisation des Systèmes Vivants
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur Institut de Modélisation des Systèmes  
 Vivants
 Type de poste : CDD Ingénieur
@@ -26,7 +26,7 @@ Email du contact : valentin.loux@jouy.inra.fr
 Laboratoire : Laboratoire de Recherche en Informatique, Université Paris-Sud
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/ing%C3%A9nieur-institut-de-mod%C3%A9lisation-des-syst%C3%A8mes-vivants
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/ing%C3%A9nieur-institut-de-mod%C3%A9lisation-des-syst
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Ingénieur Institut de Modélisation des Systèmes  

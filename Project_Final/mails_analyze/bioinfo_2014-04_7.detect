@@ -1,25 +1,25 @@
-Le mail "bioinfo_2014-04_7" est globalement en : ENG
-[('FRA', 0.43333121069376745), ('ENG', 1.8083610750418286)]
+Le mail "bioinfo_2014-04_7" est globalement en : english
+[('english', 0.061821386448778125), ('french', 0.29857600897838144)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] PhD position at INRIA Grenoble - Rhône -Alpes on Modelling and estimation of gene expression variability in single cells
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	PhD position at INRIA Grenoble - Rhône-Alpes, France
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	MODELLING AND ESTIMATION OF GENE EXPRESSION VARIABILITY IN SINGLE CELLS
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	In the context of the INRIA 2014 recruitment campaign, a PhD position in 
 the field of gene expression modelling is proposed at INRIA Grenoble - 
 Rhône -Alpes (France).
@@ -36,7 +36,7 @@ devices developed by LIFEWARE, the following aspects are in the scope of
 the project:
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	* Development of individual-cell gene expression models accounting for 
 intrinsic and/or extrinsic noise;
 * Development and application of methods for the identification of the 
@@ -47,7 +47,7 @@ above models;
 single-cell experiments.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Interested candidates should have a solid mathematical background with 
 an understanding of dynamical systems, probability and stochastic 
 processes, a strong interest in biology and biochemical regulatory 
@@ -58,7 +58,7 @@ international environment. Propensity to interaction and cooperation are
 expected qualities of the candidates.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Application deadline is 04/05/2014. Applications must be submitted via 
 the official INRIA online system, see 
 http://www.inria.fr/institut/recrutement-metiers/offres/theses/campagne-2014 
@@ -67,7 +67,7 @@ More details on this project can be found at the link above (Thesis
 subject n.17) and at http://ibis.inrialpes.fr/article1042.html .
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Interested candidates are encouraged to contact Eugenio Cinquemani 
 (http://ibis.inrialpes.fr/article941.html) at eugenio.cinquemani@inria.fr
 
@@ -77,7 +77,7 @@ Le paragraphe 7 est en : FRA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	PhD position at INRIA Grenoble - Rhône-Alpes, France
 
 MODELLING AND ESTIMATION OF GENE EXPRESSION VARIABILITY IN SINGLE CELLS
@@ -86,23 +86,23 @@ In the context of the INRIA 2014 recruitment campaign, a PhD position in
 the field of gene expression modelling is proposed at INRIA Grenoble - 
 Rhône -Alpes (France).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The subject of the PhD is the estimation of gene expression dynamics in 
 individual cells from fluorescence microscopy experiments, with 
 perspective applications such as computer-based control of single-cell 
 behavior, and synthesis of novel biochemical circuits.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The project will 
 be developed within team IBIS (ibis.inrialpes.fr) in tight collaboration 
 with Grégory Batt from team LIFEWARE at INRIA Paris Rocquencourt.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	It 
 will be focused on the expression in yeast of genes responsive to 
 changes of environmental osmolarity via the so-called HOG pathway.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	Based 
 on single-cell gene expression control experiments in microfluidic 
 devices developed by LIFEWARE, the following aspects are in the scope of 
@@ -117,35 +117,35 @@ above models;
 * Participation to design and execution of biological (wetlab) 
 single-cell experiments.
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	Interested candidates should have a solid mathematical background with 
 an understanding of dynamical systems, probability and stochastic 
 processes, a strong interest in biology and biochemical regulatory 
 networks, and practical knowledge of scientific programming tools 
 (Matlab and/or C++, or the like).
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The successful candidate will be working in a multidisciplinary and 
 international environment.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Propensity to interaction and cooperation are 
 expected qualities of the candidates.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Application deadline is 04/05/2014.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	Applications must be submitted via 
 the official INRIA online system, see 
 http://www.inria.fr/institut/recrutement-metiers/offres/theses/campagne-2014 
 for the procedure as well as for eligibility, salary, and other information.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	More details on this project can be found at the link above (Thesis 
 subject n.17) and at http://ibis.inrialpes.fr/article1042.html .
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Interested candidates are encouraged to contact Eugenio Cinquemani 
 (http://ibis.inrialpes.fr/article941.html) at eugenio.cinquemani@inria.fr
 

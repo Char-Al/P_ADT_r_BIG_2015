@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-01_8" est globalement en : FRA
-[('FRA', 0.1848159742004805), ('ENG', 6.735166305767174)]
+Le mail "bioinfo_2014-01_8" est globalement en : french
+[('french', 0.31839696615210755), ('english', 3.2269684264147815)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] Stratégiesd’analyses de tra  nscriptomes et Applications àl’Analysed’expériences RNA-seq  d’Aedes albopictus, vec  teur du virus du chikungunya
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Stratégies d’analyses de transcriptomes et  
 Applications à l’Analyse d’expériences RNA-seq  d’Aedes albopictus,  
 vecteur du virus du chikungunya
@@ -27,7 +27,7 @@ Email du contact : cdauga@pasteur.fr
 Laboratoire : Institut Pasteur
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/strat%C3%A9gies-d%E2%80%99analyses-de-transcriptomes-et-applications-%C3%A0-l%E2%80%99analyse-d%E2%80%99exp%C3%A9riences-rna-seq-d%E2%80%99
 
@@ -37,7 +37,7 @@ http://www.sfbi.fr/content/strat%C3%A9gies-d%E2%80%99analyses-de-transcriptomes-
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Stratégies d’analyses de transcriptomes et  

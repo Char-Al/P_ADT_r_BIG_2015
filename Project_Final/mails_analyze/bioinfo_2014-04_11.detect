@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-04_11" est globalement en : FRA
-[('FRA', 1.810433578704469), ('ENG', 8.62689811075725)]
+Le mail "bioinfo_2014-04_11" est globalement en : french
+[('french', 0.9268254155696192), ('english', 1.1475960087390789)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] PhD fellowship in genomics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : PhD fellowship in genomics
 Type de poste : Thèse
 Durée du poste : 3 ans
@@ -25,12 +25,12 @@ Email du contact : chunlong.chen@cgm.cnrs-gif.fr
 Laboratoire : CNRS UPR 3404, Centre de Génétique Moléculaire
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/phd-fellowship-genomics-cgm-gif-sur-yvette-paris-sud-france
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -38,7 +38,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : PhD fellowship in genomics

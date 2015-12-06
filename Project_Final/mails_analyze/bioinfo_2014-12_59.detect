@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-12_59" est globalement en : FRA
-[('FRA', 0.3557956193013497), ('ENG', 1.0593506379756483)]
+Le mail "bioinfo_2014-12_59" est globalement en : french
+[('french', 0.4352791537552772), ('english', 0.767827041314071)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Stage] M2 - Développement d'un module   logiciel de Biophysique Moléculaire pour Math  ematica
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : M2 - Développement d'un module logiciel de Biophysique  
 Moléculaire pour Mathematica
 Type de poste : Stage
@@ -26,7 +26,7 @@ Email du contact : jean.cognet@upmc.fr
 Laboratoire : Laboratoire Jean Perrin
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/m2-d%C3%A9veloppement-dun-module-logiciel-de-biophysique-mol%C3%A9culaire-pour-mathematica
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/m2-d%C3%A9veloppement-dun-module-logiciel-de-biophysi
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : M2 - Développement d'un module logiciel de Biophysique  

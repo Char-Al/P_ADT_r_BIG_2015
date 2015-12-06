@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-03_63" est globalement en : FRA
-[('FRA', 0.39689746464858383), ('ENG', 3.2210586375061423)]
+Le mail "bioinfo_2014-03_63" est globalement en : french
+[('french', 0.35324801220937146), ('english', 1.636795383991867)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][ Thèse ] Prédiction de la cinétique des inhibiteurs de protéines kinases et de leur affinité par docking flexible. ‏
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Prédiction de la cinétique des inhibiteurs de 
 protéines kinases et de leur affinité par docking flexible.‏
 Type de poste : Thèse
@@ -26,12 +26,12 @@ Email du contact : samia.aci@cnrs-orleans.fr
 Laboratoire : Institut de Chimie Organique et Analytique
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Voir la description complète du poste sur 
 http://www.sfbi.fr/content/prédiction-de-la-cinétique-des-inhibiteurs-de-protéines-kinases-et-de-leur-affinité-par-dock
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -39,7 +39,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Prédiction de la cinétique des inhibiteurs de 

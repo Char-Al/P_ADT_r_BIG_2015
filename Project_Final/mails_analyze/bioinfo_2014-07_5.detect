@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_5" est globalement en : FRA
-[('FRA', 0.3875677922556343), ('ENG', 1.067368248509286)]
+Le mail "bioinfo_2014-07_5" est globalement en : french
+[('french', 0.4422906238093511), ('english', 0.731499239453042)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Exploitation de données NGS pour identification de polymorphismes
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Exploitation de données NGS pour identification de
 polymorphismes
 Type de poste : CDD Ingénieur
@@ -27,12 +27,12 @@ Email du contact : didier.merdinoglu@colmar.inra.fr
 Laboratoire : UMR SVQV INRA de Colmar
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/exploitation-de-donn%C3%A9es-ngs-pour-identification-de-polymorphismes
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

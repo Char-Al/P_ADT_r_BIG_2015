@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_66" est globalement en : FRA
-[('FRA', 0.453698506674005), ('ENG', 1.3248716770835558)]
+Le mail "bioinfo_2014-02_66" est globalement en : french
+[('french', 0.6255166547312349), ('english', 0.6733862870258551)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD autre] Assistant Ingénieurdével  oppement d'application WEB
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Assistant Ingénieur développement d'application WEB
 Type de poste : CDD autre
 Durée du poste : 12 mois
@@ -26,7 +26,7 @@ Laboratoire : UMR 1345 IRHS (Institut de Recherche en Horticulture et
 Semences)
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/assistant-ing%C3%A9nieur-d%C3%A9veloppement-dapplication-web
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/assistant-ing%C3%A9nieur-d%C3%A9veloppement-dapplicat
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : Assistant Ingénieur développement d'application WEB

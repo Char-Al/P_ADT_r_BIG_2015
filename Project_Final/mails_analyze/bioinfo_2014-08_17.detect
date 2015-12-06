@@ -1,55 +1,55 @@
-Le mail "bioinfo_2014-08_17" est globalement en : ENG
-[('ENG', 0.1819701779702086), ('FRA', 0.3390931090535534)]
+Le mail "bioinfo_2014-08_17" est globalement en : english
+[('english', 0.1916172021405096), ('french', 0.30213407898550426)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] ECML-PKDD'14 Tutorial: "The Pervasiveness of Machine Learning in
  Omics Science"
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	De la part de Ronnie Alves:
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Je me permets de vous transmettre cette appel à participation pour notre 
 tutoriel de ECML-PKDD'14 à Nancy consacré aux méthodes d'analyse pour 
 les jeux de données OMICS.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Au plaisir d'y accueillir vos participations !
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : english
 	Ronnie, Claude & Nicolas
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	----------------------------------------------------------------
 ECML-PKDD Tutorial
 Nancy, 15th September 2014
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	The Pervasiveness of Machine Learning in Omics Science
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	http://ecmlpkdd2014.loria.fr/program/tutorial-list/
 https://sites.google.com/site/alvesrco/tutorial_ecml_pkdd2014
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	---------------- Description -------------------------------
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	Biology has become an enormously data-rich subject. Data is generated in 
 many flavors and follows particularities of the omics perspective 
 adopted along experimental studies. For instance, genomics is the field 
@@ -70,38 +70,38 @@ machine learning problem), the core ML methods employed and its
 implementation in the R language.
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	Draft outline:
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	:-: Introduction and overview of the omics science
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	:-: Machine learning in genomics data – foundations, methods and 
 applications
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	:-: Machine learning in transcriptomics data – foundations, methods and 
 applications
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	:-: Machine learning in interactomics data – foundations, methods and 
 applications
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	:-: Outlook – summary and future challenges
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Target audience:
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	The target groups are: graduate students with intermediate knowledge in 
 machine learning/data mining; no previous knowledge in omics science is 
 required; research scholars who work on machine learning to support 
@@ -109,7 +109,7 @@ bio-medicine and health care; practitioners that own applications on
 omics data.
 
 ==========================================
-Le paragraphe 18 est en : n
+Le paragraphe 18 est en : non detect
 	
 
 ==========================================
@@ -117,17 +117,17 @@ Le paragraphe 18 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	De la part de Ronnie Alves:
 
 Je me permets de vous transmettre cette appel à participation pour notre 
 tutoriel de ECML-PKDD'14 à Nancy consacré aux méthodes d'analyse pour 
 les jeux de données OMICS.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	Au plaisir d'y accueillir vos participations !
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Ronnie, Claude & Nicolas
 
 ----------------------------------------------------------------
@@ -143,51 +143,51 @@ https://sites.google.com/site/alvesrco/tutorial_ecml_pkdd2014
 
 Biology has become an enormously data-rich subject.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Data is generated in 
 many flavors and follows particularities of the omics perspective 
 adopted along experimental studies.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	For instance, genomics is the field 
 of study dealing with genomes and it is mostly associated with the 
 static view (the genes and where they are placed along the genome).
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	The 
 dynamic view is brought from the transcriptomics perspective, so the 
 gene expression and its regulation.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	Finally, interactomics is usually 
 associated to gene products, proteins, and their interactions.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	However 
 it could also be seen as a huge graph network with layers of interaction 
 integrating distinct omics perspectives.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Omics science applications of 
 unsupervised and/or supervised machine learning (ML) techniques abound 
 in the literature.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	In this tutorial, we discuss machine learning on 
 omics data, putting the emphasis on (i) mapping and (ii) learning omics 
 patterns.
 ==========================================
-La phrase 11 est en : ENG
+La phrase 11 est en : english
 	We consider three main omics data: genomics, transcriptomics 
 and interactomics.
 ==========================================
-La phrase 12 est en : ENG
+La phrase 12 est en : english
 	For each perspective, we first provide, the 
 biological problem, the data mapping (from a biological problem to a 
 machine learning problem), the core ML methods employed and its 
 implementation in the R language.
 ==========================================
-La phrase 13 est en : ENG
+La phrase 13 est en : english
 	Draft outline:
 
 :-: Introduction and overview of the omics science

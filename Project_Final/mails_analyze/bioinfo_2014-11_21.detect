@@ -1,29 +1,29 @@
-Le mail "bioinfo_2014-11_21" est globalement en : FRA
-[('FRA', 0.26755517544613827), ('ENG', 2.573424876428714)]
+Le mail "bioinfo_2014-11_21" est globalement en : french
+[('french', 0.3883608402261191), ('english', 0.4994356760343954)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Formations au logiciel ade4 (analyse de donnéesmultivariées en écologie)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	il reste quelques places de disponible pour les formations au package ade4 :
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Ces formations auront lieu :
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	- Les 24 et 25 novembre pour la formation intitulée "ade4 : Initiation 
 et méthodes de base" 
 (http://www.fc3bio.fr/Formation-ade4-Initiation-methodes-de-base_a37.html)
@@ -32,18 +32,18 @@ Perfectionnement et méthodes avancées"
 (http://www.fc3bio.fr/Formation-ade4-Perfectionnement-Methodes-avancees_a38.html)
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Les inscriptions se font directement sur le site de Fc-3Bio 
 (http://www.fc3bio.fr/forms/Inscription_f2.html). Pour toutes 
 information relative aux stages en question (tarifs, programme, durée, 
 etc.), utilisez l’adresse : contact@fc3bio.fr.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	Bien cordialement,
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	-- 
 Stéphane DRAY (stephane.dray@univ-lyon1.fr)
 Laboratoire BBE-CNRS-UMR-5558, Univ. C. Bernard - Lyon I
@@ -52,7 +52,7 @@ Tel: 33 4 72 43 27 57       Fax: 33 4 72 43 13 88
 http://pbil.univ-lyon1.fr/members/dray/
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	
 
 ==========================================
@@ -60,7 +60,7 @@ Le paragraphe 8 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à tous,
 
 il reste quelques places de disponible pour les formations au package ade4 :
@@ -77,22 +77,22 @@ Perfectionnement et méthodes avancées"
 Les inscriptions se font directement sur le site de Fc-3Bio 
 (http://www.fc3bio.fr/forms/Inscription_f2.html).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Pour toutes 
 information relative aux stages en question (tarifs, programme, durée, 
 etc.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	), utilisez l’adresse : contact@fc3bio.fr.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Bien cordialement,
 
 -- 
 Stéphane DRAY (stephane.dray@univ-lyon1.fr)
 Laboratoire BBE-CNRS-UMR-5558, Univ.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	C. Bernard - Lyon I
 43, Bd du 11 Novembre 1918, 69622 Villeurbanne Cedex, France
 Tel: 33 4 72 43 27 57       Fax: 33 4 72 43 13 88

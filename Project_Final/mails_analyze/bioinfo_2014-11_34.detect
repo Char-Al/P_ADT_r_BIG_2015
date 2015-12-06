@@ -1,42 +1,42 @@
-Le mail "bioinfo_2014-11_34" est globalement en : FRA
-[('ENG', 0.19315285896040035), ('FRA', 0.29531888704593623)]
+Le mail "bioinfo_2014-11_34" est globalement en : french (conflict)
+[('french', 0.3900633028633177), ('english', 0.49581319928833834)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Gtpb] CSDM14 - Chromosome structure determination using modelling
  and Hi-C data - Bioinformatics Training Course - Announcement/Reminder
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	
 Dear GTPB members,
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Last 3 seats available for the CSDM14 Bioinformatics training course:
 "Chromosome structure determination using modelling and Hi-C data".
 Nov. 25th-28th
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Deadline: November 15th 2014.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	http://gtpb.igc.gulbenkian.pt/bicourses/CSDM14/
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	Best wishes
 Pedro
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	-- 
 Pedro Fernandes
 Instituto Gulbenkian de Ciência
@@ -47,7 +47,7 @@ Tel +351 21 4407912
 http://gtpb.igc.gulbenkian.pt
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	_______________________________________________
 Gtpb mailing list
 Gtpb@igc.gulbenkian.pt
@@ -59,14 +59,14 @@ https://lists.igc.gulbenkian.pt/mailman/listinfo/gtpb
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 Dear GTPB members,
 
 Last 3 seats available for the CSDM14 Bioinformatics training course:
 "Chromosome structure determination using modelling and Hi-C data".
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Nov. 25th-28th
 
 Deadline: November 15th 2014.

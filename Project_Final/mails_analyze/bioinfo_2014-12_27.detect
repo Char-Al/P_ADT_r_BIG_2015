@@ -1,17 +1,17 @@
-Le mail "bioinfo_2014-12_27" est globalement en : ENG
-[('ENG', 0.2748939136562255), ('FRA', 0.598928452314516)]
+Le mail "bioinfo_2014-12_27" est globalement en : english
+[('english', 0.11201545409567995), ('french', 0.39022184936037707)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] EMGM 2015 - Call for abstract and early-bird registrati​on
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Dear colleagues,
 The abstract submission and early-bird registration for the 43rd
 European Mathematical Genetics Meeting are now open.
@@ -28,7 +28,7 @@ Abstracts will be published in the April issue of Human Heredity.
 Looking forward to seeing you in Brest,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	--
 Emmanuelle Génin
 Inserm U1078, Génétique, Génomique fonctionnelle et Biotechnologies
@@ -43,15 +43,15 @@ Tel 02.98.22.34.08
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Dear colleagues,
 The abstract submission and early-bird registration for the 43rd
 European Mathematical Genetics Meeting are now open.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	The meeting will take place April 16-17, 2015 in Brest, France.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	You will find information on the venue and links for abstract
 submission and registration on our website:
 https://sites.google.com/site/emgmbrest/
@@ -61,10 +61,10 @@ Important deadlines:
 All abstracts presenting methodological works in genetics, genetic
 epidemiology, population and evolutionary genetics are welcome.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Abstracts will be published in the April issue of Human Heredity.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Looking forward to seeing you in Brest,
 
 --

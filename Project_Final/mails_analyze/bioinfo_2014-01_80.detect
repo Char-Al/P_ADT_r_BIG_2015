@@ -1,35 +1,35 @@
-Le mail "bioinfo_2014-01_80" est globalement en : FRA
-[('ENG', 1.0392890153265728), ('FRA', 1.9497160349965679)]
+Le mail "bioinfo_2014-01_80" est globalement en : french
+[('french', 0.3213519480705065), ('english', 3.746749490146561)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Formations...
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Deux annonces récentes portant sur des formations m'ont interpellé :
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	http://listes.sfbi.fr/wws/arc/bioinfo/2014-01/msg00065.html
 http://listes.sfbi.fr/wws/arc/bioinfo/2014-01/msg00039.html
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Malgré leur intérêt d'actualité, leur prix sont élevés, même pour les 
 académiques.
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Concernant R et les statistiques, j'ai suivi des formations réalisées 
 par AnaStats au cours de ces 5 dernières années (et bien avant). J'ai 
 beaucoup apprécié le contenu et la pédagogie. Le prix pour 2014 est 
@@ -38,19 +38,19 @@ intervenant(e)s travaillent fréquemment pour la recherche, milieu dont
 sont issus la plupart. N'hésitez à les contacter.
 
 ==========================================
-Le paragraphe 6 est en : ENG
+Le paragraphe 6 est en : english
 	http://www.anastats.fr/stats/Formations.htm
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	La page de téléchargement propose des outils pratiques.
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	http://www.anastats.fr/stats/Telechargement.htm
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	En espérant que cela aide certain(e)s à progresser à moindre coût,
 Samuel
 -- 
@@ -63,7 +63,7 @@ INSERM - CRCM                      Tel: +33  (0)486 97 73 01
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Deux annonces récentes portant sur des formations m'ont interpellé :
@@ -74,35 +74,35 @@ http://listes.sfbi.fr/wws/arc/bioinfo/2014-01/msg00039.html
 Malgré leur intérêt d'actualité, leur prix sont élevés, même pour les 
 académiques.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Concernant R et les statistiques, j'ai suivi des formations réalisées 
 par AnaStats au cours de ces 5 dernières années (et bien avant).
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	J'ai 
 beaucoup apprécié le contenu et la pédagogie.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Le prix pour 2014 est 
 abordable.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Le catalogue est disponible sur la page ci-dessous.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Les 
 intervenant(e)s travaillent fréquemment pour la recherche, milieu dont 
 sont issus la plupart.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	N'hésitez à les contacter.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	http://www.anastats.fr/stats/Formations.htm
 
 La page de téléchargement propose des outils pratiques.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	http://www.anastats.fr/stats/Telechargement.htm
 
 En espérant que cela aide certain(e)s à progresser à moindre coût,

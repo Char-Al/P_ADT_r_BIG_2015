@@ -1,30 +1,30 @@
-Le mail "bioinfo_2014-06_82" est globalement en : ENG
-[('ENG', 0.12716179251163787), ('FRA', 0.15975186395450267)]
+Le mail "bioinfo_2014-06_82" est globalement en : english
+[('english', 0.1281712683334924), ('french', 0.40158235452571567)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] Postdoc/Research Engineer Image Analysis Position Available at Ecole
  Normale Superieure
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	
 High Throughput Image and Data analysis of cell division orientation
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	The Computational Biology & Bioinformatic Platform and the Cell Division 
 and Neurogenesis group (Institut of Biology of Ecole Normale Supérieure) 
 are jointly seeking for a highly motivated post-doctoral researcher or 
 research engineer in image and data analysis.
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : french
 	The overall goal of this interdisciplinary project is to study the 
 molecular regulation of mitotic spindle orientation in vertebrate cells, 
 with a focus on the Gαi/LGN/NuMA molecular pathway. The lab has set-up a 
@@ -35,7 +35,7 @@ to perform analysis of thousands of image sequences of cell division
 generated in the live screen in a fully automated fashion.
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The candidate should hold a PhD degree in computer science and have a 
 good background in image and data analysis (although candidates with a 
 master degree showing promising ability will definitely be interviewed 
@@ -46,7 +46,7 @@ in applied mathematics/statistics, a good English level and a perfect
 knowledge of a programming language such as Python, Java or R.
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	The call will close on July 15, 2014. Future candidates will be selected 
 and notified for an interview between July 15th and 31st, 2014. The 
 starting date is October 2014. The position, funded by the Agence 
@@ -54,14 +54,14 @@ Nationale de la Recherche, is initially available for one year, with the
 possibility of further extension.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Applicants should send a CV, a motivation letter and contact details of 
 2 references to:
 Auguste Genovesio, auguste.genovesio@ens.fr, Tel : 33 1 44 32 23 54 or
 Xavier Morin, xavier.morin@ens.fr Tel: +33 1 44 32 37 29
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Recent selected references
 - Neuron, 2014, 81(3):505
 - PLoS One. 2013;8(2)
@@ -70,7 +70,7 @@ Le paragraphe 7 est en : FRA
 - J Biomol Screen. 2011 Oct;16(9)
 
 ==========================================
-Le paragraphe 8 est en : n
+Le paragraphe 8 est en : non detect
 	
 
 ==========================================
@@ -78,7 +78,7 @@ Le paragraphe 8 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
 High Throughput Image and Data analysis of cell division orientation
 
@@ -87,54 +87,54 @@ and Neurogenesis group (Institut of Biology of Ecole Normale Supérieure)
 are jointly seeking for a highly motivated post-doctoral researcher or 
 research engineer in image and data analysis.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : french
 	The overall goal of this interdisciplinary project is to study the 
 molecular regulation of mitotic spindle orientation in vertebrate cells, 
 with a focus on the Gαi/LGN/NuMA molecular pathway.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	The lab has set-up a 
 standardized spindle orientation assay in cultured cells in vitro, in 
 order to perform a live RNAi screen for new modulators and effectors of 
 this core pathway.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	The work will mainly consist in developing a system 
 to perform analysis of thousands of image sequences of cell division 
 generated in the live screen in a fully automated fashion.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	The candidate should hold a PhD degree in computer science and have a 
 good background in image and data analysis (although candidates with a 
 master degree showing promising ability will definitely be interviewed 
 and should not hesitate to apply).
 ==========================================
-La phrase 6 est en : ENG
+La phrase 6 est en : english
 	A previous experience in a 
 collaborative environment such as a research Institute in Biology would 
 be considered a plus.
 ==========================================
-La phrase 7 est en : ENG
+La phrase 7 est en : english
 	The candidate should also have a good background 
 in applied mathematics/statistics, a good English level and a perfect 
 knowledge of a programming language such as Python, Java or R.
 
 The call will close on July 15, 2014.
 ==========================================
-La phrase 8 est en : ENG
+La phrase 8 est en : english
 	Future candidates will be selected 
 and notified for an interview between July 15th and 31st, 2014.
 ==========================================
-La phrase 9 est en : ENG
+La phrase 9 est en : english
 	The 
 starting date is October 2014.
 ==========================================
-La phrase 10 est en : ENG
+La phrase 10 est en : english
 	The position, funded by the Agence 
 Nationale de la Recherche, is initially available for one year, with the 
 possibility of further extension.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Applicants should send a CV, a motivation letter and contact details of 
 2 references to:
 Auguste Genovesio, auguste.genovesio@ens.fr, Tel : 33 1 44 32 23 54 or
@@ -144,16 +144,16 @@ Recent selected references
 - Neuron, 2014, 81(3):505
 - PLoS One.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	2013;8(2)
 - Developmental Cell, 2011, 21(1):102
 - The Journal of Cell Biology, 2011.
 ==========================================
-La phrase 13 est en : FRA
+La phrase 13 est en : french
 	193(1):141
 - J Biomol Screen.
 ==========================================
-La phrase 14 est en : ENG
+La phrase 14 est en : english
 	2011 Oct;16(9)
 
 

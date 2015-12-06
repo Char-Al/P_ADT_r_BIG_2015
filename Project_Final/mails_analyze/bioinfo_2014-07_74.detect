@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_74" est globalement en : FRA
-[('FRA', 0.18952419931055425), ('ENG', 6.931683145783193)]
+Le mail "bioinfo_2014-07_74" est globalement en : french
+[('french', 0.2633570656480066), ('english', 1.4209543722635258)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] Approches bioinformatiques et biostatistiques pour l'analyse des donnéesgénomiquesà haut débit et l'analyse des réseauxmoléculaires du tissu adipeux.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Approches bioinformatiques et biostatistiques pour
 l'analyse des données génomiques à haut débit et l'analyse des réseaux
 moléculaires du tissu adipeux.
@@ -28,12 +28,12 @@ Email du contact : nathalie.viguerie@inserm.fr
 Laboratoire : INSERM I2MC Laboratoire de Recherche sur les obésités
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/approches-bioinformatiques-et-biostatistiques-pour-lanalyse-des-donn%C3%A9es-g%C3%A9nomiques-%C3%A0-haut-d%C3%A9
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -41,7 +41,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
@@ -49,7 +49,7 @@ Intitulé du poste : Approches bioinformatiques et biostatistiques pour
 l'analyse des données génomiques à haut débit et l'analyse des réseaux
 moléculaires du tissu adipeux.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Type de poste : Post-doc / IR
 Durée du poste : 24 mois
 Ville : Toulouse

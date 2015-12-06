@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-02_94" est globalement en : FRA
-[('ENG', 0.8653043968222804), ('FRA', 0.874693503039452)]
+Le mail "bioinfo_2014-02_94" est globalement en : french
+[('french', 0.7693749602285812), ('english', 0.8991706798307285)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][Post-doc / IR] CDD IR/PostDoc Bioinformatique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : CDD IR/PostDoc Bioinformatique
 Type de poste : Post-doc / IR
 Durée du poste : 1 an
@@ -26,7 +26,7 @@ Laboratoire : LBDV Laboratoire de Biologie du Développement de
 Villefranche/mer
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/cdd-irpostdoc-bioinformatique
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/cdd-irpostdoc-bioinformatique
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : CDD IR/PostDoc Bioinformatique

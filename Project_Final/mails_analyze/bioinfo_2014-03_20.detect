@@ -1,53 +1,53 @@
-Le mail "bioinfo_2014-03_20" est globalement en : FRA
-[('FRA', 1.0354116367126374), ('ENG', 82.84588628755311)]
+Le mail "bioinfo_2014-03_20" est globalement en : french
+[('french', 0.07903826050700558), ('english', 0.961824237430684)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Poste de Professeur à Bordeaux - LaBRI
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour à toutes et tous,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Un poste de Professeur est ouvert à Bordeaux au LaBRI, avec comme équipe 
 d'intégration MABioVis (Modèles et Algorithmes pour la Biologie et la 
 Visualisation d'informations). Voir toutes les précisions ci-dessous.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Cordialement.
 Isabelle Dutour
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	#############################################################################
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	L'Université de Bordeaux recrute un Professeur en Informatique (27e 
 section)
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Profil : Informatique : données massives, bio-informatique
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Date de clôture des candidatures : 1er avril 2014, 16h
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Date prévisionnelle des auditions: 23 mai 2014
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	Son activité de recherche se fera au sein du Laboratoire Bordelais de 
 Recherche en Informatique (LaBRI, UMR 5800 CNRS).
 Il s'insérera en priorité dans l'équipe MABioVis (Modèles et Algorithmes 
@@ -57,34 +57,34 @@ CoBalt (Biologie Computationnelle)
 EVADOM (Exploration Visuelle et Analytique de Données Massives)
 
 ==========================================
-Le paragraphe 10 est en : FRA
+Le paragraphe 10 est en : french
 	Son activité d'enseignement se fera au sein de l'Unité de Formation 
 d'Informatique du collège Sciences et Technologies de l’Université de 
 Bordeaux.
 
 ==========================================
-Le paragraphe 11 est en : FRA
+Le paragraphe 11 est en : french
 	Les candidatures extérieures sont vivement encouragées.
 L'excellence du dossier scientifique et du projet de recherche sera 
 déterminante.
 
 ==========================================
-Le paragraphe 12 est en : FRA
+Le paragraphe 12 est en : french
 	Les candidat-e-s sont vivement encouragé-e-s à contacter :
 
 ==========================================
-Le paragraphe 13 est en : FRA
+Le paragraphe 13 est en : french
 	* la responsable actuelle du département d'enseignement :
 Jenny Benois-Pineau : jenny.benois@labri.fr
 
 ==========================================
-Le paragraphe 14 est en : FRA
+Le paragraphe 14 est en : french
 	* les deux responsables de thème de l'équipe MABioVis :
 CoBalt : Isabelle Dutour : isabelle.dutour@labri.fr
 EVADOM : Romain Bourqui : romain.bourqui@labri.fr
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Il faut déposer sa candidature sur le site du Ministère et sur le site 
 de l'Université
 Pour plus d'informations, consulter le site du LaBRI onglet 
@@ -94,12 +94,12 @@ et le site de l'Université, avec la procédure :
 http://www.u-bordeaux.fr/Actualites/De-l-universite/Concours-enseignants-chercheurs 
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Lien vers le profil du poste sur Galaxy :
 https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/ListesPostesPublies/ANTEE/2014_1/0333298F/FOPC_0333298F_16.pdf 
 
 ==========================================
-Le paragraphe 17 est en : n
+Le paragraphe 17 est en : non detect
 	
 
 ==========================================
@@ -107,20 +107,20 @@ Le paragraphe 17 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour à toutes et tous,
 
 Un poste de Professeur est ouvert à Bordeaux au LaBRI, avec comme équipe 
 d'intégration MABioVis (Modèles et Algorithmes pour la Biologie et la 
 Visualisation d'informations).
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	Voir toutes les précisions ci-dessous.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Cordialement.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Isabelle Dutour
 
 #############################################################################
@@ -137,7 +137,7 @@ Date prévisionnelle des auditions: 23 mai 2014
 Son activité de recherche se fera au sein du Laboratoire Bordelais de 
 Recherche en Informatique (LaBRI, UMR 5800 CNRS).
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Il s'insérera en priorité dans l'équipe MABioVis (Modèles et Algorithmes 
 pour la Biologie et la Visualisation d'informations), dans l'un ou 
 l'autre de ses thèmes de recherche :
@@ -148,14 +148,14 @@ Son activité d'enseignement se fera au sein de l'Unité de Formation
 d'Informatique du collège Sciences et Technologies de l’Université de 
 Bordeaux.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Les candidatures extérieures sont vivement encouragées.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	L'excellence du dossier scientifique et du projet de recherche sera 
 déterminante.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Les candidat-e-s sont vivement encouragé-e-s à contacter :
 
 * la responsable actuelle du département d'enseignement :

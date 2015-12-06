@@ -1,28 +1,28 @@
-Le mail "bioinfo_2014-01_55" est globalement en : FRA
-[('FRA', 0.6565654127607685), ('ENG', 49.890195874029466)]
+Le mail "bioinfo_2014-01_55" est globalement en : french
+[('french', 0.03811317639525857), ('english', 3.2677235314606055)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] poste MCF (CNU 27) en bioinformatique à Paris Sud - Orsay
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Bonjour,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Un poste de maître de conférences (CNU 27) en bioinformatique à 
 l'université Paris-Sud va être ouvert pour la rentrée 2014 (poste MCF n° 
 760 sur Galaxie). La recherche s'effectuera au sein de l'équipe Bioinfo 
 du LRI (http://bioinfo.lri.fr/).
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	Le but de l’équipe Bioinfo est de concevoir et développer de nouvelles 
 méthodes informatiques pour résoudre des problèmes issus de la grande 
 masse de données biologiques disponibles. A cet égard, l’équipe est 
@@ -37,7 +37,7 @@ systèmes et/ou en biologie structurale. Une expérience du travail
 interdisciplinaire avec des collaborateurs biologistes sera un plus.
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	En ce qui concerne l'enseignement, la personne recrutée pourra 
 intervenir dans toutes les filières relevant du département informatique 
 (Faculté des Sciences), certaines étant des formations par 
@@ -47,27 +47,27 @@ option du L3 Informatique et dans le Master de Bioinformatique et
 Biostatistiques (M1 et M2).
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Il est à noter qu'à la Faculté des Sciences de l'université Paris-Sud, 
 un maître de conférences nouvellement recruté effectue un service de 
 150h EQ-TD/an pendant deux ans.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Les auditions des candidats retenus à l'issue de la présélection auront 
 lieu le mardi 20 mai 2014.
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Personnes à contacter pour l'équipe Bioinfo :
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Alain Denise (Alain.Denise@lri.fr) et
 Christine Froidevaux (Christine.Froidevaux@lri.fr)
 
 ==========================================
-Le paragraphe 9 est en : n
+Le paragraphe 9 est en : non detect
 	
 
 ==========================================
@@ -75,63 +75,63 @@ Le paragraphe 9 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Bonjour,
 
 Un poste de maître de conférences (CNU 27) en bioinformatique à 
 l'université Paris-Sud va être ouvert pour la rentrée 2014 (poste MCF n° 
 760 sur Galaxie).
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	La recherche s'effectuera au sein de l'équipe Bioinfo 
 du LRI (http://bioinfo.lri.fr/).
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Le but de l’équipe Bioinfo est de concevoir et développer de nouvelles 
 méthodes informatiques pour résoudre des problèmes issus de la grande 
 masse de données biologiques disponibles.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	A cet égard, l’équipe est 
 impliquée dans d’étroites collaborations avec des équipes de biologistes.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Son programme scientifique est structuré en deux thèmes :
 - Bioinformatique structurale
 - Biologie des Systèmes (comprenant l’intégration des données).
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Dans ce contexte, le Maître de Conférences aura la capacité de conduire 
 des recherches dans au moins l'un des domaines suivants: fouille de 
 données, algorithmique, combinatoire, et les appliquera en biologie des 
 systèmes et/ou en biologie structurale.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	Une expérience du travail 
 interdisciplinaire avec des collaborateurs biologistes sera un plus.
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	En ce qui concerne l'enseignement, la personne recrutée pourra 
 intervenir dans toutes les filières relevant du département informatique 
 (Faculté des Sciences), certaines étant des formations par 
 apprentissage, ainsi que dans le cursus ingénieur à Polytech.
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Elle 
 contribuera en particulier aux enseignements de bioinformatique en 
 option du L3 Informatique et dans le Master de Bioinformatique et 
 Biostatistiques (M1 et M2).
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Il est à noter qu'à la Faculté des Sciences de l'université Paris-Sud, 
 un maître de conférences nouvellement recruté effectue un service de 
 150h EQ-TD/an pendant deux ans.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	Les auditions des candidats retenus à l'issue de la présélection auront 
 lieu le mardi 20 mai 2014.
 ==========================================
-La phrase 12 est en : FRA
+La phrase 12 est en : french
 	Personnes à contacter pour l'équipe Bioinfo :
 
 Alain Denise (Alain.Denise@lri.fr) et

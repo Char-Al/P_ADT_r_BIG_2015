@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-05_75" est globalement en : FRA
-[('FRA', 0.3335228328753754), ('ENG', 2.680890835283231)]
+Le mail "bioinfo_2014-05_75" est globalement en : french
+[('french', 0.2983835253334984), ('english', 1.4552830022465457)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] [Emploi][CDD Ingénieur ] Ingénieur Informatique - Développements logiciels pour une plateforme protéomique
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Ingénieur Informatique - Développements logiciels pour
 une plateforme protéomique
 Type de poste : CDD Ingénieur
@@ -28,12 +28,12 @@ Laboratoire : Etude de la Dynamique des Protéomes / Laboratoire Biologie à
 Grande Echelle (U1038) - CEA/CNRS
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/ing%C3%A9nieur-informatique-d%C3%A9veloppements-logiciels-pour-une-plateforme-prot%C3%A9omique
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -41,7 +41,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	
 Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 

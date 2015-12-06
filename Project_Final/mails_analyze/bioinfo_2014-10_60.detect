@@ -1,21 +1,21 @@
-Le mail "bioinfo_2014-10_60" est globalement en : ENG
-[('ENG', 0.22520098730421642), ('FRA', 0.5755995365579633)]
+Le mail "bioinfo_2014-10_60" est globalement en : english (conflict)
+[('english', 0.4579130231502425), ('french', 0.5308868987548025)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] high-throughput data analysis in a Cancer Computational Systems Biology project at Institut Curie
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	Intitulé du poste : high-throughput data analysis in a Cancer Computational  
 Systems Biology project at Institut Curie
 Type de poste : Post-doc / IR
@@ -26,7 +26,7 @@ Email du contact : bcsb70@curie.fr
 Laboratoire : Institut Curie - INSERM U900 / Mines ParisTech
 
 ==========================================
-Le paragraphe 3 est en : ENG
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur  
 http://www.sfbi.fr/content/high-throughput-data-analysis-cancer-computational-systems-biology-project-institut-curie
 
@@ -36,7 +36,7 @@ http://www.sfbi.fr/content/high-throughput-data-analysis-cancer-computational-sy
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 Intitulé du poste : high-throughput data analysis in a Cancer Computational  

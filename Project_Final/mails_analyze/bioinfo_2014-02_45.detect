@@ -1,49 +1,49 @@
-Le mail "bioinfo_2014-02_45" est globalement en : FRA
-[('FRA', 1.342464138179046), ('ENG', 18.370940761823928)]
+Le mail "bioinfo_2014-02_45" est globalement en : french
+[('french', 0.04630074613585083), ('english', 1.0842279699051243)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : FRA
+Le sujet du mail est en : french
 Subject : [bioinfo] Maître de Conférences en Bioinformatique Marseille
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	Cher(e)s membres de la liste BioInfo,
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Aix-Marseille Université recrute un Maître de Conférences en Bioinformatique qui effectuera son activité de recherche au TAGC. 
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	L'intitulé court du profil recherche et enseignement est la bioinformatique pour la génomique.  
 
 ==========================================
-Le paragraphe 4 est en : FRA
+Le paragraphe 4 est en : french
 	Le projet de recherche sinsérera dans les thématiques existantes du TAGC et plus particulièrement dans celles relatives au développement d'approches bioinformatiques pour l'analyse des données génomiques à haut débit et pour la construction, la visualisation ou l'analyse des réseaux moléculaires. Le (ou la) candidat(e) justifiera d'une expérience dans ces domaines. Ces compétences seront exploitées dans le cadre de projets concernant les réseaux d'interactions moléculaires et les réseaux de régulation impliqués dans les pathologies étudiées au laboratoire. 
 
 ==========================================
-Le paragraphe 5 est en : FRA
+Le paragraphe 5 est en : french
 	Prendre contact pour le volet recherche avec Benoît Ballester <benoit.ballester@inserm.fr>, Jacques van Helden <Jacques.van-Helden@univ-amu.fr>, ou Christine Brun < brun@tagc.univ-mrs.fr>. 
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	La personne recrutée participera aux enseignements de Bioinformatique au niveau de la licence (L1, L2, ou L3) et/ou au niveau du master BBSG (M1 ou M2). Il ou elle pourra être impliqué(e) dans un module mutualisé avec dautres masters de Biologie (DI et MBVB). 
 
 ==========================================
-Le paragraphe 7 est en : FRA
+Le paragraphe 7 est en : french
 	Prendre contact pour le volet enseignement avec Pascal Rihet <pascal.rihet@univ-amu.fr>. 
 
 ==========================================
-Le paragraphe 8 est en : FRA
+Le paragraphe 8 est en : french
 	Le profil et les modalités pratiques du concours seront publiés prochainement sur le site GALAXIE dans le cadre de la session synchronisée.
 
 ==========================================
-Le paragraphe 9 est en : FRA
+Le paragraphe 9 est en : french
 	--
 Benoît Ballester, PhD
 Inserm U1090, TAGC
@@ -57,40 +57,40 @@ France
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Cher(e)s membres de la liste BioInfo,
 
 
 Aix-Marseille Université recrute un Maître de Conférences en Bioinformatique qui effectuera son activité de recherche au TAGC.
 ==========================================
-La phrase 2 est en : FRA
+La phrase 2 est en : french
 	L'intitulé court du profil recherche et enseignement est la bioinformatique pour la génomique.
 ==========================================
-La phrase 3 est en : FRA
+La phrase 3 est en : french
 	Le projet de recherche sinsérera dans les thématiques existantes du TAGC et plus particulièrement dans celles relatives au développement d'approches bioinformatiques pour l'analyse des données génomiques à haut débit et pour la construction, la visualisation ou l'analyse des réseaux moléculaires.
 ==========================================
-La phrase 4 est en : FRA
+La phrase 4 est en : french
 	Le (ou la) candidat(e) justifiera d'une expérience dans ces domaines.
 ==========================================
-La phrase 5 est en : FRA
+La phrase 5 est en : french
 	Ces compétences seront exploitées dans le cadre de projets concernant les réseaux d'interactions moléculaires et les réseaux de régulation impliqués dans les pathologies étudiées au laboratoire.
 ==========================================
-La phrase 6 est en : FRA
+La phrase 6 est en : french
 	Prendre contact pour le volet recherche avec Benoît Ballester <benoit.ballester@inserm.fr>, Jacques van Helden <Jacques.van-Helden@univ-amu.fr>, ou Christine Brun < brun@tagc.univ-mrs.fr>.
 ==========================================
-La phrase 7 est en : FRA
+La phrase 7 est en : french
 	La personne recrutée participera aux enseignements de Bioinformatique au niveau de la licence (L1, L2, ou L3) et/ou au niveau du master BBSG (M1 ou M2).
 ==========================================
-La phrase 8 est en : FRA
+La phrase 8 est en : french
 	Il ou elle pourra être impliqué(e) dans un module mutualisé avec dautres masters de Biologie (DI et MBVB).
 ==========================================
-La phrase 9 est en : FRA
+La phrase 9 est en : french
 	Prendre contact pour le volet enseignement avec Pascal Rihet <pascal.rihet@univ-amu.fr>.
 ==========================================
-La phrase 10 est en : FRA
+La phrase 10 est en : french
 	Le profil et les modalités pratiques du concours seront publiés prochainement sur le site GALAXIE dans le cadre de la session synchronisée.
 ==========================================
-La phrase 11 est en : FRA
+La phrase 11 est en : french
 	--
 Benoît Ballester, PhD
 Inserm U1090, TAGC

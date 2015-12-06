@@ -1,22 +1,22 @@
-Le mail "bioinfo_2014-07_94" est globalement en : FRA
-[('ENG', 0.1698768140011944), ('FRA', 0.2821771810148449)]
+Le mail "bioinfo_2014-07_94" est globalement en : french
+[('french', 0.4314956553779474), ('english', 0.5453703018613208)]
 Language by Stop Words : french
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] [Emploi][Post-doc / IR] Bioinformatics Understanding genome structure
  and function: Transcription and epigenetics
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : FRA
+Le paragraphe 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 ==========================================
-Le paragraphe 2 est en : FRA
+Le paragraphe 2 est en : french
 	Intitulé du poste : Bioinformatics Understanding genome structure and
 function: Transcription and epigenetics
 Type de poste : Post-doc / IR
@@ -27,12 +27,12 @@ Email du contact : furlong@embl.de
 Laboratoire : EMBL - Furlong Lab
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : english
 	Voir la description complète du poste sur
 http://www.sfbi.fr/content/bioinformatics-understanding-genome-structure-and-function-transcription-and-epigenetics
 
 ==========================================
-Le paragraphe 4 est en : n
+Le paragraphe 4 est en : non detect
 	
 
 ==========================================
@@ -40,7 +40,7 @@ Le paragraphe 4 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : FRA
+La phrase 1 est en : french
 	Une nouvelle offre d'emploi vient d'être postée sur le site www.sfbi.fr
 
 

@@ -1,32 +1,32 @@
-Le mail "bioinfo_2014-05_40" est globalement en : ENG
-[('ENG', 0.3774841824902133), ('FRA', 1.470885157019248)]
+Le mail "bioinfo_2014-05_40" est globalement en : english
+[('english', 0.07554409935432244), ('french', 0.7578019111250164)]
 Language by Stop Words : english
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le sujet du mail est en : ENG
+Le sujet du mail est en : english
 Subject : [bioinfo] BioNetVisA workshop at ECCB2014: from biological network to data
  analysis in biology and medicine
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Le paragraphe 1 est en : ENG
+Le paragraphe 1 est en : english
 	
                                BioNetVisA workshop at ECCB2014
 
 ==========================================
-Le paragraphe 2 est en : ENG
+Le paragraphe 2 est en : english
 	 From biological network reconstruction to data visualization and 
 analysis in molecular biology and medicine.
 
 ==========================================
-Le paragraphe 3 est en : FRA
+Le paragraphe 3 est en : french
 	    ****  ABSTRACT SUBMISSION DEADLINE: JUNE 6th  ****
 
 ==========================================
-Le paragraphe 4 est en : ENG
+Le paragraphe 4 est en : english
 	The workshop will take place in Strasbourg, France, on September 7th, 
 2014 as part of the European Conference on Computational Biology ECCB’14
 The abstracts submission for talks and posters is open
@@ -34,73 +34,73 @@ https://sysbio.curie.fr/bionetvisa
 http://www.eccb14.org/program/workshops/bionetvisa
 
 ==========================================
-Le paragraphe 5 est en : ENG
+Le paragraphe 5 est en : english
 	A travel fellowship for funding participation of young researchers will 
 be available. Priority will be given to selected speakers.
 
 ==========================================
-Le paragraphe 6 est en : FRA
+Le paragraphe 6 est en : french
 	Topics:
 
 ==========================================
-Le paragraphe 7 est en : ENG
+Le paragraphe 7 est en : english
 	- Molecular interaction and pathway databases
 
 ==========================================
-Le paragraphe 8 est en : ENG
+Le paragraphe 8 est en : english
 	- Networks annotation and curation
 
 ==========================================
-Le paragraphe 9 est en : ENG
+Le paragraphe 9 est en : english
 	- High-throughput data visualisation, analysis and interpretation in the 
 context of networks
 
 ==========================================
-Le paragraphe 10 est en : ENG
+Le paragraphe 10 est en : english
 	- Graphical representation of biological knowledge
 
 ==========================================
-Le paragraphe 11 est en : ENG
+Le paragraphe 11 est en : english
 	- Network modelling
 
 ==========================================
-Le paragraphe 12 est en : ENG
+Le paragraphe 12 est en : english
 	- Basic research and clinical application of networks
 
 ==========================================
-Le paragraphe 13 est en : ENG
+Le paragraphe 13 est en : english
 	Keynote speakers:
 
 ==========================================
-Le paragraphe 14 est en : ENG
+Le paragraphe 14 est en : english
 	Tom Freeman (University of Edinburgh, Edinburgh, UK)
 Yosef Yarden (The Weizmann Institut of Science, Rehovot, Israel)
 
 ==========================================
-Le paragraphe 15 est en : ENG
+Le paragraphe 15 est en : english
 	Confirmed speakers:
 
 ==========================================
-Le paragraphe 16 est en : ENG
+Le paragraphe 16 est en : english
 	Robin Haw (Ontario Institute for Cancer Research, Toronto, Canada)
 Henning Hermjakob (EMBL-European Bioinformatics Institute, Hinxton, UK)
 Inna Kuperstein (Institut Curie, Paris, France)
 Vladimir Kuznetsov (Bioinformatics Institute, Biopolis Singapore)
 
 ==========================================
-Le paragraphe 17 est en : ENG
+Le paragraphe 17 est en : english
 	Please spread the word and forward this advertisement to your colleagues.
 
 ==========================================
-Le paragraphe 18 est en : ENG
+Le paragraphe 18 est en : english
 	If you have any question, contact us at bionetvisa@curie.fr
 
 ==========================================
-Le paragraphe 19 est en : ENG
+Le paragraphe 19 est en : english
 	BioNetVisA workshop organising committee:
 
 ==========================================
-Le paragraphe 20 est en : ENG
+Le paragraphe 20 est en : english
 	Inna Kuperstein, Emmanuel Barillot, Andrei Zinovyev (Institut Curie, 
 Paris, France)
 Hiroaki Kitano (Okinawa Institute of Science and Technology Graduate 
@@ -111,7 +111,7 @@ Mario Albrecht (University Medicine Greifswald, Greifswald, Germany)
 Benno Schwikowski (Institut Pasteur, France)
 
 ==========================================
-Le paragraphe 21 est en : n
+Le paragraphe 21 est en : non detect
 	
 
 ==========================================
@@ -119,7 +119,7 @@ Le paragraphe 21 est en : n
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++
-La phrase 1 est en : ENG
+La phrase 1 est en : english
 	
                                BioNetVisA workshop at ECCB2014
 
@@ -127,7 +127,7 @@ La phrase 1 est en : ENG
  From biological network reconstruction to data visualization and 
 analysis in molecular biology and medicine.
 ==========================================
-La phrase 2 est en : ENG
+La phrase 2 est en : english
 	****  ABSTRACT SUBMISSION DEADLINE: JUNE 6th  ****
 
 
@@ -141,10 +141,10 @@ http://www.eccb14.org/program/workshops/bionetvisa
 A travel fellowship for funding participation of young researchers will 
 be available.
 ==========================================
-La phrase 3 est en : ENG
+La phrase 3 est en : english
 	Priority will be given to selected speakers.
 ==========================================
-La phrase 4 est en : ENG
+La phrase 4 est en : english
 	Topics:
 
 
@@ -182,7 +182,7 @@ Vladimir Kuznetsov (Bioinformatics Institute, Biopolis Singapore)
 
 Please spread the word and forward this advertisement to your colleagues.
 ==========================================
-La phrase 5 est en : ENG
+La phrase 5 est en : english
 	If you have any question, contact us at bionetvisa@curie.fr
 
 
